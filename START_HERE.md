@@ -6,7 +6,8 @@ Read this file before following the older repository routing in `CLAUDE.md`.
 
 ## Repository routing
 
-- The intended collaboration repository is `rowdybard/whetstorm-art`.
+- The private collaboration repository is
+  [rowdybard/whetstorm-art](https://github.com/rowdybard/whetstorm-art).
 - The owner's existing game repository remains `rowdybard/whetstorm`.
 - Work on art and UI feature branches here. Push recoverable checkpoints and
   open reviewable pull requests against this repository's `main`.
@@ -83,4 +84,3 @@ game repository's earlier history.
   work is running after an agent or process has stopped.
 - Run the relevant checks in the complete game checkout before integration.
   Record missing inputs and failed checks plainly. Never label unrun checks green.
-
