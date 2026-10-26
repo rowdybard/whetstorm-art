@@ -1,3 +1,5 @@
+> Private Whetstorm art and UI collaboration snapshot. Read [START_HERE.md](START_HERE.md) first. This source-only import omits media, tests and generated files.
+
 <div align="center">
 
 # World of ClaudeCraft
