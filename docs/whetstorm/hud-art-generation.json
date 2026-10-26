@@ -65,6 +65,38 @@
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-557a4a2d-7da1-4bf9-b3bb-23c2af233e8c.png",
       "masterPath": "docs/design/whetstorm-art/hud/chrome/book.png",
       "archivePath": "public/ui/chrome/book.png"
+    },
+    {
+      "id": "quest-available",
+      "family": "map-markers",
+      "prompt": "Use case: stylized-concept. Original Whetstorm map/minimap marker. A chunky GOLD EXCLAMATION MARK embossed upright on a small ROUND DARK IRON SHIELD, warm gold rim. The exclamation stem and separate dot must be very large and unmistakable. No other symbols. Square PNG1024x1024 on a fully transparent background. Original Whetstorm hand-painted stylized fantasy, very bold simple chunky silhouette, broad clean planes, thick near-black outline on the outer contour and essential internal divisions, very restrained detail, soft upper-left light. Center the complete object with a small safe margin. Must stay readable at18px. No scenery, decorative particles, extra frame, readable words, letters, logos or watermark. No photorealism or existing-game imitation. Actual alpha transparency, not a checkerboard.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-7cc1a45c-345c-4c52-880e-cebb7c25d46c.png",
+      "masterPath": "docs/design/whetstorm-art/hud/map-markers/quest-available.png",
+      "archivePath": "public/ui/map-markers/quest_available.png"
+    },
+    {
+      "id": "quest-ready",
+      "family": "map-markers",
+      "prompt": "Use case: stylized-concept. Original Whetstorm map/minimap marker. A chunky GOLD QUESTION MARK embossed upright on a small ROUND DARK IRON SHIELD, warm gold rim. The curved hook and separate dot must be very large and unmistakable. No other symbols. Square PNG1024x1024 on a fully transparent background. Original Whetstorm hand-painted stylized fantasy, very bold simple chunky silhouette, broad clean planes, thick near-black outline on the outer contour and essential internal divisions, very restrained detail, soft upper-left light. Center the complete object with a small safe margin. Must stay readable at18px. No scenery, decorative particles, extra frame, readable words, letters, logos or watermark. No photorealism or existing-game imitation. Actual alpha transparency, not a checkerboard.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-7d15ce9b-9e72-4d2a-b72d-60146cb09512.png",
+      "masterPath": "docs/design/whetstorm-art/hud/map-markers/quest-ready.png",
+      "archivePath": "public/ui/map-markers/quest_ready.png"
+    },
+    {
+      "id": "quest-repeat",
+      "family": "map-markers",
+      "prompt": "Use case: stylized-concept. Original Whetstorm map/minimap marker. A chunky BLUE EXCLAMATION MARK embossed upright on a small ROUND DARK IRON SHIELD with a blue steel rim. The exclamation stem and separate dot must be large. The blue exclamation identifies a repeatable quest; no arrows. Square PNG1024x1024 on a fully transparent background. Original Whetstorm hand-painted stylized fantasy, very bold simple chunky silhouette, broad clean planes, thick near-black outline on the outer contour and essential internal divisions, very restrained detail, soft upper-left light. Center the complete object with a small safe margin. Must stay readable at18px. No scenery, decorative particles, extra frame, readable words, letters, logos or watermark. No photorealism or existing-game imitation. Actual alpha transparency, not a checkerboard.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-8ce6bbec-f5a5-4f0c-863d-5d361c056004.png",
+      "masterPath": "docs/design/whetstorm-art/hud/map-markers/quest-repeat.png",
+      "archivePath": "public/ui/map-markers/quest_repeat.png"
+    },
+    {
+      "id": "quest-cooldown",
+      "family": "map-markers",
+      "prompt": "Use case: stylized-concept. Original Whetstorm map/minimap marker. A chunky GREY EXCLAMATION MARK upright on a small ROUND DARK IRON SHIELD, with one small but boldly shaped GOLD HOURGLASS overlapping the lower-right edge. Only those two symbols, no clock hands or numbers. Square PNG1024x1024 on a fully transparent background. Original Whetstorm hand-painted stylized fantasy, very bold simple chunky silhouette, broad clean planes, thick near-black outline on the outer contour and essential internal divisions, very restrained detail, soft upper-left light. Center the complete object with a small safe margin. Must stay readable at18px. No scenery, decorative particles, extra frame, readable words, letters, logos or watermark. No photorealism or existing-game imitation. Actual alpha transparency, not a checkerboard.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-b6da9c79-f12b-4a22-9ce4-667dbef1c76e.png",
+      "masterPath": "docs/design/whetstorm-art/hud/map-markers/quest-cooldown.png",
+      "archivePath": "public/ui/map-markers/quest_cooldown.png"
     }
   ]
 }
