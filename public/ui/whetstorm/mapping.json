@@ -1,0 +1,240 @@
+{
+  "project": "Whetstorm",
+  "source": "Original native SVG artwork; no bitmap references",
+  "assets": [
+    {
+      "path": "boss-frame.svg"
+    },
+    {
+      "path": "chrome/arena.svg"
+    },
+    {
+      "path": "chrome/bags.svg"
+    },
+    {
+      "path": "chrome/book.svg"
+    },
+    {
+      "path": "chrome/cards.svg"
+    },
+    {
+      "path": "chrome/character.svg"
+    },
+    {
+      "path": "chrome/chest.svg"
+    },
+    {
+      "path": "chrome/crafting.svg"
+    },
+    {
+      "path": "chrome/crown.svg"
+    },
+    {
+      "path": "chrome/dfinder.svg"
+    },
+    {
+      "path": "chrome/donate.svg"
+    },
+    {
+      "path": "chrome/emote.svg"
+    },
+    {
+      "path": "chrome/harvest-journal.svg"
+    },
+    {
+      "path": "chrome/leaderboard.svg"
+    },
+    {
+      "path": "chrome/map.svg"
+    },
+    {
+      "path": "chrome/perfecting.svg"
+    },
+    {
+      "path": "chrome/professions.svg"
+    },
+    {
+      "path": "chrome/questlog.svg"
+    },
+    {
+      "path": "chrome/social.svg"
+    },
+    {
+      "path": "chrome/spellbook.svg"
+    },
+    {
+      "path": "chrome/talents.svg"
+    },
+    {
+      "path": "classes/bladedancer.svg"
+    },
+    {
+      "path": "classes/brute.svg"
+    },
+    {
+      "path": "classes/bulwark.svg"
+    },
+    {
+      "path": "classes/cleric.svg"
+    },
+    {
+      "path": "classes/druid.svg"
+    },
+    {
+      "path": "classes/hunter.svg"
+    },
+    {
+      "path": "classes/mage.svg"
+    },
+    {
+      "path": "classes/paladin.svg"
+    },
+    {
+      "path": "classes/priest.svg"
+    },
+    {
+      "path": "classes/ranger.svg"
+    },
+    {
+      "path": "classes/rogue.svg"
+    },
+    {
+      "path": "classes/shaman.svg"
+    },
+    {
+      "path": "classes/stormcaller.svg"
+    },
+    {
+      "path": "classes/warden.svg"
+    },
+    {
+      "path": "classes/warlock.svg"
+    },
+    {
+      "path": "classes/warrior.svg"
+    },
+    {
+      "path": "currency/automaton_cog.svg"
+    },
+    {
+      "path": "currency/church_order_crest.svg"
+    },
+    {
+      "path": "currency/coin_copper.svg"
+    },
+    {
+      "path": "currency/coin_gold.svg"
+    },
+    {
+      "path": "currency/coin_silver.svg"
+    },
+    {
+      "path": "currency/delve_mark.svg"
+    },
+    {
+      "path": "currency/heroic_mark.svg"
+    },
+    {
+      "path": "currency/honor.svg"
+    },
+    {
+      "path": "currency/rift_watch_mark.svg"
+    },
+    {
+      "path": "currency/woc_token.svg"
+    },
+    {
+      "path": "cursor.svg"
+    },
+    {
+      "path": "mark.svg"
+    },
+    {
+      "path": "specs/druid/balance.svg"
+    },
+    {
+      "path": "specs/druid/feral.svg"
+    },
+    {
+      "path": "specs/druid/restoration.svg"
+    },
+    {
+      "path": "specs/hunter/beast_mastery.svg"
+    },
+    {
+      "path": "specs/hunter/marksmanship.svg"
+    },
+    {
+      "path": "specs/hunter/survival.svg"
+    },
+    {
+      "path": "specs/mage/arcane.svg"
+    },
+    {
+      "path": "specs/mage/fire.svg"
+    },
+    {
+      "path": "specs/mage/frost.svg"
+    },
+    {
+      "path": "specs/paladin/holy.svg"
+    },
+    {
+      "path": "specs/paladin/protection.svg"
+    },
+    {
+      "path": "specs/paladin/retribution.svg"
+    },
+    {
+      "path": "specs/priest/discipline.svg"
+    },
+    {
+      "path": "specs/priest/holy.svg"
+    },
+    {
+      "path": "specs/priest/shadow.svg"
+    },
+    {
+      "path": "specs/rogue/assassination.svg"
+    },
+    {
+      "path": "specs/rogue/combat.svg"
+    },
+    {
+      "path": "specs/rogue/subtlety.svg"
+    },
+    {
+      "path": "specs/shaman/elemental.svg"
+    },
+    {
+      "path": "specs/shaman/enhancement.svg"
+    },
+    {
+      "path": "specs/shaman/restoration.svg"
+    },
+    {
+      "path": "specs/warlock/affliction.svg"
+    },
+    {
+      "path": "specs/warlock/demonology.svg"
+    },
+    {
+      "path": "specs/warlock/destruction.svg"
+    },
+    {
+      "path": "specs/warrior/arms.svg"
+    },
+    {
+      "path": "specs/warrior/fury.svg"
+    },
+    {
+      "path": "specs/warrior/prot.svg"
+    },
+    {
+      "path": "status/boss.svg"
+    },
+    {
+      "path": "status/combat.svg"
+    }
+  ]
+}

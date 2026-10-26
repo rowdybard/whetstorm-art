@@ -13008,7 +13008,7 @@
     position: absolute;
     inset: -15px;
     z-index: 2;
-    background: url("/ui/ranks/elite-dragon-frame.webp") center / contain no-repeat;
+    background: url("/ui/whetstorm/boss-frame.svg") center / contain no-repeat;
     pointer-events: none;
   }
   #target-frame.boss .tf-move-btn {
@@ -15113,7 +15113,7 @@
     z-index: 100000;
     /* The SAME ornate arrow the mouse uses (--cursor-arrow / CURSOR_HAND), so the
      pad's pointer and the mouse's are one cursor rather than two designs. */
-    background: url("/ui/cursors/arrow.png") no-repeat center / contain;
+    background: url("/ui/whetstorm/cursor.svg") no-repeat center / contain;
     filter: drop-shadow(var(--art-shadow-sm));
   }
 
@@ -15151,7 +15151,7 @@
     display: none;
     pointer-events: none;
     z-index: 100001;
-    background: url("/ui/cursors/arrow.png") no-repeat center / contain;
+    background: url("/ui/whetstorm/cursor.svg") no-repeat center / contain;
     filter: drop-shadow(var(--art-shadow-sm));
   }
 

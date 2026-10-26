@@ -9222,7 +9222,7 @@
     height: 11px;
     border-radius: 50%;
     background:
-      url("/ui/currency/woc_token.webp") center / cover no-repeat,
+      url("/ui/whetstorm/currency/woc_token.svg") center / cover no-repeat,
       radial-gradient(circle at 35% 30%, #c9a3ff, #6b3fa0);
     box-shadow: 0 0 4px rgba(150, 90, 230, 0.5);
   }
@@ -9809,17 +9809,17 @@
   }
   .coin.g {
     background:
-      url("/ui/currency/coin_gold.webp") center / cover no-repeat,
+      url("/ui/whetstorm/currency/coin_gold.svg") center / cover no-repeat,
       radial-gradient(circle at 35% 30%, #ffe98a, #b8860b);
   }
   .coin.s {
     background:
-      url("/ui/currency/coin_silver.webp") center / cover no-repeat,
+      url("/ui/whetstorm/currency/coin_silver.svg") center / cover no-repeat,
       radial-gradient(circle at 35% 30%, #e8e8e8, #888);
   }
   .coin.c {
     background:
-      url("/ui/currency/coin_copper.webp") center / cover no-repeat,
+      url("/ui/whetstorm/currency/coin_copper.svg") center / cover no-repeat,
       radial-gradient(circle at 35% 30%, #e8a87a, #8b4513);
   }
 

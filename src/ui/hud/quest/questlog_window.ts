@@ -145,7 +145,7 @@ export class QuestLogWindow {
     this.selected = view.selectedQuestId;
 
     markDialogRoot(el, { labelledBy: 'quest-log-title' });
-    el.innerHTML = `<div class="panel-title ui-win-head"><img class="ui-win-art" src="/ui/chrome/questlog.webp" alt="" draggable="false"><span class="ui-win-title" id="quest-log-title">${esc(t('questUi.log.title'))}<span class="quest-muted ui-win-sub">${esc(
+    el.innerHTML = `<div class="panel-title ui-win-head"><img class="ui-win-art" src="/ui/whetstorm/chrome/questlog.svg" alt="" draggable="false"><span class="ui-win-title" id="quest-log-title">${esc(t('questUi.log.title'))}<span class="quest-muted ui-win-sub">${esc(
       t('questUi.log.summary', {
         active: this.questNumber(view.summary.active),
         completed: this.questNumber(view.summary.completed),

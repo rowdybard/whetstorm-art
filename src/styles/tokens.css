@@ -150,8 +150,8 @@
     --color-primary-glow-heavy: rgba(255, 209, 0, 0.4);
 
     /* resource bars / unit-frame states / auras (previously hardcoded across CSS + JS) */
-    --color-hp: #1eb838;
-    --color-mana: #2b7bd4;
+    --color-hp: #32c799;
+    --color-mana: #519fed;
     --color-rage: #c0392b;
     --color-energy: #e4c531;
     --color-focus: #d79a2b;
@@ -674,9 +674,9 @@
     --art-shadow-lg: 0 2px calc(5px * var(--fx-shadow, 1)) var(--color-art-shadow);
     /* Shared with src/game/cursors.ts, keep hotspots in sync.
        --cursor-arrow = default; --cursor-point = interactive/hover (gauntlet finger). */
-    --cursor-arrow: url("/ui/cursors/arrow.png") 7 2, default;
-    --cursor-point: url("/ui/cursors/gauntlet.png") 6 4, pointer;
-    --cursor-grab: url("/ui/cursors/hand-grab.png") 11 16, grabbing;
+    --cursor-arrow: url("/ui/whetstorm/cursor.svg") 4 2, default;
+    --cursor-point: pointer;
+    --cursor-grab: grabbing;
     /* Arrange-mode manipulation cursors, matching the painted set's gold
        blade on a near-black rim so editing never flips between the game
        cursor and the OS one (PR #3284 review play-testing). Inline SVG (no
@@ -786,8 +786,8 @@
        re-emit them per preset. */
     --color-keyline: #000000;
     --color-white: #ffffff;
-    --color-ink: #0d0d13;
-    --color-ink-deep: #0b0b10;
+    --color-ink: #081914;
+    --color-ink-deep: #06130f;
     /* Foregrounds for the fixed-dark surfaces (ink grounds, the red and gold
        button plates, the selected tab, the medal). theme.ts must never re-emit
        these: a preset-derived text token on a fixed surface goes dark-on-dark
@@ -798,22 +798,22 @@
     --color-text-on-tab-on: #ffd100;
     --color-text-on-gold-btn: #ffe9a8;
     --color-text-on-medal: #ffd100;
-    --color-socket-rim: #4a3d1d;
+    --color-socket-rim: #6d8066;
     --color-socket-hi: #2c2c3a;
     --color-panel-hi: #1c1c29;
     --color-chrome-ground: #1a1410;
     --color-chrome-glyph: #c9b27a;
     --color-glint: #ffea8c;
     --color-control-border: #4e3f1d;
-    --color-medal-hi: #4a3a14;
-    --color-medal-lo: #241c08;
+    --color-medal-hi: #36513b;
+    --color-medal-lo: #13261b;
     --color-medal-ink: #3a2b00;
     --color-window-ring: color-mix(in srgb, var(--border) 40%, var(--color-keyline));
     --color-bronze-light: #b08a3a;
     --color-bronze-dark: #3c2f14;
     --color-hostile-rim: #8b2a22;
-    --color-portrait-hi: #3a3a4e;
-    --color-portrait-lo: #14141c;
+    --color-portrait-hi: #2a5142;
+    --color-portrait-lo: #0b211b;
     --color-proc-rim: #ffd97a;
     --color-proc-glow: #ffcf40;
     --color-bar-track: #1a1a1a;

@@ -30,7 +30,8 @@ repository or redistribute a build of it:
 
 ## Original Whetstorm UI replacements
 
-The original mark at `public/ui/whetstorm/mark.svg` and the native icon artwork
+The original SVG collection under `public/ui/whetstorm/` (catalogued in its
+`mapping.json`) and the native icon artwork
 in `src/ui/original_icon_art.ts` were authored for this fork. The icon renderer
 uses original polygon silhouettes and enamel palettes. Existing recipe metadata
 supplies semantic subjects, placement and school, not external bitmap content.

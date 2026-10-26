@@ -683,7 +683,7 @@ export class OptionsWindow {
     // main menu is the root, so it renders only the close button.
     const back =
       this.view === 'main'
-        ? '<img class="ui-win-art" src="/ui/chrome/crown.webp" alt="" aria-hidden="true">'
+        ? '<img class="ui-win-art" src="/ui/whetstorm/chrome/crown.svg" alt="" aria-hidden="true">'
         : `<button type="button" class="x-btn ui-x-btn back-btn" data-back aria-label="${esc(t('hud.options.back'))}" title="${esc(t('hud.options.back'))}">${svgIcon('prev')}</button>`;
     return `<div class="panel-title ui-win-head">${back}<span id="options-title" class="ui-win-title">${esc(title)}</span><button type="button" class="x-btn ui-x-btn" data-close aria-label="${esc(t('hud.options.returnToGame'))}">${svgIcon('close')}</button></div>`;
   }

@@ -1,9 +1,7 @@
-// Dedicated painted specialization emblems. Keys are class-qualified because
-// ids such as `holy` and `restoration` occur under more than one class.
-
+// Original Whetstorm SVG artwork; closed registries preserve existing identities.
 import type { SpecDef } from '../sim/content/talents';
 
-const SPEC_ICON_DIR = '/ui/specs';
+const SPEC_ICON_DIR = '/ui/whetstorm/specs';
 
 export const SPEC_ART_IDS: ReadonlySet<string> = new Set([
   'warrior/arms',
@@ -42,5 +40,5 @@ export function specArtId(spec: Pick<SpecDef, 'class' | 'id'>): string {
 /** Static painted art URL for a registered specialization, or null. */
 export function specIconUrl(spec: Pick<SpecDef, 'class' | 'id'>): string | null {
   const id = specArtId(spec);
-  return SPEC_ART_IDS.has(id) ? `${SPEC_ICON_DIR}/${id}.webp` : null;
+  return SPEC_ART_IDS.has(id) ? `${SPEC_ICON_DIR}/${id}.svg` : null;
 }

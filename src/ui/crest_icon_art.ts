@@ -39,6 +39,7 @@ export function crestIconUrl(id: string): string | null {
 
   if (id.startsWith('status_')) {
     const status = id.slice('status_'.length);
+    if (status === 'boss' || status === 'combat') return `/ui/whetstorm/status/${status}.svg`;
     return STATUS_CREST_ART_IDS.has(status) ? `/ui/crests/status/${status}.webp` : null;
   }
 

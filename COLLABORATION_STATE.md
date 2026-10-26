@@ -34,3 +34,16 @@ limitations from the previous attempt are not claimed resolved.
 
 Remaining: entry painting, complete chrome/class/currency bypasses, HUD polish,
 full-checkout contract test migration and browser integration verification.
+
+## Static artwork checkpoint
+
+Added 78 original SVG assets: nine current class emblems and seven separate
+launch-class marks, 20 primary launchers, 27 specializations, ten currency marks,
+combat/boss marks, a boss frame, the project mark and a 32px intrinsic cursor.
+Class/spec/chrome/currency registries and direct window routes use the originals.
+The shared game cursor resolver is updated as well as stylesheet cursor tokens.
+
+Validation: all 78 SVGs parsed as XML with no scripts, embedded images or external
+art references. Bundled icon, talent, class, spec, currency and cursor modules
+with esbuild. No sim IDs, combat mechanics, database or live deployment changes.
+Full legacy-art contract test migration and browser verification remain pending.
