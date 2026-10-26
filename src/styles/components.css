@@ -14895,19 +14895,19 @@
     background-size: contain;
   }
   .map-atlas-legend-mark.is-dungeon {
-    background-image: url("/ui/map-markers/dungeon_entrance.webp");
+    background-image: url("/ui/whetstorm/map-markers/dungeon-entrance.svg");
   }
   .map-atlas-legend-mark.is-ore {
-    background-image: url("/ui/map-markers/gather_ore.webp");
+    background-image: url("/ui/whetstorm/map-markers/gather-ore.svg");
   }
   .map-atlas-legend-mark.is-herb {
-    background-image: url("/ui/map-markers/gather_herb.webp");
+    background-image: url("/ui/whetstorm/map-markers/gather-herb.svg");
   }
   .map-atlas-legend-mark.is-mail {
-    background-image: url("/ui/map-markers/service_mailbox.webp");
+    background-image: url("/ui/whetstorm/map-markers/service-mailbox.svg");
   }
   .map-atlas-legend-mark.is-passage {
-    background-image: url("/ui/map-markers/world_passage.webp");
+    background-image: url("/ui/whetstorm/map-markers/world-passage.svg");
   }
   #map-zoom {
     position: absolute;

@@ -241,6 +241,314 @@
       "identity": "entry-landscape",
       "source": "OpenAI built-in image generation, original Whetstorm landscape, no input images",
       "sha256": "af6d9d262bddae04af4de1766a8e84282d6e8abee26b66a73d0e375af97dabc9"
+    },
+    {
+      "path": "map-markers/dungeon-entrance.svg",
+      "subject": "Stone arch with inward/downward arrow",
+      "sha256": "9ac629885b79ed463f932e061675036a8cd2274d08135cd475276c693ca89939",
+      "supersedes": "/ui/map-markers/dungeon_entrance.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/dungeon-exit.svg",
+      "subject": "Stone arch with outward/upward arrow",
+      "sha256": "2bbe7098070c9b791d6bd3ee61465cce456dbe8c03316a4182edc6f4800c28a9",
+      "supersedes": "/ui/map-markers/dungeon_exit.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/gather-ore.svg",
+      "subject": "Angular split ore boulder",
+      "sha256": "3b2181b39f6f9ec4f9ca3a5bfcf816c7323752b6a5abbabf7ab1e92f4f1a2f84",
+      "supersedes": "/ui/map-markers/gather_ore.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/gather-wood.svg",
+      "subject": "Forked cut timber",
+      "sha256": "ac68f45f5ce92d081a09fb94c11141175d11a2904a7799388327a9c0843dcaae",
+      "supersedes": "/ui/map-markers/gather_wood.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/gather-herb.svg",
+      "subject": "Two broad leaves on a stem",
+      "sha256": "a7391bb1dae4e7de43c0ad3d865fed54e877410efaf40bbf416581d0c6246959",
+      "supersedes": "/ui/map-markers/gather_herb.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/farm-patch.svg",
+      "subject": "Sprout above a diamond soil plot",
+      "sha256": "77b8613ea296704c26b36b0c34ba3cc984b1e13b42afdac98b9104981070a588",
+      "supersedes": "/ui/map-markers/farm_patch.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/station-forge.svg",
+      "subject": "Anvil with broad horn and foot",
+      "sha256": "eb3c4aead69b19d4b7c28913dc6f813f0fff04cc46f6fa231b05fa03c2f2b723",
+      "supersedes": "/ui/map-markers/station_forge.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/station-kitchens.svg",
+      "subject": "Cooking pot with three steam strokes",
+      "sha256": "20cbc99953614190f71ba5c649860fd2c3f2a21e9ccd696631dc83dc525da2a0",
+      "supersedes": "/ui/map-markers/station_kitchens.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/station-apothecary.svg",
+      "subject": "Flat-bottomed alchemy flask",
+      "sha256": "6cd9169925d400bd2584650a4c2e2e61c3fcd1280841c30dc6808692960f26c1",
+      "supersedes": "/ui/map-markers/station_apothecary.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/station-tannery.svg",
+      "subject": "Spread hide with four tapered corners",
+      "sha256": "5b3ed5dc116a85341857d849055b92c679b28a9b3967fe3e3979f62cf92cf49f",
+      "supersedes": "/ui/map-markers/station_tannery.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/station-loom.svg",
+      "subject": "Rectangular loom and woven grid",
+      "sha256": "7a618588d3f24a6f04ab86d849322550b724a413b96dd06944002234fca0327e",
+      "supersedes": "/ui/map-markers/station_loom.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/station-toolworks.svg",
+      "subject": "Open-jaw workshop wrench",
+      "sha256": "65cba7d2d8d92ce186f3e316b171648932b847a6ac66917e95d4afe04e474b4e",
+      "supersedes": "/ui/map-markers/station_toolworks.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/service-mailbox.svg",
+      "subject": "Sealed envelope",
+      "sha256": "ba79bd4000d6976ec32991202f7659848e3d1d11452be053c92d81aa8b279987",
+      "supersedes": "/ui/map-markers/service_mailbox.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/service-noticeboard.svg",
+      "subject": "Posted board on two legs",
+      "sha256": "eb9b9ce1b23e2b3a533aa526c713a1fcf2cc0b2b803a25f3ba07b389c4aca93f",
+      "supersedes": "/ui/map-markers/service_noticeboard.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/quest-available.svg",
+      "subject": "Heavy exclamation mark",
+      "sha256": "b6133c6827b049af15ae4674752fe40f3007167c60f4e4a515e56a0630027595",
+      "supersedes": "/ui/map-markers/quest_available.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/quest-ready.svg",
+      "subject": "Heavy question mark",
+      "sha256": "9e6018984b905b9a53ddc4ca6a4dfad5c3e84929dbd54d067c733fe17ce9fc1f",
+      "supersedes": "/ui/map-markers/quest_ready.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/quest-repeat.svg",
+      "subject": "Two opposing repeat arrows",
+      "sha256": "7ca9b0eb225acf60cde80dd8f2e5e1c7d8e3d0beac40c4f3d582aa25217f5ef0",
+      "supersedes": "/ui/map-markers/quest_repeat.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/quest-cooldown.svg",
+      "subject": "Clock face with distinct hands",
+      "sha256": "628368e7e9e114385958f99583aece6577425b1496774194eb0f739413aa9351",
+      "supersedes": "/ui/map-markers/quest_cooldown.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/delve-entrance.svg",
+      "subject": "Jagged cave mouth",
+      "sha256": "b4bce4e01b0a470f1cba2e3dbb77c40b06e20443ba0a8b16a8c483ca65cd6537",
+      "supersedes": "/ui/map-markers/delve_entrance.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/delve-passage.svg",
+      "subject": "Side corridor with rightward arrow",
+      "sha256": "222fd1684baff7be857c5edae097e3e90ba4dc972768184d6df7369dd5105dd8",
+      "supersedes": "/ui/map-markers/delve_passage.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/delve-surface-exit.svg",
+      "subject": "Up arrow emerging toward daylight",
+      "sha256": "398cc7127524288f79001e6c4fd6dd05f50ab12a3fad44864ae8e2a1dd470ac1",
+      "supersedes": "/ui/map-markers/delve_surface_exit.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/rift-entrance.svg",
+      "subject": "Fractured upright portal",
+      "sha256": "8c05fd5918e590ed6177ca94e8c48c464a20d8099deb3f6e4d5af60189be48b6",
+      "supersedes": "/ui/map-markers/rift_entrance.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/rift-descent.svg",
+      "subject": "Three descending stair steps",
+      "sha256": "8e04e98ba578d8f4c72fa3d52e02a1cbf55a53f4d03b5dedb689c4f03791d3ad",
+      "supersedes": "/ui/map-markers/rift_descent.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/rift-beacon.svg",
+      "subject": "Raised crystal beacon",
+      "sha256": "573df5d6f6bfc64834d0ac330db2da0c89b22bfdda3ee35b9699eab054391cd9",
+      "supersedes": "/ui/map-markers/rift_beacon.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/rift-egress.svg",
+      "subject": "Open doorway with outward arrow",
+      "sha256": "12fd39a61c00bf6189e76aa717c43ee51ac4ca168ffacf11f84e03d2f720a6df",
+      "supersedes": "/ui/map-markers/rift_egress.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/reward-treasure.svg",
+      "subject": "Banded treasure chest",
+      "sha256": "6b2478e56688a2e4575598adaf4387e2060aa65e2244add84f8411005c809ece",
+      "supersedes": "/ui/map-markers/reward_treasure.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/reward-locked-cache.svg",
+      "subject": "Secured cache with central padlock",
+      "sha256": "d577361c162300f30a7df61a7a2681d69bb764480104d12ad4464636d8d35e86",
+      "supersedes": "/ui/map-markers/reward_locked_cache.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/reward-reliquary.svg",
+      "subject": "Pediment shrine with inset relic",
+      "sha256": "aee69bbb9dcaac67db896e74906a0048037b2e5703f515fbecce0a434e2d214d",
+      "supersedes": "/ui/map-markers/reward_reliquary.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "map-markers/world-passage.svg",
+      "subject": "Bridge connecting two route gates",
+      "sha256": "9e204fd9a65296fbee590d20888ee349c574dfc38c81125010dbbf9639630320",
+      "supersedes": "/ui/map-markers/world_passage.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/beast.svg",
+      "subject": "Four-toed paw",
+      "sha256": "1e60008150da9782042a6d62797f049820d4357c18067b797c475e6b48a256d0",
+      "supersedes": "/ui/crests/families/beast.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/humanoid.svg",
+      "subject": "Upright head and shoulders",
+      "sha256": "eff6fb3e9a3abf4e17cd0e9bf6225d5966b4433f0ec93b4fb6879754a7218c14",
+      "supersedes": "/ui/crests/families/humanoid.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/mudfin.svg",
+      "subject": "Fish head with a tall dorsal fin",
+      "sha256": "a74234abd0ea2fd865704a413f253d139bdac220ed5ab5b506ddeece22ed28b1",
+      "supersedes": "/ui/crests/families/mudfin.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/spider.svg",
+      "subject": "Spider with four pairs of articulated legs",
+      "sha256": "50109a39597c9664c3872ceef9b8f43f6cf94f29e7e5fe15ca45d82778a10544",
+      "supersedes": "/ui/crests/families/spider.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/burrower.svg",
+      "subject": "Low digging body and three claws",
+      "sha256": "c7a1cbebe035c5e63ed063fac6b043ea5b1d7bc7ace985a10e981cd73f73bfd2",
+      "supersedes": "/ui/crests/families/burrower.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/undead.svg",
+      "subject": "Skull with hollow eye sockets",
+      "sha256": "1492ec9a90024615467067d4bb4eb311e114916e4f76eb3abc93cb865423ab75",
+      "supersedes": "/ui/crests/families/undead.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/troll.svg",
+      "subject": "Long face with paired upward tusks",
+      "sha256": "43b74b60f4ee87918f4eabedbbca2b772dae0cf430657b8b6149b6696360ad01",
+      "supersedes": "/ui/crests/families/troll.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/ogre.svg",
+      "subject": "Broad heavy brow and lower fangs",
+      "sha256": "5a3104fa18d82b3a3a52a91a773d6a44a2cb3fa98166bdaa6c29890a00c1e660",
+      "supersedes": "/ui/crests/families/ogre.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/elemental.svg",
+      "subject": "Faceted floating elemental core",
+      "sha256": "9994792ef51acdcaad72f5f150543b6ceede04fcf8d97ae77427fd8cab52b0d3",
+      "supersedes": "/ui/crests/families/elemental.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/dragonkin.svg",
+      "subject": "Horned long-snouted dragon profile",
+      "sha256": "1f27fe3b5d7d3e48440a4d7890e95a42d9f37731e3a67400889ee2a3178167ac",
+      "supersedes": "/ui/crests/families/dragonkin.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/reptile.svg",
+      "subject": "Low reptile head with dorsal spines",
+      "sha256": "ce95ac4b9a69f9ffe2ba299157030a28593fdaeade60e1156713b4750378da5f",
+      "supersedes": "/ui/crests/families/reptile.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/demon.svg",
+      "subject": "Split horns around an angular face",
+      "sha256": "40270e07b0ff5c620c1761c0f8215b911faf8b70686f1caece82a94a83dec8f1",
+      "supersedes": "/ui/crests/families/demon.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "families/sheep.svg",
+      "subject": "Wool cloud around a narrow face",
+      "sha256": "10d1c1ff9ce1eddde217f4654f5e91cdcb4603a3bdab03d59b01111464dfc5e3",
+      "supersedes": "/ui/crests/families/sheep.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "status/npc.svg",
+      "subject": "Friendly person with a small service cross",
+      "sha256": "e9809a566a62d5ebef6468bfd5089fd0882ba2e1150f50d03d367be1cfa3ad64",
+      "supersedes": "/ui/crests/status/npc.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
+    },
+    {
+      "path": "status/dead.svg",
+      "subject": "Skull crossed by diagonal bones",
+      "sha256": "cb44d154c9656a87e5e2422f960d8ca51100a8886272d79e005078d3394bdc14",
+      "supersedes": "/ui/crests/status/dead.webp",
+      "source": "Original hand-authored Whetstorm vector geometry; no image inputs"
     }
   ]
 }

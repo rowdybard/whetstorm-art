@@ -34,13 +34,12 @@ export function crestIconUrl(id: string): string | null {
 
   if (id.startsWith('family_')) {
     const family = id.slice('family_'.length);
-    return FAMILY_CREST_ART_IDS.has(family) ? `/ui/crests/families/${family}.webp` : null;
+    return FAMILY_CREST_ART_IDS.has(family) ? `/ui/whetstorm/families/${family}.svg` : null;
   }
 
   if (id.startsWith('status_')) {
     const status = id.slice('status_'.length);
-    if (status === 'boss' || status === 'combat') return `/ui/whetstorm/status/${status}.svg`;
-    return STATUS_CREST_ART_IDS.has(status) ? `/ui/crests/status/${status}.webp` : null;
+    return STATUS_CREST_ART_IDS.has(status) ? `/ui/whetstorm/status/${status}.svg` : null;
   }
 
   return null;

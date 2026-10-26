@@ -4,7 +4,7 @@
 // Dynamic emphasis stays with the painters: glow, pings, facing, aggro, and
 // death are never baked into the masters. The loader precomputes closed state
 // variants for gathering, navigation rank, and rewards. Quest state uses one
-// generated master per actionable state so punctuation and state badges stay
+// original vector master per actionable state so punctuation and state badges stay
 // legible after the compact mobile HUD scales the canvases down.
 
 import type { GatherNodeType, RiftTier, StationType } from '../sim/types';
@@ -324,35 +324,35 @@ const RELIQUARY_REWARD_MARKER_SIZES = [
 ] as const satisfies readonly MapMarkerSize[];
 
 const MAP_MARKER_URLS: Readonly<Record<MapMarkerArtId, string>> = {
-  'dungeon-entrance': '/ui/map-markers/dungeon_entrance.webp',
-  'dungeon-exit': '/ui/map-markers/dungeon_exit.webp',
-  'gather-ore': '/ui/map-markers/gather_ore.webp',
-  'gather-wood': '/ui/map-markers/gather_wood.webp',
-  'gather-herb': '/ui/map-markers/gather_herb.webp',
-  'farm-patch': '/ui/map-markers/farm_patch.webp',
-  'station-forge': '/ui/map-markers/station_forge.webp',
-  'station-kitchens': '/ui/map-markers/station_kitchens.webp',
-  'station-apothecary': '/ui/map-markers/station_apothecary.webp',
-  'station-tannery': '/ui/map-markers/station_tannery.webp',
-  'station-loom': '/ui/map-markers/station_loom.webp',
-  'station-toolworks': '/ui/map-markers/station_toolworks.webp',
-  'service-mailbox': '/ui/map-markers/service_mailbox.webp',
-  'service-noticeboard': '/ui/map-markers/service_noticeboard.webp',
-  'quest-available': '/ui/map-markers/quest_available.webp',
-  'quest-ready': '/ui/map-markers/quest_ready.webp',
-  'quest-repeat': '/ui/map-markers/quest_repeat.webp',
-  'quest-cooldown': '/ui/map-markers/quest_cooldown.webp',
-  'delve-entrance': '/ui/map-markers/delve_entrance.webp',
-  'delve-passage': '/ui/map-markers/delve_passage.webp',
-  'delve-surface-exit': '/ui/map-markers/delve_surface_exit.webp',
-  'rift-entrance': '/ui/map-markers/rift_entrance.webp',
-  'rift-descent': '/ui/map-markers/rift_descent.webp',
-  'rift-beacon': '/ui/map-markers/rift_beacon.webp',
-  'rift-egress': '/ui/map-markers/rift_egress.webp',
-  'reward-treasure': '/ui/map-markers/reward_treasure.webp',
-  'reward-locked-cache': '/ui/map-markers/reward_locked_cache.webp',
-  'reward-reliquary': '/ui/map-markers/reward_reliquary.webp',
-  'world-passage': '/ui/map-markers/world_passage.webp',
+  'dungeon-entrance': '/ui/whetstorm/map-markers/dungeon-entrance.svg',
+  'dungeon-exit': '/ui/whetstorm/map-markers/dungeon-exit.svg',
+  'gather-ore': '/ui/whetstorm/map-markers/gather-ore.svg',
+  'gather-wood': '/ui/whetstorm/map-markers/gather-wood.svg',
+  'gather-herb': '/ui/whetstorm/map-markers/gather-herb.svg',
+  'farm-patch': '/ui/whetstorm/map-markers/farm-patch.svg',
+  'station-forge': '/ui/whetstorm/map-markers/station-forge.svg',
+  'station-kitchens': '/ui/whetstorm/map-markers/station-kitchens.svg',
+  'station-apothecary': '/ui/whetstorm/map-markers/station-apothecary.svg',
+  'station-tannery': '/ui/whetstorm/map-markers/station-tannery.svg',
+  'station-loom': '/ui/whetstorm/map-markers/station-loom.svg',
+  'station-toolworks': '/ui/whetstorm/map-markers/station-toolworks.svg',
+  'service-mailbox': '/ui/whetstorm/map-markers/service-mailbox.svg',
+  'service-noticeboard': '/ui/whetstorm/map-markers/service-noticeboard.svg',
+  'quest-available': '/ui/whetstorm/map-markers/quest-available.svg',
+  'quest-ready': '/ui/whetstorm/map-markers/quest-ready.svg',
+  'quest-repeat': '/ui/whetstorm/map-markers/quest-repeat.svg',
+  'quest-cooldown': '/ui/whetstorm/map-markers/quest-cooldown.svg',
+  'delve-entrance': '/ui/whetstorm/map-markers/delve-entrance.svg',
+  'delve-passage': '/ui/whetstorm/map-markers/delve-passage.svg',
+  'delve-surface-exit': '/ui/whetstorm/map-markers/delve-surface-exit.svg',
+  'rift-entrance': '/ui/whetstorm/map-markers/rift-entrance.svg',
+  'rift-descent': '/ui/whetstorm/map-markers/rift-descent.svg',
+  'rift-beacon': '/ui/whetstorm/map-markers/rift-beacon.svg',
+  'rift-egress': '/ui/whetstorm/map-markers/rift-egress.svg',
+  'reward-treasure': '/ui/whetstorm/map-markers/reward-treasure.svg',
+  'reward-locked-cache': '/ui/whetstorm/map-markers/reward-locked-cache.svg',
+  'reward-reliquary': '/ui/whetstorm/map-markers/reward-reliquary.svg',
+  'world-passage': '/ui/whetstorm/map-markers/world-passage.svg',
 };
 
 export interface MapMarkerArt {

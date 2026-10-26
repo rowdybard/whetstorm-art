@@ -41,6 +41,14 @@ with OpenAI built-in image generation, without reference images. Its optimized
 shipping bytes are recorded in the replacement mapping.
 This replacement does not relicense or declare all remaining game media cleared.
 
+The 29 map/minimap markers, 13 creature-family crests and two additional status
+marks under `public/ui/whetstorm/{map-markers,families,status}/` are original
+hand-authored vector geometry, with no image inputs or third-party artwork.
+Their editable masters are in `scripts/generate_whetstorm_navigation_art.mjs`.
+The replacement mapping records subjects, SHA-256 hashes and the exact retired
+upstream paths. Historical credits below remain authoritative for those retired
+assets; they are not reclassified as Whetstorm artwork.
+
 ## Do not redistribute these
 
 If you fork this project, or redistribute the repository or a build of it, the

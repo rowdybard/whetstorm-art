@@ -95,3 +95,29 @@ its checks because the partial checkout lacks the ffmpeg-static dependency. This
 is a blocked gate, not a pass. Desktop/mobile browser verification remains open.
 The GitHub device authorization is pending; no feature push or deployment is
 claimed. All implementation changes remain saved on the feature branch.
+
+## Navigation and creature crest replacement batch
+
+Added 44 original vector masters: 29 map/minimap markers, 13 creature-family
+crests, and NPC/dead status marks. Updated the shared catalogs and five atlas
+legend CSS routes. Existing semantic state resolution, raster sizes, cooldowns,
+locks, rank, reward and palette treatment remain in the unchanged loader.
+Source geometry, historical paths, subjects and SHA-256 hashes are committed.
+See docs/whetstorm/NAVIGATION_ART.md for the inventory and integration boundary.
+
+The new focused suite covers original paths, safe distinct SVG masters, hashes,
+closed identities, semantic states and all supported raster-cache sizes. It
+also rejects the exact retired files under public/, since unreferenced files
+still ship. They were absent in this partial source snapshot; full-checkout
+integration must remove them. Historical upstream attribution is retained.
+
+All 44 assets parsed and rasterized with CairoSVG; the final small-size contact
+sheet is committed. This is asset inspection, not in-game browser verification.
+The bounded frontend review found no runtime regression. No deployment changes.
+
+Verification: 14 focused Vitest tests pass across the original-art and new
+navigation suites. The marker catalog, crest resolver and existing loader
+bundle with esbuild. Biome checks the touched script/TypeScript files with no
+errors. Generator reproduction is byte-stable; git diff --check passes.
+The GitHub device authorization has expired, so this batch is saved locally
+and as a complete portable backup; no remote push is claimed.
