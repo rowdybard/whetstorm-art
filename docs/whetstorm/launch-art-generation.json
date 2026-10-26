@@ -30,6 +30,27 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm RANGER class emblem. Square PNG1024x1024 painted edge to edge with no border or frame. A single drawn recurved wooden longbow with bone tips and a wrapped grip, a clearly nocked steel arrow pointing diagonally upward, ONE feather tucked beside the grip. Dark slate-blue painted background, subdued green accent. Hand-painted original stylized fantasy with chunky bold readable silhouette, broad brush planes and simplified surfaces, restrained detail, upper-left warm light on wood and steel. One subject that reads at48px; no archers, people, hands, scenery, text, letters, logos, watermarks or imitation of existing game, film or artist.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-aee3ab15-ef4d-4005-a44c-f18ec00d5bed.png",
       "path": "public/ui/classes/ranger.png"
+    },
+    {
+      "id": "skybinder",
+      "family": "class",
+      "prompt": "Use case: stylized-concept. Original Whetstorm SKYBINDER class emblem. Square PNG1024x1024 painted edge to edge, dark slate-blue painted background, no outer border/frame. One thick tall staff topped with a simple copper cage around a pale crystal. A single bold white-blue lightning bolt coils around the staff inside a simple swirl of storm cloud. Strong staff silhouette is the main subject, lightning secondary. Hand-painted original stylized fantasy, chunky equipment, broad clean brush planes, restrained detail, simplified materials, no microtexture or photorealism. Warm upper-left light on copper, cool storm light. Clear at48px. No people, hands, scenery, text, letters, logos, watermark, or imitation of existing game, film or artist.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-e3f2086e-4993-4276-a3a0-4be3c2b6afdc.png",
+      "path": "public/ui/classes/skybinder.png"
+    },
+    {
+      "id": "cleric",
+      "family": "class",
+      "prompt": "Use case: stylized-concept. Original Whetstorm CLERIC class emblem. Square PNG1024x1024, painted edge to edge, dark slate-blue background, no border or frame. One compact composition of a one-handed flanged mace with a sun-shaped head and a small brass hand lantern hanging beside it on a short chain, lantern shining warm healing light. Mace diagonally behind lantern; both whole and clearly identifiable, no other symbols. Hand-painted stylized fantasy, broad clean brush planes, chunky bold silhouettes, simplified forged steel/brass and leather, restrained surface detail, soft upper-left light and warm ivory/gold glow, no photorealism. Clear at48px. No people, hands, text, letters, logos, watermark, or imitation of existing game, film or artist.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-7aacc0d2-e4bb-4753-b6f6-197f7a67688c.png",
+      "path": "public/ui/classes/cleric.png"
+    },
+    {
+      "id": "warden",
+      "family": "class",
+      "prompt": "Use case: stylized-concept. Original Whetstorm WARDEN class emblem. Square PNG1024x1024 painted edge to edge, no border or frame. A small clearly stacked cairn of three broad carved weathered stones with one glowing abstract non-letter rune on the middle stone; a thick carved wooden staff with a rough stone head bound by roots leans diagonally against the cairn. Dark slate-blue painted background, muted moss green and stone grey, small white-blue rune glow and warm upper-left light. Original stylized hand-painted fantasy, bold chunky clean silhouette, broad painterly planes, restrained detail and simplified root shapes, no photorealism, no fine texture. Clear at48px. No characters, hands, scenery, text, letters, logos, watermark, or imitation of existing game, film or artist.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-a4ac9eca-44e1-425e-8011-bdb47857b4fa.png",
+      "path": "public/ui/classes/warden.png"
     }
   ]
 }
