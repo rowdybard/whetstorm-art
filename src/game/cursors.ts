@@ -11,8 +11,11 @@ export const CURSOR_FRIENDLY = 'pointer';
 export function cursorForHover(kind: HoverCursorKind, draggingCamera: boolean): string {
   if (draggingCamera) return CURSOR_GRAB;
   switch (kind) {
-    case 'attack': return CURSOR_ATTACK;
-    case 'friendly': return CURSOR_FRIENDLY;
-    default: return CURSOR_HAND;
+    case 'attack':
+      return CURSOR_ATTACK;
+    case 'friendly':
+      return CURSOR_FRIENDLY;
+    default:
+      return CURSOR_HAND;
   }
 }
