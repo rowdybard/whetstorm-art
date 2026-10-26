@@ -28,6 +28,15 @@ repository or redistribute a build of it:
 | `Non-commercial only, with attribution` | CC BY-NC 4.0. Share and adapt non-commercially with credit. **Commercial use requires the author's permission.** |
 | **`No, permission required`** | **Do not redistribute.** Rights reserved, or licensed to Levy Street only. See below. |
 
+## Original Whetstorm UI replacements
+
+The original mark at `public/ui/whetstorm/mark.svg` and the native icon artwork
+in `src/ui/original_icon_art.ts` were authored for this fork. The icon renderer
+uses original polygon silhouettes and enamel palettes. Existing recipe metadata
+supplies semantic subjects, placement and school, not external bitmap content.
+The older asset records below retain their historical owners and restrictions.
+This replacement does not relicense or declare all remaining game media cleared.
+
 ## Do not redistribute these
 
 If you fork this project, or redistribute the repository or a build of it, the

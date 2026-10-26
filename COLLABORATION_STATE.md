@@ -16,3 +16,21 @@ checks. The supplied source omits tests/media/generated files. The separate
 private GitHub write credential is unavailable in the current runtime; save a
 portable Git checkpoint before any further work. Never publish or alter the live
 site as part of this task.
+
+## Original icon checkpoint
+
+The spell/item/aura image and synchronous Canvas/worker paths now use original
+polygon artwork from `src/ui/original_icon_art.ts`. Existing recipes retain
+semantic subject metadata; inherited raster lookups are bypassed for these
+three kinds. Direct Paladin talent bitmap routing is replaced too. Quality
+colors, ability/item IDs, gameplay and existing cache APIs are unchanged.
+
+Passed a native Node 24 smoke: deterministic SVG output and cached URLs,
+prototype/markup-like identity handling, finite canvas coordinates, non-finite
+size fallback and 14 representative subjects at 32px (772 drawing operations).
+`git diff --check` is also required before checkpointing. These are focused
+checks, not a full game gate or browser verification. Chrome/native TypeScript
+limitations from the previous attempt are not claimed resolved.
+
+Remaining: entry painting, complete chrome/class/currency bypasses, HUD polish,
+full-checkout contract test migration and browser integration verification.

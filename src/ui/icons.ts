@@ -1,3 +1,4 @@
+import { originalIconUrl, paintOriginalIcon } from './original_icon_art';
 // Procedural painted icons for abilities, items and auras.
 //
 // Every icon is composed on a small canvas from layered parts: a rounded
@@ -17,7 +18,6 @@ import {
 } from '../sim/content/zone3';
 import { ABILITIES, ITEMS } from '../sim/data';
 import { crestIconUrl } from './crest_icon_art';
-import { currencyImageUrl } from './currency_art';
 import { DEED_IMAGE_IDS } from './deed_image_ids';
 import { professionImageUrl } from './hud/professions/profession_art';
 import { MOB_AURA_IMAGE_IDS } from './mob_aura_icon_art';
@@ -4298,6 +4298,10 @@ function paintIconCanvas(
   canvas.width = size;
   canvas.height = size;
   const ctx = getCanvas2d(canvas);
+  if (!seedKey.startsWith('crest|') && !seedKey.startsWith('profession|')) {
+    paintOriginalIcon(ctx, recipe, seedKey, size);
+    return;
+  }
   ctx.scale(size / 100, size / 100);
 
   ctx.save();
@@ -4397,22 +4401,14 @@ export const QUALITY_COLOR: Record<string, string> = {
 // matching base painting, just as they inherit the base held model.
 // ---------------------------------------------------------------------------
 
-const WEAPON_ICON_DIR = '/ui/items';
 
 export const WEAPON_IMAGE_IDS: ReadonlySet<string> = new Set(Object.keys(ITEM_WEAPON_VARIANTS));
 
 /** Static URL of a weapon's painted inventory art, or null for a non-weapon. */
 export function weaponIconUrl(id: string): string | null {
-  // Own-property gates keep prototype keys and stale server IDs from becoming
-  // arbitrary asset paths.
-  if (Object.hasOwn(ITEM_WEAPON_VARIANTS, id)) return `${WEAPON_ICON_DIR}/${id}.webp`;
-
-  // Keep ITEM_WEAPON_VARIANTS base-oriented and mirror held-model inheritance.
   const item = Object.hasOwn(ITEMS, id) ? ITEMS[id] : undefined;
-  const baseId = item?.heroicOf;
-  return baseId && Object.hasOwn(ITEM_WEAPON_VARIANTS, baseId)
-    ? `${WEAPON_ICON_DIR}/${baseId}.webp`
-    : null;
+  return Object.hasOwn(ITEM_WEAPON_VARIANTS, id) || item?.kind === 'weapon'
+    ? originalArt('item', id) : null;
 }
 
 // Hand-picked image icons for class abilities, committed as 128px WebP under
@@ -4425,7 +4421,6 @@ export function weaponIconUrl(id: string): string | null {
 // own `class`, so adding a class is just listing its ability ids here. Abilities not listed
 // fall through to the procedural ABILITY_RECIPES below. ABILITY_IMAGE_IDS and abilityImageUrl
 // are exported for the gate in tests/skill_icons.test.ts.
-const SKILL_ICON_DIR = '/ui/skills';
 const WARLOCK_TALENT_IMAGE_IDS = new Set<string>([
   'wlk_r5_bane',
   'wlk_r5_improved_corruption',
@@ -4982,45 +4977,10 @@ export const ABILITY_ART_PENDING = new Set<string>([
 
 /** Static URL of an ability's image icon, or null if it uses a recipe. */
 export function abilityImageUrl(id: string): string | null {
-  if (ABILITY_ART_PENDING.has(id)) return null;
-  if (!ABILITY_IMAGE_IDS.has(id)) return null;
-  if (PET_ACTION_IMAGE_IDS.has(id)) return `${SKILL_ICON_DIR}/pet/${id}.webp`;
-  const cls =
-    ABILITIES[id]?.class ??
-    (id === 'colossal_might' ||
-    id === 'second_wind' ||
-    id === 'pursuit' ||
-    id === 'lingering_dread' ||
-    id === 'anger_management' ||
-    id === 'battle_rhythm' ||
-    id === 'bloodbath' ||
-    id === 'attack' ||
-    id === 'double_charge' ||
-    id === 'crushing_charge' ||
-    id === 'combat_mastery'
-      ? 'warrior'
-      : id === 'double_blink' ||
-          id === 'blink_while_casting' ||
-          id === 'warded' ||
-          id === 'temporal_rift' ||
-          id === 'snap_polymorph' ||
-          id === 'twin_frost_nova' ||
-          id === 'elemental_convergence' ||
-          id === 'overflowing_power'
-        ? 'mage'
-        : WARLOCK_TALENT_IMAGE_IDS.has(id) ||
-            id === 'emberkin_felbolt' ||
-            id === 'gloomshade_abyssal_chain' ||
-            id === 'summon_succubus' ||
-            id === 'summon_felhunter' ||
-            id === 'summon_felguard' ||
-            id === 'summon_doomguard'
-          ? 'warlock'
-          : null);
-  return cls ? `${SKILL_ICON_DIR}/${cls}/${id}.webp` : null;
+  return Object.hasOwn(ABILITIES, id) || ABILITY_IMAGE_IDS.has(id) || hasExplicitAbilityIcon(id)
+    ? originalArt('ability', id) : null;
 }
 
-const AURA_ICON_DIR = '/ui/auras';
 
 /** Exact aura-art identities whose shipping files live directly under /ui/auras. */
 export const AURA_FILE_IMAGE_IDS: ReadonlySet<string> = new Set([
@@ -5137,10 +5097,9 @@ export function hasAuraImageIdentity(id: string): boolean {
 
 /** Static art for an exact aura identity, including ordinary ability-art reuse. */
 export function auraImageUrl(id: string): string | null {
-  const external = EXTERNAL_AURA_IMAGE_URLS.get(id);
-  if (external) return external;
-  if (AURA_FILE_IMAGE_IDS.has(id)) return `${AURA_ICON_DIR}/${id}.webp`;
-  return abilityImageUrl(id);
+  return EXTERNAL_AURA_IMAGE_URLS.has(id) || AURA_FILE_IMAGE_IDS.has(id) ||
+    hasAbilityIconIdentity(id) || Object.hasOwn(AURA_RECIPES, id)
+    ? originalArt('aura', id) : null;
 }
 
 /** True when an aura identity can reuse known ability or modifier artwork. */
@@ -5159,7 +5118,6 @@ export function hasAbilityIconIdentity(id: string): boolean {
 // For armor the icon is purely cosmetic (rarity colour still comes from item.quality), and the
 // flashier icons are reserved for higher-rarity pieces. WebP only, like the skill icons. Add
 // art via `npm run assets:items`, then list the item id here. Guarded by tests/item_icons.test.ts.
-const ITEM_ICON_DIR = '/ui/items';
 export const ITEM_IMAGE_IDS = new Set<string>([
   // food
   'baked_bread',
@@ -5552,8 +5510,8 @@ export const ITEM_ART_PENDING = new Set<string>([
 
 /** Static URL of an item's (or a UI pseudo-item's) image icon, or null if it uses a recipe. */
 export function itemImageUrl(id: string): string | null {
-  if (ITEM_ART_PENDING.has(id)) return null;
-  return ITEM_IMAGE_IDS.has(id) || UI_ITEM_IMAGE_IDS.has(id) ? `${ITEM_ICON_DIR}/${id}.webp` : null;
+  return Object.hasOwn(ITEMS, id) || UI_ITEM_IMAGE_IDS.has(id)
+    ? originalArt('item', id) : null;
 }
 
 // Book of Deeds crest ids are shaped `deed_<deedId>` (deeds_view.ts deedCrestId). Those whose
@@ -5739,34 +5697,16 @@ export function cachedProceduralIconDataUrl(
   return urlCache.get(proceduralIconCacheKey(kind, id, size)) ?? null;
 }
 
+function originalArt(kind: IconKind, id: string, size = DEFAULT_ICON_SIZE): string {
+  // Exact trinket aura identity shares its originating item's own original art.
+  const historical = kind === 'aura' ? EXTERNAL_AURA_IMAGE_URLS.get(id) : undefined;
+  const match = historical?.match(/^\/ui\/items\/([a-z0-9_]+)\.webp$/);
+  if (match && Object.hasOwn(ITEMS, match[1])) return originalArt('item', match[1], size);
+  return originalIconUrl(resolveRecipe(kind, id), `${kind}|${id}|${size}`, size);
+}
+
 function staticIconUrl(kind: IconKind, id: string): string | null {
-  if (kind === 'item') {
-    const currency = currencyImageUrl(id);
-    if (currency) return currency;
-    const weapon = weaponIconUrl(id);
-    if (weapon) return weapon;
-    const img = itemImageUrl(id);
-    if (img) return img;
-  }
-  // Abilities use their skill art. Auras first check exact neutral-aura paintings,
-  // then share matching ability art. Generic aura_<kind> ids still fall through to
-  // their procedural recipe.
-  if (kind === 'ability') {
-    const img = abilityImageUrl(id);
-    if (img) return img;
-  }
-  if (kind === 'aura') {
-    const img = auraImageUrl(id);
-    if (img) return img;
-  }
-  // Committed deed, class, family, and status paintings short-circuit to a
-  // static WebP (URL-only is sufficient: crest consumers here are <img> sinks,
-  // the Book of Deeds cards and recent strip and the Reliquary title shelf;
-  // the synchronous iconCanvas path stays class-crest portraits only). Unit
-  // portraits still paint the procedural recipe immediately, then replace it
-  // after this same crest art decodes.
-  if (kind === 'crest') return deedImageUrl(id) ?? crestIconUrl(id);
-  return null;
+  return kind === 'crest' ? deedImageUrl(id) ?? crestIconUrl(id) : originalArt(kind, id);
 }
 
 /** Internal bridge for the worker-backed idle warmer. */

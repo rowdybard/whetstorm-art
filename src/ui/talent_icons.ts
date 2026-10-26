@@ -109,7 +109,7 @@ export function talentEffectIconRef(effect: TalentEffect | undefined): TalentIco
 
 export function talentRowOptionIconRef(option: TalentRowOption): TalentIconRef {
   if (option.icon && PALADIN_TALENT_IMAGE_IDS.has(option.icon)) {
-    return { kind: 'image', url: `/ui/skills/paladin/${option.icon}.webp` };
+    return { kind: 'image', url: iconDataUrl('ability', option.icon) };
   }
   if (option.icon && abilityImageUrl(option.icon)) {
     return { kind: 'ability', id: option.icon };
