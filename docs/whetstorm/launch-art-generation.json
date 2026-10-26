@@ -1,0 +1,35 @@
+{
+  "source": "OpenAI built-in image generation",
+  "referenceImages": [],
+  "brief": "OWNER_ART_BRIEF.txt",
+  "records": [
+    {
+      "id": "bulwark",
+      "family": "class",
+      "prompt": "Use case: stylized-concept. Original Whetstorm BULWARK class emblem, square PNG1024x1024 painted edge to edge. One bold readable subject: a tall rounded iron-banded wooden shield with a grey whetstone boss and a broad leaf-bladed spear crossed behind it, set on a simple round dark metal badge. Dark slate-blue stormy painted background. No exterior icon border or UI frame. Hand-painted stylized fantasy with broad clean shapes, strong silhouette, deliberately restrained surface detail, forged steel, worn leather and bronze, warm upper-left light, a restrained white-blue lightning accent. Slightly heroic proportions and oversized equipment. Readable at48px. No people, no hands, no words, letters, logo, watermark, or imitation of an existing game, film or artist.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-72bf656d-768e-4774-b3b5-f16f66bf88a5.png",
+      "path": "public/ui/classes/bulwark.png"
+    },
+    {
+      "id": "brute",
+      "family": "class",
+      "prompt": "Use case: stylized-concept. Whetstorm BRUTE class emblem, square PNG1024x1024, painted edge to edge, no border or frame. A single massive two-handed crescent great axe buried in a simple cracked boulder, dark slate-blue painted background. Oversized axe head, long ash handle, worn leather grip, forged steel and bronze accents. Original stylized fantasy HAND PAINTING, broad clean graphic shapes, bold chunky silhouette, simplified materials and visible broad brush planes, restrained detail, no photorealistic texture, no fine engraving. Upper-left warm light, small white-blue highlight in the crack. One easily recognized subject at48px, no people, no hands, no text, letters, logo, watermark or existing-game imitation.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-a2587934-e5b6-42d0-976d-44b6358d0b76.png",
+      "path": "public/ui/classes/brute.png"
+    },
+    {
+      "id": "whirlblade",
+      "family": "class",
+      "prompt": "Use case: stylized-concept. Original Whetstorm WHIRLBLADE class emblem, square PNG1024x1024 painted edge to edge on a dark slate-blue painted background. Two broad curved short steel blades crossed inside ONE simple swirl of pale wind. Oversized readable blades, leather-wrapped grips, bronze pommels. Hand-painted stylized fantasy, bold chunky clean silhouettes, broad paint planes, restrained detail, no fine engraving, not photorealistic or a high-fidelity render. Warm upper-left light, cool white-blue wind accent, no other objects or scenery. No outer border, no frame, no people or hands, no text, letters, logos, watermark. Original design, no imitation of existing game, film or artist. Must read clearly at48px.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-0dd72acb-130d-41ce-8b7d-0bf02b384906.png",
+      "path": "public/ui/classes/whirlblade.png"
+    },
+    {
+      "id": "ranger",
+      "family": "class",
+      "prompt": "Use case: stylized-concept. Original Whetstorm RANGER class emblem. Square PNG1024x1024 painted edge to edge with no border or frame. A single drawn recurved wooden longbow with bone tips and a wrapped grip, a clearly nocked steel arrow pointing diagonally upward, ONE feather tucked beside the grip. Dark slate-blue painted background, subdued green accent. Hand-painted original stylized fantasy with chunky bold readable silhouette, broad brush planes and simplified surfaces, restrained detail, upper-left warm light on wood and steel. One subject that reads at48px; no archers, people, hands, scenery, text, letters, logos, watermarks or imitation of existing game, film or artist.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-aee3ab15-ef4d-4005-a44c-f18ec00d5bed.png",
+      "path": "public/ui/classes/ranger.png"
+    }
+  ]
+}
