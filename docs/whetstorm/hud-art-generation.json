@@ -97,6 +97,22 @@
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-b6da9c79-f12b-4a22-9ce4-667dbef1c76e.png",
       "masterPath": "docs/design/whetstorm-art/hud/map-markers/quest-cooldown.png",
       "archivePath": "public/ui/map-markers/quest_cooldown.png"
+    },
+    {
+      "id": "service-mailbox",
+      "family": "map-markers",
+      "prompt": "Use case: stylized-concept. Original Whetstorm map/minimap marker. A single SEALED PARCHMENT LETTER, folded envelope shape with a large red wax seal, warm ivory parchment and dark fold seams, no writing. Square PNG1024x1024 on a fully transparent background. Original Whetstorm hand-painted stylized fantasy, very bold simple chunky silhouette, broad clean planes, thick near-black outline on the outer contour and essential internal divisions, very restrained detail, soft upper-left light. Center the complete object with a small safe margin. Must stay readable at18px. No scenery, decorative particles, extra frame, readable words, letters, logos or watermark. No photorealism or existing-game imitation. Actual alpha transparency, not a checkerboard.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-f73b405d-cc1d-436e-ab37-9013dce62f11.png",
+      "masterPath": "docs/design/whetstorm-art/hud/map-markers/service-mailbox.png",
+      "archivePath": "public/ui/map-markers/service_mailbox.png"
+    },
+    {
+      "id": "service-noticeboard",
+      "family": "map-markers",
+      "prompt": "Use case: stylized-concept. Original Whetstorm map/minimap marker. A small chunky WOODEN NOTICE BOARD on two short posts, with THREE large blank parchment notes attached by dark pins. Warm wood and ivory paper, no writing. Square PNG1024x1024 on a fully transparent background. Original Whetstorm hand-painted stylized fantasy, very bold simple chunky silhouette, broad clean planes, thick near-black outline on the outer contour and essential internal divisions, very restrained detail, soft upper-left light. Center the complete object with a small safe margin. Must stay readable at18px. No scenery, decorative particles, extra frame, readable words, letters, logos or watermark. No photorealism or existing-game imitation. Actual alpha transparency, not a checkerboard.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-b400ead8-37e5-4c7f-abd3-f1f38aa95093.png",
+      "masterPath": "docs/design/whetstorm-art/hud/map-markers/service-noticeboard.png",
+      "archivePath": "public/ui/map-markers/service_noticeboard.png"
     }
   ]
 }
