@@ -1,0 +1,218 @@
+{
+  "project": "Whetstorm",
+  "source": "Original OpenAI built-in image generation from text only",
+  "assets": [
+    {
+      "id": "bags",
+      "family": "chrome",
+      "path": "chrome/bags.webp",
+      "sha256": "ccf9a375e59fbc689ed5cab722d225ceae95eeca12034deeeff92b7be7ea7c69",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "character",
+      "family": "chrome",
+      "path": "chrome/character.webp",
+      "sha256": "9bc92157382c5f80755519d06f005c8aaf44ee5f1abe72b7d23d6611fdeacbc3",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "spellbook",
+      "family": "chrome",
+      "path": "chrome/spellbook.webp",
+      "sha256": "0f0070427326e20a3801c3888c4a15d8c1912d783f598a06c92f386d167de638",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "talents",
+      "family": "chrome",
+      "path": "chrome/talents.webp",
+      "sha256": "90595e865522f1b7d1ab7368cfe53436f361d3d8cab701a613a5b3e5b693097a",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "questlog",
+      "family": "chrome",
+      "path": "chrome/questlog.webp",
+      "sha256": "3aa108f7d1d6aea65d61af5a2883c3bbd7ef765390e1968463dc78d6d73f803c",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "map",
+      "family": "chrome",
+      "path": "chrome/map.webp",
+      "sha256": "29dd3859548ec58f4e093982a98a60121c4514a1f174cdf1dc39fdb825af5674",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "social",
+      "family": "chrome",
+      "path": "chrome/social.webp",
+      "sha256": "8de07f1c9bb65e412639ab240ee870beab5f518c396246cbf212432c61d80f3b",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "book",
+      "family": "chrome",
+      "path": "chrome/book.webp",
+      "sha256": "cd330165f60cc5c0a100e147065f18449befbc9fedb426482cbd2e0582c08884",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "quest-available",
+      "family": "map-markers",
+      "path": "map-markers/quest-available.webp",
+      "sha256": "dc16c08aaeb8ccf58ca32b997f09e2bbfcaaf9294451a2044d19f0197896f6f9",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "quest-ready",
+      "family": "map-markers",
+      "path": "map-markers/quest-ready.webp",
+      "sha256": "322d93a88ba4b2f00763cba7d44b284a2ecb6ffd4a629451ca7fb5c68481fb2e",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "quest-repeat",
+      "family": "map-markers",
+      "path": "map-markers/quest-repeat.webp",
+      "sha256": "29af34dddd50785dc5612e9c5ecc5f214ecff374f90c37fbad9185f9212f62d0",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "quest-cooldown",
+      "family": "map-markers",
+      "path": "map-markers/quest-cooldown.webp",
+      "sha256": "ddf92abf2f96ea4804cd29ebc755483b179240292ee1def9c8ff02936f290e5f",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "service-mailbox",
+      "family": "map-markers",
+      "path": "map-markers/service-mailbox.webp",
+      "sha256": "f17d739de6d2c22d9c5c215c9c7256b5a62c36ff0caa5561ba72e84390427608",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "service-noticeboard",
+      "family": "map-markers",
+      "path": "map-markers/service-noticeboard.webp",
+      "sha256": "2f856b05df22ca28082f98003dc3f5fe03b6d575b70dc5132b241ca2d795f7d3",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "coin_copper",
+      "family": "currency",
+      "path": "currency/coin_copper.webp",
+      "sha256": "bda697591165acaf0a8fcd45bb905ed84970a5b1499ab0073c328935c911c85a",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "coin_silver",
+      "family": "currency",
+      "path": "currency/coin_silver.webp",
+      "sha256": "c77783805dad8d30023b0c96749a02b414ccea53f494ecb99e1a9297b03f4ff5",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "coin_gold",
+      "family": "currency",
+      "path": "currency/coin_gold.webp",
+      "sha256": "17530cb831504030e1dc9a6c1244c7e8a9c18c808b295f72f15cc7d15e12b272",
+      "dimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "arrow",
+      "family": "cursors",
+      "path": "cursors/arrow.png",
+      "sha256": "5fb2f4de768809fba214a21c82afdf52f9abefe296b80e979572e4e13428b8f4",
+      "dimensions": [
+        32,
+        32
+      ],
+      "hotspot": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": "gauntlet",
+      "family": "cursors",
+      "path": "cursors/gauntlet.png",
+      "sha256": "1ffd0302de7670e14fa23a80a5290ffc742e5feaed9b1ca5b9afeead803d78e1",
+      "dimensions": [
+        32,
+        32
+      ],
+      "hotspot": [
+        4,
+        3
+      ]
+    },
+    {
+      "id": "hand-grab",
+      "family": "cursors",
+      "path": "cursors/hand-grab.png",
+      "sha256": "b334e3825371141ecdc17457791076ea2d5f63b7960c91bdb5665b430b274986",
+      "dimensions": [
+        32,
+        32
+      ],
+      "hotspot": [
+        16,
+        16
+      ]
+    }
+  ]
+}

@@ -3,6 +3,7 @@ import { existsSync, readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { crestIconUrl, FAMILY_CREST_ART_IDS, STATUS_CREST_ART_IDS } from '../src/ui/crest_icon_art';
+import { hudArtworkUrl } from '../src/ui/hud_art';
 import {
   MAP_MARKER_ART_IDS,
   MAP_MARKER_SIZES,
@@ -26,8 +27,17 @@ describe('original Whetstorm navigation and creature crests', () => {
   it('routes every marker and atlas legend away from restricted paintings', () => {
     expect(MAP_MARKER_ART_IDS).toHaveLength(29);
     for (const id of MAP_MARKER_ART_IDS) {
-      expect(mapMarkerIconUrl(id)).toBe(`/ui/whetstorm/map-markers/${id}.svg`);
-      expect(read(`public${mapMarkerIconUrl(id)}`)).toContain('viewBox="0 0 64 64"');
+      const painted = hudArtworkUrl('map-markers', id);
+      expect(mapMarkerIconUrl(id)).toBe(painted ?? `/ui/whetstorm/map-markers/${id}.svg`);
+      if (painted) {
+        expect(
+          readFileSync(resolve(root, `public${painted}`))
+            .subarray(8, 12)
+            .toString(),
+        ).toBe('WEBP');
+      } else {
+        expect(read(`public${mapMarkerIconUrl(id)}`)).toContain('viewBox="0 0 64 64"');
+      }
     }
     const css = read('src/styles/components.css');
     expect(css).not.toContain('/ui/map-markers/');
@@ -38,7 +48,9 @@ describe('original Whetstorm navigation and creature crests', () => {
       'service-mailbox',
       'world-passage',
     ]) {
-      expect(css).toContain(`/ui/whetstorm/map-markers/${id}.svg`);
+      expect(css).toContain(
+        hudArtworkUrl('map-markers', id) ?? `/ui/whetstorm/map-markers/${id}.svg`,
+      );
     }
   });
 
@@ -103,7 +115,7 @@ describe('original Whetstorm navigation and creature crests', () => {
     }
   });
 
-  it('loads SVGs through the existing cache and rasterizes every supported state size once', () => {
+  it('loads original art through the existing cache and rasterizes every supported state size once', () => {
     const sources: string[] = [];
     let rasterCount = 0;
     let pixelReads = 0;

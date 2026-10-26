@@ -8,7 +8,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm game HUD BAGS icon. Square PNG1024x1024 on a fully transparent background. ONE simple chunky travel backpack with a rolled bedroll strapped across its top, worn brown leather, warm bronze buckles, two broad straps and a strong readable silhouette. Hand-painted stylized fantasy with broad clean planes, VERY restrained detail, thick near-black outline around the whole object and key internal divisions. Upper-left soft warm light. Must read instantly at24px. Centered whole object, tight composition with safe small transparent margin. NO background plate, circle, frame, badge, scenery, text, letters, logo or watermark. Original design, no imitation of existing game, film or artist. Real alpha transparency, not a painted checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-637b269a-99a6-47bf-b4c9-1230633a32c5.png",
       "masterPath": "docs/design/whetstorm-art/hud/chrome/bags.png",
-      "archivePath": "public/ui/chrome/bags.png"
+      "archivePath": "public/ui/chrome/bags.png",
+      "sourceSha256": "e6ee2b9e0e3550f7a308c6afe45fb0072d401ebd8acaa841bba3973c25115665",
+      "masterSha256": "11a283b7af10e04d83784d6c55b7e144837dd77727b08b9e83072030ad0f5feb",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/chrome/bags.webp",
+      "deliverySha256": "ccf9a375e59fbc689ed5cab722d225ceae95eeca12034deeeff92b7be7ea7c69",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 8464,
+      "alphaPreserved": true
     },
     {
       "id": "character",
@@ -16,7 +30,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm game HUD icon. A simple forged-steel BREASTPLATE displayed on a short sturdy stand, with a plain grey whetstone diamond emblem on its chest. No head, arms or person. Square PNG1024x1024, fully transparent background, one centered whole object with a small safe margin. Original Whetstorm hand-painted stylized fantasy, broad clean chunky shapes, strong simple silhouette, thick near-black outline on the outer contour and major internal divisions, very restrained detail, warm upper-left light. Forged steel, worn bronze/leather, grey whetstone, tiny white-blue accent where relevant. Must read at24px. No background plate, circle, badge, border, frame, scenery, text, letters, logo, watermark, photorealism or imitation of any existing game, film or artist. Real alpha transparency, not a painted checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-7f958fd0-7a13-4517-970b-da9a71ae31e6.png",
       "masterPath": "docs/design/whetstorm-art/hud/chrome/character.png",
-      "archivePath": "public/ui/chrome/character.png"
+      "archivePath": "public/ui/chrome/character.png",
+      "sourceSha256": "6b5288ecd5f5dec9efcba729109b686f3b3972a5a2ab521696ac7a95c1b4a52e",
+      "masterSha256": "ed404a042b29f5803ef70e9df23da2cb363b70a3d3a242b7e3272912f939b57f",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/chrome/character.webp",
+      "deliverySha256": "9bc92157382c5f80755519d06f005c8aaf44ee5f1abe72b7d23d6611fdeacbc3",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 6976,
+      "alphaPreserved": true
     },
     {
       "id": "spellbook",
@@ -24,7 +52,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm game HUD icon. A single short steel BLADE being sharpened against a chunky grey WHETSTONE, with just THREE large bright sparks at the contact point. Blade and stone must be unmistakable. Square PNG1024x1024, fully transparent background, one centered whole object with a small safe margin. Original Whetstorm hand-painted stylized fantasy, broad clean chunky shapes, strong simple silhouette, thick near-black outline on the outer contour and major internal divisions, very restrained detail, warm upper-left light. Forged steel, worn bronze/leather, grey whetstone, tiny white-blue accent where relevant. Must read at24px. No background plate, circle, badge, border, frame, scenery, text, letters, logo, watermark, photorealism or imitation of any existing game, film or artist. Real alpha transparency, not a painted checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-76080c7a-09f4-432e-b4cb-ebcdfbc42929.png",
       "masterPath": "docs/design/whetstorm-art/hud/chrome/spellbook.png",
-      "archivePath": "public/ui/chrome/spellbook.png"
+      "archivePath": "public/ui/chrome/spellbook.png",
+      "sourceSha256": "2aaa78e2b758b8c4918cca01e5c9f332d8e3da150ebf1037db8d7e535077ce0d",
+      "masterSha256": "f9e490f630aa80f149406050ed2b51a9e68bd8888297b51599b347290d332ae3",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/chrome/spellbook.webp",
+      "deliverySha256": "0f0070427326e20a3801c3888c4a15d8c1912d783f598a06c92f386d167de638",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 6540,
+      "alphaPreserved": true
     },
     {
       "id": "talents",
@@ -32,7 +74,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm game HUD icon. THREE simple glowing abstract non-letter RUNESTONES joined by thick bronze branching lines, one below splitting upward into two. Stones have different bold geometric cuts. No alphabetic or readable glyphs. Square PNG1024x1024, fully transparent background, one centered whole object with a small safe margin. Original Whetstorm hand-painted stylized fantasy, broad clean chunky shapes, strong simple silhouette, thick near-black outline on the outer contour and major internal divisions, very restrained detail, warm upper-left light. Forged steel, worn bronze/leather, grey whetstone, tiny white-blue accent where relevant. Must read at24px. No background plate, circle, badge, border, frame, scenery, text, letters, logo, watermark, photorealism or imitation of any existing game, film or artist. Real alpha transparency, not a painted checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-288dcedc-c207-4b4a-9ce8-3f2e51d38ff3.png",
       "masterPath": "docs/design/whetstorm-art/hud/chrome/talents.png",
-      "archivePath": "public/ui/chrome/talents.png"
+      "archivePath": "public/ui/chrome/talents.png",
+      "sourceSha256": "e11cf2c6e03b64caed81a2b00885d49765c8f1e1f7494a9fad4495c1ab9eca11",
+      "masterSha256": "726fd10158f3980490a494f53b399503cda1e0a52471155e6932c278c35b05c0",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/chrome/talents.webp",
+      "deliverySha256": "90595e865522f1b7d1ab7368cfe53436f361d3d8cab701a613a5b3e5b693097a",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 10002,
+      "alphaPreserved": true
     },
     {
       "id": "questlog",
@@ -40,7 +96,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm game HUD icon. ONE rolled parchment SCROLL partly unfurled, with a large red wax seal and short leather tie. No writing or markings on the parchment. Square PNG1024x1024, fully transparent background, one centered whole object with a small safe margin. Original Whetstorm hand-painted stylized fantasy, broad clean chunky shapes, strong simple silhouette, thick near-black outline on the outer contour and major internal divisions, very restrained detail, warm upper-left light. Forged steel, worn bronze/leather, grey whetstone, tiny white-blue accent where relevant. Must read at24px. No background plate, circle, badge, border, frame, scenery, text, letters, logo, watermark, photorealism or imitation of any existing game, film or artist. Real alpha transparency, not a painted checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-205200bf-acbf-4e1a-a272-5f19377ed144.png",
       "masterPath": "docs/design/whetstorm-art/hud/chrome/questlog.png",
-      "archivePath": "public/ui/chrome/questlog.png"
+      "archivePath": "public/ui/chrome/questlog.png",
+      "sourceSha256": "db6e4af34a97be41aa7b2124d73c93aeb670d21b144a421724718aae7156a71a",
+      "masterSha256": "119300ab6ccbcacc9a27ca0e5dc8b8022ce7c5649185fed0a14a41f1039241e5",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/chrome/questlog.webp",
+      "deliverySha256": "3aa108f7d1d6aea65d61af5a2883c3bbd7ef765390e1968463dc78d6d73f803c",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 7264,
+      "alphaPreserved": true
     },
     {
       "id": "map",
@@ -48,7 +118,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm game HUD icon. A simple FOLDED PARCHMENT MAP with two large fold creases and ONE chunky red location pin. Only a few broad abstract route strokes, no writing, no labels. Square PNG1024x1024, fully transparent background, one centered whole object with a small safe margin. Original Whetstorm hand-painted stylized fantasy, broad clean chunky shapes, strong simple silhouette, thick near-black outline on the outer contour and major internal divisions, very restrained detail, warm upper-left light. Forged steel, worn bronze/leather, grey whetstone, tiny white-blue accent where relevant. Must read at24px. No background plate, circle, badge, border, frame, scenery, text, letters, logo, watermark, photorealism or imitation of any existing game, film or artist. Real alpha transparency, not a painted checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-9a94a83a-4a5a-4a62-9a5a-d9260d6b231c.png",
       "masterPath": "docs/design/whetstorm-art/hud/chrome/map.png",
-      "archivePath": "public/ui/chrome/map.png"
+      "archivePath": "public/ui/chrome/map.png",
+      "sourceSha256": "29dfe2a73a12de0b9b199893dd1d8274c2f67b0a9ac92966f963fa75e6d92e82",
+      "masterSha256": "b71153e983bc94519ae1cca2572f98807295f0b8d8b850612a2c5d85900e1bdf",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/chrome/map.webp",
+      "deliverySha256": "29dd3859548ec58f4e093982a98a60121c4514a1f174cdf1dc39fdb825af5674",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 7348,
+      "alphaPreserved": true
     },
     {
       "id": "social",
@@ -56,7 +140,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm game HUD icon. TWO steel-armored GAUNTLETS CLASPING in a firm handshake, warm bronze cuffs. One clear horizontal silhouette, no arms beyond short cuffs. Square PNG1024x1024, fully transparent background, one centered whole object with a small safe margin. Original Whetstorm hand-painted stylized fantasy, broad clean chunky shapes, strong simple silhouette, thick near-black outline on the outer contour and major internal divisions, very restrained detail, warm upper-left light. Forged steel, worn bronze/leather, grey whetstone, tiny white-blue accent where relevant. Must read at24px. No background plate, circle, badge, border, frame, scenery, text, letters, logo, watermark, photorealism or imitation of any existing game, film or artist. Real alpha transparency, not a painted checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-be2e6182-9318-4ab6-bbad-d3958cf3f1c4.png",
       "masterPath": "docs/design/whetstorm-art/hud/chrome/social.png",
-      "archivePath": "public/ui/chrome/social.png"
+      "archivePath": "public/ui/chrome/social.png",
+      "sourceSha256": "16a5ac5f21ea265a5225a2647e085b919379735f68c5a4fce37a9df8d91afa10",
+      "masterSha256": "e795389895ecf9ceffd32bbf087a29ac456ce31760808d00b840334bb7f8985a",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/chrome/social.webp",
+      "deliverySha256": "8de07f1c9bb65e412639ab240ee870beab5f518c396246cbf212432c61d80f3b",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 6100,
+      "alphaPreserved": true
     },
     {
       "id": "book",
@@ -64,7 +162,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm game HUD icon. A single bronze MEDAL hanging from a folded dark red RIBBON, with a grey whetstone crossed by one pale lightning slash embossed on the medal. No words or letters. Square PNG1024x1024, fully transparent background, one centered whole object with a small safe margin. Original Whetstorm hand-painted stylized fantasy, broad clean chunky shapes, strong simple silhouette, thick near-black outline on the outer contour and major internal divisions, very restrained detail, warm upper-left light. Forged steel, worn bronze/leather, grey whetstone, tiny white-blue accent where relevant. Must read at24px. No background plate, circle, badge, border, frame, scenery, text, letters, logo, watermark, photorealism or imitation of any existing game, film or artist. Real alpha transparency, not a painted checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-557a4a2d-7da1-4bf9-b3bb-23c2af233e8c.png",
       "masterPath": "docs/design/whetstorm-art/hud/chrome/book.png",
-      "archivePath": "public/ui/chrome/book.png"
+      "archivePath": "public/ui/chrome/book.png",
+      "sourceSha256": "49e13715685895a3fcaa28df87aafbc36584e7652c55d9c0d85761da89d39562",
+      "masterSha256": "1ed3cd95203f8590fcd1265631b04936836a1337704642fd2a534063f312773c",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/chrome/book.webp",
+      "deliverySha256": "cd330165f60cc5c0a100e147065f18449befbc9fedb426482cbd2e0582c08884",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 6000,
+      "alphaPreserved": true
     },
     {
       "id": "quest-available",
@@ -72,7 +184,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm map/minimap marker. A chunky GOLD EXCLAMATION MARK embossed upright on a small ROUND DARK IRON SHIELD, warm gold rim. The exclamation stem and separate dot must be very large and unmistakable. No other symbols. Square PNG1024x1024 on a fully transparent background. Original Whetstorm hand-painted stylized fantasy, very bold simple chunky silhouette, broad clean planes, thick near-black outline on the outer contour and essential internal divisions, very restrained detail, soft upper-left light. Center the complete object with a small safe margin. Must stay readable at18px. No scenery, decorative particles, extra frame, readable words, letters, logos or watermark. No photorealism or existing-game imitation. Actual alpha transparency, not a checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-7cc1a45c-345c-4c52-880e-cebb7c25d46c.png",
       "masterPath": "docs/design/whetstorm-art/hud/map-markers/quest-available.png",
-      "archivePath": "public/ui/map-markers/quest_available.png"
+      "archivePath": "public/ui/map-markers/quest_available.png",
+      "sourceSha256": "6455474743c230e51788210bcde8fb8bc83cebc7e0315ffffbed7949a1a34532",
+      "masterSha256": "e7e89a823f2d5b42491205df32a49f7fb54efc87944bd844d06756403791c4bf",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/map-markers/quest-available.webp",
+      "deliverySha256": "dc16c08aaeb8ccf58ca32b997f09e2bbfcaaf9294451a2044d19f0197896f6f9",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 7226,
+      "alphaPreserved": true
     },
     {
       "id": "quest-ready",
@@ -80,7 +206,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm map/minimap marker. A chunky GOLD QUESTION MARK embossed upright on a small ROUND DARK IRON SHIELD, warm gold rim. The curved hook and separate dot must be very large and unmistakable. No other symbols. Square PNG1024x1024 on a fully transparent background. Original Whetstorm hand-painted stylized fantasy, very bold simple chunky silhouette, broad clean planes, thick near-black outline on the outer contour and essential internal divisions, very restrained detail, soft upper-left light. Center the complete object with a small safe margin. Must stay readable at18px. No scenery, decorative particles, extra frame, readable words, letters, logos or watermark. No photorealism or existing-game imitation. Actual alpha transparency, not a checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-7d15ce9b-9e72-4d2a-b72d-60146cb09512.png",
       "masterPath": "docs/design/whetstorm-art/hud/map-markers/quest-ready.png",
-      "archivePath": "public/ui/map-markers/quest_ready.png"
+      "archivePath": "public/ui/map-markers/quest_ready.png",
+      "sourceSha256": "99a2f053b9b831bc82276d18b08478d73afd9b96f4bc733567b3a90c78cc3a54",
+      "masterSha256": "b806973050bfc2048bd66ad6ec9bf584a95430025ccf36483e2355c1f5ba04a2",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/map-markers/quest-ready.webp",
+      "deliverySha256": "322d93a88ba4b2f00763cba7d44b284a2ecb6ffd4a629451ca7fb5c68481fb2e",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 8040,
+      "alphaPreserved": true
     },
     {
       "id": "quest-repeat",
@@ -88,7 +228,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm map/minimap marker. A chunky BLUE EXCLAMATION MARK embossed upright on a small ROUND DARK IRON SHIELD with a blue steel rim. The exclamation stem and separate dot must be large. The blue exclamation identifies a repeatable quest; no arrows. Square PNG1024x1024 on a fully transparent background. Original Whetstorm hand-painted stylized fantasy, very bold simple chunky silhouette, broad clean planes, thick near-black outline on the outer contour and essential internal divisions, very restrained detail, soft upper-left light. Center the complete object with a small safe margin. Must stay readable at18px. No scenery, decorative particles, extra frame, readable words, letters, logos or watermark. No photorealism or existing-game imitation. Actual alpha transparency, not a checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-8ce6bbec-f5a5-4f0c-863d-5d361c056004.png",
       "masterPath": "docs/design/whetstorm-art/hud/map-markers/quest-repeat.png",
-      "archivePath": "public/ui/map-markers/quest_repeat.png"
+      "archivePath": "public/ui/map-markers/quest_repeat.png",
+      "sourceSha256": "5063f85593465fe3758f82f34dfaa8e56f5ac41231aa529c95875e125aeeb7b6",
+      "masterSha256": "439ee9f5810e1aef199faa351b07e8599f6b18c6a875078c44ecfa431977960a",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/map-markers/quest-repeat.webp",
+      "deliverySha256": "29af34dddd50785dc5612e9c5ecc5f214ecff374f90c37fbad9185f9212f62d0",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 6690,
+      "alphaPreserved": true
     },
     {
       "id": "quest-cooldown",
@@ -96,7 +250,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm map/minimap marker. A chunky GREY EXCLAMATION MARK upright on a small ROUND DARK IRON SHIELD, with one small but boldly shaped GOLD HOURGLASS overlapping the lower-right edge. Only those two symbols, no clock hands or numbers. Square PNG1024x1024 on a fully transparent background. Original Whetstorm hand-painted stylized fantasy, very bold simple chunky silhouette, broad clean planes, thick near-black outline on the outer contour and essential internal divisions, very restrained detail, soft upper-left light. Center the complete object with a small safe margin. Must stay readable at18px. No scenery, decorative particles, extra frame, readable words, letters, logos or watermark. No photorealism or existing-game imitation. Actual alpha transparency, not a checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-b6da9c79-f12b-4a22-9ce4-667dbef1c76e.png",
       "masterPath": "docs/design/whetstorm-art/hud/map-markers/quest-cooldown.png",
-      "archivePath": "public/ui/map-markers/quest_cooldown.png"
+      "archivePath": "public/ui/map-markers/quest_cooldown.png",
+      "sourceSha256": "16385fed1c57d5756f01bee36ace8fe5473e76e41703b376810e17481bdd7d10",
+      "masterSha256": "be8cda05b082aea4b7f3a2b5538e0dffc072cd0950e19e5045b1c8276cdcd7b2",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/map-markers/quest-cooldown.webp",
+      "deliverySha256": "ddf92abf2f96ea4804cd29ebc755483b179240292ee1def9c8ff02936f290e5f",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 5886,
+      "alphaPreserved": true
     },
     {
       "id": "service-mailbox",
@@ -104,7 +272,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm map/minimap marker. A single SEALED PARCHMENT LETTER, folded envelope shape with a large red wax seal, warm ivory parchment and dark fold seams, no writing. Square PNG1024x1024 on a fully transparent background. Original Whetstorm hand-painted stylized fantasy, very bold simple chunky silhouette, broad clean planes, thick near-black outline on the outer contour and essential internal divisions, very restrained detail, soft upper-left light. Center the complete object with a small safe margin. Must stay readable at18px. No scenery, decorative particles, extra frame, readable words, letters, logos or watermark. No photorealism or existing-game imitation. Actual alpha transparency, not a checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-f73b405d-cc1d-436e-ab37-9013dce62f11.png",
       "masterPath": "docs/design/whetstorm-art/hud/map-markers/service-mailbox.png",
-      "archivePath": "public/ui/map-markers/service_mailbox.png"
+      "archivePath": "public/ui/map-markers/service_mailbox.png",
+      "sourceSha256": "51743ea0b4c2c34bd456c63df0360f2f86901acb58fc978264d7441c4f279fc3",
+      "masterSha256": "5763e93e6c63ec3eb6985d120f4e83a2e6864aee42220863b1b33687a1d9975d",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/map-markers/service-mailbox.webp",
+      "deliverySha256": "f17d739de6d2c22d9c5c215c9c7256b5a62c36ff0caa5561ba72e84390427608",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 5758,
+      "alphaPreserved": true
     },
     {
       "id": "service-noticeboard",
@@ -112,7 +294,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm map/minimap marker. A small chunky WOODEN NOTICE BOARD on two short posts, with THREE large blank parchment notes attached by dark pins. Warm wood and ivory paper, no writing. Square PNG1024x1024 on a fully transparent background. Original Whetstorm hand-painted stylized fantasy, very bold simple chunky silhouette, broad clean planes, thick near-black outline on the outer contour and essential internal divisions, very restrained detail, soft upper-left light. Center the complete object with a small safe margin. Must stay readable at18px. No scenery, decorative particles, extra frame, readable words, letters, logos or watermark. No photorealism or existing-game imitation. Actual alpha transparency, not a checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-b400ead8-37e5-4c7f-abd3-f1f38aa95093.png",
       "masterPath": "docs/design/whetstorm-art/hud/map-markers/service-noticeboard.png",
-      "archivePath": "public/ui/map-markers/service_noticeboard.png"
+      "archivePath": "public/ui/map-markers/service_noticeboard.png",
+      "sourceSha256": "a351f911e653a9a25b365f99b2fc9ebb516a14cde98b03a6dcfa5fad582dc1f2",
+      "masterSha256": "dcc77c6d065e85673de9928422dc16814d78f87a3f3ca9ecd286523521e3b04e",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/map-markers/service-noticeboard.webp",
+      "deliverySha256": "2f856b05df22ca28082f98003dc3f5fe03b6d575b70dc5132b241ca2d795f7d3",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 7298,
+      "alphaPreserved": true
     },
     {
       "id": "coin_copper",
@@ -120,7 +316,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm currency icon, square PNG1024x1024, fully opaque dark slate-blue painted background. ONE centered warm reddish COPPER coin, nearly front-facing with slight visible edge, stamped with a single chunky grey WHETSTONE crossed by a simple LIGHTNING BOLT. Clear circular silhouette with a thick dark outline, broad raised rim, plain metal surface, only this one embossed motif. Hand-painted stylized fantasy with broad clean planes and very restrained detail, warm upper-left lighting. Must read at16px. No denomination numbers, text, letters, logos, extra coins, particles, frame or scenery. Not photorealistic, original design with no existing-game imitation.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-9adacb19-63a7-4600-a015-ce80eda38ee8.png",
       "masterPath": "docs/design/whetstorm-art/hud/currency/coin_copper.png",
-      "archivePath": "public/ui/currency/coin_copper.png"
+      "archivePath": "public/ui/currency/coin_copper.png",
+      "sourceSha256": "c8b5f0ba2b978485aca85dbdb9204d16fc58ad834370c5710fd952c6afba6d32",
+      "masterSha256": "e7c30a0a26f93230d41fd3f4c68af22ea74031332032b4018afcac83b1a993e2",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/currency/coin_copper.webp",
+      "deliverySha256": "bda697591165acaf0a8fcd45bb905ed84970a5b1499ab0073c328935c911c85a",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 4478,
+      "alphaPreserved": false
     },
     {
       "id": "coin_silver",
@@ -128,7 +338,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm currency icon, square PNG1024x1024, fully opaque dark slate-blue painted background. ONE centered cool pale SILVER coin, nearly front-facing with slight visible edge, stamped with a single chunky grey WHETSTONE crossed by a simple LIGHTNING BOLT. Clear circular silhouette with a thick dark outline, broad raised rim, plain metal surface, only this one embossed motif. Hand-painted stylized fantasy with broad clean planes and very restrained detail, warm upper-left lighting. Must read at16px. No denomination numbers, text, letters, logos, extra coins, particles, frame or scenery. Not photorealistic, original design with no existing-game imitation.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-7a35de13-6b15-4669-b942-305001adba5c.png",
       "masterPath": "docs/design/whetstorm-art/hud/currency/coin_silver.png",
-      "archivePath": "public/ui/currency/coin_silver.png"
+      "archivePath": "public/ui/currency/coin_silver.png",
+      "sourceSha256": "9848ab99507ad79a29ed593c120151b5426a9e36161ac657fb05a82a57a989e9",
+      "masterSha256": "09b944a074e6a69da369bee4bb86e406dd5aaef67ada13e8c93e06a6b77d40e0",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/currency/coin_silver.webp",
+      "deliverySha256": "c77783805dad8d30023b0c96749a02b414ccea53f494ecb99e1a9297b03f4ff5",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 4358,
+      "alphaPreserved": false
     },
     {
       "id": "coin_gold",
@@ -136,7 +360,21 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm currency icon, square PNG1024x1024, fully opaque dark slate-blue painted background. ONE centered warm rich GOLD coin, nearly front-facing with slight visible edge, stamped with a single chunky grey WHETSTONE crossed by a simple LIGHTNING BOLT. Clear circular silhouette with a thick dark outline, broad raised rim, plain metal surface, only this one embossed motif. Hand-painted stylized fantasy with broad clean planes and very restrained detail, warm upper-left lighting. Must read at16px. No denomination numbers, text, letters, logos, extra coins, particles, frame or scenery. Not photorealistic, original design with no existing-game imitation.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-3e3d69b1-5e26-403d-8988-324868bc07b3.png",
       "masterPath": "docs/design/whetstorm-art/hud/currency/coin_gold.png",
-      "archivePath": "public/ui/currency/coin_gold.png"
+      "archivePath": "public/ui/currency/coin_gold.png",
+      "sourceSha256": "fbf6d9f2403e1fe5c17f1d21b98a0ec352b9f4dff313ebb56c272d2991641938",
+      "masterSha256": "d7809736c4ada0a9dadf74a707dc3c456ed8d5753dab107d5b26f72b1d51601b",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/currency/coin_gold.webp",
+      "deliverySha256": "17530cb831504030e1dc9a6c1244c7e8a9c18c808b295f72f15cc7d15e12b272",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 4778,
+      "alphaPreserved": false
     },
     {
       "id": "arrow",
@@ -144,7 +382,25 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm mouse pointer PNG1024x1024 on fully transparent background. A simple mouse cursor ARROW pointing toward the UPPER LEFT, with a broad triangular pale forged-steel arrowhead, short bronze-bound shaft at lower right and thick near-black outline. Strong straight edges. Do not make a weapon or a decorative badge. Clean chunky hand-painted fantasy with very broad simple planes and almost no surface texture; highlight from upper left. Must remain exceptionally legible as a32x32pixel cursor. Tight centered whole-object composition, small transparent safety margin. No background, drop shadow, plate, scenery, decorative particles, text, letters, logo, watermark or existing-game imitation. Actual alpha transparency, no painted checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-8f9c9422-7ac8-4826-9385-dc5385cdcdaf.png",
       "masterPath": "docs/design/whetstorm-art/hud/cursors/arrow.png",
-      "archivePath": "public/ui/cursors/arrow.png"
+      "archivePath": "public/ui/cursors/arrow.png",
+      "sourceSha256": "37a041b2d44f188b27958a477ecfc46e26ac0b8471274643900eee863aaea124",
+      "hotspot": [
+        4,
+        4
+      ],
+      "masterSha256": "8e17d7ff4823df1cf495baec0f059049753f6b73a0c62ccb605ea7366d6aa483",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/cursors/arrow.png",
+      "deliverySha256": "5fb2f4de768809fba214a21c82afdf52f9abefe296b80e979572e4e13428b8f4",
+      "deliveryDimensions": [
+        32,
+        32
+      ],
+      "deliveryBytes": 1723,
+      "alphaPreserved": true
     },
     {
       "id": "gauntlet",
@@ -152,7 +408,25 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm mouse pointer PNG1024x1024 on fully transparent background. A simple mouse cursor shaped as a forged-steel armored GAUNTLET with ONE extended INDEX FINGER pointing diagonally toward the UPPER LEFT, other fingers folded firmly inward, short brown leather/bronze cuff toward lower right. Clearly one pointing finger, strong readable gesture, thick near-black outline. Clean chunky hand-painted fantasy with very broad simple planes and almost no surface texture; highlight from upper left. Must remain exceptionally legible as a32x32pixel cursor. Tight centered whole-object composition, small transparent safety margin. No background, drop shadow, plate, scenery, decorative particles, text, letters, logo, watermark or existing-game imitation. Actual alpha transparency, no painted checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-0f1c6a06-264b-4d7a-b6e0-b8c315023337.png",
       "masterPath": "docs/design/whetstorm-art/hud/cursors/gauntlet.png",
-      "archivePath": "public/ui/cursors/gauntlet.png"
+      "archivePath": "public/ui/cursors/gauntlet.png",
+      "sourceSha256": "756a68d027a9653569ca389f393dcaed193424023b6c845aaba87729ecc7e074",
+      "hotspot": [
+        4,
+        3
+      ],
+      "masterSha256": "0441408b2830a9fffcda360ec13e279870fe076046ec7944849b98ebe6b8a7c2",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/cursors/gauntlet.png",
+      "deliverySha256": "1ffd0302de7670e14fa23a80a5290ffc742e5feaed9b1ca5b9afeead803d78e1",
+      "deliveryDimensions": [
+        32,
+        32
+      ],
+      "deliveryBytes": 1729,
+      "alphaPreserved": true
     },
     {
       "id": "hand-grab",
@@ -160,7 +434,36 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm mouse pointer PNG1024x1024 on fully transparent background. A simple mouse cursor shaped as a forged-steel armored HAND GRIPPING an invisible small object, fingers visibly curled inward in a grabbing gesture, short leather/bronze cuff toward lower right, knuckles toward upper left. Strong readable grip silhouette, thick near-black outline. No held object. Clean chunky hand-painted fantasy with very broad simple planes and almost no surface texture; highlight from upper left. Must remain exceptionally legible as a32x32pixel cursor. Tight centered whole-object composition, small transparent safety margin. No background, drop shadow, plate, scenery, decorative particles, text, letters, logo, watermark or existing-game imitation. Actual alpha transparency, no painted checkerboard.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-df600253-a1dc-44ee-9347-bd8a7009e295.png",
       "masterPath": "docs/design/whetstorm-art/hud/cursors/hand-grab.png",
-      "archivePath": "public/ui/cursors/hand-grab.png"
+      "archivePath": "public/ui/cursors/hand-grab.png",
+      "sourceSha256": "b8a0aeb5cbe811e17f991fb7e127cbe9b673d249101dc4436d5a2b96bf664da4",
+      "hotspot": [
+        16,
+        16
+      ],
+      "masterSha256": "894db9544aad5424d286ce6d04c028b1f87d634b387cee1b6e25e84034b4c59a",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/whetstorm/hud/cursors/hand-grab.png",
+      "deliverySha256": "b334e3825371141ecdc17457791076ea2d5f63b7960c91bdb5665b430b274986",
+      "deliveryDimensions": [
+        32,
+        32
+      ],
+      "deliveryBytes": 1637,
+      "alphaPreserved": true
     }
-  ]
+  ],
+  "processing": {
+    "tool": "Pillow 12.3.0",
+    "operations": "Lanczos numerical resizing and encoding only; generated alpha preserved",
+    "script": "scripts/prepare_whetstorm_hud_art.py",
+    "counts": {
+      "chrome": 8,
+      "map-markers": 6,
+      "currency": 3,
+      "cursors": 3
+    }
+  }
 }

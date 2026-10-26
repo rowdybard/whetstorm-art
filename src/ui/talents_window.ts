@@ -158,7 +158,7 @@ export class TalentsWindow {
       `${svgIcon('close')}</button>`;
     if (!talentsFor(cls)) {
       root.innerHTML =
-        `<div class="panel-title ui-win-head"><img class="ui-win-art" src="/ui/whetstorm/chrome/talents.svg" alt="" draggable="false"><span class="ui-win-title">${esc(t('game.talents.title'))}<span class="tal-class-name ui-win-sub">${esc(classDisplayName(cls))}</span></span>${close}</div>` +
+        `<div class="panel-title ui-win-head"><img class="ui-win-art" src="/ui/whetstorm/hud/chrome/talents.webp" alt="" draggable="false"><span class="ui-win-title">${esc(t('game.talents.title'))}<span class="tal-class-name ui-win-sub">${esc(classDisplayName(cls))}</span></span>${close}</div>` +
         `<div class="tal-empty tal-coming-soon" data-talents-coming-soon>` +
         `<b>${esc(t('game.talents.comingSoonTitle'))}</b>` +
         `<span>${esc(t('game.talents.comingSoonBody'))}</span></div>`;
@@ -169,7 +169,7 @@ export class TalentsWindow {
     const allocation = this.deps.currentAllocation();
     const view = buildTalentsView(allocation, cls, this.deps.playerLevel());
     root.innerHTML =
-      `<div class="panel-title ui-win-head"><img class="ui-win-art" src="/ui/whetstorm/chrome/talents.svg" alt="" draggable="false"><span class="ui-win-title">${esc(t('game.talents.title'))}<span class="tal-class-name ui-win-sub">${esc(classDisplayName(cls))}</span></span>${close}</div>` +
+      `<div class="panel-title ui-win-head"><img class="ui-win-art" src="/ui/whetstorm/hud/chrome/talents.webp" alt="" draggable="false"><span class="ui-win-title">${esc(t('game.talents.title'))}<span class="tal-class-name ui-win-sub">${esc(classDisplayName(cls))}</span></span>${close}</div>` +
       // WAI-ARIA tabs, built from the shared tab_strip_view core (default
       // button tag; the Choices tab carries its picked-count badge via
       // extraHtml, the same markup contract social_window follows).

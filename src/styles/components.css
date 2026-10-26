@@ -9809,17 +9809,17 @@
   }
   .coin.g {
     background:
-      url("/ui/whetstorm/currency/coin_gold.svg") center / cover no-repeat,
+      url("/ui/whetstorm/hud/currency/coin_gold.webp") center / cover no-repeat,
       radial-gradient(circle at 35% 30%, #ffe98a, #b8860b);
   }
   .coin.s {
     background:
-      url("/ui/whetstorm/currency/coin_silver.svg") center / cover no-repeat,
+      url("/ui/whetstorm/hud/currency/coin_silver.webp") center / cover no-repeat,
       radial-gradient(circle at 35% 30%, #e8e8e8, #888);
   }
   .coin.c {
     background:
-      url("/ui/whetstorm/currency/coin_copper.svg") center / cover no-repeat,
+      url("/ui/whetstorm/hud/currency/coin_copper.webp") center / cover no-repeat,
       radial-gradient(circle at 35% 30%, #e8a87a, #8b4513);
   }
 
@@ -14904,7 +14904,7 @@
     background-image: url("/ui/whetstorm/map-markers/gather-herb.svg");
   }
   .map-atlas-legend-mark.is-mail {
-    background-image: url("/ui/whetstorm/map-markers/service-mailbox.svg");
+    background-image: url("/ui/whetstorm/hud/map-markers/service-mailbox.webp");
   }
   .map-atlas-legend-mark.is-passage {
     background-image: url("/ui/whetstorm/map-markers/world-passage.svg");

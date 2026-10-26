@@ -8,6 +8,7 @@
 // legible after the compact mobile HUD scales the canvases down.
 
 import type { GatherNodeType, RiftTier, StationType } from '../sim/types';
+import { hudArtworkUrl } from './hud_art';
 import type { MapMarkerSemantic } from './map_marker_semantics_core';
 
 export const MAP_MARKER_ART_IDS = [
@@ -366,7 +367,7 @@ export const EMPTY_MAP_MARKER_ART: MapMarkerArt = {
 };
 
 export function mapMarkerIconUrl(id: MapMarkerArtId): string {
-  return MAP_MARKER_URLS[id];
+  return hudArtworkUrl('map-markers', id) ?? MAP_MARKER_URLS[id];
 }
 
 export function gatherMarkerArtId(type: GatherNodeType): MapMarkerArtId {

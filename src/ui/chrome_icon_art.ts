@@ -1,4 +1,6 @@
 // Original Whetstorm SVG artwork; closed registries preserve existing identities.
+
+import { hudArtworkUrl } from './hud_art';
 import type { UiIconName } from './ui_icons';
 
 const CHROME_ICON_DIR = '/ui/whetstorm/chrome';
@@ -33,5 +35,7 @@ export function hasChromeIconArt(name: string): name is UiIconName {
 
 /** Static URL of a chrome icon's painted art, or null when the name ships no art. */
 export function chromeIconUrl(name: string): string | null {
-  return hasChromeIconArt(name) ? `${CHROME_ICON_DIR}/${name}.svg` : null;
+  return hasChromeIconArt(name)
+    ? (hudArtworkUrl('chrome', name) ?? `${CHROME_ICON_DIR}/${name}.svg`)
+    : null;
 }

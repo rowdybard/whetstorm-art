@@ -675,9 +675,9 @@
     --art-shadow-lg: 0 2px calc(5px * var(--fx-shadow, 1)) var(--color-art-shadow);
     /* Shared with src/game/cursors.ts, keep hotspots in sync.
        --cursor-arrow = default; --cursor-point = interactive/hover (gauntlet finger). */
-    --cursor-arrow: url("/ui/whetstorm/cursor.svg") 4 2, default;
-    --cursor-point: pointer;
-    --cursor-grab: grabbing;
+    --cursor-arrow: url("/ui/whetstorm/hud/cursors/arrow.png") 4 4, default;
+    --cursor-point: url("/ui/whetstorm/hud/cursors/gauntlet.png") 4 3, pointer;
+    --cursor-grab: url("/ui/whetstorm/hud/cursors/hand-grab.png") 16 16, grabbing;
     /* Arrange-mode manipulation cursors, matching the painted set's gold
        blade on a near-black rim so editing never flips between the game
        cursor and the OS one (PR #3284 review play-testing). Inline SVG (no

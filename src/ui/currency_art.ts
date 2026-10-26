@@ -1,4 +1,5 @@
 import { FACTION_CURRENCY_IDS, type FactionId } from '../sim/factions';
+import { hudArtworkUrl } from './hud_art';
 
 export const CURRENCY_IMAGE_IDS: ReadonlySet<string> = new Set([
   'coin_gold',
@@ -16,7 +17,9 @@ const CURRENCY_ICON_DIR = '/ui/whetstorm/currency';
 const HEROIC_MARK_IMAGE_URL = '/ui/whetstorm/currency/heroic_mark.svg';
 
 export function currencyImageUrl(id: string): string | null {
-  return CURRENCY_IMAGE_IDS.has(id) ? `${CURRENCY_ICON_DIR}/${id}.svg` : null;
+  return CURRENCY_IMAGE_IDS.has(id)
+    ? (hudArtworkUrl('currency', id) ?? `${CURRENCY_ICON_DIR}/${id}.svg`)
+    : null;
 }
 
 /** A faction's emblem art. The factions have no dedicated crest image, so the

@@ -168,3 +168,22 @@ Biome checks the touched TypeScript with no errors, the full CSS barrel and
 icon/launch/loading modules bundle, and both entries preserve every prior
 DOM ID and control. git diff --check passes. This does not replace the full
 game gate or real-browser checks. No remote push or deployment is claimed.
+
+## Essential HUD paintings checkpoint
+
+Created and wired 20 original HUD paintings: eight primary chrome destinations,
+six quest/service markers, three coins and three cursors. Source masters and
+prompts were committed in small batches before runtime conversion. The source
+PNGs stay outside public; compact WebPs and 32px cursor PNGs are shipped.
+Shared catalogs plus direct window headers, coin CSS and the mailbox atlas
+route are updated. Existing marker cache/state handling is unchanged.
+
+The exporter caught an incomplete image during validation. It now encodes and
+fully decodes in memory, then writes/compares bytes before atomically publishing.
+All 20 source/runtime pairs decode and match their recorded hashes. Cursor
+hotspots agree between CSS and TS; the grabbing gesture retains the existing
+camera-drag state, not new pickup-hover logic. See HUD_CHANGES.md.
+
+27 focused Vitest tests pass across five files. Biome reports no errors and
+one existing BASE_URL/Turborepo warning. A bounded read-only frontend review
+found no runtime regression. Real-browser/full-game verification remains open.
