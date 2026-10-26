@@ -137,6 +137,30 @@
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-3e3d69b1-5e26-403d-8988-324868bc07b3.png",
       "masterPath": "docs/design/whetstorm-art/hud/currency/coin_gold.png",
       "archivePath": "public/ui/currency/coin_gold.png"
+    },
+    {
+      "id": "arrow",
+      "family": "cursors",
+      "prompt": "Use case: stylized-concept. Original Whetstorm mouse pointer PNG1024x1024 on fully transparent background. A simple mouse cursor ARROW pointing toward the UPPER LEFT, with a broad triangular pale forged-steel arrowhead, short bronze-bound shaft at lower right and thick near-black outline. Strong straight edges. Do not make a weapon or a decorative badge. Clean chunky hand-painted fantasy with very broad simple planes and almost no surface texture; highlight from upper left. Must remain exceptionally legible as a32x32pixel cursor. Tight centered whole-object composition, small transparent safety margin. No background, drop shadow, plate, scenery, decorative particles, text, letters, logo, watermark or existing-game imitation. Actual alpha transparency, no painted checkerboard.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-8f9c9422-7ac8-4826-9385-dc5385cdcdaf.png",
+      "masterPath": "docs/design/whetstorm-art/hud/cursors/arrow.png",
+      "archivePath": "public/ui/cursors/arrow.png"
+    },
+    {
+      "id": "gauntlet",
+      "family": "cursors",
+      "prompt": "Use case: stylized-concept. Original Whetstorm mouse pointer PNG1024x1024 on fully transparent background. A simple mouse cursor shaped as a forged-steel armored GAUNTLET with ONE extended INDEX FINGER pointing diagonally toward the UPPER LEFT, other fingers folded firmly inward, short brown leather/bronze cuff toward lower right. Clearly one pointing finger, strong readable gesture, thick near-black outline. Clean chunky hand-painted fantasy with very broad simple planes and almost no surface texture; highlight from upper left. Must remain exceptionally legible as a32x32pixel cursor. Tight centered whole-object composition, small transparent safety margin. No background, drop shadow, plate, scenery, decorative particles, text, letters, logo, watermark or existing-game imitation. Actual alpha transparency, no painted checkerboard.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-0f1c6a06-264b-4d7a-b6e0-b8c315023337.png",
+      "masterPath": "docs/design/whetstorm-art/hud/cursors/gauntlet.png",
+      "archivePath": "public/ui/cursors/gauntlet.png"
+    },
+    {
+      "id": "hand-grab",
+      "family": "cursors",
+      "prompt": "Use case: stylized-concept. Original Whetstorm mouse pointer PNG1024x1024 on fully transparent background. A simple mouse cursor shaped as a forged-steel armored HAND GRIPPING an invisible small object, fingers visibly curled inward in a grabbing gesture, short leather/bronze cuff toward lower right, knuckles toward upper left. Strong readable grip silhouette, thick near-black outline. No held object. Clean chunky hand-painted fantasy with very broad simple planes and almost no surface texture; highlight from upper left. Must remain exceptionally legible as a32x32pixel cursor. Tight centered whole-object composition, small transparent safety margin. No background, drop shadow, plate, scenery, decorative particles, text, letters, logo, watermark or existing-game imitation. Actual alpha transparency, no painted checkerboard.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-df600253-a1dc-44ee-9347-bd8a7009e295.png",
+      "masterPath": "docs/design/whetstorm-art/hud/cursors/hand-grab.png",
+      "archivePath": "public/ui/cursors/hand-grab.png"
     }
   ]
 }
