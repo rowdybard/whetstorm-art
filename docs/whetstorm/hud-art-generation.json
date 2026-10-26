@@ -113,6 +113,30 @@
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-b400ead8-37e5-4c7f-abd3-f1f38aa95093.png",
       "masterPath": "docs/design/whetstorm-art/hud/map-markers/service-noticeboard.png",
       "archivePath": "public/ui/map-markers/service_noticeboard.png"
+    },
+    {
+      "id": "coin_copper",
+      "family": "currency",
+      "prompt": "Use case: stylized-concept. Original Whetstorm currency icon, square PNG1024x1024, fully opaque dark slate-blue painted background. ONE centered warm reddish COPPER coin, nearly front-facing with slight visible edge, stamped with a single chunky grey WHETSTONE crossed by a simple LIGHTNING BOLT. Clear circular silhouette with a thick dark outline, broad raised rim, plain metal surface, only this one embossed motif. Hand-painted stylized fantasy with broad clean planes and very restrained detail, warm upper-left lighting. Must read at16px. No denomination numbers, text, letters, logos, extra coins, particles, frame or scenery. Not photorealistic, original design with no existing-game imitation.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-9adacb19-63a7-4600-a015-ce80eda38ee8.png",
+      "masterPath": "docs/design/whetstorm-art/hud/currency/coin_copper.png",
+      "archivePath": "public/ui/currency/coin_copper.png"
+    },
+    {
+      "id": "coin_silver",
+      "family": "currency",
+      "prompt": "Use case: stylized-concept. Original Whetstorm currency icon, square PNG1024x1024, fully opaque dark slate-blue painted background. ONE centered cool pale SILVER coin, nearly front-facing with slight visible edge, stamped with a single chunky grey WHETSTONE crossed by a simple LIGHTNING BOLT. Clear circular silhouette with a thick dark outline, broad raised rim, plain metal surface, only this one embossed motif. Hand-painted stylized fantasy with broad clean planes and very restrained detail, warm upper-left lighting. Must read at16px. No denomination numbers, text, letters, logos, extra coins, particles, frame or scenery. Not photorealistic, original design with no existing-game imitation.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-7a35de13-6b15-4669-b942-305001adba5c.png",
+      "masterPath": "docs/design/whetstorm-art/hud/currency/coin_silver.png",
+      "archivePath": "public/ui/currency/coin_silver.png"
+    },
+    {
+      "id": "coin_gold",
+      "family": "currency",
+      "prompt": "Use case: stylized-concept. Original Whetstorm currency icon, square PNG1024x1024, fully opaque dark slate-blue painted background. ONE centered warm rich GOLD coin, nearly front-facing with slight visible edge, stamped with a single chunky grey WHETSTONE crossed by a simple LIGHTNING BOLT. Clear circular silhouette with a thick dark outline, broad raised rim, plain metal surface, only this one embossed motif. Hand-painted stylized fantasy with broad clean planes and very restrained detail, warm upper-left lighting. Must read at16px. No denomination numbers, text, letters, logos, extra coins, particles, frame or scenery. Not photorealistic, original design with no existing-game imitation.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-3e3d69b1-5e26-403d-8988-324868bc07b3.png",
+      "masterPath": "docs/design/whetstorm-art/hud/currency/coin_gold.png",
+      "archivePath": "public/ui/currency/coin_gold.png"
     }
   ]
 }
