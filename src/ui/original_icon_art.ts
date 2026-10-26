@@ -95,7 +95,7 @@ function color(bg: string): readonly [string,string] {
   return COLORS[key];
 }
 function sizeOf(size: number): number { return Number.isFinite(size) ? Math.max(16,Math.min(512,Math.round(size))) : 96; }
-function placed(recipe: OriginalIconRecipe) { return recipe.prims.length ? recipe.prims : [{p:'sigil_rune'}]; }
+function placed(recipe: OriginalIconRecipe): OriginalIconRecipe['prims'] { return recipe.prims.length ? recipe.prims : [{p:'sigil_rune'}]; }
 const cache = new Map<string,string>();
 export function originalIconSvg(recipe: OriginalIconRecipe, identity: string, size = 96): string {
   const px=sizeOf(size), [field,ink]=color(recipe.bg), seed=hash(identity.replace(/\|\d+$/,''));

@@ -43,7 +43,7 @@
       background-image: url("/website-feature-classes-v1.webp");
     }
     & #download-view .skeleton-icon-wrapper {
-      background-image: url("/icon-192.png");
+      background-image: url("/ui/whetstorm/mark.svg");
     }
     & :is(#highscores-view, #news-view, #download-view) .skeleton-svg-icon {
       display: none;

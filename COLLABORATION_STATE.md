@@ -47,3 +47,14 @@ Validation: all 78 SVGs parsed as XML with no scripts, embedded images or extern
 art references. Bundled icon, talent, class, spec, currency and cursor modules
 with esbuild. No sim IDs, combat mechanics, database or live deployment changes.
 Full legacy-art contract test migration and browser verification remain pending.
+
+## Entry landscape checkpoint
+
+The original 407 KB WebP landscape is committed and wired into both game entries
+and the common backdrop. Inherited cinematic scene and portal decoration layers
+are hidden; the inherited home video source is removed. Existing entry/auth DOM
+IDs and controls remain. The live website is not changed by this work.
+
+The canonical online/offline creation IDs (`charselect-panel`, `charcreate-panel`,
+`offline-select`) are used for the creation surface rules. Browser verification
+and the complete game's pre-merge gate remain outstanding.

@@ -36,6 +36,9 @@ in `src/ui/original_icon_art.ts` were authored for this fork. The icon renderer
 uses original polygon silhouettes and enamel palettes. Existing recipe metadata
 supplies semantic subjects, placement and school, not external bitmap content.
 The older asset records below retain their historical owners and restrictions.
+The original `public/ui/whetstorm/entry-landscape.webp` was made for Whetstorm
+with OpenAI built-in image generation, without reference images. Its optimized
+shipping bytes are recorded in the replacement mapping.
 This replacement does not relicense or declare all remaining game media cleared.
 
 ## Do not redistribute these

@@ -60,7 +60,7 @@
       display: block;
       pointer-events: none;
       background-image:
-        url("/website-hero-eastbrook-v1.webp"), url("/textures/loading/eastbrook-square.webp");
+        url("/ui/whetstorm/entry-landscape.webp"), url("/textures/loading/eastbrook-square.webp");
       background-position: center 48%;
       background-size: cover;
       transform: scale(1.035);
@@ -75,18 +75,18 @@
       animation: website-scene-crossfade 40s linear infinite;
     }
     & .website-scene-eastbrook {
-      background-image: url("/website-hero-eastbrook-v1.webp");
+      background-image: url("/ui/whetstorm/entry-landscape.webp");
     }
     & .website-scene-galecrest {
-      background-image: url("/website-hero-galecrest-v1.webp");
+      background-image: url("/ui/whetstorm/entry-landscape.webp");
       animation-delay: -30s;
     }
     & .website-scene-drakelands {
-      background-image: url("/website-hero-drakelands-v1.webp");
+      background-image: url("/ui/whetstorm/entry-landscape.webp");
       animation-delay: -20s;
     }
     & .website-scene-thornpeak {
-      background-image: url("/website-hero-thornpeak-v1.webp");
+      background-image: url("/ui/whetstorm/entry-landscape.webp");
       animation-delay: -10s;
     }
     & .website-cinematic-art::after {
@@ -559,7 +559,7 @@
       border: solid transparent;
       border-width: var(--website-gateway-frame);
       border-image:
-        url("/website-fractured-portal-v5.webp") 400 280 250 280 fill / 1 22% / 0 stretch;
+        url("/ui/whetstorm/entry-landscape.webp") 400 280 250 280 fill / 1 22% / 0 stretch;
     }
     & :is(#mode-select, #login-panel, #forgot-panel, #reset-panel)::after {
       content: "";
@@ -571,7 +571,7 @@
       max-width: 360px;
       aspect-ratio: 978 / 654;
       transform: translateX(-50%);
-      background: url("/whetstorm-logo.png") center / contain no-repeat;
+      background: url("/ui/whetstorm/mark.svg") center / contain no-repeat;
       pointer-events: none;
     }
     & :is(#mode-select, #login-panel, #forgot-panel, #reset-panel) > :not(.play-compat-trigger) {
@@ -962,7 +962,7 @@
       width: 52px;
       height: 52px;
       margin-bottom: 22px;
-      background: url("/icon-192.png") center / contain no-repeat;
+      background: url("/ui/whetstorm/mark.svg") center / contain no-repeat;
       filter: drop-shadow(0 0 16px var(--website-glow));
     }
     & :is(#login-panel, #forgot-panel, #reset-panel) .auth-field {
@@ -2007,4 +2007,19 @@
     }
   }
 
+
+  #start-screen #start-screen-backdrop {
+    background: linear-gradient(90deg, var(--ws-veil), transparent 65%),
+      url("/ui/whetstorm/entry-landscape.webp") center / cover no-repeat;
+  }
+  #start-screen :is(.website-cinematic-art, .portal-ring, .portal-ring-reverse, .nebula-overlay) {
+    display: none;
+  }
+  #start-screen :is(.homepage-header, .homepage-footer) {
+    background: var(--ws-panel);
+    border-color: var(--ws-line);
+    color: var(--ws-ivory);
+  }
+  #start-screen :is(.website-card-emblem, .website-card-heading)::before,
+  #start-screen :is(.website-card-emblem, .website-card-heading)::after { content: none; }
 }

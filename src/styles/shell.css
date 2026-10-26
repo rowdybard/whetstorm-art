@@ -9739,7 +9739,7 @@
   display: none;
 
   /* Original Whetstorm creation panels retain all existing controls and flow. */
-  #start-screen :is(#char-select, #offline-select, #char-create-panel) {
+  #start-screen :is(#charselect-panel, #offline-select, #charcreate-panel) {
     background: var(--ws-panel);
     color: var(--ws-ivory);
     border: 1px solid var(--ws-line);
