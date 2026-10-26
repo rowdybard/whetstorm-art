@@ -82,3 +82,16 @@ native-art contract. Full game build/gate and desktop/mobile real-browser review
 are not claimed complete. All work is committed on the feature branch and
 backed up as a portable Git bundle. Do not merge or deploy based on these focused
 checks alone. Leave the live site unchanged, per the owner's instruction.
+
+## Palette review checkpoint
+
+A bounded read-only frontend review found that both original icon painters used
+the background palette for foreground shapes. They now inherit recipe.pal, while
+per-primitive palettes retain precedence. The regression test failed before the
+fix and the focused suite now contains nine tests.
+
+The resumed pre-merge command `node scripts/gate_select.mjs` exits before running
+its checks because the partial checkout lacks the ffmpeg-static dependency. This
+is a blocked gate, not a pass. Desktop/mobile browser verification remains open.
+The GitHub device authorization is pending; no feature push or deployment is
+claimed. All implementation changes remain saved on the feature branch.

@@ -344,7 +344,7 @@ export function originalIconSvg(recipe: OriginalIconRecipe, identity: string, si
       const shapes = subject(p.p)
         .map((points) => `<polygon points="${points.join(' ')}"/>`)
         .join('');
-      return `<g transform="translate(${p.x ?? 0} ${p.y ?? 0}) translate(50 50) rotate(${angle}) scale(${scale}) translate(-50 -50)" opacity="${p.alpha ?? 1}" fill="${color(p.pal ?? recipe.bg)[1]}">${shapes}</g>`;
+      return `<g transform="translate(${p.x ?? 0} ${p.y ?? 0}) translate(50 50) rotate(${angle}) scale(${scale}) translate(-50 -50)" opacity="${p.alpha ?? 1}" fill="${color(p.pal ?? recipe.pal)[1]}">${shapes}</g>`;
     })
     .join('');
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${px}" height="${px}" viewBox="0 0 100 100"><defs><linearGradient id="field" x2="1" y2="1"><stop stop-color="${field}"/><stop offset="1" stop-color="#071512"/></linearGradient></defs><rect x="1" y="1" width="98" height="98" rx="10" fill="url(#field)" stroke="#a18d60" stroke-width="1.5"/><path d="M12 7H35M65 93h23" stroke="${ink}" opacity=".6"/><g stroke="#071512" stroke-width="1.5" stroke-linejoin="round">${parts}</g><path d="M${12 + (seed % 12)} 88h${4 + ((seed >>> 8) % 8)}" stroke="${ink}" stroke-width="2"/></svg>`;
@@ -404,7 +404,7 @@ export function paintOriginalIcon(
     ctx.rotate(p.rot ?? 0);
     ctx.scale(p.s ?? 1, p.s ?? 1);
     ctx.translate(-50, -50);
-    ctx.fillStyle = color(p.pal ?? recipe.bg)[1];
+    ctx.fillStyle = color(p.pal ?? recipe.pal)[1];
     ctx.strokeStyle = '#071512';
     ctx.lineWidth = 1.5;
     ctx.lineJoin = 'round';

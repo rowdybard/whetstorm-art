@@ -73,6 +73,32 @@ describe('original Whetstorm artwork contract', () => {
     expect(originalIconSvg(recipe, '<script>')).not.toContain('<script>');
     expect(originalIconSvg(recipe, 'ward', 32)).toContain('width="32"');
   });
+  it('inherits the foreground palette and honors primitive overrides in both painters', () => {
+    const paletteRecipe = {
+      bg: 'fury',
+      pal: 'steel',
+      prims: [{ p: 'sword' }, { p: 'cross', pal: 'blood' }],
+    };
+    const svg = originalIconSvg(paletteRecipe, 'palette');
+    expect(svg).toContain('fill="#daeaf0"');
+    expect(svg).toContain('fill="#ffa9ac"');
+    const fills: unknown[] = [];
+    const ctx = new Proxy(
+      { createLinearGradient: () => ({ addColorStop: () => {} }) },
+      {
+        get(target, key) {
+          return key === 'createLinearGradient' ? target.createLinearGradient : () => {};
+        },
+        set(_target, key, value) {
+          if (key === 'fillStyle') fills.push(value);
+          return true;
+        },
+      },
+    ) as unknown as CanvasRenderingContext2D;
+    paintOriginalIcon(ctx, paletteRecipe, 'palette', 32);
+    expect(fills).toContain('#daeaf0');
+    expect(fills).toContain('#ffa9ac');
+  });
   it('draws the synchronous artwork with finite coordinates on an injected host', () => {
     let draws = 0;
     const state: Record<string, unknown> = {
