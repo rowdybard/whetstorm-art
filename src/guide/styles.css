@@ -1321,7 +1321,7 @@ body.guide-has-sidebar .guide-layout {
   z-index: -1;
   background:
     linear-gradient(180deg, rgba(8, 8, 13, 0.5) 0%, rgba(8, 8, 13, 0.78) 62%, var(--g-bg) 100%),
-    url("/website-hero-eastbrook-v1.webp") center / cover no-repeat;
+    url("/website-hero-road.webp") center / cover no-repeat;
 }
 /* Portrait phones: the wide art's center crop is empty sky, so pull the framing toward
    the foreground figures and trim the height so the CTAs sit near the art, not below a

@@ -121,3 +121,24 @@ bundle with esbuild. Biome checks the touched script/TypeScript files with no
 errors. Generator reproduction is byte-stable; git diff --check passes.
 The GitHub device authorization has expired, so this batch is saved locally
 and as a complete portable backup; no remote push is claimed.
+
+## Owner brief and title/loading integration
+
+Read the owner's 2026-10-26 DOCX in full; preserved its text and source hash in
+docs/whetstorm/OWNER_ART_BRIEF.txt. Follow its priority order and new Whirlblade/
+Skybinder art names. Do not continue illustrating the retired nine-class skills
+or Deeds ahead of the launch kit. Gameplay class migration remains Claude's work.
+
+Four title paintings and an original transparent frame are created and saved.
+The client uses optimized WebPs for title, loading, weekly-track and wiki
+backdrops, preserving the requested PNG masters. The loading catalog replaces
+all eleven old choices with the four new paintings. The rejected valley is
+removed from the shipping tree. Existing scene CSS preserves reduced-motion
+and backdrop-static behavior. A review found a native-shell containing-block
+issue in the frame; the panel now establishes position and isolation, with the
+decorative frame behind its controls and no pointer events or center fill.
+
+Focused tests: 18 pass across three files; full CSS barrel bundles. Frame is
+1024x1536 RGBA, with transparent center/corners. The actual runtime slice is
+400/280/320/280, without fill, to exclude its bottom inner-edge artwork. This
+is not a claim of full-browser verification or completed release gates.

@@ -724,17 +724,17 @@
     <div id="start-screen-backdrop" aria-hidden="true">
       <!-- Cinematic website slideshow. The original trailer is reserved for native shells. -->
       <div class="website-cinematic-art">
-        <div class="website-scene website-scene-eastbrook"></div>
-        <div class="website-scene website-scene-galecrest"></div>
-        <div class="website-scene website-scene-drakelands"></div>
-        <div class="website-scene website-scene-thornpeak"></div>
+        <div class="website-scene website-scene-arena"></div>
+        <div class="website-scene website-scene-road"></div>
+        <div class="website-scene website-scene-smokewatch"></div>
+        <div class="website-scene website-scene-peatfire"></div>
       </div>
       <!-- Looping cinematic background video; poster = static key-art for instant paint + fallback. -->
       <!-- The poster (static key-art) paints instantly. The 5.7 MB looping trailer
            is NOT eagerly fetched: no autoplay/preload/source here, main.ts attaches
            the source and plays only on capable devices (see applyLandingBackdrop).
            Phones / Save-Data / reduced-motion / high-contrast keep the poster only. -->
-      <video id="bg-home" class="bg-trailer bg-home" loop muted playsinline preload="none" poster="/ui/whetstorm/entry-landscape.webp" aria-hidden="true"></video>
+      <video id="bg-home" class="bg-trailer bg-home" loop muted playsinline preload="none" poster="/website-hero-arena.webp" aria-hidden="true"></video>
       <div class="website-cinematic-atmosphere"></div>
       <div class="bg-trailer-scrim"></div>
       <div class="portal-ring"></div>

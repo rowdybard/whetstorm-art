@@ -237,12 +237,6 @@
       "path": "status/combat.svg"
     },
     {
-      "path": "entry-landscape.webp",
-      "identity": "entry-landscape",
-      "source": "OpenAI built-in image generation, original Whetstorm landscape, no input images",
-      "sha256": "af6d9d262bddae04af4de1766a8e84282d6e8abee26b66a73d0e375af97dabc9"
-    },
-    {
       "path": "map-markers/dungeon-entrance.svg",
       "subject": "Stone arch with inward/downward arrow",
       "sha256": "9ac629885b79ed463f932e061675036a8cd2274d08135cd475276c693ca89939",

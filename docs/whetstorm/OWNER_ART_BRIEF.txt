@@ -1,0 +1,369 @@
+Owner-supplied brief, 2026-10-26. DOCX SHA-256: a65e06da9c5fae3c9760d7591fb2cf7ad0951af930018fdfdfc37db5443006bb
+
+Whetstorm art: what to replace first, for ChatGPT
+
+Oct 26, 2026 · @Daniel Shattuck
+
+Start with the title screen. It is the first thing anyone sees, and today it shows World of ClaudeCraft's own towns, which we are not allowed to ship. Then the seven class emblems and the Bulwark's skill icons, because the old ones are bought art that cannot go in a game we sell.
+
+The order
+
+Top of the list goes first. Everything on it is either art we are not allowed to sell with, or art with no record of who made it, and all of it reads as World of ClaudeCraft at a glance.
+
+#
+
+What
+
+How many
+
+Why now
+
+Where players see it
+
+1
+
+Title screen paintings and the frame around the login box
+
+4 paintings, 1 frame
+
+The four paintings show WoC's own towns, and the frame is WoC's. We have no right to ship any of them. The same paintings also replace the 11 WoC loading screens.
+
+Second 0, every visit
+
+2
+
+Class emblems for the seven classes
+
+7
+
+The class picker still shows WoC's nine classes, with no record of who drew them.
+
+Character creation, minute 1
+
+3
+
+The Bulwark's skill icons, then the other six classes'
+
+8 per class, 56 in all
+
+Today's skill icons are bought art that only WoC's owners may use. The Bulwark is the first class being built, so its icons are needed first.
+
+The skill bar, every second of play
+
+4
+
+HUD buttons, quest markers, coins and mouse pointers
+
+about 8 buttons, 6 markers, 3 coins, 3 pointers first
+
+WoC's own paintings, on screen all the time.
+
+Every second of play
+
+5
+
+Old Peatfire
+
+1 picture, then a 3D model
+
+He is the first big boss, and his model came from someone else's file with no record. We cannot launch with it.
+
+The first boss fight
+
+6
+
+Weapons for the seven classes
+
+9 pictures (the Bulwark's spear and shield first)
+
+The weapon carries the +15 glow and lightning. The starter weapons have no record of who made them. Weapons are the easiest models to turn from a picture into 3D.
+
+In hand from second 1
+
+7
+
+The arena pieces
+
+about 6 pictures (wall, gate, stands, banners, floor)
+
+Every new player spends levels 1 to 3 there. Do these once the arena's look is set, so they match painting 1.
+
+Levels 1 to 3
+
+8
+
+Starting gear pictures for the new classes
+
+about 15
+
+Every WoC item picture is theirs. Only the ones a new player sees first are urgent.
+
+The bag, minute 1
+
+9
+
+The seven class bodies
+
+7 pictures, then 3D models
+
+Today's bodies come from a free pack we can likely keep, so this is about looks, not rights. Bodies take the most work after the picture.
+
+Every second of play
+
+Rows 1 to 4 and 8 are flat pictures, which ChatGPT does well. Rows 5, 6, 7 and 9 become 3D models: ChatGPT makes the picture, and a picture-to-3D tool makes the model after.
+
+How to ask ChatGPT
+
+Ask for PNG pictures, one per message. ChatGPT cannot make a 3D model that moves in the game, so never ask it for a .glb: for anything 3D, ask for the concept picture below, and the model gets made from it.
+
+Kind
+
+Ask for
+
+Save it as (folder in the zip)
+
+Title screen paintings
+
+Wide landscape PNG
+
+public/website-hero-arena.png (and -road, -smokewatch, -peatfire)
+
+Login frame
+
+Tall PNG, 1024 x 1536, transparent background and a see-through middle
+
+public/website-portal-frame.png
+
+Class emblems
+
+Square PNG, painted edge to edge
+
+public/ui/classes/bulwark.png (one per class)
+
+Skill icons
+
+Square PNG, painted edge to edge, no border, no text. The game draws its own frame.
+
+public/ui/skills/bulwark/bulwark_spear_thrust.png
+
+Item pictures
+
+Square PNG, the whole item centred on a dark painted background, no border
+
+public/ui/items/<item name>.png
+
+HUD buttons, markers, pointers
+
+Square PNG, transparent background, a chunky shape with a thick dark outline
+
+public/ui/chrome/bags.png, public/ui/map-markers/quest_available.png
+
+Anything that becomes 3D
+
+One PNG on a plain white background, no shadow, the whole thing in frame. Weapons and props: three-quarter view. Characters and Old Peatfire: facing the camera, arms straight out to the sides. Four-legged creatures: from the side.
+
+docs/design/whetstorm-concepts/<name>.png
+
+Sending them back: ask ChatGPT for a zip with each picture at its path, plus a short CHANGES.md that says what each picture is. If it cannot zip its pictures, just save them and drop them in our chat with a line saying which is which. The names can be rough: I fix names, sizes and file types, and wire each picture into the game.
+
+The style line
+
+Send this as the first message of a new ChatGPT chat, then send the prompts below in that same chat, so every picture looks like the same game. It is a first draft of Whetstorm's look: change any words you like, then keep using your version everywhere.
+
+For every picture in this chat, use the Whetstorm art style: original stylized fantasy with a hand-painted look, bold clean shapes and strong silhouettes, slightly heroic proportions and oversized weapons, warm sunlit sandstone, worn leather and forged steel against slate-blue storm skies, a crackling white-blue lightning accent, soft painterly light from the upper left. No text, no letters, no logos, no watermark. An original design that does not copy or imitate any existing game, film or artist.
+
+If a picture drifts off style, paste the line again and say "closer to the style line".
+
+Prompt 1: title screen paintings (4)
+
+These sit behind the login box, so each one keeps its middle calm. Painting 1 also sets the arena's look for row 7: if you picture the arena under a dome rather than open to the sky, say so in that prompt.
+
+A wide landscape painting for a game's title screen, PNG. A great round stone fighting arena on a rocky island at sunrise, seen from high above one side: tiered stands packed with a cheering crowd, a sand floor where two small fighters face off, banners snapping in the wind, the sea and a stormy sky behind. Keep the middle third of the picture calm and a little darker, because a login box will sit on top of it.
+
+
+
+A wide landscape painting for a game's title screen, PNG. A dusty road winding along a green and gold island coast: a river ford with sandy wild cattle, steaming pools of hot mud, yellow gorse hills with smoke from a goblin camp, a burnt black heath, and at the far end a wooden lookout on a cliff. Small travellers with big weapons walk the road. Keep the middle third calm, because a login box will sit on top of it.
+
+
+
+A wide landscape painting for a game's title screen, PNG. A wooden lookout and wharf on a sea cliff at dusk. Across the water on the mainland, a tall column of dark smoke rises from a peat moor, glowing orange at its base. A captain stands at the rail holding a sword that crackles with white-blue lightning. Keep the middle third calm, because a login box will sit on top of it.
+
+
+
+A wide landscape painting for a game's title screen, PNG. A huge, ancient dragon-kin walking on two legs rises from a smouldering bog at night: cracked bark-brown scales caked in peat and moss, embers glowing in the cracks, smoke curling from his jaws. Three small heroes brace below him, one raising a shield. Keep the middle third calm, because a login box will sit on top of it.
+
+Prompt 2: the login frame (1)
+
+This is the border drawn around the login box. Its band widths matter, because the game stretches only the middle.
+
+An ornate frame for a game's login window, PNG, exactly 1024 pixels wide and 1536 pixels tall, front view, flat and symmetrical. Dark forged iron and worn bronze with grey whetstone inlay and thin glowing white-blue lightning lines, and a small crossed-blades crest at the top centre. The bands are thick: the top band is about 400 pixels tall, each side band about 280 pixels wide, and the bottom band about 250 pixels tall. The whole middle inside the frame is empty and fully transparent, and so is everything outside the frame.
+
+Prompt 3: class emblems (7)
+
+Send the first prompt, then each short line after it, one per message.
+
+A square class emblem for a game's character creation screen, PNG, 1024 by 1024. Painted edge to edge on a dark stormy background, no border, no frame, no text. For the Bulwark, a shield-and-spear tank: a tall shield with a spear crossed behind it, set on a round badge.
+
+
+
+Same format, for the Brute, a big-damage warrior: a heavy two-handed great axe buried in a cracked boulder.
+
+
+
+Same format, for the Whirlblade, a fast dual-blade fighter: two curved short blades crossed inside a swirl of wind.
+
+
+
+Same format, for the Ranger, an archer: a drawn longbow with an arrow and a single feather.
+
+
+
+Same format, for the Skybinder, a lightning and wind caster: a staff with a lightning bolt coiled around it inside a storm cloud.
+
+
+
+Same format, for the Cleric, a healer: a mace and a hanging lantern that shines warm light.
+
+
+
+Same format, for the Warden, a support who raises stone cairns: a carved stone cairn with a glowing rune, a staff leaning on it.
+
+Prompt 4: the Bulwark's skill icons (8)
+
+The other six classes follow the same pattern once each one is being built.
+
+A square skill icon for a game's action bar, PNG, 1024 by 1024. Painted edge to edge, no border, no frame, no text. One bold subject, lit against a dark background, that still reads clearly when shrunk to a thumbnail. Spear Thrust: a spearhead stabbing forward over the rim of a shield, with a motion streak.
+
+
+
+Same format. Shield Sweep: a shield swinging through a wide arc, leaving a bright arc trail.
+
+
+
+Same format. Challenge: a spear shaft striking a shield face, with ringing sound waves.
+
+
+
+Same format. Javelin: a javelin in flight, trailing wind.
+
+
+
+Same format. Shield Rush: a shield driving forward with dust bursting behind it.
+
+
+
+Same format. Release: a shockwave bursting outward from the face of a shield.
+
+
+
+Same format. Breakwater: a tall shield wall planted in the ground, splitting a wave of fire around it.
+
+
+
+Same format. Unbroken: a cracked shield held together by a glowing gold and white-blue light.
+
+Prompt 5: HUD buttons, markers, coins and pointers
+
+These show tiny, so simple shapes beat detail. The motifs are new on purpose, not WoC's.
+
+A small game interface icon, PNG, 1024 by 1024, on a fully transparent background. A simple chunky silhouette with a thick dark outline that still reads at 24 pixels, no text, no background shape. Bags: a travel pack with a bedroll strapped on top.
+
+
+
+Same format. Character: a breastplate on a stand with a whetstone emblem.
+
+
+
+Same format. Skills: a blade being sharpened on a whetstone, sparks flying.
+
+
+
+Same format. Talents: three glowing runes joined by lines like a branching path.
+
+
+
+Same format. Quest log: a rolled scroll with a wax seal.
+
+
+
+Same format. Map: a folded map with a red pin.
+
+
+
+Same format. Friends: two gauntlets clasping.
+
+
+
+Same format. Book of Deeds: a medal hanging from a ribbon.
+
+
+
+Same format, as map markers: a gold exclamation mark on a small round shield (a job to pick up), a gold question mark on the same shield (a job ready to hand in), a blue exclamation mark (a repeatable job), a grey exclamation mark with a tiny hourglass (a job on cooldown), a sealed letter (mailbox), and a wooden board with pinned notes (notice board). One picture each.
+
+
+
+Square PNG coins, one picture each: a copper, a silver and a gold coin, each stamped with a whetstone crossed by a lightning bolt, centred on a dark painted background.
+
+
+
+Mouse pointers, PNG on a fully transparent background, one picture each, simple bold shapes with a dark outline, pointing to the upper left: an arrow, a gauntlet with one finger pointing (over enemies), and a hand grabbing (over things to pick up).
+
+Prompt 6: Old Peatfire (concept for his 3D model)
+
+A full-body character concept for a 3D model, PNG. Old Peatfire, a hulking ancient dragon-kin who walks on two legs: cracked bark-brown scales caked in peat and moss, ember-orange glow in the cracks, smoke at his jaws, a short heavy tail, thick clawed arms. Standing in a T-pose facing the camera, arms straight out to the sides, legs slightly apart, the whole body in frame, on a plain white background, no shadow, no text.
+
+Prompt 7: the seven classes' weapons (9 concepts for 3D)
+
+Ask for plain starter weapons with no glow: the game adds the +4 to +15 glow and lightning itself.
+
+A single weapon concept for a 3D model, PNG. The Bulwark's starter spear: a one-handed spear with a broad leaf-shaped blade and a leather-wrapped grip. Shown whole in a three-quarter view, centred, on a plain white background, no shadow, no hands, no glow, no text. Big, chunky, readable shapes, slightly oversized.
+
+
+
+Same format. The Bulwark's shield: a tall rounded shield of iron-banded wood with a grey whetstone boss in the centre.
+
+
+
+Same format. The Brute's great axe: a two-handed axe with a heavy crescent head and a long ash handle.
+
+
+
+Same format. The Whirlblade's blade: one curved short sword (the class carries a pair).
+
+
+
+Same format. The Ranger's longbow: a recurved wooden bow with bone tips and a wrapped grip.
+
+
+
+Same format. The Skybinder's staff: a tall staff topped with a cage of copper wire around a pale crystal.
+
+
+
+Same format. The Cleric's mace: a one-handed flanged mace with a sun-shaped head.
+
+
+
+Same format. The Cleric's hand lantern: a small brass lantern on a short chain.
+
+
+
+Same format. The Warden's staff: a carved two-handed staff with a rough stone head bound in roots.
+
+Skip these for now
+
+The old nine classes' skill icons (477 of them). They go away when the old classes are hidden, so draw icons only for the seven new classes.
+
+Creature pictures in the target frame. The game makes these from the 3D models by itself.
+
+Map backgrounds. Made from the land by itself.
+
+Grass, trees, rocks, sky, water and most small props. They come from free packs we are allowed to sell with.
+
+The starter road's creature bodies (the bull, frog, fox, goblin, little rock creature and small dragon). Same free pack: fine until new creature art comes.
+
+The island's mailbox, notice board, bank chest and ferry bell. The arena replaces that camp.
+
+Store art, brand logos and the Claudium set. They get deleted, not replaced.
+
+WoC's art register also lists the rest of its item pictures (about 1,470) and the Book of Deeds medals (289) as art we cannot sell with, so they must go before launch too. They come after this list, in the order players meet them.

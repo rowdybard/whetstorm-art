@@ -1,7 +1,7 @@
 {
   "source": "OpenAI built-in image generation",
   "referenceImages": [],
-  "brief": "Whetstorm art what to replace first, for ChatGPT.docx, 2026-10-26",
+  "brief": "OWNER_ART_BRIEF.txt",
   "records": [
     {
       "id": "arena",
@@ -26,6 +26,14 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm wide 16:9 title/loading landscape PNG, OLd PEATFIRE encounter. At night a huge ancient TWO-LEGGED dragon-kin rises out of a smoldering peat bog on the RIGHT THIRD, thick clawed arms, short heavy tail, bark-brown scales caked with peat and moss, a few broad ember-orange cracks, smoke curling from the jaws. Three small heroes brace on the LEFT LOWER edge, one raising a tall shield, another holding a large weapon. The middle third stays calm and darker: simple mist and water negative space where a login box will appear. Bold clean strong silhouettes, original stylized hand-painted fantasy, broad paint shapes, deliberately restrained detail and simplified anatomy, not photorealism or a high-fidelity 3D render. Slate-blue storm night, deep teal moss, orange embers and a small white-blue lightning accent. Upper-left soft moonlight. Clear monumental shapes, no noisy particle field. No text, letters, logos, watermark, UI or border. Original design, no imitation of any existing game, film or artist.",
       "source": "generated_images/exec-e04dd709-4a09-4a31-84f8-3ffe565adf45.png",
       "path": "public/website-hero-peatfire.png"
+    },
+    {
+      "id": "portal-frame",
+      "prompt": "Use case: stylized-concept. Asset: original Whetstorm login window FRAME ONLY. Portrait PNG exactly 1024 pixels wide by 1536 pixels tall. A flat symmetrical front-facing frame, dark forged iron and worn bronze with grey whetstone inlay, restrained thin white-blue lightning lines, a small crossed-blades crest at the TOP CENTER integrated entirely inside the top band. Bold clean hand-painted fantasy shapes, broad planes, modest ornament with no tiny filigree. Functional nine-slice geometry is essential: top band about400px tall, side bands about280px wide each, bottom band about250px tall. The interior opening spans roughly x280..744,y400..1286 and is ENTIRELY EMPTY and truly transparent, no smoky backdrop or inset panel. Everything outside the frame also truly transparent. Flat straight inner edges with a rectangular see-through middle that can surround live HTML login controls. No background scene, no objects in the center, no text, letters, logos, watermarks, shadows outside the silhouette, or perspective. The iron is a simple dark slab with bronze corner plates and grey stone strips, restrained white-blue sparks inside the bands. Soft upper-left painterly light. Original design, no imitation of existing game, film or artist.",
+      "editPrompt": "Edit this Whetstorm login frame only to make it production-ready as a nine-slice PNG. Preserve the same dark forged iron, bronze, whetstone and crossed blades design and portrait dimensions exactly1024x1536. Ensure the ENTIRE rectangular opening x280 through743 and y400 through1285 has strictly zero alpha, completely transparent. Adjust the inner bottom edge down slightly if necessary so it does not intrude into that opening. Corners and everything outside the frame must also be completely transparent with no smoky residual. No black or colored background. Preserve all other frame artwork, original style, symmetry and colors. No text or new ornament.",
+      "path": "public/website-portal-frame.png",
+      "source": "generated_images/exec-eb9d7f1e-0baf-41b0-a83b-635f5213adc0.png",
+      "processing": "Original frame edited with built-in image generation. Source has alpha; center is excluded by CSS nine-slice without fill. Actual safe slice is 400 280 320 280."
     }
   ]
 }

@@ -23028,16 +23028,16 @@
     mask-image: linear-gradient(90deg, transparent, var(--color-ink) 40%, transparent);
   }
   .weekly-track-raid .weekly-track-heading::before {
-    background-image: url("/textures/loading/drakemaw-caldera.webp");
+    background-image: url("/website-hero-peatfire.webp");
   }
   .weekly-track-dungeon .weekly-track-heading::before {
-    background-image: url("/textures/loading/hollow-crypt-party.webp");
+    background-image: url("/website-hero-smokewatch.webp");
   }
   .weekly-track-world .weekly-track-heading::before {
-    background-image: url("/textures/loading/eastbrook-square.webp");
+    background-image: url("/website-hero-road.webp");
   }
   .weekly-track-pvp .weekly-track-heading::before {
-    background-image: url("/textures/loading/eastbrook-mine-duel.webp");
+    background-image: url("/website-hero-arena.webp");
   }
   .weekly-track-heading h3 {
     font-family: var(--font-display);

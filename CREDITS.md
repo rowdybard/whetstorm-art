@@ -36,9 +36,12 @@ in `src/ui/original_icon_art.ts` were authored for this fork. The icon renderer
 uses original polygon silhouettes and enamel palettes. Existing recipe metadata
 supplies semantic subjects, placement and school, not external bitmap content.
 The older asset records below retain their historical owners and restrictions.
-The original `public/ui/whetstorm/entry-landscape.webp` was made for Whetstorm
-with OpenAI built-in image generation, without reference images. Its optimized
-shipping bytes are recorded in the replacement mapping.
+The earlier Whetstorm entry landscape was rejected and removed from the
+shipping tree; its generation record remains in Git history. The four original
+`public/website-hero-{arena,road,smokewatch,peatfire}.png` paintings and
+`public/website-portal-frame.png` were made with OpenAI built-in image generation
+from text only. Prompts, PNG masters and optimized WebP copies are recorded in
+`docs/whetstorm/title-art-generation.json`.
 This replacement does not relicense or declare all remaining game media cleared.
 
 The 29 map/minimap markers, 13 creature-family crests and two additional status

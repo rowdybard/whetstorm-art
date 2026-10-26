@@ -60,7 +60,7 @@
       display: block;
       pointer-events: none;
       background-image:
-        url("/ui/whetstorm/entry-landscape.webp"), url("/textures/loading/eastbrook-square.webp");
+        url("/website-hero-arena.webp");
       background-position: center 48%;
       background-size: cover;
       transform: scale(1.035);
@@ -74,19 +74,19 @@
       opacity: 0;
       animation: website-scene-crossfade 40s linear infinite;
     }
-    & .website-scene-eastbrook {
-      background-image: url("/ui/whetstorm/entry-landscape.webp");
+    & .website-scene-arena {
+      background-image: url("/website-hero-arena.webp");
     }
-    & .website-scene-galecrest {
-      background-image: url("/ui/whetstorm/entry-landscape.webp");
+    & .website-scene-road {
+      background-image: url("/website-hero-road.webp");
       animation-delay: -30s;
     }
-    & .website-scene-drakelands {
-      background-image: url("/ui/whetstorm/entry-landscape.webp");
+    & .website-scene-smokewatch {
+      background-image: url("/website-hero-smokewatch.webp");
       animation-delay: -20s;
     }
-    & .website-scene-thornpeak {
-      background-image: url("/ui/whetstorm/entry-landscape.webp");
+    & .website-scene-peatfire {
+      background-image: url("/website-hero-peatfire.webp");
       animation-delay: -10s;
     }
     & .website-cinematic-art::after {
@@ -559,7 +559,7 @@
       border: solid transparent;
       border-width: var(--website-gateway-frame);
       border-image:
-        url("/ui/whetstorm/entry-landscape.webp") 400 280 250 280 fill / 1 22% / 0 stretch;
+        url("/website-portal-frame.png") 400 280 320 280 / 1 / 0 stretch;
     }
     & :is(#mode-select, #login-panel, #forgot-panel, #reset-panel)::after {
       content: "";
@@ -1945,6 +1945,8 @@
 
   /* Whetstorm entry surfaces: original typography and quiet, legible chrome. */
   #start-screen :is(#mode-select, #login-panel, #forgot-panel, #reset-panel) {
+    position: relative;
+    isolation: isolate;
     border: 1px solid var(--ws-line);
     border-image: none;
     border-radius: 12px;
@@ -2010,10 +2012,37 @@
 
   #start-screen #start-screen-backdrop {
     background: linear-gradient(90deg, var(--ws-veil), transparent 65%),
-      url("/ui/whetstorm/entry-landscape.webp") center / cover no-repeat;
+      url("/website-hero-arena.webp") center / cover no-repeat;
   }
-  #start-screen :is(.website-cinematic-art, .portal-ring, .portal-ring-reverse, .nebula-overlay) {
+  #start-screen :is(.portal-ring, .portal-ring-reverse, .nebula-overlay) {
     display: none;
+  }
+  #start-screen .website-cinematic-art {
+    display: block;
+    animation: none;
+    transform: none;
+    background-image: url("/website-hero-arena.webp");
+  }
+  #start-screen :is(#mode-select, #login-panel, #forgot-panel, #reset-panel)::before {
+    content: "";
+    position: absolute;
+    inset: -20px -16px;
+    border: solid transparent;
+    border-width: 64px 36px 46px;
+    border-image: url("/website-portal-frame.png") 400 280 320 280 / 1 / 0 stretch;
+    pointer-events: none;
+    z-index: -1;
+  }
+  @media (max-width: 600px) {
+    #start-screen :is(#mode-select, #login-panel, #forgot-panel, #reset-panel)::before {
+      inset: -12px -8px;
+      border-width: 40px 24px 30px;
+    }
+  }
+  @media (forced-colors: active) {
+    #start-screen :is(#mode-select, #login-panel, #forgot-panel, #reset-panel)::before {
+      content: none;
+    }
   }
   #start-screen :is(.homepage-header, .homepage-footer) {
     background: var(--ws-panel);
