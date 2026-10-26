@@ -58,3 +58,27 @@ IDs and controls remain. The live website is not changed by this work.
 The canonical online/offline creation IDs (`charselect-panel`, `charcreate-panel`,
 `offline-select`) are used for the creation surface rules. Browser verification
 and the complete game's pre-merge gate remain outstanding.
+
+## Verified implementation checkpoint
+
+Focused Vitest suite: `tests/whetstorm_original_art.test.ts`, 8 tests passed
+with one worker and a minimal Node-only configuration. It covers the full live
+411-ability and 1626-item catalogs, 26 originating trinket/aura pairs, closed
+class identities, hostile paths, deliberate Paladin modifiers, determinism and
+finite Canvas-host drawing. The worker API was exercised with an injected host;
+this is not a real browser PNG or gameplay proof.
+
+Other checks: the original art module passes standalone strict TypeScript 5.9
+checking. This is a focused fallback, not the project's native TypeScript 7
+full check. Icon/talent/class/spec/currency/cursor modules and the complete CSS
+barrel bundle with esbuild. HTML comparison preserves all IDs, controls and
+class choices (index: 593 IDs/285 controls; play: 491 IDs/203 controls).
+Gameplay, server, world API, network and dependency files remain unchanged.
+Biome checked the touched TypeScript files with no errors; an existing BASE_URL
+Turborepo warning remains. `git diff --check` passes.
+
+The complete game's legacy raster-art tests need migration to this original
+native-art contract. Full game build/gate and desktop/mobile real-browser review
+are not claimed complete. All work is committed on the feature branch and
+backed up as a portable Git bundle. Do not merge or deploy based on these focused
+checks alone. Leave the live site unchanged, per the owner's instruction.

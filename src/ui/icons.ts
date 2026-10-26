@@ -1,4 +1,4 @@
-import { originalIconUrl, paintOriginalIcon } from './original_icon_art';
+import { originalIconUrl, originalModifierRecipe, paintOriginalIcon } from './original_icon_art';
 // Procedural painted icons for abilities, items and auras.
 //
 // Every icon is composed on a small canvas from layered parts: a rounded
@@ -4299,7 +4299,12 @@ function paintIconCanvas(
   canvas.height = size;
   const ctx = getCanvas2d(canvas);
   if (!seedKey.startsWith('crest|') && !seedKey.startsWith('profession|')) {
-    paintOriginalIcon(ctx, recipe, seedKey, size);
+    paintOriginalIcon(
+      ctx,
+      originalModifierRecipe(seedKey.split('|')[1] ?? '') ?? recipe,
+      seedKey,
+      size,
+    );
     return;
   }
   ctx.scale(size / 100, size / 100);
@@ -4401,14 +4406,14 @@ export const QUALITY_COLOR: Record<string, string> = {
 // matching base painting, just as they inherit the base held model.
 // ---------------------------------------------------------------------------
 
-
 export const WEAPON_IMAGE_IDS: ReadonlySet<string> = new Set(Object.keys(ITEM_WEAPON_VARIANTS));
 
 /** Static URL of a weapon's painted inventory art, or null for a non-weapon. */
 export function weaponIconUrl(id: string): string | null {
   const item = Object.hasOwn(ITEMS, id) ? ITEMS[id] : undefined;
   return Object.hasOwn(ITEM_WEAPON_VARIANTS, id) || item?.kind === 'weapon'
-    ? originalArt('item', id) : null;
+    ? originalArt('item', id)
+    : null;
 }
 
 // Hand-picked image icons for class abilities, committed as 128px WebP under
@@ -4977,10 +4982,13 @@ export const ABILITY_ART_PENDING = new Set<string>([
 
 /** Static URL of an ability's image icon, or null if it uses a recipe. */
 export function abilityImageUrl(id: string): string | null {
-  return Object.hasOwn(ABILITIES, id) || ABILITY_IMAGE_IDS.has(id) || hasExplicitAbilityIcon(id)
-    ? originalArt('ability', id) : null;
+  return Object.hasOwn(ABILITIES, id) ||
+    ABILITY_IMAGE_IDS.has(id) ||
+    hasExplicitAbilityIcon(id) ||
+    originalModifierRecipe(id)
+    ? originalArt('ability', id)
+    : null;
 }
-
 
 /** Exact aura-art identities whose shipping files live directly under /ui/auras. */
 export const AURA_FILE_IMAGE_IDS: ReadonlySet<string> = new Set([
@@ -5097,9 +5105,12 @@ export function hasAuraImageIdentity(id: string): boolean {
 
 /** Static art for an exact aura identity, including ordinary ability-art reuse. */
 export function auraImageUrl(id: string): string | null {
-  return EXTERNAL_AURA_IMAGE_URLS.has(id) || AURA_FILE_IMAGE_IDS.has(id) ||
-    hasAbilityIconIdentity(id) || Object.hasOwn(AURA_RECIPES, id)
-    ? originalArt('aura', id) : null;
+  return EXTERNAL_AURA_IMAGE_URLS.has(id) ||
+    AURA_FILE_IMAGE_IDS.has(id) ||
+    hasAbilityIconIdentity(id) ||
+    Object.hasOwn(AURA_RECIPES, id)
+    ? originalArt('aura', id)
+    : null;
 }
 
 /** True when an aura identity can reuse known ability or modifier artwork. */
@@ -5510,8 +5521,7 @@ export const ITEM_ART_PENDING = new Set<string>([
 
 /** Static URL of an item's (or a UI pseudo-item's) image icon, or null if it uses a recipe. */
 export function itemImageUrl(id: string): string | null {
-  return Object.hasOwn(ITEMS, id) || UI_ITEM_IMAGE_IDS.has(id)
-    ? originalArt('item', id) : null;
+  return Object.hasOwn(ITEMS, id) || UI_ITEM_IMAGE_IDS.has(id) ? originalArt('item', id) : null;
 }
 
 // Book of Deeds crest ids are shaped `deed_<deedId>` (deeds_view.ts deedCrestId). Those whose
@@ -5702,11 +5712,15 @@ function originalArt(kind: IconKind, id: string, size = DEFAULT_ICON_SIZE): stri
   const historical = kind === 'aura' ? EXTERNAL_AURA_IMAGE_URLS.get(id) : undefined;
   const match = historical?.match(/^\/ui\/items\/([a-z0-9_]+)\.webp$/);
   if (match && Object.hasOwn(ITEMS, match[1])) return originalArt('item', match[1], size);
-  return originalIconUrl(resolveRecipe(kind, id), `${kind}|${id}|${size}`, size);
+  return originalIconUrl(
+    originalModifierRecipe(id) ?? resolveRecipe(kind, id),
+    `${kind}|${id}|${size}`,
+    size,
+  );
 }
 
 function staticIconUrl(kind: IconKind, id: string): string | null {
-  return kind === 'crest' ? deedImageUrl(id) ?? crestIconUrl(id) : originalArt(kind, id);
+  return kind === 'crest' ? (deedImageUrl(id) ?? crestIconUrl(id)) : originalArt(kind, id);
 }
 
 /** Internal bridge for the worker-backed idle warmer. */

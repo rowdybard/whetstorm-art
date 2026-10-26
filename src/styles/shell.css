@@ -9738,6 +9738,8 @@
 #charcreate-panel .skin-picker-header {
   display: none;
 
+}
+
   /* Original Whetstorm creation panels retain all existing controls and flow. */
   #start-screen :is(#charselect-panel, #offline-select, #charcreate-panel) {
     background: var(--ws-panel);
@@ -9770,4 +9772,37 @@
     #start-screen :is(.mini-class, .auth-link) { min-height: 44px; }
   }
 
+
+#start-screen :is(.appearance-customizer, .class-details-panel, .cs-news-panel) {
+  background: var(--ws-panel);
+  border: 1px solid var(--ws-line);
+  border-radius: 10px;
+  box-shadow: var(--ws-shadow);
+  color: var(--ws-ivory);
+}
+#start-screen :is(.appearance-customizer .ac-title, .cs-section-header, .skin-picker-header) {
+  color: var(--ws-gold);
+}
+#start-screen .appearance-customizer :is(.ac-label, .ac-sub, .ac-tool-label) {
+  color: var(--ws-muted);
+}
+#start-screen .appearance-customizer :is(.ac-tool, .ac-tab, .ac-seg-btn, .ac-step-btn) {
+  background: var(--ws-ink);
+  border-color: var(--ws-line);
+  color: var(--ws-ivory);
+  border-radius: 5px;
+  box-shadow: none;
+}
+#start-screen .appearance-customizer :is(.ac-tab.sel, .ac-seg-btn.sel) {
+  background: var(--ws-raised);
+  border-color: var(--ws-gold);
+}
+#start-screen .appearance-customizer button:focus-visible {
+  outline: 2px solid var(--ws-focus);
+  outline-offset: 2px;
+}
+@media (pointer: coarse) {
+  #start-screen .appearance-customizer :is(.ac-tool, .ac-tab, .ac-seg-btn, .ac-step-btn) {
+    min-height: 44px;
+  }
 }
