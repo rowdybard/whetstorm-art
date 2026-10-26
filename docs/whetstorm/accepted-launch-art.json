@@ -1,0 +1,386 @@
+{
+  "date": "2026-10-26",
+  "brief": "OWNER_ART_BRIEF.txt",
+  "assets": [
+    {
+      "id": "arena",
+      "family": "title",
+      "masterPath": "public/website-hero-arena.png",
+      "archivePath": "public/website-hero-arena.png",
+      "masterSha256": "d6571853e845e6491258ebf62c8fbacdd3728903465b9bd97faa36664988ac45",
+      "masterDimensions": [
+        1672,
+        941
+      ],
+      "deliveryPath": "public/website-hero-arena.webp",
+      "deliverySha256": "3b456a0c5017a664f350ba589c6d7bfc78464ec0169c611d61f29277d1fd24cd",
+      "deliveryDimensions": [
+        1672,
+        941
+      ],
+      "deliveryBytes": 298180,
+      "integration": "title/loading wired"
+    },
+    {
+      "id": "road",
+      "family": "title",
+      "masterPath": "public/website-hero-road.png",
+      "archivePath": "public/website-hero-road.png",
+      "masterSha256": "af58851c494f90cdda6185c9f500a5366d3aafd2ede8ada65cd4ec7a1afc2f84",
+      "masterDimensions": [
+        1672,
+        941
+      ],
+      "deliveryPath": "public/website-hero-road.webp",
+      "deliverySha256": "627dbab5a7c282ecae40c0e14326da9b2664c60077e9e5ae170e17c1f0022dfe",
+      "deliveryDimensions": [
+        1672,
+        941
+      ],
+      "deliveryBytes": 480812,
+      "integration": "title/loading wired"
+    },
+    {
+      "id": "smokewatch",
+      "family": "title",
+      "masterPath": "public/website-hero-smokewatch.png",
+      "archivePath": "public/website-hero-smokewatch.png",
+      "masterSha256": "95db5e3f0b63d707ad3b6fa09f08854562b01fa443c5c0a3cb28a76ae127f8a8",
+      "masterDimensions": [
+        1672,
+        941
+      ],
+      "deliveryPath": "public/website-hero-smokewatch.webp",
+      "deliverySha256": "3b72c2971ef8435bb3f67743ac3e06a1bba27fa9d75ba54a4446d8c95aa7b617",
+      "deliveryDimensions": [
+        1672,
+        941
+      ],
+      "deliveryBytes": 156358,
+      "integration": "title/loading wired"
+    },
+    {
+      "id": "peatfire",
+      "family": "title",
+      "masterPath": "public/website-hero-peatfire.png",
+      "archivePath": "public/website-hero-peatfire.png",
+      "masterSha256": "0a4b9030a0998e5c712e767a5b3b460cffd942fdf10b56fed8a27822fadb0105",
+      "masterDimensions": [
+        1672,
+        941
+      ],
+      "deliveryPath": "public/website-hero-peatfire.webp",
+      "deliverySha256": "a6b02100ffd352f2cee56310394ff323cc6706c0d71a5168f01a1b75d56ecbcd",
+      "deliveryDimensions": [
+        1672,
+        941
+      ],
+      "deliveryBytes": 195338,
+      "integration": "title/loading wired"
+    },
+    {
+      "id": "portal-frame",
+      "family": "title",
+      "masterPath": "public/website-portal-frame.png",
+      "archivePath": "public/website-portal-frame.png",
+      "masterSha256": "ae73033e8bebaee9d2f626f1717e3ebb94e0af79782ea6ef696d62e4003c19a9",
+      "masterDimensions": [
+        1024,
+        1536
+      ],
+      "deliveryPath": "public/website-portal-frame.png",
+      "deliverySha256": "ae73033e8bebaee9d2f626f1717e3ebb94e0af79782ea6ef696d62e4003c19a9",
+      "deliveryDimensions": [
+        1024,
+        1536
+      ],
+      "deliveryBytes": 2182138,
+      "integration": "title/loading wired"
+    },
+    {
+      "id": "bulwark",
+      "family": "class",
+      "masterPath": "public/ui/classes/bulwark.png",
+      "archivePath": "public/ui/classes/bulwark.png",
+      "masterSha256": "5d7f06a895a010fb73bc66b3828a14f7a2f04bbeb0494e63c351dfed52324298",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/classes/bulwark.webp",
+      "deliverySha256": "0ddc8a4c348188b3b7dfb58aa54d4323499e7ff814c65131ae3e980602072473",
+      "deliveryDimensions": [
+        256,
+        256
+      ],
+      "deliveryBytes": 23228,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "brute",
+      "family": "class",
+      "masterPath": "public/ui/classes/brute.png",
+      "archivePath": "public/ui/classes/brute.png",
+      "masterSha256": "8f7d6c3cd3f0862955a250572585b5017e421d209725148d86bdd814154f0973",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/classes/brute.webp",
+      "deliverySha256": "9e6484d902cccd2a49ceb05cbf991b4f86e053ba71fa6e47ab787cb1512c3e5b",
+      "deliveryDimensions": [
+        256,
+        256
+      ],
+      "deliveryBytes": 19140,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "whirlblade",
+      "family": "class",
+      "masterPath": "public/ui/classes/whirlblade.png",
+      "archivePath": "public/ui/classes/whirlblade.png",
+      "masterSha256": "4e5c5fb21371f8a52f1ab16e0bef954adc3f1e3ac1489395d4dbb28d8ef2b331",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/classes/whirlblade.webp",
+      "deliverySha256": "6b6e3e1b88196e453e91fdb98a35807dc7c58bc92c5c74386b1b2a6aa552f17f",
+      "deliveryDimensions": [
+        256,
+        256
+      ],
+      "deliveryBytes": 19714,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "ranger",
+      "family": "class",
+      "masterPath": "public/ui/classes/ranger.png",
+      "archivePath": "public/ui/classes/ranger.png",
+      "masterSha256": "e37aced1de08a2dc05defcf2ce0cf7d4995d6c905ebcfd10e0e6c9bb9635dc7a",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/classes/ranger.webp",
+      "deliverySha256": "f681419306579a098bdae46d49e892d2da8455c92b01cbf3f5bd3ada4550aad8",
+      "deliveryDimensions": [
+        256,
+        256
+      ],
+      "deliveryBytes": 14266,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "skybinder",
+      "family": "class",
+      "masterPath": "public/ui/classes/skybinder.png",
+      "archivePath": "public/ui/classes/skybinder.png",
+      "masterSha256": "e8c736f925a448213738b0b9a5db235b274f236f6c94b18a470b414af0199b22",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/classes/skybinder.webp",
+      "deliverySha256": "4cbd4c46e20fdbe3e8ea3f807c4d0d0ebf3b69e147716db644a05c59b1e155f5",
+      "deliveryDimensions": [
+        256,
+        256
+      ],
+      "deliveryBytes": 20990,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "cleric",
+      "family": "class",
+      "masterPath": "public/ui/classes/cleric.png",
+      "archivePath": "public/ui/classes/cleric.png",
+      "masterSha256": "abd95576af177086b5e4978bd07d823812fb0755ed0f4b1c2723e792792c3414",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/classes/cleric.webp",
+      "deliverySha256": "311106cdd1de3f70db821ad3aaa3c95cac2aa659c10c1429325ea77559812215",
+      "deliveryDimensions": [
+        256,
+        256
+      ],
+      "deliveryBytes": 12778,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "warden",
+      "family": "class",
+      "masterPath": "public/ui/classes/warden.png",
+      "archivePath": "public/ui/classes/warden.png",
+      "masterSha256": "7f9fda85d9e3fd0c93ad7ff87449d3844e940344517cb9a10a5941d5cc481a23",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/classes/warden.webp",
+      "deliverySha256": "9bc073ed3167ed1f6409c700bbaab8a954ec3ace4ce75a642cbf397dd1b2e039",
+      "deliveryDimensions": [
+        256,
+        256
+      ],
+      "deliveryBytes": 17596,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "bulwark_spear_thrust",
+      "family": "ability",
+      "masterPath": "docs/design/whetstorm-art/skills/bulwark/bulwark_spear_thrust.png",
+      "archivePath": "public/ui/skills/bulwark/bulwark_spear_thrust.png",
+      "masterSha256": "bd25913d54afedcaf2bc848abb901577d42864a7faee0a6d7e3f1721e4f1354f",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/skills/bulwark/bulwark_spear_thrust.webp",
+      "deliverySha256": "0ea1690f225a4b348bcb7d58b2efb1ab8f0e8e2a93a479428e48e9afae476437",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 4950,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "bulwark_shield_sweep",
+      "family": "ability",
+      "masterPath": "docs/design/whetstorm-art/skills/bulwark/bulwark_shield_sweep.png",
+      "archivePath": "public/ui/skills/bulwark/bulwark_shield_sweep.png",
+      "masterSha256": "266e0a397ea6e34bc0a56b5ebb9cb8795891dfaca999fe648b8eda37c53ece97",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/skills/bulwark/bulwark_shield_sweep.webp",
+      "deliverySha256": "32c75dc02475d9aec4d5216dd71ffca6b7ba8c0588d6e068a1b7b9b05123b14e",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 6012,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "bulwark_challenge",
+      "family": "ability",
+      "masterPath": "docs/design/whetstorm-art/skills/bulwark/bulwark_challenge.png",
+      "archivePath": "public/ui/skills/bulwark/bulwark_challenge.png",
+      "masterSha256": "da9da65108335d874987ed45177a4668384aaefd416da805760df36fd70d15af",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/skills/bulwark/bulwark_challenge.webp",
+      "deliverySha256": "b31264f58411af8fe6f9a81b80a6ccec0d4b41433e9bb94cee37c576e1ecf370",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 5806,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "bulwark_javelin",
+      "family": "ability",
+      "masterPath": "docs/design/whetstorm-art/skills/bulwark/bulwark_javelin.png",
+      "archivePath": "public/ui/skills/bulwark/bulwark_javelin.png",
+      "masterSha256": "55009c525d98841437bd649c0d90257ef49f38ee7a18b5ba564793a26bcdc949",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/skills/bulwark/bulwark_javelin.webp",
+      "deliverySha256": "f67c42bbd7ffb4ee4792e551c5037e580e522a4867be9acfc80ec13a4036e3fb",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 3192,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "bulwark_shield_rush",
+      "family": "ability",
+      "masterPath": "docs/design/whetstorm-art/skills/bulwark/bulwark_shield_rush.png",
+      "archivePath": "public/ui/skills/bulwark/bulwark_shield_rush.png",
+      "masterSha256": "8771429606234663742e4c8f778400c4303219dfc0ef27b0a47fed67a427e69e",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/skills/bulwark/bulwark_shield_rush.webp",
+      "deliverySha256": "234e3454e2e4eb7ba22e7937ab93e6b3685b2aa3a89ca068625497028f95cbaa",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 6820,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "bulwark_release",
+      "family": "ability",
+      "masterPath": "docs/design/whetstorm-art/skills/bulwark/bulwark_release.png",
+      "archivePath": "public/ui/skills/bulwark/bulwark_release.png",
+      "masterSha256": "e883e01648bdc55582d6710941a85fef072f2789a181829053da4c3cdfdab673",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/skills/bulwark/bulwark_release.webp",
+      "deliverySha256": "22f1f794abff74305addae3d537ae453014bca631862d97d881f95acded6c558",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 8076,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "bulwark_breakwater",
+      "family": "ability",
+      "masterPath": "docs/design/whetstorm-art/skills/bulwark/bulwark_breakwater.png",
+      "archivePath": "public/ui/skills/bulwark/bulwark_breakwater.png",
+      "masterSha256": "a9a4e876d8c273da785708c00bb8bd79f64e00be1f06ba1379025e88ff535357",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/skills/bulwark/bulwark_breakwater.webp",
+      "deliverySha256": "3a43b92508949bb1c5ad639d78ae6b038491ba9858386724ca0d6fc9a69fb4d5",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 8264,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    },
+    {
+      "id": "bulwark_unbroken",
+      "family": "ability",
+      "masterPath": "docs/design/whetstorm-art/skills/bulwark/bulwark_unbroken.png",
+      "archivePath": "public/ui/skills/bulwark/bulwark_unbroken.png",
+      "masterSha256": "cde634d1e9dca55d1e8cd632cf73f0a5363584f946ec2a028215d823f7d701e1",
+      "masterDimensions": [
+        1024,
+        1024
+      ],
+      "deliveryPath": "public/ui/skills/bulwark/bulwark_unbroken.webp",
+      "deliverySha256": "2d3281e06974047cc780bd0105fd21373e7106349fb5539387b529fa17756227",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "deliveryBytes": 4772,
+      "integration": "closed art lookup available; gameplay roster migration not included"
+    }
+  ]
+}

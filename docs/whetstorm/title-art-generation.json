@@ -7,25 +7,29 @@
       "id": "arena",
       "prompt": "Use case: stylized-concept. Asset: original Whetstorm title-screen landscape, wide 16:9 PNG. A great round open-air sandstone fighting arena on a rocky island at sunrise, seen from high above one side. Tiered stands filled with a crowd represented by simple grouped marks, warm sand floor with two tiny fighters, a few strong banners, turquoise sea and slate-blue storm sky beyond. Keep the middle third calm and slightly darker for a login box. Original stylized fantasy, hand-painted illustration with bold CLEAN SHAPES and very strong silhouettes, broad color masses and restrained detail, slightly heroic proportions and oversized weapons, warm sunlit sandstone, worn leather and forged steel, a tiny crackling white-blue lightning accent, soft painterly upper-left light. Lush vibrant but coherent colors. This must read as a clean stylized game painting at thumbnail size, NOT photorealistic, NOT a high-detail 3D render, NOT a dense muddy AI panorama. No text, letters, logos, watermark, UI or borders. Original designs, no existing game, film or artist imitation. Keep the main arena architecture simple and physically coherent.",
       "source": "generated_images/exec-df3ca25e-08ad-47f7-a2a3-6a2c1b0cd015.png",
-      "path": "public/website-hero-arena.png"
+      "path": "public/website-hero-arena.png",
+      "sourceSha256": "d6571853e845e6491258ebf62c8fbacdd3728903465b9bd97faa36664988ac45"
     },
     {
       "id": "road",
       "prompt": "Use case: stylized-concept. Asset: original Whetstorm wide 16:9 title and loading-screen PNG, COAST ROAD. A dusty road winding along a green and gold island coast. Arrange the route clearly from a river ford with sandy wild cattle at left, past a few steaming hot mud pools and yellow gorse hills with smoke from a tiny goblin camp, toward a black burnt heath and a wooden cliff lookout far right. A few very small travelers carry oversized weapons. Middle third calm with broad uninterrupted muted shapes for a login box. Original stylized fantasy HAND-PAINTED LOOK, bold clean broad shapes and strong silhouettes, deliberately simplified terrain, grouped foliage masses, restrained texture; no photorealism or high-fidelity 3D. Warm sunlit sandstone, lush green gorse and grass, worn leather and forged steel, turquoise sea against slate-blue storm skies. Soft upper-left painterly light. Clear readable composition rather than many tiny objects. No text, letters, logos, watermarks, UI or border. Original designs, no imitation of any existing game, film or artist.",
       "source": "generated_images/exec-3b768d9f-ac69-41d1-bf4c-9cf78bc0fad2.png",
-      "path": "public/website-hero-road.png"
+      "path": "public/website-hero-road.png",
+      "sourceSha256": "af58851c494f90cdda6185c9f500a5366d3aafd2ede8ada65cd4ec7a1afc2f84"
     },
     {
       "id": "smokewatch",
       "prompt": "Use case: stylized-concept. Original Whetstorm title/loading painting SMOKEWATCH, wide 16:9 PNG. A wooden lookout and modest wharf on an island sea cliff at dusk. Across calm water on the mainland, one tall dark smoke column rises from a distant peat moor, orange at the base. At the LEFT edge a small captain stands at the rail holding an oversized sword with a thin crackling white-blue lightning accent. Keep the middle third calm and empty, with large shapes of muted turquoise water and slate-blue sky for a login box. ORIGINAL STYLIZED FANTASY illustration, bold graphic silhouettes and deliberately broad painterly planes, restrained simple clean surfaces, avoid tiny details, thick vegetation masses instead of individual leaves, only a few timber beams, NOT photorealistic, NOT a high-fidelity render. Warm sandstone cliffs, worn timber/leather and forged steel, twilight blue and orange contrast, soft painterly upper-left light. Readable at thumbnail size, uncluttered. No text, letters, logos, watermarks, UI or border; do not copy or imitate any existing game, film or artist.",
       "source": "generated_images/exec-b60a0934-f0ac-45d1-8076-5d86b9750570.png",
-      "path": "public/website-hero-smokewatch.png"
+      "path": "public/website-hero-smokewatch.png",
+      "sourceSha256": "95db5e3f0b63d707ad3b6fa09f08854562b01fa443c5c0a3cb28a76ae127f8a8"
     },
     {
       "id": "peatfire",
       "prompt": "Use case: stylized-concept. Original Whetstorm wide 16:9 title/loading landscape PNG, OLd PEATFIRE encounter. At night a huge ancient TWO-LEGGED dragon-kin rises out of a smoldering peat bog on the RIGHT THIRD, thick clawed arms, short heavy tail, bark-brown scales caked with peat and moss, a few broad ember-orange cracks, smoke curling from the jaws. Three small heroes brace on the LEFT LOWER edge, one raising a tall shield, another holding a large weapon. The middle third stays calm and darker: simple mist and water negative space where a login box will appear. Bold clean strong silhouettes, original stylized hand-painted fantasy, broad paint shapes, deliberately restrained detail and simplified anatomy, not photorealism or a high-fidelity 3D render. Slate-blue storm night, deep teal moss, orange embers and a small white-blue lightning accent. Upper-left soft moonlight. Clear monumental shapes, no noisy particle field. No text, letters, logos, watermark, UI or border. Original design, no imitation of any existing game, film or artist.",
       "source": "generated_images/exec-e04dd709-4a09-4a31-84f8-3ffe565adf45.png",
-      "path": "public/website-hero-peatfire.png"
+      "path": "public/website-hero-peatfire.png",
+      "sourceSha256": "0a4b9030a0998e5c712e767a5b3b460cffd942fdf10b56fed8a27822fadb0105"
     },
     {
       "id": "portal-frame",
@@ -33,7 +37,9 @@
       "editPrompt": "Edit this Whetstorm login frame only to make it production-ready as a nine-slice PNG. Preserve the same dark forged iron, bronze, whetstone and crossed blades design and portrait dimensions exactly1024x1536. Ensure the ENTIRE rectangular opening x280 through743 and y400 through1285 has strictly zero alpha, completely transparent. Adjust the inner bottom edge down slightly if necessary so it does not intrude into that opening. Corners and everything outside the frame must also be completely transparent with no smoky residual. No black or colored background. Preserve all other frame artwork, original style, symmetry and colors. No text or new ornament.",
       "path": "public/website-portal-frame.png",
       "source": "generated_images/exec-eb9d7f1e-0baf-41b0-a83b-635f5213adc0.png",
-      "processing": "Original frame edited with built-in image generation. Source has alpha; center is excluded by CSS nine-slice without fill. Actual safe slice is 400 280 320 280."
+      "processing": "Original frame edited with built-in image generation. Source has alpha; center is excluded by CSS nine-slice without fill. Actual safe slice is 400 280 320 280.",
+      "sourceSha256": "ae73033e8bebaee9d2f626f1717e3ebb94e0af79782ea6ef696d62e4003c19a9",
+      "editInputSha256": "c03347efc396602f19e662ebbeaeba4e5f119230a3b9c0defa1926e11f12d867"
     }
   ]
 }

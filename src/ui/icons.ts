@@ -1,3 +1,4 @@
+import { launchAbilityImageUrl } from './launch_art';
 import { originalIconUrl, originalModifierRecipe, paintOriginalIcon } from './original_icon_art';
 // Procedural painted icons for abilities, items and auras.
 //
@@ -4982,6 +4983,8 @@ export const ABILITY_ART_PENDING = new Set<string>([
 
 /** Static URL of an ability's image icon, or null if it uses a recipe. */
 export function abilityImageUrl(id: string): string | null {
+  const launch = launchAbilityImageUrl(id);
+  if (launch) return launch;
   return Object.hasOwn(ABILITIES, id) ||
     ABILITY_IMAGE_IDS.has(id) ||
     hasExplicitAbilityIcon(id) ||
@@ -5115,7 +5118,9 @@ export function auraImageUrl(id: string): string | null {
 
 /** True when an aura identity can reuse known ability or modifier artwork. */
 export function hasAbilityIconIdentity(id: string): boolean {
-  return Object.hasOwn(ABILITIES, id) || ABILITY_IMAGE_IDS.has(id);
+  return (
+    launchAbilityImageUrl(id) !== null || Object.hasOwn(ABILITIES, id) || ABILITY_IMAGE_IDS.has(id)
+  );
 }
 
 // Item ids with committed painted art under /ui/items/<id>.webp (curated from the CraftPix
@@ -5708,6 +5713,10 @@ export function cachedProceduralIconDataUrl(
 }
 
 function originalArt(kind: IconKind, id: string, size = DEFAULT_ICON_SIZE): string {
+  if (kind === 'ability' || kind === 'aura') {
+    const launch = launchAbilityImageUrl(id);
+    if (launch) return launch;
+  }
   // Exact trinket aura identity shares its originating item's own original art.
   const historical = kind === 'aura' ? EXTERNAL_AURA_IMAGE_URLS.get(id) : undefined;
   const match = historical?.match(/^\/ui\/items\/([a-z0-9_]+)\.webp$/);

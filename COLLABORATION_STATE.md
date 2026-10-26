@@ -142,3 +142,29 @@ Focused tests: 18 pass across three files; full CSS barrel bundles. Frame is
 1024x1536 RGBA, with transparent center/corners. The actual runtime slice is
 400/280/320/280, without fill, to exclude its bottom inner-edge artwork. This
 is not a claim of full-browser verification or completed release gates.
+
+## Seven launch paintings and first Bulwark kit
+
+All seven owner-brief class paintings and all eight Bulwark skill paintings are
+saved, with 1024px PNG masters and compact WebP delivery copies. Skill PNG
+masters live under docs/design/whetstorm-art/skills/bulwark/; the requested ZIP
+maps them to public/ui/skills/bulwark/*.png for the owner's handoff. Only WebP
+skills live in the shipping folder. Source prompts and hashes are preserved;
+accepted-launch-art.json pins all 20 title/frame/class/skill assets.
+
+The launchClassIconUrl seam is ready for Claude's seven-class picker migration.
+The current nine-class picker is NOT silently renamed or replaced. Eight
+Bulwark image identities resolve through abilityImageUrl, hasAbilityIconIdentity
+and iconDataUrl for ability/aura. No ability mechanics or simulation IDs are
+added. Synchronous Canvas/worker fallbacks remain procedural as before.
+
+The final runtime contact sheet checks 96/48/32px, grayscale and circular crops.
+A bounded follow-up review found no concrete runtime regression and confirmed
+the earlier frame positioning fix. Full-game/browser checks remain open.
+ART_CHANGES.md is the handoff inventory and records what remains in brief order.
+
+Final batch verification: 22 focused Vitest tests pass across four files.
+Biome checks the touched TypeScript with no errors, the full CSS barrel and
+icon/launch/loading modules bundle, and both entries preserve every prior
+DOM ID and control. git diff --check passes. This does not replace the full
+game gate or real-browser checks. No remote push or deployment is claimed.

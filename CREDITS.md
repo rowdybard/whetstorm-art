@@ -52,6 +52,16 @@ The replacement mapping records subjects, SHA-256 hashes and the exact retired
 upstream paths. Historical credits below remain authoritative for those retired
 assets; they are not reclassified as Whetstorm artwork.
 
+The seven launch-class paintings (`bulwark`, `brute`, `whirlblade`, `ranger`,
+`skybinder`, `cleric`, `warden`) and eight Bulwark skill paintings are original
+Whetstorm art made with OpenAI built-in image generation from the owner's
+text brief, without third-party image references. PNG source masters, source
+hashes, prompts, numerical resizing and delivery hashes are recorded under
+`docs/whetstorm/launch-art-generation.json` and `accepted-launch-art.json`.
+The skill PNG masters are retained outside public; the shipped versions use
+WebP under `public/ui/skills/bulwark/`. These records do not change any older
+asset's attribution or licence.
+
 ## Do not redistribute these
 
 If you fork this project, or redistribute the repository or a build of it, the
