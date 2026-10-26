@@ -51,6 +51,34 @@
       "prompt": "Use case: stylized-concept. Original Whetstorm WARDEN class emblem. Square PNG1024x1024 painted edge to edge, no border or frame. A small clearly stacked cairn of three broad carved weathered stones with one glowing abstract non-letter rune on the middle stone; a thick carved wooden staff with a rough stone head bound by roots leans diagonally against the cairn. Dark slate-blue painted background, muted moss green and stone grey, small white-blue rune glow and warm upper-left light. Original stylized hand-painted fantasy, bold chunky clean silhouette, broad painterly planes, restrained detail and simplified root shapes, no photorealism, no fine texture. Clear at48px. No characters, hands, scenery, text, letters, logos, watermark, or imitation of existing game, film or artist.",
       "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-a4ac9eca-44e1-425e-8011-bdb47857b4fa.png",
       "path": "public/ui/classes/warden.png"
+    },
+    {
+      "id": "bulwark_spear_thrust",
+      "family": "ability",
+      "prompt": "Use case: stylized-concept. Original Whetstorm BULWARK skill icon SPEAR THRUST. Square PNG1024x1024 painted edge to edge, NO border/frame/text. A single broad leaf-shaped spearhead stabbing diagonally forward toward the upper right over the rim of a tall iron-banded wooden shield, one bright straight motion streak behind it. Spear is dominant, shield only partial lower-left supporting shape. Dark slate-blue painted background. Chunky clean hand-painted fantasy, bold readable silhouette, broad brush planes, simple steel/bronze/leather, warm upper-left highlight and restrained white-blue streak. Legible at32px, no microtexture, no scene, no people or hands, no letters, logos, watermark or imitation of existing game, film or artist.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-ebf6ff4c-e8ab-4597-8ee6-f3d81f661b92.png",
+      "path": "public/ui/skills/bulwark/bulwark_spear_thrust.png"
+    },
+    {
+      "id": "bulwark_shield_sweep",
+      "family": "ability",
+      "prompt": "Use case: stylized-concept. Original Whetstorm BULWARK skill icon SHIELD SWEEP, square PNG1024x1024 painted edge to edge, no border/frame/text. One iron-banded wooden shield seen at a dramatic side angle swinging from lower left to upper right through a wide sweeping arc, one broad warm ivory-gold crescent trail across the lower half. Shield fills upper center. Dark slate-blue painted background, a few broad brush strokes convey motion. Original hand-painted stylized fantasy, chunky bold clean silhouette, broad brush planes, restrained details, upper-left warm steel light. Readable at32px. NO spear, no people or hands, no scenery, letters, logo, watermark, photorealism or existing-game imitation.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-e523663f-4aa3-47c9-93fe-5e41db98c256.png",
+      "path": "public/ui/skills/bulwark/bulwark_shield_sweep.png"
+    },
+    {
+      "id": "bulwark_challenge",
+      "family": "ability",
+      "prompt": "Use case: stylized-concept. Original Whetstorm BULWARK skill icon CHALLENGE. Square PNG1024x1024 painted edge to edge, NO border/frame/text. A tall iron-banded wooden shield faces the viewer almost straight on; a wooden spear SHAFT strikes across its central metal boss horizontally, with THREE bold amber concentric ringing sound-wave arcs spreading to the sides. The rings and clear impact point distinguish this from an attack swing. Dark slate-blue painted background. Chunky clean hand-painted fantasy, bold silhouette, broad brush planes and simplified materials, upper-left warm light, restrained surface detail. Readable at32px. No people, hands, scene, letters, logos, watermark, photorealism or imitation of existing game, film or artist.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-128bbb8c-5a02-4bfa-8cc3-7acae11d9f9f.png",
+      "path": "public/ui/skills/bulwark/bulwark_challenge.png"
+    },
+    {
+      "id": "bulwark_javelin",
+      "family": "ability",
+      "prompt": "Use case: stylized-concept. Original Whetstorm BULWARK skill icon JAVELIN, square PNG1024x1024 painted edge to edge, NO border/frame/text. A single whole slender throwing javelin with broad steel leaf point flying diagonally from lower left to upper right, trailing THREE simple pale-blue wind ribbons along its long shaft. Entire javelin remains inside the square with safe margin. NO shield, no other weapons. Dark slate-blue painted background, bold clean hand-painted fantasy, broad brush planes, warm upper-left highlight on steel, worn leather grip, restrained detail. Readable at32px, no people, hands, scene, letters, logos, watermark, photorealism or existing-game imitation.",
+      "source": "/workspace/scratch/0a18da1dc0ce/generated_images/exec-2c7dc1ca-bb8b-4430-a280-c5e55555b706.png",
+      "path": "public/ui/skills/bulwark/bulwark_javelin.png"
     }
   ]
 }
