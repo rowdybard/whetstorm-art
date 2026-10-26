@@ -1,0 +1,4 @@
+# Cloudflare Pages routing for the web client (docs/whetstorm/deploy-fly-and-pages.md).
+# The guide SPA lives at /wiki with its own shell, as server/static_fallback.ts serves it.
+/wiki /guide 200
+/wiki/* /guide 200

@@ -1,0 +1,81 @@
+# Fly.io config for the Whetstorm game server (the world, REST API and
+# WebSocket). The web client is NOT served from here: Cloudflare Pages hosts it.
+# Step-by-step setup: docs/whetstorm/deploy-fly-and-pages.md
+#
+# Run exactly ONE machine. The world lives in that one process's memory, so two
+# machines would be two separate worlds with players split between them. First
+# deploy with `fly deploy --ha=false`, and never `fly scale count` above 1.
+
+# Fly app names are global. If this one is taken, pick another and change it
+# here AND in PUBLIC_ORIGIN below.
+app = "whetstorm-game"
+# Keep this the same region as the database app (deploy/fly-db/fly.toml;
+# iad = Ashburn, Virginia).
+primary_region = "iad"
+# Shutdown saves every character, the market and the mail before exiting, and
+# can take over a minute (the docker-compose stop_grace_period is 75s too).
+kill_signal = "SIGTERM"
+kill_timeout = 75
+
+[build]
+  dockerfile = "deploy/fly/Dockerfile"
+
+[deploy]
+  # Rolling restarts the one machine in place and waits for its health check.
+  # Never "bluegreen" or "canary": both boot a second world beside the first.
+  strategy = "rolling"
+
+[env]
+  PORT = "8787"
+  # Characters belong to a realm by name, so set it before the first sign-up:
+  # renaming it later hides every existing character.
+  REALM_NAME = "Whetstorm"
+  # This server's own public address, used for profile and sign-in links.
+  PUBLIC_ORIGIN = "https://whetstorm-game.fly.dev"
+  # V8 heap ceiling, kept under the 1 GB machine so an overrun restarts the
+  # process instead of the kernel killing it mid-tick.
+  NODE_OPTIONS = "--max-old-space-size=640"
+  # Fly's proxy appends the app's own IP to X-Forwarded-For, so without this
+  # every player would share one address for rate limits and IP blocks (and the
+  # per-address connection cap would turn players away). Fly sets this header
+  # to the real client address on every request.
+  CLIENT_IP_HEADER = "fly-client-ip"
+  # CLIENT_ORIGINS (the Cloudflare Pages address) and DATABASE_URL are set with
+  # `fly secrets set`, see the guide.
+
+[http_service]
+  internal_port = 8787
+  force_https = true
+  # A game world must keep ticking with nobody online (respawns, timers), and a
+  # cold start would stall the first player, so the machine never sleeps.
+  auto_stop_machines = "off"
+  auto_start_machines = true
+  min_machines_running = 1
+
+  # Every player holds one WebSocket open. Fly's defaults (a soft limit of 20
+  # connections and no hard limit) are tuned for spreading load over many
+  # machines; this one machine carries every player, so the soft limit matches
+  # that and the hard limit keeps a connection flood from swamping it.
+  [http_service.concurrency]
+    type = "connections"
+    soft_limit = 1000
+    hard_limit = 1200
+
+  # /livez answers 200 only while the game loop is still ticking (a wedged
+  # world fails it), and stays 200 while a shutdown drains.
+  [[http_service.checks]]
+    grace_period = "60s"
+    interval = "15s"
+    timeout = "5s"
+    method = "GET"
+    path = "/livez"
+
+# shared-cpu-4x: an idle world already uses about the whole sustained CPU
+# budget of shared-cpu-1x, and 20 test bots used about 40% of one core, so this
+# size is for testing with a handful of players. For a real launch, change
+# size to "performance-1x" and memory to "2gb" (its smallest) and redeploy. A
+# `fly scale vm` command alone is undone by the next deploy, which applies this
+# section again.
+[[vm]]
+  size = "shared-cpu-4x"
+  memory = "1gb"

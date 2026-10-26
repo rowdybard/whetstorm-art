@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://whetstorm.example/sitemap.xml
+Sitemap: https://whetstorm.example/sitemap-characters.xml

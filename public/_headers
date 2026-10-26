@@ -1,0 +1,10 @@
+# Cloudflare Pages response headers (docs/whetstorm/deploy-fly-and-pages.md).
+# Vite content-hashes /assets/ and the media build content-hashes /media/, so
+# they cache forever, matching server/static_cache.ts. Everything else keeps
+# the Pages default of revalidating on each load.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+/media/*
+  Cache-Control: public, max-age=31536000, immutable
+/audio/sfx/runtime-pack.json
+  Cache-Control: no-store

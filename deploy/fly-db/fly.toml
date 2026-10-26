@@ -1,0 +1,55 @@
+# Fly.io config for the Whetstorm database: stock Postgres 16 on one small
+# machine with a disk (a Fly volume). The game server reaches it over Fly's
+# private network at whetstorm-db.internal; it has no public address.
+# Step-by-step setup: docs/whetstorm/deploy-fly-and-pages.md
+#
+# Deploy it from the repo root with: fly deploy -c deploy/fly-db/fly.toml --ha=false
+# One machine only: a second machine would get its own empty disk.
+#
+# Plain Postgres on purpose. The game server sends a startup setting
+# (server/material_source_connection.ts) that connection poolers such as
+# PgBouncer reject or drop, and the database then refuses every save.
+
+# Fly app names are global. If this one is taken, pick another and change it
+# here AND in the DATABASE_URL step of the guide.
+app = "whetstorm-db"
+# The same region as the game server (fly.toml at the repo root).
+primary_region = "iad"
+# SIGINT is Postgres's "fast" shutdown: it ends client sessions and writes a
+# clean checkpoint (the image's own stop signal too).
+kill_signal = "SIGINT"
+kill_timeout = 60
+
+[build]
+  image = "postgres:16"
+
+[env]
+  POSTGRES_USER = "whetstorm"
+  POSTGRES_DB = "whetstorm"
+  # A subfolder, because the root of a fresh volume holds lost+found and
+  # Postgres refuses to set up a data folder that is not empty.
+  PGDATA = "/var/lib/postgresql/data/pgdata"
+  # POSTGRES_PASSWORD is set with `fly secrets set`, see the guide.
+
+[mounts]
+  source = "pgdata"
+  destination = "/var/lib/postgresql/data"
+  initial_size = "3gb"
+  # Fly snapshots the volume daily; keep two weeks of them. This only reaches
+  # a volume that fly deploy creates: the guide creates it by hand, so its
+  # `fly volumes create` line passes the same --snapshot-retention.
+  snapshot_retention = 14
+
+[checks]
+  [checks.postgres]
+    type = "tcp"
+    port = 5432
+    grace_period = "30s"
+    interval = "30s"
+    timeout = "5s"
+
+# 512 MB: Postgres reserves 128 MB for its cache by default, plus about 15
+# connections from the game server.
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "512mb"
