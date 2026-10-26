@@ -1942,4 +1942,69 @@
       }
     }
   }
+
+  /* Whetstorm entry surfaces: original typography and quiet, legible chrome. */
+  #start-screen :is(#mode-select, #login-panel, #forgot-panel, #reset-panel) {
+    border: 1px solid var(--ws-line);
+    border-image: none;
+    border-radius: 12px;
+    background: var(--ws-panel);
+    box-shadow: var(--ws-shadow);
+    color: var(--ws-ivory);
+    padding: clamp(22px, 3vw, 36px);
+    max-width: min(440px, 100%);
+    box-sizing: border-box;
+  }
+  #start-screen :is(#mode-select, #login-panel, #forgot-panel, #reset-panel)::before,
+  #start-screen :is(#mode-select, #login-panel, #forgot-panel, #reset-panel)::after {
+    content: none;
+  }
+  #start-screen :is(.auth-title, .website-card-heading h2) {
+    color: var(--ws-ivory);
+    font-family: var(--font-display);
+    letter-spacing: 0.04em;
+    text-shadow: none;
+  }
+  #start-screen :is(.auth-label, .website-card-eyebrow, .auth-switch) {
+    color: var(--ws-muted);
+    font-family: var(--font-ui);
+  }
+  #start-screen :is(#login-panel, #forgot-panel, #reset-panel) input {
+    background: var(--ws-ink);
+    border: 1px solid var(--ws-line);
+    color: var(--ws-ivory);
+    border-radius: 6px;
+    font: 16px var(--font-ui);
+    min-height: 46px;
+    box-sizing: border-box;
+  }
+  #start-screen :is(.auth-link, .website-wordmark) { color: var(--ws-gold); }
+  #start-screen :is(.btn-primary, #btn-play) {
+    border: 1px solid var(--ws-gold);
+    border-radius: 6px;
+    background: var(--ws-raised);
+    color: var(--ws-ivory);
+    min-height: 46px;
+    box-shadow: none;
+    text-shadow: none;
+  }
+  #start-screen :is(button, input, select):focus-visible {
+    outline: 2px solid var(--ws-focus);
+    outline-offset: 3px;
+  }
+  #start-screen #title-logo { width: 80px; height: 80px; object-fit: contain; }
+  #start-screen .entry-wordmark {
+    font-family: var(--font-display);
+    font-size: clamp(32px, 4vw, 58px);
+    letter-spacing: 0.12em;
+    color: var(--ws-ivory);
+    margin: 12px 0 20px;
+  }
+  @media (forced-colors: active) {
+    #start-screen :is(button, input, select):focus-visible { outline-color: Highlight; }
+    #start-screen :is(#mode-select, #login-panel, #forgot-panel, #reset-panel) {
+      border-color: CanvasText; background: Canvas; color: CanvasText;
+    }
+  }
+
 }

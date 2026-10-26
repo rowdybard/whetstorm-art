@@ -9737,4 +9737,37 @@
    is dropped rather than the panel renamed. */
 #charcreate-panel .skin-picker-header {
   display: none;
+
+  /* Original Whetstorm creation panels retain all existing controls and flow. */
+  #start-screen :is(#char-select, #offline-select, #char-create-panel) {
+    background: var(--ws-panel);
+    color: var(--ws-ivory);
+    border: 1px solid var(--ws-line);
+    border-image: none;
+    border-radius: 12px;
+    box-shadow: var(--ws-shadow);
+  }
+  #start-screen .mini-class {
+    border-radius: 7px;
+    background: var(--ws-ink);
+    border-color: var(--ws-line);
+    color: var(--ws-ivory);
+    box-shadow: none;
+  }
+  #start-screen :is(.mini-class.selected, .mini-class.active, .mini-class[aria-pressed="true"]) {
+    background: var(--ws-raised);
+    border-color: var(--ws-gold);
+  }
+  #start-screen .char-create input {
+    min-height: 44px;
+    font-size: 16px;
+    color: var(--ws-ivory);
+    background: var(--ws-ink);
+    border: 1px solid var(--ws-line);
+    border-radius: 6px;
+  }
+  @media (pointer: coarse) {
+    #start-screen :is(.mini-class, .auth-link) { min-height: 44px; }
+  }
+
 }

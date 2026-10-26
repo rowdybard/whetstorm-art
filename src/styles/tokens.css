@@ -14,6 +14,17 @@
    written per element by the HUD, never on :root. */
 @layer tokens {
   :root {
+    /* Original Whetstorm fixed-dark entry palette. */
+    --ws-ink: #071512;
+    --ws-panel: #0b211df5;
+    --ws-raised: #173b31;
+    --ws-gold: #ead29a;
+    --ws-ivory: #f4f2e6;
+    --ws-muted: #b8c8ba;
+    --ws-line: #6d8066;
+    --ws-focus: #9df2d2;
+    --ws-shadow: 0 16px 48px #00000070;
+
     --color-vehicle-integrity: #2f8c4a;
     --color-vehicle-danger: #b72b27;
     --color-vehicle-text: #ffffff;
