@@ -187,3 +187,13 @@ camera-drag state, not new pickup-hover logic. See HUD_CHANGES.md.
 27 focused Vitest tests pass across five files. Biome reports no errors and
 one existing BASE_URL/Turborepo warning. A bounded read-only frontend review
 found no runtime regression. Real-browser/full-game verification remains open.
+
+
+## Original concept art checkpoint
+
+The earlier UI and HUD work through ee873cc was pushed and verified on the
+private rowdybard/whetstorm-art feature/original-ui-and-icons branch. This
+checkpoint adds original Old Peatfire and starter weapon concepts under
+docs/design/whetstorm-concepts, with prompts and SHA-256 in
+docs/whetstorm/concept-art-generation.json. These are review concepts, not
+runtime assets or 3D models; no Tripo credits were used.

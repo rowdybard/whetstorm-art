@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-concepts/old-peatfire.png",
+      "subject": "Old Peatfire creature concept",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create an ORIGINAL creature concept for Whetstorm, a vibrant stylized fantasy MMORPG. One single full-body character on a perfectly plain white background, centered, facing directly forward in a neutral T-pose, arms out horizontally, hands fully visible, feet fully visible, short heavy tail visible in silhouette. This is Old Peatfire: a hulking ancient bipedal dragon-kin with broad heavy shoulders, thick clawed hands and feet, cracked bark-brown peat-like scales with restrained moss-green patches, subtle ember-orange fissures and a trace of smoke curling from its jaws. The silhouette must be simple, powerful and readable at a distance; use broad graphic forms and a clean, cohesive hand-painted fantasy game concept style with lush but controlled color and moderate detail. Avoid photorealism, noisy textures, elaborate ornament and cinematic scenery. Design the anatomy so a 3D artist could understand it. No text, no logo, no border, no props, no weapons, no other characters, no cast shadow. Entire body must fit with generous white margin. Do not copy any existing character, franchise or game asset.",
+      "sha256": "81627d51d96804efa36ace43efb9ff151492e4e21e229d022f7cd952a0106002",
+      "pixels": [
+        1214,
+        1295
+      ],
+      "mode": "RGB",
+      "status": "concept for review; not a 3D model"
+    },
+    {
+      "file": "docs/design/whetstorm-concepts/bulwark-spear.png",
+      "subject": "Bulwark spear",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL starter weapon concept for Whetstorm, a stylized colorful fantasy MMORPG: the Bulwark's one-handed spear. One spear only, broad leaf-shaped iron spear blade, simple ash-wood shaft, a practical leather-wrapped hand grip, modest forged fittings. Show the complete spear vertically, tip up, in a subtle three-quarter view, centered with ample margin on a perfectly plain white background. Clean readable silhouette and broad well-designed forms; hand-painted game concept art with lush restrained color, simple intentional construction, not photorealistic, no fussy micro-detail. Credible proportions for one hand; no person, no hands, no stand, no shadow, no glow, no magic effects, no writing, no logo, no border, no additional objects. Entire tip and shaft must be visible. Original design, do not copy any existing game asset.",
+      "sha256": "d1ff2f9af740e2eff3376b063d04bbe570f98d5fd67bce5b92ce1b3c4dda3042",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "concept for review; not a 3D model"
+    },
+    {
+      "file": "docs/design/whetstorm-concepts/bulwark-shield.png",
+      "subject": "Bulwark shield",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL starter equipment concept for Whetstorm, a stylized colorful fantasy MMORPG: the Bulwark's tall rounded wooden shield. One shield only, its face shown in a slight three-quarter view, substantial rounded elongated silhouette, warm wood planks with strong dark iron bands and rim, a single simple gray whetstone-shaped central boss. Practical and believable as a starter shield, no insignia from existing games. Center the complete shield on a perfectly plain white background with generous white margin. Broad simple readable forms and hand-painted fantasy game concept art, vibrant but controlled color, moderate detail, no photorealism or fine noise. No person, hands, stand, cast shadow, glow, text, logo, border, additional objects. Do not copy existing game art.",
+      "sha256": "aacc29ad901562aabc518ab80b22f69f46e222156f61bb43df115b647029fbdd",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "concept for review; not a 3D model"
+    },
+    {
+      "file": "docs/design/whetstorm-concepts/brute-great-axe.png",
+      "subject": "Brute great axe",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL starter weapon concept for Whetstorm, a stylized fantasy MMORPG: the Brute's two-handed axe. One axe only, with one broad crescent-shaped iron axe blade, sturdy long ash-wood handle and practical dark leather grip. Heavy, powerful yet simply made and believable, not an ornate legendary weapon. Show the complete axe upright in slight three-quarter view, centered on pure white with generous margins, no ground. Hand-painted fantasy game concept, clean and readable big shapes with controlled vivid color and moderate detail. No person, hands, display stand, cast shadow, glow, magic, writing, logo, border or extra objects. Do not copy existing artwork.",
+      "sha256": "66e6185491d91b0b843a0ba32a15ff92de673a37023f9a329a9cd2d1ca911f34",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "concept for review; not a 3D model"
+    }
+  ]
+}
