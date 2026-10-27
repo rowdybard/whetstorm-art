@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "field_kit",
+      "file": "docs/design/whetstorm-art/items/field_kit.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A practical field kit: a single closed weathered leather satchel with a flap, clasp and short carrying strap, clearly readable as a compact gathering kit.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "3c7c21b85eb99021e72cbbabc6fca3b119532ab50d56f3c62444055e9fb4a687",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/field_kit.webp",
+        "sha256": "c959b2dd55d65542e2be3e268224f6159e58ab6c53c36711e962f79a689f6094",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "handaxe",
+      "file": "docs/design/whetstorm-art/items/handaxe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A basic logging handaxe: a short wooden handle and a single broad iron axe head, practical and worn, clearly a small woodcutting tool.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "b361a7bc13fafa6c1c8c1f90de4c5dfce9f4c57e642ef03f5aa53a8669a43ebc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/handaxe.webp",
+        "sha256": "2202afdde7ef742bb138b98bc5c851ac229e8f66e72b1cccdf1d3ffe887db605",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "iron_mining_pick",
+      "file": "docs/design/whetstorm-art/items/iron_mining_pick.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. An iron mining pick: a wooden handle with a dark iron double-ended pick head, one pointed end and one broad chisel end, clearly a mining tool.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "6afc8cde3e27c0f2fba982c4560830dd72a19d5f433d00e13573de5d6f5ce22c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/iron_mining_pick.webp",
+        "sha256": "67f01b1fbe1b582404eb27653490c3009209d6d5406e2d2460ded288a35957b8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bronze_sickle",
+      "file": "docs/design/whetstorm-art/items/bronze_sickle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A bronze gathering sickle: a short wooden grip and one broad curved bronze crescent harvesting blade, clearly distinct from a sword or scythe.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "2167b09ab21ae81d8ad9a78c65cb29df8784b7152aab9609b0601117b5825103",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bronze_sickle.webp",
+        "sha256": "4324d80200504b1e9cec7190599949ccd575ff55fb483a949dfe68c38d587091",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -18,6 +18,22 @@ const ids = [
 const hash = (file: string) => createHash('sha256').update(readFileSync(file)).digest('hex');
 
 describe('early quest material and armor paintings', () => {
+  it('routes the next armor and tool paintings through both image APIs', () => {
+    for (const id of [
+      'greyjaw_hide_boots',
+      'sableweb_slippers',
+      'moggers_stomper_boots',
+      'cryptbone_helm',
+      'field_kit',
+      'handaxe',
+      'iron_mining_pick',
+      'bronze_sickle',
+    ]) {
+      expect(Object.hasOwn(ITEMS, id)).toBe(true);
+      expect(itemImageUrl(id)).toBe(`/ui/whetstorm/items/${id}.webp`);
+      expect(iconDataUrl('item', id)).toBe(`/ui/whetstorm/items/${id}.webp`);
+    }
+  });
   it('routes the eight live item IDs through both image APIs', () => {
     for (const id of ids) {
       expect(Object.hasOwn(ITEMS, id)).toBe(true);

@@ -595,3 +595,8 @@ Eight further quest-material and armor paintings use original Whetstorm
 paintings as style references. Their source records and processing are in
 `docs/whetstorm/early-quest-material-art-generation.json` and
 `docs/whetstorm/armor-batch-two-generation.json`.
+
+Four more armor and four profession-tool paintings were created for Whetstorm
+using original Whetstorm style references. Prompts, source images and hashes
+are in `docs/whetstorm/armor-batch-three-generation.json` and
+`docs/whetstorm/tool-batch-three-generation.json`.

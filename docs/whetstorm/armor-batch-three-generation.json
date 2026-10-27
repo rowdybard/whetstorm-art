@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/greyjaw_hide_boots.png",
+      "subject": "Greyjaw Hide Boots: one complete pair of empty rugged leather boots made from grey wolf hide, angled together, with soft grey fur cuffs and sturdy dark leather soles. Clear boot silhouette and modest early-game details.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Greyjaw Hide Boots: one complete pair of empty rugged leather boots made from grey wolf hide, angled together, with soft grey fur cuffs and sturdy dark leather soles. Clear boot silhouette and modest early-game details.",
+      "sha256": "81f011fb59c34bcc78f538385aa5ae60bdb383029186e58770503e4b5e5a3d1a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "greyjaw_hide_boots",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/greyjaw_hide_boots.webp",
+        "sha256": "dfc466c201179a328e2ce29972319fdc0fb15ac795f70f961779133715e1c95c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/sableweb_slippers.png",
+      "subject": "Sableweb Slippers: one complete pair of empty soft dark violet cloth slippers, angled together, with subtle silver web-pattern stitching and rounded toes. Clearly fabric footwear, simple early equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Sableweb Slippers: one complete pair of empty soft dark violet cloth slippers, angled together, with subtle silver web-pattern stitching and rounded toes. Clearly fabric footwear, simple early equipment.",
+      "sha256": "348cfdae4058d99bb4bf070fb54b4c2e04220e6def92c892aa07cad5901830c8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "sableweb_slippers",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sableweb_slippers.webp",
+        "sha256": "bb4aed47e4bd56ea06b6e04510539262119e77b123a85502c8ca0051526e6f00",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/moggers_stomper_boots.png",
+      "subject": "Mogger's Stomper Boots: one complete pair of empty chunky brown leather work boots, angled together, with broad reinforced toes, thick soles, simple copper buckles and scuffed surfaces. Practical early-game footwear.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Mogger's Stomper Boots: one complete pair of empty chunky brown leather work boots, angled together, with broad reinforced toes, thick soles, simple copper buckles and scuffed surfaces. Practical early-game footwear.",
+      "sha256": "479fa2a06f279b064e40e5517e05b71e66ae4c5b83e9ef1ac38f758050ec9aff",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "moggers_stomper_boots",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moggers_stomper_boots.webp",
+        "sha256": "274e0f7f8e93ae48005b4c6c8f6fabec1afa89ab422b6ac645c7cb46112244d8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/cryptbone_helm.png",
+      "subject": "Cryptbone Helm: one empty mail armor helmet with a rounded iron cap, mail neck guard and a few pale bone plates fastened to its crown. Clear helmet silhouette, practical low-level fantasy armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Cryptbone Helm: one empty mail armor helmet with a rounded iron cap, mail neck guard and a few pale bone plates fastened to its crown. Clear helmet silhouette, practical low-level fantasy armor.",
+      "sha256": "ef92d9af9c98af0ced814c5cd80ac565b2c05e40c9537fb671a0874d1bf38776",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "cryptbone_helm",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cryptbone_helm.webp",
+        "sha256": "d9fd37e0c9382a3f75fe613a00d98ae721a4019d997d3ee8631dddfea7b411b6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
