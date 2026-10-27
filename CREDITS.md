@@ -642,3 +642,9 @@ style reference. Their prompts, masters and hashes are documented in
 `docs/whetstorm/early-material-ten-generation.json`,
 `docs/whetstorm/armor-batch-ten-generation.json` and
 `docs/whetstorm/weapon-batch-ten-generation.json`.
+
+Twelve cooked foods, armor and weapons use original Whetstorm art as a
+style reference. Their prompts, masters and hashes are documented in
+`docs/whetstorm/early-material-eleven-generation.json`,
+`docs/whetstorm/armor-batch-eleven-generation.json` and
+`docs/whetstorm/weapon-batch-eleven-generation.json`.

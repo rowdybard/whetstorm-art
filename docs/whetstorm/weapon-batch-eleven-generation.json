@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "copper_flanged_mace",
+      "file": "docs/design/whetstorm-art/items/copper_flanged_mace.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Copper Flanged Mace: one simple one-handed mace with a broad copper flanged head, a wooden haft and leather grip, practical early fantasy weapon.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "3aed41f7dd38f4126910fafe4e4b812daa9a9a2248450691055467700b117fda",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/copper_flanged_mace.webp",
+        "sha256": "6fd7446d9d6a32e5313bbb9ffb794c1d13090da946c3e8a194d0713040abc640",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ironbark_boar_spear",
+      "file": "docs/design/whetstorm-art/items/ironbark_boar_spear.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Ironbark Boar Spear: one sturdy wooden two-handed spear with broad iron spearhead, short crossbar and two small ivory tusks secured near the head, practical and readable.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "ca52fb1e138c9023cf57d3dda93bc4d44b160b9abd7842c5cb98338e431e344e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ironbark_boar_spear.webp",
+        "sha256": "4ff9e5f55a8af67f4c1a44ed68090fc2630b5d28771e659b77971663f86aef9d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "tradesman_hatchet",
+      "file": "docs/design/whetstorm-art/items/tradesman_hatchet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Tradesman's Hatchet: one compact practical one-handed iron hatchet with a broad blade and wooden handle wrapped in leather, a modest adventurer's weapon.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "f570c8846a198aed5b3644b5ada3e5fac330490ca17e997eb599acbf9f44ee22",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tradesman_hatchet.webp",
+        "sha256": "9ffd139ef0d9a997679d382b838c7fce92a5eca3d8c041a2c11b1f2f417cb080",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "drovers_staff",
+      "file": "docs/design/whetstorm-art/items/drovers_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Drover's Staff: one rustic sturdy wooden staff with a broad crooked shepherd's crook at the top and worn leather grip, practical early fantasy weapon, no glow.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "82b469c738dcc273b0f5195df8953c79703474103d0a09740050a1b84957d79e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drovers_staff.webp",
+        "sha256": "da370c8992d3d27bb16620a37fa8bb68e0233f048f52fd8a70ec7c363406a2cc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

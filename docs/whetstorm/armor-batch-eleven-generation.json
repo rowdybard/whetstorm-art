@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/fenbridge_hide_boots.png",
+      "subject": "Fenbridge Hide Boots: one complete pair of empty brown hide leather boots, angled together, with folded cuffs, simple stitched seams and sturdy dark soles. Clearly leather footwear, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Fenbridge Hide Boots: one complete pair of empty brown hide leather boots, angled together, with folded cuffs, simple stitched seams and sturdy dark soles. Clearly leather footwear, practical early-game equipment.",
+      "sha256": "48de7fb0f6008059d1a6503821b61af9ee1127990cc5a38bb67a191f2111fd52",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "fenbridge_hide_boots",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenbridge_hide_boots.webp",
+        "sha256": "69ae6fa9a5e65aff53d9a48aaa8c60526d7af891e5c49dcd54c7b2c37afa33cb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/goldweave_robe.png",
+      "subject": "Gildenweave Robe: one empty long cloth robe, front facing with broad sleeves and a tied waist, muted cream woven fabric with restrained gold thread edging. Clearly cloth, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Gildenweave Robe: one empty long cloth robe, front facing with broad sleeves and a tied waist, muted cream woven fabric with restrained gold thread edging. Clearly cloth, practical early-game equipment.",
+      "sha256": "7ba885cf2449f22e9fd5a1dff12090425e66e0f1aeeda9a17261d9000f0f41df",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "goldweave_robe",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/goldweave_robe.webp",
+        "sha256": "3c058988156a03f91eabee8a92cc846f7b8e98481216f3dad8459488d7a03148",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/goldweave_leggings.png",
+      "subject": "Gildenweave Leggings: one complete pair of empty cloth leggings, front facing with clearly separated legs, warm ivory fabric with restrained gold thread edging and a simple tied waist. Clearly cloth, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Gildenweave Leggings: one complete pair of empty cloth leggings, front facing with clearly separated legs, warm ivory fabric with restrained gold thread edging and a simple tied waist. Clearly cloth, practical early-game equipment.",
+      "sha256": "ee2c9ad7073b9d48acf991e9608b1528332a5a4b8ab74ab7688561cb6d62fae8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "goldweave_leggings",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/goldweave_leggings.webp",
+        "sha256": "63bfc51d02762acecf09615cb8dd58658ab2d9dbfc6f70acf7ec5f4ea8269479",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/marshstalker_hood.png",
+      "subject": "Marshstalker Hood: one empty dark olive-brown leather hood, front facing with an open dark face opening and short draped neck guard, simple stitched seams and a subtle leaf motif. Clearly leather, practical early-game armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Marshstalker Hood: one empty dark olive-brown leather hood, front facing with an open dark face opening and short draped neck guard, simple stitched seams and a subtle leaf motif. Clearly leather, practical early-game armor.",
+      "sha256": "6c28f80709e86ea8e9c02016800e4ffc59fe18e01c389437d07d3bcf0e0975f8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "marshstalker_hood",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/marshstalker_hood.webp",
+        "sha256": "f6acf5065a36c855be8c3fe104ee53b8d2518bc28ed4b5966db6bd2ae4373fb6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

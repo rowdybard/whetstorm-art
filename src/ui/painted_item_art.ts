@@ -1,4 +1,5 @@
 import { armorBatchEightItemImageUrl } from './armor_batch_eight_item_art';
+import { armorBatchElevenItemImageUrl } from './armor_batch_eleven_item_art';
 import { armorBatchFiveItemImageUrl } from './armor_batch_five_item_art';
 import { armorBatchFourItemImageUrl } from './armor_batch_four_item_art';
 import { armorBatchItemImageUrl } from './armor_batch_item_art';
@@ -10,6 +11,7 @@ import { armorBatchThreeItemImageUrl } from './armor_batch_three_item_art';
 import { armorBatchTwoItemImageUrl } from './armor_batch_two_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { earlyMaterialEightItemImageUrl } from './early_material_eight_item_art';
+import { earlyMaterialElevenItemImageUrl } from './early_material_eleven_item_art';
 import { earlyMaterialFiveItemImageUrl } from './early_material_five_item_art';
 import { earlyMaterialFourItemImageUrl } from './early_material_four_item_art';
 import { earlyMaterialNineItemImageUrl } from './early_material_nine_item_art';
@@ -24,6 +26,7 @@ import { toolBatchFourItemImageUrl } from './tool_batch_four_item_art';
 import { toolBatchItemImageUrl } from './tool_batch_item_art';
 import { toolBatchThreeItemImageUrl } from './tool_batch_three_item_art';
 import { weaponBatchEightItemImageUrl } from './weapon_batch_eight_item_art';
+import { weaponBatchElevenItemImageUrl } from './weapon_batch_eleven_item_art';
 import { weaponBatchNineItemImageUrl } from './weapon_batch_nine_item_art';
 import { weaponBatchSevenItemImageUrl } from './weapon_batch_seven_item_art';
 import { weaponBatchSixItemImageUrl } from './weapon_batch_six_item_art';
@@ -45,6 +48,7 @@ export function paintedItemImageUrl(id: string): string | null {
     armorBatchEightItemImageUrl(id) ??
     armorBatchNineItemImageUrl(id) ??
     armorBatchTenItemImageUrl(id) ??
+    armorBatchElevenItemImageUrl(id) ??
     earlyMaterialFourItemImageUrl(id) ??
     earlyMaterialFiveItemImageUrl(id) ??
     earlyMaterialSixItemImageUrl(id) ??
@@ -52,6 +56,7 @@ export function paintedItemImageUrl(id: string): string | null {
     earlyMaterialEightItemImageUrl(id) ??
     earlyMaterialNineItemImageUrl(id) ??
     earlyMaterialTenItemImageUrl(id) ??
+    earlyMaterialElevenItemImageUrl(id) ??
     earlyQuestMaterialItemImageUrl(id) ??
     toolBatchItemImageUrl(id) ??
     toolBatchThreeItemImageUrl(id) ??
@@ -61,6 +66,7 @@ export function paintedItemImageUrl(id: string): string | null {
     weaponBatchSevenItemImageUrl(id) ??
     weaponBatchEightItemImageUrl(id) ??
     weaponBatchNineItemImageUrl(id) ??
-    weaponBatchTenItemImageUrl(id)
+    weaponBatchTenItemImageUrl(id) ??
+    weaponBatchElevenItemImageUrl(id)
   );
 }

@@ -64,6 +64,15 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Eleventh checkpoint: four cooked foods, four armor pieces and four weapons add
+12 unique paintings, bringing this effort to 124 paintings for 124 IDs with
+no deliberate reuse. Of 1,626 catalog IDs, 141 have direct individual
+paintings and 1,485 do not. Records are in
+`early-material-eleven-generation.json`, `armor-batch-eleven-generation.json`
+and `weapon-batch-eleven-generation.json`. Size reviews and focused image,
+routing and original-art tests passed. Browser, full gate and shipping-tree
+clearance remain open.
+
 Tenth checkpoint: four fishing items, four armor pieces and four weapons add
 12 unique paintings, bringing this effort to 112 paintings for 112 IDs with
 no deliberate reuse. Of 1,626 catalog IDs, 129 have direct individual
