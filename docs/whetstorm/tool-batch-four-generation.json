@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "ironreel_fishing_rod",
+      "file": "docs/design/whetstorm-art/items/ironreel_fishing_rod.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. An Ironreel Fishing Rod: a sturdy tapered wooden fishing rod with a large simple dark iron reel and a short thick pale line ending in a clearly visible curved hook. Exaggerate line and hook thickness for 32 pixel readability. No fish.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "626e53edeb9c1258725f5473027e753413e409248d0f3f7a3fce2359b20333eb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ironreel_fishing_rod.webp",
+        "sha256": "ef28c8c9d3eafd7ffcaa1ad65dc8d1aaad0e18731d0a79879b898e7d84fd8276",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "felling_axe",
+      "file": "docs/design/whetstorm-art/items/felling_axe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A Felling Axe: a long sturdy wooden handle and one broad steel woodcutting axe head, with a simple leather grip, practical and worn.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "0bc048d48ad59647e3dcb5ac22640044ab5c3974374325f73e047cf820560dff",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/felling_axe.webp",
+        "sha256": "66dd511f25e74ce125d76371eddf73594c088eda7ac090be2c2ca2cc33d4c6bc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "mithril_mining_pick",
+      "file": "docs/design/whetstorm-art/items/mithril_mining_pick.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A Skysilver Mining Pick: a sturdy wooden handle with a pale silvery-blue metal double-ended pick head, one pointed end and one broad chisel end, a practical fantasy mining tool.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "a52d689095d5a2c1c9e9bc73be3bd2eb95c5e6df9c9234fd788f23450582fc7d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mithril_mining_pick.webp",
+        "sha256": "624cacaec9e5beed0fcffd68a01247b30d76f7cfc5b67e931d9248bb0cfc489a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "silverleaf_sickle",
+      "file": "docs/design/whetstorm-art/items/silverleaf_sickle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A Sheenleaf Sickle: a short wooden grip with a broad curved pale silver harvesting blade, subtly leaf-shaped, a practical fantasy sickle distinct from a sword.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "f4bb99164f1090ccbba087fb2835649b82a3edee0bc775a742d568bdf331512f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silverleaf_sickle.webp",
+        "sha256": "5a84ad87addb32a7b230a07f4a0b5aaaec678f842686f7b7f3d4a4f7501f44e0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "mudfin_scale",
+      "file": "docs/design/whetstorm-art/items/mudfin_scale.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one large slimy green-blue fish scale, with a broad overlapping curved shape, pearlescent wet sheen and a little muddy residue. Show the complete subject with clear space around it.",
+      "status": "original early material painting; reviewed and routed",
+      "sha256": "4d31e8b3b886d509849f617336b3b1b5dca9a77e29bfa647a845827039901c79",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mudfin_scale.webp",
+        "sha256": "1b61a7c857a7c83e493b946ab5fe08637f42ff2c84474ed08abad1c64c51f727",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "linen_scrap",
+      "file": "docs/design/whetstorm-art/items/linen_scrap.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one torn folded piece of rough pale linen, with visibly frayed edges and a simple woven texture. Show the complete subject with clear space around it.",
+      "status": "original early material painting; reviewed and routed",
+      "sha256": "f08913c72f117018fb1ab7042b21425ec0ab359d141635973c89ccf77d1d36f9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/linen_scrap.webp",
+        "sha256": "60324b0412ecaf998decf0db25f6bb15112b69297eccfc9fdf46d4d00b77daa3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "tallow_candle",
+      "file": "docs/design/whetstorm-art/items/tallow_candle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one irregular greasy lump of pale yellow animal tallow, matte waxy mass with a few soft folds, no wick and no candle. Show the complete subject with clear space around it.",
+      "status": "original early material painting; reviewed and routed",
+      "sha256": "5ed31cc2b67e50397c52b19e0dfbae599df837c5988286c78e17cbbdbe009e9b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tallow_candle.webp",
+        "sha256": "77a68768642a7d061f559b9eb43a3ea59c6c86d9fb2e8f6feb9ef1c21077dc72",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bone_fragments",
+      "file": "docs/design/whetstorm-art/items/bone_fragments.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: a small compact cluster of three broken ivory bone fragments with jagged ends, clear individual silhouettes. Show the complete subject with clear space around it.",
+      "status": "original early material painting; reviewed and routed",
+      "sha256": "d1c45148209aeab3ee6dfcb27a4e0f8c7552263a3f24435317b65d6e2d477c76",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bone_fragments.webp",
+        "sha256": "1d818cd7b45819fac56ebb656c3d7aac557338386086d8944ab3e66bde7e9cce",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

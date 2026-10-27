@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/thornling_grips.png",
+      "subject": "Thornling Grips: one complete pair of empty brown leather gloves with modest thorn-like stitching and small green leaf accents, arranged side by side with five distinct fingers per glove. Readable leather and practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Thornling Grips: one complete pair of empty brown leather gloves with modest thorn-like stitching and small green leaf accents, arranged side by side with five distinct fingers per glove. Readable leather and practical early-game equipment.",
+      "sha256": "4097aec72b97e8fd5808e7b16bf1f7285dd63f485646cccff42c5c84145b814d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "thornling_grips",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/thornling_grips.webp",
+        "sha256": "81f0673860c3cc20384b9e6b7524e190097c57d8b1fcf062a8f60d399d42f618",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/votive_chain_belt.png",
+      "subject": "Votive Chain Belt: one complete mail armor belt, a broad dark leather band faced with silver chain links and a simple aged brass buckle, curled into a clear open oval. Practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Votive Chain Belt: one complete mail armor belt, a broad dark leather band faced with silver chain links and a simple aged brass buckle, curled into a clear open oval. Practical early-game equipment.",
+      "sha256": "70c4965b8a688ba2d9a1fa46b1e898ec549e7688b4bde7f41c61c954a456ab22",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "votive_chain_belt",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/votive_chain_belt.webp",
+        "sha256": "88f3b9d13e1e74975a76685eb5218da6306dda833e57dccf6884b921bdca57d1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/oathbound_greaves.png",
+      "subject": "Oathbound Greaves: one complete pair of empty mail leg armor, front facing with clearly separated legs, made of steel chain links with modest iron knee plates and a simple leather waistband. Practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Oathbound Greaves: one complete pair of empty mail leg armor, front facing with clearly separated legs, made of steel chain links with modest iron knee plates and a simple leather waistband. Practical early-game equipment.",
+      "sha256": "0e05c784edc3f7c7d2c7c26b072ecfd268a482ec8f0bcd33885e185962accc2c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "oathbound_greaves",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/oathbound_greaves.webp",
+        "sha256": "698dd059bb47dd26c7438f6a3486697d8f89ad545eed80c2abd1596264784686",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/gravepath_treads.png",
+      "subject": "Gravepath Treads: one complete pair of empty weathered leather boots, angled together, in muted grey brown with reinforced toes, low cuffs and simple stitched seams. Practical early-game footwear.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Gravepath Treads: one complete pair of empty weathered leather boots, angled together, in muted grey brown with reinforced toes, low cuffs and simple stitched seams. Practical early-game footwear.",
+      "sha256": "e526ebaf59213155b99fb3ff0523518827f2c551d0bae4bb280a443c90a49e82",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "gravepath_treads",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravepath_treads.webp",
+        "sha256": "bef537f002fd8f94e4f3c55b0aa84fce53674b4c3e6ade2ae73b1db2ab0b9c55",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

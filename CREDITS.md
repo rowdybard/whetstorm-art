@@ -600,3 +600,9 @@ Four more armor and four profession-tool paintings were created for Whetstorm
 using original Whetstorm style references. Prompts, source images and hashes
 are in `docs/whetstorm/armor-batch-three-generation.json` and
 `docs/whetstorm/tool-batch-three-generation.json`.
+
+Twelve additional materials, armor and profession-tool paintings use original
+Whetstorm art as a style reference. Source images, prompts and hashes are in
+`docs/whetstorm/early-material-four-generation.json`,
+`docs/whetstorm/armor-batch-four-generation.json` and
+`docs/whetstorm/tool-batch-four-generation.json`.

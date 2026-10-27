@@ -35,3 +35,12 @@ work deliberately reuses no painting. Source records are in
 Both batches were reviewed at inventory sizes and passed focused routing,
 image and original-art contract tests. Browser and full-gate checks remain
 open, as does removal of inherited art in the complete shipping tree.
+
+Fourth checkpoint: four early materials, four armor pieces and four tools
+add 12 unique paintings. This effort has added 40 paintings, with 57 IDs now
+mapped to individual paintings and 1,569 of the 1,626 catalog IDs remaining
+without one. None of the new paintings are deliberately reused. The records
+are `early-material-four-generation.json`, `armor-batch-four-generation.json`
+and `tool-batch-four-generation.json`. Inventory-size reviews and focused
+routing, image and original-art tests passed. Browser, full gate and full
+shipping-tree clearance remain open.
