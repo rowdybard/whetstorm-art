@@ -624,3 +624,9 @@ a style reference. Their prompts, masters and hashes are documented in
 `docs/whetstorm/early-material-seven-generation.json`,
 `docs/whetstorm/armor-batch-seven-generation.json` and
 `docs/whetstorm/weapon-batch-seven-generation.json`.
+
+Twelve early ingredients, armor and weapons use original Whetstorm art as
+a style reference. Their prompts, masters and hashes are documented in
+`docs/whetstorm/early-material-eight-generation.json`,
+`docs/whetstorm/armor-batch-eight-generation.json` and
+`docs/whetstorm/weapon-batch-eight-generation.json`.

@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/eastbrook_wool_trousers.png",
+      "subject": "Eastbrook Wool Trousers: one complete pair of empty wool cloth trousers, front facing with clearly separated legs, warm muted brown wool, simple stitched seams and a plain tied waist. Clearly fabric, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Eastbrook Wool Trousers: one complete pair of empty wool cloth trousers, front facing with clearly separated legs, warm muted brown wool, simple stitched seams and a plain tied waist. Clearly fabric, practical early-game equipment.",
+      "sha256": "cdaf6b95d5abaea9f1e8dfadf54c1b3357e27f9b9ed457b8761a310ebbd9dba2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "eastbrook_wool_trousers",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eastbrook_wool_trousers.webp",
+        "sha256": "d7c5e332e89244be47052e1dbf08164adec0ef9f511cce36878bcd600c634a8f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/eastbrook_ritual_vestments.png",
+      "subject": "Eastbrook Ritual Vestments: one empty simple cloth robe, front facing with broad sleeves, muted ivory fabric, dark blue woven trim and a tied waist. Clearly cloth chest armor, modest early-game details.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Eastbrook Ritual Vestments: one empty simple cloth robe, front facing with broad sleeves, muted ivory fabric, dark blue woven trim and a tied waist. Clearly cloth chest armor, modest early-game details.",
+      "sha256": "992ad67d4f91a1be6fc7b4b086d6d245543de9703e1e990c9760b0bd28f8505e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "eastbrook_ritual_vestments",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eastbrook_ritual_vestments.webp",
+        "sha256": "0e9346f18ab33cf1b379bac6c8936d461a1cb728b2f1941f50e9b3b454c1ceab",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/eastbrook_druids_hide.png",
+      "subject": "Eastbrook Druid's Hide: one empty sleeveless leather vest, front facing, in earthy green-brown hide with simple stitched leaf motifs and laced closure. Clearly leather chest armor, modest early-game details.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Eastbrook Druid's Hide: one empty sleeveless leather vest, front facing, in earthy green-brown hide with simple stitched leaf motifs and laced closure. Clearly leather chest armor, modest early-game details.",
+      "sha256": "5aacafb76b2aafe2505222bd35493f4544a243fffa88f6f8dc6a74498d0ac35d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "eastbrook_druids_hide",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eastbrook_druids_hide.webp",
+        "sha256": "55d7e0688f881b4873b533c162460961e6315daa575449b5122b7d5b287841ea",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/eastbrook_warded_leggings.png",
+      "subject": "Eastbrook Warded Leggings: one complete pair of empty mail leg armor, front facing with clearly separated legs, made of copper-toned chain links with simple iron knee plates and a leather waistband. Practical early-game armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Eastbrook Warded Leggings: one complete pair of empty mail leg armor, front facing with clearly separated legs, made of copper-toned chain links with simple iron knee plates and a leather waistband. Practical early-game armor.",
+      "sha256": "949780fa5a7f2fc83945d07364a0929fb3d716790f80f84d49d43aba21a5c374",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "eastbrook_warded_leggings",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eastbrook_warded_leggings.webp",
+        "sha256": "e4bd0f18e8f92e4ea4edd0a0008eb7a0a438c963f3b92207f690d612fa9b619c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

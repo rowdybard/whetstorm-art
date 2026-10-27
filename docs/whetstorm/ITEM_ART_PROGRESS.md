@@ -72,3 +72,11 @@ individual paintings and 1,533 do not. Records are in
 and `weapon-batch-seven-generation.json`. Size reviews and focused image,
 routing and original-art tests passed. Browser, full gate and shipping-tree
 clearance remain open.
+
+Eighth checkpoint: four gathering ingredients, four armor pieces and four
+weapons add 12 unique paintings, bringing this effort to 88 paintings for 88
+IDs without deliberate reuse. Of 1,626 catalog IDs, 105 have direct individual
+paintings and 1,521 do not. Records are in `early-material-eight-generation.json`,
+`armor-batch-eight-generation.json` and `weapon-batch-eight-generation.json`.
+Size reviews and focused image, routing and original-art tests passed. Browser,
+full gate and shipping-tree clearance remain open.

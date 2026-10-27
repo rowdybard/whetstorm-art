@@ -1,3 +1,4 @@
+import { armorBatchEightItemImageUrl } from './armor_batch_eight_item_art';
 import { armorBatchFiveItemImageUrl } from './armor_batch_five_item_art';
 import { armorBatchFourItemImageUrl } from './armor_batch_four_item_art';
 import { armorBatchItemImageUrl } from './armor_batch_item_art';
@@ -6,6 +7,7 @@ import { armorBatchSixItemImageUrl } from './armor_batch_six_item_art';
 import { armorBatchThreeItemImageUrl } from './armor_batch_three_item_art';
 import { armorBatchTwoItemImageUrl } from './armor_batch_two_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
+import { earlyMaterialEightItemImageUrl } from './early_material_eight_item_art';
 import { earlyMaterialFiveItemImageUrl } from './early_material_five_item_art';
 import { earlyMaterialFourItemImageUrl } from './early_material_four_item_art';
 import { earlyMaterialSevenItemImageUrl } from './early_material_seven_item_art';
@@ -17,6 +19,7 @@ import { toolBatchFiveItemImageUrl } from './tool_batch_five_item_art';
 import { toolBatchFourItemImageUrl } from './tool_batch_four_item_art';
 import { toolBatchItemImageUrl } from './tool_batch_item_art';
 import { toolBatchThreeItemImageUrl } from './tool_batch_three_item_art';
+import { weaponBatchEightItemImageUrl } from './weapon_batch_eight_item_art';
 import { weaponBatchSevenItemImageUrl } from './weapon_batch_seven_item_art';
 import { weaponBatchSixItemImageUrl } from './weapon_batch_six_item_art';
 
@@ -33,16 +36,19 @@ export function paintedItemImageUrl(id: string): string | null {
     armorBatchFiveItemImageUrl(id) ??
     armorBatchSixItemImageUrl(id) ??
     armorBatchSevenItemImageUrl(id) ??
+    armorBatchEightItemImageUrl(id) ??
     earlyMaterialFourItemImageUrl(id) ??
     earlyMaterialFiveItemImageUrl(id) ??
     earlyMaterialSixItemImageUrl(id) ??
     earlyMaterialSevenItemImageUrl(id) ??
+    earlyMaterialEightItemImageUrl(id) ??
     earlyQuestMaterialItemImageUrl(id) ??
     toolBatchItemImageUrl(id) ??
     toolBatchThreeItemImageUrl(id) ??
     toolBatchFourItemImageUrl(id) ??
     toolBatchFiveItemImageUrl(id) ??
     weaponBatchSixItemImageUrl(id) ??
-    weaponBatchSevenItemImageUrl(id)
+    weaponBatchSevenItemImageUrl(id) ??
+    weaponBatchEightItemImageUrl(id)
   );
 }

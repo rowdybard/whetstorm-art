@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "eastbrook_greatsword",
+      "file": "docs/design/whetstorm-art/items/eastbrook_greatsword.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Eastbrook Greatsword: one complete long broad steel two-handed sword with a simple iron crossguard and long dark leather-wrapped grip, practical early fantasy weapon, no sheath.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "eb1e5860715670b1b1c94dd2bb966450fec83ed4fd2b753a668922645e24b255",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eastbrook_greatsword.webp",
+        "sha256": "e6ac245d83fbda41c5d9cbad0b66b9e4c3530fa0fb4de2224185ad74e9868836",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bronzework_mace",
+      "file": "docs/design/whetstorm-art/items/bronzework_mace.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Bronzework Mace: one sturdy one-handed mace with a large bronze flanged striking head and wooden haft with leather grip, practical early fantasy weapon.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "93f8acc7ac4f5b25e1e86b905e2ba23dbec94d96cbf010c2b561ab10eae38614",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bronzework_mace.webp",
+        "sha256": "ad200de2689dcb0b5d968890f3d8fbabdfe5e22a669fd36059334dedfb76aafc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vale_carving_knife",
+      "file": "docs/design/whetstorm-art/items/vale_carving_knife.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Vale Carving Knife: one short, broad steel utility knife with a pointed tip and simple worn wooden handle, practical early fantasy dagger, no sheath.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "1c584605a79ba0e73f783aedd68fbcfb98f47357eb6dd722416045c36ae11fbf",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vale_carving_knife.webp",
+        "sha256": "48f5693e4e92032b3a310e0727fb704887e77b61346e0ec0c4421ae0889036c0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "hickory_shortstaff",
+      "file": "docs/design/whetstorm-art/items/hickory_shortstaff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Hickory Shortstaff: one compact sturdy wooden staff made of warm brown hickory with a simple leather grip and iron-capped ends, practical early fantasy weapon, no gem or glow.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "bfa256e7263a1e1d662e198c6c5f8136ac489049242a911acde5fb58e993747c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hickory_shortstaff.webp",
+        "sha256": "f87e0c52ebbc986b343468c114565b73a254fc7b27795d4e32d24541e752d653",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
