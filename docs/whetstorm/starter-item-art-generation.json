@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/bulwark-spear.png",
+      "subject": "Bulwark starter spear",
+      "source": "OpenAI image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-concepts/bulwark-spear.png",
+          "sha256": "d1ff2f9af740e2eff3376b063d04bbe570f98d5fd67bce5b92ce1b3c4dda3042"
+        }
+      ],
+      "prompt": "Using the supplied ORIGINAL Whetstorm Bulwark spear concept as the design reference, make a new square inventory ITEM ICON. Depict the same single broad leaf-shaped steel spearhead, wooden shaft and dark leather wrapped grip, whole spear arranged diagonally bottom left to top right so the silhouette fills most of the square and remains recognizable at 32 pixels. Dark slate-blue painted background edge to edge with subtle warm upper-left light. Hand-painted stylized fantasy, bold clean simplified forms, slightly oversized weapon, restrained detail, clear material separation. No border, no frame, no text, no letters, no logo, no people, no hands, no glow or magic. This is a 2D item picture, not a picture on white. Keep the weapon consistent with the supplied concept, and do not imitate any other game's art.",
+      "sha256": "399b3b92e6e0ce15427d3f15b0b40e13a4b5ba3fe1306eac7bf5fa131ccbccae",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "unassigned item artwork for review"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/bulwark-shield.png",
+      "subject": "Bulwark starter shield",
+      "source": "OpenAI image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-concepts/bulwark-shield.png",
+          "sha256": "aacc29ad901562aabc518ab80b22f69f46e222156f61bb43df115b647029fbdd"
+        }
+      ],
+      "prompt": "Using the supplied ORIGINAL Whetstorm Bulwark shield concept as the design reference, make a new square inventory ITEM ICON. Depict the same single tall rounded wooden shield with dark iron bands and the gray whetstone central boss, whole shield centered and angled very slightly, bold silhouette filling the square and recognizable at 32 pixels. Dark slate-blue painted background edge to edge with subtle warm upper-left light. Hand-painted stylized fantasy, bold clean simplified forms, restrained detail, clear material separation. No border, no frame, no text, no letters, no logo, no people, no hands, no glow or magic. This is a 2D item picture, not a picture on white. Keep its identity consistent with the supplied concept; do not imitate any other game's art.",
+      "sha256": "b8824d31ac0b5f2da70ba206a6a865abdd464f20d8bcd722d1cd1fea3a082f4c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "unassigned item artwork for review"
+    }
+  ]
+}
