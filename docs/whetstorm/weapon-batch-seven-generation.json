@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "verlans_oathblade",
+      "file": "docs/design/whetstorm-art/items/verlans_oathblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Verlan's Oathblade: one sturdy straight steel sword with a broad blade, simple aged bronze crossguard and worn dark leather grip, a solemn soldier's weapon, no sheath.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "05bf9cca51d1c6badbcd8dd00a6b825a845ee308854ff5cbc8ac91563cd8b9b5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/verlans_oathblade.webp",
+        "sha256": "9b5921a2061fa636c0d0bf0cc0f7fa07189e23d1290656a773ef4fdc6a293398",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "hollow_vigil_staff",
+      "file": "docs/design/whetstorm-art/items/hollow_vigil_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Staff of the Hollow Vigil: one dark weathered wooden staff with a broad iron lantern-like crown holding a muted pale blue stone, no flame or glow.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "0b10f67039d7051cee05c1713e2fe2ae5be4030291b0ee7875d8767616a53928",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hollow_vigil_staff.webp",
+        "sha256": "dbe6fcd8d860052ad93605bf48c46be0dbabbca21fd0ede5f56fc9f4bb628b15",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gravewardens_shiv",
+      "file": "docs/design/whetstorm-art/items/gravewardens_shiv.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Gravewarden's Shiv: one compact sharp dagger with a broad weathered steel blade, small iron guard and dark wrapped grip, no sheath.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "c7af6f7ab9b47aaf2f75089fdb64894e9643e189c30365f55c96b5e6b90e96b9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewardens_shiv.webp",
+        "sha256": "d7fcc3c9ff4de00a64ed00b77f677711c4055e1734d4c382cd28bf80b43d8951",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "moggers_copper_cudgel",
+      "file": "docs/design/whetstorm-art/items/moggers_copper_cudgel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Mogger's Copper Cudgel: one heavy rough wooden club with a large battered copper-clad striking head and dark leather grip, clearly a one-handed blunt weapon.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "ca2ce306b277fe48bf014c9dcd449e3a2884a67a7374dd47e817641ad2a156f7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moggers_copper_cudgel.webp",
+        "sha256": "c8491b7bfd5d335a7e333d8b6c5882ef098ab306d869d07f0c7fff576da757b4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

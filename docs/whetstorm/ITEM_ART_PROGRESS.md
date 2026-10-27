@@ -63,3 +63,12 @@ individual paintings and 1,545 do not. Records are in
 distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
+
+Seventh checkpoint: four quest and crafting objects, four armor pieces and
+four weapons add 12 unique paintings, bringing this effort to 76 paintings
+for 76 IDs without deliberate reuse. Of 1,626 catalog IDs, 93 have direct
+individual paintings and 1,533 do not. Records are in
+`early-material-seven-generation.json`, `armor-batch-seven-generation.json`
+and `weapon-batch-seven-generation.json`. Size reviews and focused image,
+routing and original-art tests passed. Browser, full gate and shipping-tree
+clearance remain open.

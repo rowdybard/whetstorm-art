@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gravecaller_sigil",
+      "file": "docs/design/whetstorm-art/items/gravecaller_sigil.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, legible text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one sinister iron ritual sigil, a circular pendant with a single abstract angular cutout and faint blue ghostly glow, no lettering. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "62523a10bc796316fab8b0a94f236d488c838cc3a37751776d6adff13bcf0e09",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravecaller_sigil.webp",
+        "sha256": "dbee1cee3fa91f4c8e72e59e1ae848d513c74444ed7331378d3eda30821c6aa2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "weathered_ledger_page",
+      "file": "docs/design/whetstorm-art/items/weathered_ledger_page.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, legible text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one loose weathered parchment ledger page, curled corners, worn brown edges and subtle abstract ruled marks without legible writing. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "ddab11f038b882fe818a908810069482c46bf72fc082871ac6bc5230567a7fe0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/weathered_ledger_page.webp",
+        "sha256": "179249638e99d3e2c66917d3283980086d8a0bada4c6a517b59320dedbc1d4ac",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "morthen_grimoire",
+      "file": "docs/design/whetstorm-art/items/morthen_grimoire.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, legible text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one closed ancient dark leather grimoire with tarnished iron corner guards and a magical clasp, faint violet light, no lettering. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "254a5617afc711aa28086538429e6fe9cf1a7210b4b3b448ad48176c54cda2a1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/morthen_grimoire.webp",
+        "sha256": "9ac1d293673a6e42fcd17e03544752698ea643a2f5048469a672d3072cd897f3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "copper_ore",
+      "file": "docs/design/whetstorm-art/items/copper_ore.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, legible text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one rough irregular chunk of copper ore with bright copper-red metallic veins through dark stone, readable mineral silhouette. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "eda4b82e95a05432920b3fbe4c9f083ceb753b3e3a6746d706db53b2987fa248",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/copper_ore.webp",
+        "sha256": "e9d5d0bf92d3541efd60b64493860a567d88d835fb98d64bdc91e26a83f24d76",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

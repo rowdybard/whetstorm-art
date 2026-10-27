@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/eastbrook_chain_vest.png",
+      "subject": "Eastbrook Chainmail Vest: one empty sleeveless steel chainmail vest, front facing, with a simple dark leather collar and hem. Clear silver interlocking links and a practical plain silhouette for early-game mail chest armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Eastbrook Chainmail Vest: one empty sleeveless steel chainmail vest, front facing, with a simple dark leather collar and hem. Clear silver interlocking links and a practical plain silhouette for early-game mail chest armor.",
+      "sha256": "b3c23f9772689973e865ecae25b1af0a17d4640218dd3e2dbdd6cc67d5e08889",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "eastbrook_chain_vest",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eastbrook_chain_vest.webp",
+        "sha256": "b761843ff7c9c7200c94a89adc4af1f3eca6e28127a3c023ddef126b62c142c3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/valespun_robe.png",
+      "subject": "Valespun Robe: one empty simple long cloth robe, front facing with broad sleeves and a tied waist, made from warm cream woven fabric with muted blue edging. Clearly cloth, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Valespun Robe: one empty simple long cloth robe, front facing with broad sleeves and a tied waist, made from warm cream woven fabric with muted blue edging. Clearly cloth, practical early-game equipment.",
+      "sha256": "c009638cf0fd82888cc0508c3e7ebb11f366aaf50c718aa6383a952930ff5880",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "valespun_robe",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/valespun_robe.webp",
+        "sha256": "07cc6ab80f3aa53f955d90f122cd0ec67e3c7485e5b3b52fd60205e96cbbc343",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/tanned_leather_jerkin.png",
+      "subject": "Tanned Leather Jerkin: one empty sleeveless honey-brown tanned leather jerkin, front facing, with plain stitched seams and a simple dark leather lace closure. Clearly leather, practical early-game chest armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Tanned Leather Jerkin: one empty sleeveless honey-brown tanned leather jerkin, front facing, with plain stitched seams and a simple dark leather lace closure. Clearly leather, practical early-game chest armor.",
+      "sha256": "8ce80fe5ddd204d5461a3d89364fee2d86a642471a2cf4daa76e76f142ff6075",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "tanned_leather_jerkin",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tanned_leather_jerkin.webp",
+        "sha256": "e9a64a37160131af3d5de989d9edb5a6775e2dfbf7c35e0926f3d521b6f6ef0f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/hobnail_boots.png",
+      "subject": "Hobnailed Boots: one complete pair of empty mail armor boots, angled together, dull iron over practical dark leather with thick studded soles and simple reinforced toes. Clear boot silhouettes and restrained early-game details.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Hobnailed Boots: one complete pair of empty mail armor boots, angled together, dull iron over practical dark leather with thick studded soles and simple reinforced toes. Clear boot silhouettes and restrained early-game details.",
+      "sha256": "ffa17bb56e07bcf42386e818d77e796aac4029a45bf8871d8798c3425c131bc9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "hobnail_boots",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hobnail_boots.webp",
+        "sha256": "ccc94c8c3343f85a6be88de4b52ec83d9bb04d506155450228f4360d3f7322f1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
