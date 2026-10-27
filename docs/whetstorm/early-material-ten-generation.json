@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "raw_river_perch",
+      "file": "docs/design/whetstorm-art/items/raw_river_perch.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one whole fresh river perch fish, olive-gold scales, dark vertical bars, spiny dorsal fin and visible tail, no hook or plate. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "7506bbd453a7fb20f49b6378f3c0ec1ac18a62daad2bb264814b27ccb749aa32",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/raw_river_perch.webp",
+        "sha256": "6bd7f7f1f216f373110ff1ab3b3697cf90413324dfe90bd64c24e6000c321863",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "soggy_boot",
+      "file": "docs/design/whetstorm-art/items/soggy_boot.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one worn brown leather boot, waterlogged and bent, a few droplets, no foot. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "b0d622eb2ab55c53a7881ede061726bbd88b93a786c08d9f1e959f99e0aa117c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/soggy_boot.webp",
+        "sha256": "648787a699f75744a27d837a5f05142cfba549c8aa4bae5aeeecb317507497e9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "tangled_weed",
+      "file": "docs/design/whetstorm-art/items/tangled_weed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one tangled clump of long dark-green aquatic weeds, twisted strands and a few wet leaves, no fish. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "94cc7ba837a6785880101f4fdb317de798a6f43a9294701fc588fb52b2b7a07a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tangled_weed.webp",
+        "sha256": "743111cfb34a6aefabc883c2af5ac3381f565fa481dfbb1fa4e2becf305d50ae",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "glimmerfin_koi",
+      "file": "docs/design/whetstorm-art/items/glimmerfin_koi.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one whole small luminous golden and white koi fish, distinct flowing fins and tail, subtle glints, no water or bowl. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "96c3c743011f0f14829899959817b6d96ba0d0fbfdc1b100e85cffd50c83fa5b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/glimmerfin_koi.webp",
+        "sha256": "55c66f03995babddb51225bef5f01d8ade1b9d825b92b76a02a64d1fd85a3805",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

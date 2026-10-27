@@ -636,3 +636,9 @@ style reference. Their prompts, masters and hashes are documented in
 `docs/whetstorm/early-material-nine-generation.json`,
 `docs/whetstorm/armor-batch-nine-generation.json` and
 `docs/whetstorm/weapon-batch-nine-generation.json`.
+
+Twelve fishing items, armor and weapons use original Whetstorm art as a
+style reference. Their prompts, masters and hashes are documented in
+`docs/whetstorm/early-material-ten-generation.json`,
+`docs/whetstorm/armor-batch-ten-generation.json` and
+`docs/whetstorm/weapon-batch-ten-generation.json`.

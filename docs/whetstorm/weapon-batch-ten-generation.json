@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gorraks_cleaver",
+      "file": "docs/design/whetstorm-art/items/gorraks_cleaver.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Gorrak's Cleaver: one rough one-handed cleaver axe with a broad chipped iron chopping blade, sturdy short wooden haft and leather grip, a bandit's weapon.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "7e573f882f33af7e69cec882780ab330866b5ad29f3d61e99b59c10fea07e521",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gorraks_cleaver.webp",
+        "sha256": "5ba57196dfb7d4c897e70903b2db3d3b74aa4e8a0ffc8ad08f34bfeae4d42a1d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "maldrecs_soulbinder",
+      "file": "docs/design/whetstorm-art/items/maldrecs_soulbinder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Maldrec's Soulbinder: one dark steel sword with broad blade, an aged bone-colored crossguard and a muted violet stone in its pommel, no sheath or glow.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "5ec44edf7911ab5a54cd7f653c34644897ad75d1a18c2ced5d0a4e4624954dac",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/maldrecs_soulbinder.webp",
+        "sha256": "11a529fb2aac73b6c4394ee86bb8c67c7750397e65d305cbb56a70890ce5efbb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "eastbrook_arming_sword",
+      "file": "docs/design/whetstorm-art/items/eastbrook_arming_sword.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Eastbrook Arming Sword: one practical straight steel one-handed sword with a simple iron crossguard and a small fang-shaped pommel, dark leather grip, no sheath.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "3abefadf4d1b7691d295f55748aaeaa48c361b6feef478f1ded292dbaff42235",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eastbrook_arming_sword.webp",
+        "sha256": "8525b4bef391ed16678d4a861cdd27a43973aa6615a29c40530f96b360881bfe",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "copper_bearded_axe",
+      "file": "docs/design/whetstorm-art/items/copper_bearded_axe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Copper Bearded Axe: one practical single-bladed copper axe with a long descending bearded blade, sturdy wooden handle and leather grip, clearly a melee weapon.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "6819aac8ad5fb89ed4aa3ee018e2182c5b147af288c5df4cda1c05139d139841",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/copper_bearded_axe.webp",
+        "sha256": "e5fb4a29363e131db937bc096667d7f442d1f1ae2dac6707a1237237b1546670",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

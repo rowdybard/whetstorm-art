@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/homespun_mitts.png",
+      "subject": "Homespun Mitts: one complete pair of empty soft cloth mittens, side by side with distinct thumbs and simple stitched cuffs, made from warm beige coarse woven fabric. Clearly cloth, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Homespun Mitts: one complete pair of empty soft cloth mittens, side by side with distinct thumbs and simple stitched cuffs, made from warm beige coarse woven fabric. Clearly cloth, practical early-game equipment.",
+      "sha256": "653352bae6c117605250f5beef2db99d22cadd30c6611e9727cf16f414774683",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "homespun_mitts",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/homespun_mitts.webp",
+        "sha256": "bbb7b5019ab8b95d23167050db8c76a15acdc3c5ce2cd5cc9b621ddbf3c0e7f4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/silverthread_slippers.png",
+      "subject": "Palethread Slippers: one complete pair of empty soft pale blue-grey cloth slippers, angled together with rounded toes, delicate ivory thread stitching and simple fabric cuffs. Clearly cloth footwear, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Palethread Slippers: one complete pair of empty soft pale blue-grey cloth slippers, angled together with rounded toes, delicate ivory thread stitching and simple fabric cuffs. Clearly cloth footwear, practical early-game equipment.",
+      "sha256": "510597cec745e73c69acc759f4a52d10ca957f7c9f78929ab505e5229d2362a5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "silverthread_slippers",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silverthread_slippers.webp",
+        "sha256": "1b327de7b3a7432c883578163a050dd0cd2d603177e55c3f5f580bfe0b9147dc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/fenbridge_hide_leggings.png",
+      "subject": "Fenbridge Hide Leggings: one complete pair of empty leather leggings, front facing with clearly separated legs, made from muted brown hide with plain stitched seams and a simple leather waistband. Practical early-game armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Fenbridge Hide Leggings: one complete pair of empty leather leggings, front facing with clearly separated legs, made from muted brown hide with plain stitched seams and a simple leather waistband. Practical early-game armor.",
+      "sha256": "b47b607f95377dfc0238d5d7d932a3f583db2b9798c3dfc0a741b3ba7564fb2b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "fenbridge_hide_leggings",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenbridge_hide_leggings.webp",
+        "sha256": "081b41e669dcdc4201194d6d5999f98fe821473db55064fd98d5ebc173568870",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/fenbridge_hide_belt.png",
+      "subject": "Fenbridge Hide Belt: one complete simple brown leather waist belt, curled into an open oval with plain stitched edges and an aged brass buckle. Clearly leather, practical early-game armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Fenbridge Hide Belt: one complete simple brown leather waist belt, curled into an open oval with plain stitched edges and an aged brass buckle. Clearly leather, practical early-game armor.",
+      "sha256": "ce1b8f7710cf924afba49f11ca76ed61e44d234b4e576cf9dd4c8027461f395a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "fenbridge_hide_belt",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenbridge_hide_belt.webp",
+        "sha256": "9c6576fac7def717e55b83b139575fccdaf2589835a4f92a27ae19a3a8da3bde",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
