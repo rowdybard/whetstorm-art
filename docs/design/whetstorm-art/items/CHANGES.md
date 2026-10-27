@@ -34,3 +34,6 @@ generation record. The remaining weapon paintings still await launch IDs.
 - `worn_sword.png`: pitted starter shortsword, existing item `worn_sword`.
 - `rusty_dagger.png`: rusty starter dagger, existing item `rusty_dagger`.
 - `rusty_hatchet.png`: rusty starter hatchet, existing item `rusty_hatchet`.
+- `gnarled_staff.png`: bogoak starter staff, existing item `gnarled_staff`.
+- `training_mace.png`: starter training mace, existing item `training_mace`.
+- `eastbrook_buckler.png`: starter round buckler, existing item `eastbrook_buckler`.

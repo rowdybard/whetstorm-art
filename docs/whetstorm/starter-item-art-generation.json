@@ -374,6 +374,51 @@
       "mode": "RGB",
       "itemId": "rusty_hatchet",
       "status": "original source art for existing starter item; integration pending"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/gnarled_staff.png",
+      "subject": "bogoak starter staff",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for the existing starter weapon gnarled_staff, a BOGOAK WOODEN STAFF. Square inventory icon painted edge to edge with no border or text. One complete gnarled dark warm-brown bog-oak staff, a thick forked wooden top with natural knotted growth and simple tan leather grip at its center. The top is wood, no crystal or gemstone. Whole staff diagonally lower left to upper right on a dark slate-blue hand-painted background. Original stylized fantasy game art, clear chunky silhouette, warm upper-left light, broad painterly shapes, restrained detail, large readable forked head at 32 pixels. No people, hands, other objects, letters, logo, watermark, glow, magic, photorealistic textures or copied game designs.",
+      "sha256": "5e78c993921005696c289d8e66d9a556ea5550ba547771e04b9b3f4746105bc0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "gnarled_staff",
+      "status": "original source art for existing starter item; integration pending"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/training_mace.png",
+      "subject": "starter training mace",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for the existing starter weapon training_mace, a simple TRAINING MACE. Square inventory icon painted edge to edge with no border or text. One complete modest one-handed mace with a chunky rounded forged-iron head and a few broad blunt flanges, straight short wooden shaft, simple brown leather grip, no gilding or sun crest. Whole mace diagonally lower left to upper right on a dark slate-blue hand-painted background. Original stylized fantasy game art, bold distinct silhouette, warm upper-left light, broad painterly shapes, restrained detail, legible at 32 pixels. No people, hands, other objects, letters, logo, watermark, glow, magic, photorealistic textures or copied game designs.",
+      "sha256": "f7414499dcbf3c44fd7b2e41b63b58fd68e030c31818f4f5561f80868f72202a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "training_mace",
+      "status": "original source art for existing starter item; integration pending"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/eastbrook_buckler.png",
+      "subject": "starter round buckler",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for the existing starter shield eastbrook_buckler, a modest ROUND WOODEN BUCKLER. Square inventory icon painted edge to edge with no border or text. Show one complete small round shield, warm wood planks, a dark forged iron rim and broad central round iron boss, four simple iron rivets. Viewed almost from the front, centered large on a dark slate-blue hand-painted background. Original stylized fantasy game art, strong simple circular silhouette, warm upper-left light, broad painterly shapes and restrained detail, legible at 32 pixels. No person, hands, weapons, extra objects, letters, logos, watermark, glowing symbols, photorealistic textures or copied game designs.",
+      "sha256": "6cc0191822abcc1ef63e6f86ad777ae56aecfae3df3912d7b9d06dda1cde0b83",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "eastbrook_buckler",
+      "status": "original source art for existing starter item; integration pending"
     }
   ]
 }
