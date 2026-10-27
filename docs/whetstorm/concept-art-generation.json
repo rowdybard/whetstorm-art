@@ -56,6 +56,48 @@
       ],
       "mode": "RGB",
       "status": "concept for review; not a 3D model"
+    },
+    {
+      "file": "docs/design/whetstorm-concepts/whirlblade-short-sword.png",
+      "subject": "Whirlblade short sword",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL starter weapon concept for Whetstorm, a stylized hand-painted fantasy MMORPG: the Whirlblade's short sword, one sword only (the class uses a matched pair). A single gracefully curved single-edged steel blade, slightly oversized broad silhouette, simple practical guard and dark wrapped leather grip, no elaborate filigree. Show the complete sword upright in slight three-quarter view, centered with ample margin on a perfectly plain white background. Bold clean shapes, softly painted light, restrained vibrant steel and warm leather, simple and legible for eventual 3D modeling. No person or hands, no sheath, no stand, no cast shadow, no glow, no magic, no lettering, no logo, no border, no other objects. Original design, do not copy other games or artwork.",
+      "sha256": "85899d8d1da3d3fb0ac0cff3890ee4719c240405b6cc67c0c76fb442203676ca",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "concept for review; not a 3D model"
+    },
+    {
+      "file": "docs/design/whetstorm-concepts/ranger-longbow.png",
+      "subject": "Ranger longbow",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL starter weapon concept for Whetstorm, a stylized hand-painted fantasy MMORPG: the Ranger's recurved wooden longbow. One unstrung? No: one complete bow with a single taut bowstring, clearly visible, elegant recurved limbs with pale bone tips and a practical leather-wrapped central grip. No arrow. Center the complete bow upright in slight three-quarter view with lots of margin, on a perfectly plain white background. Strong clean silhouette, broad intentional shapes, warm wood and bone, restrained color and moderate painted detail suitable for eventual 3D modeling. No person, hands, quiver, stand, shadow, glow, magical effects, text, logo, border or additional objects. Original design; do not copy existing games.",
+      "sha256": "03e462755dc0654723fe8e9af38ecaebfbb10fd86493f700ce2b3acb016e62da",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "concept for review; not a 3D model"
+    },
+    {
+      "file": "docs/design/whetstorm-concepts/skybinder-staff.png",
+      "subject": "Skybinder staff",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL starter weapon concept for Whetstorm, a stylized hand-painted fantasy MMORPG: the Skybinder's tall staff. One simple wooden staff only with a practical leather grip, topped by a physical open cage of copper wire surrounding a pale, opaque blue-white crystal. The crystal is not glowing. Show the whole staff upright in slight three-quarter view, centered with generous white space on a perfectly plain white background. Bold simple silhouette and practical material construction that can be understood by a 3D modeler, softly painted, restrained colors, modest detail. No person, hands, floor, stand, cast shadow, sparkles, lightning, magical effects, text, logos, border or extra objects. Original design, do not copy existing game art.",
+      "sha256": "44d6629910359a7a15378f6a60e6659d25ab2c7775ea65d669aa2a7637bb6840",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "concept for review; not a 3D model"
     }
   ]
 }

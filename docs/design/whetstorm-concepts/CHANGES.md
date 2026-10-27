@@ -10,5 +10,9 @@ not game-ready models and are not wired into the client. See
 - `bulwark-shield.png`: tall wooden shield with iron bands and stone boss.
 - `brute-great-axe.png`: two-handed crescent axe.
 
+- `whirlblade-short-sword.png`: one curved blade for the dual-blade class.
+- `ranger-longbow.png`: recurved bow with bone tips and a string.
+- `skybinder-staff.png`: copper-caged pale crystal on a wooden staff.
+
 No 3D generation or Tripo job has been run. Designs need owner review and actual
 3D construction, rigging where needed, and in-game validation before use.
