@@ -64,6 +64,14 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Ninth checkpoint: four gathering materials, four armor pieces and four weapons
+add 12 unique paintings, bringing this effort to 100 paintings for 100 IDs
+without deliberate reuse. Of 1,626 catalog IDs, 117 have direct individual
+paintings and 1,509 do not. Records are in `early-material-nine-generation.json`,
+`armor-batch-nine-generation.json` and `weapon-batch-nine-generation.json`.
+Size reviews and focused image, routing and original-art tests passed. Browser,
+full gate and shipping-tree clearance remain open.
+
 Seventh checkpoint: four quest and crafting objects, four armor pieces and
 four weapons add 12 unique paintings, bringing this effort to 76 paintings
 for 76 IDs without deliberate reuse. Of 1,626 catalog IDs, 93 have direct

@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gravecaller_blade",
+      "file": "docs/design/whetstorm-art/items/gravecaller_blade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Gravecaller's Broadblade: one complete broad dark steel sword with a worn iron crossguard, subtle bone-colored grip bindings and a sturdy blade, no sheath or glow.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "8a96dcd47b6d44f08aa2ab3d819ba7b437e458bcc9eec0f744a4e646159b8f7e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravecaller_blade.webp",
+        "sha256": "e4d5c3bba23665998a3a074dd6be71379e253622379fcba46617832ca3c32424",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "widowfang_dirk",
+      "file": "docs/design/whetstorm-art/items/widowfang_dirk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Widowfang Dirk: one compact pointed dark steel dagger with a broad fang-shaped blade, small iron guard and dark wrapped grip, no sheath.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "0decaa0e8b646950f848ad999c91595b5e9b25b1634b44d31738e9dfd331bf96",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/widowfang_dirk.webp",
+        "sha256": "f1c10e3ea272532c3f9d6456a8e5fc9bddef570d465e6d1a68e084877c2003e6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gravecaller_staff",
+      "file": "docs/design/whetstorm-art/items/gravecaller_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Staff of the Hollow: one weathered dark wooden staff with a broad bone-colored forked crown enclosing a muted violet stone, no glow.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "28b5eb8e3128cb7b3a151d5f6d63178061cd3418dcc20a42e04a540b1ff4c361",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravecaller_staff.webp",
+        "sha256": "6ac117a15aa9d036686c917a1132c010746c989bdcf3bdf06ba39b8c36e57b7a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bristleback_maul",
+      "file": "docs/design/whetstorm-art/items/bristleback_maul.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Gallowglass Hammer: one stout one-handed war hammer with a heavy rectangular iron head, sturdy wooden haft and worn leather grip, practical early fantasy weapon.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "55e2cf94030f1fdcd62d716fe151802f72b130538b3cdbe97f91d9a238b3f5be",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bristleback_maul.webp",
+        "sha256": "c019623678b996ed6910ce3f52cd4525f6badac7857ce2a02d8d92b26f25ef19",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

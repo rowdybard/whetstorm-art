@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/riveted_copper_girdle.png",
+      "subject": "Riveted Copper Girdle: one complete mail armor waist belt, a broad dark leather band faced with copper plates and visible rivets, curled into a clear open oval with a simple buckle. Practical early-game armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Riveted Copper Girdle: one complete mail armor waist belt, a broad dark leather band faced with copper plates and visible rivets, curled into a clear open oval with a simple buckle. Practical early-game armor.",
+      "sha256": "7dbee57d823a2c8a1283bc0412170abc5c42f57a2a12873ad95ece0abaf2f5d9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "riveted_copper_girdle",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/riveted_copper_girdle.webp",
+        "sha256": "d14f818168812d48ff73deaa078cdd1090d31e46146f43463f95d33c8fb37ae9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/coppermail_sabatons.png",
+      "subject": "Coppermail Sabatons: one complete pair of empty copper chainmail armor boots, angled together, with warm copper links, dark leather soles and small reinforced toes. Clear boot silhouettes, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Coppermail Sabatons: one complete pair of empty copper chainmail armor boots, angled together, with warm copper links, dark leather soles and small reinforced toes. Clear boot silhouettes, practical early-game equipment.",
+      "sha256": "a46b28668b54fbdd1d4d8c5cb44a50d4f5cb61016abb274627b892f18a427768",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "coppermail_sabatons",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/coppermail_sabatons.webp",
+        "sha256": "5a3d715d7fd8f414f92a9201a4d366cbdc3d55ad51401abb71889b58d0f30f79",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/coppermail_gauntlets.png",
+      "subject": "Coppermail Gauntlets: one complete pair of empty copper chainmail gloves, side by side with five distinct fingers per glove, warm copper links and dark leather cuffs. Practical early-game armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Coppermail Gauntlets: one complete pair of empty copper chainmail gloves, side by side with five distinct fingers per glove, warm copper links and dark leather cuffs. Practical early-game armor.",
+      "sha256": "6e7500f7c5a95252a90301ad992c45b736b9d4d4a6206f0f24707fee0f2da605",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "coppermail_gauntlets",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/coppermail_gauntlets.webp",
+        "sha256": "74cca5cfd7104a5accb6b1069ee2338eb018e21a779673ab249dba3f677febc2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/homespun_hood.png",
+      "subject": "Homespun Hood: one empty soft cloth hood, front facing, with an open dark face opening and short draped shoulders, made from muted warm beige woven fabric with simple stitched edging. Clearly cloth, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Homespun Hood: one empty soft cloth hood, front facing, with an open dark face opening and short draped shoulders, made from muted warm beige woven fabric with simple stitched edging. Clearly cloth, practical early-game equipment.",
+      "sha256": "fbf7f5e75c539e103ea58429a1b81b564f94ff6d506a9ad45b8432ac6ba61491",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "homespun_hood",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/homespun_hood.webp",
+        "sha256": "89b9e94e61351ad433ab24e35a3be0ad0508043a2b5227d4f0003fc4c6181404",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
