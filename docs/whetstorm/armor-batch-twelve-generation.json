@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/marshstalker_jerkin.png",
+      "subject": "Marshstalker Jerkin: one empty dark olive-brown leather jerkin, front facing and sleeveless, with modest stitched leaf motifs, simple straps and worn seams. Clearly leather chest armor, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Marshstalker Jerkin: one empty dark olive-brown leather jerkin, front facing and sleeveless, with modest stitched leaf motifs, simple straps and worn seams. Clearly leather chest armor, practical early-game equipment.",
+      "sha256": "44a1ee843ea4990dd3df773811e4b10a974643ad6653ce0dec99bf82671fd697",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "marshstalker_jerkin",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/marshstalker_jerkin.webp",
+        "sha256": "09966d11a4152d5b7ba728eb20df92432797d57989026300adbdef4160ac128f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/marshstalker_spaulders.png",
+      "subject": "Marshstalker Spaulders: one complete pair of empty dark olive-brown leather shoulder armor pieces, side by side, with layered hide and simple stitched seams. Clearly leather shoulder armor, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Marshstalker Spaulders: one complete pair of empty dark olive-brown leather shoulder armor pieces, side by side, with layered hide and simple stitched seams. Clearly leather shoulder armor, practical early-game equipment.",
+      "sha256": "e065c6f529edffbda88e4b26ba6711caaa66ff753463b930c6114dc167094482",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "marshstalker_spaulders",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/marshstalker_spaulders.webp",
+        "sha256": "c10995cca99a9d6d664939d400d3a1d329d13ee813e3584e2c4f2d5a8da7bc65",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/ironlink_hauberk.png",
+      "subject": "Ironlink Hauberk: one empty iron chainmail shirt, front facing with short sleeves and a simple dark leather collar. Clear silver iron links, practical early-game chest armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Ironlink Hauberk: one empty iron chainmail shirt, front facing with short sleeves and a simple dark leather collar. Clear silver iron links, practical early-game chest armor.",
+      "sha256": "4e6555712d1649004bb3c20bec9fc1e07d62eea232072dd9c7ae17555c0a032a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "ironlink_hauberk",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ironlink_hauberk.webp",
+        "sha256": "f4d74d80c90f4b2238e22c2d2d5894a874c01f02161b41a5e6f8cd56972f51bb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/ironlink_legguards.png",
+      "subject": "Ironlink Legguards: one complete pair of empty iron chainmail leg armor, front facing with clearly separated legs, dark iron links, plain leather waistband and small reinforced knee plates. Practical early-game armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Ironlink Legguards: one complete pair of empty iron chainmail leg armor, front facing with clearly separated legs, dark iron links, plain leather waistband and small reinforced knee plates. Practical early-game armor.",
+      "sha256": "9e4ccc688a9893315f7973c7a50031171c131513548d92d54f53783c3185bfee",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "ironlink_legguards",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ironlink_legguards.webp",
+        "sha256": "a5a783d344a5b11d3b9d9c0d1bb9750a5faaf502ca04160c12982e67968d3d69",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

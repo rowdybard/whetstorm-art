@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "caravan_warden_dirk",
+      "file": "docs/design/whetstorm-art/items/caravan_warden_dirk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Caravan Warden Dirk: one compact steel dagger with a broad pointed blade, simple bronze guard and dark leather grip, a practical travel weapon, no sheath.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "33a96d9b388eb5790ce73a54d3454753dec1f6199c3a857ae9778b5c00a029db",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/caravan_warden_dirk.webp",
+        "sha256": "93cab2abb2465e6683742a2a326c5bd1c3b4703378527db9a48f346b95e7357a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ironedge_longsword",
+      "file": "docs/design/whetstorm-art/items/ironedge_longsword.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Ironedge Longsword: one sturdy straight iron longsword with a broad blade, simple iron crossguard and dark leather-wrapped grip, no sheath.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "1b7f0ab93560265c1da268f07215c9e48a33ea7606286323f90d94d7a71fb94a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ironedge_longsword.webp",
+        "sha256": "d37fe972b59b4ab24af384a73996c086d1f8594efafac2c5fb31cafcb96e33a5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ironshod_maul",
+      "file": "docs/design/whetstorm-art/items/ironshod_maul.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Ironshod Maul: one heavy two-handed wooden war maul with a large iron-bound rectangular striking head and worn leather grip, practical fantasy weapon.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "3a7774bdc091384d316d0f940bd46958dbf3722ed71466b6a3f680b7e6e3efb7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ironshod_maul.webp",
+        "sha256": "633d2e3a139bf31d0f1a7c8a4fbd307015e7e5b1600cb61f34b0414a164f7c88",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "whetted_iron_dirk",
+      "file": "docs/design/whetstorm-art/items/whetted_iron_dirk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Whetted Iron Dirk: one compact iron dagger with a broad sharp blade, short dark wrapped grip and small iron guard, no sheath.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "78ebfa32f2042d5188374bd6481c47429673e234ba50d6e50226f6c67a338e3c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/whetted_iron_dirk.webp",
+        "sha256": "1c59f025c5e46fec6721fee677dc664965b0495dfee16298b47d61c2b9979d62",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

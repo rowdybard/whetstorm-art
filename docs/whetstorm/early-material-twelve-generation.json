@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "minor_healing_potion",
+      "file": "docs/design/whetstorm-art/items/minor_healing_potion.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one tiny slim clear glass vial of scarlet healing liquid with a simple cork, no label, a distinctly narrow silhouette. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "3b1012e3294256903a86400adfe3c90c7f40d79ffee84cf42438e42a0d1395f5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/minor_healing_potion.webp",
+        "sha256": "832d943a63ee815c04f4cb4e654422173dde7f7a8d9eb6b5fed3d5b12fa154ca",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "minor_mana_potion",
+      "file": "docs/design/whetstorm-art/items/minor_mana_potion.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one tiny slim clear glass vial of deep sapphire-blue mana liquid with a simple cork, no label, a distinctly narrow silhouette. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "cb48cf9f5a85425cf9a4f3b4a89af124abf9bcf4b52b78a2fc05385594d9d787",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/minor_mana_potion.webp",
+        "sha256": "245e930179984ef163fe5053b53918195eecd02ddb8ea0b0b25a0ba5916ec01a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "lesser_mana_potion",
+      "file": "docs/design/whetstorm-art/items/lesser_mana_potion.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one squat round glass bottle of deep sapphire-blue mana liquid, cork stopper and simple twine, no label. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "97c734012489b8f71855aaa4d95f39dd3cc63496c861db2db710380d85b11c86",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/lesser_mana_potion.webp",
+        "sha256": "95a2f24ec4f615d7764147cf1de613a416c30faf2048f5a8deba68124f25bda4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "healing_potion",
+      "file": "docs/design/whetstorm-art/items/healing_potion.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one taller broad-shouldered clear glass bottle of ruby-red healing liquid, a gold collar and cork stopper, no label. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "1ba87938393c03d785134100033d9e574a73e364a7bd8949da930b79a2a5873f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/healing_potion.webp",
+        "sha256": "7a83af833ab5732607d9b3d0268de761cc6935a59f7e1af3b7e4b4e17d0daf4f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -64,6 +64,14 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Twelfth checkpoint: four potions, four armor pieces and four weapons add 12
+unique paintings, bringing this effort to 136 paintings for 136 IDs with no
+deliberate reuse. Of 1,626 catalog IDs, 153 have direct individual paintings
+and 1,473 do not. Records are in `early-material-twelve-generation.json`,
+`armor-batch-twelve-generation.json` and `weapon-batch-twelve-generation.json`.
+Size reviews and focused image, routing and original-art tests passed. Browser,
+full gate and shipping-tree clearance remain open.
+
 Eleventh checkpoint: four cooked foods, four armor pieces and four weapons add
 12 unique paintings, bringing this effort to 124 paintings for 124 IDs with
 no deliberate reuse. Of 1,626 catalog IDs, 141 have direct individual
