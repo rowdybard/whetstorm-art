@@ -98,6 +98,48 @@
       ],
       "mode": "RGB",
       "status": "concept for review; not a 3D model"
+    },
+    {
+      "file": "docs/design/whetstorm-concepts/cleric-mace.png",
+      "subject": "Cleric mace",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL starter weapon concept for Whetstorm, a stylized hand-painted fantasy MMORPG: the Cleric's one-handed flanged mace. One mace only, practical short wood-and-metal shaft with a leather grip, a heavy sun-shaped head made of blunt radial forged metal flanges. Clearly a solid mace, not a wand or glowing sun symbol. Show the entire object upright in a slight three-quarter view, centered with generous margin on a perfectly plain white background. Bold clean shapes, simple construction, warm worn brass and forged steel, restrained hand-painted colors and modest detail suitable for later 3D modeling. No person, hands, stand, cast shadow, glow, effects, text, logo, border or extra objects. Original design, do not copy existing game art.",
+      "sha256": "c443ecd81c3bbfe88ea89c08882072cdb7f35d465568413a1fbb112fecc6648f",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "concept for review; not a 3D model"
+    },
+    {
+      "file": "docs/design/whetstorm-concepts/cleric-lantern.png",
+      "subject": "Cleric lantern",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL starter equipment concept for Whetstorm, a stylized hand-painted fantasy MMORPG: the Cleric's small brass hand lantern on a short chain. One lantern only, clearly visible complete solid brass housing, simple window panes with a pale unlit interior, and a short practical chain ending in a holding ring. No flame or glow. Show the entire lantern and chain in a slight three-quarter view, centered with generous margin on a perfectly plain white background. Chunky readable silhouette and understandable construction, warm brass, softly painted moderate detail, suitable as a 3D modeling reference. No person, hands, floor, stand, cast shadow, flame, glow, effects, text, logo, border or extra objects. Original design, do not copy existing game art.",
+      "sha256": "bdd06e96ed4b1ae72a497363f879d5315a9880f693bc9b4f80deac707a6c3820",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "concept for review; not a 3D model"
+    },
+    {
+      "file": "docs/design/whetstorm-concepts/warden-staff.png",
+      "subject": "Warden staff",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL starter weapon concept for Whetstorm, a stylized hand-painted fantasy MMORPG: the Warden's two-handed carved wooden staff. One staff only, a rough gray stone head visibly and securely bound into the top by thick winding roots, natural carved wood shaft, modest leather hand wrap. Simple rugged starter equipment, no magical light or runes. Show the entire staff upright in a slight three-quarter view, centered with generous margins on a perfectly plain white background. Bold clean readable shapes, mossy earth colors and hand-painted moderate detail, physically understandable construction for a 3D artist. No person, hands, floor, stand, cast shadow, glow, effects, text, logo, border or extra objects. Original design, do not copy existing game art.",
+      "sha256": "b8f8270ccf567d795c4e74af1d701ce470472c6ee657c4f688d3790afb74baed",
+      "pixels": [
+        1024,
+        1536
+      ],
+      "mode": "RGB",
+      "status": "concept for review; not a 3D model"
     }
   ]
 }

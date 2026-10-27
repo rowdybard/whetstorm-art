@@ -197,3 +197,8 @@ checkpoint adds original Old Peatfire and starter weapon concepts under
 docs/design/whetstorm-concepts, with prompts and SHA-256 in
 docs/whetstorm/concept-art-generation.json. These are review concepts, not
 runtime assets or 3D models; no Tripo credits were used.
+
+The full first set now has one Old Peatfire concept and nine starter weapon
+concepts, all single PNGs. They are model references awaiting review, not
+approved 3D assets. The arena brief waits for the arena look to be settled;
+starter item icons and class bodies remain next in the owner's priority list.
