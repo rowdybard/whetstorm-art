@@ -284,6 +284,51 @@
         "format": "WebP RGB",
         "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
       }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/recruit_tunic.png",
+      "subject": "starter leather tunic",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for the existing starter item recruit_tunic, a simple worn LEATHER TUNIC. Square inventory icon painted edge to edge, no border or text. Show one complete empty sleeveless brown leather tunic, broad shoulders and a practical V-neck, modest stitched seams, short hem and a few simple bronze fastenings, centered on a dark slate-blue hand-painted background. The garment floats as an isolated object with no person or stand. Original stylized fantasy game art, big clean shapes, bold readable silhouette, warm upper-left light, broad painterly planes, restrained detail, clear at 32 pixels. No extra objects, lettering, logo, watermark, ornate legendary armor, photorealistic textures or copied game designs.",
+      "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "recruit_tunic",
+      "status": "original source art for existing starter item; integration pending"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/apprentice_robe.png",
+      "subject": "starter cloth robe",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for the existing starter item apprentice_robe, a THREADBARE CLOTH ROBE. Square inventory icon painted edge to edge, no border or text. Show one complete empty long-sleeved robe, a simple hoodless collar and loose hem, deep muted teal-blue cloth with a pale linen trim and a plain leather belt; visibly modest starter clothing. Center the whole garment as an isolated object on a dark slate-blue hand-painted background with a contrasting outline. Original stylized fantasy game art, big clean shapes and bold readable silhouette, warm upper-left light, broad painterly planes, restrained detail, clear at 32 pixels. No person or stand, extra objects, runes, magic, letters, logo, watermark, ornate legendary armor, photorealistic textures or copied game designs.",
+      "sha256": "5831a500bbe2e8837172e212c73a86cadd290a82516f721569436874dd6b455d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "apprentice_robe",
+      "status": "original source art for existing starter item; integration pending"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/footpad_jerkin.png",
+      "subject": "starter leather jerkin",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for the existing starter item footpad_jerkin, a CUTPURSE LEATHER JERKIN. Square inventory icon painted edge to edge, no border or text. Show one complete empty short-sleeved fitted dark russet leather jerkin, wrapped across the chest with one diagonal strap, simple waist buckle and a small tan collar, plainly worn starter gear. Center the whole garment as an isolated object on a dark slate-blue hand-painted background with strong silhouette contrast. Original stylized fantasy game art, big clean shapes, warm upper-left light, broad painterly planes, restrained detail, clearly distinct from a long cloth robe and a sleeveless tunic at 32 pixels. No person or stand, extra items, letters, logo, watermark, ornate legendary armor, photorealistic textures or copied game designs.",
+      "sha256": "62b051750e4bfcb6af9dec216b8967c0d8f909963acc46e67ea752cd2eafc65b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "footpad_jerkin",
+      "status": "original source art for existing starter item; integration pending"
     }
   ]
 }

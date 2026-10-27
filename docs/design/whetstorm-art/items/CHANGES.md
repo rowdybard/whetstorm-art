@@ -28,3 +28,6 @@ remains necessary after item mappings and runtime sizing are implemented.
 The two starter rations now resolve through `starterItemImageUrl` and the
 existing item icon API. Their 128px WebPs and source hashes are recorded in the
 generation record. The remaining weapon paintings still await launch IDs.
+- `recruit_tunic.png`: starter leather tunic, existing item `recruit_tunic`.
+- `apprentice_robe.png`: starter cloth robe, existing item `apprentice_robe`.
+- `footpad_jerkin.png`: starter leather jerkin, existing item `footpad_jerkin`.
