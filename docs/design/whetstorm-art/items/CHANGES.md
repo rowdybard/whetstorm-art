@@ -15,3 +15,9 @@ class implementation. They are not a claim that inherited item art is removed.
 - `cleric-mace.png`: sun-headed mace.
 - `cleric-lantern.png`: unlit lantern.
 - `warden-staff.png`: root-bound stone staff.
+
+The two staff paintings were revised after checking the first versions at
+32 pixels. Earlier versions are retained under `source-versions/`; their full
+provenance is in the generation record. A 32/48/64 pixel contact sheet is at
+`docs/screenshots/whetstorm-starter-items/item-sizes.png`. In-game testing
+remains necessary after item mappings and runtime sizing are implemented.
