@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/trail_leggings.png",
+      "subject": "Trailworn Leggings: one complete pair of practical worn brown leather leggings, empty and front facing, with reinforced knees and simple stitched seams. Distinct leather material and clearly separated legs.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm light from upper left, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Trailworn Leggings: one complete pair of practical worn brown leather leggings, empty and front facing, with reinforced knees and simple stitched seams. Distinct leather material and clearly separated legs.",
+      "sha256": "7ce54f7d45bca073872f791f2091256c5878c8256ce2f1e79657260c51e2e9d0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "trail_leggings",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/trail_leggings.webp",
+        "sha256": "847b442e170360c070bf834137bec91d64444767e710bb618a5cb9098f7158f8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/mosshide_vest.png",
+      "subject": "Mosshide Vest: one complete empty sleeveless moss-green and brown leather vest, front facing, with broad overlapping hide panels, simple stitching and modest fastenings. Clearly leather, distinct from the reference tunic.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm light from upper left, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Mosshide Vest: one complete empty sleeveless moss-green and brown leather vest, front facing, with broad overlapping hide panels, simple stitching and modest fastenings. Clearly leather, distinct from the reference tunic.",
+      "sha256": "32be0489bb9f3c991835cec9f4115c0f0ff1097dddad48aac8b52e6c091bdab0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "mosshide_vest",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mosshide_vest.webp",
+        "sha256": "adf5a920cf02d0aa9c8f0df25113f6afac201de48b23faaddb2ec8bc655b1556",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/acolyte_chain_grips.png",
+      "subject": "Acolyte Chain Grips: one complete pair of empty short mail gloves, arranged together, visible interlocking steel rings across the backs and fingers, simple dark leather cuffs. Clearly chainmail, not scales or plate.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm light from upper left, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Acolyte Chain Grips: one complete pair of empty short mail gloves, arranged together, visible interlocking steel rings across the backs and fingers, simple dark leather cuffs. Clearly chainmail, not scales or plate.",
+      "sha256": "924701048bc5b980dd9acf22e1b7e8c1f7e9ea6c766ed6a6b98891b06564616b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "acolyte_chain_grips",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/acolyte_chain_grips.webp",
+        "sha256": "d20c120b5fdffedee1fd39e645b70f496cedc432b08e5952f531639f122846fd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/mossy_handwraps.png",
+      "subject": "Mossgrown Handwraps: one complete pair of empty soft cloth handwraps, arranged together, overlapping bands of muted moss-green woven fabric with loose short ends. Clearly cloth, no metal or leather.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm light from upper left, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Mossgrown Handwraps: one complete pair of empty soft cloth handwraps, arranged together, overlapping bands of muted moss-green woven fabric with loose short ends. Clearly cloth, no metal or leather.",
+      "sha256": "04db8ab0564af66b04a6cfaadc04ced3f7ae541dd63c49a2e09c07e205359e6d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "mossy_handwraps",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mossy_handwraps.webp",
+        "sha256": "f7a16b045aba78e26ca982228e158c82f401e003f0fe673db4e1a6ca76bbde43",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

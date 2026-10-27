@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "copper_mining_pick",
+      "file": "docs/design/whetstorm-art/items/copper_mining_pick.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A basic copper mining pick: a wooden handle with a copper-colored double-ended pick head, one pointed end and one broad chisel end, clearly a mining tool.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "763aed99d7b77a54c89f609e78711a21c28e8c4e776c16fe0f90598f638fd2db",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/copper_mining_pick.webp",
+        "sha256": "40322c3f1a3f7e10c8b99de4dc508df04775efd01f04c3ebd52221b9a8d527de",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "garden_hoe",
+      "file": "docs/design/whetstorm-art/items/garden_hoe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A simple garden hoe: a long wooden handle with a single broad rectangular iron blade mounted perpendicular at its end, clearly an agricultural hoe.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "62072cf8f52f27c23608de67f765df06f6cc495b37aa6fa80ed150ae301fd365",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/garden_hoe.webp",
+        "sha256": "666666d94202fcfaeda515b04dfe6ce18b12a2ed97306314bda7b8e1a05bdeef",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "simple_fishing_pole",
+      "file": "docs/design/whetstorm-art/items/simple_fishing_pole.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A simple fishing pole with a deliberately thick, chunky tapered wooden rod and a short, thick pale fishing line ending in a large clearly visible curved hook. Exaggerate line and hook thickness for readability at 32 pixels. No reel, no fish.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "569236c802aed869fcd7813e87a9965db11ee3e2db51cfcfa7cdaaad050d3101",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/simple_fishing_pole.webp",
+        "sha256": "9fd35652118ac85fbb8f222f9916fc9a7c5695136a35ff70f9e4f582df7ccd23",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "revision_history": [
+        {
+          "file": "docs/design/whetstorm-art/items/simple_fishing_pole_v1.png",
+          "sha256": "206948fd1fb78d121d5a9092eb63b726752ae46b1af1c1fc07d6dfc869f0cde4",
+          "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A simple fishing pole: one slender wooden rod, subtly bent, with a short visible line and small hook, no reel, no fish.",
+          "reason": "Line and hook were difficult to read at 32 pixels."
+        }
+      ]
+    },
+    {
+      "itemId": "gathering_sickle",
+      "file": "docs/design/whetstorm-art/items/gathering_sickle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A gathering sickle: a short wooden grip and one broad curved crescent steel harvesting blade, clearly distinct from a sword or scythe.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "5d8be9b3e51a3c15a5048a5ca430e864752b85e20cc681db4d64abf5cd14f04b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gathering_sickle.webp",
+        "sha256": "f52cadee2f98b274fc83885074aea1400d63541bfd635debbc070405ca0ad823",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

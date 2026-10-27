@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "wolf_fang",
+      "file": "docs/design/whetstorm-art/items/wolf_fang.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/references/owner-style-reference-2026-10-27.png",
+          "sha256": "fa144cb5b9e8334ee8d1ae60059ec023a1cd61c630f7ef61a5738e2f40a74304"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Use the supplied screenshot only as a visual style reference: warm upper-left light, broad hand-painted forms, stylized fantasy, and a deep slate-blue textured background. Ignore its UI, text and pictured items. Center one complete subject with a bold silhouette readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, extra objects, 3D render, or copied game designs. Subject: one cracked wolf fang, an ivory curved pointed canine tooth with a worn dark root and one unmistakable small fracture. Show the entire fang with clear empty space around it.",
+      "status": "original art candidate; reviewed and wired after checks",
+      "sha256": "2065bf49e6b36d785b2f612375a93874ced7e2cb34604dee4bbefa027ec7f007",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wolf_fang.webp",
+        "sha256": "f1fa050eca3dfcc335b5b32ae4f3dd89d319082d7b78c66a6c54252c8393d38d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "boar_hide",
+      "file": "docs/design/whetstorm-art/items/boar_hide.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/references/owner-style-reference-2026-10-27.png",
+          "sha256": "fa144cb5b9e8334ee8d1ae60059ec023a1cd61c630f7ef61a5738e2f40a74304"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Use the supplied screenshot only as a visual style reference: warm upper-left light, broad hand-painted forms, stylized fantasy, and a deep slate-blue textured background. Ignore its UI, text and pictured items. Center one complete subject with a bold silhouette readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, extra objects, 3D render, or copied game designs. Subject: one bristly boar hide, a complete rough irregular hide with a thick brown leather underside and short coarse tawny bristles around its edges. No animal head, legs, face, blood or other body parts.",
+      "status": "original art candidate; reviewed and wired after checks",
+      "sha256": "4ed75adb6a2e6007d5fde6c50c8dbfe9c7e36ae72c9690cbd40aaa203c34e5fb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/boar_hide.webp",
+        "sha256": "3af2fbd651cbe982cc60159a1add190a8c0bfe07907786a1c494dbce52e34a4d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "tough_jerky",
+      "file": "docs/design/whetstorm-art/items/tough_jerky.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/references/owner-style-reference-2026-10-27.png",
+          "sha256": "fa144cb5b9e8334ee8d1ae60059ec023a1cd61c630f7ef61a5738e2f40a74304"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Use the supplied screenshot only as a visual style reference: warm upper-left light, broad hand-painted forms, stylized fantasy, and a deep slate-blue textured background. Ignore its UI, text and pictured items. Center one complete subject with a bold silhouette readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, extra objects, 3D render, or copied game designs. Subject: one strip of salted jerky, a complete irregular strip of dark reddish-brown dried meat with visible fibrous texture and a few salt crystals. No plate, wrapping, hands or garnish.",
+      "status": "original art candidate; reviewed and wired after checks",
+      "sha256": "f2d673436f349dad3cbd63a2caf0daa7c9b8c8d93d2904c8c590568e7a0a0c9e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tough_jerky.webp",
+        "sha256": "28490e32ecf32a2235aa24edcfcd5e9e01a2eef85307815ddd2cb0d69a38cb02",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "spider_leg",
+      "file": "docs/design/whetstorm-art/items/spider_leg.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/references/owner-style-reference-2026-10-27.png",
+          "sha256": "fa144cb5b9e8334ee8d1ae60059ec023a1cd61c630f7ef61a5738e2f40a74304"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Use the supplied screenshot only as a visual style reference: warm upper-left light, broad hand-painted forms, stylized fantasy, and a deep slate-blue textured background. Ignore its UI, text and pictured items. Center one complete subject with a bold silhouette readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, extra objects, 3D render, or copied game designs. Subject: one twitching spider leg, a complete detached dark chitinous arthropod leg with three angular joints and a sharp tapered tip, shown by itself. No spider body, web, eyes, blood or background creature.",
+      "status": "original art candidate; reviewed and wired after checks",
+      "sha256": "46114d37de57523d0394c5ccf8361da0799e63bba1f4c33375574749ebc02c1d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/spider_leg.webp",
+        "sha256": "d415f89104dfe7385e443affc26890af4585de06ee0d40f28a5b302789fb3e4a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -2,7 +2,6 @@ import { describe, expect, it } from 'vitest';
 import { TRINKET_AURA_ITEM } from '../src/sim/content/trinkets';
 import { ABILITIES, ITEMS } from '../src/sim/data';
 import { CLASS_ART_IDS, classIconUrl } from '../src/ui/class_icon_art';
-import { earlyQuestItemImageUrl } from '../src/ui/early_quest_item_art';
 import { abilityImageUrl, iconDataUrl, itemImageUrl } from '../src/ui/icons';
 import {
   originalIconSvg,
@@ -10,7 +9,7 @@ import {
   originalModifierRecipe,
   paintOriginalIcon,
 } from '../src/ui/original_icon_art';
-import { starterItemImageUrl } from '../src/ui/starter_item_art';
+import { paintedItemImageUrl } from '../src/ui/painted_item_art';
 
 const recipe = { bg: 'holy', pal: 'gold', prims: [{ p: 'shield' }, { p: 'cross', s: 0.4 }] };
 function expectOriginal(url: string | null) {
@@ -28,8 +27,9 @@ describe('original Whetstorm artwork contract', () => {
   it('covers every live item without inherited bitmap requests', () => {
     expect(Object.keys(ITEMS).length).toBeGreaterThan(1600);
     for (const id of Object.keys(ITEMS)) {
-      const paintedArt = starterItemImageUrl(id) ?? earlyQuestItemImageUrl(id);
+      const paintedArt = paintedItemImageUrl(id);
       if (paintedArt) {
+        expect(paintedArt).toBe(`/ui/whetstorm/items/${id}.webp`);
         expect(itemImageUrl(id)).toBe(paintedArt);
         expect(iconDataUrl('item', id)).toBe(paintedArt);
       } else {

@@ -20,11 +20,10 @@ import {
 import { ABILITIES, ITEMS } from '../sim/data';
 import { crestIconUrl } from './crest_icon_art';
 import { DEED_IMAGE_IDS } from './deed_image_ids';
-import { earlyQuestItemImageUrl } from './early_quest_item_art';
 import { professionImageUrl } from './hud/professions/profession_art';
 import { MOB_AURA_IMAGE_IDS } from './mob_aura_icon_art';
+import { paintedItemImageUrl } from './painted_item_art';
 import { PET_ACTION_IMAGE_IDS } from './pet_action_icons';
-import { starterItemImageUrl } from './starter_item_art';
 import { TRINKET_AURA_IMAGE_URLS } from './trinket_aura_art';
 import { ITEM_WEAPON_VARIANTS } from './weapon_variants';
 
@@ -5716,7 +5715,7 @@ export function cachedProceduralIconDataUrl(
 
 function originalArt(kind: IconKind, id: string, size = DEFAULT_ICON_SIZE): string {
   if (kind === 'item') {
-    const itemArt = starterItemImageUrl(id) ?? earlyQuestItemImageUrl(id);
+    const itemArt = paintedItemImageUrl(id);
     if (itemArt) return itemArt;
   }
   if (kind === 'ability' || kind === 'aura') {

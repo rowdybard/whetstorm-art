@@ -581,3 +581,12 @@ The six early quest reward images under `public/ui/whetstorm/items/` were
 created for Whetstorm using OpenAI's built-in image generation. Their masters,
 prompts, revision history, processing and hashes are recorded in
 `docs/whetstorm/early-quest-item-art-generation.json`.
+
+## Whetstorm early drops, armor and gathering tools
+
+Twelve individual item paintings were created for Whetstorm using OpenAI's
+built-in image generation. Source images, prompts, reference lineage,
+processing and hashes are recorded in `docs/whetstorm/early-drop-item-art-generation.json`,
+`docs/whetstorm/armor-batch-generation.json` and
+`docs/whetstorm/tool-batch-generation.json`. Their style references are the
+owner-provided screenshot and earlier original Whetstorm art.
