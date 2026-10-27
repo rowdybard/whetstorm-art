@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "greyjaw_fang",
+      "file": "docs/design/whetstorm-art/items/greyjaw_fang.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm sword is a style reference only: match its hand-painted fantasy treatment, warm upper-left light, broad clear shapes, and deep slate-blue painted background; do not copy the sword. Center the complete subject, making it distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, extra objects, photorealism, or copied game designs. Subject: Old Greyjaw's fang, one large ancient wolf canine tooth with a broad amber-ivory surface, a dark weathered root, blunt chips and worn grooves. Show the complete fang in a gentle curve, distinct from a small white cracked fang.",
+      "status": "original early quest painting; pending integration and review",
+      "sha256": "9793e39f2b06d712f470919b67bbc3d598baa1ba6e400a4631a76cdbe4752e64",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/greyjaw_fang.webp",
+        "sha256": "4e6679b8abf5a96bbf32edd0e04dd95df107278d0b811d4768b4d4148bb73fe0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "webwood_silk",
+      "file": "docs/design/whetstorm-art/items/webwood_silk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm sword is a style reference only: match its hand-painted fantasy treatment, warm upper-left light, broad clear shapes, and deep slate-blue painted background; do not copy the sword. Center the complete subject, making it distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, extra objects, photorealism, or copied game designs. Subject: one harvested spider silk gland, a small pale lavender organic oval sac with a short white strand of silk emerging from one pointed end. No spider, legs, blood, gore, spool or bottle.",
+      "status": "original early quest painting; pending integration and review",
+      "sha256": "2fa45ea236c471aa5ad6a9e031beecbf4b90c70410315fb0532d5da18f135384",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/webwood_silk.webp",
+        "sha256": "23a3095a95d0b1a3d95491c116412ff98f8915480baebc3855c63b1c7562ede0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "supply_crate",
+      "file": "docs/design/whetstorm-art/items/supply_crate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm sword is a style reference only: match its hand-painted fantasy treatment, warm upper-left light, broad clear shapes, and deep slate-blue painted background; do not copy the sword. Center the complete subject, making it distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, extra objects, photorealism, or copied game designs. Subject: one complete closed wooden supply crate, made from broad weathered honey-brown planks with two dark iron reinforcing bands. Three-quarter view; no writing, symbols, contents, rope, person or extra crates.",
+      "status": "original early quest painting; pending integration and review",
+      "sha256": "4e4b32d0d323194bbf70f9854677fab1076bd4a8b5afd50e0c38db606552ed6a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/supply_crate.webp",
+        "sha256": "112484a3144be9c86811dfc68fbdf461141d7ef19c8d521b60d036caf4759a64",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bandit_bandana",
+      "file": "docs/design/whetstorm-art/items/bandit_bandana.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm sword is a style reference only: match its hand-painted fantasy treatment, warm upper-left light, broad clear shapes, and deep slate-blue painted background; do not copy the sword. Center the complete subject, making it distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, extra objects, photorealism, or copied game designs. Subject: one red bandana, a complete folded deep-red cloth bandana tied with a single simple knot and two short trailing ends, shown alone. No head, face, skull insignia, writing or other items.",
+      "status": "original early quest painting; pending integration and review",
+      "sha256": "dd8a720cdd372fd9e5e3fe5c02ed2cd7ed577e337bfd17dcc4c42ab0cde3f7d9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bandit_bandana.webp",
+        "sha256": "f79caa79f55941972f1b6f82216e4473ea51664bd557c94853e194aa4c294eb1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

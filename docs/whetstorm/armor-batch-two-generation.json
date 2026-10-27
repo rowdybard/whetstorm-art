@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/milepost_boots.png",
+      "subject": "Milepost Boots: one complete pair of practical tan leather ankle boots, empty, angled together, with broad folded cuffs, sturdy dark soles and simple stitched seams. Readable light brown leather and an unmistakable boot silhouette.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Milepost Boots: one complete pair of practical tan leather ankle boots, empty, angled together, with broad folded cuffs, sturdy dark soles and simple stitched seams. Readable light brown leather and an unmistakable boot silhouette.",
+      "sha256": "78683d674d096016e2cddd59a417ad7e31aaecbe0e8e6477f201f5c89d142f50",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "milepost_boots",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/milepost_boots.webp",
+        "sha256": "1b5303f742dcdec49c532cfa32dc40549c22014cb23ebdf9fa17537f1b45713a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/greyjaw_pelt_cloak.png",
+      "subject": "Greyjaw's Pelt Leggings: one complete pair of empty cloth leggings, front facing and clearly separated legs, made from pale grey woven cloth with a modest grey wolf-pelt trim around the waist and knee patches. This is leg armor, not a cloak. Readable fabric folds and fur accents.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Greyjaw's Pelt Leggings: one complete pair of empty cloth leggings, front facing and clearly separated legs, made from pale grey woven cloth with a modest grey wolf-pelt trim around the waist and knee patches. This is leg armor, not a cloak. Readable fabric folds and fur accents.",
+      "sha256": "7fda16d3861da74279512960484a1e71bb7c742bf3a022a4ae0b2f24b6e3a8c9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "greyjaw_pelt_cloak",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/greyjaw_pelt_cloak.webp",
+        "sha256": "6d26c3581ef167cbe77380fcf1ad7a8683a472f15ef7735e3369545c9250b4ff",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/oiled_boots.png",
+      "subject": "Oiled Leather Boots: one complete pair of empty dark chestnut leather tall boots, angled together, with subtly glossy oiled surfaces, plain high shafts, straps and sturdy soles. Distinct dark polished leather, simple practical early equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Oiled Leather Boots: one complete pair of empty dark chestnut leather tall boots, angled together, with subtly glossy oiled surfaces, plain high shafts, straps and sturdy soles. Distinct dark polished leather, simple practical early equipment.",
+      "sha256": "5a748da7d88a328d78a8c1a59991d92ff00111cb7a13b0ad8e013e392df94b5d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "oiled_boots",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/oiled_boots.webp",
+        "sha256": "20f5724d33db05c69186e6ed1080af6cc96a387c3a9f962767f701a60f3b0b1f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/quilted_trousers.png",
+      "subject": "Quilted Trousers: one complete pair of empty soft cloth trousers, front facing with separated legs, in muted warm ivory and blue-grey fabric with broad diamond quilted stitching and loose padded silhouette. Clearly fabric, no leather or metal.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Quilted Trousers: one complete pair of empty soft cloth trousers, front facing with separated legs, in muted warm ivory and blue-grey fabric with broad diamond quilted stitching and loose padded silhouette. Clearly fabric, no leather or metal.",
+      "sha256": "749e83b867e370826e57c7f38cc89e2f26287589ab098cb54e71af1424dcd77d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "quilted_trousers",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/quilted_trousers.webp",
+        "sha256": "e0d96edaba93f63ae10aecb2a3ed43f4e5da53d744464158d58ce8ae1bd05333",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

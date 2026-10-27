@@ -5,8 +5,8 @@
 of armor and four gathering tools. Together with 17 previously mapped IDs,
 29 IDs have individual paintings; 1,597 do not. No painting in this batch is
 deliberately reused. No failed painting is included; the first fishing-pole
-revision is retained in the source records. Later quest-material and armor
-images are in progress and are not included in these counts.
+revision is retained in the source records. The later quest-material and armor
+images described below are not included in this first-checkpoint count.
 
 The masters, prompts, references, hashes and export details are recorded in
 `early-drop-item-art-generation.json`, `armor-batch-generation.json`, and
@@ -17,3 +17,12 @@ The item image APIs use the paintings; the synchronous canvas/worker fallback
 still uses procedural artwork. Browser testing and the complete repository
 gate remain open. This partial checkout does not establish removal of inherited
 media from the complete shipping tree; release clearance remains open.
+
+Second checkpoint: four quest materials and four armor pieces add eight more
+unique paintings for eight IDs. This makes 20 new paintings in this effort,
+37 directly painted IDs in the 1,626-item catalog, and 1,589 IDs without their
+own painting. No deliberate reuse is included in these new batches. Sources,
+prompts and hashes are in `early-quest-material-art-generation.json` and
+`armor-batch-two-generation.json`; their size reviews are in the same
+screenshots directory. Focused tests passed for both batches and the original
+art routing contract. Browser, full gate and shipping-tree checks remain open.

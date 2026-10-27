@@ -590,3 +590,8 @@ processing and hashes are recorded in `docs/whetstorm/early-drop-item-art-genera
 `docs/whetstorm/armor-batch-generation.json` and
 `docs/whetstorm/tool-batch-generation.json`. Their style references are the
 owner-provided screenshot and earlier original Whetstorm art.
+
+Eight further quest-material and armor paintings use original Whetstorm
+paintings as style references. Their source records and processing are in
+`docs/whetstorm/early-quest-material-art-generation.json` and
+`docs/whetstorm/armor-batch-two-generation.json`.
