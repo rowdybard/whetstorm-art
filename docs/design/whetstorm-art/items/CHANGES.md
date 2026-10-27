@@ -8,3 +8,6 @@ class implementation. They are not a claim that inherited item art is removed.
 
 - `bulwark-spear.png`: starter spear.
 - `bulwark-shield.png`: starter shield.
+- `brute-great-axe.png`: starter great axe.
+- `whirlblade-short-sword.png`: starter curved blade.
+- `ranger-longbow.png`: starter bow.

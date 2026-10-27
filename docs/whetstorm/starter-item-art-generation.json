@@ -38,6 +38,63 @@
       ],
       "mode": "RGB",
       "status": "unassigned item artwork for review"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/brute-great-axe.png",
+      "subject": "Brute starter axe",
+      "source": "OpenAI image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-concepts/brute-great-axe.png",
+          "sha256": "66e6185491d91b0b843a0ba32a15ff92de673a37023f9a329a9cd2d1ca911f34"
+        }
+      ],
+      "prompt": "Using the supplied original Whetstorm Brute axe concept as the design reference, paint a square inventory ITEM ICON. Show the same single heavy crescent iron axe head, long ash handle and dark leather grip, the whole axe diagonally bottom-left to top-right, readable at 32 pixels with a big distinct silhouette. Dark slate-blue painted background edge to edge, soft warm light from upper left, stylized hand-painted fantasy, chunky simple forms and restrained detail. No border, no frame, no text, no logo, no people, no hands, no glow, no magic, no other objects. Keep the weapon identity consistent with the supplied concept; do not imitate other games.",
+      "sha256": "6822be3a0cf00f84ae3ef8e6cfe698aed35b3e1aa101a534ee0be940db181f64",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "unassigned item artwork for review"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/whirlblade-short-sword.png",
+      "subject": "Whirlblade starter sword",
+      "source": "OpenAI image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-concepts/whirlblade-short-sword.png",
+          "sha256": "85899d8d1da3d3fb0ac0cff3890ee4719c240405b6cc67c0c76fb442203676ca"
+        }
+      ],
+      "prompt": "Using the supplied original Whetstorm Whirlblade sword concept as the design reference, paint a square inventory ITEM ICON. Show the same one curved single-edged short sword, steel blade, warm metal guard, dark leather grip, whole sword diagonally bottom-left to top-right, readable at 32 pixels with a big distinct silhouette. One sword only. Dark slate-blue painted background edge to edge, soft warm upper-left light, stylized hand-painted fantasy, bold clean shapes and restrained detail. No border, no frame, no text, no logo, no people, no hands, no glow, no magic, no other objects. Keep its identity consistent with the supplied concept; do not imitate other games.",
+      "sha256": "27665c0e76064312a75d35de53b878492ff6283ab4897e22cc99db61c33c5ab1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "unassigned item artwork for review"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/ranger-longbow.png",
+      "subject": "Ranger starter bow",
+      "source": "OpenAI image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-concepts/ranger-longbow.png",
+          "sha256": "03e462755dc0654723fe8e9af38ecaebfbb10fd86493f700ce2b3acb016e62da"
+        }
+      ],
+      "prompt": "Using the supplied original Whetstorm Ranger bow concept as the design reference, paint a square inventory ITEM ICON. Show the same single recurved wooden bow with pale bone tips, leather grip and a single taut string, whole bow presented diagonally, large and readable at 32 pixels. No arrow. Dark slate-blue painted background edge to edge, soft warm upper-left light, stylized hand-painted fantasy, chunky clean shapes and restrained detail. No border, no frame, no text, no logo, no people, no hands, no glow, no magic, no other objects. Keep its identity consistent with the supplied concept; do not imitate other games.",
+      "sha256": "18fcb026f325d23e1a3bc6ae5829945bde6c64d59e4ed43571eda5a51b9b4030",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "unassigned item artwork for review"
     }
   ]
 }
