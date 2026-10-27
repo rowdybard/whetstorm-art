@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "mirejaw_biteblade",
+      "file": "docs/design/whetstorm-art/items/mirejaw_biteblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Mirejaw Biteblade: one compact dagger with a broad fang-shaped iron blade, a simple grip bound in weathered hide, and subtle fish-scale texture, no sheath.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "96832282d718145d2c0d1195a28031481e37c572704ec4f6f433085768ba7ca9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mirejaw_biteblade.webp",
+        "sha256": "0d440bf0037af5ee4a21d99b043b5e611d9f17a828b690734c5888f53535fee5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "mirejaw_oracle_staff",
+      "file": "docs/design/whetstorm-art/items/mirejaw_oracle_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Mirejaw Oracle Staff: one rustic dark wooden staff with a broad fishbone-like forked crown holding a muted teal stone, worn hide bindings, no glow.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "43e4cecf1ede6bac61b0431507229bc72c8ba1490774ffbb7c722310c7975e0f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mirejaw_oracle_staff.webp",
+        "sha256": "de91c64cd57da9acc24088b5455b3e7b2077dc37dff99b38231048807e9ed3bd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fen_reaver_glaive",
+      "file": "docs/design/whetstorm-art/items/fen_reaver_glaive.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Fen Reaver Glaive: one sturdy wooden polearm with a broad single-edged curved iron blade at the tip and dark hide grip, practical swamp weapon.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "4b6aa23643bf415960393fdf90a257bb4e767fc52f6f4a4d1300b9c1baf33b5a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fen_reaver_glaive.webp",
+        "sha256": "4af14cf22a5e34599ed6f6c76c1000eac5d9049720b137632ec73e49daebeda5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "voss_sanctified_mace",
+      "file": "docs/design/whetstorm-art/items/voss_sanctified_mace.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Voss's Sanctified Mace: one one-handed iron mace with a broad bronze flanged head, simple pale cloth binding and a worn dark grip, solemn and practical, no glow.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "1328eceb09191959bb95c368a96aebcb687d026fe496fcd2eef6c653677cac91",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/voss_sanctified_mace.webp",
+        "sha256": "bdb60ca204bbab5511fab1396109af9e7cbc22dc551061b49da3a0e030106ce8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

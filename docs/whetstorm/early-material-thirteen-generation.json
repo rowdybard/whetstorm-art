@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "mire_prowler_pelt",
+      "file": "docs/design/whetstorm-art/items/mire_prowler_pelt.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one stretched muddy gray-brown feline pelt with pointed ears and darker mottled fur, no head or animal body. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "a4a2a76cd04d3098052058e5b974cc4231df3e8cbc6d0166d9f40d78147e3571",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mire_prowler_pelt.webp",
+        "sha256": "a3d1274209d8eccb2b88ca2bb7fc8d931e9ff510484f22ceade44fb45f8e0ea2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "waterlogged_idol",
+      "file": "docs/design/whetstorm-art/items/waterlogged_idol.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one small weathered moss-covered stone idol, a simple abstract humanoid figure with eroded features and a wet sheen. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "26c7d04371a1ed3209f26fff54ad77f9224a1039357927ab063abf2ab045210e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/waterlogged_idol.webp",
+        "sha256": "f27ef60a504c16735c97d62dcb8c42e38cbafd50846519ed6ede2616f8c52c78",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "widow_venom_sac",
+      "file": "docs/design/whetstorm-art/items/widow_venom_sac.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one translucent green venom sac, bulbous organic pouch with a tied tapered neck and faint inner glow, no spider. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "24a2e6b42dcfc7366c6ad3da85c2566ccf258e1f658a7f93b7f09da1f889efd7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/widow_venom_sac.webp",
+        "sha256": "9367346d12ff8da02d1c40517bd179c962ab5d8641d4d46fae619f41c85b094d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "troll_fetish",
+      "file": "docs/design/whetstorm-art/items/troll_fetish.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one rustic troll ritual charm made of a small weathered carved bone mask tied to rough twigs with red cord, no letters. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "0a498c6b42e58caa46e0e562107b44f1d97da94465900d96bb5d26d4cd43e8f8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/troll_fetish.webp",
+        "sha256": "88c66eb0e2cae0957b076abfc7792689fd6e562fc1f1318196560877bf1691f3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

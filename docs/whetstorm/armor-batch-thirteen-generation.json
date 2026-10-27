@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/ironlink_spaulders.png",
+      "subject": "Ironlink Spaulders: one complete pair of empty iron mail shoulder armor pieces, side by side, with dark iron plates and visible chain links, simple leather straps. Clear paired shoulder silhouette, practical early-game armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Ironlink Spaulders: one complete pair of empty iron mail shoulder armor pieces, side by side, with dark iron plates and visible chain links, simple leather straps. Clear paired shoulder silhouette, practical early-game armor.",
+      "sha256": "fbff010e3de269e7e300fbcec676e2d6f60d5b5a9abe91bf65a4d5d1772d8aa2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "ironlink_spaulders",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ironlink_spaulders.webp",
+        "sha256": "6f81de1ab614a4d9eafeb3853509e1cf97638357abc3775c8ac2cc7b54dae3a9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/silkbinders_raiment.png",
+      "subject": "Silkbinder's Raiment: one empty long cloth robe, front facing with broad sleeves and a tied waist, soft muted ivory silk with restrained blue-grey woven edging. Clearly cloth chest armor, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Silkbinder's Raiment: one empty long cloth robe, front facing with broad sleeves and a tied waist, soft muted ivory silk with restrained blue-grey woven edging. Clearly cloth chest armor, practical early-game equipment.",
+      "sha256": "bbde0d48e9ee9194b104255dddba8e4eff990bfdc4816200696bbca90ca08700",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "silkbinders_raiment",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silkbinders_raiment.webp",
+        "sha256": "e91e366b42f83fdf2b06a4eb835c339aa0ee628501ccb8b6ce5d19cc46056483",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/sunweave_mantle.png",
+      "subject": "Sunweave Mantle: one empty cloth shoulder mantle, front facing, with draped rounded shoulders and an open neck, warm gold and cream woven fabric with simple stitched edging. Clearly cloth shoulder armor, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Sunweave Mantle: one empty cloth shoulder mantle, front facing, with draped rounded shoulders and an open neck, warm gold and cream woven fabric with simple stitched edging. Clearly cloth shoulder armor, practical early-game equipment.",
+      "sha256": "0c745f26b364f35bd115c6d6380296745eda9eec2b8c5d6317e877ff3855eb9e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "sunweave_mantle",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunweave_mantle.webp",
+        "sha256": "86110d58ed734ff4598424e85e82c18c3dcf4d49e1c680b7b66cb9b45c976a79",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/sunweave_treads.png",
+      "subject": "Sunweave Treads: one complete pair of empty soft cloth boots, angled together, warm gold and cream woven fabric with folded cuffs and simple stitched seams. Clearly fabric footwear, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Sunweave Treads: one complete pair of empty soft cloth boots, angled together, warm gold and cream woven fabric with folded cuffs and simple stitched seams. Clearly fabric footwear, practical early-game equipment.",
+      "sha256": "13a990fb9d4c0dea47b16e4f43e80cf21772b4ee0f6e54da8f2a0da122e1b2dd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "sunweave_treads",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunweave_treads.webp",
+        "sha256": "9f7415924470ba4a90a5c5830fc436c0ddefa137308d63d4da0c585c6f0142bb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

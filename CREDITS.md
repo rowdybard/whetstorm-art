@@ -654,3 +654,9 @@ style reference. Their prompts, masters and hashes are documented in
 `docs/whetstorm/early-material-twelve-generation.json`,
 `docs/whetstorm/armor-batch-twelve-generation.json` and
 `docs/whetstorm/weapon-batch-twelve-generation.json`.
+
+Twelve marsh quest objects, armor and weapons use original Whetstorm art as a
+style reference. Their prompts, masters and hashes are documented in
+`docs/whetstorm/early-material-thirteen-generation.json`,
+`docs/whetstorm/armor-batch-thirteen-generation.json` and
+`docs/whetstorm/weapon-batch-thirteen-generation.json`.
