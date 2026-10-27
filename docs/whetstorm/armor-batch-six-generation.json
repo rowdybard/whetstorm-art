@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/marrowtread_boots.png",
+      "subject": "Marrowtread Boots: one complete pair of empty steel mail boots, angled together, with a clear chainmail texture, small pale bone-colored trim at the cuffs and solid dark soles. Practical early fantasy armor, distinct boot silhouettes.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Marrowtread Boots: one complete pair of empty steel mail boots, angled together, with a clear chainmail texture, small pale bone-colored trim at the cuffs and solid dark soles. Practical early fantasy armor, distinct boot silhouettes.",
+      "sha256": "58a15e9bb4874ecc75edf81d27eb00a5c906900f1d01e139cecf6de36bee29f0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "marrowtread_boots",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/marrowtread_boots.webp",
+        "sha256": "85550ffd5ca1a987f8d0775006669e7ab963ce2079849f66ed92249d68e0f0b5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/sextons_slippers.png",
+      "subject": "Sexton's Slippers: one complete pair of empty soft cloth slippers, angled together, muted warm ivory and grey with simple stitched seams and small folded cuffs. Clearly cloth footwear, no metal armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Sexton's Slippers: one complete pair of empty soft cloth slippers, angled together, muted warm ivory and grey with simple stitched seams and small folded cuffs. Clearly cloth footwear, no metal armor.",
+      "sha256": "5c3ecbd997a501729de0dcc2834c15bd42cfeb782143779d51983662f93628c9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "sextons_slippers",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sextons_slippers.webp",
+        "sha256": "a68afc3d16830474b4565dffef945d4416e52b228876bf962d4102244adca709",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/gravewalker_softboots.png",
+      "subject": "Gravewalker Softboots: one complete pair of empty supple dark brown leather boots, angled together, with low folded cuffs, soft soles, subtle lacing and weathered seams. Clearly leather, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Gravewalker Softboots: one complete pair of empty supple dark brown leather boots, angled together, with low folded cuffs, soft soles, subtle lacing and weathered seams. Clearly leather, practical early-game equipment.",
+      "sha256": "2a9cebf3793273c37fd7f7bf2af3867d48a2f18e4b10f3a953a1c2d39914045c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "gravewalker_softboots",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewalker_softboots.webp",
+        "sha256": "a9f29c5404b5fdafb1c136856e6b5dd41c476a84f5db9af0fb8cf6280a2047a1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/cryptbone_greaves.png",
+      "subject": "Cryptbone Greaves: one complete pair of empty mail leg armor, front facing with clearly separated legs, steel chainmail with pale bone knee plates, a plain leather waistband and modest bone trim. Practical early fantasy armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Cryptbone Greaves: one complete pair of empty mail leg armor, front facing with clearly separated legs, steel chainmail with pale bone knee plates, a plain leather waistband and modest bone trim. Practical early fantasy armor.",
+      "sha256": "8e940bc043b809e65ea74b01fb8c1877b7819dfaf48354c9d67264fa9a413c28",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "cryptbone_greaves",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cryptbone_greaves.webp",
+        "sha256": "e7ae538145ad290d4a9ffa75e0583ebf340a5ac086e3b8911a918c52151eef1d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

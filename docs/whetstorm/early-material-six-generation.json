@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "valefire_lantern",
+      "file": "docs/design/whetstorm-art/items/valefire_lantern.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one compact rustic iron lantern containing a bright soft blue magical flame, complete loop handle, glass panes, no symbols. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "a14e17ed6a80d1da07ec147a9f494abba26274d7c90a638257ef1ada9a781ccc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/valefire_lantern.webp",
+        "sha256": "72459dcee2f0e88cb2fafce939e7d71bead140f52a4742c40b6fe4d0bfbd9323",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "moggers_hide_quiver",
+      "file": "docs/design/whetstorm-art/items/moggers_hide_quiver.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one rugged brown hide quiver with a few visible feathered arrows, a short leather shoulder strap and stitched seams. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "583971853d90d33fcb7fd8acfb98c0f16c1ac66b4e0125b23acdf8b42c09b828",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moggers_hide_quiver.webp",
+        "sha256": "8e3ede2c293f994abd6528908391967ddacb2e576078553640c217839c7e86b5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "lesser_healing_potion",
+      "file": "docs/design/whetstorm-art/items/lesser_healing_potion.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one squat small glass bottle filled with ruby-red healing liquid, cork stopper and simple twine tie, no label. Show the complete subject with clear space around it.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "5717817e22b2ae4f47c9429a5c3529b51607c7998bb15acf34d257537c63cd93",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/lesser_healing_potion.webp",
+        "sha256": "efc47eb878b1042f45a9c3e9894873f875dd69fcd7257acb304fe51871c46019",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "blessed_wax",
+      "file": "docs/design/whetstorm-art/items/blessed_wax.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting. Use the supplied Whetstorm sword only as a hand-painted style reference, not for its subject. Center one complete lump of blessed tallow: a pale waxy irregular lump wrapped in a narrow deep-blue ribbon, with a vivid radiant golden halo and a few large golden sparkles. Make the blue ribbon and gold glow bold and recognizable at 32 pixels so it is distinct from plain tallow. Deep slate-blue painted background. No candle, wick, text, letters, logo, watermark, frame, hands, photorealism or copied game design.",
+      "status": "original early item painting; reviewed and routed",
+      "sha256": "bdf705ebccab7190a26f3bc253c8182fb27aff3865bee76a074e231c8deb105a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/blessed_wax.webp",
+        "sha256": "514b9fbeb2a2b451dc9956780f8cf66e1db1be9a7443eb99c8c72317838c39e1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "revision_history": [
+        {
+          "file": "docs/design/whetstorm-art/items/blessed_wax_v1.png",
+          "sha256": "b2d8d8195bca6cefd363220b7731ed5787082d3db66ef8d7543827f87ad6f9f8",
+          "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, photorealism, or copied game designs. Subject: one small irregular lump of pale tallow with a subtle warm golden blessing glow and tiny light motes, no wick, no candle, no writing. Show the complete subject with clear space around it.",
+          "reason": "Too similar to plain tallow at inventory size"
+        }
+      ]
+    }
+  ]
+}

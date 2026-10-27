@@ -53,3 +53,13 @@ paintings; 1,557 do not. Source and delivery records are in
 `tool-batch-five-generation.json`. Inventory-size reviews and focused image,
 routing and original-art contract tests passed. Browser verification, the full
 gate and shipping-tree clearance remain open.
+
+Sixth checkpoint: four quest objects and items, four armor pieces and four
+weapons add 12 unique paintings, bringing this effort to 64 paintings for 64
+IDs without deliberate reuse. Of 1,626 catalog IDs, 81 now have direct
+individual paintings and 1,545 do not. Records are in
+`early-material-six-generation.json`, `armor-batch-six-generation.json` and
+`weapon-batch-six-generation.json`. The blessed tallow was revised for clearer
+distinction from plain tallow; its first source and prompt remain recorded.
+Size reviews and focused image, routing and original-art tests passed. Browser,
+full gate and shipping-tree clearance remain open.

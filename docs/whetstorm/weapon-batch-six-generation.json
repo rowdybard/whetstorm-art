@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "tunnelkings_spade",
+      "file": "docs/design/whetstorm-art/items/tunnelkings_spade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Tunnelking's Spade, a weaponized miner's spade: one short sturdy worn wooden haft with a broad battered iron spade-shaped axe blade and simple bindings, clearly a fantasy melee weapon.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "f5ebec1fd452be87ca7d594c8d3e32a16fb62c2fcbf2b4a8758533f00c913d9f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tunnelkings_spade.webp",
+        "sha256": "7656b8865192f5533aeacad4bd0c97d7cf2c3203ed17ccba42faa3b06be2c2ea",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "briarroot_staff",
+      "file": "docs/design/whetstorm-art/items/briarroot_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Briarroot Staff: one gnarled wooden staff, its thick root-like crown curling around a simple muted green stone, practical and rustic without glow.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "4e0e889833f01bea70d3ecdc193f8b562d9bd3c2827e66e1794a501d216a6156",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/briarroot_staff.webp",
+        "sha256": "30fd8510b540cafc4dc2f9bd5aa55d33c1a0f6fb4f4457a080ca503141dc1bf0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gorraks_cruel_chopper",
+      "file": "docs/design/whetstorm-art/items/gorraks_cruel_chopper.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Gorrak's Cruel Chopper: a brutal one-handed axe with a broad nicked iron chopping blade, heavy wooden haft and worn leather grip, a rough bandit weapon.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "205ca8e7c2d174acc37b8c2fa015dbd35274f4c1ebb82f0eab7b26e9466c7bb8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gorraks_cruel_chopper.webp",
+        "sha256": "b6c8538d920ca30af1f834cb179e49045f570bab46c5a389869774598751f7db",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "moggers_shiv",
+      "file": "docs/design/whetstorm-art/items/moggers_shiv.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Mogger's Shiv: one crude compact dagger made from a broad chipped iron blade and rough dark leather-wrapped grip, improvised but readable, no sheath.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "5afed032fc206da1910c6ab70d32287b727fe64c7c5189d6a2633d9d13d0dfb3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moggers_shiv.webp",
+        "sha256": "1db409e773d755ed7c0ad948160fffed1dce94f0b41e47031bc88b3610b2c9c8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
