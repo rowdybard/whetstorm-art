@@ -2,6 +2,7 @@ import { armorBatchEightItemImageUrl } from './armor_batch_eight_item_art';
 import { armorBatchElevenItemImageUrl } from './armor_batch_eleven_item_art';
 import { armorBatchFiveItemImageUrl } from './armor_batch_five_item_art';
 import { armorBatchFourItemImageUrl } from './armor_batch_four_item_art';
+import { armorBatchFourteenItemImageUrl } from './armor_batch_fourteen_item_art';
 import { armorBatchItemImageUrl } from './armor_batch_item_art';
 import { armorBatchNineItemImageUrl } from './armor_batch_nine_item_art';
 import { armorBatchSevenItemImageUrl } from './armor_batch_seven_item_art';
@@ -16,6 +17,7 @@ import { earlyMaterialEightItemImageUrl } from './early_material_eight_item_art'
 import { earlyMaterialElevenItemImageUrl } from './early_material_eleven_item_art';
 import { earlyMaterialFiveItemImageUrl } from './early_material_five_item_art';
 import { earlyMaterialFourItemImageUrl } from './early_material_four_item_art';
+import { earlyMaterialFourteenItemImageUrl } from './early_material_fourteen_item_art';
 import { earlyMaterialNineItemImageUrl } from './early_material_nine_item_art';
 import { earlyMaterialSevenItemImageUrl } from './early_material_seven_item_art';
 import { earlyMaterialSixItemImageUrl } from './early_material_six_item_art';
@@ -31,6 +33,7 @@ import { toolBatchItemImageUrl } from './tool_batch_item_art';
 import { toolBatchThreeItemImageUrl } from './tool_batch_three_item_art';
 import { weaponBatchEightItemImageUrl } from './weapon_batch_eight_item_art';
 import { weaponBatchElevenItemImageUrl } from './weapon_batch_eleven_item_art';
+import { weaponBatchFourteenItemImageUrl } from './weapon_batch_fourteen_item_art';
 import { weaponBatchNineItemImageUrl } from './weapon_batch_nine_item_art';
 import { weaponBatchSevenItemImageUrl } from './weapon_batch_seven_item_art';
 import { weaponBatchSixItemImageUrl } from './weapon_batch_six_item_art';
@@ -57,6 +60,7 @@ export function paintedItemImageUrl(id: string): string | null {
     armorBatchElevenItemImageUrl(id) ??
     armorBatchTwelveItemImageUrl(id) ??
     armorBatchThirteenItemImageUrl(id) ??
+    armorBatchFourteenItemImageUrl(id) ??
     earlyMaterialFourItemImageUrl(id) ??
     earlyMaterialFiveItemImageUrl(id) ??
     earlyMaterialSixItemImageUrl(id) ??
@@ -67,6 +71,7 @@ export function paintedItemImageUrl(id: string): string | null {
     earlyMaterialElevenItemImageUrl(id) ??
     earlyMaterialTwelveItemImageUrl(id) ??
     earlyMaterialThirteenItemImageUrl(id) ??
+    earlyMaterialFourteenItemImageUrl(id) ??
     earlyQuestMaterialItemImageUrl(id) ??
     toolBatchItemImageUrl(id) ??
     toolBatchThreeItemImageUrl(id) ??
@@ -79,6 +84,7 @@ export function paintedItemImageUrl(id: string): string | null {
     weaponBatchTenItemImageUrl(id) ??
     weaponBatchElevenItemImageUrl(id) ??
     weaponBatchTwelveItemImageUrl(id) ??
-    weaponBatchThirteenItemImageUrl(id)
+    weaponBatchThirteenItemImageUrl(id) ??
+    weaponBatchFourteenItemImageUrl(id)
   );
 }

@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/mirejaw_scale_vest.png",
+      "subject": "Mirejaw Scale Vest: one empty mail armor vest, front facing and sleeveless, with overlapping muted blue-green fish scales and simple leather edging. Practical early-game armor, clear chest silhouette.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Mirejaw Scale Vest: one empty mail armor vest, front facing and sleeveless, with overlapping muted blue-green fish scales and simple leather edging. Practical early-game armor, clear chest silhouette.",
+      "sha256": "23a2dcb8250d34fc81c16c8c99dc3c88e36bc6f9613d36faef34dc6936dc01cc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "mirejaw_scale_vest",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mirejaw_scale_vest.webp",
+        "sha256": "8e271ecedcb1163b9b6de6f80d2b3b850e800259703593187bd2eba3c37ede14",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/mirebloom_treads.png",
+      "subject": "Mirebloom Treads: one complete pair of empty leather boots, angled together, in moss brown hide with small pale green stitched flower details, folded cuffs and dark soles. Clearly leather, practical early-game footwear.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Mirebloom Treads: one complete pair of empty leather boots, angled together, in moss brown hide with small pale green stitched flower details, folded cuffs and dark soles. Clearly leather, practical early-game footwear.",
+      "sha256": "7fc1953d007165606338f68cc64d6a37981954d786c21e2650c7c76593a7ab2c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "mirebloom_treads",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mirebloom_treads.webp",
+        "sha256": "5a40234ed6fbe404c7a0af81f2306d29f79d02a36e7767516ae728f6c975f28c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/fenbark_leggings.png",
+      "subject": "Fenbark Leggings: one complete pair of empty leather leggings, front facing with clearly separated legs, made of bark-brown hide with simple stitched leaf patterns and a plain leather waistband. Practical early-game armor.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Fenbark Leggings: one complete pair of empty leather leggings, front facing with clearly separated legs, made of bark-brown hide with simple stitched leaf patterns and a plain leather waistband. Practical early-game armor.",
+      "sha256": "49eb7274571c91ffcacaa0d61ff7824225591f71373e75dd53debd99a772093f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "fenbark_leggings",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenbark_leggings.webp",
+        "sha256": "622afa363a60d366b45888c6295d9037dcd752d7fa7683c099f0034da8c8b30b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/marshstrider_boots.png",
+      "subject": "Marshstrider Boots: one complete pair of empty soft cloth boots, angled together, in muted grey-green woven fabric with simple stitched seams and folded cuffs. Clearly fabric footwear, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Marshstrider Boots: one complete pair of empty soft cloth boots, angled together, in muted grey-green woven fabric with simple stitched seams and folded cuffs. Clearly fabric footwear, practical early-game equipment.",
+      "sha256": "ef21e260c8a6734482d7a7142d270619dc228fa2d7b5e7b635ce8dec0605b1a8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "marshstrider_boots",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/marshstrider_boots.webp",
+        "sha256": "ad8597c4cf265f9f975a56912e06d7798eb5af449088fbad35b3a93958fcf071",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

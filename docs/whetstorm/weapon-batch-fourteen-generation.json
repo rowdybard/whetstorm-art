@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "deacons_cleaver",
+      "file": "docs/design/whetstorm-art/items/deacons_cleaver.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Deacon's Cleaver: one stout one-handed axe with a broad dark iron cleaver blade, worn wood haft and pale cloth grip, solemn practical swamp weapon.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "52f0a893bbcdafa186ba03eacdcfe7855f08ea8fdc6b6583242b8d074272eeff",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/deacons_cleaver.webp",
+        "sha256": "b6adbf6e0b61b9ac1024bedfc65c77dd2f07b8ee8037df6a725b9183df369a1a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "staff_of_drowned_prayers",
+      "file": "docs/design/whetstorm-art/items/staff_of_drowned_prayers.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Staff of Drowned Prayers: one dark weathered wooden staff with a broad iron lantern-like crown enclosing a muted pale blue stone and worn cloth bindings, no glow.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "376a4d5f7f6a9cd9a1b06147d073405e6076ff9808a9b3c5d1ed2e5d5d3d6bb9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/staff_of_drowned_prayers.webp",
+        "sha256": "b05910d6f13706383995b9f310395a2f33171025e2eeff75ca299c319e42d1fc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "mistbinder_kris",
+      "file": "docs/design/whetstorm-art/items/mistbinder_kris.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Mistbinder Kris: one compact steel dagger with a broad gently wavy blade, small iron guard and dark leather grip, no sheath or glow.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "7ef2f94831a3b1252545bb73f997c9bf1887cef21ad65c60f06f26ace4a47988",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mistbinder_kris.webp",
+        "sha256": "674b4828c7ba52c17f12028f5c7845ce2d3ba05491f2b5c6fcc12334ac651033",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fenshadow_maul",
+      "file": "docs/design/whetstorm-art/items/fenshadow_maul.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Fenshadow Maul: one heavy two-handed wooden maul with a broad dark iron-bound striking head and weathered leather grip, practical fantasy weapon, no glow.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "cbc210cf7b9edb1932cf05ff64a7fa939e08232624ac828e4bea607e14ec2127",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenshadow_maul.webp",
+        "sha256": "6301eb282205bff96980504dfe7b841f361104fa277b9fe3ef9de36d633c1e7a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
