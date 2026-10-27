@@ -44,3 +44,12 @@ are `early-material-four-generation.json`, `armor-batch-four-generation.json`
 and `tool-batch-four-generation.json`. Inventory-size reviews and focused
 routing, image and original-art tests passed. Browser, full gate and full
 shipping-tree clearance remain open.
+
+Fifth checkpoint: four quest objects, four armor pieces and four tools add 12
+unique paintings. This effort has added 52 paintings for 52 item IDs, with no
+deliberate reuse. In total 69 of 1,626 item IDs now map directly to individual
+paintings; 1,557 do not. Source and delivery records are in
+`early-material-five-generation.json`, `armor-batch-five-generation.json` and
+`tool-batch-five-generation.json`. Inventory-size reviews and focused image,
+routing and original-art contract tests passed. Browser verification, the full
+gate and shipping-tree clearance remain open.

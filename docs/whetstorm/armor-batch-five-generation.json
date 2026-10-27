@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/cryptstalker_jerkin.png",
+      "subject": "Gravestalker Jerkin: one empty dark charcoal leather sleeveless jerkin, front facing, with worn brown leather edging, practical straps and a subtle stitched pattern. Distinct leather chest armor, modest early-game details.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Gravestalker Jerkin: one empty dark charcoal leather sleeveless jerkin, front facing, with worn brown leather edging, practical straps and a subtle stitched pattern. Distinct leather chest armor, modest early-game details.",
+      "sha256": "eac61155e131cde7f93764db6827bfce2139c3c1ad69e27e41f87f76a3420575",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "cryptstalker_jerkin",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cryptstalker_jerkin.webp",
+        "sha256": "291ff8b57849fb5a99c1330f572f1ef9fa1147b2aba391f694988ac76f37c063",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/hollowbone_hauberk.png",
+      "subject": "Hollowbone Hauberk: one empty steel mail shirt, front facing with short sleeves, simple dark leather collar, and small pale bone plates tied across the chest. Clearly chain mail armor, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Hollowbone Hauberk: one empty steel mail shirt, front facing with short sleeves, simple dark leather collar, and small pale bone plates tied across the chest. Clearly chain mail armor, practical early-game equipment.",
+      "sha256": "13dde3514f34498278dd9cc3cba2d9ac040ddcce1eb97f58fb93beb60c969188",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "hollowbone_hauberk",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hollowbone_hauberk.webp",
+        "sha256": "e3664115c76afce0d251b1108f988701d42248e39d0394c4e541e2f6b255e3f8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/gravewoven_raiment.png",
+      "subject": "Gravewoven Raiment: one empty long cloth robe, front facing, made from muted slate grey and dusty violet woven fabric with a simple tied waist and broad sleeves. Clearly soft cloth, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Gravewoven Raiment: one empty long cloth robe, front facing, made from muted slate grey and dusty violet woven fabric with a simple tied waist and broad sleeves. Clearly soft cloth, practical early-game equipment.",
+      "sha256": "173a247ff565759a699e159a7d28e48df99ba35bcaa9a0e971ba7cb5f2000d14",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "gravewoven_raiment",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewoven_raiment.webp",
+        "sha256": "b2c6954e08ad7b65533881042d4565ba79aa378860446c373a0085a43180fedd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/cryptbone_pauldrons.png",
+      "subject": "Cryptbone Pauldrons: one complete pair of empty shoulder armor pieces, arranged side by side, made of dark iron plates with modest pale bone panels and leather straps. Clear paired shoulder armor silhouette, practical early-game equipment.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/recruit_tunic.png",
+          "sha256": "20b6e66956e2af21098b192e7633f712237e90163f950d8c868de7b0c1a55954",
+          "role": "style reference"
+        }
+      ],
+      "prompt": "Square original Whetstorm inventory item painting, whole item centered on a dark slate-blue painted background. Use the supplied image only as a style reference, do not copy its subject or design. Hand-painted stylized fantasy, bold clean readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No wearer, stand, text, logo, watermark, border, frame, magic, photorealism, or copied game designs. Cryptbone Pauldrons: one complete pair of empty shoulder armor pieces, arranged side by side, made of dark iron plates with modest pale bone panels and leather straps. Clear paired shoulder armor silhouette, practical early-game equipment.",
+      "sha256": "92fe9075648caff5041fbb5502c821f0638483784cdaea02df093a7dd531a1e2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "itemId": "cryptbone_pauldrons",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cryptbone_pauldrons.webp",
+        "sha256": "c803aabcdbac9d84c5be720b4e7bffc4ebff315cff0e827d37b8efac41adc65f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

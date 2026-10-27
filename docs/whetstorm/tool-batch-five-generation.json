@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "silverstream_fishing_rod",
+      "file": "docs/design/whetstorm-art/items/silverstream_fishing_rod.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A Silverstream Fishing Rod: a sturdy tapered wooden fishing rod with a large simple silver metal reel and a short thick pale line ending in a clearly visible curved hook. Exaggerate line and hook thickness for 32 pixel readability. No fish.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "50a624987df75efe21fbaf1c9557623f49fe079e77b88184a38464775d52f652",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silverstream_fishing_rod.webp",
+        "sha256": "5da830f3c97b5220778eb7ce08920014124ed1d0c2aa1b23438e25f639b46d4e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ironbark_axe",
+      "file": "docs/design/whetstorm-art/items/ironbark_axe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. An Ironbark Axe: a sturdy dark bark-textured wooden handle and one broad iron woodcutting axe head, practical, worn, readable silhouette.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "6058e82b9fb35a64360b4fb755c72a7e29a516be3282f62b61ae0af01e71104f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ironbark_axe.webp",
+        "sha256": "dab45bbc41489f57df492c1d9a6cebd9efb1ac2977428c538e31dc45d17f874e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "thorium_mining_pick",
+      "file": "docs/design/whetstorm-art/items/thorium_mining_pick.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. An Osmium Mining Pick: a sturdy wooden handle with a heavy dark blue-gray metal double-ended pick head, one pointed end and one broad chisel end, a practical fantasy mining tool.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "ccc8ff73c74fa8b6cb405c72925c878acdaad77000ee1b8c3a70ce8893ddbefc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/thorium_mining_pick.webp",
+        "sha256": "bc5fe4e0f0ee4553272daf67ce799757b2b742fb06684c3d8e7b9c32352c8225",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "goldleaf_sickle",
+      "file": "docs/design/whetstorm-art/items/goldleaf_sickle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. A Goldleaf Sickle: a short wooden grip with one broad curved golden harvesting blade, subtly leaf-shaped, a practical fantasy sickle distinct from a sword.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "2bba1f03f7a96ecaa0eb9cdeb950c6f6d996b28a9283f89a8df79cf02de7a5da",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/goldleaf_sickle.webp",
+        "sha256": "d58440521dad56048f7ed099572b819f1851262a488de85bfea56d218bc1482f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

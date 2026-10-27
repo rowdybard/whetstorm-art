@@ -606,3 +606,9 @@ Whetstorm art as a style reference. Source images, prompts and hashes are in
 `docs/whetstorm/early-material-four-generation.json`,
 `docs/whetstorm/armor-batch-four-generation.json` and
 `docs/whetstorm/tool-batch-four-generation.json`.
+
+Twelve further quest objects, armor and tools use original Whetstorm art as
+their style reference. Their prompts, masters and hashes are recorded in
+`docs/whetstorm/early-material-five-generation.json`,
+`docs/whetstorm/armor-batch-five-generation.json` and
+`docs/whetstorm/tool-batch-five-generation.json`.
