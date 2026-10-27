@@ -95,6 +95,82 @@
       ],
       "mode": "RGB",
       "status": "unassigned item artwork for review"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/skybinder-staff.png",
+      "subject": "Skybinder starter staff",
+      "source": "OpenAI image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-concepts/skybinder-staff.png",
+          "sha256": "44d6629910359a7a15378f6a60e6659d25ab2c7775ea65d669aa2a7637bb6840"
+        }
+      ],
+      "prompt": "Using the supplied original Whetstorm Skybinder staff concept as the design reference, paint a square inventory ITEM ICON. Show the same single wooden staff with leather grip and copper cage holding a pale blue-white crystal, entire staff diagonally bottom-left to top-right, broad clear crystal-and-cage silhouette readable at 32 pixels. Dark slate-blue painted background edge to edge, soft warm upper-left light, stylized hand-painted fantasy, chunky clean shapes and restrained detail. No border, no frame, no text, no logo, no people, no hands, no glow, no magic, no other objects. Keep its identity consistent with the supplied concept; do not imitate other games.",
+      "sha256": "cbe08054cd66fa5868cab4876500569f025e04f52232e4735fe964e83dc72517",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "unassigned item artwork for review"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/cleric-mace.png",
+      "subject": "Cleric starter mace",
+      "source": "OpenAI image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-concepts/cleric-mace.png",
+          "sha256": "c443ecd81c3bbfe88ea89c08882072cdb7f35d465568413a1fbb112fecc6648f"
+        }
+      ],
+      "prompt": "Using the supplied original Whetstorm Cleric mace concept as the design reference, paint a square inventory ITEM ICON. Show the same single one-handed mace with a bold sun-shaped head of steel and warm brass flanges and a dark leather wrapped grip, whole mace diagonally bottom-left to top-right, large and recognizable at 32 pixels. Dark slate-blue painted background edge to edge, soft warm upper-left light, stylized hand-painted fantasy, bold clean shapes and restrained detail. No border, no frame, no text, no logo, no people, no hands, no glow, no magic, no other objects. Keep its identity consistent with the supplied concept; do not imitate other games.",
+      "sha256": "efbcf17e664f578a03450afb254a9a86221df98852ea624dfe0bb214aef8a4d9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "unassigned item artwork for review"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/cleric-lantern.png",
+      "subject": "Cleric starter lantern",
+      "source": "OpenAI image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-concepts/cleric-lantern.png",
+          "sha256": "bdd06e96ed4b1ae72a497363f879d5315a9880f693bc9b4f80deac707a6c3820"
+        }
+      ],
+      "prompt": "Using the supplied original Whetstorm Cleric lantern concept as the design reference, paint a square inventory ITEM ICON. Show the same single small brass lantern with glass panes and short chain ending in a ring, entire lantern and chain centered, large and recognizable at 32 pixels. Its interior is unlit. Dark slate-blue painted background edge to edge, soft warm upper-left light, stylized hand-painted fantasy, bold clean shapes and restrained detail. No border, no frame, no text, no logo, no people, no hands, no glow, no magic, no other objects. Keep its identity consistent with the supplied concept; do not imitate other games.",
+      "sha256": "0ae8e9432314afd255202e9a92e3f66174c8a994e23f90f1911ce64fff69454d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "unassigned item artwork for review"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/warden-staff.png",
+      "subject": "Warden starter staff",
+      "source": "OpenAI image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-concepts/warden-staff.png",
+          "sha256": "b8f8270ccf567d795c4e74af1d701ce470472c6ee657c4f688d3790afb74baed"
+        }
+      ],
+      "prompt": "Using the supplied original Whetstorm Warden staff concept as the design reference, paint a square inventory ITEM ICON. Show the same single carved wooden staff with a rough gray stone held in thick winding roots and a practical leather grip, entire staff diagonally bottom-left to top-right, broad readable stone-and-root silhouette at 32 pixels. Dark slate-blue painted background edge to edge, soft warm upper-left light, stylized hand-painted fantasy, chunky clean shapes and restrained detail. No border, no frame, no text, no logo, no people, no hands, no glow, no magic, no other objects. Keep its identity consistent with the supplied concept; do not imitate other games.",
+      "sha256": "a4358fde8fc0b875e977985bb9cba2f62e308ef6627d2fdbc5ef13420a9d0216",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "unassigned item artwork for review"
     }
   ]
 }

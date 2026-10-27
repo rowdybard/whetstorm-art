@@ -202,3 +202,9 @@ The full first set now has one Old Peatfire concept and nine starter weapon
 concepts, all single PNGs. They are model references awaiting review, not
 approved 3D assets. The arena brief waits for the arena look to be settled;
 starter item icons and class bodies remain next in the owner's priority list.
+
+Nine square starter item paintings match the new weapon concepts and are saved
+under docs/design/whetstorm-art/items. These are unassigned source art, not
+wired replacements: launch-class inventory IDs are not yet specified. Six
+or so additional starting gear pictures remain to reach the owner's rough
+target once their items are defined. See starter-item-art-generation.json.

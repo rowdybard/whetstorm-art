@@ -11,3 +11,7 @@ class implementation. They are not a claim that inherited item art is removed.
 - `brute-great-axe.png`: starter great axe.
 - `whirlblade-short-sword.png`: starter curved blade.
 - `ranger-longbow.png`: starter bow.
+- `skybinder-staff.png`: caged-crystal staff.
+- `cleric-mace.png`: sun-headed mace.
+- `cleric-lantern.png`: unlit lantern.
+- `warden-staff.png`: root-bound stone staff.
