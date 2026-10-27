@@ -21,3 +21,6 @@ The two staff paintings were revised after checking the first versions at
 provenance is in the generation record. A 32/48/64 pixel contact sheet is at
 `docs/screenshots/whetstorm-starter-items/item-sizes.png`. In-game testing
 remains necessary after item mappings and runtime sizing are implemented.
+
+- `baked_bread.png`: cottage loaf for the existing `baked_bread` item.
+- `spring_water.png`: bottle for the existing `spring_water` item.

@@ -213,6 +213,55 @@
           "status": "unassigned item artwork for review"
         }
       ]
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/baked_bread.png",
+      "subject": "Cottage loaf",
+      "source": "OpenAI image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/source-versions/baked_bread.png",
+          "sha256": "cb263c01ea87efb4b0b37fc9fa72b77c2838dd513385f9866684ade6adc57fd2"
+        }
+      ],
+      "prompt": "Revise the supplied original Whetstorm bread inventory icon into a much more stylized, painterly game asset, matching the simple graphic fantasy icons of this set. Keep one whole golden round cottage loaf with two broad cream-colored scoring lines centered on the same dark storm-blue painted square. Replace all fine crust texture, pores and photographic detail with broad, flat hand-painted facets and clean chunky shapes, slightly heroic exaggerated proportions and a warm upper-left highlight. The loaf must remain clearly readable at 32 pixels. No people, hands, plates, other items, text, logos, letters, frames or borders. Do not copy other game art.",
+      "sha256": "0394b7ea6df3b83e004a145fa9c156f2593635d3fd06d21e46b2fa1eba7e92ba",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "original art for existing starter item; integration pending",
+      "revision_history": [
+        {
+          "file": "docs/design/whetstorm-art/items/source-versions/baked_bread.png",
+          "subject": "Cottage loaf initial version",
+          "source": "OpenAI image generation",
+          "reference_images": [],
+          "prompt": "Create one original Whetstorm inventory item painting: a single simple round cottage loaf of baked bread, golden-brown crust with two broad baked scoring lines and a slightly lighter torn edge. Square PNG, whole loaf centered large against a dark slate-blue softly painted background that fills the square edge to edge. It must be immediately recognizable at 32 pixels: bold, simple silhouette, strong warm/cool contrast, clean broad shapes, restrained texture. Original stylized hand-painted fantasy MMORPG art, soft warm upper-left light, rustic starting equipment, consistent with Whetstorm's copper, worn leather and storm-blue palette. No plate, hands, knife, other food, basket, environment, icon frame, border, letters, text, logos, watermark, magic or glow. No imitation of existing games.",
+          "sha256": "cb263c01ea87efb4b0b37fc9fa72b77c2838dd513385f9866684ade6adc57fd2",
+          "pixels": [
+            1254,
+            1254
+          ],
+          "mode": "RGB",
+          "status": "superseded for stylistic consistency"
+        }
+      ]
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/spring_water.png",
+      "subject": "Cold well water",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting: one small clear glass bottle of cold well water, with a simple cork, rounded shoulders and a wide stable base, a visible cool pale-blue water line and a modest bright highlight. Square PNG, whole bottle centered large against a dark slate-blue softly painted background that fills the square edge to edge. It must be immediately recognizable at 32 pixels: bold simple silhouette, strong contrast, clean broad shapes, restrained texture. Original stylized hand-painted fantasy MMORPG art, use broad graphic painted color planes, no photorealism, soft warm upper-left light and cool blue glass, rustic starting supply. No hands, label, markings, other bottles, environment, icon frame, border, letters, text, logos, watermark, magic or glow. No imitation of existing games.",
+      "sha256": "a97571bb04f7f4346a01bd5e88708c230dbf8661dbf03bffba7b6dc0df2b64ef",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "status": "original art for existing starter item; integration pending"
     }
   ]
 }
