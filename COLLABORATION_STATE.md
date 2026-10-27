@@ -223,3 +223,18 @@ hash checks passed. A read-only frontend reviewer found no concrete regression.
 Vitest and the full gate could not run: this partial workspace has no installed
 dependencies and Vitest was not cached. Real-browser and full-checkout checks
 remain open, including removing any inherited item assets still present there.
+
+## Current starter equipment paintings
+
+Nine original paintings now cover every weapon, chest and offhand assigned by
+all current class definitions. They resolve through the existing item and
+weapon icon APIs. Source PNGs, prompts and delivery hashes are recorded in
+`docs/whetstorm/starter-item-art-generation.json`; the 32/48/64 pixel review
+is in `docs/screenshots/whetstorm-starter-items/equipment-sizes.png`. The nine
+future launch-weapon paintings remain unassigned until those item IDs exist.
+
+Seven focused Vitest files passed, 34 tests total, using an isolated Vitest
+installation and minimal Node configuration. A bounded read-only frontend
+review found no concrete routing regression. Full gate and browser checks
+remain open; canvas/worker fallback still uses procedural art. This checkout
+omits inherited media, so removal in the complete checkout remains necessary.

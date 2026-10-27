@@ -567,3 +567,10 @@ The `baked_bread` and `spring_water` paintings in
 built-in image generation. Original masters, prompts, the earlier bread
 revision, processing and hashes are recorded in
 `docs/whetstorm/starter-item-art-generation.json`.
+
+## Whetstorm current starter equipment paintings
+
+The nine current starter equipment images under `public/ui/whetstorm/items/`
+were generated for Whetstorm using OpenAI's built-in image generation. The
+original masters, prompts, processing and hashes are recorded in
+`docs/whetstorm/starter-item-art-generation.json`.

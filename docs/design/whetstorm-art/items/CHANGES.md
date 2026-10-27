@@ -37,3 +37,9 @@ generation record. The remaining weapon paintings still await launch IDs.
 - `gnarled_staff.png`: bogoak starter staff, existing item `gnarled_staff`.
 - `training_mace.png`: starter training mace, existing item `training_mace`.
 - `eastbrook_buckler.png`: starter round buckler, existing item `eastbrook_buckler`.
+
+The nine current starter equipment paintings now resolve through the existing
+item icon APIs. They cover every weapon, chest and offhand assigned by the
+current class definitions. Their 32/48/64 pixel review is recorded at
+`docs/screenshots/whetstorm-starter-items/equipment-sizes.png`. This does not
+change the separate unassigned paintings for the planned seven-class launch.

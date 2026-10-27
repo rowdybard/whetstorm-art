@@ -298,7 +298,17 @@
       ],
       "mode": "RGB",
       "itemId": "recruit_tunic",
-      "status": "original source art for existing starter item; integration pending"
+      "status": "original art integrated for existing starter item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/recruit_tunic.webp",
+        "sha256": "85bf2a553bb5b59bceddfb3995cb91e2c52e244a2dcdba1e703caf0f4255acdc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/apprentice_robe.png",
@@ -313,7 +323,17 @@
       ],
       "mode": "RGB",
       "itemId": "apprentice_robe",
-      "status": "original source art for existing starter item; integration pending"
+      "status": "original art integrated for existing starter item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/apprentice_robe.webp",
+        "sha256": "84cfaf8f0eeb61ab311cd47f51b9cf5eb674ce54688f3a05604165b705986425",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/footpad_jerkin.png",
@@ -328,7 +348,17 @@
       ],
       "mode": "RGB",
       "itemId": "footpad_jerkin",
-      "status": "original source art for existing starter item; integration pending"
+      "status": "original art integrated for existing starter item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/footpad_jerkin.webp",
+        "sha256": "eefbcf1991223632c316b35bac5c3711329eff7c188f790530bed87c219bfb97",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/worn_sword.png",
@@ -343,7 +373,17 @@
       ],
       "mode": "RGB",
       "itemId": "worn_sword",
-      "status": "original source art for existing starter item; integration pending"
+      "status": "original art integrated for existing starter item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/worn_sword.webp",
+        "sha256": "6318895e269306ac134064ae4c3848f4ac22b57b0f94cd60a2f418fc4c6593b5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/rusty_dagger.png",
@@ -358,7 +398,17 @@
       ],
       "mode": "RGB",
       "itemId": "rusty_dagger",
-      "status": "original source art for existing starter item; integration pending"
+      "status": "original art integrated for existing starter item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/rusty_dagger.webp",
+        "sha256": "5e972ad6e2af1ec37834bc9297da80b30a48b86be96d4b45358cb735c588b7c8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/rusty_hatchet.png",
@@ -373,7 +423,17 @@
       ],
       "mode": "RGB",
       "itemId": "rusty_hatchet",
-      "status": "original source art for existing starter item; integration pending"
+      "status": "original art integrated for existing starter item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/rusty_hatchet.webp",
+        "sha256": "725a03df722f38040b98d216370de778ef4e86543477b7ab837c6d9f038b5c45",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/gnarled_staff.png",
@@ -388,7 +448,17 @@
       ],
       "mode": "RGB",
       "itemId": "gnarled_staff",
-      "status": "original source art for existing starter item; integration pending"
+      "status": "original art integrated for existing starter item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gnarled_staff.webp",
+        "sha256": "a322abdd106eaf273cc356b02d8f91642787f5cb5c2a13a94bac4a043f3b80e5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/training_mace.png",
@@ -403,7 +473,17 @@
       ],
       "mode": "RGB",
       "itemId": "training_mace",
-      "status": "original source art for existing starter item; integration pending"
+      "status": "original art integrated for existing starter item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/training_mace.webp",
+        "sha256": "b56bf10b9d87aa0216052492c8c203ebc7dcd963dd418461e4de0c0f9fe6bb65",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/eastbrook_buckler.png",
@@ -418,7 +498,17 @@
       ],
       "mode": "RGB",
       "itemId": "eastbrook_buckler",
-      "status": "original source art for existing starter item; integration pending"
+      "status": "original art integrated for existing starter item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eastbrook_buckler.webp",
+        "sha256": "ae28aeabff167de706474169706672508f608fb488a884139b093ec0d7325d46",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     }
   ]
 }
