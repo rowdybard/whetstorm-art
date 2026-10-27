@@ -24,6 +24,7 @@ import { professionImageUrl } from './hud/professions/profession_art';
 import { MOB_AURA_IMAGE_IDS } from './mob_aura_icon_art';
 import { PET_ACTION_IMAGE_IDS } from './pet_action_icons';
 import { TRINKET_AURA_IMAGE_URLS } from './trinket_aura_art';
+import { starterItemImageUrl } from './starter_item_art';
 import { ITEM_WEAPON_VARIANTS } from './weapon_variants';
 
 export { PROFESSION_IMAGE_IDS, professionImageUrl } from './hud/professions/profession_art';
@@ -5713,6 +5714,10 @@ export function cachedProceduralIconDataUrl(
 }
 
 function originalArt(kind: IconKind, id: string, size = DEFAULT_ICON_SIZE): string {
+  if (kind === 'item') {
+    const starterItem = starterItemImageUrl(id);
+    if (starterItem) return starterItem;
+  }
   if (kind === 'ability' || kind === 'aura') {
     const launch = launchAbilityImageUrl(id);
     if (launch) return launch;

@@ -558,3 +558,12 @@ docs/design/whetstorm-art/hud/. The generation record, raw/master/delivery
 hashes and numerical export procedure are documented in
 docs/whetstorm/hud-art-generation.json and HUD_CHANGES.md. These additions do
 not alter the ownership or restrictions of any historical upstream art.
+
+
+## Whetstorm starter ration paintings
+
+The `baked_bread` and `spring_water` paintings in
+`public/ui/whetstorm/items/` were generated for Whetstorm using OpenAI's
+built-in image generation. Original masters, prompts, the earlier bread
+revision, processing and hashes are recorded in
+`docs/whetstorm/starter-item-art-generation.json`.

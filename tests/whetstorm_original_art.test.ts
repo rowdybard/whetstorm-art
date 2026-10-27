@@ -3,6 +3,7 @@ import { TRINKET_AURA_ITEM } from '../src/sim/content/trinkets';
 import { ABILITIES, ITEMS } from '../src/sim/data';
 import { CLASS_ART_IDS, classIconUrl } from '../src/ui/class_icon_art';
 import { abilityImageUrl, iconDataUrl, itemImageUrl } from '../src/ui/icons';
+import { starterItemImageUrl } from '../src/ui/starter_item_art';
 import {
   originalIconSvg,
   originalIconUrl,
@@ -26,8 +27,14 @@ describe('original Whetstorm artwork contract', () => {
   it('covers every live item without inherited bitmap requests', () => {
     expect(Object.keys(ITEMS).length).toBeGreaterThan(1600);
     for (const id of Object.keys(ITEMS)) {
-      expectOriginal(itemImageUrl(id));
-      expectOriginal(iconDataUrl('item', id));
+      const starterArt = starterItemImageUrl(id);
+      if (starterArt) {
+        expect(itemImageUrl(id)).toBe(starterArt);
+        expect(iconDataUrl('item', id)).toBe(starterArt);
+      } else {
+        expectOriginal(itemImageUrl(id));
+        expectOriginal(iconDataUrl('item', id));
+      }
     }
   });
   it('keeps a trinket aura identical to its originating item', () => {

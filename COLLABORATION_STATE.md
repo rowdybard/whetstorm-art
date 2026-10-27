@@ -208,3 +208,18 @@ under docs/design/whetstorm-art/items. These are unassigned source art, not
 wired replacements: launch-class inventory IDs are not yet specified. Six
 or so additional starting gear pictures remain to reach the owner's rough
 target once their items are defined. See starter-item-art-generation.json.
+
+## Starter ration paintings
+
+Original Cottage Loaf and Cold Well Water source paintings and 128px delivery
+WebPs now route through the existing item icon APIs for `baked_bread` and
+`spring_water`. The closed map changes no other IDs; canvas/worker fallbacks
+remain procedural. Each source, reference, processing step and hash is in
+`docs/whetstorm/starter-item-art-generation.json`. Size review is recorded in
+`docs/screenshots/whetstorm-starter-items/rations-sizes.png`.
+
+The local Node map checks, TypeScript syntax parsing, image decode and recorded
+hash checks passed. A read-only frontend reviewer found no concrete regression.
+Vitest and the full gate could not run: this partial workspace has no installed
+dependencies and Vitest was not cached. Real-browser and full-checkout checks
+remain open, including removing any inherited item assets still present there.

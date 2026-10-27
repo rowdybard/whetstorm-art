@@ -24,3 +24,7 @@ remains necessary after item mappings and runtime sizing are implemented.
 
 - `baked_bread.png`: cottage loaf for the existing `baked_bread` item.
 - `spring_water.png`: bottle for the existing `spring_water` item.
+
+The two starter rations now resolve through `starterItemImageUrl` and the
+existing item icon API. Their 128px WebPs and source hashes are recorded in the
+generation record. The remaining weapon paintings still await launch IDs.

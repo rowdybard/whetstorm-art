@@ -231,7 +231,7 @@
         1254
       ],
       "mode": "RGB",
-      "status": "original art for existing starter item; integration pending",
+      "status": "original art integrated for existing starter item",
       "revision_history": [
         {
           "file": "docs/design/whetstorm-art/items/source-versions/baked_bread.png",
@@ -247,7 +247,18 @@
           "mode": "RGB",
           "status": "superseded for stylistic consistency"
         }
-      ]
+      ],
+      "itemId": "baked_bread",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/baked_bread.webp",
+        "sha256": "f419e797757faff1b887016a9b73abb52615253909d4b4104a7b2a9781beda60",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/spring_water.png",
@@ -261,7 +272,18 @@
         1254
       ],
       "mode": "RGB",
-      "status": "original art for existing starter item; integration pending"
+      "status": "original art integrated for existing starter item",
+      "itemId": "spring_water",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/spring_water.webp",
+        "sha256": "2107559c6d39e9b4d1a38e7a068305b66a4567f78a72c996581410dcc06a3eb0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     }
   ]
 }
