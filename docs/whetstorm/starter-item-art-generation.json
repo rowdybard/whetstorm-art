@@ -329,6 +329,51 @@
       "mode": "RGB",
       "itemId": "footpad_jerkin",
       "status": "original source art for existing starter item; integration pending"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/worn_sword.png",
+      "subject": "pitted starter shortsword",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for the existing starter weapon worn_sword, a PITTED SHORTSWORD. Square inventory icon painted edge to edge with no border or text. One complete straight double-edged iron shortsword, modest broad blade with a few simple dark wear marks, plain short crossguard and brown leather wrapped grip. Whole sword diagonally lower left to upper right on a dark slate-blue hand-painted background. Original stylized fantasy game art, chunky silhouette, warm upper-left light, broad painterly shapes, restrained detail, legible at 32 pixels. No people, hands, sheath, other objects, letters, logo, watermark, glow, magic, photorealistic textures or copied game designs.",
+      "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "worn_sword",
+      "status": "original source art for existing starter item; integration pending"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/rusty_dagger.png",
+      "subject": "rusty starter dagger",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for the existing starter weapon rusty_dagger, a RUSTY DAGGER. Square inventory icon painted edge to edge with no border or text. One complete short broad triangular dagger with weathered iron and a few burnt-orange rust patches, small simple guard and a compact dark leather wrapped grip. Whole dagger diagonally lower left to upper right on a dark slate-blue hand-painted background. Make the blade visibly shorter and broader relative to the grip than a shortsword. Original stylized fantasy game art, bold silhouette, warm upper-left light, broad painterly shapes, restrained detail, legible at 32 pixels. No people, hands, sheath, other objects, letters, logo, watermark, glow, magic, photorealistic textures or copied game designs.",
+      "sha256": "815c4afcc968e817c24a5b4518bf443e774db1569dd5543cc2704e4d4b46283c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "rusty_dagger",
+      "status": "original source art for existing starter item; integration pending"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/rusty_hatchet.png",
+      "subject": "rusty starter hatchet",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for the existing starter weapon rusty_hatchet, a RUSTY HATCHET. Square inventory icon painted edge to edge with no border or text. One complete small one-handed hatchet, broad single wedge-shaped weathered iron head with a few burnt-orange rust marks, short ash-wood handle and brown leather grip. Whole hatchet diagonally lower left to upper right on a dark slate-blue hand-painted background, clearly different in silhouette from a sword or dagger. Original stylized fantasy game art, bold chunky shapes, warm upper-left light, broad painterly planes, restrained detail, legible at 32 pixels. No people, hands, other objects, letters, logo, watermark, glow, magic, photorealistic textures or copied game designs.",
+      "sha256": "9d9cf98a6eb7399f8943617643ee56efcc5876087093e670c4f0da5090148a4e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "rusty_hatchet",
+      "status": "original source art for existing starter item; integration pending"
     }
   ]
 }

@@ -31,3 +31,6 @@ generation record. The remaining weapon paintings still await launch IDs.
 - `recruit_tunic.png`: starter leather tunic, existing item `recruit_tunic`.
 - `apprentice_robe.png`: starter cloth robe, existing item `apprentice_robe`.
 - `footpad_jerkin.png`: starter leather jerkin, existing item `footpad_jerkin`.
+- `worn_sword.png`: pitted starter shortsword, existing item `worn_sword`.
+- `rusty_dagger.png`: rusty starter dagger, existing item `rusty_dagger`.
+- `rusty_hatchet.png`: rusty starter hatchet, existing item `rusty_hatchet`.
