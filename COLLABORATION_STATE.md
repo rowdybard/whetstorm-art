@@ -238,3 +238,23 @@ installation and minimal Node configuration. A bounded read-only frontend
 review found no concrete routing regression. Full gate and browser checks
 remain open; canvas/worker fallback still uses procedural art. This checkout
 omits inherited media, so removal in the complete checkout remains necessary.
+
+## Early quest equipment paintings
+
+Six individual paintings cover the three item rewards each for the current
+`q_bandits` and `q_ringleader` quests. The early-quest item map routes them
+through the existing item and weapon image APIs. Masters, prompts, the
+chainmail correction and delivery hashes are in
+`docs/whetstorm/early-quest-item-art-generation.json`, with a size review in
+`docs/screenshots/whetstorm-starter-items/early-quest-sizes.png`.
+
+Eight focused Vitest files passed, 37 tests total, using an isolated Vitest
+installation and minimal Node configuration. The full gate and actual browser
+checks remain open. These icons replace procedural fallbacks on the HTML image
+path; the canvas/worker path remains procedural, and inherited files in a full
+checkout still need removal before release.
+
+A read-only frontend review found no concrete quest-item routing regression.
+It flagged that the dirk resembled the sword at 32px, so the dirk was revised
+to a shorter, wider silhouette; its prior source and prompt are preserved.
+Review the final pair in-game as part of the pending browser check.

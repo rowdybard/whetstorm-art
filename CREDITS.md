@@ -574,3 +574,10 @@ The nine current starter equipment images under `public/ui/whetstorm/items/`
 were generated for Whetstorm using OpenAI's built-in image generation. The
 original masters, prompts, processing and hashes are recorded in
 `docs/whetstorm/starter-item-art-generation.json`.
+
+## Whetstorm early quest reward paintings
+
+The six early quest reward images under `public/ui/whetstorm/items/` were
+created for Whetstorm using OpenAI's built-in image generation. Their masters,
+prompts, revision history, processing and hashes are recorded in
+`docs/whetstorm/early-quest-item-art-generation.json`.

@@ -14,7 +14,17 @@
       ],
       "mode": "RGB",
       "itemId": "redbrook_blade",
-      "status": "original art for early quest reward; integration pending"
+      "status": "original art integrated for early quest reward",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/redbrook_blade.webp",
+        "sha256": "ea338034b19f1c7149498bdcd18fdecbcf0a7e6a9564f81dc14a75e3f90f8975",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/apprentice_staff.png",
@@ -29,22 +39,64 @@
       ],
       "mode": "RGB",
       "itemId": "apprentice_staff",
-      "status": "original art for early quest reward; integration pending"
+      "status": "original art integrated for early quest reward",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/apprentice_staff.webp",
+        "sha256": "39778597d0c277777d7ce6a8b59673bec4b9fc111585406fee3193d13315f112",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/keen_dirk.png",
       "subject": "keen reward dirk",
       "source": "OpenAI image generation",
-      "reference_images": [],
-      "prompt": "Create one original Whetstorm inventory item painting for keen_dirk, an early quest reward SHORT DIRK. Square icon painted edge to edge with no border or text. One complete compact double-edged dagger with a bright steel leaf-shaped blade, short dark wrapped grip and small asymmetrical bronze guard, a tidy practical step up from a rusty starter dagger. Whole dirk diagonally lower left to upper right against a dark slate-blue hand-painted background. Original stylized fantasy game art, bold clean silhouette, warm upper-left light, broad painterly forms, controlled detail and clear at 32 pixels. No person, hands, sheath, other objects, letters, logos, watermark, glow, magic, photorealism or copied game designs.",
-      "sha256": "8222661d6823cc502ef93eeb64655939cf5de614f097482269e79ca7fb217e4d",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/source-versions/keen_dirk.png",
+          "sha256": "8222661d6823cc502ef93eeb64655939cf5de614f097482269e79ca7fb217e4d"
+        }
+      ],
+      "prompt": "Revise this original Whetstorm keen dirk item icon to be unmistakably a SHORT DAGGER at 32 pixels, visually distinct from a long sword. Keep the dark slate-blue painted square background, dark leather grip and restrained bronze fittings. Make the blade much shorter and wider: a broad compact leaf-shaped steel blade only about one and a half times the length of the handle, with a small round bronze pommel and a compact guard. Show the entire single dagger centered diagonally, no other objects. Use bold clean hand-painted fantasy shapes, simple readable light and restrained detail. No person, hands, letters, logo, frame, glow or magic.",
+      "sha256": "489c05e9957c46b36213413406ff70e2f771312883fe6c70540545e71f18a80a",
       "pixels": [
         1254,
         1254
       ],
       "mode": "RGB",
       "itemId": "keen_dirk",
-      "status": "original art for early quest reward; integration pending"
+      "status": "original art integrated for early quest reward",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/keen_dirk.webp",
+        "sha256": "c3eaf30e60f5dc1c96b3b34f6feb2b1b6df4b6c462b7f528abee084289aafe99",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      },
+      "revision_history": [
+        {
+          "file": "docs/design/whetstorm-art/items/source-versions/keen_dirk.png",
+          "subject": "keen reward dirk",
+          "source": "OpenAI image generation",
+          "reference_images": [],
+          "prompt": "Create one original Whetstorm inventory item painting for keen_dirk, an early quest reward SHORT DIRK. Square icon painted edge to edge with no border or text. One complete compact double-edged dagger with a bright steel leaf-shaped blade, short dark wrapped grip and small asymmetrical bronze guard, a tidy practical step up from a rusty starter dagger. Whole dirk diagonally lower left to upper right against a dark slate-blue hand-painted background. Original stylized fantasy game art, bold clean silhouette, warm upper-left light, broad painterly forms, controlled detail and clear at 32 pixels. No person, hands, sheath, other objects, letters, logos, watermark, glow, magic, photorealism or copied game designs.",
+          "sha256": "8222661d6823cc502ef93eeb64655939cf5de614f097482269e79ca7fb217e4d",
+          "pixels": [
+            1254,
+            1254
+          ],
+          "mode": "RGB",
+          "itemId": "keen_dirk",
+          "status": "superseded to distinguish the dagger from the reward sword"
+        }
+      ]
     },
     {
       "file": "docs/design/whetstorm-art/items/militia_vest.png",
@@ -64,7 +116,7 @@
       ],
       "mode": "RGB",
       "itemId": "militia_vest",
-      "status": "original art for early quest reward; integration pending",
+      "status": "original art integrated for early quest reward",
       "revision_history": [
         {
           "file": "docs/design/whetstorm-art/items/source-versions/militia_vest.png",
@@ -80,7 +132,17 @@
           "mode": "RGB",
           "status": "superseded because armor material resembled scales"
         }
-      ]
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/militia_vest.webp",
+        "sha256": "4086ceb8363e5cb54efdd86e6967f6a583a5a3872b8677e5ad01ff5fd3ebbf09",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/woven_robe.png",
@@ -95,7 +157,17 @@
       ],
       "mode": "RGB",
       "itemId": "woven_robe",
-      "status": "original art for early quest reward; integration pending"
+      "status": "original art integrated for early quest reward",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/woven_robe.webp",
+        "sha256": "7fa001dd5e476b1dd487384f7d71c7be520aa689f81c1c141d1d6dc1d4f42df2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     },
     {
       "file": "docs/design/whetstorm-art/items/shadow_jerkin.png",
@@ -110,7 +182,17 @@
       ],
       "mode": "RGB",
       "itemId": "shadow_jerkin",
-      "status": "original art for early quest reward; integration pending"
+      "status": "original art integrated for early quest reward",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/shadow_jerkin.webp",
+        "sha256": "bcd490947f6a5a1aa4d9a134925c68842ec2bb6bf98cfff00ad15d8ba15ce8c3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
     }
   ]
 }

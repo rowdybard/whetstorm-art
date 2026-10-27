@@ -49,3 +49,8 @@ change the separate unassigned paintings for the planned seven-class launch.
 - `militia_vest.png`: militia reward chain vest, early quest item `militia_vest`.
 - `woven_robe.png`: woven reward robe, early quest item `woven_robe`.
 - `shadow_jerkin.png`: shadowstitch reward jerkin, early quest item `shadow_jerkin`.
+
+Six early quest reward paintings resolve through the item icon APIs for all
+three rewards each from `q_bandits` and `q_ringleader`. Their provenance is in
+`docs/whetstorm/early-quest-item-art-generation.json`, and their 32/48/64 pixel
+review is in `docs/screenshots/whetstorm-starter-items/early-quest-sizes.png`.
