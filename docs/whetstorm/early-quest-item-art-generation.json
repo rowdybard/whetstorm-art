@@ -45,6 +45,72 @@
       "mode": "RGB",
       "itemId": "keen_dirk",
       "status": "original art for early quest reward; integration pending"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/militia_vest.png",
+      "subject": "militia reward chain vest",
+      "source": "OpenAI image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/source-versions/militia_vest.png",
+          "sha256": "f259854881d6487e6013c00c3faca4a8fa07662b7054de0fc0c68cffe2467742"
+        }
+      ],
+      "prompt": "Revise this original Whetstorm militia armor item icon so the armor material is visibly CHAINMAIL, not scale armor: replace every overlapping solid scale on the shirt and sleeves with clearly interlocking round steel rings, simplified to large stylized rings readable at icon size. Keep the empty short-sleeved vest silhouette, leather shoulder panels, waist belt, pale linen edging and dark slate-blue painted background. Use broad clean hand-painted fantasy shapes, modest practical starter-level equipment, soft upper-left light, no person, no stand, no letters, no logo, no effects, no frame. Square inventory icon.",
+      "sha256": "54ef9933e9ac4c00867c2a22d473f9210637f51e4a53cc4b82b1f0ead5b9dfd3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "militia_vest",
+      "status": "original art for early quest reward; integration pending",
+      "revision_history": [
+        {
+          "file": "docs/design/whetstorm-art/items/source-versions/militia_vest.png",
+          "subject": "Militia armor initial scale-material version",
+          "source": "OpenAI image generation",
+          "reference_images": [],
+          "prompt": "Create one original Whetstorm inventory item painting for militia_vest, an early quest reward MILITIA CHAIN VEST. Square icon painted edge to edge with no border or text. One complete empty short-sleeved steel chainmail shirt with simple leather shoulder panels, a practical brown belt and subtle pale linen edges, centered on a dark slate-blue painted background. The shirt is isolated, no wearer or stand. Strong broad silhouette and visually readable metal mail, but simplify texture into large painterly planes rather than thousands of tiny rings. Original stylized fantasy game art, warm upper-left light, restrained practical detail, legible at 32 pixels. No weapon, person, letters, logos, watermark, glow, magic, photorealism or copied game designs.",
+          "sha256": "f259854881d6487e6013c00c3faca4a8fa07662b7054de0fc0c68cffe2467742",
+          "pixels": [
+            1254,
+            1254
+          ],
+          "mode": "RGB",
+          "status": "superseded because armor material resembled scales"
+        }
+      ]
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/woven_robe.png",
+      "subject": "woven reward robe",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for woven_robe, an early quest reward VALEWOVEN ROBE. Square icon painted edge to edge with no border or text. One complete empty long-sleeved blue-green woven cloth robe with a broad pale-gold sash and simple ivory trim, distinct from the dark blue starter robe, centered on a dark slate-blue painted background. The garment is isolated, no wearer or stand. Original stylized fantasy game art, strong clean silhouette, broad painterly folds and restrained textile detail, warm upper-left light, readable at 32 pixels. No weapons, extra items, letters, logos, watermark, glow, magic, photorealism or copied game designs.",
+      "sha256": "4d1fbd2c1a9ae9d4dd1a36fe843cc909f4dffe00bb8c251b6feccccb01b6c4a6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "woven_robe",
+      "status": "original art for early quest reward; integration pending"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/shadow_jerkin.png",
+      "subject": "shadowstitch reward jerkin",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for shadow_jerkin, an early quest reward SHADOWSTITCH LEATHER JERKIN. Square icon painted edge to edge with no border or text. One complete empty sleeveless charcoal-purple leather jerkin with two broad overlapping panels, a short high collar, dark leather straps and a single warm bronze buckle, distinctly darker than the brown starter jerkin. Center the isolated garment on a dark slate-blue painted background with a clear warm edge highlight. Original stylized fantasy game art, strong clean silhouette, broad painterly forms and restrained details, warm upper-left light, readable at 32 pixels. No wearer, stand, weapons, extra items, letters, logos, watermark, glow, magic, photorealism or copied game designs.",
+      "sha256": "e5ea5bd7cb56a527aaed1530c7bed2caecdaf068cd1839a80158a6788c41de43",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "shadow_jerkin",
+      "status": "original art for early quest reward; integration pending"
     }
   ]
 }

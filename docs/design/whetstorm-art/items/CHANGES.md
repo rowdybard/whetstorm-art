@@ -46,3 +46,6 @@ change the separate unassigned paintings for the planned seven-class launch.
 - `redbrook_blade.png`: militia reward sword, early quest item `redbrook_blade`.
 - `apprentice_staff.png`: apprentice reward staff, early quest item `apprentice_staff`.
 - `keen_dirk.png`: keen reward dirk, early quest item `keen_dirk`.
+- `militia_vest.png`: militia reward chain vest, early quest item `militia_vest`.
+- `woven_robe.png`: woven reward robe, early quest item `woven_robe`.
+- `shadow_jerkin.png`: shadowstitch reward jerkin, early quest item `shadow_jerkin`.
