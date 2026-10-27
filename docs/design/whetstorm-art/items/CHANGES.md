@@ -43,3 +43,6 @@ item icon APIs. They cover every weapon, chest and offhand assigned by the
 current class definitions. Their 32/48/64 pixel review is recorded at
 `docs/screenshots/whetstorm-starter-items/equipment-sizes.png`. This does not
 change the separate unassigned paintings for the planned seven-class launch.
+- `redbrook_blade.png`: militia reward sword, early quest item `redbrook_blade`.
+- `apprentice_staff.png`: apprentice reward staff, early quest item `apprentice_staff`.
+- `keen_dirk.png`: keen reward dirk, early quest item `keen_dirk`.

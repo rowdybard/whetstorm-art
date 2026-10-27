@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/redbrook_blade.png",
+      "subject": "militia reward sword",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for redbrook_blade, an early quest reward MILITIA SWORD. Square icon painted edge to edge with no border or text. Show one complete sturdy straight one-handed steel sword with a broad blade, simple bronze crossguard and oxblood leather grip, slightly finer than a starter sword but still practical. Whole sword diagonally lower left to upper right against a dark slate-blue hand-painted background. Original stylized fantasy game art, bold clean silhouette, warm upper-left light, broad painterly forms, controlled detail and clear at 32 pixels. No person, hands, sheath, other objects, letters, logos, watermark, glow, magic, photorealism or copied game designs.",
+      "sha256": "871825ccb24769f04fc64632dcb9c24d9087e17e3a271356e4021be5a8d86c81",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "redbrook_blade",
+      "status": "original art for early quest reward; integration pending"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/apprentice_staff.png",
+      "subject": "apprentice reward staff",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for apprentice_staff, an early quest reward VALE APPRENTICE STAFF. Square icon painted edge to edge with no border or text. One complete simple carved ash-wood staff, a broad oval pale-blue stone set firmly between two short bronze prongs at the top, and dark leather grip; modest practical construction. Entire staff diagonally lower left to upper right against a dark slate-blue hand-painted background, with a large clear staff head. Original stylized fantasy game art, bold clean silhouette, warm upper-left light, broad painterly forms, controlled detail and clear at 32 pixels. No person, hands, extra items, letters, logos, watermark, glow, magic, photorealism or copied game designs.",
+      "sha256": "a8747f682b2a15b3f8ca7ff77efdec18012f13282015393b5bc2a927880d72c0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "apprentice_staff",
+      "status": "original art for early quest reward; integration pending"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/keen_dirk.png",
+      "subject": "keen reward dirk",
+      "source": "OpenAI image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for keen_dirk, an early quest reward SHORT DIRK. Square icon painted edge to edge with no border or text. One complete compact double-edged dagger with a bright steel leaf-shaped blade, short dark wrapped grip and small asymmetrical bronze guard, a tidy practical step up from a rusty starter dagger. Whole dirk diagonally lower left to upper right against a dark slate-blue hand-painted background. Original stylized fantasy game art, bold clean silhouette, warm upper-left light, broad painterly forms, controlled detail and clear at 32 pixels. No person, hands, sheath, other objects, letters, logos, watermark, glow, magic, photorealism or copied game designs.",
+      "sha256": "8222661d6823cc502ef93eeb64655939cf5de614f097482269e79ca7fb217e4d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "keen_dirk",
+      "status": "original art for early quest reward; integration pending"
+    }
+  ]
+}
