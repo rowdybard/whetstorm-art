@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "mirejaw_fang_knife",
+      "file": "docs/design/whetstorm-art/items/mirejaw_fang_knife.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally with visible margin, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Mirejaw Fang-Knife, a short curved ivory fang blade with a sharp point, simple weathered bronze guard and dark leather wrapped grip, practical marsh-hunter construction.",
+      "status": "original weapon painting; reviewed",
+      "sha256": "c43a2bed70b8f9a5ce185d60e1b2970f243ebf8975b1a9cb08a69002e9ba647a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mirejaw_fang_knife.webp",
+        "sha256": "37d56d75dd62029bbe176fbcd462aa9caafa3445392fe23ffed00db6d0e74b1a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-24c998b5-60e0-4ecd-a58f-f2b2d169289e.png"
+    },
+    {
+      "itemId": "corpse_candle_focus",
+      "file": "docs/design/whetstorm-art/items/corpse_candle_focus.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally with visible margin, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Corpse-Candle Focus, a short dark iron handheld magical focus topped by a single stubby pale candle with a small blue flame, wrapped grip and weathered bronze fittings.",
+      "status": "original weapon painting; reviewed",
+      "sha256": "cadea9d26804280178387f10f1effd736cb1185c553327762e7714c05aeff577",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/corpse_candle_focus.webp",
+        "sha256": "f08d42464c7c4828a9507da3ed54059ecbeb59f04c2a77272d3aa8d1800a9fad",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-dc906325-2729-4a86-b92e-0d4b3694d481.png"
+    },
+    {
+      "itemId": "nhalias_litany_rod",
+      "file": "docs/design/whetstorm-art/items/nhalias_litany_rod.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally with visible margin, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Nhalia's Litany Rod, a complete slender dark silver ceremonial rod with a clear bronze bell-shaped finial and restrained pale blue glow, dark wrapped grip, weathered marsh patina.",
+      "status": "original weapon painting; reviewed",
+      "sha256": "1d6d23451d929fa38064a38733e48a4b4b72567360589e6b1f6605977a7b61ff",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/nhalias_litany_rod.webp",
+        "sha256": "d687dbe02695c370200983e0bb260ce14e1358d5a7d17ef85eb4a629ac16f0f1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-6ee3d39a-e198-4f1b-9e2b-4398d4642e67.png"
+    },
+    {
+      "itemId": "drowned_choir_fang",
+      "file": "docs/design/whetstorm-art/items/drowned_choir_fang.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally with visible margin, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Drowned Choir-Fang, a complete distinct short steel dagger with a gently curved pointed blade, bronze bell-inspired guard, dark wrapped grip and subtle verdigris, a refined marsh reliquary weapon.",
+      "status": "original weapon painting; reviewed",
+      "sha256": "6934a22742ee0a4d286f0d1a365f669a40ae81fac91def29f7a648f98ed58796",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drowned_choir_fang.webp",
+        "sha256": "f9be19fd031956ba223a829117bc34939addbbc31401c0b7afa63637b180f25e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-7a518bdf-a629-4f71-804a-c757a49c399e.png"
+    }
+  ]
+}

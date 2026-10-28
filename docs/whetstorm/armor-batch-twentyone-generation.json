@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "drowned_prayer_leggings",
+      "file": "docs/design/whetstorm-art/items/drowned_prayer_leggings.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of Drowned Prayer Leggings, rare cloth leg armor, faded sea-blue woven fabric trousers with understated pale stitched devotional motifs and damp worn hems, no metal armor or body. Show the complete pair with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "72d641f2567dc1833de49c3e515b0a880ff136eeac1016ab046ba28d620205b0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drowned_prayer_leggings.webp",
+        "sha256": "15117a2a261147f8347fa84a10e87750e7f7d162981decd64d32b3c863ca3488",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "drowned_prayer_sandals",
+      "file": "docs/design/whetstorm-art/items/drowned_prayer_sandals.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of Drowned Prayer Sandals, rare cloth footwear, faded sea-blue woven fabric wrapped sandals with modest pale stitching and soft fabric soles, no metal armor or body. Show the complete pair with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "073d81cc43167f7056f64a3c1fcf6112c5c1d4151d39d9ceb5abb9f121df053a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drowned_prayer_sandals.webp",
+        "sha256": "be2e9c78cb7da53642090c95c75a3320b78c767a8151e0da115a34b0685b9341",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "eelscale_leggings",
+      "file": "docs/design/whetstorm-art/items/eelscale_leggings.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of Eelscale Leggings, rare leather leg armor, supple dark teal eel-skin leather trousers with fine scale texture, stitched seams and a simple brown leather belt, no metal armor or body. Show the complete pair with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "8d1db7efd3740a7e99b3256ecce61843d305c988276545a2a30d15bb1265f4ef",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eelscale_leggings.webp",
+        "sha256": "f8ccd8db92ffacea698538349d5ed8b02019a11a727c022240b61ff22e666b4e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "eelscale_treads",
+      "file": "docs/design/whetstorm-art/items/eelscale_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of Eelscale Treads, rare leather footwear, supple dark teal eel-skin leather boots with fine scale texture, stitched seams and folded cuffs, no metal armor or body. Show the complete pair with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "0308565bf3f78e21519c87112893dfd6f29599f54a2bff8ce893f15a8ff83d73",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eelscale_treads.webp",
+        "sha256": "249c260957c25c4687fff94d57a3b9574cfb23ea9c05a5edca42b84d1a3e19a3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
