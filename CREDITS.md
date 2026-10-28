@@ -666,3 +666,7 @@ style reference. Their prompts, masters and hashes are documented in
 `docs/whetstorm/early-material-fourteen-generation.json`,
 `docs/whetstorm/armor-batch-fourteen-generation.json` and
 `docs/whetstorm/weapon-batch-fourteen-generation.json`.
+
+Four early marsh armor paintings use original Whetstorm art as a style
+reference. Their prompts, masters and hashes are in
+`docs/whetstorm/armor-batch-fifteen-generation.json`.

@@ -42,10 +42,12 @@ next batches. They had selected the following live item IDs, but did not
 complete paintings for them; verify availability and existing artwork again
 before starting:
 
-- Armor: `broodmother_silk_robe`, `fenwarden_sabatons`, `marshlight_hauberk`,
-  `duskthorn_mantle`.
 - Weapons: `mistcallers_edge`, `vaels_mist_staff`, `riptide_dirk`,
   `nhalias_dirgeblade`.
+
+The four reserved armor items were subsequently painted in
+`armor-batch-fifteen-generation.json`; they are included in the later
+checkpoint in `ITEM_ART_PROGRESS.md`.
 
 Do not infer release clearance from URL routing or file counts. Reconcile the
 art branch with the current game branch without overwriting concurrent work,

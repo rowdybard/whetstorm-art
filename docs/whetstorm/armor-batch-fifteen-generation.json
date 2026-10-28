@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "broodmother_silk_robe",
+      "file": "docs/design/whetstorm-art/items/broodmother_silk_robe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete long robe woven of pale silver spider silk with subtle web-like stitching and dark violet trim; cloth rather than metal armor. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed and routed",
+      "sha256": "07383c5106a7c08b813dd410420204fe5f196d6bee2f5ecf2a3aec841c1e4676",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/broodmother_silk_robe.webp",
+        "sha256": "a067e7c4666f7fba6303ad02dcd9f8a040665d0e8c33e276d2105a27eac9c8fb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fenwarden_sabatons",
+      "file": "docs/design/whetstorm-art/items/fenwarden_sabatons.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one pair of sturdy mail sabatons, overlapping muted steel scales over dark leather, moss-green straps and closed armored toes. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed and routed",
+      "sha256": "bfe35c9e20cce31d5f87f9a386771b6a7bf2ac5a8c8109f986fb7e499a14f03e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenwarden_sabatons.webp",
+        "sha256": "b082e7eeb5721da1e75554a38446076b293d74ce7275c2ae2f31246707316256",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "marshlight_hauberk",
+      "file": "docs/design/whetstorm-art/items/marshlight_hauberk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete mail hauberk with silver steel rings, a soft marsh-green cloth border and small bronze clasp, no body. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed and routed",
+      "sha256": "ec09ffac5427e06195cf7949d3b656dccda14533368bf562c2481ab4070fd84b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/marshlight_hauberk.webp",
+        "sha256": "74ac63b5cb93510e4c4a48a9935f0398a3b55daf10838af971c203a810c828f9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "duskthorn_mantle",
+      "file": "docs/design/whetstorm-art/items/duskthorn_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one pair of dark violet-brown leather shoulder pieces with a subtle thorn-shaped silhouette, stitched edges, no metal plate. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed and routed",
+      "sha256": "a981ae00daa8588009a017496e5eafca2060f0b3f441152277bcacc37978681f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/duskthorn_mantle.webp",
+        "sha256": "a096a68cb81fb174ab7ef00a95bb928fcef8ded7c9baa47858aa88a09f4c82a5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
