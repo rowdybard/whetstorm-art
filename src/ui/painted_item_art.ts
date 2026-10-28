@@ -14,6 +14,7 @@ import { armorBatchTenItemImageUrl } from './armor_batch_ten_item_art';
 import { armorBatchThirteenItemImageUrl } from './armor_batch_thirteen_item_art';
 import { armorBatchThreeItemImageUrl } from './armor_batch_three_item_art';
 import { armorBatchTwelveItemImageUrl } from './armor_batch_twelve_item_art';
+import { armorBatchTwentyItemImageUrl } from './armor_batch_twenty_item_art';
 import { armorBatchTwoItemImageUrl } from './armor_batch_two_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { earlyMaterialEightItemImageUrl } from './early_material_eight_item_art';
@@ -48,6 +49,7 @@ import { weaponBatchSixItemImageUrl } from './weapon_batch_six_item_art';
 import { weaponBatchTenItemImageUrl } from './weapon_batch_ten_item_art';
 import { weaponBatchThirteenItemImageUrl } from './weapon_batch_thirteen_item_art';
 import { weaponBatchTwelveItemImageUrl } from './weapon_batch_twelve_item_art';
+import { weaponBatchTwentyItemImageUrl } from './weapon_batch_twenty_item_art';
 
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
@@ -72,6 +74,7 @@ export function paintedItemImageUrl(id: string): string | null {
     armorBatchFifteenItemImageUrl(id) ??
     armorBatchSeventeenItemImageUrl(id) ??
     armorBatchNineteenItemImageUrl(id) ??
+    armorBatchTwentyItemImageUrl(id) ??
     earlyMaterialFourItemImageUrl(id) ??
     earlyMaterialFiveItemImageUrl(id) ??
     earlyMaterialSixItemImageUrl(id) ??
@@ -99,6 +102,7 @@ export function paintedItemImageUrl(id: string): string | null {
     weaponBatchFourteenItemImageUrl(id) ??
     weaponBatchFifteenItemImageUrl(id) ??
     weaponBatchNineteenItemImageUrl(id) ??
+    weaponBatchTwentyItemImageUrl(id) ??
     questBatchSixteenItemImageUrl(id) ??
     marshBatchSeventeenItemImageUrl(id) ??
     marshBatchEighteenItemImageUrl(id)

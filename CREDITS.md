@@ -695,3 +695,8 @@ Eight early marsh armor and weapon paintings use original Whetstorm art as a
 style reference. Their prompts, masters and hashes are in
 `docs/whetstorm/armor-batch-nineteen-generation.json` and
 `docs/whetstorm/weapon-batch-nineteen-generation.json`.
+
+Eight armor and weapon paintings use original Whetstorm art as a style
+reference. Their prompts, masters and hashes are in
+`docs/whetstorm/armor-batch-twenty-generation.json` and
+`docs/whetstorm/weapon-batch-twenty-generation.json`.

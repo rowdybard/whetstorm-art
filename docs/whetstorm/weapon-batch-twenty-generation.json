@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "drownedmoon_maul",
+      "file": "docs/design/whetstorm-art/items/drownedmoon_maul.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete Drowned Moon Maul, a heavy dark steel war mace with a broad crescent moon shaped hammer head, subtle turquoise patina and a wrapped leather grip. Show the complete subject with clear space around it.",
+      "status": "original weapon painting; reviewed",
+      "sha256": "ae41fff239e20f9db7b47c1c864f222bf56aaf92d9c44809ccb9ca0e85c06d6e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drownedmoon_maul.webp",
+        "sha256": "c3cf4e3f21d883d70346d8203e9a5c38ada70ade30927c16f8e48c8e79e3a220",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-03f9d4e8-b7ea-4e8c-80ee-4131054f578b.png"
+    },
+    {
+      "itemId": "drownedmoon_scepter",
+      "file": "docs/design/whetstorm-art/items/drownedmoon_scepter.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete Drowned Moon Scepter, a short slender wand with a dark silver shaft, wrapped grip and a pale luminous moonstone held by a simple crescent setting. Show the complete subject with clear space around it.",
+      "status": "original weapon painting; reviewed",
+      "sha256": "0b71f51df5852d329f8d9746d3f56d341203c28a29c0f6b44b60ee1f342a2a7c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drownedmoon_scepter.webp",
+        "sha256": "08c8252997d71de0d502dd7f2f87e5f599fe6529d4c8e4bd49b12efc06099b7c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-bc7b9b3b-256e-4bd8-9f0d-e5cf4c403a0b.png"
+    },
+    {
+      "itemId": "drownedmoon_kris",
+      "file": "docs/design/whetstorm-art/items/drownedmoon_kris.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete Drowned Moon Kris, a compact wavy steel dagger with a clear pointed blade, dark leather grip and small crescent guard, subtly weathered with teal patina. Show the complete subject with clear space around it.",
+      "status": "original weapon painting; reviewed",
+      "sha256": "55ca40584a7d210e96d1713da2cf1d30355497f7a88840480c43a45cb1f69533",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drownedmoon_kris.webp",
+        "sha256": "db8ff5f23ff0705bfdd16f9380ef7e84757509aae353d69071a7a69258256436",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-858f642a-cdd4-4842-ab90-0b8cbcb2f824.png"
+    },
+    {
+      "itemId": "nhalias_bell_maul",
+      "file": "docs/design/whetstorm-art/items/nhalias_bell_maul.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete Nhalia's Bell-Maul, a stout war mace with a large weathered bronze bell-shaped solid striking head, a short dark shaft and wrapped leather grip. Show the complete subject with clear space around it.",
+      "status": "original weapon painting; reviewed",
+      "sha256": "bb5730785a01891db8dd3f7edac3db0cb6d2930c9f8e6996d4d334decdae593e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/nhalias_bell_maul.webp",
+        "sha256": "4b08b292c977390ceb493bb435a4871ccddada5a921da9fda4ad1d0ac083ef3c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-fa235f8b-c09b-4e68-ae47-87e92d5385dc.png"
+    }
+  ]
+}

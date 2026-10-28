@@ -64,6 +64,14 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Twenty-second checkpoint: four armor pieces and four weapons add eight unique
+paintings, bringing this effort to 200 paintings for 200 IDs without deliberate
+reuse. Of 1,626 catalog IDs, 217 have direct individual paintings and 1,409 do
+not. Records are in `armor-batch-twenty-generation.json` and
+`weapon-batch-twenty-generation.json`; size reviews and focused image, routing
+and original-art tests passed. Browser, full gate and shipping-tree clearance
+remain open.
+
 Twenty-first checkpoint: four armor pieces and four weapons add eight unique
 paintings, bringing this effort to 192 paintings for 192 IDs without deliberate
 reuse. Of 1,626 catalog IDs, 209 have direct individual paintings and 1,417

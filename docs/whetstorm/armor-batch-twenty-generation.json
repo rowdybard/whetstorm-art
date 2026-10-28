@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "fenwalker_boots",
+      "file": "docs/design/whetstorm-art/items/fenwalker_boots.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of humble Fenwalker Boots, practical worn brown leather marsh boots with simple stitched seams and folded cuffs, common merchant armor, no metal plating or body. Show the complete pair with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "d2491dd5cfb02a76b00257b2dda314b905113ec7065fb4f095b72d43c8a5bd9e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenwalker_boots.webp",
+        "sha256": "33f7ed063b80a9dffba899ba72108c90c282b563b813760d97b220d99e7435b0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "tidescale_vest",
+      "file": "docs/design/whetstorm-art/items/tidescale_vest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete Tidescale Vest, rare mail chest armor made of overlapping blue-green metal scales with understated worn bronze edging and leather straps, a readable practical sleeveless vest, no body. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "f83d88f8e15299eadda23a333854d61c386ad066f6cd99fbf287f58fe3603324",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tidescale_vest.webp",
+        "sha256": "d84c3ebe792f14932c04da661240d212c9008de5fcad63c18182dafe3306735e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "tideguard_greaves",
+      "file": "docs/design/whetstorm-art/items/tideguard_greaves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of Tideguard Greaves, rare mail leg armor made of interlocking steel rings and overlapping blue-green metal scales with modest bronze trim, practical trousers silhouette, no solid plate, body or boots. Show the complete pair with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "ec52846f8389225a47b3837ae7f1e3f59a724d4e9b0bd7cc4ef40ce8fef954bd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tideguard_greaves.webp",
+        "sha256": "aa4ea7c9b130b95e47cf5f242eba699fe5d46d8772a4a071f401580d0f1514be",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "tideguard_sabatons",
+      "file": "docs/design/whetstorm-art/items/tideguard_sabatons.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of Tideguard Sabatons, rare mail footwear made of interlocking steel rings and overlapping blue-green metal scales with modest bronze trim, practical armored boot silhouette, no body. Show the complete pair with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "2bc4eadb0ce5769b4303bc3b5ed1abc4f5fe6380ef1e31a6ec057403bbf6e91b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tideguard_sabatons.webp",
+        "sha256": "fefd9723de51bf0231897ff939840458354e54242f4ce6e8f40f92a2e8374096",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
