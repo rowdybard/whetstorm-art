@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "drownedguard_breastplate",
+      "file": "docs/design/whetstorm-art/items/drownedguard_breastplate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete mail breastplate of dark steel scales and linked rings, weathered with subtle sea-green fabric trim, no body, not solid plate. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed and routed",
+      "sha256": "f9aa43937eab1e492e9563b528f9ed075d149a7f5fc2fc21e4b5bfaf15eda3f1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drownedguard_breastplate.webp",
+        "sha256": "6bca5d3768ec8eb5f2aceba2e388a1969831a2da446a59a21b6e5232ad473650",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fenmist_robe",
+      "file": "docs/design/whetstorm-art/items/fenmist_robe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete flowing cloth robe in soft mist-gray and pale blue, with a simple dark teal sash and wide sleeves, no body. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed and routed",
+      "sha256": "6bf0509c551068541d617e4cf296adce38df5099364b44e66cdcca0302ff86fd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenmist_robe.webp",
+        "sha256": "01f30f9e924abc3813b15c68674969fd1a7e73ad41f37afc3303971ace506a69",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "eelskin_tunic",
+      "file": "docs/design/whetstorm-art/items/eelskin_tunic.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete supple dark green-brown leather tunic with a subtle glossy eel-skin texture and stitched seams, no metal armor. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed and routed",
+      "sha256": "0556092665a4b4c7a510ce81177945720389b948bd7f93010481654d20c6d415",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eelskin_tunic.webp",
+        "sha256": "0f1a5eca316d8c9b4ef01afbb92f3ef5995859632e8d0b5260f9ce3b73a6b173",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "trollhide_leggings",
+      "file": "docs/design/whetstorm-art/items/trollhide_leggings.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of cloth leggings with a rough moss-brown woven texture, simple cord waist and a few small hide patches, no body or boots. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed and routed",
+      "sha256": "46edede79a108263d44611b6d3cf0979c286885a43fe20e152d10368b70bb1a7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/trollhide_leggings.webp",
+        "sha256": "c7189e2879c6dc2222dbfbd93af96bcfff10d84a6b77a662b36adf0259343be1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

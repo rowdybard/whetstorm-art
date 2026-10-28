@@ -64,6 +64,13 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Nineteenth checkpoint: four marsh quest armor pieces add four unique
+paintings, bringing this effort to 180 paintings for 180 IDs without
+deliberate reuse. Of 1,626 catalog IDs, 197 have direct individual paintings
+and 1,429 do not. Records are in `armor-batch-seventeen-generation.json`;
+size review and focused image, routing and original-art tests passed. Browser,
+full gate and shipping-tree clearance remain open.
+
 Eighteenth checkpoint: three marsh weapons and one pair of cloth wraps add
 four unique paintings, bringing this effort to 176 paintings for 176 IDs with
 no deliberate reuse. Of 1,626 catalog IDs, 193 have direct individual

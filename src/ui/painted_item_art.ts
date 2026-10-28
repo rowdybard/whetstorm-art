@@ -7,6 +7,7 @@ import { armorBatchFourteenItemImageUrl } from './armor_batch_fourteen_item_art'
 import { armorBatchItemImageUrl } from './armor_batch_item_art';
 import { armorBatchNineItemImageUrl } from './armor_batch_nine_item_art';
 import { armorBatchSevenItemImageUrl } from './armor_batch_seven_item_art';
+import { armorBatchSeventeenItemImageUrl } from './armor_batch_seventeen_item_art';
 import { armorBatchSixItemImageUrl } from './armor_batch_six_item_art';
 import { armorBatchTenItemImageUrl } from './armor_batch_ten_item_art';
 import { armorBatchThirteenItemImageUrl } from './armor_batch_thirteen_item_art';
@@ -66,6 +67,7 @@ export function paintedItemImageUrl(id: string): string | null {
     armorBatchThirteenItemImageUrl(id) ??
     armorBatchFourteenItemImageUrl(id) ??
     armorBatchFifteenItemImageUrl(id) ??
+    armorBatchSeventeenItemImageUrl(id) ??
     earlyMaterialFourItemImageUrl(id) ??
     earlyMaterialFiveItemImageUrl(id) ??
     earlyMaterialSixItemImageUrl(id) ??

@@ -682,3 +682,7 @@ reference. Their prompts, masters, revision and hashes are in
 Four early marsh encounter reward paintings use original Whetstorm art as a
 style reference. Their prompts, masters and hashes are in
 `docs/whetstorm/marsh-batch-seventeen-generation.json`.
+
+Four marsh quest armor paintings use original Whetstorm art as a style
+reference. Their prompts, masters and hashes are in
+`docs/whetstorm/armor-batch-seventeen-generation.json`.
