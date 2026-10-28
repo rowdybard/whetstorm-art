@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "bogiron_mace",
+      "file": "docs/design/whetstorm-art/items/bogiron_mace.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete humble bog iron mace with a dark weathered iron flanged head, simple brown leather-wrapped grip and practical sturdy construction. Show the complete subject with clear space around it.",
+      "status": "original weapon painting; reviewed and routed",
+      "sha256": "34792d13e1a35aaf56417085c2ce86b86498f99d938533d8d4a1b5879bd6c3fd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bogiron_mace.webp",
+        "sha256": "2e71ac1c74afc05894b5887009cfa776168e990596b67aa978cde379c4636ae2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fenreed_staff",
+      "file": "docs/design/whetstorm-art/items/fenreed_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete humble fen reed staff, a bundled and bound long golden-brown reed shaft with a simple curled reed crown, practical natural materials and no jewel. Show the complete subject with clear space around it.",
+      "status": "original weapon painting; reviewed and routed",
+      "sha256": "5802b8413d789ae1d2e94e0d50ecb084c8daf0ecf66e2140394944683dc0ecc5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenreed_staff.webp",
+        "sha256": "b398a03e9536dd382a8a123fea638d2cae489dd38eab648beafeaea06f4e474a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "mirefen_skinner",
+      "file": "docs/design/whetstorm-art/items/mirefen_skinner.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete practical skinner's dagger, short broad curved steel blade with a pointed tip, simple worn wooden grip and leather binding, clearly a dagger. Show the complete subject with clear space around it.",
+      "status": "original weapon painting; reviewed and routed",
+      "sha256": "fab3d922d575a547b844a9a7c38123e3db98c50912eb73c73cd2cc56319ace72",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mirefen_skinner.webp",
+        "sha256": "c3845f28df226a2dc9f8f3befefebf227f97c5686d77ab6871e3a439654dcd98",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "boneglass_shiv",
+      "file": "docs/design/whetstorm-art/items/boneglass_shiv.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete short rogue shiv with a pale ivory bone handle and sharp translucent smoky glass blade, compact and clearly a dagger. Show the complete subject with clear space around it.",
+      "status": "original weapon painting; reviewed and routed",
+      "sha256": "440ce6bfb8cd52629b13682aba4a2db6098645a9fd46673a8181aae0f6be7eab",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/boneglass_shiv.webp",
+        "sha256": "be861a1e81cef5086c42eff3fdf2adbfefee2db52616049594f7f1b32b4782bf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

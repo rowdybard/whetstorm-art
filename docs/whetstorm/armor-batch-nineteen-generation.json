@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "bogiron_hauberk",
+      "file": "docs/design/whetstorm-art/items/bogiron_hauberk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete humble bogiron mail hauberk, interlocking dark iron rings with worn brown leather edging, practical common merchant armor, no body, not solid plate. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed and routed",
+      "sha256": "acbd638632255e4360b8e5f54765317a3044b0a70a953af37a916e39f1a0e101",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bogiron_hauberk.webp",
+        "sha256": "119b7fb991b07c88a664f3bc839bdcc76f0865bb71a54dea95e716ddd5239cd0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "marshcloth_robe",
+      "file": "docs/design/whetstorm-art/items/marshcloth_robe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete humble marshcloth robe, soft muted gray-green woven fabric with simple folds, wide sleeves and a brown cord sash, common merchant garment, no body. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed and routed",
+      "sha256": "62f256e1790f68ceba40c25198ee2682a023929acd6d31030ffcf31bb29937d4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/marshcloth_robe.webp",
+        "sha256": "9429aa82e055c1ec05b06ec615645dac1eeda77ba11d9599e7ce1e84373d6d22",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reedwoven_jerkin",
+      "file": "docs/design/whetstorm-art/items/reedwoven_jerkin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete humble reedwoven leather jerkin, supple brown leather with understated reed-like woven trim and stitched seams, common merchant armor, no metal plates or body. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed and routed",
+      "sha256": "4c1732c18303a2313b15a0e838f0c83834dc8e16a6d106d79ba7470c048a4d89",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reedwoven_jerkin.webp",
+        "sha256": "9efdcc4b1cb1c4e102d9695a6924e8e4c0a6b2c42b714000966afdd045785165",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reedwoven_trousers",
+      "file": "docs/design/whetstorm-art/items/reedwoven_trousers.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of humble reedwoven leather trousers, supple brown leather with understated reed-like woven trim and stitched seams matching a simple jerkin, common merchant armor, no body or boots. Show the complete subject with clear space around it.",
+      "status": "original armor painting; reviewed and routed",
+      "sha256": "204f44b42b46e75836857b6570a55bcb5c0c44f1a2edf21976a8df3a467a0435",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reedwoven_trousers.webp",
+        "sha256": "34a75dc6ce43afc3ef22c5c60a3458cbe4b32a8ea724778f3e9b665d3b4259ad",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

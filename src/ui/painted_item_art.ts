@@ -6,6 +6,7 @@ import { armorBatchFourItemImageUrl } from './armor_batch_four_item_art';
 import { armorBatchFourteenItemImageUrl } from './armor_batch_fourteen_item_art';
 import { armorBatchItemImageUrl } from './armor_batch_item_art';
 import { armorBatchNineItemImageUrl } from './armor_batch_nine_item_art';
+import { armorBatchNineteenItemImageUrl } from './armor_batch_nineteen_item_art';
 import { armorBatchSevenItemImageUrl } from './armor_batch_seven_item_art';
 import { armorBatchSeventeenItemImageUrl } from './armor_batch_seventeen_item_art';
 import { armorBatchSixItemImageUrl } from './armor_batch_six_item_art';
@@ -41,6 +42,7 @@ import { weaponBatchElevenItemImageUrl } from './weapon_batch_eleven_item_art';
 import { weaponBatchFifteenItemImageUrl } from './weapon_batch_fifteen_item_art';
 import { weaponBatchFourteenItemImageUrl } from './weapon_batch_fourteen_item_art';
 import { weaponBatchNineItemImageUrl } from './weapon_batch_nine_item_art';
+import { weaponBatchNineteenItemImageUrl } from './weapon_batch_nineteen_item_art';
 import { weaponBatchSevenItemImageUrl } from './weapon_batch_seven_item_art';
 import { weaponBatchSixItemImageUrl } from './weapon_batch_six_item_art';
 import { weaponBatchTenItemImageUrl } from './weapon_batch_ten_item_art';
@@ -69,6 +71,7 @@ export function paintedItemImageUrl(id: string): string | null {
     armorBatchFourteenItemImageUrl(id) ??
     armorBatchFifteenItemImageUrl(id) ??
     armorBatchSeventeenItemImageUrl(id) ??
+    armorBatchNineteenItemImageUrl(id) ??
     earlyMaterialFourItemImageUrl(id) ??
     earlyMaterialFiveItemImageUrl(id) ??
     earlyMaterialSixItemImageUrl(id) ??
@@ -95,6 +98,7 @@ export function paintedItemImageUrl(id: string): string | null {
     weaponBatchThirteenItemImageUrl(id) ??
     weaponBatchFourteenItemImageUrl(id) ??
     weaponBatchFifteenItemImageUrl(id) ??
+    weaponBatchNineteenItemImageUrl(id) ??
     questBatchSixteenItemImageUrl(id) ??
     marshBatchSeventeenItemImageUrl(id) ??
     marshBatchEighteenItemImageUrl(id)
