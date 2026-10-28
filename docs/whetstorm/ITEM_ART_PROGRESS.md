@@ -64,6 +64,15 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Seventeenth checkpoint: four marsh quest objects add four unique paintings,
+bringing this effort to 172 paintings for 172 IDs with no deliberate reuse.
+Of 1,626 catalog IDs, 189 have direct individual paintings and 1,437 do not.
+Records are in `quest-batch-sixteen-generation.json`. The first ward stone
+was revised to avoid resemblance to another game's icon; its source and
+prompt are retained outside public. Size review and focused image, routing
+and original-art tests passed. Browser, full gate and shipping-tree clearance
+remain open.
+
 Sixteenth checkpoint: four marsh weapons add four unique paintings, bringing
 this effort to 168 paintings for 168 IDs with no deliberate reuse. Of 1,626
 catalog IDs, 185 have direct individual paintings and 1,441 do not. Records

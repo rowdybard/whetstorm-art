@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "fen_muster_order",
+      "file": "docs/design/whetstorm-art/items/fen_muster_order.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one rolled parchment order tied with dark-green cord and sealed with plain red wax, no writing or letters. Show the complete subject with clear space around it.",
+      "status": "original quest painting; reviewed and routed",
+      "sha256": "c6c590e4ed79c1289d785e06d7ff1a94deca04abe6570a4fb064e024486aa66d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fen_muster_order.webp",
+        "sha256": "304082da1b7b67ab9e05ec9d2b283b2b1b79709d501a3368b06b10fbd55df363",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "lost_caravan_goods",
+      "file": "docs/design/whetstorm-art/items/lost_caravan_goods.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one small bundled cloth-wrapped parcel with a leather strap and wooden crate corner visible, a travel-worn supply bundle. Show the complete subject with clear space around it.",
+      "status": "original quest painting; reviewed and routed",
+      "sha256": "42c202e3c2295f519b60173f2c66435ef2939b60ac6514fd818a823e98be0327",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/lost_caravan_goods.webp",
+        "sha256": "525cf3b8117e8fc38f635d838d886ab2c52ef0b825954aa3d951f6ee2ed9cd6d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "rusted_censer",
+      "file": "docs/design/whetstorm-art/items/rusted_censer.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one small antique rusted iron incense censer, spherical perforated bowl with a short looped chain and faint wisp of smoke. Show the complete subject with clear space around it.",
+      "status": "original quest painting; reviewed and routed",
+      "sha256": "dbe016f69bf110653213f8bca284f9e769ebdb4a59fae0bdeaf69ab344dc311b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/rusted_censer.webp",
+        "sha256": "b2baf6ed524a54909bc39af7ceff70eaf237032a68ce32f9202fd2197ecc565f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bastion_ward_stone",
+      "file": "docs/design/whetstorm-art/items/bastion_ward_stone.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm fantasy inventory painting. Style reference only: the supplied Whetstorm sword, matching hand-painted treatment and deep slate-blue background; do not depict a sword or copy any game. Subject: one angular, flat slate-gray ward stone with a simple distinct glowing turquoise geometric rune composed of three parallel short horizontal bars crossed by a single vertical line. No spiral, no circular mark, no emblem from any game. Chipped stone edges, readable bold shape at 32 pixels, whole stone centered, no frame, text, letters, logo, watermark, hands or photorealism.",
+      "status": "original quest painting; reviewed and routed",
+      "sha256": "22c86f3735314b7afcab694c9c704cf90c8f0148425c5b17226f9033b8119091",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bastion_ward_stone.webp",
+        "sha256": "271cb18ee14df3458470126c4d1d7f74bd576ff7d79aa178742a05ec6e3a78a7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "revision_history": [
+        {
+          "file": "docs/design/whetstorm-art/items/bastion_ward_stone_v1.png",
+          "sha256": "6c7f667b6003ab0894a9568f2bdf9a38054c1f8259e37de25ffd5dc44b8c5c2c",
+          "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one oval carved gray ward stone with a bold abstract blue glowing spiral mark, weathered edges, no writing. Show the complete subject with clear space around it.",
+          "reason": "Revised to avoid resemblance to an existing game icon"
+        }
+      ]
+    }
+  ]
+}
