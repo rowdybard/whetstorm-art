@@ -27,6 +27,7 @@ import { earlyMaterialThirteenItemImageUrl } from './early_material_thirteen_ite
 import { earlyMaterialTwelveItemImageUrl } from './early_material_twelve_item_art';
 import { earlyQuestItemImageUrl } from './early_quest_item_art';
 import { earlyQuestMaterialItemImageUrl } from './early_quest_material_item_art';
+import { marshBatchSeventeenItemImageUrl } from './marsh_batch_seventeen_item_art';
 import { questBatchSixteenItemImageUrl } from './quest_batch_sixteen_item_art';
 import { starterItemImageUrl } from './starter_item_art';
 import { toolBatchFiveItemImageUrl } from './tool_batch_five_item_art';
@@ -91,6 +92,7 @@ export function paintedItemImageUrl(id: string): string | null {
     weaponBatchThirteenItemImageUrl(id) ??
     weaponBatchFourteenItemImageUrl(id) ??
     weaponBatchFifteenItemImageUrl(id) ??
-    questBatchSixteenItemImageUrl(id)
+    questBatchSixteenItemImageUrl(id) ??
+    marshBatchSeventeenItemImageUrl(id)
   );
 }

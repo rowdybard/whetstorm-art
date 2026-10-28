@@ -678,3 +678,7 @@ reference. Their prompts, masters and hashes are in
 Four early marsh quest item paintings use original Whetstorm art as a style
 reference. Their prompts, masters, revision and hashes are in
 `docs/whetstorm/quest-batch-sixteen-generation.json`.
+
+Four early marsh encounter reward paintings use original Whetstorm art as a
+style reference. Their prompts, masters and hashes are in
+`docs/whetstorm/marsh-batch-seventeen-generation.json`.

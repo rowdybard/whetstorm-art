@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "tidereaver_gaff",
+      "file": "docs/design/whetstorm-art/items/tidereaver_gaff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete rugged fishing gaff weapon, long dark wooden shaft with one large curved steel hook and sea-green cord binding, no person. Show the complete subject with clear space around it.",
+      "status": "original marsh item painting; reviewed and routed",
+      "sha256": "a433ef818ee27463f190983f46f5241f32c2c98606a64a36b198ed9f3a2e7df1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tidereaver_gaff.webp",
+        "sha256": "8d7bae7bc1cd827f851d42a203fbca8bf007e2f3891a18e738a125c7235db16a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sloomtooth_tidefang",
+      "file": "docs/design/whetstorm-art/items/sloomtooth_tidefang.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete short dagger with a curved ivory fang-shaped blade, a dark blue-green leather grip and a small shell guard. Show the complete subject with clear space around it.",
+      "status": "original marsh item painting; reviewed and routed",
+      "sha256": "7d31784732c71c4e7a835888cc5da099c641fbeaba644e7908d00bfcc6d70fd9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sloomtooth_tidefang.webp",
+        "sha256": "bc550f21bce4f707deebeb027133b7953a6410ae6e334e9cbe0d767c728dc7ec",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "drowned_tide_scepter",
+      "file": "docs/design/whetstorm-art/items/drowned_tide_scepter.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete dark driftwood scepter with a turquoise sea-glass orb held in simple brass prongs, subtle watery glow. Show the complete subject with clear space around it.",
+      "status": "original marsh item painting; reviewed and routed",
+      "sha256": "c750861375014bb9109a6bd6c13666f1227527a36d5c64d336e878cf62ed2aad",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drowned_tide_scepter.webp",
+        "sha256": "f7c1d93f9a00557ecf0f8331fcb41c9f663c117cc44d3a53c2409cfbe3fb02fc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "nhalias_funeral_wraps",
+      "file": "docs/design/whetstorm-art/items/nhalias_funeral_wraps.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of cloth trousers made from layered pale gray funeral wrappings, dark violet sash at the waist, no boots and no body. Show the complete subject with clear space around it.",
+      "status": "original marsh item painting; reviewed and routed",
+      "sha256": "b5f4936c0713105507ae2242456876723a26150f5577d7cbed62196eb3611494",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/nhalias_funeral_wraps.webp",
+        "sha256": "8ce41f10a25acb1d6601d18cf3c6aa514221dc3501e6b9e10286ff870a498578",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
