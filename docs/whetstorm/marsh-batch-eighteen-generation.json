@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "rough_hide",
+      "file": "docs/design/whetstorm-art/items/rough_hide.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one irregular untanned rough animal hide, brown leather surface with uneven edges and a short fringe of fur, no animal head. Show the complete subject with clear space around it.",
+      "status": "original marsh item painting; reviewed and routed",
+      "sha256": "b642a4783262274c33d519071e9174c8f97a894f54caa649762925ecf4ed666b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/rough_hide.webp",
+        "sha256": "b9d7378b82fdab9e154eafae3d919a13ad486f5467b54c4c0704d0fc010851a6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "knight_commanders_greaves",
+      "file": "docs/design/whetstorm-art/items/knight_commanders_greaves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of sturdy cloth leggings with gray woven fabric, navy military sash and reinforced stitched knee patches, no metal plate, no boots and no body. Show the complete subject with clear space around it.",
+      "status": "original marsh item painting; reviewed and routed",
+      "sha256": "7df19d31e4f915408eb10594d15db36e1a90633e8508c0ef1a772470a86ddfef",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/knight_commanders_greaves.webp",
+        "sha256": "6c59afeda97e83c7b6ca5a689bc19f5c453973b32db341bccd9d92e6f70f55b9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "elixir_of_the_bear",
+      "file": "docs/design/whetstorm-art/items/elixir_of_the_bear.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one squat amber glass bottle filled with warm golden elixir, cork and a small simple bear-paw shaped wax seal, no label or writing. Show the complete subject with clear space around it.",
+      "status": "original marsh item painting; reviewed and routed",
+      "sha256": "484d0291a76d07f6ca598f72ae56d7737cff6d9c83144632269a0b9ea3448648",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/elixir_of_the_bear.webp",
+        "sha256": "1159f2d0375f0f7becea9c239718f7c88b1363e22a75b33b28356f46aaa432c3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wayfarers_backpack",
+      "file": "docs/design/whetstorm-art/items/wayfarers_backpack.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one practical worn brown leather backpack, flap closed with two brass buckles, rolled bedroll secured on top, entire bag visible. Show the complete subject with clear space around it.",
+      "status": "original marsh item painting; reviewed and routed",
+      "sha256": "33f64d9da7f833d6c687226d4e91a25b8451d9c543d5a467c155b536477c4a5b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wayfarers_backpack.webp",
+        "sha256": "5eb89de18cc9fefb2713878dbdb3279b46d0f150ccdabfba2ba70037edb60b13",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
