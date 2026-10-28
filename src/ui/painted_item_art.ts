@@ -34,6 +34,7 @@ import { toolBatchItemImageUrl } from './tool_batch_item_art';
 import { toolBatchThreeItemImageUrl } from './tool_batch_three_item_art';
 import { weaponBatchEightItemImageUrl } from './weapon_batch_eight_item_art';
 import { weaponBatchElevenItemImageUrl } from './weapon_batch_eleven_item_art';
+import { weaponBatchFifteenItemImageUrl } from './weapon_batch_fifteen_item_art';
 import { weaponBatchFourteenItemImageUrl } from './weapon_batch_fourteen_item_art';
 import { weaponBatchNineItemImageUrl } from './weapon_batch_nine_item_art';
 import { weaponBatchSevenItemImageUrl } from './weapon_batch_seven_item_art';
@@ -87,6 +88,7 @@ export function paintedItemImageUrl(id: string): string | null {
     weaponBatchElevenItemImageUrl(id) ??
     weaponBatchTwelveItemImageUrl(id) ??
     weaponBatchThirteenItemImageUrl(id) ??
-    weaponBatchFourteenItemImageUrl(id)
+    weaponBatchFourteenItemImageUrl(id) ??
+    weaponBatchFifteenItemImageUrl(id)
   );
 }

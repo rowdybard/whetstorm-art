@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "mistcallers_edge",
+      "file": "docs/design/whetstorm-art/items/mistcallers_edge.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete one-handed steel sword with a wide leaf-shaped blade, a muted teal hilt, and subtle pale mist curling around the blade. Show the complete subject with clear space around it.",
+      "status": "original weapon painting; reviewed and routed",
+      "sha256": "a8adb8ee5b5131bf5f3832b8d21d6c369b58891a99d60bc7acf031109414a73e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mistcallers_edge.webp",
+        "sha256": "55d33442d427730af2587eaaba2f7ff86775f52ce146685414fa5b3483667b4d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vaels_mist_staff",
+      "file": "docs/design/whetstorm-art/items/vaels_mist_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete dark wooden magical staff with a forked crown holding a glowing pale-blue mist crystal, a distinct slender silhouette. Show the complete subject with clear space around it.",
+      "status": "original weapon painting; reviewed and routed",
+      "sha256": "56eca1904a384d5b5177de0b282eac44754a853b8e97698b26e6b007a00a2cba",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vaels_mist_staff.webp",
+        "sha256": "2d459b85d69e85225de3674de812fd719245e0c4101cab3154f208f624a6d5dd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "riptide_dirk",
+      "file": "docs/design/whetstorm-art/items/riptide_dirk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete short curved steel dirk with a wave-shaped guard and deep blue wrapped hilt, clearly a dagger rather than a sword. Show the complete subject with clear space around it.",
+      "status": "original weapon painting; reviewed and routed",
+      "sha256": "642febe6d461ec9c209d802d7a01de8551a4119835ebc5d76db54f54084bc6b3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/riptide_dirk.webp",
+        "sha256": "8a0e598efc81b624c9a62515eb76ff2ca088d8606a824e9cd5096578f30dbcab",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "nhalias_dirgeblade",
+      "file": "docs/design/whetstorm-art/items/nhalias_dirgeblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete short narrow dagger with a silver blade, violet-black grip and a small pale violet gem, ghostly understated accents, clearly a dagger. Show the complete subject with clear space around it.",
+      "status": "original weapon painting; reviewed and routed",
+      "sha256": "a12689ac2ca09fb3d0cd1b18a1d06ab4da391e6259a85df15ecea070daf8b73b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/nhalias_dirgeblade.webp",
+        "sha256": "c37afac79dfd911584bdbecf05d9d84ae8e62f4ecab2b2a70c42e06b80e568ed",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

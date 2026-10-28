@@ -38,16 +38,14 @@ paintings consist of 17 previously mapped paintings and 160 added in this
 effort. See `ITEM_ART_PROGRESS.md` and the generation manifests for details.
 
 The two parallel item artists reached their usage limit while starting the
-next batches. They had selected the following live item IDs, but did not
-complete paintings for them; verify availability and existing artwork again
-before starting:
+next batches. They had selected the following live weapon item IDs:
 
 - Weapons: `mistcallers_edge`, `vaels_mist_staff`, `riptide_dirk`,
   `nhalias_dirgeblade`.
 
-The four reserved armor items were subsequently painted in
-`armor-batch-fifteen-generation.json`; they are included in the later
-checkpoint in `ITEM_ART_PROGRESS.md`.
+Those weapons and the four reserved armor items were subsequently painted in
+`weapon-batch-fifteen-generation.json` and `armor-batch-fifteen-generation.json`;
+they are included in later checkpoints in `ITEM_ART_PROGRESS.md`.
 
 Do not infer release clearance from URL routing or file counts. Reconcile the
 art branch with the current game branch without overwriting concurrent work,
