@@ -21,12 +21,33 @@ a replacement; several assets may be covered by one suitable cleared substitute.
 | NPC gear | `chars/npc_gear/harbormaster_tricorne.glb`, `harbormaster_spyglass.glb` | Bone attachment and bind-frame fit |
 | Harbors | `props/wyrmwatch_harbor.glb`, `wickharbor_wharf.glb`, `wickharbor_harbor.glb` | Walkable layout, collision, stairs, docks and interaction positions |
 
-The same register also marks **legacy Claudium prototype** and **Season 1
-Armory** weapon collections restricted but names groups, not an exact file
-list. Their membership, active uses and duplicates remain to be reconciled.
-Other unclassified assets, embedded textures, release output and native
-packages are not covered by this count. Thus 16 is an explicitly identified
-file count, not a final number of required new models or an exhaustive total.
+The register also marks **legacy Claudium prototype** and **Season 1 Armory**
+weapon collections restricted. The following 40 additional tracked files were
+identified by the collection definitions in `src/sim/content/weapon_skins.ts`,
+the retired placeholder list in `docs/claudium-store.md`, and registrations in
+`src/render/characters/assets.ts`. Names below are GLB stems under
+`public/models/weapons/`; cosmetic IDs sometimes differ from model stems.
+
+| Collection | Tracked model stems |
+| --- | --- |
+| Legacy prototypes (11) | `emberfang_sword`; `redskull_dagger`, `redskull_hammer`, `redskull_staff`, `redskull_sword`, `redskull_wand`; `purple_axe`, `purple_dagger`, `purple_staff`, `purple_sword`, `purple_wand` |
+| Guildmark (7) | `guildmark_arming_sword`, `brasscap_hatchet`, `tempered_flanged_mace`, `guildmark_dirk`, `brasscrown_walking_staff`, `lacquered_rod`, `fletcher_s_guild_bow` |
+| Emberwrought (7) | `cinderbrand`, `emberbite`, `smoulderfall`, `ashspark_shiv`, `forgeheart_stave`, `emberwrought_wand`, `cinderlatch` |
+| Hoarfrost (7) | `ice_fang`, `glaciersplit`, `rimecrusher`, `frostbite`, `hoarfrost_vigil`, `shard_of_everwinter`, `winterbite` |
+| Fallen Star (8) | `solheim_last_light_of_the_dawn`, `skyrender_the_firmament_s_wound`, `starfall_judgment_of_the_heavens`, `astravyr_fang_of_the_fallen_star`, `cosmarch_spire_of_the_endless_void`, `emberwish_mote_of_the_dying_sun`, `encore_the_second_falling_star`, `meteorlatch_the_sky_s_last_judgment` |
+
+For example, `src/ui/weapon_variants.ts` maps the ordinary game items
+`marrowpoint`, `duskwhisper`, `courtiers_bonefang`, `thornpeak_wardblade` and
+`gravecourt_hewer` to legacy models. Retired storefront status therefore does
+not prove all legacy assets have no gameplay consumers. Audit actual cosmetic
+access, in-game mappings, editor references and generated manifests before
+removal or substitution.
+
+The 16 named files plus these 40 weapons give **56 specifically identified
+tracked restricted GLBs**, not 56 necessarily required new models. Other
+unclassified assets, embedded textures, release output and native packages are
+not covered by this count. Replacement choices and any further restricted
+files remain to be audited.
 
 The register identifies KayKit character models and animations as CC0; it
 also lists some Quaternius animated creatures as CC0. Retain a specific model
@@ -76,7 +97,7 @@ Check current terms, privacy, availability and actual task pricing before use.
 
 ## Next evidence needed
 
-1. Enumerate the exact restricted weapon collection files and their consumers.
+1. Reconcile all consumers of the listed restricted weapon collections.
 2. Inventory every shipping model, embedded texture and animation against its
    actual source license; classify unverified assets separately.
 3. Decide per asset whether exclusion, a verified reusable substitute, or new
