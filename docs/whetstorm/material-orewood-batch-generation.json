@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "fine_iron_ore",
+      "file": "docs/design/whetstorm-art/items/fine_iron_ore.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint a single Fine Iron Ore specimen: angular dark slate iron rock with conspicuous bright silver metallic veins and facets, rich cool highlights, unmistakably raw ore. Hand-painted original fantasy art, bold readable silhouette, centered whole object on dark muted painted background. No frame, text, letters, logo or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "d4840bc73d0f6de5333e8088785c4b2cda220cc1ca02e31a415c419d827ea2dd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_iron_ore.webp",
+        "sha256": "6fa6f18a1f592a94fec05408d1889bda9814704fb79a18352cd7c67f3efe21a0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ashwood_log",
+      "file": "docs/design/whetstorm-art/items/ashwood_log.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint a single Ashwood Log: a chunky freshly cut ash tree log with pale gray-brown fissured bark and creamy gold circular end grain, a small broken branch stub, natural rustic shape. Hand-painted original fantasy art, bold readable silhouette, centered whole object on dark muted painted background. No frame, text, letters, logo or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "4e7698f6b88e711a33735a3aa08bfefd1e7a99140452e32a0ad6f1fd5cc13bab",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ashwood_log.webp",
+        "sha256": "ec5bf9c77974c803aaf308f29bcf96a38a28368c5e5583ba8801f7f4904b53cf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fine_ashwood_log",
+      "file": "docs/design/whetstorm-art/items/fine_ashwood_log.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint a single Fine Ashwood Log: a clean straight, premium cut ash log with silvery pale bark, beautiful honey-colored end grain and a few delicate amber streaks, clear wood texture. Hand-painted original fantasy art, bold readable silhouette, centered whole object on dark muted painted background. No frame, text, letters, logo or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "1305ffd449d4618f379d6213e26c8ede0085d3fb3626b98fc075217e2fda6487",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_ashwood_log.webp",
+        "sha256": "04fc080414eaec6e4f8d6131ba86556de087cd99294776d514e943b40149e12d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "thorium_ore",
+      "file": "docs/design/whetstorm-art/items/thorium_ore.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint a single Osmium Ore specimen: dense jagged blue-gray rock with cool silvery metallic seams and a distinctive heavy blocky silhouette, unmistakably raw mineral ore. Hand-painted original fantasy art, bold readable silhouette, centered whole object on dark muted painted background. No frame, text, letters, logo or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "a64930aa6852090ad0892f701cbd3b07b4251b4f77e7de86787f41bb26c83f0a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/thorium_ore.webp",
+        "sha256": "9f8660d4d2201f639fbe43da607faa181044bca1b46aeffa756afcb09d425c61",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "herbed_marsh_pike",
+      "file": "docs/design/whetstorm-art/items/herbed_marsh_pike.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square fantasy game inventory item painting: Herbed Marsh Pike. One whole cooked pike with visible head and tail, golden browned skin, a few green herb sprigs, centered on a dark painted background. Bold simple silhouette, lush vibrant color, hand-painted, upper-left soft light, readable at 32 pixels. Entire subject inside image, no border, frame, lettering, logo or watermark. Original design, do not imitate existing game art.",
+      "status": "original food painting; reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "2c0b063e20ea705e798d46895db796e8711372bb04e84c615f0ce727eb76683a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/herbed_marsh_pike.webp",
+        "sha256": "2fd87e255ce864ed28a132416b05cf77316c73ecdc6f9ecfc25f2f6ebec3d703",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ashwood_smoked_eel",
+      "file": "docs/design/whetstorm-art/items/ashwood_smoked_eel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square fantasy game inventory item painting: Ashwood Smoked Eel. One whole dark bronze smoked eel curled into a distinctive open C, head and tail visible, subtle smoky wisps, centered on a dark painted background. Bold simple silhouette, lush vibrant color, hand-painted, upper-left soft light, readable at 32 pixels. Entire subject inside image, no border, frame, lettering, logo or watermark. Original design, do not imitate existing game art.",
+      "status": "original food painting; reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "f140f15b25b06cb78e12514091574d59fe59a144632f07568812b38cc2d67ccd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ashwood_smoked_eel.webp",
+        "sha256": "4b6d56c32e31f179f59cdadf95c83b0e63eae069129f20051f409ba6f5bb5bd4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "goldleaf_game_stew",
+      "file": "docs/design/whetstorm-art/items/goldleaf_game_stew.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square fantasy game inventory item painting: Goldleaf Game Stew. A single rustic earthenware bowl of rich game stew with large visible meat chunks and golden leaves as garnish, centered on a dark painted background. Bold simple silhouette, lush vibrant color, hand-painted, upper-left soft light, readable at 32 pixels. Entire subject inside image, no border, frame, lettering, logo or watermark. Original design, do not imitate existing game art.",
+      "status": "original food painting; reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "9448f3247d5cecd334b7013800e98a52ef2c4eeaf2debf63f34c3a566481c24e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/goldleaf_game_stew.webp",
+        "sha256": "111de85438e6be88a611b0b57123e34e7e2ddf096f74584152e85e7c10b557f6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "conjured_bread2",
+      "file": "docs/design/whetstorm-art/items/conjured_bread2.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square fantasy game inventory item painting: Conjured Black Loaf. One whole compact black rye loaf with a few deep diagonal scores and subtle pale blue magical sparkles, centered on a dark painted background. Bold simple silhouette, lush vibrant color, hand-painted, upper-left soft light, readable at 32 pixels. Entire subject inside image, no border, frame, lettering, logo or watermark. Original design, do not imitate existing game art.",
+      "status": "original food painting; reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "81efb6f495d30a49d8a2c3477284ef5b3b199334c3a54b87d48de78139ea50f8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/conjured_bread2.webp",
+        "sha256": "ef9bf05741dca45df11457dfa85f7c9cf99623e3132ad95289e0773189297b27",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

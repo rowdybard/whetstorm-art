@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/highwatch_summons.png",
+      "subject": "Highwatch Summons",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for highwatch_summons, a Highwatch Summons quest item. Show a single complete folded parchment letter with a simple unmarked red wax seal, centered and filling the square against a dark slate-blue painted background. Original stylized fantasy hand-painted art, bold clear silhouette, warm upper-left light, broad painterly forms, restrained details readable at 32 pixels. No text, lettering, logo, frame, watermark, hands, other objects, or copied game designs.",
+      "sha256": "de158b224fcd41ee224a0bc9f5111f346108317ead98813155ef5c48aa6298c9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "highwatch_summons",
+      "status": "original art prepared for quest batch",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/highwatch_summons.webp",
+        "sha256": "c810fdba55d6995fd40b263413bf8496c1571da7fec513e7ca21b325bcebff2b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/glowing_wax.png",
+      "subject": "Glowing Wax",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for glowing_wax, Glowing Wax quest item. Show one complete irregular golden lump of wax, with thick rounded drips and a gentle inner amber glow, centered and filling the square against a dark slate-blue painted background. Original stylized fantasy hand-painted art, bold clear silhouette, warm upper-left light, broad painterly forms, restrained details readable at 32 pixels. No candle, flame, container, text, lettering, logo, frame, watermark, hands, other objects, or copied game designs.",
+      "sha256": "e2fb021f135425e86b588cd35513fd2bccafdced07af4c5692fc414f38cd4cff",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "glowing_wax",
+      "status": "original art prepared for quest batch",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/glowing_wax.webp",
+        "sha256": "1510f2ca6091a2276f7c3867115d4e4bf0bf2510f52385cbb1592bbabadb311f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/storm_core.png",
+      "subject": "Storm Core",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for storm_core, a Storm Core quest item. Show one complete jagged rounded crystalline core of luminous deep blue and cyan stone with a single bright lightning-like vein inside, centered and filling the square against a dark slate-blue painted background. Original stylized fantasy hand-painted art, bold clear silhouette, warm upper-left light, broad painterly forms, restrained details readable at 32 pixels. No text, lettering, logo, frame, watermark, hands, other objects, or copied game designs.",
+      "sha256": "1c3e42cc7889fd0b5e6172a5a8ce29c4b468d68e85e8b3b27f9650b153625ecc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "storm_core",
+      "status": "original art prepared for quest batch",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/storm_core.webp",
+        "sha256": "5a6e49673962852eca912e6fd055fc879c868a18a78a44bb6ee41e9811a90b82",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/kazzix_heartshard.png",
+      "subject": "Kazzix's Heartshard",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for kazzix_heartshard, Kazzix's Heartshard quest item. Show one complete large jagged heart-shaped ruby-red crystal shard with dark maroon facets and a bright warm core, centered and filling the square against a dark slate-blue painted background. Original stylized fantasy hand-painted art, bold clear silhouette, warm upper-left light, broad painterly forms, restrained details readable at 32 pixels. No anatomical heart, text, lettering, logo, frame, watermark, hands, other objects, or copied game designs.",
+      "sha256": "2d8993d4c0aeacd077fa52ad89c9a318cbc422686517277d3924aa9f5d688eff",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "kazzix_heartshard",
+      "status": "original art prepared for quest batch",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/kazzix_heartshard.webp",
+        "sha256": "8a41c42255b83dc41f3e6ecfb9d76f6af047215342436b2918cc0d757561bd19",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

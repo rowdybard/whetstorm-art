@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "hollowbound_legguards",
+      "file": "docs/design/whetstorm-art/items/hollowbound_legguards.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Hollowbound Legguards, one complete pair of dark brown leather trousers, segmented leather knee guards with muted bone-colored stitching, clearly visible two legs, no metal armor.",
+      "status": "original armor painting; reviewed",
+      "sha256": "5122ac24f0282ce1a699b0eb49e3ec526f6560a5d7242ceb02de3d3f6c99a7a6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hollowbound_legguards.webp",
+        "sha256": "7e61af7c328a9392abb292e6fcae2597afa691a1b5d5ea68d9df770a9b93d392",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bramblehide_jerkin",
+      "file": "docs/design/whetstorm-art/items/bramblehide_jerkin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Bramblehide Jerkin, one complete sleeveless rustic leather vest, warm russet hide, subtle thorn-shaped stitched seams and modest dark green edging, no wearer, no metal armor.",
+      "status": "original armor painting; reviewed",
+      "sha256": "dbbb220ea1c9e761b14574f75f251c2bba2bcd8f203260358d349a16d9816af2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bramblehide_jerkin.webp",
+        "sha256": "976ce0512f863dd543b08aa185b04c2f07d4210c386921bd5b55fca3ac12a5b5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wayfarers_hood",
+      "file": "docs/design/whetstorm-art/items/wayfarers_hood.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Wayfarer's Hood, one complete soft weathered tan leather hood, shadowed empty face opening, folded brow and simple laced seams, no face, no metal armor.",
+      "status": "original armor painting; reviewed",
+      "sha256": "aebabdd8b56836531996c28e164b434f7f562ff176c2d8a9dc2488f432042f29",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wayfarers_hood.webp",
+        "sha256": "8d3d963b84330d3ae358592decb000adb2878cba7902643369c3b9011c807321",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sturdy_belt",
+      "file": "docs/design/whetstorm-art/items/sturdy_belt.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Sturdy Traveler's Belt, one complete coiled thick saddle-brown leather belt with broad simple brass buckle, visible punched holes and stitched edge, no wearer.",
+      "status": "original armor painting; reviewed",
+      "sha256": "24883ba2fe3220bc83a4e50b6c03fe3667752391cc807668690c1d5f8ba7b766",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sturdy_belt.webp",
+        "sha256": "8dbaf9f2ff6ab43fa5cd0a967aec0c92708cd8197492d54aaf4288c46a133ab1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

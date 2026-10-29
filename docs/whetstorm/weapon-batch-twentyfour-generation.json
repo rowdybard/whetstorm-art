@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "valeborn_spellblade",
+      "file": "docs/design/whetstorm-art/items/valeborn_spellblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051",
+          "role": "style only"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally with visible margin, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Valeborn Spellblade, a complete elegant one-handed silver steel sword with a small restrained blue magical gem in its guard and dark leather grip, rare mage's practical weapon.",
+      "status": "original weapon painting; reviewed at 128, 64, 48, and 32 pixels",
+      "sha256": "c36cea58ad5a22daa82573060c6dc7b7a5daeb13c1197299388a0787eaa32cc3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/valeborn_spellblade.webp",
+        "sha256": "40ab346826bc7cb75d3074d5c06578461b5717bcd5871996d47750a6e3f8e56d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-29f25814-7119-4d8f-ac74-f1ccbbd2f817.png"
+    },
+    {
+      "itemId": "crossroads_saber",
+      "file": "docs/design/whetstorm-art/items/crossroads_saber.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051",
+          "role": "style only"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally with visible margin, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Crossroads Saber, a complete practical one-handed gently curved steel saber with simple brass guard and brown leather grip, an uncommon traveling caravan weapon.",
+      "status": "original weapon painting; reviewed at 128, 64, 48, and 32 pixels",
+      "sha256": "4183313389700ca9568a05794b1928a12194de4246f312dc8328eeb8e5be88a4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/crossroads_saber.webp",
+        "sha256": "19c5927f890682ff5fb8c87c51a9009f10944f1bc3d3c377318ead6e7b18878a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-02db213f-ca9f-40e6-b9bb-a3fe4480b909.png"
+    },
+    {
+      "itemId": "duskforged_warblade",
+      "file": "docs/design/whetstorm-art/items/duskforged_warblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051",
+          "role": "style only"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally with visible margin, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Duskforged Warblade, a complete heavy one-handed dark steel sword with broad blade, restrained dusk-purple metal reflections and sturdy leather grip, mastercrafted epic forge weapon.",
+      "status": "original weapon painting; reviewed at 128, 64, 48, and 32 pixels",
+      "sha256": "81d2ff00e99bbed444c4d12e72efead76fb40f23fe14d30928abb9ef6cf76e53",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/duskforged_warblade.webp",
+        "sha256": "cbd403d2f7804aea7cba794d8e0fd88482f4027e209b5e8658e061bd4583a758",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-9bf5b20d-f3c5-455c-ae72-22d35c10ff0f.png"
+    },
+    {
+      "itemId": "ridgebreaker",
+      "file": "docs/design/whetstorm-art/items/ridgebreaker.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051",
+          "role": "style only"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally with visible margin, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Ridgebreaker, a complete powerful two-handed war maul with a large angular dark forged steel striking head, long wrapped grip and restrained dusk-purple accents, mastercrafted epic weapon.",
+      "status": "original weapon painting; reviewed at 128, 64, 48, and 32 pixels",
+      "sha256": "2bb8e5871c4bc33f94c4685d66a1017306117f5d83ae19cb46122283b749d991",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ridgebreaker.webp",
+        "sha256": "3c64eeb2558d3bc63cbc4e039882f3cc96713207b71be5028f73e23821bc22b9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-3ca6e747-05b8-4981-aba9-98e55f16b7ea.png"
+    }
+  ]
+}

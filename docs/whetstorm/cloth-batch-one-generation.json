@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "acolytes_circlet",
+      "file": "docs/design/whetstorm-art/items/acolytes_circlet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for acolytes_circlet, an early-game Acolyte's Circlet. A simple slender brass circlet with a small oval blue stone and a modest fabric brow band, no ornate crown. Isolated whole object centered on dark slate painted background. Square hand-painted fantasy inventory icon, bold silhouette, vibrant restrained colors, warm light, readable at 32 pixels. No person, stand, text, border, logo, watermark or copied game designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "fcb6e6f0141e9d9ae286ba0b5f16c54b83bbe186a18037ae9ee20c250bdc43da",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/acolytes_circlet.webp",
+        "sha256": "aa0fed8367ac49b097e2760210a6427489c8403799d44d53cd895fe9e080cc60",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-6cdbf22b-ee4b-4582-9ff1-ba732304fac6.png"
+    },
+    {
+      "itemId": "embroidered_mantle",
+      "file": "docs/design/whetstorm-art/items/embroidered_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for embroidered_mantle, an early-game Embroidered Mantle. One complete empty cloth shoulder mantle, a broad draped dusty violet fabric collar with simple cream stitched edging and a small center clasp. Isolated centered on a dark slate painted background. Square hand-painted fantasy inventory icon, bold silhouette, vibrant restrained colors, warm light, readable at 32 pixels. No person, stand, text, border, logo, watermark or copied game designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "42badc3b517e3349438969b0df498157d4fe2a9d733074d3e2235b75b038ac6e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/embroidered_mantle.webp",
+        "sha256": "3c2a26418b8590e0dff277daeafb8b760cd35672029af65e9906ab55626a0e6a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-5e992757-a0f8-4cf2-a960-2d1e9ba25543.png"
+    },
+    {
+      "itemId": "silk_sash",
+      "file": "docs/design/whetstorm-art/items/silk_sash.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for silk_sash, an early-game Woven Silk Sash. One complete folded soft teal silk sash tied in a prominent knot, two short hanging tails, a subtle pale woven edge. Isolated centered on dark slate painted background. Square hand-painted fantasy inventory icon, bold silhouette, vibrant restrained colors, warm light, readable at 32 pixels. No person, stand, text, border, logo, watermark or copied game designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "2e125e231027cdd4c5de031c01ec99315a4e6aa77f504021ff4d9c0491a50254",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silk_sash.webp",
+        "sha256": "08cc49e5316ae1361febf4c7267aa210e92ab36ab8423dcf01d7d7b9f7b9dc88",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-d3da5bbe-c16f-4981-ba2d-0ec54f3a1258.png"
+    },
+    {
+      "itemId": "roughspun_gloves",
+      "file": "docs/design/whetstorm-art/items/roughspun_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm item painting for roughspun_gloves, early-game Roughspun Gloves. A single matching pair of simple ochre brown woven cloth gloves with five distinct fingers and plain rolled cuffs, arranged together without overlapping silhouettes. Isolated centered on dark slate painted background. Square hand-painted fantasy inventory icon, bold silhouette, vibrant restrained colors, warm light, readable at 32 pixels. No person, stand, text, border, logo, watermark or copied game designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "114be5b575d5593f46fa29b569074ec2e2320ccf52f0c8f2c4df98047d0ed5a5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/roughspun_gloves.webp",
+        "sha256": "879ce507ca10d9f6221cccf35d620d6b7eded01c5ab2ae09e088963b2913de5b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-40a2dda8-40fa-4a17-bac6-2117d1515906.png"
+    }
+  ]
+}

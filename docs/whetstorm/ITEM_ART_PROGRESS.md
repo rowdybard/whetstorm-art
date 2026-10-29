@@ -64,6 +64,19 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Twenty-sixth checkpoint: four weapons, four cloth armor pieces, four leather
+armor pieces, four foods, four crafting materials and four quest objects add
+24 unique paintings. This effort has created 252 paintings for 252 IDs without
+deliberate reuse. Of 1,626 catalog IDs, 269 have direct individual paintings
+and 1,357 do not. Two weapons are level-25 epic crafts. An extra generated
+ironbark candidate duplicated an already-painted ID and was not integrated or
+counted. Records are `weapon-batch-twentyfour-generation.json`,
+`cloth-batch-one-generation.json`, `leather-batch-original-generation.json`,
+`food-original-batch-generation.json`, `material-orewood-batch-generation.json`
+and `quest-batch-highwatch-generation.json`. Inventory-size reviews and focused
+image and routing tests passed. Browser, full gate and shipping-tree clearance
+remain open.
+
 Twenty-fifth checkpoint: four weapons, four consumables, four crafting
 materials and four jewelry paintings add 16 unique paintings. This effort has
 created 228 paintings for 228 IDs without deliberate reuse. Of 1,626 catalog

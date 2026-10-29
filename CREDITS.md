@@ -716,3 +716,11 @@ Whetstorm art as a style reference. Their prompts, masters and hashes are in
 `docs/whetstorm/consumable-batch-generation.json`,
 `docs/whetstorm/early-material-fifteen-generation.json`, and
 `docs/whetstorm/jewelry-batch-generation.json`.
+
+Twenty-four weapon, cloth, leather, food, material and quest paintings are
+recorded in `docs/whetstorm/weapon-batch-twentyfour-generation.json`,
+`docs/whetstorm/cloth-batch-one-generation.json`,
+`docs/whetstorm/leather-batch-original-generation.json`,
+`docs/whetstorm/food-original-batch-generation.json`,
+`docs/whetstorm/material-orewood-batch-generation.json`, and
+`docs/whetstorm/quest-batch-highwatch-generation.json`.
