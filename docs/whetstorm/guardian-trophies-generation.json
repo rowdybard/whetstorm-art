@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "itemId": "guardian_core",
+      "file": "docs/design/whetstorm-art/items/guardian_core.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Guardian Core: a compact ancient stone-and-bronze mechanical core with a luminous amber crystal inside a fractured spherical housing, a recovered guardian trophy. Original hand-painted fantasy, tactile stone and metal, warm upper-left light, centered complete silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original trophy painting; reviewed",
+      "sha256": "cc44d963bf753e1c8c5730e5609c60e7fb619fd79874cc4b5b14c117704c81da",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/guardian_core.webp",
+        "sha256": "555fc92c9902e883d6ed85e8de3f5383d7902e9b063384655579e99572d5ec8d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gleamstag_charm",
+      "file": "docs/design/whetstorm-art/items/gleamstag_charm.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Gleamstag Charm: a small carved ivory stag antler charm with a luminous pale gold gemstone, bound by dark leather cord, a woodland trophy. Original hand-painted fantasy, tactile bone and leather, warm upper-left light, centered complete silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original trophy painting; reviewed",
+      "sha256": "5021e418a7cc091b906db756906d9fc17e9c6f630ae8a0ee93aa0313676193bd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gleamstag_charm.webp",
+        "sha256": "7ecee262ddd870c09a86f28a72880b34b145ed3a6bbe0acf561f8b243e2865c3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "cracked_wyrm_scale",
+      "file": "docs/design/whetstorm-art/items/cracked_wyrm_scale.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Cracked Wyrm Scale: a single large detached dark red dragon scale with a clear crack through its surface, subtle copper highlights and rugged keratin texture, no animal. Original hand-painted fantasy, tactile organic material, warm upper-left light, centered complete silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original trophy painting; reviewed",
+      "sha256": "94e52b06d98ada5e28e1ec4ec300037681dbdee9d19410b9be7aa1600e1ca47a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cracked_wyrm_scale.webp",
+        "sha256": "63111745243c5b8bc86be81c93e05d6823ff30f6d8c100d017ef0b0e029af661",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

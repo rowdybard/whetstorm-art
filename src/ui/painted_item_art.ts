@@ -101,12 +101,14 @@ import { galecallArmorItemImageUrl } from './galecall_armor_item_art';
 import { gatheringToolsItemImageUrl } from './gathering_tools_item_art';
 import { gravecourtFangItemImageUrl } from './gravecourt_fang_item_art';
 import { gravewyrmWeaponItemImageUrl } from './gravewyrm_weapon_item_art';
+import { guardianTrophiesItemImageUrl } from './guardian_trophies_item_art';
 import { herbPlantNextItemImageUrl } from './herb_plant_next_item_art';
 import { heroicLeatherOriginalItemImageUrl } from './heroic_leather_original_item_art';
 import { heroicMailOriginalItemImageUrl } from './heroic_mail_original_item_art';
 import { highpineArgumentItemImageUrl } from './highpine_argument_item_art';
 import { highwatchWeaponItemImageUrl } from './highwatch_weapon_item_art';
 import { hoardJewelryItemImageUrl } from './hoard_jewelry_item_art';
+import { inscriptionBooksItemImageUrl } from './inscription_books_item_art';
 import { jewelryAbyssRingsItemImageUrl } from './jewelry_abyss_rings_item_art';
 import { jewelryBatchApexItemImageUrl } from './jewelry_batch_apex_item_art';
 import { jewelryBatchItemImageUrl } from './jewelry_batch_item_art';
@@ -158,6 +160,7 @@ import { mistLunarItemImageUrl } from './mist_lunar_item_art';
 import { mournweaveArmorItemImageUrl } from './mournweave_armor_item_art';
 import { oathpyreArmorItemImageUrl } from './oathpyre_armor_item_art';
 import { osmiumGlyphsteelItemImageUrl } from './osmium_glyphsteel_item_art';
+import { packlordArmorItemImageUrl } from './packlord_armor_item_art';
 import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
 import { potionAlchemyNextItemImageUrl } from './potion_alchemy_next_item_art';
 import { potionLaterItemImageUrl } from './potion_later_item_art';
@@ -203,6 +206,7 @@ import { toolBatchItemImageUrl } from './tool_batch_item_art';
 import { toolBatchThreeItemImageUrl } from './tool_batch_three_item_art';
 import { utilitySuppliesItemImageUrl } from './utility_supplies_item_art';
 import { vaelLeatherOriginalItemImageUrl } from './vael_leather_original_item_art';
+import { vanguardBladeItemImageUrl } from './vanguard_blade_item_art';
 import { velkharQuestWeaponItemImageUrl } from './velkhar_quest_weapon_item_art';
 import { vendorChestItemImageUrl } from './vendor_chest_item_art';
 import { weaponBatchEightItemImageUrl } from './weapon_batch_eight_item_art';
@@ -228,6 +232,10 @@ import { zealfireArmorItemImageUrl } from './zealfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    guardianTrophiesItemImageUrl(id) ??
+    inscriptionBooksItemImageUrl(id) ??
+    packlordArmorItemImageUrl(id) ??
+    vanguardBladeItemImageUrl(id) ??
     professionStationsItemImageUrl(id) ??
     fineProduceStockItemImageUrl(id) ??
     razorEmberglassItemImageUrl(id) ??

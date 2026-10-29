@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "silverleaf_primer",
+      "file": "docs/design/whetstorm-art/items/silverleaf_primer.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one closed modest leather-bound Sheenleaf Primer book with a muted green cover, silver corner fittings and a single silver leaf ornament. Three-quarter view on a deep slate painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "ead83e958fcb1707056394fe6a649722b4c85f91cff43ea21efa866092dde224",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silverleaf_primer.webp",
+        "sha256": "be899af2859e2fbe23554db9822f188843a5bf3464bfb63e62bbf2655b4a931c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "goldleaf_folio",
+      "file": "docs/design/whetstorm-art/items/goldleaf_folio.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one closed leather-bound Goldleaf Folio book with a deep brown cover, gold corner fittings and an embossed golden leaf ornament. Three-quarter view on a dark warm brown painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "76ab808790a9d8cd11abd7bd74c089b3f0fb1e2f187a6566810f809ed23d0f7f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/goldleaf_folio.webp",
+        "sha256": "2bf2ddd33f4a7dd553802e60529c02126c23921a8de6886fbd7326bcff27fb57",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sunpetal_grimoire",
+      "file": "docs/design/whetstorm-art/items/sunpetal_grimoire.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one closed ornate Sunpetal Grimoire book with a deep burgundy cover, gold corner fittings and an embossed golden flower ornament. Three-quarter view on a dark muted burgundy painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "b90d6124109a82221b8b13629fefecd471c27ed62e1080afd7a85c8cee88691a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunpetal_grimoire.webp",
+        "sha256": "8f35b05d969c2a38f5d4b6cac46d59957cb4a6c38ed689fec6a501ab4a21953d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "packlord_emberhide_helmet",
+      "file": "docs/design/whetstorm-art/items/packlord_emberhide_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Packlord's Cowl: one empty dark brown leather hood with layered ember-russet hide, pale fur edging and restrained stitched seams. No face, mannequin or body. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Packlord armor painting; reviewed",
+      "sha256": "0ac72043d2dfcfe3a4e99ad72d15fd310b6081c5504a6202f7f2f7016c5381db",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/packlord_emberhide_helmet.webp",
+        "sha256": "4cec3141a68d37df73a229a67d50b999ff6b15ac27d4bffcca992158191fccc4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "packlord_emberhide_shoulder",
+      "file": "docs/design/whetstorm-art/items/packlord_emberhide_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Packlord's Spaulders: a compact symmetric pair of empty dark brown leather shoulder guards with layered ember-russet hide, pale fur edging and restrained stitched seams. No wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Packlord armor painting; reviewed",
+      "sha256": "84d32999bb15a734b3b72923f0d158680a0ea0d9aad584178afce3d521197137",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/packlord_emberhide_shoulder.webp",
+        "sha256": "4d3f831780c5f2b92fe6d18f21b99ed3483f6c7a7964a77e5410782dd7cdbee7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "packlord_emberhide_chest",
+      "file": "docs/design/whetstorm-art/items/packlord_emberhide_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Packlord's Tunic: one empty front-facing dark brown leather tunic with layered ember-russet hide, pale fur edging and restrained stitched seams. No wearer, head, hands or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Packlord armor painting; reviewed",
+      "sha256": "6ee19d9994931196870c728dc1b9a5aa1a36aaad439c445ae82a0b06bddbc1f2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/packlord_emberhide_chest.webp",
+        "sha256": "92a30a19d7ead5d2acb5cf0f0eda0e0a79ab991e34fdbfebb56aee9107eadf69",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "packlord_emberhide_gloves",
+      "file": "docs/design/whetstorm-art/items/packlord_emberhide_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Packlord's Grips: a compact natural pair of empty dark brown leather gloves with layered ember-russet hide, pale fur cuff edging and restrained stitched seams. No wearer. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Packlord armor painting; reviewed",
+      "sha256": "0ab9c3bfea7ace438af7b5b739aca04b3ee8c0a7bf1367763950083e0e9328e8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/packlord_emberhide_gloves.webp",
+        "sha256": "0426712f2b7d2a4aa0eacb0b6da655fbf95d1316c307fcd715555cef09823b90",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "packlord_emberhide_legs",
+      "file": "docs/design/whetstorm-art/items/packlord_emberhide_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Packlord's Breeches: one complete empty front-facing pair of dark brown leather trousers ending at open ankle cuffs, with layered ember-russet hide, pale fur edging and restrained stitched seams. Legs clearly separated, no footwear, boots, wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Packlord armor painting; reviewed",
+      "sha256": "02b326a14c3981840dd9443d982f2bfa15f3df5198eb9b0adf84ac8db45fc582",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/packlord_emberhide_legs.webp",
+        "sha256": "7ee0c7f71ae26ee56064a85cd484d93ea06a91c6bb1c2aec8fe29429525dfda1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

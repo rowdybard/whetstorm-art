@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_verdict_greatsword",
+      "file": "docs/design/whetstorm-art/items/vanguard_verdict_greatsword.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Vanguard's Verdict, complete two-handed military greatsword with broad steel blade, angular dark bronze crossguard, deep red long leather grip and restrained geometric fittings. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "90bd120e5ab72b6b534b3f11d18a546ae23781d33edd4e5a3db64596ec2347b7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_verdict_greatsword.webp",
+        "sha256": "4244c99afc120340013344a0becbd6ab75c7a4730c5b75162d45b3f4c1df04de",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-254b3ca0-8b75-4815-9855-1eb55cabf029.png"
+    },
+    {
+      "itemId": "vanguard_oath_blade",
+      "file": "docs/design/whetstorm-art/items/vanguard_oath_blade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Vanguard's Oath, complete one-handed military sword with a sturdy tapered steel blade, compact swept bronze crossguard, deep red leather grip and restrained geometric fittings. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "05503492f2f13bd4befb9cc0a66dd028818e76c9b9705d25089e79ff32b4493e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_oath_blade.webp",
+        "sha256": "8b03470ed4fe77692b5c886037caace035542841ff303c99792c64177723ac28",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-1d0d99cc-0d80-4478-8804-b911b84fa10e.png"
+    }
+  ]
+}
