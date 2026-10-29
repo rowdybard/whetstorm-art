@@ -1,3 +1,4 @@
+import { alchemyBottlesItemImageUrl } from './alchemy_bottles_item_art';
 import { armorBatchEightItemImageUrl } from './armor_batch_eight_item_art';
 import { armorBatchElevenItemImageUrl } from './armor_batch_eleven_item_art';
 import { armorBatchFifteenItemImageUrl } from './armor_batch_fifteen_item_art';
@@ -42,6 +43,7 @@ import { earlyMaterialThirteenItemImageUrl } from './early_material_thirteen_ite
 import { earlyMaterialTwelveItemImageUrl } from './early_material_twelve_item_art';
 import { earlyQuestItemImageUrl } from './early_quest_item_art';
 import { earlyQuestMaterialItemImageUrl } from './early_quest_material_item_art';
+import { farmHighlandMaterialItemImageUrl } from './farm_highland_material_item_art';
 import { farmMaterialsOriginalItemImageUrl } from './farm_materials_original_item_art';
 import { foodConjuredLaterItemImageUrl } from './food_conjured_later_item_art';
 import { foodCookingLaterItemImageUrl } from './food_cooking_later_item_art';
@@ -62,6 +64,7 @@ import { warfareJewelryItemImageUrl } from './jewelry_batch_warfare_item_art';
 import { jewelryChampionsItemImageUrl } from './jewelry_champions_item_art';
 import { jewelryFactionCraftItemImageUrl } from './jewelry_faction_craft_item_art';
 import { jewelryForgeItemImageUrl } from './jewelry_forge_item_art';
+import { jewelryHeroicQuartermasterItemImageUrl } from './jewelry_heroic_quartermaster_item_art';
 import { leatherBatchCraftedItemImageUrl } from './leather_batch_crafted_item_art';
 import { leatherBatchOriginalItemImageUrl } from './leather_batch_original_item_art';
 import { leatherDelveNextItemImageUrl } from './leather_delve_next_item_art';
@@ -72,6 +75,7 @@ import { leatherWyrmOriginalItemImageUrl } from './leather_wyrm_original_item_ar
 import { mailBatchGraveItemImageUrl } from './mail_batch_grave_item_art';
 import { mailBonewardItemImageUrl } from './mail_boneward_item_art';
 import { mailDelveOriginalItemImageUrl } from './mail_delve_original_item_art';
+import { mailDungeonOriginalItemImageUrl } from './mail_dungeon_original_item_art';
 import { mailHighwatchItemImageUrl } from './mail_highwatch_item_art';
 import { mailNextItemImageUrl } from './mail_next_item_art';
 import { mailOsmiumItemImageUrl } from './mail_osmium_item_art';
@@ -100,6 +104,7 @@ import { questThornpeakItemImageUrl } from './quest_thornpeak_item_art';
 import { questTreasureMapItemImageUrl } from './quest_treasure_map_item_art';
 import { realmQuestDropItemImageUrl } from './realm_quest_drop_art';
 import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
+import { shadowpulseItemImageUrl } from './shadowpulse_item_art';
 import { starterItemImageUrl } from './starter_item_art';
 import { toolBatchFiveItemImageUrl } from './tool_batch_five_item_art';
 import { toolBatchFourItemImageUrl } from './tool_batch_four_item_art';
@@ -124,6 +129,11 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    alchemyBottlesItemImageUrl(id) ??
+    farmHighlandMaterialItemImageUrl(id) ??
+    jewelryHeroicQuartermasterItemImageUrl(id) ??
+    mailDungeonOriginalItemImageUrl(id) ??
+    shadowpulseItemImageUrl(id) ??
     bagsFishItemImageUrl(id) ??
     clothBatchSixItemImageUrl(id) ??
     leatherLitanyOriginalItemImageUrl(id) ??

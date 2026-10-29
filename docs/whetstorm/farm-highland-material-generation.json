@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/highland_barley_seed.png",
+      "itemId": "highland_barley_seed",
+      "subject": "a small open leather seed pouch with a few distinct golden barley grains and short barley awn, centered whole",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for highland_barley_seed: a small open leather seed pouch with a few distinct golden barley grains and short barley awn, centered whole. Square dark slate-blue painted background, hand-painted stylized fantasy, broad clear silhouette, warm upper-left light, legible at 32 pixels. No frame, lettering, logo, watermark, people, or copied game designs.",
+      "sha256": "7f56195d86c1d590823ddd576568ae432139de1330d6898b58bdfd47781b20c2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/highland_barley_seed.webp",
+        "sha256": "a72014bdb8898764109731ad759997375a804942d4c8a8e220bf7791f2887535",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/fine_highland_barley.png",
+      "itemId": "fine_highland_barley",
+      "subject": "a compact tied sheaf of ripe golden barley with broad drooping heads and long awns, centered whole",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for fine_highland_barley: a compact tied sheaf of ripe golden barley with broad drooping heads and long awns, centered whole. Square dark slate-blue painted background, hand-painted stylized fantasy, broad clear silhouette, warm upper-left light, legible at 32 pixels. No frame, lettering, logo, watermark, people, or copied game designs.",
+      "sha256": "bdc5d9ae4fe2362886e8e4077da097040bdcabbbd389ff08f537a8cc1e16c0d2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_highland_barley.webp",
+        "sha256": "f115155665a716b627237b6937c56f5c4bd7bc4e0c09fc9dcb868dfdbd929a57",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/frost_gourd_seed.png",
+      "itemId": "frost_gourd_seed",
+      "subject": "a small open cloth seed pouch with several large pale ivory flat gourd seeds, centered whole",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for frost_gourd_seed: a small open cloth seed pouch with several large pale ivory flat gourd seeds, centered whole. Square dark slate-blue painted background, hand-painted stylized fantasy, broad clear silhouette, warm upper-left light, legible at 32 pixels. No frame, lettering, logo, watermark, people, or copied game designs.",
+      "sha256": "d7d52c6ef534985605664d6d5cb75b92b76667dfb9f57d987405cfaf8227b7cf",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/frost_gourd_seed.webp",
+        "sha256": "ea0c2bd7e04adcf451aac3086e6d62437d0958357fb423e138cad407645692ce",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/fine_frost_gourd.png",
+      "itemId": "fine_frost_gourd",
+      "subject": "a single whole rounded pale blue-green winter gourd with chunky ribbing, short brown stem and a light dusting of frost, centered whole",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for fine_frost_gourd: a single whole rounded pale blue-green winter gourd with chunky ribbing, short brown stem and a light dusting of frost, centered whole. Square dark slate-blue painted background, hand-painted stylized fantasy, broad clear silhouette, warm upper-left light, legible at 32 pixels. No frame, lettering, logo, watermark, people, or copied game designs.",
+      "sha256": "df30b61f2382ac5e8f65a82ca9fc25349bf2327ecfb78ef99941969a558ea647",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_frost_gourd.webp",
+        "sha256": "e583b2228945f3eea296d08a34c550c3f38cbd8a5574ee0d317281eef51d299a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    }
+  ]
+}

@@ -64,6 +64,22 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Thirty-seventh checkpoint: four alchemy items, four farming materials, four
+heroic jewelry items, four dungeon mail items and two heroic cloth items add
+18 unique paintings. This effort has created 493 paintings for 493 item IDs
+without deliberate reuse. Of 1,626 catalog IDs, 510 have direct individual
+paintings and 1,116 do not; that remainder includes retired compatibility IDs
+and variants, not only obtainable items. Skullsmasher's Warbelt is depicted as
+its name suggests; its live catalog slot is chest. Records are
+`alchemy-bottles-generation.json`, `farm-highland-material-generation.json`,
+`jewelry-heroic-quartermaster-generation.json`, `mail-dungeon-original-generation.json`
+and `armor-batch-shadowpulse-generation.json`. A separate original well-fed
+aura painting is routed through the art branch; `well-fed-aura-generation.json`
+records its provenance. The full game's restricted aura file still requires
+physical removal and build verification. Inventory-size reviews and focused
+image and routing tests passed. Browser, full gate and shipping-tree clearance
+remain open.
+
 Thirty-sixth checkpoint: four bags and fishing catches, four cloth pieces,
 four leather pieces, four provisioning materials and four alchemy items add
 20 unique paintings. This effort has created 475 paintings for 475 item IDs

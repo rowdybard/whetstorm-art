@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "well_fed",
+      "file": "docs/design/whetstorm-art/auras/well_fed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original well-fed status painting: a single hearty rustic bowl of golden stew with one simple wooden spoon and a softly rising curl of steam, centered and filling the frame. Warm appetizing amber light, strong clean silhouette, hand-painted stylized fantasy, dark slate background, soft painterly light from upper left, warm sandstone and worn wood. Edge-to-edge painting, no border or frame, no letters, text, logo, or watermark. Original design, do not copy or imitate any existing game or artist.",
+      "status": "Original aura painting; awaiting integration",
+      "sha256": "947abca1b0bf7da98784c41c04c439df23f142e841a2d3f1fd6485a4b3c17956",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/well_fed.webp",
+        "sha256": "f218069c26f1984afcaecd86daa18dd33293020365c4073fa2a81bec32987d10",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

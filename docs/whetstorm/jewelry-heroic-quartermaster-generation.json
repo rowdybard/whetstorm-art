@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "zyzzs_deathless_signet",
+      "file": "docs/design/whetstorm-art/items/zyzzs_deathless_signet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm inventory item painting: Zyzz's Deathless Signet, one complete substantial dark silver finger ring with an oval deep violet stone and a simple raised silver setting, centered in three-quarter view. Square dark slate-blue painted background edge to edge. Original stylized hand-painted fantasy, warm upper-left light, bold readable silhouette, restrained detail, legible at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects or copied game designs.",
+      "status": "original jewelry painting; reviewed at 32, 48, and 64 pixels",
+      "sha256": "a6c037cd2d1d6ff617a10b4d46159601f04292e56bfe39e0a44976b0f559ed97",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/zyzzs_deathless_signet.webp",
+        "sha256": "d55237d846b7e9d2910cd8acfd7c2345d22a4f58ff365288c777218a35d0a72d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "architects_cornerstone",
+      "file": "docs/design/whetstorm-art/items/architects_cornerstone.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Paint one complete necklace for Whetstorm inventory: The Architect's Cornerstone. The WHOLE CLOSED short golden chain is visible in a compact oval, including its top edge, with wide dark empty margins on all sides; a large square teal stone pendant hangs at the bottom in a stepped bronze setting. Entire necklace fits within central 70 percent of square canvas. Dark slate-blue background. Hand-painted stylized fantasy, bold simple readable forms, warm light. No text, border, frame, logo, watermark, hands, extra objects or copied designs.",
+      "status": "original jewelry painting; reviewed at 32, 48, and 64 pixels",
+      "sha256": "96536d199c6596b4f386cb782ff13e909dae2963251b217f83645814f29ed783",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/architects_cornerstone.webp",
+        "sha256": "22b249d1c52d6d3c1347bd5bed9ffc98cea41e71d60e27bfdbc30bcbd44e7daa",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "yumis_keepsake_locket",
+      "file": "docs/design/whetstorm-art/items/yumis_keepsake_locket.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Paint one complete necklace for Whetstorm inventory: Yumi's Keepsake Locket, a compact closed silver chain holding one large round warm rose-gold hinged locket embossed with a simple four-petal flower, no lettering. The WHOLE closed chain and pendant are visible within central 75 percent of square canvas with generous dark margins. Square dark slate-blue painted background. Original stylized hand-painted fantasy, warm upper-left light, bold readable silhouette, restrained detail, legible at 32 pixels. No text, border, frame, logo, watermark, hands, extra objects or copied game designs.",
+      "status": "original jewelry painting; reviewed at 32, 48, and 64 pixels",
+      "sha256": "0a866e3b3ca956fc2543e4beafe3d6123803602865db6e1327075b0fbf2be785",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/yumis_keepsake_locket.webp",
+        "sha256": "8bfb07672e87e6ab49a7db5df23b97bc3eedd369e1a33a7bb1c822c0aba97659",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "zense_meridian",
+      "file": "docs/design/whetstorm-art/items/zense_meridian.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm inventory painting: Zense Meridian, one complete simple polished golden finger ring with a large circular blue-white moonstone, crossed by one delicate curved silver meridian line on its face, in three-quarter view centered with wide margins. Square dark slate-blue painted background edge to edge. Original stylized hand-painted fantasy, warm upper-left light, bold readable silhouette, restrained detail, legible at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects or copied game designs.",
+      "status": "original jewelry painting; reviewed at 32, 48, and 64 pixels",
+      "sha256": "a386dbae599385eb3bb70be704da4f2e84cf95d87faf4310c87f0913c17b7c90",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/zense_meridian.webp",
+        "sha256": "948eb8da17379fdeaeb6edc0b043bdd5176462a2d62195ff0d9d91eab11c29a6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

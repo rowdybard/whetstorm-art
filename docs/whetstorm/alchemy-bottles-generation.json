@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "goldleaf_mana_draught",
+      "file": "docs/design/whetstorm-art/items/goldleaf_mana_draught.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy inventory item painting. Paint a single Goldleaf Mana Draught: a squat, broad-shouldered blue glass bottle containing vivid sapphire liquid, cork stoppered, with a single small golden leaf tied at its neck. Whole object centered, dark painted backdrop, bold readable silhouette, luminous hand-painted brushwork, restrained detail. No text, lettering, frame, logo, watermark or other objects.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "76da1a5ab76f97c60201897fb08705bb1a229f19912325b6459a23bf0dd66409",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/goldleaf_mana_draught.webp",
+        "sha256": "bef922c9f3465cef99d409d666db616d6788aa3a1752a0e8ea3aa25a2a6cf8d2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128 (fit fill); WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "venomfire_elixir",
+      "file": "docs/design/whetstorm-art/items/venomfire_elixir.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy inventory item painting. Paint a single Vipersear Elixir: a slender angular glass vial with glowing green and amber liquid, cork stopper and a subtle coiled serpent-shaped metal collar, distinct silhouette. Whole object centered on dark painted backdrop, lush hand-painted fantasy color, bold silhouette and restrained detail. No text, letters, frame, logo, watermark or other objects.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "95a0f8a9807ff7512b5cd6ce4f0f248762045b4c0987bb027a88b6a70ee14e24",
+      "pixels": [
+        1145,
+        1374
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/venomfire_elixir.webp",
+        "sha256": "7c361a379619d3518b1d6f9aa821eeb70450e260fa50a7937576571b63942fb9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128 (fit fill); WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sunpetal_healing_draught",
+      "file": "docs/design/whetstorm-art/items/sunpetal_healing_draught.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy inventory item painting. Paint a single Sunpetal Healing Draught: a rounded red glass flask with warm ruby liquid, cork stopper, and a small sun-yellow petal tied to its neck. Whole object centered on dark painted backdrop, luminous stylized hand-painted fantasy, bold readable silhouette and restrained detail. No text, letters, frame, logo, watermark or other objects.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "64e9fd3c94dffda408c4ce8d3a5158d9a3e07e5d842b383d9a816c993194e562",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunpetal_healing_draught.webp",
+        "sha256": "63cd1487b8fc7255fbfec1a6ee9749ed6cb6d62be82103e606b01ca0ee03490a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128 (fit fill); WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sunpetal_mana_draught",
+      "file": "docs/design/whetstorm-art/items/sunpetal_mana_draught.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy inventory item painting. Paint a single Sunpetal Mana Draught: a tall tapered violet-blue glass bottle with bright azure liquid, cork stopper, and a small sun-yellow petal tied to its neck. Whole object centered on dark painted backdrop, luminous stylized hand-painted fantasy, bold readable silhouette and restrained detail. No text, letters, frame, logo, watermark or other objects.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "4595ca2c489bd644193b5bd2d028880d6f3e3951be4610bed1beb00eb9ceb155",
+      "pixels": [
+        1145,
+        1374
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunpetal_mana_draught.webp",
+        "sha256": "4d884311bb126bbd75f7dc8eb253d82edc37811b6e0234f76a3df096cd4a2591",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128 (fit fill); WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

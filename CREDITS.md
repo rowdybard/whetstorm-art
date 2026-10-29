@@ -802,3 +802,12 @@ recorded in `docs/whetstorm/bags-fish-batch-generation.json`,
 `docs/whetstorm/leather-litany-original-generation.json`,
 `docs/whetstorm/material-provisioning-generation.json`, and
 `docs/whetstorm/potion-alchemy-next-generation.json`.
+
+Eighteen original alchemy, farming, heroic jewelry, mail and cloth paintings
+and one well-fed aura painting are recorded in
+`docs/whetstorm/alchemy-bottles-generation.json`,
+`docs/whetstorm/farm-highland-material-generation.json`,
+`docs/whetstorm/jewelry-heroic-quartermaster-generation.json`,
+`docs/whetstorm/mail-dungeon-original-generation.json`,
+`docs/whetstorm/armor-batch-shadowpulse-generation.json`, and
+`docs/whetstorm/well-fed-aura-generation.json`.

@@ -1,0 +1,63 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "shadowpulse_handwraps",
+      "file": "docs/design/whetstorm-art/items/shadowpulse_handwraps.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of Shadowpulse Handwraps, cloth gloves with deep violet woven fabric and pale lavender wrapped cuffs, subtle stitched bands, no leather or metal. Show both complete gloves with clear space around them.",
+      "status": "original armor painting; reviewed",
+      "sha256": "2e5031c4b460c271af6a62dd606ffcf2e9761a9377b62d0a4ee0ef347ae45544",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/shadowpulse_handwraps.webp",
+        "sha256": "88fee570b0ed1bef0b6035dfbf5b57f6b1f00b2ec0adee7d58f7d8257c77e477",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "shadowpulse_slippers",
+      "file": "docs/design/whetstorm-art/items/shadowpulse_slippers.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, feet, photorealism, or copied game designs. Subject: one complete pair of Shadowpulse Slippers, soft cloth footwear in deep plum woven fabric with pale lavender folded cuffs and stitched edging, no leather or metal. Show both complete slippers with clear space around them.",
+      "status": "original armor painting; reviewed",
+      "sha256": "45b440f482b29d8fbb01eb498fe754e739c8edc82b0535cd0afcc2b380e44a6b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/shadowpulse_slippers.webp",
+        "sha256": "4a60212fd0b38ced1c60419e81b7473254e23b092d3921fa5b5dfc17d1a1d78f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

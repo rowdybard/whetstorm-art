@@ -1,0 +1,60 @@
+{
+  "assets": [
+    {
+      "itemId": "sister_nhalia_choir_plate",
+      "file": "docs/design/whetstorm-art/items/sister_nhalia_choir_plate.png",
+      "sha256": "f1b2fb150d7ba6eb474660b7009361afcf05aad6ff0c0349af5b87e6b4e1a588",
+      "prompt": "Use case: stylized-concept. Square original hand-painted fantasy inventory item icon, whole object centered on dark painted background, bold clean silhouette readable at 32 pixels, warm forged steel and painterly light, no frame, no words, no letters, no watermark. Original Whetstorm design; do not imitate existing games or artists. Sister Nhalia's Choir-Forged Plate: one ornate steel breastplate, weathered silver-blue with bell-inspired curves and restrained gold accents, clear chest armor silhouette.",
+      "reference_images": [],
+      "generator": "built-in image_gen",
+      "acquisition": "Drowned Litany vendor Brother Halven, 56 marks after heroic clear",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sister_nhalia_choir_plate.webp",
+        "sha256": "33d790977ce3ade29d424f569efe2cf634105685ca3cfb7cbbe95d7da5b23267",
+        "processing": "sharp resize 128x128, WebP quality 85"
+      }
+    },
+    {
+      "itemId": "skullsmasher_warbelt",
+      "file": "docs/design/whetstorm-art/items/skullsmasher_warbelt.png",
+      "sha256": "aa23b97a6793111c01d5cc46968fee96c51da08210ec6aa81956c35a89316811",
+      "prompt": "Use case: stylized-concept. Square original hand-painted fantasy inventory item icon, whole object centered on dark painted background, bold clean silhouette readable at 32 pixels, warm forged steel and painterly light, no frame, no words, no letters, no watermark. Original Whetstorm design; do not imitate existing games or artists. Skullsmasher's Warbelt: one broad heavy reinforced leather warbelt with forged steel plates and a blunt skull-shaped buckle, whole belt displayed open in a loop, clearly a belt, no body.",
+      "reference_images": [],
+      "generator": "built-in image_gen",
+      "acquisition": "Brutok Skullsmasher drop, 30%; named belt despite chest slot",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/skullsmasher_warbelt.webp",
+        "sha256": "113eb90eae4435ab75fa87164feb28a9137339c60ac89a6c2d6e501c45126709",
+        "processing": "sharp resize 128x128, WebP quality 85"
+      }
+    },
+    {
+      "itemId": "emberwing_legguards",
+      "file": "docs/design/whetstorm-art/items/emberwing_legguards.png",
+      "sha256": "2dd12a394d9e90a5d5dd06b88fdc3d99590c875c3c704561710454f58c3ed364",
+      "prompt": "Use case: stylized-concept. Square original hand-painted fantasy inventory item icon, whole object centered on dark painted background, bold clean silhouette readable at 32 pixels, warm forged steel and painterly light, no frame, no words, no letters, no watermark. Original Whetstorm design; do not imitate existing games or artists. Emberwing Legguards: one matching pair of heavy articulated metal legguards, layered ember-red scales and dark iron, faint warm ember accents, entire pair centered.",
+      "reference_images": [],
+      "generator": "built-in image_gen",
+      "acquisition": "Voskar Emberwing drop, 25% chase group",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberwing_legguards.webp",
+        "sha256": "ce86038cb102f83e01a0291c3d95610ef3a6ff940a36335822a35467d617b7f7",
+        "processing": "sharp resize 128x128, WebP quality 85"
+      }
+    },
+    {
+      "itemId": "gravewyrm_scale_hauberk",
+      "file": "docs/design/whetstorm-art/items/gravewyrm_scale_hauberk.png",
+      "sha256": "9d0e917a44c8fd6172c2072f804199fae2fea11f69f05dff57b6decae9fcf1c4",
+      "prompt": "Use case: stylized-concept. Square original hand-painted fantasy inventory item icon, whole object centered on dark painted background, bold clean silhouette readable at 32 pixels, warm forged steel and painterly light, no frame, no words, no letters, no watermark. Original Whetstorm design; do not imitate existing games or artists. Gravewyrm Scale Hauberk: a single short-sleeved armor hauberk of dark overlapping dragon scales with muted bone-colored edge accents, clear tunic-shaped silhouette.",
+      "reference_images": [],
+      "generator": "built-in image_gen",
+      "acquisition": "Warrior reward for quest to defeat Korzul the Gravewyrm",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewyrm_scale_hauberk.webp",
+        "sha256": "f71b03a6b69f5850101203f5c07cef435b43c52402abb839eeedede9152b77bc",
+        "processing": "sharp resize 128x128, WebP quality 85"
+      }
+    }
+  ]
+}
