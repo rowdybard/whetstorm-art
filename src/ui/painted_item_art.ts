@@ -179,6 +179,7 @@ import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
 import { shadowpulseItemImageUrl } from './shadowpulse_item_art';
 import { skullsplitterItemImageUrl } from './skullsplitter_item_art';
 import { slagbreakerArmorItemImageUrl } from './slagbreaker_armor_item_art';
+import { springSpireItemImageUrl } from './spring_spire_item_art';
 import { starterItemImageUrl } from './starter_item_art';
 import { templeQuestWeaponsItemImageUrl } from './temple_quest_weapons_item_art';
 import { thornWeaponItemImageUrl } from './thorn_weapon_item_art';
@@ -187,6 +188,7 @@ import { toolBatchFiveItemImageUrl } from './tool_batch_five_item_art';
 import { toolBatchFourItemImageUrl } from './tool_batch_four_item_art';
 import { toolBatchItemImageUrl } from './tool_batch_item_art';
 import { toolBatchThreeItemImageUrl } from './tool_batch_three_item_art';
+import { utilitySuppliesItemImageUrl } from './utility_supplies_item_art';
 import { vaelLeatherOriginalItemImageUrl } from './vael_leather_original_item_art';
 import { velkharQuestWeaponItemImageUrl } from './velkhar_quest_weapon_item_art';
 import { vendorChestItemImageUrl } from './vendor_chest_item_art';
@@ -212,6 +214,8 @@ import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    utilitySuppliesItemImageUrl(id) ??
+    springSpireItemImageUrl(id) ??
     factionUtilityItemImageUrl(id) ??
     craftedScrollsItemImageUrl(id) ??
     anvilHeartItemImageUrl(id) ??

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "cartographers_ink",
+      "file": "docs/design/whetstorm-art/items/cartographers_ink.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a small practical stoppered glass bottle of deep blue cartographer's ink, with a simple quill resting diagonally beside it, against a dark slate painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "76f69177583c040a833b4972cc7e0c47fa6e7a16ed8f3d962cb3059da2793ba6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cartographers_ink.webp",
+        "sha256": "f8b8704792e3efe7470b8a9c311d3b686d803f0429b7a5d0227d5d69b7cb779e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "lucent_reagent",
+      "file": "docs/design/whetstorm-art/items/lucent_reagent.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a small sealed glass vial of luminous violet and blue enchanting dust, subtle golden motes glowing within, against a dark muted indigo painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "baa128345c75bb244713948c6abd0c1d100a13ac491cb45f3b618be1bd20f4af",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/lucent_reagent.webp",
+        "sha256": "83bc31742c43a2c2e52a2bccae676d00914f996ec9aff903ced041148915fb39",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "deed_of_making",
+      "file": "docs/design/whetstorm-art/items/deed_of_making.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a rolled formal parchment deed bound by an orange-gold ribbon and an embossed plain circular wax seal, against a dark warm charcoal painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "a22e69e176e6bac64094b55246ed46a71bb729e6226668b5966c18be965d6e4a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/deed_of_making.webp",
+        "sha256": "0d7007f52ae90c6dbfbf33a150c531718fd8ecc62506c64fa5e9d7b2696ffed5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

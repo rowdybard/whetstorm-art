@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "elemental_convergence",
+      "runtimeIds": [
+        "elemental_convergence",
+        "convergence_cd",
+        "convergence_mark"
+      ],
+      "file": "docs/design/whetstorm-art/auras/elemental_convergence.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original elemental convergence status: a red-orange flame and a blue frost crystal meeting around a bright white center, balanced opposing elements. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "dba912e47dbf6822fa59246cbe80ce2275a0039915300a2831f70a50253e666e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/elemental_convergence.webp",
+        "sha256": "e6407c526e3c7b1bbe959deebea2202e28a9c2be108501dae76cf28863a5f900",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/elemental_convergence.webp",
+          "public/ui/auras/convergence_cd.webp",
+          "public/ui/auras/convergence_mark.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "shaman_stormcast",
+      "runtimeIds": [
+        "shaman_stormcast",
+        "shaman_stormcast_cheap"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_stormcast.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original stormcast status: a glowing cyan lightning bolt emerging from an open bronze gauntlet, surrounded by a tight blue arc. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "a426d02e34abd53fa1734150b0312aff1ea33d5c5462c9621e3bb76264b28726",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_stormcast.webp",
+        "sha256": "68484f767ed800cf1820e8f1b24ca3b24cb48f77e5a7fd3849af40445d4f2e82",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/shaman_stormcast.webp",
+          "public/ui/auras/shaman_stormcast_cheap.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "shaman_wayfarer_grace",
+      "runtimeIds": [
+        "shaman_wayfarer_grace"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_wayfarer_grace.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original wayfarer grace status: a silver wolf silhouette running through a sweeping pale green wind, a small cyan spark above its path, conveying casting while moving. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "88c4845a2046fd689a33c44fecbd23a39cb537f992e9651e65051f3909376a4a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_wayfarer_grace.webp",
+        "sha256": "b3e70d6d80ce58de346b0b1842a8692cdef47b04364b1a5e7c27839187e9a9f8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/shaman_wayfarer_grace.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

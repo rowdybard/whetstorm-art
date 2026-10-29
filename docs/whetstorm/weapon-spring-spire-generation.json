@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "staff_of_the_last_spring",
+      "file": "docs/design/whetstorm-art/items/staff_of_the_last_spring.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Staff of the Last Spring, complete long two-handed staff of pale living wood topped by a small clear blue water crystal held in budding branches, delicate bronze bindings and subtle green leaves. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "6d617f21c494f772150260c014766eb9fc4030823fd9eabb496434413fdc2c19",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/staff_of_the_last_spring.webp",
+        "sha256": "5c6fa05fac5a21d27a7badc7aa5ab8fea6877763cfba380c84ebdaa624cb29d4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-862d06ce-3a6e-4513-9734-7d3387c078bb.png"
+    },
+    {
+      "itemId": "forgefire_spire",
+      "file": "docs/design/whetstorm-art/items/forgefire_spire.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Forgefire Spire, complete long two-handed dark iron staff topped by an angular bronze cradle holding a small glowing orange ember crystal, mechanical collars and leather wraps. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "6a9a0be08860aef0c5fb096d027677b672273010457d286c62a3bd863640e7d7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgefire_spire.webp",
+        "sha256": "81815d46f1f4b70fa1e8c4a845eeb1c69e39d709d76d5a200797f43059c805ec",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-f81119ec-19d9-4f1d-9247-9b1e2a4f7727.png"
+    }
+  ]
+}
