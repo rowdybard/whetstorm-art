@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "rift_feather_glider",
+      "file": "docs/design/whetstorm-art/items/rift_feather_glider.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Rift Feather Glider: a compact folded glider with dark leather frame, layered blue-violet feathers and small brass hinges, an unmistakable portable glider. Original hand-painted fantasy, tactile materials, warm upper-left light, centered complete silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original utility painting; reviewed",
+      "sha256": "d3d0b8ca7079c62f8371047f283325af216d5231a9cfc5538e988cbe5168f723",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/rift_feather_glider.webp",
+        "sha256": "c6470f31147cd1aed4dd1aa3cf5b156ff748b11d34b1a132ee2831059d5e324b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "clockwork_target_dummy",
+      "file": "docs/design/whetstorm-art/items/clockwork_target_dummy.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Clockwork Target Dummy: a small wooden training dummy mounted on a short stable stand with brass clockwork gear and a circular target plate, no person. Original hand-painted fantasy, tactile wood and metal, warm upper-left light, centered complete silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original utility painting; reviewed",
+      "sha256": "e43e3993a4b79ae09cfa1412d67ccd3d2ef8e09d798a6fddeab8d092253f1b81",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/clockwork_target_dummy.webp",
+        "sha256": "5e363c79c95d5c9074815b9ccb5faaa5a78444ecc0af112a52efa83ca5d86121",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "clockwork_shock_bomb",
+      "file": "docs/design/whetstorm-art/items/clockwork_shock_bomb.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Clockwork Shock Bomb: a compact brass spherical mechanical bomb with a winding key, copper coils and a small blue electrical spark, no flames. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original utility painting; reviewed",
+      "sha256": "6a9372e8305125ca98e904ece0f7ac080c86a4127a2dcef96c89643ad2b2cf0a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/clockwork_shock_bomb.webp",
+        "sha256": "d10fc763a7acb5080a998327a1cbff6499f9eb7be5c8cbfeee218dbe0b921d67",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "allied_hearthstone",
+      "file": "docs/design/whetstorm-art/items/allied_hearthstone.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Allied Hearthstone: an irregular triangular river stone bound with dark leather cord, inset with a small brass house-shaped emblem and glowing amber center. No spirals or circular frame. Original hand-painted fantasy, tactile stone and leather, warm upper-left light, centered complete silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original utility painting; reviewed",
+      "sha256": "dbc7d0f6d9551847c14108bc99e8bbf94701b39d82a8e117f4ad7766fe4643be",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/allied_hearthstone.webp",
+        "sha256": "18816f0d8144d2c8c777ebcf6d91c5ee040e7ca01388d0826b899c8233609561",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

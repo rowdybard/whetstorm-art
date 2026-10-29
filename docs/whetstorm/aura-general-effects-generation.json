@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "set_clearcasting",
+      "runtimeIds": [
+        "set_clearcasting"
+      ],
+      "file": "docs/design/whetstorm-art/auras/set_clearcasting.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original clearcasting resource status: an open silver hand releasing one clear blue spark, a clean pale circular glow conveying a free spell. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "b6274356cd869befe8ebe7e4366401a33f8421029448890611e2ea28c319ac47",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/set_clearcasting.webp",
+        "sha256": "12cc9b2f0e3f424b2f61756e756920c153f7f0727c8714eabe665b148e1e2b69",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/set_clearcasting.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "set_soulblaze",
+      "runtimeIds": [
+        "set_soulblaze"
+      ],
+      "file": "docs/design/whetstorm-art/auras/set_soulblaze.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original soulblaze spell power status: a small bright violet spirit flame rising above a dark silver crystal, with a restrained purple glow. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "7e75b992fe558335de972cee6034202105f0a66797aaa8456223f4656c535388",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/set_soulblaze.webp",
+        "sha256": "7953a6e51697128b5dcd4c0471b9dd6819ed4bc6cce679c94e26bfdb584c26fa",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/set_soulblaze.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "bg_carrier_vulnerability",
+      "runtimeIds": [
+        "bg_carrier_vulnerability"
+      ],
+      "file": "docs/design/whetstorm-art/auras/bg_carrier_vulnerability.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original flag carrier vulnerability status: a plain cream banner behind a cracked red shield, conveying increased danger while carrying a flag. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, emblems, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "427424ddf921f95878ea4636d2bf9f9987e548ef41c1fbae9943c257949e6b30",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/bg_carrier_vulnerability.webp",
+        "sha256": "8b0a53f66b9dd21d2a97e9b21400dde2c63bc412fe746e824c251b62a1d8d4b7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/bg_carrier_vulnerability.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "elixir_buff_sta",
+      "runtimeIds": [
+        "elixir_buff_sta"
+      ],
+      "file": "docs/design/whetstorm-art/auras/elixir_buff_sta.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original stamina elixir status: a squat amber glass potion bottle with a cork and a small glowing red heart-shaped light within, conveying endurance. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "ff8bcb1fb5fe6a9c0fd12fd7c1794320c5a85679cbc73fe27d0f94f92446e5ac",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/elixir_buff_sta.webp",
+        "sha256": "c2201b258c919251c95d4ee23bf6ef72756059e7836490c522894db44cc5f2c2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/elixir_buff_sta.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

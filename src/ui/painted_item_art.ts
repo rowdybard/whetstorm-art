@@ -69,6 +69,7 @@ import { earlyQuestItemImageUrl } from './early_quest_item_art';
 import { earlyQuestMaterialItemImageUrl } from './early_quest_material_item_art';
 import { factionArmorOriginalItemImageUrl } from './faction_armor_original_item_art';
 import { factionBagsItemImageUrl } from './faction_bags_item_art';
+import { factionUtilityItemImageUrl } from './faction_utility_item_art';
 import { farmHighlandMaterialItemImageUrl } from './farm_highland_material_item_art';
 import { farmMaterialsOriginalItemImageUrl } from './farm_materials_original_item_art';
 import { farmProduceFineItemImageUrl } from './farm_produce_fine_item_art';
@@ -211,6 +212,7 @@ import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    factionUtilityItemImageUrl(id) ??
     craftedScrollsItemImageUrl(id) ??
     anvilHeartItemImageUrl(id) ??
     dawnforgedArmorItemImageUrl(id) ??

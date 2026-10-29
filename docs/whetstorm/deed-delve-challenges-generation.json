@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "dlv_clears_50",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a spiral stone staircase descending deep into a cavern, marked by several small golden lanterns along the way, representing many completed delves. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dlv_clears_50.png",
+      "masterSha256": "c85c6e30777d20f20f2f89226fc637ccdaabbb5a157c70fdb619dd614b6059ec",
+      "shipping": "public/ui/whetstorm/deeds/dlv_clears_50.webp",
+      "shippingSha256": "345e0bf65eb80b08a9f4e2d2b4af42b4290d3f358d5ee3e22dd5fbef382deeca",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dlv_tumbler_premium",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing an ornate brass lock opened with a slender lockpick, resting on a sealed stone chest surrounded by a faint blue magical ward, representing a flawless lock challenge. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dlv_tumbler_premium.png",
+      "masterSha256": "0dc2303a2ec40e18fac222747b02430f7f326589ec7d6c8eb44097c53db8374e",
+      "shipping": "public/ui/whetstorm/deeds/dlv_tumbler_premium.webp",
+      "shippingSha256": "961ec4f8539ad9f062ba40861373af8243e5dff6328ff7607b8639342f02d700",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dlv_rite_flawless",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a glowing crystal set on a circular underwater stone altar, surrounded by four floating blue lights in a precise symmetrical pattern, representing a flawless ritual. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dlv_rite_flawless.png",
+      "masterSha256": "7e6f76b45fe64fb0572586abcdfdf115b498e405cc2b84ecb7dce607974bd86c",
+      "shipping": "public/ui/whetstorm/deeds/dlv_rite_flawless.webp",
+      "shippingSha256": "b2d219752260071c897ebf4756624edfcc7ca4c3a45e2152d8e4aea4bdc483e5",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}
