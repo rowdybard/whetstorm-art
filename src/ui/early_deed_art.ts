@@ -1,5 +1,4 @@
-// Original paintings for four early gathering deeds. The integration owner must
-// connect this lookup to both game and guide and remove superseded shipping art.
+// Original paintings for four early gathering deeds, shared by game and guide.
 const EARLY_DEED_ART = new Map<string, string>([
   ['exp_first_ore', '/ui/whetstorm/deeds/exp_first_ore.webp'],
   ['exp_first_timber', '/ui/whetstorm/deeds/exp_first_timber.webp'],

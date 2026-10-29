@@ -8,6 +8,7 @@
 // wiki lists names, Renown, and rewards only, keeping instanced spoilers off the public
 // site (the same bar the dungeons page and the bestiary hold).
 
+import { earlyDeedImageUrl } from '../../ui/early_deed_art';
 import { esc } from '../../ui/esc';
 import { formatNumber, type TranslationKey, t } from '../../ui/i18n';
 import { GUIDE_DEEDS, type GuideDeed } from '../content.generated';
@@ -50,6 +51,7 @@ const CATEGORY_LABEL_KEYS: Record<(typeof CATEGORY_ORDER)[number], TranslationKe
 // then the cosmetic reward (title text, the word Border, or nothing). Names and reward
 // titles are English proper nouns baked from the sim, rendered as raw text through esc().
 function deedRow(d: GuideDeed): string {
+  const crest = earlyDeedImageUrl(d.id) ?? d.crest;
   const renownCell = d.feat
     ? `<span class="guide-deed-feat">${esc(t('guide.deedsPage.featTag'))}</span>`
     : esc(formatNumber(d.renown));
@@ -60,8 +62,8 @@ function deedRow(d: GuideDeed): string {
       : '';
   return `<tr>
         <td class="guide-deed-name"><span class="guide-deed-name-wrap">${
-          d.crest
-            ? `<img class="guide-deed-crest" src="${esc(d.crest)}" alt="" width="28" height="28" loading="lazy" decoding="async" />`
+          crest
+            ? `<img class="guide-deed-crest" src="${esc(crest)}" alt="" width="28" height="28" loading="lazy" decoding="async" />`
             : ''
         }${esc(d.name)}</span></td>
         <td class="guide-deed-renown">${renownCell}</td>

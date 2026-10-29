@@ -1,5 +1,14 @@
 # Item painting checkpoint
 
+Early deed integration follow-up: the four existing first-ore, first-timber,
+first-herb and Vale-first-cast paintings now route through the game crest
+lookup and the guide page. Focused game-routing and source-hash tests passed.
+The shipping WebPs have opaque dark backgrounds; verify locked Reliquary
+states, guide rendering and the full build in the complete checkout. The old
+inherited files have not been physically removed and release clearance remains
+open. The earlier thirty-fourth checkpoint below describes the pre-integration
+state.
+
 Regional glove follow-up: three original paintings bring this effort to 542
 individual item paintings. Of 1,626 catalog IDs, 559 have individual paintings
 and 1,067 do not; the remainder includes retired entries and variants. Prompts

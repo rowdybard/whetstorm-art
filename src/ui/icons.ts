@@ -20,6 +20,7 @@ import {
 import { ABILITIES, ITEMS } from '../sim/data';
 import { crestIconUrl } from './crest_icon_art';
 import { DEED_IMAGE_IDS } from './deed_image_ids';
+import { earlyDeedImageUrl } from './early_deed_art';
 import { professionImageUrl } from './hud/professions/profession_art';
 import { MOB_AURA_IMAGE_IDS } from './mob_aura_icon_art';
 import { paintedItemImageUrl } from './painted_item_art';
@@ -5600,7 +5601,10 @@ export const DEED_ART_PENDING: ReadonlySet<string> = new Set([
 export function deedImageUrl(crestId: string): string | null {
   if (!crestId.startsWith(DEED_CREST_PREFIX)) return null;
   const deedId = crestId.slice(DEED_CREST_PREFIX.length);
-  return DEED_IMAGE_IDS.has(deedId) ? `${DEED_ICON_DIR}/${deedId}.webp` : null;
+  return (
+    earlyDeedImageUrl(deedId) ??
+    (DEED_IMAGE_IDS.has(deedId) ? `${DEED_ICON_DIR}/${deedId}.webp` : null)
+  );
 }
 
 /** True when `id` has a real crest recipe, as opposed to falling through to the
