@@ -1,6 +1,7 @@
 import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
 import { explorationDeedImageUrl } from './exploration_deed_art';
 import { journeyDeedImageUrl } from './journey_deed_art';
+import { peaksDiscoveryDeedImageUrl } from './peaks_discovery_deed_art';
 import { placeDeedImageUrl } from './place_deed_art';
 
 // Original paintings for early deeds, shared by game and guide.
@@ -25,6 +26,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     explorationDeedImageUrl(id) ??
     chronicleGatheringDeedImageUrl(id) ??
     journeyDeedImageUrl(id) ??
-    placeDeedImageUrl(id)
+    placeDeedImageUrl(id) ??
+    peaksDiscoveryDeedImageUrl(id)
   );
 }

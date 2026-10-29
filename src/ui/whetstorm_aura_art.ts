@@ -5,6 +5,7 @@ import { whetstormMobAuraCursesImageUrl } from './whetstorm_mob_aura_curses_art'
 import { whetstormMobAuraDebuffsImageUrl } from './whetstorm_mob_aura_debuffs_art';
 import { whetstormMobAuraDefenseImageUrl } from './whetstorm_mob_aura_defense_art';
 import { whetstormMobAuraDrainsImageUrl } from './whetstorm_mob_aura_drains_art';
+import { whetstormMobAuraEncounterImageUrl } from './whetstorm_mob_aura_encounter_art';
 import { whetstormMobAuraImpairmentsImageUrl } from './whetstorm_mob_aura_impairments_art';
 import { whetstormMobAuraMagicImageUrl } from './whetstorm_mob_aura_magic_art';
 import { whetstormMobAuraStatusImageUrl } from './whetstorm_mob_aura_status_art';
@@ -80,6 +81,7 @@ export function whetstormAuraImageUrl(id: string): string | null {
     whetstormMobAuraImpairmentsImageUrl(id) ??
     whetstormMobAuraMagicImageUrl(id) ??
     whetstormMobAuraAfflictionsImageUrl(id) ??
-    whetstormMobAuraDefenseImageUrl(id)
+    whetstormMobAuraDefenseImageUrl(id) ??
+    whetstormMobAuraEncounterImageUrl(id)
   );
 }

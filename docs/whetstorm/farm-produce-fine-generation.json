@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "evergarden_greens",
+      "file": "docs/design/whetstorm-art/items/evergarden_greens.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Evergarden Greens: a compact fresh bunch of broad deep green leafy vegetables with pale stems, tied simply, no pot or plate.",
+      "retries": 0,
+      "status": "original material painting; reviewed",
+      "sha256": "bc5670d2912e9183bc90c82498cb856e4b3009c0bd105e3e84728d33f51c8782",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/evergarden_greens.webp",
+        "sha256": "fcdf10ead56e8c8e9bc185173181647316d971dbbaf8de7b04cca7bf97a54881",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fine_frost_lentils",
+      "file": "docs/design/whetstorm-art/items/fine_frost_lentils.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Fine Frost Lentils: three plump pale green lentil pods arranged in a fan, one opened to reveal small icy green lentils; no loose pile, bowl or container.",
+      "retries": 1,
+      "status": "original material painting; reviewed",
+      "sha256": "a3b98d2ceaa616b1d999dce4342e6e1e8229d57e9d0070915af7f72c37b1f2a0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_frost_lentils.webp",
+        "sha256": "09291db6b211a2867c51fc1aed1164f3c0b4cacf1520298b9d5f300b791826c1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fine_gilded_yam",
+      "file": "docs/design/whetstorm-art/items/fine_gilded_yam.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Fine Gilded Yam: two small plump golden-skinned yams, overlapping crosswise, a few fine roots, healthy and clean, no foliage.",
+      "retries": 1,
+      "status": "original material painting; reviewed",
+      "sha256": "7da49ee2be381dc16cf293284568c23e42b63f98aa0456e3313ebf69ecae905c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_gilded_yam.webp",
+        "sha256": "8bb78cf0f5033c0afd715e715a60087f35ff05e7d63ffdeb3c0e6416145e73e8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fine_evergarden_pumpkin",
+      "file": "docs/design/whetstorm-art/items/fine_evergarden_pumpkin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Fine Evergarden Pumpkin: one elongated ribbed orange pumpkin in three-quarter view with a curling green stem, healthy and clean, no face.",
+      "retries": 1,
+      "status": "original material painting; reviewed",
+      "sha256": "b662d7b39febf6e69c97d58b77a00ab6d32a986194c8b4bf1e1b4f3eaf44e0e6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_evergarden_pumpkin.webp",
+        "sha256": "b76e42f88e4d8b2f55e790fc2841bfd49cdf0febd5ea8fabf9cdee2325585a22",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -5106,7 +5106,7 @@ export const AURA_IMAGE_IDS: ReadonlySet<string> = new Set([
 
 /** True when an exact runtime aura identity owns dedicated painted art. */
 export function hasAuraImageIdentity(id: string): boolean {
-  return AURA_IMAGE_IDS.has(id);
+  return AURA_IMAGE_IDS.has(id) || whetstormAuraImageUrl(id) !== null;
 }
 
 /** Static art for an exact aura identity, including ordinary ability-art reuse. */

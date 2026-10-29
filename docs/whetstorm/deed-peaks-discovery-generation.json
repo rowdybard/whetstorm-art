@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "chr_peaks_glimmer_cast",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a silver fish leaping from a glowing icy blue mountain lake beneath a pale moon, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_peaks_glimmer_cast.png",
+      "masterSha256": "1bc4620bd9d564510012e0fe2bb92bc0068fe93a928f7242d59ccd13af2031bb",
+      "shipping": "public/ui/whetstorm/deeds/chr_peaks_glimmer_cast.webp",
+      "shippingSha256": "b4fae15d8a245ec71265d4a24caa76f76f33db4b17d0ce3ca39660993b34a0b6",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_peaks_moongate",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing an ancient circular stone moongate glowing icy blue on a mountain lake shore, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_peaks_moongate.png",
+      "masterSha256": "e877d675b3ebfa69326162400ce806143a3b4d6cff65e4f7927daa0cdd023319",
+      "shipping": "public/ui/whetstorm/deeds/chr_peaks_moongate.webp",
+      "shippingSha256": "08652a0f844ceeb40cf3fc932d238b740d86637d86afd6bc4c4abf862cc58f86",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_peaks_waking_witness",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing the distant silhouette of an enormous walking mountain-shaped stone giant striding across snowy peaks, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_peaks_waking_witness.png",
+      "masterSha256": "c892fbcc16c210e9702dd6f6d4f976629c0ed1061e249769a8948cae2dc3d4db",
+      "shipping": "public/ui/whetstorm/deeds/chr_peaks_waking_witness.webp",
+      "shippingSha256": "5870aeb5f4a115cb1022d72fd37ce989679bfa01e4b5e3880bf41e8f6ede1d06",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_clue_ten_caskets",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a weathered treasure hunter's compass and several gold-filled wooden caskets arranged as a single bold trophy, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_clue_ten_caskets.png",
+      "masterSha256": "e5112fad69bd2789286662881b13b22ca0a16bbc303378c5315e702484e5bcbb",
+      "shipping": "public/ui/whetstorm/deeds/exp_clue_ten_caskets.webp",
+      "shippingSha256": "00d4fe342ba57e86b987fe952b683048f6e43d622846f4558b809c44ffd7ad6d",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

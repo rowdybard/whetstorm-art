@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "collapsar_band_of_nyxaris",
+      "file": "docs/design/whetstorm-art/items/collapsar_band_of_nyxaris.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Collapsar Band of Nyxaris (collapsar_band_of_nyxaris), epic treasure hoard ring of an arcane void boss. One complete substantial dark silver ring, a single round deep violet cabochon with a small pale central glint and restrained concentric metal setting. Center large in readable three-quarter view. Deep charcoal and muted indigo painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile metal, crisp silhouette, readable at 22px. No hands, extra objects, writing, runes, frame, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "856cbbbb1a149df5c8229f1f48eb93d3e42d910017e7ecf20f6d2fe25fe13bb8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/collapsar_band_of_nyxaris.webp",
+        "sha256": "0fc6bcc6a1223d3991d445ba1b18f9cc9135d98aab070866eb00fb0ff8d7c187",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "chained_ember_choker",
+      "file": "docs/design/whetstorm-art/items/chained_ember_choker.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Chained Ember Choker (chained_ember_choker), epic treasure hoard necklace of a fire forge boss. One complete short thick dark iron chain choker with a single central glowing ember-orange faceted stone in a sturdy bronze setting. Center large in readable three-quarter view with compact silhouette. Deep charcoal and burnt umber painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile metal, crisp silhouette, readable at 22px. No person, hands, extra objects, writing, runes, frame, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "7f8de4d67e9feb152d770937c9d27a2abd83fa60ae47a293856d7fb5d8f381ce",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/chained_ember_choker.webp",
+        "sha256": "4c8b72834a703256c49ea0541093846c7faf7629a9b86ff0293ecaadc26d802a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "band_mountains_weight",
+      "file": "docs/design/whetstorm-art/items/band_mountains_weight.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Band of the Mountain's Weight (band_mountains_weight), epic treasure hoard ring of a brute warlord. One complete heavy broad weathered bronze ring with a single slate-gray angular mountain-shaped stone in a simple sturdy bezel. Center large in readable three-quarter view. Deep charcoal and muted earth-brown painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile metal and stone, crisp silhouette, readable at 22px. No hands, extra objects, writing, runes, frame, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "02b91615b9a8895b750016e04e7ec06f15d2ef173d6a597b8200cc01774770c9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/band_mountains_weight.webp",
+        "sha256": "6a7a4bc1d4421eaaf4d0150ab75634774b2c7e9da256892dd97e9cc866fdb806",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

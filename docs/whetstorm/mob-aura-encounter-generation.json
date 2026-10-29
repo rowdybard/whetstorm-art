@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "mob_encounter_stun",
+      "runtimeIds": [
+        "stomp_stun",
+        "brood_counter_stun"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_encounter_stun.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon for a brief stunning impact: a heavy stone boot stomps cracked ground with a bright yellow starburst. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "f242b89aafb5d82c20b5685ee8843c1e1681244200c959ca3a937ef7e0f129ea",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_encounter_stun.webp",
+        "sha256": "203cd9a4f546a694aa18fb7491479bd8ae4f1f30b22d6bec61005df7da0221d1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_brood_burn",
+      "runtimeIds": [
+        "brood_burn_hatchling_burn",
+        "brood_burn_seared_scales"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_brood_burn.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon for dragonkin fire damage over time: a red dragon scale glowing and charred under a curling tongue of orange flame. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "c69a9c5083034bca188d2e82074a782ff5d8b1823c667c1ad78043097c5a4387",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_brood_burn.webp",
+        "sha256": "eabb0a9866771db678b4a659690f65784f0aafe2d5ef88023f552cbd5cc0e6d8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_brood_ward",
+      "runtimeIds": [
+        "brood_ward"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_brood_ward.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO buff icon for a hatchling's one-hit protective ward: a small dragon egg enclosed in a translucent golden bubble, with a single crack of light on the bubble. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "cee372215bb7d9e2a0a408fe87cb3f615e26616840d555674b5bce1ee889472e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_brood_ward.webp",
+        "sha256": "c0b31d9c74b6ddd34d9468b244c7de3a5a7b5564adcbcd8fc1c8ca19901c9386",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_cantor_shield",
+      "runtimeIds": [
+        "nhalia_cantor_shield"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_cantor_shield.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO buff icon for a boss shield maintained by drowned chanters: an ancient submerged bronze bell surrounded by a luminous turquoise protective water ring. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "e01bf71e99dc5fbd68bba1bdc22b0eae4c846874381d2fa05195e8d5040c6313",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_cantor_shield.webp",
+        "sha256": "3a106d63fad1318ca334950b5852aecc90a6a2777f8aafb1f83af4ce9d41f65e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

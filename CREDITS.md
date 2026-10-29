@@ -896,3 +896,11 @@ deed crests and four mob aura paintings are recorded in
 `docs/whetstorm/velkhar-quest-weapon-generation.json`,
 `docs/whetstorm/deed-place-generation.json`, and
 `docs/whetstorm/mob-aura-defense-generation.json`.
+
+Ten original heroic leather, farm resource and jewelry paintings, four
+discovery deed crests and four encounter aura paintings are recorded in
+`docs/whetstorm/vael-leather-original-generation.json`,
+`docs/whetstorm/farm-produce-fine-generation.json`,
+`docs/whetstorm/hoard-jewelry-generation.json`,
+`docs/whetstorm/deed-peaks-discovery-generation.json`, and
+`docs/whetstorm/mob-aura-encounter-generation.json`.

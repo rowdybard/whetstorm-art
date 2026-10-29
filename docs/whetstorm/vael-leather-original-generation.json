@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "tidebound_spaulders",
+      "file": "docs/design/whetstorm-art/items/tidebound_spaulders.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Tidebound Spaulders, one complete pair of deep teal leather shoulder guards with layered curved hide panels, pale stitching and subdued sea-green accents. Show both complete shoulder guards with clear space around them.",
+      "status": "original leather painting; reviewed",
+      "sha256": "820c67ea3dd205f19772ac6fc5d31344ea361aea5e0ec8b87d80a0397dcf5246",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tidebound_spaulders.webp",
+        "sha256": "07f03f8410a6f25e4f989f972fe4ce316b01827e1d45d4b0ec32f54d233b1a93",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "tideguard_faceguard",
+      "file": "docs/design/whetstorm-art/items/tideguard_faceguard.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Tideguard Faceguard, one complete deep teal leather helmet with an empty shadowed face opening, reinforced brow and cheek guards, pale stitching and restrained sea-green accents; no face. Show the complete helmet with clear space around it.",
+      "status": "original leather painting; reviewed",
+      "sha256": "eb62e5e573fd65bddbd2cee0351a1baa375d267fa798de70b35e4fe5a6f589a3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tideguard_faceguard.webp",
+        "sha256": "4651d8fe32e9e24d644a0b871199c580523721f09f926a1a2d3d352205c9e15f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "dreamroot_boots",
+      "file": "docs/design/whetstorm-art/items/dreamroot_boots.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Dreamroot Boots, one complete pair of supple moss-brown leather boots with softly curved green vine-like stitched trim and pale cuffs. Show both complete boots with clear space around them.",
+      "status": "original leather painting; reviewed",
+      "sha256": "775915c74d6b83953d9aae4d05589fb93fa43cc7d702821b8841b02fa7a74fd3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/dreamroot_boots.webp",
+        "sha256": "3f577474a0bafaf0406a7477abbfd259fb24d97fdf16e3ed829ca95191b38493",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

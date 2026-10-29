@@ -1,5 +1,15 @@
 # Item painting checkpoint
 
+Team fifth follow-up: ten item paintings cover three heroic leather pieces,
+four farm resources and three epic jewelry pieces. This effort has created 590
+individual item paintings; 607 of 1,626 catalog IDs have individual paintings
+and 1,019 do not, including retired entries and variants. Four discovery deed
+crests and four encounter aura paintings were also added. Their generation
+records are `vael-leather-original`, `farm-produce-fine`, `hoard-jewelry`,
+`deed-peaks-discovery` and `mob-aura-encounter`. Size reviews and focused
+routing checks passed. Browser, full gate, locked deed states and physical
+inherited-file removal remain open.
+
 Team fourth follow-up: eight item paintings cover three heroic mail pieces,
 four farm crops and one quest weapon. This effort has created 580 individual
 item paintings; 597 of 1,626 catalog IDs have individual paintings and 1,029 do
