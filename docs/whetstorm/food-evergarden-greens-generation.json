@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "note": "The only unmapped food or drink item found in the live catalog; later-game cooking recipe.",
+  "assets": [
+    {
+      "itemId": "evergarden_braised_greens",
+      "file": "docs/design/whetstorm-art/items/evergarden_braised_greens.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting for Whetstorm. Primary request: Evergarden Braised Greens, a generous mound of cooked leafy greens in a simple rustic earthenware bowl, whole bowl centered and clearly recognizable. Original stylized fantasy, hand-painted, vibrant natural green and warm brown, bold shapes and restrained detail, soft light from upper left. Dark painted background, edge to edge. No frame, text, letters, logo, watermark, hands, or utensils. Entire dish visible with space around it; readable at 32 pixels. Original design, do not copy or imitate existing games or artists.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "4fa3e25f4fa90eaf7b9e42fc0362fbd06ac365fad983b3f907dc6c570aa5365e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/evergarden_braised_greens.webp",
+        "sha256": "5ee4446096c8d9ac614f51a230aa38d861a4195ecd54a00d916007a5b887ab25",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
+

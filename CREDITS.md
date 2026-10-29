@@ -788,3 +788,10 @@ in `docs/whetstorm/mail-osmium-generation.json`,
 `docs/whetstorm/material-component-batch-generation.json`,
 `docs/whetstorm/quest-batch-treasure-maps-generation.json`, and
 `docs/whetstorm/deed-batch-early-generation.json`.
+
+Fifteen original mail, leather, food, farming and quest paintings are recorded
+in `docs/whetstorm/mail-batch-grave-generation.json`,
+`docs/whetstorm/leather-wyrm-original-generation.json`,
+`docs/whetstorm/food-evergarden-greens-generation.json`,
+`docs/whetstorm/material-advance-generation.json`, and
+`docs/whetstorm/quest-batch-signet-brand-generation.json`.

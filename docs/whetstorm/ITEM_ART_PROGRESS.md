@@ -64,6 +64,21 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Thirty-fifth checkpoint: four mail pieces, four leather pieces, one food,
+four farming materials and two quest items add 15 unique paintings. This effort
+has created 455 paintings for 455 item IDs without deliberate reuse. Of 1,626
+catalog IDs, 472 have direct individual paintings and 1,154 do not. The food,
+quest and dungeon gear include later content. The artists' catalog scans found
+no other clear eligible unmapped food or carried quest objects, subject to a
+future full-catalog audit. Records are `mail-batch-grave-generation.json`,
+`leather-wyrm-original-generation.json`, `food-evergarden-greens-generation.json`,
+`material-advance-generation.json` and `quest-batch-signet-brand-generation.json`.
+The Deeds audit additionally identified the guide generator's separate paths;
+game and guide integration, opaque-reliquary handling, physical replacement and
+complete-checkout validation remain open. Inventory-size reviews and focused
+image and item-routing tests passed. Browser, full gate and shipping-tree
+clearance remain open.
+
 Thirty-fourth checkpoint: four mail pieces, four leather pieces, four foods,
 four crafting materials and four treasure maps add 20 unique paintings. This
 effort has created 440 paintings for 440 item IDs without deliberate reuse. Of

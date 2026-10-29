@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/compost.png",
+      "subject": "A small open coarse burlap sack filled with rich dark crumbly compost, a few pale decomposing leaf fragments visible",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for compost. Square painted edge to edge. A small open coarse burlap sack filled with rich dark crumbly compost, a few pale decomposing leaf fragments visible, centered whole on dark slate-blue painted background. Hand-painted stylized fantasy, broad readable silhouette, warm upper-left light, restrained detail, legible at 32 pixels. No text, letters, logo, watermark, frame, person, other items, photorealism, or copied game designs.",
+      "sha256": "7dc13a9bbb779e3a18421580c072ded818395fc2e0d458b270a09964c940a8d6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "compost",
+      "status": "original art integrated",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/compost.webp",
+        "sha256": "83123ca182842a8c32601f5722da7f308012f5265624487d87533af997e7cc24",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/growth_tonic.png",
+      "subject": "One complete squat clear green glass bottle of verdant liquid, sealed with a natural cork and bound with plain twine",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for growth_tonic. Square painted edge to edge. One complete squat clear green glass bottle of verdant liquid, sealed with a natural cork and bound with plain twine, centered on dark slate-blue painted background. Hand-painted stylized fantasy, broad readable silhouette, warm upper-left light, restrained detail, legible at 32 pixels. No text, letters, logo, watermark, frame, person, other items, glow, photorealism, or copied game designs.",
+      "sha256": "440c283091db291a3ee304fdc165ad2275d1801a6a4fe8b4122a067e8dfb7636",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "growth_tonic",
+      "status": "original art integrated",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/growth_tonic.webp",
+        "sha256": "de8b4da5f5056fd16f6ff59e2ddb6786f9092a7b88ac23a03c9f7aba19a5436b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/marsh_rice_seed.png",
+      "subject": "One small open ochre cloth seed pouch with a few long pale rice grains clearly visible at its mouth, tied with simple cord",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for marsh_rice_seed. Square painted edge to edge. One small open ochre cloth seed pouch with a few long pale rice grains clearly visible at its mouth, tied with simple cord, centered whole on dark slate-blue painted background. Hand-painted stylized fantasy, broad readable silhouette, warm upper-left light, restrained detail, legible at 32 pixels. No text, letters, logo, watermark, frame, person, other items, photorealism, or copied game designs.",
+      "sha256": "dfe4e6f32a25393fbc3f313ed574ccde2c5dcbd6703d316e8c996d371bf6fef0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "marsh_rice_seed",
+      "status": "original art integrated",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/marsh_rice_seed.webp",
+        "sha256": "8480f267568a55d604d44e9296d3c3370f6dd18df3fb3f8a290ea7c42d3a5607",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/fine_marsh_rice.png",
+      "subject": "A compact sheaf of ripe marsh rice stalks with generous golden drooping grain heads and green stems tied together with a simple cord",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for fine_marsh_rice. Square painted edge to edge. A compact sheaf of ripe marsh rice stalks with generous golden drooping grain heads and green stems tied together with a simple cord, centered whole on dark slate-blue painted background. Hand-painted stylized fantasy, broad readable silhouette, warm upper-left light, restrained detail, legible at 32 pixels. No text, letters, logo, watermark, frame, person, other items, photorealism, or copied game designs.",
+      "sha256": "1d465a731d0eabcc07bacd1b16d4b7ac5679ed5e5a8a8c6ae5932edbddb1309e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "fine_marsh_rice",
+      "status": "original art integrated",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_marsh_rice.webp",
+        "sha256": "7f11729177dce7c85a3b80c95fca759a2b1554e4caabd9537ef2e4c79515f0ed",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "kings_signet",
+      "file": "docs/design/whetstorm-art/items/kings_signet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for kings_signet, the King's Signet: one complete antique royal signet ring, broad aged gold band with a dark garnet oval face bearing a simple crown emblem, centered in a readable three-quarter view. Square fully opaque dark charcoal painted background, subject occupies about 72% with safe margin. Warm upper-left light, cool shadows, tactile metal, premium hand-painted fantasy, bold silhouette and restrained detail legible at 32 pixels. No text, letters, numbers, frame, watermark, person, photorealism or designs copied from other games.",
+      "sha256": "924a80390bf5ad4147196ba2a5c648555add62f8a401f94d3d9cf190638eacd3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "acquisition": "Level 20 Bound Guardian quest-gated drop",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/kings_signet.webp",
+        "sha256": "976e4af503767a457ac83416ca814bcd959d213edddd3ed6508d0594886c9d46",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ashbone_war_brand",
+      "file": "docs/design/whetstorm-art/items/ashbone_war_brand.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for ashbone_war_brand: one complete scorched bone tally carried by raiders, a small flat bone token with a single burned angular host mark and a dark leather hanging loop. Centered, readable three-quarter view, square fully opaque dark charcoal painted background; subject occupies about 72% with safe margins. Warm upper-left light, cool shadow, tactile bone and leather, premium hand-painted fantasy, bold silhouette and restrained detail legible at 32 pixels. No text, letters, numbers, frame, watermark, person, photorealism or designs copied from other games.",
+      "sha256": "5243edc26b2fbdb2e16ca367f8c7fa6537b225650226bd2cec104e031250e02f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "acquisition": "Quest-gated Ashbone raider and warcaller drops",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ashbone_war_brand.webp",
+        "sha256": "045bbfae4a95606cd8ebeb98bbec1789eefbb6e3bf716abcd9530657abaae6cf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

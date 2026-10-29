@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "wyrmscale_jerkin",
+      "file": "docs/design/whetstorm-art/items/wyrmscale_jerkin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for wyrmscale_jerkin, Wyrmscale Jerkin. Square painted edge to edge: one complete sleeveless leather jerkin with overlapping copper-brown dragon-scale panels, simple reinforced shoulders and dark lacing, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "491985680f435562af368eda2c0d2c8b2ef11841e334b203b678182ca5fb3032",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmscale_jerkin.webp",
+        "sha256": "e97bbb99518632becd3ff881f45cdc3e4be1a3dc533ba24d81b813573f376a59",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gravewyrm_stalkers_treads",
+      "file": "docs/design/whetstorm-art/items/gravewyrm_stalkers_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for gravewyrm_stalkers_treads, Gravewyrm Stalker's Treads. Square painted edge to edge: a complete pair of supple dark brown leather boots with pale bone-colored scale guards and folded cuffs, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "2fb978f33071d8a1b003de74f8830de9c4a42430476b184ccbbe870ae9a7ab6d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewyrm_stalkers_treads.webp",
+        "sha256": "dc1041a30938b611e4235b18fed9c5e42e9e1724a9f3e73ae1cd85c105491b90",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wyrmshadow_harness",
+      "file": "docs/design/whetstorm-art/items/wyrmshadow_harness.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for wyrmshadow_harness, Nightfang Harness. Square painted edge to edge: one complete dark plum leather chest harness with layered curved protective plates, a broad central buckle and pale fang-shaped fasteners, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "4cfedbbf61e992e59e8c191e8d311c2849749700fb1b1200ade8ba5920425a56",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmshadow_harness.webp",
+        "sha256": "55ce952ee728fc2c14589581e526619f1ef2e73e58b109fab49596b7570a3cba",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wyrmshadow_treads",
+      "file": "docs/design/whetstorm-art/items/wyrmshadow_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for wyrmshadow_treads, Nightfang Treads. Square painted edge to edge: a complete pair of deep plum leather boots with swept-back cuffs, light tan fang-shaped clasps and sturdy soles, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "7066da7650b7b7df56c4b4305484c9bf2a512201a72b74c4251cb5a0abffb05b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmshadow_treads.webp",
+        "sha256": "0592e459a2f6e7f84821b2f7a29c9183d7518ee7cb2805e6c12888baffd52251",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

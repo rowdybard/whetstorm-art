@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gravewyrm_sabatons",
+      "file": "docs/design/whetstorm-art/items/gravewyrm_sabatons.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy inventory icon for Gravewyrm Sabatons. A compact pair of battered forged steel armored boots with overlapping dark bone-like scale plates and restrained ivory bone ridges, coherent gravewyrm dungeon equipment. Complete pair centered, no body. Original hand-painted fantasy, tactile steel, warm top-left light, deep charcoal painted background, clear silhouette at 32px. No border, text, symbols, watermark, hands or mannequin.",
+      "sha256": "069ba8414feddbd5c723c14e0d849a0daa018097a409c512d0cbca1d49d8e5c2",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewyrm_sabatons.webp",
+        "sha256": "5e8b0c580a92b8bbebe2cfcdedeb16533441648c592b903064b92966c1d83b96",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "deathlord_legguards",
+      "file": "docs/design/whetstorm-art/items/deathlord_legguards.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy inventory icon for Barrowlord Legguards. Front-facing complete pair of heavy dark iron plate leg guards with articulated knee plates, restrained aged bone trim and riveted mail beneath, coherently designed grave dungeon armor. No body. Original hand-painted fantasy, warm top-left light and cool shadows on deep charcoal painted background, clean readable silhouette. No border, text, symbols, watermark or mannequin.",
+      "sha256": "90d56ffdea0ac7e4a8118fd65ea58ab7c5f0b276467317ae6c5f59a96ea33132",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/deathlord_legguards.webp",
+        "sha256": "8317a0d60398c2a137812fdf8f078b297c2ed99d1048a0413a998407e5d44352",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "deathlord_warplate",
+      "file": "docs/design/whetstorm-art/items/deathlord_warplate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy inventory icon for Barrowlord Warplate. Front-facing heavy dark forged steel chest armor with angular breastplate, articulated edges and restrained aged bone accents, related to grave dungeon armor. Complete torso garment only, no body or head. Original hand-painted fantasy, warm top-left light, deep charcoal painted background, bold legible silhouette. No border, text, symbols, watermark or mannequin.",
+      "sha256": "226c4098332b331b047b452c00607ab019ec85c3e157fd17c7dafd212f9cc499",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/deathlord_warplate.webp",
+        "sha256": "94920b5368a8e975c442a37b210375da53afc5b69bd0e1a03c3fd29cbbf5a243",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "deathlords_dread_visage",
+      "file": "docs/design/whetstorm-art/items/deathlords_dread_visage.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy inventory icon for Barrowlord Dread Visage. One ominous enclosed forged dark iron helmet with strong angular brow and narrow dark visor, restrained aged bone accents, related to grave dungeon armor. Complete helmet centered, no head or face. Original hand-painted fantasy, warm top-left light, deep charcoal painted background, bold readable silhouette. No border, text, symbols, watermark or mannequin.",
+      "sha256": "c7d90f1d1eb06a59a1ef30399e69ef81a93e86e49d936da9fa314009e342427c",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/deathlords_dread_visage.webp",
+        "sha256": "073126e784b350a02cce2bb5a66a4496defbe4cba861f8cc26e77766ff1e703a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

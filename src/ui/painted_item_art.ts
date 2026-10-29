@@ -44,6 +44,7 @@ import { farmMaterialsOriginalItemImageUrl } from './farm_materials_original_ite
 import { foodConjuredLaterItemImageUrl } from './food_conjured_later_item_art';
 import { foodCookingLaterItemImageUrl } from './food_cooking_later_item_art';
 import { foodEarlySecondItemImageUrl } from './food_early_second_item_art';
+import { foodEvergardenGreensItemImageUrl } from './food_evergarden_greens_item_art';
 import { foodFenHighwatchItemImageUrl } from './food_fen_highwatch_item_art';
 import { foodHighwatchApexItemImageUrl } from './food_highwatch_apex_item_art';
 import { foodHighwatchSuppliesItemImageUrl } from './food_highwatch_supplies_item_art';
@@ -64,6 +65,8 @@ import { leatherBatchOriginalItemImageUrl } from './leather_batch_original_item_
 import { leatherDelveNextItemImageUrl } from './leather_delve_next_item_art';
 import { leatherPeakNextItemImageUrl } from './leather_peak_next_item_art';
 import { leatherThornpeakItemImageUrl } from './leather_thornpeak_item_art';
+import { leatherWyrmOriginalItemImageUrl } from './leather_wyrm_original_item_art';
+import { mailBatchGraveItemImageUrl } from './mail_batch_grave_item_art';
 import { mailBonewardItemImageUrl } from './mail_boneward_item_art';
 import { mailDelveOriginalItemImageUrl } from './mail_delve_original_item_art';
 import { mailHighwatchItemImageUrl } from './mail_highwatch_item_art';
@@ -72,6 +75,7 @@ import { mailOsmiumItemImageUrl } from './mail_osmium_item_art';
 import { mailReliquaryItemImageUrl } from './mail_reliquary_item_art';
 import { marshBatchEighteenItemImageUrl } from './marsh_batch_eighteen_item_art';
 import { marshBatchSeventeenItemImageUrl } from './marsh_batch_seventeen_item_art';
+import { materialAdvanceItemImageUrl } from './material_advance_item_art';
 import { materialChimeClothItemImageUrl } from './material_chime_cloth_item_art';
 import { materialComponentBatchItemImageUrl } from './material_component_batch_item_art';
 import { materialHarvestNextItemImageUrl } from './material_harvest_next_item_art';
@@ -86,6 +90,7 @@ import { questBatchWaterwaysItemImageUrl } from './quest_batch_waterways_item_ar
 import { questHighwatchSecondItemImageUrl } from './quest_highwatch_second_item_art';
 import { questRelicsItemImageUrl } from './quest_relics_item_art';
 import { questShoreOriginalItemImageUrl } from './quest_shore_original_item_art';
+import { questSignetBrandItemImageUrl } from './quest_signet_brand_item_art';
 import { questThornpeakItemImageUrl } from './quest_thornpeak_item_art';
 import { questTreasureMapItemImageUrl } from './quest_treasure_map_item_art';
 import { realmQuestDropItemImageUrl } from './realm_quest_drop_art';
@@ -114,6 +119,11 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    foodEvergardenGreensItemImageUrl(id) ??
+    leatherWyrmOriginalItemImageUrl(id) ??
+    mailBatchGraveItemImageUrl(id) ??
+    materialAdvanceItemImageUrl(id) ??
+    questSignetBrandItemImageUrl(id) ??
     foodLaterFishHarvestItemImageUrl(id) ??
     leatherPeakNextItemImageUrl(id) ??
     mailOsmiumItemImageUrl(id) ??
