@@ -199,11 +199,13 @@ import { weaponBatchTwentyfourItemImageUrl } from './weapon_batch_twentyfour_ite
 import { weaponBatchTwentyoneItemImageUrl } from './weapon_batch_twentyone_item_art';
 import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_item_art';
 import { wildsWeaponItemImageUrl } from './wilds_weapon_item_art';
+import { wovenBagsItemImageUrl } from './woven_bags_item_art';
 import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    wovenBagsItemImageUrl(id) ??
     craftedGroupFeastsItemImageUrl(id) ??
     factionBagsItemImageUrl(id) ??
     forgeHammerItemImageUrl(id) ??

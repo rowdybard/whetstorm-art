@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "itemId": "silkspun_satchel",
+      "file": "docs/design/whetstorm-art/items/silkspun_satchel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Silkspun Satchel: a small cream silk cloth satchel with a folded flap, subtle woven pattern, and brown leather straps with brass buckles. Medieval fantasy craftsmanship, no modern hardware, no text. Original hand-painted fantasy, tactile fabric, warm upper-left light, centered complete bag silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "8aca86eb92490d7e4dbb2f5d805a8ee0fd4c29e4d1df374fb5f6328e506a0d0f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silkspun_satchel.webp",
+        "sha256": "02cd0879a0942b4a24e4996f9cd7b8e72dcb926d9b8f1d66deba658c012a5645",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "duskweave_bag",
+      "file": "docs/design/whetstorm-art/items/duskweave_bag.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Duskweave Bag: a deep indigo woven cloth drawstring bag with fine silver stitching and a small crescent-shaped clasp, softly weathered. Medieval fantasy craftsmanship, no modern hardware, no text. Original hand-painted fantasy, tactile fabric, warm upper-left light, centered complete bag silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "a6c17c7832c5510d47cbc46bae826859c672a785fb24d4d8e6bf556057847653",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/duskweave_bag.webp",
+        "sha256": "df94fcd248a5e6b1015c45156b0b1913c9d549dcd696d8aa39dac6a471b42798",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "resonant_weave_bag",
+      "file": "docs/design/whetstorm-art/items/resonant_weave_bag.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Resonantweave Bag: a sturdy teal woven fabric bag with braided golden cords, a folded flap and a luminous violet gemstone clasp, subtle magical glimmer in the threads. Medieval fantasy craftsmanship, no modern hardware, no text. Original hand-painted fantasy, tactile fabric, warm upper-left light, centered complete bag silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "83a6b181b119e2699fd486ee31f2e4524a3b5c0e3a4109af015f0d8aead3a0a5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/resonant_weave_bag.webp",
+        "sha256": "88720c390918c14f83487ceecf1372c3c746c0258cb65698be72d2a48ac11695",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

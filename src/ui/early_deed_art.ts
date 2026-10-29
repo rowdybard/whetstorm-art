@@ -3,6 +3,7 @@ import { ascendantDeedImageUrl } from './ascendant_deed_art';
 import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
 import { combatMasteryDeedImageUrl } from './combat_mastery_deed_art';
 import { craftMasteryDeedImageUrl } from './craft_mastery_deed_art';
+import { delveDiscoveryDeedImageUrl } from './delve_discovery_deed_art';
 import { dungeonClearDeedImageUrl } from './dungeon_clear_deed_art';
 import { dungeonJourneyDeedImageUrl } from './dungeon_journey_deed_art';
 import { dungeonMetaDeedImageUrl } from './dungeon_meta_deed_art';
@@ -41,6 +42,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     dungeonClearDeedImageUrl(id) ??
     dungeonJourneyDeedImageUrl(id) ??
     dungeonMetaDeedImageUrl(id) ??
+    delveDiscoveryDeedImageUrl(id) ??
     experienceDeedImageUrl(id) ??
     prestigeDeedImageUrl(id) ??
     ascendantDeedImageUrl(id) ??

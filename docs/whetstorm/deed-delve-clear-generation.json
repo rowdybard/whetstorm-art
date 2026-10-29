@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "dlv_reliquary",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a small golden reliquary chest among fallen stone pillars in an underground chamber, a beam of light through the collapsed ceiling. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dlv_reliquary.png",
+      "masterSha256": "31d13a34f53078bc2d0597740d17ea43ce138d01916c829c8d9ae7509204bb75",
+      "shipping": "public/ui/whetstorm/deeds/dlv_reliquary.webp",
+      "shippingSha256": "49bc26916de24ede9a611b5fec924e843cf31375ce2b2b68e248166ecc572dcf",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dlv_litany",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a silent bronze bell half submerged in blue-green water among ancient flooded stone arches, moonlight above. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dlv_litany.png",
+      "masterSha256": "e390e5074417b2edfde88d39176f944e0befc4029f8527e7f268e00a69d822a1",
+      "shipping": "public/ui/whetstorm/deeds/dlv_litany.webp",
+      "shippingSha256": "c90ab5a186ce0fff7f2ed9aaadc25a0968f957587354d40e56c6063204824cf0",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dlv_lore_journal",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing an open explorer's journal with five colorful pressed botanical specimens and a quill resting across its pages, representing discovered notes. The pages contain no writing. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dlv_lore_journal.png",
+      "masterSha256": "d2902fd43d76e107e390d5f657f5f80b8a934b9bc9c9009414f0905a4e029ee6",
+      "shipping": "public/ui/whetstorm/deeds/dlv_lore_journal.webp",
+      "shippingSha256": "2861553a12452c884b5cae8f04325da13ee51861e690a9f39eaf53029ddebe03",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

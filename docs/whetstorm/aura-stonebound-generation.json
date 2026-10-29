@@ -1,0 +1,141 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "shaman_stonebound",
+      "runtimeIds": [
+        "shaman_stonebound_armor",
+        "shaman_stonebound_stamina",
+        "shaman_stonebound_dr"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_stonebound.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original stonebound defensive stance: a sturdy dark stone breastplate with glowing amber seams and a small protective halo. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "852c311b71dff653e618d1f1e6839be2fd74e0c1ce57babb87f998a4ebd921ad",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_stonebound.webp",
+        "sha256": "53781d13def82b428f18a77b9f4da177e9e70536a512c3664fee96a69af2679d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/shaman_stonebound_armor.webp",
+          "public/ui/auras/shaman_stonebound_stamina.webp",
+          "public/ui/auras/shaman_stonebound_dr.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "shaman_stonebound_unleash_guard",
+      "runtimeIds": [
+        "shaman_stonebound_unleash_guard"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_stonebound_unleash_guard.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original stonebound guard status: a rough stone shield raised before a bright amber arc, conveying a temporary protective guard. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "70e0b564e68c72485cc406260b716ee9e5da3cffbe0b4dd6d9ecc60c73702540",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_stonebound_unleash_guard.webp",
+        "sha256": "0ae1b1888814cd8b659c224d9f07b81a3bdf7c8a50b35947b3039aa81379b855",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/shaman_stonebound_unleash_guard.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "shaman_stonebound_ward_smooth",
+      "runtimeIds": [
+        "shaman_stonebound_ward_smooth"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_stonebound_ward_smooth.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original stonebound ward status: a rounded gray stone surrounded by a soft blue lightning ring, conveying a temporary ward. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "814dfe10499c6299d94f6356328f74f195d528bf408937faba06b50902f12a90",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_stonebound_ward_smooth.webp",
+        "sha256": "e6dc8de18c0da861bc250e03ff7b25b40f2d8bd1b9786868308a9fc92c317ef3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/shaman_stonebound_ward_smooth.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "shaman_warspirit_cadence",
+      "runtimeIds": [
+        "shaman_warspirit_cadence"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_warspirit_cadence.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original warspirit cadence resource: three bronze drumbeats as concentric amber ripples radiating from a small upright wooden drum, clear distinct rings. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "e59d39d9183f5526e760a884bbbe9e36d997e8f5a337b57cce6d2ba68d945794",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_warspirit_cadence.webp",
+        "sha256": "ccfaaf16beb79022b9aa175aa14eb3143f4d7048b283a5a8d04fdc0cd027020a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/shaman_warspirit_cadence.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}
