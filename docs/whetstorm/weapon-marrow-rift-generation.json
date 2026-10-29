@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "marrowpoint",
+      "file": "docs/design/whetstorm-art/items/marrowpoint.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Marrowpoint, a complete epic one-handed dagger with a narrow ivory bone blade, sharp point, weathered iron guard and dark red leather grip, evocative of a dragon's bone. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "605e449727fcd46558c2cf84e7d8a4ff6a579539e9fc4727eba30d39befb4e83",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/marrowpoint.webp",
+        "sha256": "0ed2bc25d450431a8ef34733b22a34018509ec5e8a94bf2c7f67ba58894747a7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-e86c8dba-f92e-47f8-bf41-a58a6bc2c503.png"
+    },
+    {
+      "itemId": "riftwarden_voidblade",
+      "file": "docs/design/whetstorm-art/items/riftwarden_voidblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Riftwarden's Voidblade, a complete epic one-handed sword with a slender dark steel blade, restrained purple void glimmer down its center, protective angular iron guard and dark leather grip. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "165421dcf9c287f0dc995b4e88821718d8084408ed15ab8cbde880b77651e6e5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/riftwarden_voidblade.webp",
+        "sha256": "214ee215588e784d9a9b82f43d654174813808d87cd298cc7d6adeb72f987a4e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-cbe62388-48a7-400b-a4ce-e43da11e16b1.png"
+    }
+  ]
+}

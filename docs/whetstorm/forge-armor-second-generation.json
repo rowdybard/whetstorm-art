@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "emberfury_gloves",
+      "file": "docs/design/whetstorm-art/items/emberfury_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/emberfury_chest.png",
+          "sha256": "60d524b20b450da9e17ce9ecce42367f1b1088236ea34aa0f21912e8809014aa"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Emberfury Gauntlets: a compact natural pair of empty dark steel chain mail gloves with ridged red-bronze plates and restrained ember-red glow in the seams. No wearer. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style and set materials only, do not copy its shirt. No writing, border, frame, watermark, or transparency.",
+      "status": "original forge armor painting; reviewed",
+      "retries": 0,
+      "sha256": "1acffff5e1bac86da1e322c9063aaf279f05f25b47467381694609b49168661c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberfury_gloves.webp",
+        "sha256": "cecb6bb8e811d2da54d921ce5527333b237ccfe4947568fc6aca87289487d62f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "emberfury_legs",
+      "file": "docs/design/whetstorm-art/items/emberfury_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/emberfury_chest.png",
+          "sha256": "60d524b20b450da9e17ce9ecce42367f1b1088236ea34aa0f21912e8809014aa"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Emberfury Legguards: one complete empty front-facing pair of dark steel chain mail trousers ending at OPEN ANKLE CUFFS, no footwear, no boots, no feet. Ridged red-bronze plates and restrained ember-red glow in the seams. Legs clearly separated, no wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style and set materials only, do not copy its shirt. No writing, border, frame, watermark, or transparency.",
+      "status": "original forge armor painting; reviewed",
+      "retries": 1,
+      "sha256": "411ab7d94e5113ecd4d32eb9912bf8251195e8a26b827167f310809a9a6a3789",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberfury_legs.webp",
+        "sha256": "fe0e7a921c553b0d6b9750c00dce22856e36b7998598845239fec7937b1c105e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "forgewall_helmet",
+      "file": "docs/design/whetstorm-art/items/forgewall_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "public/ui/whetstorm/items/forgewall_gorget.webp",
+          "sha256": "04f9624b0656002dbae5aa0cea521d54f3ef962c647b8eb46a10f326f8f84e83"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Forgewall Helm: one empty dark steel chain mail helmet with broad angular hammered plates, reinforced gold-bronze rims and a simple central ridge. No face, mannequin or body. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style and material language only, do not copy its collar. No writing, border, frame, watermark, or transparency.",
+      "status": "original forge armor painting; reviewed",
+      "retries": 0,
+      "sha256": "1bb4a00116a4aea2f3ce9d1d54a5ce4b0afa6dd1361db0cb052e08070afd0219",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgewall_helmet.webp",
+        "sha256": "fee622c71000eeb0fcab51cbf68acbf7e61eb2625c876753e328c3080366f002",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "forgewall_shoulder",
+      "file": "docs/design/whetstorm-art/items/forgewall_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "public/ui/whetstorm/items/forgewall_gorget.webp",
+          "sha256": "04f9624b0656002dbae5aa0cea521d54f3ef962c647b8eb46a10f326f8f84e83"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Forgewall Pauldrons: a compact symmetric pair of empty dark steel chain mail shoulder guards with broad angular hammered plates and reinforced gold-bronze rims. No wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style and material language only, do not copy its collar. No writing, border, frame, watermark, or transparency.",
+      "status": "original forge armor painting; reviewed",
+      "retries": 0,
+      "sha256": "0828b6243a163ad40dbf19f6594d7e7b6cf561c2313b7a3978b35f7a340a7f58",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgewall_shoulder.webp",
+        "sha256": "b9714892cec5afd24e8f0461b6bccd6044745c580a837b64d0829399b7abb710",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

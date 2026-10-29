@@ -1,0 +1,124 @@
+{
+  "assets": [
+    {
+      "itemId": "unbroken_circle",
+      "file": "docs/design/whetstorm-art/items/unbroken_circle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint The Unbroken Circle: a solid thick steel ring with an uninterrupted gold inlaid line around its broad dark face, rugged and battle worn. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "0d384e26a14fe131a3934fa38e4baf4226c01e44f221d290e237cfeb203c43d5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/unbroken_circle.webp",
+        "sha256": "a50be9af0288a817e99aca44b4f2c8e80deebfd3071d74ee0dba7288b1cb2bd4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fleetblood_band",
+      "file": "docs/design/whetstorm-art/items/fleetblood_band.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Fleetblood Band: a lean polished bronze ring with a small red gemstone set between swept wing-shaped shoulders. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "2108d609058edf5f830b06b2ff6eb450580de42a02a48251d8817ba1d00d7069",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fleetblood_band.webp",
+        "sha256": "8e607dab9f2c6b551640012380b423baac601fb545c33994051b259501a57156",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "last_step_signet",
+      "file": "docs/design/whetstorm-art/items/last_step_signet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Last-Step Signet: a heavy iron signet ring with a small gold bootprint embossed on its dark oval face. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "aaec1ed098b4f4adc059d3ae259595d1f4be5e5ab747b18e7be6b17da6ff6984",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/last_step_signet.webp",
+        "sha256": "7739e911d3079211f55b566a7e2f0e7032a8df2e4acd03e50b0762472b54e725",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ashen_focus_ring",
+      "file": "docs/design/whetstorm-art/items/ashen_focus_ring.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Ashen Focus Ring: a smoky gray silver ring holding a luminous violet crystal with ash-like flecks within. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "7a76869dff92a4d72c98a13e213b98c787d94063b28c0e6493159cf53ae4b1ed",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ashen_focus_ring.webp",
+        "sha256": "cd019d91439e68beacd6aed34929880b3d5f879370f449fe469deb4332016fc0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "spellbreakers_seal",
+      "file": "docs/design/whetstorm-art/items/spellbreakers_seal.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Spellbreaker's Seal: a stout bronze signet ring bearing a broken blue crystal in a shield-shaped setting. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "cb6aea23119c78cf8e50d308b8ecc80660e825766f7a76be631a99f0664dddba",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/spellbreakers_seal.webp",
+        "sha256": "59dc91cc61c60c2c230ea6dba4934c1ebea090777dd9953193e2b298c4a3933f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

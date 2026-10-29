@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gravecourt_hewer",
+      "file": "docs/design/whetstorm-art/items/gravecourt_hewer.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Gravecourt Hewer, complete sturdy one-handed steel axe with a broad crescent cleaver head, pale bone inlays and restrained bronze fittings, short dark leather wrapped haft. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "abe20e615fd63ed2234dea029c775d64af726113c2a6ce4eb9536f51d13d3869",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravecourt_hewer.webp",
+        "sha256": "bc3e09bc423bbe03df0d1cc5dd3f4dd2953b730f04c958fe053cf644348d2c3c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-6692e32f-4fc9-4ec4-9fec-49b4b95d334a.png"
+    },
+    {
+      "itemId": "fang_of_korzul",
+      "file": "docs/design/whetstorm-art/items/fang_of_korzul.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Fang of Korzul, complete one-handed dagger with a narrow curved dragon-fang-shaped steel blade, dark iron guard and deep red leather grip, restrained bone ornaments. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "d0489298e9ba2f04e147614aa043a5ec8cf214636e9884f473164f93893ce2a6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fang_of_korzul.webp",
+        "sha256": "44455a9c8952ae268dee1e61cc5aff781f7f679ac3887632866448671b1e865f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-d89ef82a-ef4e-4401-a0a6-5199b2a71fa1.png"
+    }
+  ]
+}

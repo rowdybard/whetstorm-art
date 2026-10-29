@@ -73,7 +73,9 @@ import { foodLaterFishHarvestItemImageUrl } from './food_later_fish_harvest_item
 import { foodOriginalBatchItemImageUrl } from './food_original_batch_item_art';
 import { foodZoneTwoItemImageUrl } from './food_zone_two_item_art';
 import { forgeArmorItemImageUrl } from './forge_armor_item_art';
+import { forgeArmorSecondItemImageUrl } from './forge_armor_second_item_art';
 import { galecallArmorItemImageUrl } from './galecall_armor_item_art';
+import { gravecourtFangItemImageUrl } from './gravecourt_fang_item_art';
 import { gravewyrmWeaponItemImageUrl } from './gravewyrm_weapon_item_art';
 import { herbPlantNextItemImageUrl } from './herb_plant_next_item_art';
 import { heroicLeatherOriginalItemImageUrl } from './heroic_leather_original_item_art';
@@ -90,6 +92,7 @@ import { jewelryChampionsItemImageUrl } from './jewelry_champions_item_art';
 import { jewelryFactionCraftItemImageUrl } from './jewelry_faction_craft_item_art';
 import { jewelryForgeItemImageUrl } from './jewelry_forge_item_art';
 import { jewelryHeroicQuartermasterItemImageUrl } from './jewelry_heroic_quartermaster_item_art';
+import { jewelryHonorRingsItemImageUrl } from './jewelry_honor_rings_item_art';
 import { jewelryIgnivarNecklacesItemImageUrl } from './jewelry_ignivar_necklaces_item_art';
 import { jewelryIgnivarRingsItemImageUrl } from './jewelry_ignivar_rings_item_art';
 import { jewelryRiftboundItemImageUrl } from './jewelry_riftbound_item_art';
@@ -113,6 +116,7 @@ import { mailOsmiumItemImageUrl } from './mail_osmium_item_art';
 import { mailReliquaryItemImageUrl } from './mail_reliquary_item_art';
 import { mailThornpeakItemImageUrl } from './mail_thornpeak_item_art';
 import { mailWildheartApexItemImageUrl } from './mail_wildheart_apex_item_art';
+import { marrowRiftItemImageUrl } from './marrow_rift_item_art';
 import { marshBatchEighteenItemImageUrl } from './marsh_batch_eighteen_item_art';
 import { marshBatchSeventeenItemImageUrl } from './marsh_batch_seventeen_item_art';
 import { materialAdvanceItemImageUrl } from './material_advance_item_art';
@@ -187,6 +191,10 @@ import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    forgeArmorSecondItemImageUrl(id) ??
+    gravecourtFangItemImageUrl(id) ??
+    jewelryHonorRingsItemImageUrl(id) ??
+    marrowRiftItemImageUrl(id) ??
     courtierWardItemImageUrl(id) ??
     questBreakscarredSteelItemImageUrl(id) ??
     forgeArmorItemImageUrl(id) ??
