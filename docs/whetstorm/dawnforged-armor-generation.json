@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "dawnforged_helmet",
+      "file": "docs/design/whetstorm-art/items/dawnforged_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Dawnforged Helm: one empty silver chain mail helmet with pale gold edging and a restrained sunburst crest. No face, mannequin or body. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Dawnforged armor painting; reviewed",
+      "sha256": "8df70f172969635e3518b9adbb43b440c7522d2903d926c0e7df65ef9135a7b3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/dawnforged_helmet.webp",
+        "sha256": "72a939f94ed883df281ee5d8ae382bd076f70d09b34a9fe12857d16e5f3f798a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "dawnforged_shoulder",
+      "file": "docs/design/whetstorm-art/items/dawnforged_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Dawnforged Pauldrons: a compact symmetric pair of empty silver chain mail shoulder guards with pale gold edging and restrained sunburst-shaped plates. No wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Dawnforged armor painting; reviewed",
+      "sha256": "32a07b019dc4a36c0a30cdbd4bd3ba965ff7de541c6fa266f79540ee51bbe156",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/dawnforged_shoulder.webp",
+        "sha256": "1730d4a1a6ee44d5bc73501188c7585303a5fa52540dd88c08633bf55410eacb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "dawnforged_chest",
+      "file": "docs/design/whetstorm-art/items/dawnforged_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Dawnforged Hauberk: one empty front-facing silver chain mail shirt with pale gold edging and a restrained sunburst chest plate. No wearer, head, hands or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Dawnforged armor painting; reviewed",
+      "sha256": "f407b7cfe42e03516feb7d1d205478b65492dfc5954c37200521c14f2cdc5f19",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/dawnforged_chest.webp",
+        "sha256": "3f56abd85b36c6a33e530c4ca1e85c7dee460713e87a4357f1119ca6f8db3a45",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "dawnforged_gloves",
+      "file": "docs/design/whetstorm-art/items/dawnforged_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Dawnforged Gauntlets: a compact natural pair of empty silver chain mail gloves with pale gold edging and restrained sunburst-shaped backplates. No wearer. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Dawnforged armor painting; reviewed",
+      "sha256": "24c2fd9f5b0c932a27c3c1f9d109ae6a48a9be64773a00dc8989b33f6285f404",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/dawnforged_gloves.webp",
+        "sha256": "b63aa9185b9e57010a7775fa4186b610ad65c80ce46a35031d740ac50ae68100",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "dawnforged_legs",
+      "file": "docs/design/whetstorm-art/items/dawnforged_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Dawnforged Legguards: one complete empty front-facing pair of silver chain mail trousers ending at open ankle cuffs, with pale gold edging and restrained sunburst-shaped knee plates. Legs clearly separated, no footwear, boots, wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Dawnforged armor painting; reviewed",
+      "sha256": "3cca43988498f86be15bdbd7f6bcc65fbfa51d989a5fd4c16478dd6e01552dd1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/dawnforged_legs.webp",
+        "sha256": "7a059ea12a92154c3538bb628625ac0e6822513e6cc18b2155942ac9bc0c2a64",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

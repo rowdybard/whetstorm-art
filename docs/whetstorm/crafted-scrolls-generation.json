@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "silverleaf_scroll",
+      "file": "docs/design/whetstorm-art/items/silverleaf_scroll.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a rolled parchment scroll tied with a silver-gray ribbon and decorated with one small silvery green leaf seal, on a deep cool slate painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No letters, writing, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "e8a00f98142285821c968af59cf6c2d2ab7da88ec5a5eb62219e56143eb4da4f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silverleaf_scroll.webp",
+        "sha256": "c53f2d07775e3d3f65624acfa02698a77b036fb5f36697a51b4dc58dbb7fc831",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "goldleaf_scroll",
+      "file": "docs/design/whetstorm-art/items/goldleaf_scroll.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a rolled aged parchment scroll tied with a rich gold ribbon and decorated with one small golden leaf seal, on a dark warm brown painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No letters, writing, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "3031b3948b03c04111566048b37b9ae1654deb4c69dbe0ff4ae71bfb42982f89",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/goldleaf_scroll.webp",
+        "sha256": "f962a32c799a698c2f47be916121714b5ea4de0f36140e6d280d665b9083fcb3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sunpetal_scroll",
+      "file": "docs/design/whetstorm-art/items/sunpetal_scroll.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a rolled ivory parchment scroll tied with a deep red ribbon and decorated with a golden sun-shaped flower petal seal, on a dark burgundy painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No letters, writing, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "f28bdb71952dc763c7a74673cb3533e97762663073204abe00097d250d8898b4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunpetal_scroll.webp",
+        "sha256": "df48b9a453976b31129f4ac78814ad75b471a6a0d7f0a175e29ace9b9d62a33e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

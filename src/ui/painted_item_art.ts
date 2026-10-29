@@ -1,4 +1,5 @@
 import { alchemyBottlesItemImageUrl } from './alchemy_bottles_item_art';
+import { anvilHeartItemImageUrl } from './anvil_heart_item_art';
 import { apexFlasksItemImageUrl } from './apex_flasks_item_art';
 import { armorBatchEightItemImageUrl } from './armor_batch_eight_item_art';
 import { armorBatchElevenItemImageUrl } from './armor_batch_eleven_item_art';
@@ -43,8 +44,10 @@ import { courtierWardItemImageUrl } from './courtier_ward_item_art';
 import { craftReagentOriginalBatchItemImageUrl } from './craft_reagent_original_batch_item_art';
 import { craftedGroupFeastsItemImageUrl } from './crafted_group_feasts_item_art';
 import { craftedReagentBagsItemImageUrl } from './crafted_reagent_bags_item_art';
+import { craftedScrollsItemImageUrl } from './crafted_scrolls_item_art';
 import { craghornIceveinItemImageUrl } from './craghorn_icevein_item_art';
 import { dawnForgeItemImageUrl } from './dawn_forge_item_art';
+import { dawnforgedArmorItemImageUrl } from './dawnforged_armor_item_art';
 import { deathlessStormItemImageUrl } from './deathless_storm_item_art';
 import { direfangArmorItemImageUrl } from './direfang_armor_item_art';
 import { drogmarQuestWeaponsItemImageUrl } from './drogmar_quest_weapons_item_art';
@@ -208,6 +211,9 @@ import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    craftedScrollsItemImageUrl(id) ??
+    anvilHeartItemImageUrl(id) ??
+    dawnforgedArmorItemImageUrl(id) ??
     craftedReagentBagsItemImageUrl(id) ??
     apexFlasksItemImageUrl(id) ??
     cinderSlagItemImageUrl(id) ??

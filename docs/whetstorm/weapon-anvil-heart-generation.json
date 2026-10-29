@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "anvilguard_blade",
+      "file": "docs/design/whetstorm-art/items/anvilguard_blade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Anvilguard Blade, complete epic one-handed sword with a broad practical forged steel blade, heavy squared bronze guard evoking an anvil, dark leather grip and modest forge wear. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "d1361d5020ccaa6bfabacadd2b9a279f8c0149ea15e3caccf4ab50fbfb707aba",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/anvilguard_blade.webp",
+        "sha256": "aacdc33007dae979767a9b9a140e3d8e8efde222c610e499899bd0a82938f624",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-c1575634-5ba3-40e2-9350-31e995f727b6.png"
+    },
+    {
+      "itemId": "heart_of_the_end_greatblade",
+      "file": "docs/design/whetstorm-art/items/heart_of_the_end_greatblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Heart of the End Greatblade, complete epic two-handed long dark steel sword with an angular bronze guard surrounding a small ember-red crystal and fine molten seams near the blade base, long leather grip. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "0dc922f446e65706b1e8874e45c81e54922a7ac13b8022f6c6f72a83a6c6fe27",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/heart_of_the_end_greatblade.webp",
+        "sha256": "6f4ec57e6a5bdbbee8dcafe998eda60881843e33d647ae2b006a754425aa3e2e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-85337ecd-4ad4-4e14-a4ed-1cc5c13ed03e.png"
+    }
+  ]
+}
