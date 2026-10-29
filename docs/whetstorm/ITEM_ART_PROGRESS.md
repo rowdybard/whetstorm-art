@@ -64,6 +64,16 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Twenty-ninth checkpoint: four mail pieces, four cloth pieces, four foods, four
+jewelry pieces, four crafting reagents and four quest objects add 24 unique
+paintings. This effort has created 324 paintings for 324 IDs without deliberate
+reuse. Of 1,626 catalog IDs, 341 have direct individual paintings and 1,285 do
+not. Records are `mail-reliquary-generation.json`, `cloth-batch-three-generation.json`,
+`food-cooking-later-generation.json`, `jewelry-faction-craft-generation.json`,
+`craft-reagent-original-batch-generation.json` and `quest-batch-thornpeak-generation.json`.
+Inventory-size reviews and focused image and routing tests passed. Browser,
+full gate and shipping-tree clearance remain open.
+
 Twenty-eighth checkpoint: four mail pieces, four leather pieces, four conjured
 foods and drinks, four jewelry pieces, four plant materials and four quest
 objects add 24 unique paintings. This effort has created 300 paintings for 300

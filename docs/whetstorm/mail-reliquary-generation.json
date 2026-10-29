@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "sootscale_mantle",
+      "file": "docs/design/whetstorm-art/items/sootscale_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Kilnscale Mantle, a pair of forged mail shoulder guards made of overlapping soot-dark iron scales with warm copper rivets and subtle kiln-orange edge highlights. Show both complete shoulder guards with clear space around them.",
+      "status": "original mail armor painting; reviewed",
+      "sha256": "a3833a14eec644c32208f90261376123fac79185ca5e0d263852ebc523328fa5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sootscale_mantle.webp",
+        "sha256": "77824fe24fc53bf99d9d5ad9f3d02e282f2904426a68cf1bce6d9a856d00467a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reliquary_plate_chest",
+      "file": "docs/design/whetstorm-art/items/reliquary_plate_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Reliquary Guard Hauberk, a complete empty iron breastplate over chainmail, with an understated pale bone-colored central guard and worn leather straps. Show the whole chest piece with clear space around it.",
+      "status": "original mail armor painting; reviewed",
+      "sha256": "0e158da08166fdd3cb41670c7e08eac49f9adce2d0283410e1a7e99ff5512178",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reliquary_plate_chest.webp",
+        "sha256": "e08e3a7fcc953cff9e5a793b4965d3b0c96abb7e51dacd2eb725b86b51d9ab84",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reliquary_helm",
+      "file": "docs/design/whetstorm-art/items/reliquary_helm.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Ossuary Watch Helm, a complete worn steel guard helmet with a rounded crown, cheek plates, dark empty face opening, and a small pale bone brow ridge. No face. Show the entire helmet with clear space around it.",
+      "status": "original mail armor painting; reviewed",
+      "sha256": "bd91f2633f366648c1cf3a298ebab8375a326e269fa9c3d80739dcf78bb22a68",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reliquary_helm.webp",
+        "sha256": "455575fb71bad0c384ca67bb9d431dd3c2245398495d1ad8662449cea3fb0d61",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reliquary_shoulder",
+      "file": "docs/design/whetstorm-art/items/reliquary_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Crumbled Spaulders, a pair of battered iron shoulder plates over chainmail, chipped edges and aged stone-gray patina, with leather fastening straps. Show both complete shoulder guards with clear space around them.",
+      "status": "original mail armor painting; reviewed",
+      "sha256": "d1e87beeb79ccf56af9c27bc59ef17435587e630d0aa4e013cd2960952c334d7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reliquary_shoulder.webp",
+        "sha256": "bca7fea11f8863596d7a24853a09bbebb3ff04439967a97935c51d80297603e0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

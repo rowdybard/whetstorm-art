@@ -740,3 +740,11 @@ recorded in `docs/whetstorm/sanctum-mail-item-art-generation.json`,
 `docs/whetstorm/jewelry-batch-next-generation.json`,
 `docs/whetstorm/herb-plant-next-generation.json`, and
 `docs/whetstorm/quest-highwatch-second-generation.json`.
+
+Twenty-four mail, cloth, food, jewelry, reagent and quest paintings are
+recorded in `docs/whetstorm/mail-reliquary-generation.json`,
+`docs/whetstorm/cloth-batch-three-generation.json`,
+`docs/whetstorm/food-cooking-later-generation.json`,
+`docs/whetstorm/jewelry-faction-craft-generation.json`,
+`docs/whetstorm/craft-reagent-original-batch-generation.json`, and
+`docs/whetstorm/quest-batch-thornpeak-generation.json`.

@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "reliquary_cloth_chest",
+      "file": "docs/design/whetstorm-art/items/reliquary_cloth_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: Shroud of the Reliquary, a whole simple cloth chest robe, muted ivory linen with dark teal trim and a small bronze clasp, hanging empty, centered. Original stylized fantasy hand-painted look, bold clean silhouette, soft upper-left lighting, dark painted background. Readable at 32 pixels. No frame, text, letters, logos, watermark, person or copied designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "d3c0b8a44ae132b1d171a0600ca18da082feeaa19b01911e6a5522602b42c9fa",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reliquary_cloth_chest.webp",
+        "sha256": "1689a2df17e7e227ef0121b3e3a8e59167cd155a47619918456611271f1a56f0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-48e35dcd-59db-4c8b-98a2-246031a3f07d.png"
+    },
+    {
+      "itemId": "reliquary_legs",
+      "file": "docs/design/whetstorm-art/items/reliquary_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: Vaultbound Legwraps, a whole pair of soft cloth trousers with wrapped lower legs, faded rust red and sandy linen, tied with a short cord, centered. Original stylized fantasy hand-painted look, bold clean silhouette, soft upper-left lighting, dark painted background. Readable at 32 pixels. No frame, text, letters, logos, watermark, person or copied designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "687ebd652f32b25486f4246334d6da91af6fe519e3484e15ba5098c3a4864b60",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reliquary_legs.webp",
+        "sha256": "23244b970e1fc9d0c044a349c4b5893bc83a5496b0eb07866b728d39a4a62051",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-3a1b8245-b098-44ee-849d-ab5167e9835a.png"
+    },
+    {
+      "itemId": "cantors_drowned_sash",
+      "file": "docs/design/whetstorm-art/items/cantors_drowned_sash.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: Cantor's Drowned Sash, a single broad flowing cloth waist sash with tied knot and two short trailing ends, weathered deep sea green fabric with a narrow gold woven edge, centered. Original stylized fantasy hand-painted look, bold clean silhouette, soft upper-left lighting, dark painted background. Readable at 32 pixels. No frame, text, letters, logos, watermark, person or copied designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "e9a5a736a9a14e91b4ab417d870c909b004e14c228ad6e4f685a83a9aeb68c4f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cantors_drowned_sash.webp",
+        "sha256": "29089b63e66301cd13d6518c8931e8533368563be1d4cba7f89d386012470954",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-1bc41126-3c32-4d1c-8abb-5b39f25da120.png"
+    },
+    {
+      "itemId": "tidehymn_slippers",
+      "file": "docs/design/whetstorm-art/items/tidehymn_slippers.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: Tidehymn Slippers, a pair of soft cloth slippers with rounded toes and stitched cuffs, blue-gray fabric with pale turquoise woven bands, centered. Original stylized fantasy hand-painted look, bold clean silhouette, soft upper-left lighting, dark painted background. Readable at 32 pixels. No frame, text, letters, logos, watermark, person or copied designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "8e92c37a75555b0912a5e3f23e9407ce4cea4873e585dabdbd6ba67671580e60",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tidehymn_slippers.webp",
+        "sha256": "7c369b0f64e0b9e17aa7297249f294080ccff0a1614bda37bfdb935096ad5136",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-cc3c6359-660b-4631-990c-6063ae3c07fc.png"
+    }
+  ]
+}

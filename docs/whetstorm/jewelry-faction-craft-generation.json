@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/burnished_thorium_amulet.png",
+      "subject": "burnished_thorium_amulet",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for burnished_thorium_amulet, displayed as Burnished Osmium Amulet. Show one complete short dark burnished blue-gray metal chain with a simple large oval polished blue-gray metal amulet pendant, broad silvery highlights, centered with generous margins. Square dark slate-blue painted background edge to edge. Original stylized hand-painted fantasy, bold clear shapes, warm upper-left light, restrained detail, readable at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects, magic or copied game designs.",
+      "sha256": "4f3d31765f684698e6e288bf3f4316b884947284d1735a01907878ce1592ad48",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "burnished_thorium_amulet",
+      "status": "original art prepared for existing item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/burnished_thorium_amulet.webp",
+        "sha256": "31075ffdfe6021bd0fec9e71691691fd0124470cbf7517628acac17aa0d9143c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/acolytes_signet.png",
+      "subject": "acolytes_signet",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for acolytes_signet, an Acolyte's Signet. Show one complete modest silver signet ring with broad flat oval face engraved with a simple sunburst, centered large in three-quarter view. Square dark slate-blue painted background edge to edge. Original stylized hand-painted fantasy, bold clear shapes, warm upper-left light, restrained detail, readable at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects, magic or copied game designs.",
+      "sha256": "d311daf1f0c97d857536662453f1b921616052c0d94c41fe1c1947e2a4056498",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "acolytes_signet",
+      "status": "original art prepared for existing item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/acolytes_signet.webp",
+        "sha256": "847a68acf9e55721af987d6f1f24aeae14a28c6eb624f7b902a41abca52e4e30",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/cogwork_choker.png",
+      "subject": "cogwork_choker",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for cogwork_choker, a Cogwork Choker. Show one complete closed loop of thick dark leather choker with a single large brass cog centerpiece, clearly visible teeth and central dark rivet, centered large with generous margins. Square dark slate-blue painted background edge to edge. Original stylized hand-painted fantasy, bold clear shapes, warm upper-left light, restrained detail, readable at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects, magic or copied game designs.",
+      "sha256": "f02582956a5b7c1e987cd227d473077b227b6bc80e9e31a25b21463bae907c6b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "cogwork_choker",
+      "status": "original art prepared for existing item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cogwork_choker.webp",
+        "sha256": "0bf72ba53a0e9c3b3a16bc2acac139e918cc25c0ae658fde8ce11d7cdbca38d4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/automaton_cog_ring.png",
+      "subject": "automaton_cog_ring",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for automaton_cog_ring, an Automaton Cog Ring. Show one complete dark iron ring with an oversized small copper gear forming its bezel and a bright turquoise circular center, centered large in three-quarter view. Square dark slate-blue painted background edge to edge. Original stylized hand-painted fantasy, bold clear shapes, warm upper-left light, restrained detail, readable at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects, magic or copied game designs.",
+      "sha256": "5c9cf8bd5477b808a77fbf318f271084e9065e27bc4a5dc60b0c9fd4d46235e7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "automaton_cog_ring",
+      "status": "original art prepared for existing item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/automaton_cog_ring.webp",
+        "sha256": "107806a3153cdf33d25d0291e579e596387ca52c5cf174cd63094c9bc9a5623b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -19,8 +19,10 @@ import { armorBatchTwentyoneItemImageUrl } from './armor_batch_twentyone_item_ar
 import { armorBatchTwentytwoItemImageUrl } from './armor_batch_twentytwo_item_art';
 import { armorBatchTwoItemImageUrl } from './armor_batch_two_item_art';
 import { clothBatchOneItemImageUrl } from './cloth_batch_one_item_art';
+import { clothBatchThreeItemImageUrl } from './cloth_batch_three_item_art';
 import { clothBatchTwoItemImageUrl } from './cloth_batch_two_item_art';
 import { consumableBatchItemImageUrl } from './consumable_batch_item_art';
+import { craftReagentOriginalBatchItemImageUrl } from './craft_reagent_original_batch_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { earlyMaterialEightItemImageUrl } from './early_material_eight_item_art';
 import { earlyMaterialElevenItemImageUrl } from './early_material_eleven_item_art';
@@ -37,14 +39,17 @@ import { earlyMaterialTwelveItemImageUrl } from './early_material_twelve_item_ar
 import { earlyQuestItemImageUrl } from './early_quest_item_art';
 import { earlyQuestMaterialItemImageUrl } from './early_quest_material_item_art';
 import { foodConjuredLaterItemImageUrl } from './food_conjured_later_item_art';
+import { foodCookingLaterItemImageUrl } from './food_cooking_later_item_art';
 import { foodEarlySecondItemImageUrl } from './food_early_second_item_art';
 import { foodOriginalBatchItemImageUrl } from './food_original_batch_item_art';
 import { herbPlantNextItemImageUrl } from './herb_plant_next_item_art';
 import { jewelryBatchItemImageUrl } from './jewelry_batch_item_art';
 import { jewelryBatchNextItemImageUrl } from './jewelry_batch_next_item_art';
 import { jewelryBatchTwoItemImageUrl } from './jewelry_batch_two_item_art';
+import { jewelryFactionCraftItemImageUrl } from './jewelry_faction_craft_item_art';
 import { leatherBatchCraftedItemImageUrl } from './leather_batch_crafted_item_art';
 import { leatherBatchOriginalItemImageUrl } from './leather_batch_original_item_art';
+import { mailReliquaryItemImageUrl } from './mail_reliquary_item_art';
 import { marshBatchEighteenItemImageUrl } from './marsh_batch_eighteen_item_art';
 import { marshBatchSeventeenItemImageUrl } from './marsh_batch_seventeen_item_art';
 import { materialHerbHideBatchItemImageUrl } from './material_herb_hide_batch_item_art';
@@ -54,6 +59,7 @@ import { questBatchHighwatchItemImageUrl } from './quest_batch_highwatch_item_ar
 import { questBatchSixteenItemImageUrl } from './quest_batch_sixteen_item_art';
 import { questBatchWaterwaysItemImageUrl } from './quest_batch_waterways_item_art';
 import { questHighwatchSecondItemImageUrl } from './quest_highwatch_second_item_art';
+import { questThornpeakItemImageUrl } from './quest_thornpeak_item_art';
 import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
 import { starterItemImageUrl } from './starter_item_art';
 import { toolBatchFiveItemImageUrl } from './tool_batch_five_item_art';
@@ -79,6 +85,12 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    clothBatchThreeItemImageUrl(id) ??
+    craftReagentOriginalBatchItemImageUrl(id) ??
+    foodCookingLaterItemImageUrl(id) ??
+    jewelryFactionCraftItemImageUrl(id) ??
+    mailReliquaryItemImageUrl(id) ??
+    questThornpeakItemImageUrl(id) ??
     foodConjuredLaterItemImageUrl(id) ??
     herbPlantNextItemImageUrl(id) ??
     jewelryBatchNextItemImageUrl(id) ??

@@ -1,0 +1,56 @@
+{
+  "assets": [
+    {
+      "itemId": "smithing_flux",
+      "file": "docs/design/whetstorm-art/items/smithing_flux.png",
+      "sha256": "6b65b442f86cd053d617a148fc57d7244d155105bf60d7675443dfce19cccd6b",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy inventory item painting. Subject: Smithing Flux, a small open squat ceramic crucible holding coarse pale mineral powder, with a few grains alongside. Original hand-painted fantasy art, rich warm colors, bold simple silhouette, centered whole object on dark painted background, readable at 32 pixels. No frame, text, letters, logo, watermark, characters, or copied game art.",
+      "reference": "None. Original generation from text only.",
+      "generator": "Codex built-in image_gen",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/smithing_flux.webp",
+        "sha256": "9f6340bea9740b65b4b08af1363f44eaf2e4fda1939b2a566d845fae82de117b",
+        "processing": "Resize to 128x128 with sharp Lanczos3, WebP quality 85"
+      }
+    },
+    {
+      "itemId": "spool_of_thread",
+      "file": "docs/design/whetstorm-art/items/spool_of_thread.png",
+      "sha256": "6d5e0194983c298735a8437ecad6a5396bee436033667deb2ef1d472803a9e4d",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy inventory item painting. Subject: Spool of Thread, one chunky wooden spool wound with ivory thread, a short trailing thread end. Original hand-painted fantasy art, vibrant restrained colors, bold simple silhouette, centered whole object on dark painted background, readable at 32 pixels. No frame, text, letters, logo, watermark, characters, or copied game art.",
+      "reference": "None. Original generation from text only.",
+      "generator": "Codex built-in image_gen",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/spool_of_thread.webp",
+        "sha256": "4a5947013347319d37d7a3ae007b4e9a7c6bdb26a89d0f7019eb86533ae506ae",
+        "processing": "Resize to 128x128 with sharp Lanczos3, WebP quality 85"
+      }
+    },
+    {
+      "itemId": "tanning_agent",
+      "file": "docs/design/whetstorm-art/items/tanning_agent.png",
+      "sha256": "8cd68792e8fc86c894e2a833f40974331219bb0493272ff863fb135ffec2bbc5",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy inventory item painting. Subject: Tanning Agent, a stoppered squat earthenware bottle with warm amber brown liquid and a simple tied leather cord, no label. Original hand-painted fantasy art, vibrant restrained colors, bold simple silhouette, centered whole object on dark painted background, readable at 32 pixels. No frame, text, letters, logo, watermark, characters, or copied game art.",
+      "reference": "None. Original generation from text only.",
+      "generator": "Codex built-in image_gen",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tanning_agent.webp",
+        "sha256": "7ba35a2d4e8faa78a85a9fe032068bee497cd6fc396e953ff858dcd3babca36b",
+        "processing": "Resize to 128x128 with sharp Lanczos3, WebP quality 85"
+      }
+    },
+    {
+      "itemId": "glass_vial",
+      "file": "docs/design/whetstorm-art/items/glass_vial.png",
+      "sha256": "104b3325e1f93420746d767664332b5f3c4183c38b93915e422a5de67c0fb0bf",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy inventory item painting. Subject: Glass Vial, a single empty clear glass vial with a cork stopper, visible glass rim and reflective highlights. Original hand-painted fantasy art, cool luminous hues, bold simple silhouette, centered whole object on dark painted background, readable at 32 pixels. No frame, text, letters, logo, watermark, characters, or copied game art.",
+      "reference": "None. Original generation from text only.",
+      "generator": "Codex built-in image_gen",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/glass_vial.webp",
+        "sha256": "88a460445d1766f024c0071c96a47b8357145cadd1c6156c0d40d55a91547014",
+        "processing": "Resize to 128x128 with sharp Lanczos3, WebP quality 85"
+      }
+    }
+  ]
+}

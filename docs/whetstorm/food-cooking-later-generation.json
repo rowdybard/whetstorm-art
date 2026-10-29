@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "frostgill_chowder",
+      "file": "docs/design/whetstorm-art/items/frostgill_chowder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original Whetstorm fantasy inventory item icon. Paint Frostgill Chowder: one rustic round ceramic bowl filled with creamy fish chowder, visible chunky fish and herbs. Whole bowl centered, bold readable silhouette, vibrant restrained hand-painted fantasy, dark painted background, no frame, no lettering, no logo, no watermark. Original design, do not imitate any existing game art.",
+      "status": "Original painting, reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "d6ccd31cfcfce1915fec282e25e9c175ed6367a9167974b54664ee18bad8064c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/frostgill_chowder.webp",
+        "sha256": "ada00389bb32a4420aace8f4e5b6c8ca762e1676508d5202c7f25bafad82a561",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "silvered_carp_supper",
+      "file": "docs/design/whetstorm-art/items/silvered_carp_supper.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original Whetstorm fantasy inventory item icon. Paint Silvered Carp Supper: a single whole cooked carp with silvery skin laid diagonally on a simple earthenware plate, a few green herbs. Whole plate centered, bold readable silhouette, vibrant restrained hand-painted fantasy, dark painted background, no frame, no lettering, no logo, no watermark. Original design, do not imitate any existing game art.",
+      "status": "Original painting, reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "93e2df55e4d67ed045b03e65ca02c0f692a561cf819339da5c831425443222b4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silvered_carp_supper.webp",
+        "sha256": "e027ab9613facbd657cf06fe01768982f996de49f7fa1fb3b4c220a2d664d091",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "anglers_feast_platter",
+      "file": "docs/design/whetstorm-art/items/anglers_feast_platter.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original Whetstorm fantasy inventory item icon. Paint Angler's Feast Platter: a wooden serving platter with two small golden grilled fish, lemon wedge and greens, arranged clearly as a hearty feast. Whole platter centered, bold readable silhouette, vibrant restrained hand-painted fantasy, dark painted background, no frame, no lettering, no logo, no watermark. Original design, do not imitate any existing game art.",
+      "status": "Original painting, reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "6a97a67e965e74d0028804982293ae54a5ed8c6763a9188503d433328f111927",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/anglers_feast_platter.webp",
+        "sha256": "73a8c788674c974647d098432a6d5d69524c0bd8227894186dbe91fac991112e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "marlows_grand_roast",
+      "file": "docs/design/whetstorm-art/items/marlows_grand_roast.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original Whetstorm fantasy inventory item icon. Paint Marlow's Grand Roast: a generous golden brown roasted joint of meat with a prominent bone, resting on a rustic wooden platter with a few root vegetables. Whole platter centered, bold readable silhouette, vibrant restrained hand-painted fantasy, dark painted background, no frame, no lettering, no logo, no watermark. Original design, do not imitate any existing game art.",
+      "status": "Original painting, reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "a7cef3f4c89939a0879676203883de713c01824a3ff996c4509f37b31174e0d5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/marlows_grand_roast.webp",
+        "sha256": "5246b189f2340c1d0b06086221c304981846eacbc46a3896f7ab32d22d92f279",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

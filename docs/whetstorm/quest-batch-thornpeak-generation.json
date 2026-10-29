@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/gravewyrm_sigil.png",
+      "itemId": "gravewyrm_sigil",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm fantasy inventory painting for gravewyrm_sigil: one tangible cult sigil, a small dark stone tablet bearing one carved dragon silhouette, used by gravecallers in a waking rite. Center complete subject with safe margins on an opaque dark slate-blue painted ground. Hand-painted, bold readable shapes, tactile stone, warm upper-left light, restrained eerie accent, crisp silhouette at 32 pixels. No text, letters, numbers, borders, frame, logo, watermark, hands, photorealism or copied game designs.",
+      "sha256": "d51598b47ffdf43e8d9689ecef649618a1de8c166cd03536f9ec48a6206e32a9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewyrm_sigil.webp",
+        "sha256": "89034d306d205fdd82bd7acf38972b188da09e7ab495905eba864b26eb6a1a7a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      },
+      "review": "docs/whetstorm/quest-batch-thornpeak-review.png"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/sanctum_key_shard.png",
+      "itemId": "sanctum_key_shard",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm fantasy inventory painting for sanctum_key_shard: one broken fragment of a stone gate keystone, visibly chipped irregular wedge with a broad fitted edge and restrained carved geometric channel, ancient weathered sandstone. Center complete fragment with safe margins on opaque dark slate-blue painted ground. Hand-painted fantasy, bold silhouette, tactile stone, warm upper-left light, readable at 32 pixels. No letters, numbers, borders, frame, logo, watermark, hands, photorealism or copied game designs.",
+      "sha256": "7a270f65531c6b6f8ab76e6a0629aae8b1f110f98d62eb2ff4c943ff68d850e6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sanctum_key_shard.webp",
+        "sha256": "8e8d8eb25525bdaa9fc5a71ff4cb5849b6e6c3868da12d8f7334475b9aa22235",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      },
+      "review": "docs/whetstorm/quest-batch-thornpeak-review.png"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/runed_bone_shard.png",
+      "itemId": "runed_bone_shard",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm fantasy inventory painting for runed_bone_shard: one jagged old ivory bone fragment bearing a single simple carved crown mark, evidence found on a revenant. Center complete shard with safe margins on opaque dark slate-blue painted ground. Bold hand-painted fantasy, clear bone material, warm upper-left light, restrained details and silhouette legible at 32 pixels. No text, letters, numbers, frame, logo, watermark, hands, photorealism or copied game designs.",
+      "sha256": "160176ed33f6d19123c9f7b61545a36834ea4892244b96633783d6c41d4b1e3f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/runed_bone_shard.webp",
+        "sha256": "0b3277c0a2bd220ab87441d2133ce438736d40ad444ad0758626b93057e87f7c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      },
+      "review": "docs/whetstorm/quest-batch-thornpeak-review.png"
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/royal_seal.png",
+      "itemId": "royal_seal",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm fantasy inventory painting for royal_seal, named Ancient Diary: one complete closed weathered leather-bound diary with a simple clasp, worn corners and visible pale page edges, no writing. Center in readable three-quarter view with safe margins on opaque dark slate-blue painted ground. Hand-painted fantasy, broad crisp silhouette, warm upper-left light, tactile leather and paper, readable at 32 pixels. No text, letters, numbers, border, frame, logo, watermark, hands, photorealism or copied game designs.",
+      "sha256": "bf0154486431f8d7eb1340834b9b91390256693bb87885722d9b0e417a066107",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/royal_seal.webp",
+        "sha256": "ed38f271573527a27af7e9a52caa80b9043d3463098614901d91dcbdf89eeea4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      },
+      "review": "docs/whetstorm/quest-batch-thornpeak-review.png"
+    }
+  ]
+}
