@@ -70,6 +70,22 @@ unclassified assets, embedded textures, release output and native packages are
 not covered by this count. Replacement choices and any further restricted
 files remain to be audited.
 
+### Named world and mount consumers
+
+| Assets | Consumer evidence in the inspected checkout | Planning implication |
+| --- | --- | --- |
+| `lanternback_troll` | `src/sim/clue_casket.ts` and `src/sim/content/items.ts` identify the treasure-casket mount reward; the renderer registers the model. | Preserve the reward and rider/animation behavior if substituting its visual. |
+| `terrorspark_groundshaker` | `src/sim/content/items.ts` describes its reins as developer-only with no ordinary acquisition; `mounts.ts` lists it as a developer mount. | Review developer and saved-state handling separately; do not assume a player-facing replacement is needed. |
+| `chimeglass_tortoise`, `goblin_rocket_sled` | `mount_skins.ts` registers both as cosmetic skins; their legacy reins are inert junk in `items.ts`. | Audit actual entitlement, acquisition and saved ownership before removing or replacing the skins. |
+| Four inscription tomes | `src/render/characters/manifest.ts` maps `silverleaf_primer`, `goldleaf_folio`, `sunpetal_grimoire` and `voidbound_grimoire` to the corresponding held models. | Preserve item-to-hand attachment and grip when remapping. |
+| Ferry, Wyrmwatch harbor, Wickharbor wharf and harbor | The transport and harbor content modules describe ferry routes, walkable decks, collision and the harbormaster house as coordinated with the rendered models. | Preserve pier surfaces, routes, collisions, interactions and visual alignment; a generic static mesh is not automatically a substitute. |
+| Harbormaster gear | `src/render/characters/manifest.ts` attaches the tricorne to `head` and spyglass to `hips`. | Fit replacements to those attachment frames and validate on the body. |
+| Harbor route marker | `src/sim/content/harbor_route_markers.ts` describes shared markers at ferry locations. | Preserve destinations and marker readability. |
+| `reeds.glb` | The credits register identifies it as restricted; this focused search did not establish its runtime consumer. | Trace placements and bundled/editor references before selecting a substitute or removal. |
+
+These are source-level findings, not evidence that every route or asset was
+observed in a running game. Recheck against the actual release candidate.
+
 The register identifies KayKit character models and animations as CC0; it
 also lists some Quaternius animated creatures as CC0. Retain a specific model
 only after confirming its exact file, derivative textures, animation sources
