@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "cmb_slayer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a weathered sword planted upright amid a scattering of broken enemy helmets on a rocky battlefield, suggesting many victories, no bodies or gore. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/cmb_slayer.png",
+      "masterSha256": "182511fd5b9448dbb01fbda0f6fbcd3b835a295b6fffd3435569473c108b6064",
+      "shipping": "public/ui/whetstorm/deeds/cmb_slayer.webp",
+      "shippingSha256": "fd8dfdfb047e663b7df745bc29ad274c1894e4e53e2c6148655001748ce1b8ab",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "cmb_heavy_hitter",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a massive iron warhammer striking a cracked stone slab with a burst of orange sparks, capturing a powerful impact. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/cmb_heavy_hitter.png",
+      "masterSha256": "31043d1e880ede6e895f5ff4e2e391e19ac89e88c353dc7da89beb61ab464fe7",
+      "shipping": "public/ui/whetstorm/deeds/cmb_heavy_hitter.webp",
+      "shippingSha256": "407fd2e0eee355d73f78aed5017f6d5e690b5ee614525eae46512a5d6ebb8486",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "cmb_critical_eye",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a single arrow piercing the center of a circular wooden target, with a sharp golden flash at the point of impact, symbolizing precision. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/cmb_critical_eye.png",
+      "masterSha256": "438611ff6e2b520dfe6507c3b4a44e58be3644476c87b0881ae4cdbfaa5f5546",
+      "shipping": "public/ui/whetstorm/deeds/cmb_critical_eye.webp",
+      "shippingSha256": "8a1b3a40c77ddfee4122f4f9b9fa613c269b8c448e9b9183730b2d3dad1370ee",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

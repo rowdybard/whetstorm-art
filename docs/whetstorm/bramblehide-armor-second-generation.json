@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "bramblehide_harness",
+      "file": "docs/design/whetstorm-art/items/bramblehide_harness.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/bramblehide_crown.png",
+          "sha256": "3ed19814b38792aefa4277c941a8838f7a7f0bd9ac2a99e8d3bdd89c4375d120"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Roots' Bramblehide Harness: one empty front-facing chest vest of rugged dark russet stitched leather with layered hide panels and subtle interwoven thorny brown root edging. No head, body, hands or mannequin. Deep navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style and shared set materials only, do not copy its hood. No writing, border, frame, watermark, or transparency.",
+      "status": "original Bramblehide armor painting; reviewed",
+      "sha256": "a046850b8de0065fd6aef2745c97c4cdaa4bd5a2d653ad9e106709912b215ef7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bramblehide_harness.webp",
+        "sha256": "b856719bda6988764c843b65563a90e60eef828e0a8a10cc52ee9f0e761c0fd2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bramblehide_cinch",
+      "file": "docs/design/whetstorm-art/items/bramblehide_cinch.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/bramblehide_crown.png",
+          "sha256": "3ed19814b38792aefa4277c941a8838f7a7f0bd9ac2a99e8d3bdd89c4375d120"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Roots' Bramblehide Cinch: one broad curved waist belt of rugged dark russet stitched leather with a plain clasp and subtle interwoven thorny brown root edging. No wearer. Deep navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style and shared set materials only, do not copy its hood. No writing, border, frame, watermark, or transparency.",
+      "status": "original Bramblehide armor painting; reviewed",
+      "sha256": "86b2e006d12af7cfed1d7332cc324e2f880d9eb9cfa5c5fb03e96b610a1bec2b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bramblehide_cinch.webp",
+        "sha256": "14e41108cf3d6b2674544ddc141f3ba06c93c5c1d11deed3df33a4a75f31fd2b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bramblehide_legguards",
+      "file": "docs/design/whetstorm-art/items/bramblehide_legguards.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/bramblehide_crown.png",
+          "sha256": "3ed19814b38792aefa4277c941a8838f7a7f0bd9ac2a99e8d3bdd89c4375d120"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Roots' Bramblehide Legguards: one complete empty pair of front-facing trousers of rugged dark russet stitched leather with reinforced knees and subtle interwoven thorny brown root edging. Legs clearly separated, no wearer or mannequin. Deep navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style and shared set materials only, do not copy its hood. No writing, border, frame, watermark, or transparency.",
+      "status": "original Bramblehide armor painting; reviewed",
+      "sha256": "2245bfb8ffef13dd024f6302d2461a229887ccbf1ad19ee2ebadd0161626d633",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bramblehide_legguards.webp",
+        "sha256": "3ddfc826f56b73aa4474fc2cd6c5fbe56cd626f3f39ce74ae1f94692b0c86df3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

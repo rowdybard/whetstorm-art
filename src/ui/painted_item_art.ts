@@ -22,6 +22,7 @@ import { armorBatchTwoItemImageUrl } from './armor_batch_two_item_art';
 import { bagsFishItemImageUrl } from './bags_fish_item_art';
 import { barksongItemImageUrl } from './barksong_item_art';
 import { bramblehideArmorItemImageUrl } from './bramblehide_armor_item_art';
+import { bramblehideArmorSecondItemImageUrl } from './bramblehide_armor_second_item_art';
 import { churchClothOriginalItemImageUrl } from './church_cloth_original_item_art';
 import { clothBatchFiveItemImageUrl } from './cloth_batch_five_item_art';
 import { clothBatchFourItemImageUrl } from './cloth_batch_four_item_art';
@@ -33,6 +34,7 @@ import { clothBroodItemImageUrl } from './cloth_brood_item_art';
 import { clothDelveAmberfallItemImageUrl } from './cloth_delve_amberfall_item_art';
 import { consumableBatchItemImageUrl } from './consumable_batch_item_art';
 import { craftReagentOriginalBatchItemImageUrl } from './craft_reagent_original_batch_item_art';
+import { craghornIceveinItemImageUrl } from './craghorn_icevein_item_art';
 import { drogmarQuestWeaponsItemImageUrl } from './drogmar_quest_weapons_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { earlyMaterialEightItemImageUrl } from './early_material_eight_item_art';
@@ -82,6 +84,8 @@ import { jewelryChampionsItemImageUrl } from './jewelry_champions_item_art';
 import { jewelryFactionCraftItemImageUrl } from './jewelry_faction_craft_item_art';
 import { jewelryForgeItemImageUrl } from './jewelry_forge_item_art';
 import { jewelryHeroicQuartermasterItemImageUrl } from './jewelry_heroic_quartermaster_item_art';
+import { jewelryIgnivarNecklacesItemImageUrl } from './jewelry_ignivar_necklaces_item_art';
+import { jewelryVanguardPendantsItemImageUrl } from './jewelry_vanguard_pendants_item_art';
 import { leatherBatchCraftedItemImageUrl } from './leather_batch_crafted_item_art';
 import { leatherBatchOriginalItemImageUrl } from './leather_batch_original_item_art';
 import { leatherDelveNextItemImageUrl } from './leather_delve_next_item_art';
@@ -121,7 +125,9 @@ import { questBatchHighwatchItemImageUrl } from './quest_batch_highwatch_item_ar
 import { questBatchSixteenItemImageUrl } from './quest_batch_sixteen_item_art';
 import { questBatchWaterwaysItemImageUrl } from './quest_batch_waterways_item_art';
 import { questDropsScalesItemImageUrl } from './quest_drops_scales_item_art';
+import { questGlowingDropsItemImageUrl } from './quest_glowing_drops_item_art';
 import { questHighwatchSecondItemImageUrl } from './quest_highwatch_second_item_art';
+import { questRealmCollectionItemImageUrl } from './quest_realm_collection_item_art';
 import { questRelicsItemImageUrl } from './quest_relics_item_art';
 import { questShoreOriginalItemImageUrl } from './quest_shore_original_item_art';
 import { questSignetBrandItemImageUrl } from './quest_signet_brand_item_art';
@@ -136,6 +142,7 @@ import { shadowpulseItemImageUrl } from './shadowpulse_item_art';
 import { skullsplitterItemImageUrl } from './skullsplitter_item_art';
 import { starterItemImageUrl } from './starter_item_art';
 import { templeQuestWeaponsItemImageUrl } from './temple_quest_weapons_item_art';
+import { thornWeaponItemImageUrl } from './thorn_weapon_item_art';
 import { thornpeakTrophyMaterialItemImageUrl } from './thornpeak_trophy_material_item_art';
 import { toolBatchFiveItemImageUrl } from './tool_batch_five_item_art';
 import { toolBatchFourItemImageUrl } from './tool_batch_four_item_art';
@@ -159,6 +166,7 @@ import { weaponBatchTwentyItemImageUrl } from './weapon_batch_twenty_item_art';
 import { weaponBatchTwentyfourItemImageUrl } from './weapon_batch_twentyfour_item_art';
 import { weaponBatchTwentyoneItemImageUrl } from './weapon_batch_twentyone_item_art';
 import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_item_art';
+import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
@@ -166,6 +174,14 @@ export function paintedItemImageUrl(id: string): string | null {
     materialEssenceBatchItemImageUrl(id) ??
     galecallArmorItemImageUrl(id) ??
     bramblehideArmorItemImageUrl(id) ??
+    bramblehideArmorSecondItemImageUrl(id) ??
+    craghornIceveinItemImageUrl(id) ??
+    jewelryVanguardPendantsItemImageUrl(id) ??
+    jewelryIgnivarNecklacesItemImageUrl(id) ??
+    wraithfireArmorItemImageUrl(id) ??
+    questRealmCollectionItemImageUrl(id) ??
+    questGlowingDropsItemImageUrl(id) ??
+    thornWeaponItemImageUrl(id) ??
     gravewyrmWeaponItemImageUrl(id) ??
     questDropsScalesItemImageUrl(id) ??
     skullsplitterItemImageUrl(id) ??

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "cragthorn_greatstaff",
+      "file": "docs/design/whetstorm-art/items/cragthorn_greatstaff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Cragthorn Greatstaff, a complete long rugged wooden two-handed staff crowned by a fork of stone-grey thorn branches with a modest pale green stone held between them, leather wrappings, practical weathered finish. Diagonal silhouette with margins; readable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, lettering, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "1913061e272650364a59bf74d35000eb5cfb8c0dc9575e61d2fe5f5e42c3267d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cragthorn_greatstaff.webp",
+        "sha256": "3584b9e244c07d05b5c2d31755c17293f181cd9ecddf09454af8cb038c77fd07",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-574de214-dd23-4f74-a78a-c3ce6f850397.png"
+    },
+    {
+      "itemId": "gravewyrm_thornmaul",
+      "file": "docs/design/whetstorm-art/items/gravewyrm_thornmaul.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Gravewyrm Thornmaul, a complete heavy two-handed maul with a dark iron hammer head, short blunt thorn-like projections and pale bone inlays, a long leather-wrapped wooden haft. Diagonal silhouette with margins; readable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, lettering, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "99fe2b7f38efe578ead4632eb6a1876f60d31a9d4bae68109d288228a81de546",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewyrm_thornmaul.webp",
+        "sha256": "d4a67e608784961621d2c22b68fd1c669c309bf2ff6113aa0a828f63c59efd54",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-ddc0fc19-62ba-4bca-b25a-1ab781742a54.png"
+    }
+  ]
+}

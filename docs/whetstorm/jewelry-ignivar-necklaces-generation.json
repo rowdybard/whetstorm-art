@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "pendant_of_the_first_tempering",
+      "file": "docs/design/whetstorm-art/items/pendant_of_the_first_tempering.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Pendant of the First Tempering: a blackened iron pendant shaped as a small forge anvil with glowing amber fissures and gold edging, hanging on a dark chain. Original hand-painted fantasy, tactile metal, warm upper-left light, centered bold silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "8df6d16b6cc431aac06972fccbd4fdbec0d1aab31c63f58905af142b7d3c0ea1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pendant_of_the_first_tempering.webp",
+        "sha256": "96bd71ac0074e61e5c2d9e8027b87fe81b6b40a549d94e33fd3e6a7b56086bb9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ignivars_ember_choker",
+      "file": "docs/design/whetstorm-art/items/ignivars_ember_choker.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Ignivar's Ember Choker: a curved dark iron choker collar with copper trim and a central faceted ember-orange gem, scorched but elegant. Original hand-painted fantasy, tactile metal, warm upper-left light, centered bold silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "e3ae6265b5fb126be347eeedbe4c2b2679acd7956d76ac875e7fc5ed4f759769",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ignivars_ember_choker.webp",
+        "sha256": "9c1771be4500b92a84eee2c9695c43870916ddb0e6f58af11002eda8af29a620",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "locket_of_the_last_flame",
+      "file": "docs/design/whetstorm-art/items/locket_of_the_last_flame.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Locket of the Last Flame: a closed oval gold locket engraved with a flame motif, the center holds a glowing red ember, hanging on a fine dark chain. Original hand-painted fantasy, tactile metal, warm upper-left light, centered bold silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "c905799aecb2694adb2828a3137486727cee4dd595f0ea8140bf001b388bf95b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/locket_of_the_last_flame.webp",
+        "sha256": "0572afc5939150468a042ee6fcb1bda09eb169ab4b80ae9bd280f3ed0728f317",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "heartspring_amulet",
+      "file": "docs/design/whetstorm-art/items/heartspring_amulet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Heartspring Amulet: a heart-shaped polished rose gold setting holding a bright aquamarine stone, with delicate flowing water motifs and a fine dark chain. Original hand-painted fantasy, tactile metal, warm upper-left light, centered bold silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "686456ba3c8143d6fd5b8eaded7f156b44f20d8e35ef9cac09bed5bcb034c533",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/heartspring_amulet.webp",
+        "sha256": "936a2f7213e23b9e3ad44fbf7b73e31e5758562068417766e87dce06cd1d5ca4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

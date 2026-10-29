@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gleaming_antler",
+      "file": "docs/design/whetstorm-art/items/gleaming_antler.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one elegant branching deer antler, polished ivory gold with a gentle magical glimmer, displayed diagonally against a dark forest-green painted background. Square painted edge to edge, complete bold centered silhouette, stylized fantasy hand painting, warm upper left light, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "33054d2ccf439210c005ef2033b37699ec18f3e3c94e605af7689c0043c93738",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gleaming_antler.webp",
+        "sha256": "05226e7c37db12e0e1ada4fc63d4bbc93d7f5453e9c2ab7ff7f26353eea95078",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "elder_bark",
+      "file": "docs/design/whetstorm-art/items/elder_bark.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one ancient treant bark fragment, thick curled dark brown wood with vivid green moss and a faint inner golden glow in its grain, against a dark forest-green painted background. Square painted edge to edge, complete bold centered silhouette, stylized fantasy hand painting, warm upper left light, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "051ccfc2745bfb16fee5a57e3b404e2792410aceedca34c02e2b3f20e99bf436",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/elder_bark.webp",
+        "sha256": "f639eadd4550a661d9655abbdc6381edb5a3bbcd7240b52bb15009c89215ecb7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "starfall_shard",
+      "file": "docs/design/whetstorm-art/items/starfall_shard.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one jagged translucent starfall crystal shard glowing pale blue with flecks of starlight, against a dark midnight-blue painted background. Square painted edge to edge, complete bold centered silhouette, stylized fantasy hand painting, warm upper left light, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "47ad23ee1d9296782ccb1fbc72ef7f1b30ce41efd0451ea491c5cedd113dc6d5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/starfall_shard.webp",
+        "sha256": "bd80033c08428c4e20a39346333d755e24ef3a89bacf4d739dee4d7281f4f7e0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

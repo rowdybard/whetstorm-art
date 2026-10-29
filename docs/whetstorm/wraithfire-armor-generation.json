@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "soulflame_cowl",
+      "file": "docs/design/whetstorm-art/items/soulflame_cowl.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Wraithfire Cowl: one empty hood of deep violet cloth with pale blue embroidered flame edging and subtle spectral-blue glow along its seams. No face, mannequin or body. Dark navy painted vignette, warm top-left light, tactile hand-painted cloth, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Wraithfire armor painting; reviewed",
+      "sha256": "c80503d37c04f42985522d235c8fc670ec6c73e7c998e8c679ea9f9dafcdeead",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/soulflame_cowl.webp",
+        "sha256": "579b440bed16fc2aa1d34ba0fe4d1d35354197750fffeab6b089d89ac7b1c1a0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "soulflame_mantle",
+      "file": "docs/design/whetstorm-art/items/soulflame_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Wraithfire Mantle: one empty symmetrical cloth shoulder mantle of deep violet fabric with pale blue embroidered flame edging and subtle spectral-blue glow along its seams. No wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted cloth, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Wraithfire armor painting; reviewed",
+      "sha256": "c17bcb9a19ad42437dc711b590558ae374fd74ea86d7fe427f04a2815429d21d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/soulflame_mantle.webp",
+        "sha256": "a4d22157b225b300f37ad2254a3bd9214a181d219e52ea7e1ed4d8c64820e996",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "soulflame_gloves",
+      "file": "docs/design/whetstorm-art/items/soulflame_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Wraithfire Gloves: a compact natural pair of empty deep violet cloth gloves with pale blue embroidered flame edging and subtle spectral-blue glow along the cuffs. No wearer. Dark navy painted vignette, warm top-left light, tactile hand-painted cloth, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Wraithfire armor painting; reviewed",
+      "sha256": "f23b89922584f10d69a774acbcc52a7e6b9b5bb2891fe449fc64155be3d335eb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/soulflame_gloves.webp",
+        "sha256": "3a33b4563189b17af6004c4f07b010359222643c47ac2ee5ff3f375c7216d7ff",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "soulflame_cord",
+      "file": "docs/design/whetstorm-art/items/soulflame_cord.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Wraithfire Cord: one broad knotted waist sash of deep violet cloth with pale blue embroidered flame edging and subtle spectral-blue glow along its seams. No wearer. Dark navy painted vignette, warm top-left light, tactile hand-painted cloth, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Wraithfire armor painting; reviewed",
+      "sha256": "1d97c2bedc08d55ef114a35e159134cbfdd443bf464ce5250c671a2f7773aaad",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/soulflame_cord.webp",
+        "sha256": "377bebe4d45bb20bfef1642aaebfd6deb320499ff5fbfb7196449b03e12dcf72",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

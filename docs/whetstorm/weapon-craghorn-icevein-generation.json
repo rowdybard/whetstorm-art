@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "craghorn_staff",
+      "file": "docs/design/whetstorm-art/items/craghorn_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square inventory painting for a dark fantasy game. A single complete Craghorn Staff: simple common adventurer's wooden staff, forked natural horn lashed to the top with rough leather, stone-grey wood and restrained wear. Full diagonal silhouette with ample margin on all sides; readable at small size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, lettering, frame, watermark or existing game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "bebbb74b724f3f8c85c43bc8f1e8cace5d352dadf6a74edec54b87baa125a00c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/craghorn_staff.webp",
+        "sha256": "5d3138b2f3d80825d302f582c215690a4754492c1fff676d8c8094c10cce982c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-91223259-48c9-4176-8959-426fb187adf4.png"
+    },
+    {
+      "itemId": "icevein_dirk",
+      "file": "docs/design/whetstorm-art/items/icevein_dirk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square inventory painting for a dark fantasy game. A single complete Icevein Dirk: common practical short steel dagger with a subtle narrow icy-blue mineral vein in its blade, simple iron guard and worn dark leather grip. Full diagonal silhouette with ample margin on all sides; readable at small size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, lettering, frame, watermark or existing game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "786310a6b6c390b7d582f3d3cc44d733909065faf9940c5748a47264ffda7ff9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/icevein_dirk.webp",
+        "sha256": "88694897fea368e8668b3e7d1fb289c97c8ed5f6b8965610c2b38d2ab1ef9569",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-ad494295-73bf-4bc0-beec-520a7f9eae27.png"
+    }
+  ]
+}

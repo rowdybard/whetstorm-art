@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "prog_first_craft",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a pair of hands carefully shaping a small clay bowl on a workbench, warm workshop light, representing a first craft. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_first_craft.png",
+      "masterSha256": "06c055926ad74d53d97b1915da6cc1b6e93e3956d8e00481cb6c49102730af24",
+      "shipping": "public/ui/whetstorm/deeds/prog_first_craft.webp",
+      "shippingSha256": "c2ff901bb274a0c0a1d0c15b7e4f43e71c131b4e44cb0bd63413041bc43c2484",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_craft_specialist",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a master artisan's fine brass calipers and a small glowing jewel on a workbench, representing skilled specialization. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_craft_specialist.png",
+      "masterSha256": "ed655909248ddf39fa8dcad9e05c5a49d9e756f13f5404285a3e40cf5c7953fa",
+      "shipping": "public/ui/whetstorm/deeds/prog_craft_specialist.webp",
+      "shippingSha256": "f225dd937b34da2f6d66f3c3cc9636fd2ec9f3782632fc461cbb6185a519d5aa",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_around_the_ring",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a circular arrangement of five distinct craft tools: hammer, needle, saw, mortar and chisel, around a glowing anvil, representing breadth of craft. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_around_the_ring.png",
+      "masterSha256": "16a1a9b41ab34905d05edaaca063d91c177cadee516c5aebda21b6075cc728d3",
+      "shipping": "public/ui/whetstorm/deeds/prog_around_the_ring.webp",
+      "shippingSha256": "50a082a6e1b2d506a2971898ced0dc2e22204f4c12530822388ec07c962d0eda",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

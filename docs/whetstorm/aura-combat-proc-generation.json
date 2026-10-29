@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "battle_trance",
+      "runtimeIds": [
+        "battle_trance"
+      ],
+      "file": "docs/design/whetstorm-art/auras/battle_trance.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original battle trance status: a steel warrior's helmet with a bright cyan focused eye slit and a subtle swirling blue energy halo, centered large. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "8a6bfec42d7f3579bbf6ee5d005296fd3db1de6f11d6b04f2d9d3f6ba7550959",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/battle_trance.webp",
+        "sha256": "0dc8adb5721ca61a9ebd32df22fd0eb973e9c7b1cc3602a22f060cf9a7fb627b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/battle_trance.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "cauterize_fatigue",
+      "runtimeIds": [
+        "cauterize_fatigue"
+      ],
+      "file": "docs/design/whetstorm-art/auras/cauterize_fatigue.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original cauterize fatigue lockout status: a dark iron heart with a dim glowing ember fissure and a closed small iron clasp beneath, conveying exhausted protection. Bold simple silhouette, charcoal background, muted orange and iron, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "9ec70298f73addd2254b3cf994eb33701ce2403809737d7ba98a40091dce0a54",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/cauterize_fatigue.webp",
+        "sha256": "cc0e82aea013973f4705de1f0b4bc343520718d31c38ef3070d721937d700488",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/cauterize_fatigue.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "cauterizing",
+      "runtimeIds": [
+        "cauterizing"
+      ],
+      "file": "docs/design/whetstorm-art/auras/cauterizing.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original cauterized burn status: a single glowing orange flame curling tightly around a dark red coal, a few sparks, suggesting an active self-inflicted burn. Bold simple silhouette, charcoal background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "e98e8567ee5c17e485f58ea104ae8ff6e06256f71798b8d7f937d630c07381df",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/cauterizing.webp",
+        "sha256": "a3aba6c265024af8199c6eb5f8fbfa2b240a5fce1bc61c36fbe08c913fdebec4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/cauterizing.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "heating_up",
+      "runtimeIds": [
+        "heating_up"
+      ],
+      "file": "docs/design/whetstorm-art/auras/heating_up.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original heating up status: a bright orange spark hovering over a small red-hot iron spiral, a contained ember beginning to flare. Bold simple silhouette, charcoal background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "aecbc50249906978282e3782f4f319912e2d5fcdc601453043adc8f0d3584cff",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/heating_up.webp",
+        "sha256": "44a7a9c0b4242299bf0f0707dc4793e6fd173bcfb4eb93d28dc06ceaa107fd10",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/heating_up.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

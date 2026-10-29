@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "vanguard_pendant_of_might",
+      "file": "docs/design/whetstorm-art/items/vanguard_pendant_of_might.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint a single Vanguard's Pendant of Might: heavy bronze and iron pendant shaped like a stout shield, inset with a luminous red garnet, hanging from a short dark chain. Original hand-painted fantasy, tactile metal, warm upper-left light, bold centered complete silhouette on a dark vignette, readable at small sizes. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "f3260d5881f10aa24847388a86137ac319a83739848878b00976bf6c9ae50cae",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_pendant_of_might.webp",
+        "sha256": "8c43feba659d4fbdcace8bc8c49ccee51c418295aec7fd45acd1634096da133a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_pendant_of_precision",
+      "file": "docs/design/whetstorm-art/items/vanguard_pendant_of_precision.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint a single Vanguard's Pendant of Precision: slender silver pendant shaped like a pointed arrowhead with fine brass inlay and a small green gemstone, hanging from a short dark chain. Original hand-painted fantasy, tactile metal, warm upper-left light, bold centered complete silhouette on a dark vignette, readable at small sizes. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "bfa4dace38462506759112912b935323f8dee26b7a375648a7216935f10883af",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_pendant_of_precision.webp",
+        "sha256": "114d94368b7f8a988255f910b6c4b839afc50050bb70b3ceb92b0b730abd18f0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_pendant_of_focus",
+      "file": "docs/design/whetstorm-art/items/vanguard_pendant_of_focus.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint a single Vanguard's Pendant of Focus: elegant gold pendant shaped like a four-pointed star surrounding a large sapphire, hanging from a short dark chain. Original hand-painted fantasy, tactile metal, warm upper-left light, bold centered complete silhouette on a dark vignette, readable at small sizes. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "e0253543a828c112e0b7ba2ca5fb222d4cf7ced52e70471311740cd5f7e5e426",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_pendant_of_focus.webp",
+        "sha256": "f421ed1f0f9c73a9ed7d83a9155d81937ea96aa07e1cdb7fa50080f2f63374ff",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_pendant_of_mending",
+      "file": "docs/design/whetstorm-art/items/vanguard_pendant_of_mending.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint a single Vanguard's Pendant of Mending: polished silver pendant shaped like a pair of leaves cradling a luminous pale green oval gemstone, hanging from a short dark chain. Original hand-painted fantasy, tactile metal, warm upper-left light, bold centered complete silhouette on a dark vignette, readable at small sizes. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "053ff83da2c63631097991867e2cddac2c485e73183ac66071fc48d15cd243e1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_pendant_of_mending.webp",
+        "sha256": "f3c7ee943b8701fb250fcd41b69ed4235beecf87d60d46e183c53552aa97258a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "aurora_mote",
+      "file": "docs/design/whetstorm-art/items/aurora_mote.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a single luminous aurora mote, a floating jewel-like core of icy teal and violet light with a compact curling ribbon of aurora around it, against dark midnight blue. Square painted edge to edge, centered bold silhouette, stylized fantasy hand painting, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "ee04e8e5376fafd5b5550c4fa65d3b4ac4cdd2ce108821daa2169b990e25389a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/aurora_mote.webp",
+        "sha256": "b34eb74ed434e42a2a6cab83bd2c4e3df661edb2e3393c7abcfadcd133e4f50d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "blessed_embers",
+      "file": "docs/design/whetstorm-art/items/blessed_embers.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a small cluster of blessed embers, three glowing golden-red coals with a delicate white-gold sacred shimmer, resting on dark stone against a deep charcoal background. Square painted edge to edge, centered bold silhouette, stylized fantasy hand painting, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "245b99ab6bca6edc0b7e0a921771a33364a7aaff6726bdd8e715323c06768baa",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/blessed_embers.webp",
+        "sha256": "353325dc5bc8b6093ed51827d639154133a700babdb6359e8583493383ea2fa4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gilded_sap_clot",
+      "file": "docs/design/whetstorm-art/items/gilded_sap_clot.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one thick irregular clot of translucent golden tree sap with a warm glow and tiny air bubbles, resting on dark bark against a deep forest green background. Square painted edge to edge, centered bold silhouette, stylized fantasy hand painting, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "2fd44987196ff7804c0e13b53df1a754fd199cb362d89108e4090285006a2d38",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gilded_sap_clot.webp",
+        "sha256": "9da5bdace32d1819cd967bff41ec75e37c76f7661171dfc1fabf25096c600773",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
