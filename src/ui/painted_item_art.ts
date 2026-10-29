@@ -18,9 +18,11 @@ import { armorBatchTwentyItemImageUrl } from './armor_batch_twenty_item_art';
 import { armorBatchTwentyoneItemImageUrl } from './armor_batch_twentyone_item_art';
 import { armorBatchTwentytwoItemImageUrl } from './armor_batch_twentytwo_item_art';
 import { armorBatchTwoItemImageUrl } from './armor_batch_two_item_art';
+import { bagsFishItemImageUrl } from './bags_fish_item_art';
 import { clothBatchFiveItemImageUrl } from './cloth_batch_five_item_art';
 import { clothBatchFourItemImageUrl } from './cloth_batch_four_item_art';
 import { clothBatchOneItemImageUrl } from './cloth_batch_one_item_art';
+import { clothBatchSixItemImageUrl } from './cloth_batch_six_item_art';
 import { clothBatchThreeItemImageUrl } from './cloth_batch_three_item_art';
 import { clothBatchTwoItemImageUrl } from './cloth_batch_two_item_art';
 import { consumableBatchItemImageUrl } from './consumable_batch_item_art';
@@ -63,6 +65,7 @@ import { jewelryForgeItemImageUrl } from './jewelry_forge_item_art';
 import { leatherBatchCraftedItemImageUrl } from './leather_batch_crafted_item_art';
 import { leatherBatchOriginalItemImageUrl } from './leather_batch_original_item_art';
 import { leatherDelveNextItemImageUrl } from './leather_delve_next_item_art';
+import { leatherLitanyOriginalItemImageUrl } from './leather_litany_original_item_art';
 import { leatherPeakNextItemImageUrl } from './leather_peak_next_item_art';
 import { leatherThornpeakItemImageUrl } from './leather_thornpeak_item_art';
 import { leatherWyrmOriginalItemImageUrl } from './leather_wyrm_original_item_art';
@@ -82,7 +85,9 @@ import { materialHarvestNextItemImageUrl } from './material_harvest_next_item_ar
 import { materialHerbHideBatchItemImageUrl } from './material_herb_hide_batch_item_art';
 import { materialHighpineNextItemImageUrl } from './material_highpine_next_item_art';
 import { materialOrewoodBatchItemImageUrl } from './material_orewood_batch_item_art';
+import { materialProvisioningItemImageUrl } from './material_provisioning_item_art';
 import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
+import { potionAlchemyNextItemImageUrl } from './potion_alchemy_next_item_art';
 import { questBatchCluesCryptItemImageUrl } from './quest_batch_clues_crypt_item_art';
 import { questBatchHighwatchItemImageUrl } from './quest_batch_highwatch_item_art';
 import { questBatchSixteenItemImageUrl } from './quest_batch_sixteen_item_art';
@@ -119,6 +124,11 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    bagsFishItemImageUrl(id) ??
+    clothBatchSixItemImageUrl(id) ??
+    leatherLitanyOriginalItemImageUrl(id) ??
+    materialProvisioningItemImageUrl(id) ??
+    potionAlchemyNextItemImageUrl(id) ??
     foodEvergardenGreensItemImageUrl(id) ??
     leatherWyrmOriginalItemImageUrl(id) ??
     mailBatchGraveItemImageUrl(id) ??

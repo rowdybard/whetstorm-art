@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "siltstep_leggings",
+      "file": "docs/design/whetstorm-art/items/siltstep_leggings.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for siltstep_leggings, Siltstep Leggings. Square painted edge to edge: one complete pair of weathered brown leather leggings with overlapping silt-grey knee guards and restrained stitching, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, stylized fantasy, hand-painted broad forms, readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "86b8ffc02542839da209c1a64b76a3385ebea8766d34822279625d7be8ecb420",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/siltstep_leggings.webp",
+        "sha256": "004014f286c2240a5c23116fc3b5b71b02ceed8b72783189eb5071248f1194dc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "litany_gloves_rog",
+      "file": "docs/design/whetstorm-art/items/litany_gloves_rog.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for litany_gloves_rog, Reed-Bound Handwraps. Square painted edge to edge: a complete pair of muted olive leather handwraps with reed-fiber bindings around the wrists and fingers, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, stylized fantasy, hand-painted broad forms, readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "eb35b1d04299210b4927675a8c0178c3d5322a879eecebd29464dff0c62e4943",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/litany_gloves_rog.webp",
+        "sha256": "26f82ba6849261603d573a2359449718d60e514a0b8d100aaca69da8e65023cd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "litany_leather_chest",
+      "file": "docs/design/whetstorm-art/items/litany_leather_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for litany_leather_chest, Silt-Deep Vestment. Square painted edge to edge: one complete sleeveless deep muddy umber leather vest with layered slate-grey hide panels and simple brass ties, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, stylized fantasy, hand-painted broad forms, readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "36c2ff1d6efcd931f0909d73c5c6645c819c65cbbede5c7359683c4bc9c6e5f7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/litany_leather_chest.webp",
+        "sha256": "34eb4fe6e66df2ac948c4698f8a5b3f99e5cd0122b88995113f187745fa1cab3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "drownstep_treads",
+      "file": "docs/design/whetstorm-art/items/drownstep_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for drownstep_treads, Drownstep Treads. Square painted edge to edge: a complete pair of dark teal-brown leather boots with broad folded cuffs, wrapped ankle straps and pale weathered soles, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, stylized fantasy, hand-painted broad forms, readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "d490b0b45118dfb9e09ee360c545f7b9a80fb37ebf32eb565cfde356b6a67a3c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drownstep_treads.webp",
+        "sha256": "4489d0217ff2402c279203c350d39848da17e35e774504a722480372b2baa60c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

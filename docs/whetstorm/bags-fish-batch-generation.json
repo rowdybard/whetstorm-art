@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/linen_pouch.png",
+      "subject": "a small six-slot LINEN POUCH",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for linen_pouch, a small six-slot LINEN POUCH. Square painted edge to edge on a dark slate blue background. Show a single complete compact pale flax linen drawstring pouch, soft woven cloth with gathered neck and simple cord bow, no leather, centered. Original stylized fantasy hand painting, bold simple silhouette, warm upper-left lighting, broad forms, restrained details legible at 32 pixels. No frame, text, letters, logo, watermark, other objects, photorealism or copied game designs.",
+      "sha256": "fd375eeb5008942c28f1418b99f47420d8122a64604b43098200be60ac580137",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "linen_pouch",
+      "status": "original art prepared for integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/linen_pouch.webp",
+        "sha256": "f6dc57cf2970a685342e9adebf02a840927b2c43d07c219a85c6d747a71cc132",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/travelers_knapsack.png",
+      "subject": "an eight-slot TRAVELER'S KNAPSACK",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for travelers_knapsack, an eight-slot TRAVELER'S KNAPSACK. Square painted edge to edge on a dark slate blue background. Show a single complete practical brown leather and canvas backpack, rounded flap and two sturdy buckled straps, centered, clearly distinct from a drawstring pouch. Original stylized fantasy hand painting, bold simple silhouette, warm upper-left lighting, broad forms, restrained details legible at 32 pixels. No frame, text, letters, logo, watermark, other objects, photorealism or copied game designs.",
+      "sha256": "6a9cc45ef63267debb6e17f734a2357b0b16af2f496fe1f35a2b7c8a06dd3fb6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "travelers_knapsack",
+      "status": "original art prepared for integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/travelers_knapsack.webp",
+        "sha256": "c7e50262cadc84c16f27c26b6aba6303a794015764b57f75f0495e4dbe38d249",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/raw_mirror_trout.png",
+      "subject": "a RAW MIRROR TROUT fishing catch",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for raw_mirror_trout, a RAW MIRROR TROUT fishing catch. Square painted edge to edge on a dark slate blue background. Show one whole fresh uncut silvery trout with a broad reflective blue-silver flank, subtle speckles and recognizable trout fins, diagonally centered, head and tail fully visible. Original stylized fantasy hand painting, bold simple silhouette, warm upper-left lighting, broad forms, restrained details legible at 32 pixels. No plate, garnish, hook, frame, text, letters, logo, watermark, other objects, photorealism or copied game designs.",
+      "sha256": "e80a8e0ef78c487cfd4180f9447eb123b88243b773a88575a538b399ecd89cdc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "raw_mirror_trout",
+      "status": "original art prepared for integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/raw_mirror_trout.webp",
+        "sha256": "f3032fe4a5afc45891aa6b306ac2d496b57b3181518fcbf3c7cd1b613445203a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/raw_marsh_pike.png",
+      "subject": "a RAW MARSH PIKE fishing catch",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for raw_marsh_pike, a RAW MARSH PIKE fishing catch. Square painted edge to edge on a dark slate blue background. Show one whole fresh uncut pike with long torpedo-shaped olive-green body, elongated duckbill snout and pale mottling, diagonally centered, head and tail fully visible. Original stylized fantasy hand painting, bold simple silhouette, warm upper-left lighting, broad forms, restrained details legible at 32 pixels. No plate, garnish, hook, frame, text, letters, logo, watermark, other objects, photorealism or copied game designs.",
+      "sha256": "814b6da3f1d4bdc658eb3043d7d2565de78677838e3faa2dfcbb84a573a1b20d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "raw_marsh_pike",
+      "status": "original art prepared for integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/raw_marsh_pike.webp",
+        "sha256": "1efcbb917a073374d098dee275195f169af5641a2bd425a7353a7cda8673d1e0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    }
+  ]
+}

@@ -795,3 +795,10 @@ in `docs/whetstorm/mail-batch-grave-generation.json`,
 `docs/whetstorm/food-evergarden-greens-generation.json`,
 `docs/whetstorm/material-advance-generation.json`, and
 `docs/whetstorm/quest-batch-signet-brand-generation.json`.
+
+Twenty original bag, fish, cloth, leather, material and alchemy paintings are
+recorded in `docs/whetstorm/bags-fish-batch-generation.json`,
+`docs/whetstorm/cloth-batch-six-generation.json`,
+`docs/whetstorm/leather-litany-original-generation.json`,
+`docs/whetstorm/material-provisioning-generation.json`, and
+`docs/whetstorm/potion-alchemy-next-generation.json`.

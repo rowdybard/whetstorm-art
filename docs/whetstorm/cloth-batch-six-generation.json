@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/ridgestalker_treads.png",
+      "subject": "ridgestalker_treads",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for ridgestalker_treads, Ridgestalker Treads, a cloth footwear quest reward from a cold mountain ridge. Square painting edge to edge, whole pair of sturdy soft woven cloth boots with thick pale wool cuffs, slate-brown fabric and simple wrapped bindings, isolated and centered on a dark slate-blue painted background. Emphasize fabric rather than leather, readable silhouette at 32 pixels. Original stylized fantasy, hand-painted broad forms, warm upper-left light, restrained detail. No wearer, stand, other objects, border, text, logo, watermark, glow or imitation of any game.",
+      "sha256": "33cab303c1be2ab09a2ae8a1e3da923e6c6e9d6ac302f4ec4664184ffe0c6795",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "ridgestalker_treads",
+      "status": "original art prepared for integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ridgestalker_treads.webp",
+        "sha256": "378f6bbc4b5bb1d8b4968411ec1583e87e6f2ecfb8c22aeb55f8478c47437f39",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/stormshard_leggings.png",
+      "subject": "stormshard_leggings",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for stormshard_leggings, Stormshard Leggings, a cloth quest reward. Square painting edge to edge, one complete empty pair of deep storm-blue woven cloth leggings with a broad pale gray waistband and a few angular icy-blue stitched accents, centered against a dark slate-blue painted background. Clearly fabric, distinct two-leg silhouette, readable at 32 pixels. Original stylized fantasy, hand-painted broad forms, warm upper-left light, restrained detail. No wearer, stand, other objects, border, text, logo, watermark, glow or imitation of any game.",
+      "sha256": "23e7a02c1e7c6a389b512575c6cbc49d346f6efda6b54f56cc96d3602a144cf5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "stormshard_leggings",
+      "status": "original art prepared for integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormshard_leggings.webp",
+        "sha256": "e664307bdbabf28646f96ffbc8aa227f314a9f3b2fec47722b05775be194ab58",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/revenant_silk_robe.png",
+      "subject": "revenant_silk_robe",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for revenant_silk_robe, Revenant Silk Robe, a cloth quest reward. Square painting edge to edge, one complete empty long-sleeved robe of muted violet-gray silk with broad flowing folds, a pale gray sash and restrained ivory edging, centered against a dark slate-blue painted background. Silky fabric and robe silhouette clear at 32 pixels. Original stylized fantasy, hand-painted broad forms, warm upper-left light, restrained detail. No wearer, stand, bones, other objects, border, text, logo, watermark, glow or imitation of any game.",
+      "sha256": "e5074fc68fdc9738d58e1317ee0d595b4d3babb8f469d9d26d7f5a5b487a5ec3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "revenant_silk_robe",
+      "status": "original art prepared for integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/revenant_silk_robe.webp",
+        "sha256": "7c0c9b7e47565e8f4d1d7e372525f6911a66fedee50af2d88fa8d4b30571f64b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/korgaths_chainwraps.png",
+      "subject": "korgaths_chainwraps",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for korgaths_chainwraps, Korgath's Chainwraps, cloth leg armor rewarded for defeating a bound guardian. Square painting edge to edge, one complete empty pair of sand-gray cloth leg wraps with broad overlapping fabric bands and a small loose iron chain draped across the waist, centered against a dark slate-blue painted background. Clearly cloth leggings, two legs visible, readable at 32 pixels. Original stylized fantasy, hand-painted broad forms, warm upper-left light, restrained detail. No wearer, stand, other objects, border, text, logo, watermark, glow or imitation of any game.",
+      "sha256": "6dcecc6afb4674611bee20237b233f63a5166b19bb3e272de8d64b9ef14744b6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "korgaths_chainwraps",
+      "status": "original art prepared for integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/korgaths_chainwraps.webp",
+        "sha256": "ecca0d600bd33e5f65abbdc40f5bf0e895796eb48373f7b6025ad7ef32ddb97b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "silverleaf_healing_draught",
+      "file": "docs/design/whetstorm-art/items/silverleaf_healing_draught.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Square game inventory item painting, original stylized hand-painted fantasy. One Sheenleaf Healing Draught: a squat round clear glass flask of ruby-red liquid, corked, with a single pale silver-green leaf tied at its neck. Whole flask centered and large on a dark painted slate background. Bold readable silhouette, warm upper-left painterly light, restrained detail. No frame, text, letters, logos or watermark; no imitation of existing games or artists.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "6e56b48c514f03c1938af7854bcbaae10001dc7ce4a2caf6372b472d0ef47325",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silverleaf_healing_draught.webp",
+        "sha256": "7f4fed65d771ade7cfb455b1ca9638e4868edab63840afad533f07ceba5d17c9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "silverleaf_mana_draught",
+      "file": "docs/design/whetstorm-art/items/silverleaf_mana_draught.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Square game inventory item painting, original stylized hand-painted fantasy. One Sheenleaf Mana Draught: a tall faceted clear glass vial of luminous deep blue liquid, corked, with a pale silver-green leaf tied at its neck. Whole vial centered and large on a dark painted slate background. Bold readable silhouette, warm upper-left painterly light, restrained detail. No frame, text, letters, logos or watermark; no imitation of existing games or artists.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "f200dbc7f8d64d67d27bae5839e8911a8946013f69cb2d23c411e1e9b60f3caf",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silverleaf_mana_draught.webp",
+        "sha256": "6b37b7ee6b41cf9bb78e2a4459bdca2d1fe02f176675b204d6f28c20badd57b3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "elixir_of_the_boar",
+      "file": "docs/design/whetstorm-art/items/elixir_of_the_boar.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Square game inventory item painting, original stylized hand-painted fantasy. One Elixir of the Boar: a broad earthenware flask filled with amber elixir, corked, with a simple raised boar-head motif on its front. Whole flask centered and large on a dark painted slate background. Bold readable silhouette, warm upper-left painterly light, restrained detail. No frame, text, letters, logos or watermark; no imitation of existing games or artists.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "9c254d0d916046e1764ba63f7a7ec6a09ac53705586549ed10eca32372518263",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/elixir_of_the_boar.webp",
+        "sha256": "2b6c1a1da556ffcfcb360cfa5a78f44eabf5d7edf54296c131a8129ea1472118",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "goldleaf_healing_draught",
+      "file": "docs/design/whetstorm-art/items/goldleaf_healing_draught.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Square game inventory item painting, original stylized hand-painted fantasy. One Goldleaf Healing Draught: a wide-shouldered translucent glass flask of rich red healing liquid, corked and bound with a single golden leaf at the neck. Whole flask centered and large on a dark painted slate background. Bold readable silhouette, warm upper-left painterly light, restrained detail. No frame, text, letters, logos or watermark; no imitation of existing games or artists.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "1a57563c1835792aafa368a1c4cf63c5e523fb2b88aa5ad09a358b8756458fe8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/goldleaf_healing_draught.webp",
+        "sha256": "ac7142070d1bb99e59e732e16242384e42b7296221179cb6a3ff725fa82458ac",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

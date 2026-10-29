@@ -64,6 +64,20 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Thirty-sixth checkpoint: four bags and fishing catches, four cloth pieces,
+four leather pieces, four provisioning materials and four alchemy items add
+20 unique paintings. This effort has created 475 paintings for 475 item IDs
+without deliberate reuse. Of 1,626 catalog IDs, 492 have direct individual
+paintings and 1,134 do not. The catalog includes retired compatibility IDs and
+variants, so the remaining number is not an obtainable-item requirement count.
+Records are `bags-fish-batch-generation.json`, `cloth-batch-six-generation.json`,
+`leather-litany-original-generation.json`, `material-provisioning-generation.json`
+and `potion-alchemy-next-generation.json`. The fixture audit confirmed the
+four local freight drafts concern world interaction objects or cargo state;
+they remain unintegrated and are not counted. Inventory-size reviews and
+focused image and item-routing tests passed. Browser, full gate and shipping-tree
+clearance remain open.
+
 Thirty-fifth checkpoint: four mail pieces, four leather pieces, one food,
 four farming materials and two quest items add 15 unique paintings. This effort
 has created 455 paintings for 455 item IDs without deliberate reuse. Of 1,626

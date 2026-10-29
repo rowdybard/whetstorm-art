@@ -1,0 +1,53 @@
+{
+  "generator": "OpenAI built-in image_gen",
+  "assets": [
+    {
+      "itemId": "cooking_salt",
+      "file": "docs/design/whetstorm-art/items/cooking_salt.png",
+      "sha256": "ef995224500bfdedece6feb46d4cdaaec3438ebce9c39c9a73db32151fe14d9b",
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint a small open earthenware salt crock filled with coarse white cooking salt crystals, its whole silhouette and centered against a dark painted slate background. Original stylized fantasy, hand-painted, bold clean shapes, warm upper-left light, restrained detail, readable at 32 pixels. No frame, text, letters, logo or watermark; do not imitate existing games or artists.",
+      "reference": "None; original generation with built-in image_gen",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cooking_salt.webp",
+        "sha256": "76131b47eef6cd0ec8ce83923e65248181f84db3b329fbb501da732aac5af96b",
+        "processing": "sharp resize 128x128, WebP quality 90"
+      }
+    },
+    {
+      "itemId": "prime_cut",
+      "file": "docs/design/whetstorm-art/items/prime_cut.png",
+      "sha256": "16d946ea3ec103c9c8aa380f2a35ade083c333e07e3e2728ed0eecc462125b02",
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint one appetizing raw prime cut of red meat with a clear pale fat edge, whole and centered against a dark painted slate background. Original stylized fantasy, hand-painted, bold clean shapes, warm upper-left light, restrained detail, readable at 32 pixels. No frame, text, letters, logo or watermark; do not imitate existing games or artists.",
+      "reference": "None; original generation with built-in image_gen",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/prime_cut.webp",
+        "sha256": "3d0f297ec6e12d7e6544f7d3278947e1e87e23cbf2422033c042abd81d691124",
+        "processing": "sharp resize 128x128, WebP quality 90"
+      }
+    },
+    {
+      "itemId": "highland_barley",
+      "file": "docs/design/whetstorm-art/items/highland_barley.png",
+      "sha256": "eb7cb90387a80e65eb3985f43b1e779e90cc088ec93b74b5b3ec1c0969c562cd",
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint a small tied sheaf of ripe golden highland barley, clearly showing plump grain heads and long awns, whole and centered against a dark painted slate background. Original stylized fantasy, hand-painted, bold clean shapes, warm upper-left light, restrained detail, readable at 32 pixels. No frame, text, letters, logo or watermark; do not imitate existing games or artists.",
+      "reference": "None; original generation with built-in image_gen",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/highland_barley.webp",
+        "sha256": "af86ee22ac1d56a023486e1ac5280f6c7ef99bcb211d92cb3f5bbe576c5d6f2c",
+        "processing": "sharp resize 128x128, WebP quality 90"
+      }
+    },
+    {
+      "itemId": "frost_gourd",
+      "file": "docs/design/whetstorm-art/items/frost_gourd.png",
+      "sha256": "ab0add1af167e36624c04789df3fa79f12be48177da5b325e1d76a51865ab1d2",
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint one plump pale blue-green frost gourd with broad ridges and a short curling stem, whole and centered against a dark painted slate background. Original stylized fantasy, hand-painted, bold clean shapes, warm upper-left light, restrained detail, readable at 32 pixels. No frame, text, letters, logo or watermark; do not imitate existing games or artists.",
+      "reference": "None; original generation with built-in image_gen",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/frost_gourd.webp",
+        "sha256": "f4fff5100041a679424e8cead5b26db2a3e89e12f40e76156217b265f1f39834",
+        "processing": "sharp resize 128x128, WebP quality 90"
+      }
+    }
+  ]
+}
