@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "itemId": "eelskin_mudwaders",
+      "file": "docs/design/whetstorm-art/items/eelskin_mudwaders.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square fantasy MMORPG inventory icon for Eelskin Mudwaders, uncommon cloth footwear awarded in a marsh. Show one complete matching pair of practical dark teal cloth wading boots with subtle smooth eel-pattern trim and soft folded tops, no wearer or other objects. Center on dark slate-blue painted background. Hand-painted fantasy, warm upper-left light, clean silhouette at 32 pixels. No text, border, logos, watermark, or imitation of existing games or artists.",
+      "sha256": "a606c006a3cac83ff12dd9d08e8d7e4efe8a5f6a674fa306b4b400b2649bf76d",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eelskin_mudwaders.webp",
+        "sha256": "5709884345c71b9954335b5509795c07762cbca0a3855464a32c718c5baea359",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    },
+    {
+      "itemId": "saltwalker_sandals",
+      "file": "docs/design/whetstorm-art/items/saltwalker_sandals.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square fantasy MMORPG inventory icon for Saltwalker Sandals, uncommon cloth footwear awarded on a tropical coast. Show one complete matching pair of simple tan woven cloth sandals with wrapped fabric ankle ties and pale salt-white stitching, no wearer or other objects. Center on dark slate-blue painted background. Hand-painted fantasy, warm upper-left light, clean silhouette at 32 pixels. No text, border, logos, watermark, or imitation of existing games or artists.",
+      "sha256": "c9eaf86d3b091b0d02af0a186290bdb23c837bf82cac65959f503e4b46a97553",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/saltwalker_sandals.webp",
+        "sha256": "ac02e20800d5ea656ecfb82a9a57a8581629163adb61f9d23c8cfbc6ab1bf93e",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    },
+    {
+      "itemId": "wickspun_treads",
+      "file": "docs/design/whetstorm-art/items/wickspun_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square fantasy MMORPG inventory icon for Wickspun Treads, uncommon cloth footwear awarded in a windy highland. Show one complete matching pair of soft storm-blue woven cloth shoes with visible twisted-cord seams and modest pale-gold stitching, no wearer or other objects. Center on dark slate-blue painted background. Hand-painted fantasy, warm upper-left light, clean silhouette at 32 pixels. No text, border, logos, watermark, or imitation of existing games or artists.",
+      "sha256": "ff152f825edd4eefde6b5949fbd6ff249799cb22692c76b1ee21bc3bc2a7a4d9",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wickspun_treads.webp",
+        "sha256": "e3df3309bfb24043372ad16142cdc9be3ad4435d7f95426b12302627de6bb65a",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    }
+  ]
+}

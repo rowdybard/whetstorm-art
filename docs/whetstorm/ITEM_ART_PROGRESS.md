@@ -1,5 +1,12 @@
 # Item painting checkpoint
 
+Regional footwear follow-up: three original paintings bring this effort to
+539 individual item paintings. Of 1,626 catalog IDs, 556 have individual
+paintings and 1,070 do not; the remainder includes retired entries and
+variants. Prompts and hashes are in `regional-footwear-generation.json`.
+Size review and focused routing tests passed; browser, full gate and
+shipping-tree clearance remain open.
+
 Regional cloth reward follow-up: three original paintings bring this effort
 to 536 individual item paintings. Of 1,626 catalog IDs, 553 have individual
 paintings and 1,073 do not; the remainder includes retired entries and

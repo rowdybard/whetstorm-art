@@ -851,3 +851,6 @@ Three original vendor chest armor paintings are recorded in
 
 Three original regional cloth reward paintings are recorded in
 `docs/whetstorm/regional-cloth-rewards-generation.json`.
+
+Three original regional footwear paintings are recorded in
+`docs/whetstorm/regional-footwear-generation.json`.
