@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "mob_corrode",
+      "runtimeIds": [
+        "corrode_deepfen_murloc",
+        "corrode_reliquary_ledger_wraith",
+        "corrode_rift_deep_lurker"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_corrode.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original corrosion status painting: a broad pitted iron shield with a bright acid-green droplet eating a ragged hole in its surface. Bold clear silhouette, hand-painted stylized fantasy, dark slate background, soft upper-left light. Edge-to-edge painting, no border, letters, text, logo or watermark. Original design, do not copy or imitate any existing game or artist.",
+      "sha256": "888b36fa73ebb922940dedaf166213173d9337bf8d209be01a8ee89c134b50b9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_corrode.webp",
+        "sha256": "de1510283ce675c886b73bbc0f2224c05861a83cbdbe3604daee52e688a1d1b0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_corrode.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "mob_disarm",
+      "runtimeIds": [
+        "disarm_ogre_crusher"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_disarm.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original disarm status painting: a simple steel sword slipping diagonally from an open armored glove, with a short amber impact flare between them. Bold clear silhouette, hand-painted stylized fantasy, dark slate background, soft upper-left light. Edge-to-edge painting, no border, letters, text, logo or watermark. Original design, do not copy or imitate any existing game or artist.",
+      "sha256": "63748dacc2072f11631955423a759031d38fe1c7ff5af93b262902d5c200c7b2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_disarm.webp",
+        "sha256": "bbbc87de9210f5f5569707706c50449f5734de9b2e9d45a0486c73ab1a3376c9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_disarm.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "mob_ensnare",
+      "runtimeIds": [
+        "ensnare_rift_boss_venom",
+        "ensnare_rift_venom_weaver",
+        "ensnare_webwood_spider"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_ensnare.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original ensnare status painting: a single brown leather boot tightly bound by thick ivory spider silk strands, with an unmistakable knotted web around the ankle. Bold clear silhouette, hand-painted stylized fantasy, dark slate background, soft upper-left light. Edge-to-edge painting, no border, letters, text, logo or watermark. Original design, do not copy or imitate any existing game or artist.",
+      "sha256": "ebe054de9cf9a944be036e4a3969a70ecf726ff3a3a34394dd56738095a35827",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_ensnare.webp",
+        "sha256": "1e70dd90896e70617cfe2ebe796405c8526001dda8210ed0f2f5ab08eda12931",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_ensnare.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "mob_frostbite",
+      "runtimeIds": [
+        "frostbite_rift_rime_elemental",
+        "frostbite_shardlord_kazzix"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_frostbite.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original frostbite status painting: a dark gloved hand with fingertips encased in sharp pale cyan ice crystals, with a few tiny cold sparks. Bold clear silhouette, hand-painted stylized fantasy, dark slate background, soft upper-left light. Edge-to-edge painting, no border, letters, text, logo or watermark. Original design, do not copy or imitate any existing game or artist.",
+      "sha256": "d29d16a07be055264b9854a6a889f63eef6823478b7fad744c908419acfbd181",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_frostbite.webp",
+        "sha256": "7574807d2e16e0dd3c8c6097cb3e01f9efc5f3ed3f4fe837db0b6456432ac707",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_frostbite.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

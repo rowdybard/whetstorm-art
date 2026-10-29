@@ -64,6 +64,21 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Thirty-ninth checkpoint: four cloth pieces, four farming materials, four
+jewelry pieces and four mail pieces add 16 unique item paintings. This effort
+has created 524 paintings for 524 item IDs without deliberate reuse. Of 1,626
+catalog IDs, 541 have direct individual paintings and 1,085 do not; the raw
+remainder includes retired compatibility entries and variants. Records are
+`cloth-delve-amberfall-generation.json`, `farming-thornpeak-generation.json`,
+`jewelry-batch-apex-generation.json` and `mail-wildheart-apex-generation.json`.
+Eight original mob aura paintings cover 19 exact effect identities, deliberately
+sharing images within the arcane rot, blind, cinder, concuss, corrode, disarm,
+ensnare and frostbite families. Records are `mob-aura-status-generation.json`
+and `mob-aura-debuffs-generation.json`. The restricted inherited files still
+need physical removal in a complete candidate and build verification. Inventory
+size reviews and focused image and routing tests passed. Browser, full gate and
+shipping-tree clearance remain open.
+
 Thirty-eighth checkpoint: four mail pieces, four leather pieces, three alchemy
 items and four enchanting materials add 15 unique item paintings. This effort
 has created 508 paintings for 508 item IDs without deliberate reuse. Of 1,626

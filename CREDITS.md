@@ -819,3 +819,12 @@ aura paintings are recorded in `docs/whetstorm/mail-thornpeak-generation.json`,
 `docs/whetstorm/resonant-material-generation.json`, and
 `docs/whetstorm/mob-aura-original-batch-generation.json`. The four mob aura
 paintings deliberately cover nine exact effect identities as listed there.
+
+Sixteen original cloth, farming, jewelry and mail paintings and eight mob aura
+paintings are recorded in `docs/whetstorm/cloth-delve-amberfall-generation.json`,
+`docs/whetstorm/farming-thornpeak-generation.json`,
+`docs/whetstorm/jewelry-batch-apex-generation.json`,
+`docs/whetstorm/mail-wildheart-apex-generation.json`,
+`docs/whetstorm/mob-aura-status-generation.json`, and
+`docs/whetstorm/mob-aura-debuffs-generation.json`. Each aura family deliberately
+shares its painting across its listed exact runtime identities.

@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/swiftfang_talisman.png",
+      "subject": "swiftfang_talisman",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for Swiftfang Talisman, a fantasy necklace. Show one complete loop of thick dark leather cord with a single polished ivory fang pendant held in a simple bronze clasp. Entire necklace visible with margins, centered large. Square dark slate-blue painted background edge to edge. Stylized hand-painted fantasy, bold clean shapes, restrained detail, readable at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects, or copied game designs.",
+      "sha256": "26a2382218482d99cb0529067aa86e4a197100c2512e18abfac0bc66d63970ab",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "swiftfang_talisman",
+      "status": "original art prepared for existing item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/swiftfang_talisman.webp",
+        "sha256": "46cd51f02214ba7f8814cdc7fa8731144ce42d9acaa6b8264acee96a81c79f00",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/medallion_of_endless_profit.png",
+      "subject": "medallion_of_endless_profit",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for Medallion of Endless Profit, a fantasy necklace. Show one complete short loop of thick bronze chain and a large round golden medallion with a simple raised spiral, no lettering or currency symbol. Entire necklace visible with margins, centered large. Square dark slate-blue painted background edge to edge. Stylized hand-painted fantasy, bold clean shapes, restrained detail, readable at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects, or copied game designs.",
+      "sha256": "80bc5d862031c0a63054a9e4ac4e3c418c331086f5d0a5d6f7898dd7b8eb241c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "medallion_of_endless_profit",
+      "status": "original art prepared for existing item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/medallion_of_endless_profit.webp",
+        "sha256": "4f5f90d6bed717d173018108aa35ab322f476c8d3e9678e46efeffe636cf1c9f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/warhewn_signet.png",
+      "subject": "warhewn_signet",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for Warhewn Signet, a fantasy ring. Show one complete broad dark iron signet ring with a chunky square hammered steel bezel and a simple raised bronze chevron, in three-quarter view, centered large. Square dark slate-blue painted background edge to edge. Stylized hand-painted fantasy, bold clean shapes, restrained detail, readable at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects, or copied game designs.",
+      "sha256": "a770972be1881a64a772c17734b8d79d476eec144f74e038100c9d594291065b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "warhewn_signet",
+      "status": "original art prepared for existing item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/warhewn_signet.webp",
+        "sha256": "4327c25cfcb007cd3580256a05052c1c36f7f185cfc75d98feb448ad396dabf2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/prismglass_loop.png",
+      "subject": "prismglass_loop",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for Prismglass Loop, a fantasy ring. Show one complete elegant polished silver ring with a large triangular faceted iridescent blue-violet glass stone, in three-quarter view, centered large. Square dark slate-blue painted background edge to edge. Stylized hand-painted fantasy, bold clean shapes, restrained detail, readable at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects, or copied game designs.",
+      "sha256": "5c2fb187c1bb0ae3d345ccfc308fe8548e4f9cedd9ab51499074de3989f39d8b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "prismglass_loop",
+      "status": "original art prepared for existing item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/prismglass_loop.webp",
+        "sha256": "9d1b85229388356968475ace8c45a8950fe107a5eefab26485bb0a0ebb1be355",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

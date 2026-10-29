@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "thornpeak_cabbage_seed",
+      "file": "docs/design/whetstorm-art/items/thornpeak_cabbage_seed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Thornpeak Cabbage Seed: a small open rustic cloth seed pouch with several round dark cabbage seeds visible, one green cabbage leaf tucked beside it.",
+      "status": "original farming material painting; reviewed at 32, 48, 64 pixels",
+      "sha256": "8a7f68fe8a6e6a834eb34b767a7036cdbaa42ceeace91aad9ef11e3cea95c2cd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/thornpeak_cabbage_seed.webp",
+        "sha256": "4a09f712e2bd110fb3587cb425ef0829ce9e28495e22963972d284ff0ca30774",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "thornpeak_cabbage",
+      "file": "docs/design/whetstorm-art/items/thornpeak_cabbage.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Thornpeak Cabbage: one whole compact green cabbage head with broad overlapping pale green leaves and short stalk, rustic and freshly harvested.",
+      "status": "original farming material painting; reviewed at 32, 48, 64 pixels",
+      "sha256": "b5a004565b4023452bd7a38adcac3076202556d28c8a83f29f6e3d0acf11ea44",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/thornpeak_cabbage.webp",
+        "sha256": "0c6cf0321cf79185b48c90ab76e0f0dcbcd8dea775862a36e848533c912607e5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "fine_thornpeak_cabbage",
+      "file": "docs/design/whetstorm-art/items/fine_thornpeak_cabbage.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Fine Thornpeak Cabbage: one exceptional whole cabbage, lush blue-green outer leaves and bright golden-green layered central head, freshly harvested and complete.",
+      "status": "original farming material painting; reviewed at 32, 48, 64 pixels",
+      "sha256": "6e2ab36b08ec69560b2eb4b1f8af103ba1780781302f69aa206f6045dd6e5d49",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_thornpeak_cabbage.webp",
+        "sha256": "72d1b43fec5ae532f22e8481fa87584716f9b09fcb95f8a7d9ecf9121791ed97",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "frost_lentils_seed",
+      "file": "docs/design/whetstorm-art/items/frost_lentils_seed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Frost Lentils Seed: a small tied pale blue cloth seed pouch, with a few flat lentil seeds spilling beside it and a subtle frost rim on the cloth.",
+      "status": "original farming material painting; reviewed at 32, 48, 64 pixels",
+      "sha256": "e99c54b8e6cc8ffa816b7f37ec14205e77d8fe0510dfe108dafbd5506d948178",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/frost_lentils_seed.webp",
+        "sha256": "d0c148bb419be233e3698b3bf5f2de8f56bcb50b67b56edd280f43adbe0dd2de",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

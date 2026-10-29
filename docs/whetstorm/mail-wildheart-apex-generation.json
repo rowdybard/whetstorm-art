@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "bloodmane_warleggings",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting: Bloodmane Warleggings, a complete pair of rugged iron chainmail leggings with layered dark steel thigh and shin plates and a restrained deep red mane-like fur trim at the hips. Center the whole item on a dark slate-blue painted background. Original hand-painted fantasy, bold readable silhouette, warm upper-left light, restrained detail. No frame, text, letters, logo, watermark, people, or imitation of any game.",
+      "master": "docs/design/whetstorm-art/items/bloodmane_warleggings.png",
+      "master_sha256": "68e15215f1af82f5cf82fb01ba8e449081165cf35fba3b553af29bf2474841f6",
+      "master_pixels": [
+        1254,
+        1254
+      ],
+      "runtime": "public/ui/whetstorm/items/bloodmane_warleggings.webp",
+      "runtime_sha256": "9da0aecb41ba8cca4ab56cd9128b1e9f8a75193a6efd9fa8577018caba186646",
+      "processing": "Lanczos3 resize to 128 by 128, WebP quality 90 using sharp"
+    },
+    {
+      "id": "spiritweld_girdle",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting: Spiritweld Girdle, a complete broad forged mail waist belt with overlapping steel plates, a pale softly luminous stone buckle and muted bronze binding. Center the whole belt on a dark slate-blue painted background. Original hand-painted fantasy, bold readable silhouette, warm upper-left light, restrained detail. No frame, text, letters, logo, watermark, people, or imitation of any game.",
+      "master": "docs/design/whetstorm-art/items/spiritweld_girdle.png",
+      "master_sha256": "26ad1c2bcccf6ca78bc4100e8f7819677cb8b2b944145d4e163088f13186b0dc",
+      "master_pixels": [
+        1254,
+        1254
+      ],
+      "runtime": "public/ui/whetstorm/items/spiritweld_girdle.webp",
+      "runtime_sha256": "baa1e28b3ae699275b83d8eea56ac345fe6dbe1e9534585bcd0477b4f2423232",
+      "processing": "Lanczos3 resize to 128 by 128, WebP quality 90 using sharp"
+    },
+    {
+      "id": "forgefold_legguards",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting: Forgefold Legguards, a complete pair of articulated mail leggings with broad folded dark iron plates and restrained warm copper seams. Center the whole item on a dark slate-blue painted background. Original hand-painted fantasy, bold readable silhouette, warm upper-left light, restrained detail. No frame, text, letters, logo, watermark, people, or imitation of any game.",
+      "master": "docs/design/whetstorm-art/items/forgefold_legguards.png",
+      "master_sha256": "b9bb62ea9cbd37fa2d1af1ea5d5119873f98cdee2f6aea32732ae66114eb0d52",
+      "master_pixels": [
+        1254,
+        1254
+      ],
+      "runtime": "public/ui/whetstorm/items/forgefold_legguards.webp",
+      "runtime_sha256": "7d0864e648c42c75fe610f7e14888d3d506cf7211f7aa2aee6e7c0ffd1cefabd",
+      "processing": "Lanczos3 resize to 128 by 128, WebP quality 90 using sharp"
+    },
+    {
+      "id": "wardspeaker_sabatons",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting: Wardspeaker Sabatons, a complete pair of forged steel armored boots with chainmail ankle collars, broad rounded toes and restrained pale-blue ward stones at the cuffs. Center the whole pair on a dark slate-blue painted background. Original hand-painted fantasy, bold readable silhouette, warm upper-left light, restrained detail. No frame, text, letters, logo, watermark, people, or imitation of any game.",
+      "master": "docs/design/whetstorm-art/items/wardspeaker_sabatons.png",
+      "master_sha256": "4f919505ed3399d56a5c6a26847630ff63dd1a94bf9c92206c74ef46484fc0f0",
+      "master_pixels": [
+        1254,
+        1254
+      ],
+      "runtime": "public/ui/whetstorm/items/wardspeaker_sabatons.webp",
+      "runtime_sha256": "4dcbe95131549257978ca0e816da83bc030ad3dd19bf03453b600a83fa209fdc",
+      "processing": "Lanczos3 resize to 128 by 128, WebP quality 90 using sharp"
+    }
+  ]
+}

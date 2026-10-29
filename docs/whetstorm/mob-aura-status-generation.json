@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "mob_arcane_rot",
+      "runtimeIds": [
+        "arcaneRot_deacon_voss",
+        "arcaneRot_rift_void_acolyte"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_arcane_rot.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original square MMO debuff icon painting, legible at 32 pixels. A luminous violet arcane sigil cracking and decaying into dark smoky rot, bold central shape, black plum background, painterly high contrast, no frame, no text, no logo, no existing game art.",
+      "sha256": "d6b4815efb44f065584fd704299af8f203f6cbcf9e2ab7bf8d5c4793e82c3915",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_arcane_rot.webp",
+        "sha256": "b21a4d3473df1c17c5178d1f3eea2b7fa278aece0b40a9ec5e7a23408b2a0991",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_arcane_rot.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "mob_blind",
+      "runtimeIds": [
+        "blind_vale_bandit"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_blind.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original square MMO debuff icon painting, legible at 32 pixels. A single pale eye obscured by a sweeping band of dark dust, suggesting blindness, bold central shape, deep blue-black background, painterly high contrast, no frame, no text, no logo, no existing game art.",
+      "sha256": "fa7fe867dbf3680155352be8eded33d3856031c45193e86145337c91741e33d8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_blind.webp",
+        "sha256": "3fbdd014153181a720257c07a2798f51d4bc4fd5ef508bb060b082e6661106aa",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_blind.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "mob_cinder",
+      "runtimeIds": [
+        "cinder_ironvein_sapper",
+        "cinder_rift_boss_ember",
+        "cinder_rift_ember_fiend"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_cinder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original square MMO debuff icon painting, legible at 32 pixels. A glowing orange coal fragment shedding hot sparks and ash, bold central silhouette, smoky dark red background, painterly high contrast, no frame, no text, no logo, no existing game art.",
+      "sha256": "730d5cb8bb9238b14ac8928a919388d70267d9e4c61ae8ad15f704bff1c281f4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_cinder.webp",
+        "sha256": "0990880ea82d5d09d605a318c75f7986fb58e7dac5937c2fc6d7b64bc959c2f5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_cinder.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "mob_concuss",
+      "runtimeIds": [
+        "concuss_brakka_wallbreaker",
+        "concuss_rift_boss_storm",
+        "concuss_rift_storm_caller",
+        "concuss_thornpeak_ogre"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_concuss.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original square MMO debuff icon painting, legible at 32 pixels. A battered iron helmet struck by a bright impact burst with radiating shock lines, suggesting concussion, bold central silhouette, dark brown background, painterly high contrast, no frame, no text, no logo, no existing game art.",
+      "sha256": "ebee8a8a88e3828c9088c4f8cd342a129d821a995dee38cf986b612c8912e7be",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_concuss.webp",
+        "sha256": "56dca6eff76063ec9e3034506bda6d95ddcb4f165bff48b71e1ce537b360393d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_concuss.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

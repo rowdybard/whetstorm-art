@@ -26,6 +26,7 @@ import { clothBatchOneItemImageUrl } from './cloth_batch_one_item_art';
 import { clothBatchSixItemImageUrl } from './cloth_batch_six_item_art';
 import { clothBatchThreeItemImageUrl } from './cloth_batch_three_item_art';
 import { clothBatchTwoItemImageUrl } from './cloth_batch_two_item_art';
+import { clothDelveAmberfallItemImageUrl } from './cloth_delve_amberfall_item_art';
 import { consumableBatchItemImageUrl } from './consumable_batch_item_art';
 import { craftReagentOriginalBatchItemImageUrl } from './craft_reagent_original_batch_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
@@ -45,6 +46,7 @@ import { earlyQuestItemImageUrl } from './early_quest_item_art';
 import { earlyQuestMaterialItemImageUrl } from './early_quest_material_item_art';
 import { farmHighlandMaterialItemImageUrl } from './farm_highland_material_item_art';
 import { farmMaterialsOriginalItemImageUrl } from './farm_materials_original_item_art';
+import { farmingThornpeakItemImageUrl } from './farming_thornpeak_item_art';
 import { foodConjuredLaterItemImageUrl } from './food_conjured_later_item_art';
 import { foodCookingLaterItemImageUrl } from './food_cooking_later_item_art';
 import { foodEarlySecondItemImageUrl } from './food_early_second_item_art';
@@ -56,6 +58,7 @@ import { foodLaterFishHarvestItemImageUrl } from './food_later_fish_harvest_item
 import { foodOriginalBatchItemImageUrl } from './food_original_batch_item_art';
 import { foodZoneTwoItemImageUrl } from './food_zone_two_item_art';
 import { herbPlantNextItemImageUrl } from './herb_plant_next_item_art';
+import { jewelryBatchApexItemImageUrl } from './jewelry_batch_apex_item_art';
 import { jewelryBatchItemImageUrl } from './jewelry_batch_item_art';
 import { jewelryBatchLaterTierItemImageUrl } from './jewelry_batch_later_tier_item_art';
 import { jewelryBatchNextItemImageUrl } from './jewelry_batch_next_item_art';
@@ -82,6 +85,7 @@ import { mailNextItemImageUrl } from './mail_next_item_art';
 import { mailOsmiumItemImageUrl } from './mail_osmium_item_art';
 import { mailReliquaryItemImageUrl } from './mail_reliquary_item_art';
 import { mailThornpeakItemImageUrl } from './mail_thornpeak_item_art';
+import { mailWildheartApexItemImageUrl } from './mail_wildheart_apex_item_art';
 import { marshBatchEighteenItemImageUrl } from './marsh_batch_eighteen_item_art';
 import { marshBatchSeventeenItemImageUrl } from './marsh_batch_seventeen_item_art';
 import { materialAdvanceItemImageUrl } from './material_advance_item_art';
@@ -133,6 +137,10 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    clothDelveAmberfallItemImageUrl(id) ??
+    farmingThornpeakItemImageUrl(id) ??
+    jewelryBatchApexItemImageUrl(id) ??
+    mailWildheartApexItemImageUrl(id) ??
     leatherThornpeakThirdItemImageUrl(id) ??
     mailThornpeakItemImageUrl(id) ??
     potionLaterItemImageUrl(id) ??

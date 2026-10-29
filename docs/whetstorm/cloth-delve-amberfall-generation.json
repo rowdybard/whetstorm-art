@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/varric_shadow_cowl.png",
+      "subject": "varric_shadow_cowl",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for varric_shadow_cowl, Vandric's Shadow Cowl, a cloth helmet from a ruined reliquary. Square painting edge to edge, one empty deep charcoal-purple fabric hood with broad cowl, a slightly pointed crown, and a muted silver stitched seam, whole subject centered on a dark muted plum painted background. Clear empty hood opening, soft fabric folds, readable at 32 pixels. Original stylized fantasy, hand-painted broad forms, warm upper-left light, restrained detail. No wearer, face, stand, other objects, border, text, logo, watermark, glow or imitation of any game.",
+      "sha256": "6be04c2bc5c644b617232beaef6ec6803e769f288c879a647bdca041203e5b72",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "varric_shadow_cowl",
+      "status": "original art prepared for integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/varric_shadow_cowl.webp",
+        "sha256": "cda4ba4ca8c9bc779506fd9d035eaf38b03b6b4e5248ad76d401ee6d4c006b8c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/sunken_reliquary_hood.png",
+      "subject": "sunken_reliquary_hood",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for sunken_reliquary_hood, Sunken Reliquary Hood, a cloth helmet recovered from a drowned reliquary. Square painting edge to edge, one empty deep teal woven hood with a rounded crown, pale salt-worn fabric edging and a small knotted cord, whole subject centered on a dark blue-green painted background. Clear empty hood opening and soft water-worn fabric folds, readable at 32 pixels. Original stylized fantasy, hand-painted broad forms, warm upper-left light, restrained detail. No wearer, face, stand, other objects, border, text, logo, watermark, glow or imitation of any game.",
+      "sha256": "871a3ae923a60f61f49c4f3e71b6abedd5799f100b61ad8f131a2b4b7fef1064",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "sunken_reliquary_hood",
+      "status": "original art prepared for integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunken_reliquary_hood.webp",
+        "sha256": "4326bf6c1e8ea2fd4b5396296dbb26a44f04c210f37314893298f9c7a2b314be",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/orchard_sapbinder_grips.png",
+      "subject": "orchard_sapbinder_grips",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for orchard_sapbinder_grips, Sapbinder Grips, a cloth glove quest reward from an orchard. Square painting edge to edge, a complete pair of soft russet woven cloth gloves with simple leaf-green fabric bindings and a few amber stitched accents, centered on a dark earthy green painted background. Show both five-finger glove silhouettes clearly, visibly fabric rather than leather or metal, readable at 32 pixels. Original stylized fantasy, hand-painted broad forms, warm upper-left light, restrained detail. No wearer, stand, other objects, border, text, logo, watermark, glow or imitation of any game.",
+      "sha256": "b1f67145a5ad3777614773764be18916275047e488de808558ae176e50ba3810",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "orchard_sapbinder_grips",
+      "status": "original art prepared for integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/orchard_sapbinder_grips.webp",
+        "sha256": "bc281b7a0e491d2bb9ea5a3a44547e25ae8a2b835476b3e3c0985ac4bb56f275",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/mantle_of_the_meredark.png",
+      "subject": "mantle_of_the_meredark",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for mantle_of_the_meredark, Mantle of the Meredark, a cloth shoulder armor quest reward. Square painting edge to edge, a complete empty cloth shoulder mantle with a broad crescent silhouette, deep midnight blue fabric, soft layered folds and muted silver-gray edging, centered on a dark slate painted background. Show paired shoulders and clear neck opening, fabric rather than metal, readable at 32 pixels. Original stylized fantasy, hand-painted broad forms, warm upper-left light, restrained detail. No wearer, stand, other objects, border, text, logo, watermark, glow or imitation of any game.",
+      "sha256": "5ba0a3c2a396409e16f6034d59677f14cd2ba69b0a4f8b2e1d98eef6b241bd09",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "mantle_of_the_meredark",
+      "status": "original art prepared for integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mantle_of_the_meredark.webp",
+        "sha256": "8a64060b87f76f6da64a3f09b21943e8b55b97b90f23b62e7fc7806dcebdb918",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
