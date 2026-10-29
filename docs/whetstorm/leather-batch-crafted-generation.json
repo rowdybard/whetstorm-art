@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "mirewarden_jerkin",
+      "file": "docs/design/whetstorm-art/items/mirewarden_jerkin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Mirewarden Jerkin, one complete sleeveless dark moss-green leather jerkin, reed-like stitched seams and worn brown leather edging, no wearer, no metal armor.",
+      "status": "original armor painting; reviewed",
+      "sha256": "ad61ece8698d67adc4e258b45f8e40466f27e73d571a5c7194ad6e6dbeb886c9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mirewarden_jerkin.webp",
+        "sha256": "09c42307b16f4d8fdd51cb606e9fb7735b12b25836a353ed5a7b273947bfc4b3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "mirewarden_leggings",
+      "file": "docs/design/whetstorm-art/items/mirewarden_leggings.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Mirewarden Leggings, one complete pair of deep moss-brown leather trousers with two distinct legs, simple stitched knee reinforcements and muted green edging, no wearer, no metal armor.",
+      "status": "original armor painting; reviewed",
+      "sha256": "1ac025d33ef2956dbefcb86a236d947de1535f17011900f692ddf05207a04a65",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mirewarden_leggings.webp",
+        "sha256": "972c05fcada8bf0919beddde42b2d94cc58c9333ad0f3e361bc76090b4375f05",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "mirewarden_treads",
+      "file": "docs/design/whetstorm-art/items/mirewarden_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Mirewarden Treads, one complete pair of rugged dark brown leather boots with subtle green edging and small claw-shaped reinforcements, no wearer.",
+      "status": "original armor painting; reviewed",
+      "sha256": "279fdb7d248ca39b68a06b2729e3c637ad8b893fd0f1011c4e09cd158e903457",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mirewarden_treads.webp",
+        "sha256": "1b3a87b010af093248cc5ee4510c09a1c37b75f198c553ab3a9237fd6838a26d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "briarstep_jerkin",
+      "file": "docs/design/whetstorm-art/items/briarstep_jerkin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Briarstep Jerkin, one complete sleeveless russet leather vest with simple thorn-shaped stitched seams and dark green edging, no wearer, no metal armor.",
+      "status": "original armor painting; reviewed",
+      "sha256": "7baa56114f0ad04c151baf7ba44413e4416a6eb90e0dd1d2053bbad1e7444766",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/briarstep_jerkin.webp",
+        "sha256": "8cbee4b8eb1d518fe521fa5a77e441d3b47697328f8b9de37ac0c32284e18819",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "conjured_water3",
+      "file": "docs/design/whetstorm-art/items/conjured_water3.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square Whetstorm fantasy inventory painting of Conjured Clearwater: one clear blue glass bottle of exceptionally clear water, corked, with a small restrained pale-blue magical glimmer. Complete single vessel centered, boldly readable at 32 pixels on an opaque dark slate painted background. Hand-painted, warm upper-left light, tactile glass, liquid level visible, restrained detail. No writing, label, frame, watermark, people or existing game designs.",
+      "status": "Original painting, reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "e5cc772710fbbb269f30b270fcd899bf1fd9cdbeb7f815d242055a19fab065d7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/conjured_water3.webp",
+        "sha256": "97029e857527886f8636eb1768b77903479aa63e30202dd2b672229c11ca0bd8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "conjured_water4",
+      "file": "docs/design/whetstorm-art/items/conjured_water4.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square Whetstorm fantasy inventory painting of Conjured Springwater: one distinct rounded green glass flask of clear spring water, stoppered, with a delicate faint magical blue halo. Complete single vessel centered, boldly readable at 32 pixels on opaque dark umber painted background. Hand-painted, warm upper-left light, tactile glass, visible liquid level, restrained detail. No writing, label, frame, watermark, people or existing game designs.",
+      "status": "Original painting, reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "750de90df675f049e8b1dc462a17e276259def83467ced32fabde2d284f4e9bc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/conjured_water4.webp",
+        "sha256": "4863eb9364ad468c2f09efaa089ae0356e60fbdd2f87a449d15c37892269aa49",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "conjured_bread3",
+      "file": "docs/design/whetstorm-art/items/conjured_bread3.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square Whetstorm fantasy inventory painting of Conjured Honeycake: one round golden honey-glazed cake with a small cut wedge nestled beside it, faint magic glint. Compact complete serving centered, boldly readable at 32 pixels on opaque dark slate painted background. Hand-painted fantasy, warm upper-left light, tactile crumb and glaze, restrained detail. No writing, frame, watermark, people or existing game designs.",
+      "status": "Original painting, reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "8a146923cd2c2642583a26c1d39eba6ad34b2b752959ad3c410cbf9ed18c2862",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/conjured_bread3.webp",
+        "sha256": "bcebb60ac9fd170ac5d34fa0544dc8af570feefacb09d765ef789d95411b4a16",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "conjured_bread4",
+      "file": "docs/design/whetstorm-art/items/conjured_bread4.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square Whetstorm fantasy inventory painting of Conjured Feastloaf: one generous braided golden-brown celebratory bread loaf with a subtle magical sparkle, complete and centered, boldly readable at 32 pixels on opaque dark umber painted background. Hand-painted fantasy, warm upper-left light, tactile crust, restrained detail. No writing, frame, watermark, people or existing game designs.",
+      "status": "Original painting, reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "ccbe743680aa06e3169f1d3d6604af117bf4c2da9a7b94573bc24c702d080632",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/conjured_bread4.webp",
+        "sha256": "ad97c3ad481f3baaaf6899f3e61e80ab0095e2a50e455e49695b6b02187dbc5d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

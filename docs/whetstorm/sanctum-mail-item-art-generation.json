@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/boundstone_helm.png",
+      "subject": "a Boundstone Helm",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for boundstone_helm, a Boundstone Helm. Square painted edge to edge. One complete empty sturdy steel mail helmet with broad rounded iron brow, cheek guards and a single inset muted blue-gray stone fastened by iron bands. Distinct heroic fantasy design, modest dungeon equipment, centered against a dark slate-blue hand-painted background. Hand-painted stylized fantasy, bold readable silhouette, warm upper-left light, restrained detail, readable at 32 pixels. No wearer, stand, other objects, frame, text, letters, logos, watermark, glow, photorealism, or copied game designs.",
+      "sha256": "389038e4f8bac40464bf9298209a8d6ec053c30693c8c8d7115206d88abee222",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "boundstone_helm",
+      "status": "original art awaiting integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/boundstone_helm.webp",
+        "sha256": "2a2613fac23f2a0646d62fcfb13d4d6158c456feaaadca847d55a3338fe6ce83",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/boundstone_girdle.png",
+      "subject": "a Boundstone Girdle",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for boundstone_girdle, a Boundstone Girdle. Square painted edge to edge. One complete broad steel-reinforced waist belt with linked iron plates, brown leather straps and one substantial oval gray-blue stone set in its central buckle. Isolated and centered against dark slate-blue hand-painted background. Hand-painted stylized fantasy, bold readable silhouette, warm upper-left light, restrained detail, readable at 32 pixels. No wearer, stand, other objects, frame, text, letters, logos, watermark, glow, photorealism, or copied game designs.",
+      "sha256": "6a7bf45a13106196e609b798d5ea823cb74b92a1f4df1e4805ed75eba5340388",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "boundstone_girdle",
+      "status": "original art awaiting integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/boundstone_girdle.webp",
+        "sha256": "0d830167fda181ecba2b245c1c0e1c3c0fa85d57b28f7956b16fa8aa4504b545",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/gravewyrm_mantle.png",
+      "subject": "a Gravewyrm Mantle",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for gravewyrm_mantle, a Gravewyrm Mantle. Square painted edge to edge. One complete empty pair of symmetrical steel mail shoulder guards with broad dark weathered metal plates, subdued bone-colored ridges and a small overlapping scale motif suggestive of a wyrm, practical dungeon armor. Isolated and centered against dark slate-blue hand-painted background. Hand-painted stylized fantasy, bold readable silhouette, warm upper-left light, restrained detail, readable at 32 pixels. No wearer, stand, actual animal, other objects, frame, text, letters, logos, watermark, glow, photorealism, or copied game designs.",
+      "sha256": "52fecb786b114f7b60091dc1635f4ec0fa2e6958d0365f653c818feaa84dd5a7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "gravewyrm_mantle",
+      "status": "original art awaiting integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewyrm_mantle.webp",
+        "sha256": "5c982adc1b29a882b295f96c52174263828a9d4ccf79d2a160f2365a48fe9686",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/gravewyrm_gauntlets.png",
+      "subject": "Gravewyrm Gauntlets",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for gravewyrm_gauntlets, Gravewyrm Gauntlets. Square painted edge to edge. One complete pair of empty articulated steel armored gloves with broad dark weathered plates, bone-colored knuckle ridges and short overlapping scale accents on the cuffs. Both gloves centered together against dark slate-blue hand-painted background. Hand-painted stylized fantasy, bold readable silhouette, warm upper-left light, restrained detail, readable at 32 pixels. No wearer, arms, stand, actual animal, other objects, frame, text, letters, logos, watermark, glow, photorealism, or copied game designs.",
+      "sha256": "85f22f6c02b94debbe59eef4df13c3adbfb6aa6343e726a72ea5d03a1fb04fe5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "gravewyrm_gauntlets",
+      "status": "original art awaiting integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewyrm_gauntlets.webp",
+        "sha256": "651596e7a889a4fbf0722bc1b3072cbea5a9bd9ea97138c88b7da7bb90e0c974",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    }
+  ]
+}

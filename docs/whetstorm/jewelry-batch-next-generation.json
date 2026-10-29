@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/mother_of_pearl.png",
+      "subject": "mother_of_pearl",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for mother_of_pearl, a level-one quest reward ring. Show one complete modest silver ring with a single large luminous ivory mother-of-pearl oval cabochon, broad simple setting and thick band, centered large in three-quarter view. Square dark slate-blue painted background, edge to edge. Original stylized hand-painted fantasy, bold clean shapes, soft warm light from upper left, restrained detail, readable at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects, magic or copied game designs.",
+      "sha256": "f2e9bfc7ba1d609d82961d22cc915ba84d238b27b298be39115480e29b46df2c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "mother_of_pearl",
+      "status": "original art prepared for existing item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mother_of_pearl.webp",
+        "sha256": "91c7a788a9613c15ec85ddc9663d007cc4534e3a0a69a58a1de1755504685ccf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/tidewatchers_locket.png",
+      "subject": "tidewatchers_locket",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for tidewatchers_locket, a faction reward necklace. Show one COMPLETE CLOSED LOOP of short thick bronze chain with a round bronze locket bearing a simple raised blue enamel wave motif. Entire necklace including top of chain fits within image with generous clear margins on every side, centered large. Square dark slate-blue painted background, edge to edge. Original stylized hand-painted fantasy, bold clean shapes, warm upper-left light, restrained detail, readable at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects, magic or copied game designs.",
+      "sha256": "db9d408e69f1a2cdd85935d2035fbc7caec1e3b3020b68a085c9c85237f972b6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "tidewatchers_locket",
+      "status": "original art prepared for existing item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tidewatchers_locket.webp",
+        "sha256": "3d9d3738f52a3a9e6c65028a4bd2a058a8fe3619a0e7ca9a658142e3f63d0058",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/order_prayer_beads.png",
+      "subject": "order_prayer_beads",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for order_prayer_beads, a faction reward necklace. Show one complete loop of large warm ivory prayer beads on dark cord, with a single plain bronze teardrop pendant at the bottom, centered large. Square dark slate-blue painted background, edge to edge. Original stylized hand-painted fantasy, bold clean shapes, warm upper-left light, restrained detail, readable at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects, magic or copied game designs.",
+      "sha256": "cc772ab100c20dcfc90303b34bba95e2b705c88e9d0712524cf17f0fa0d67835",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "order_prayer_beads",
+      "status": "original art prepared for existing item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/order_prayer_beads.webp",
+        "sha256": "42720c3e90408e238c2e4b50b946f26211271a68c82832fef864ffb0c507c36e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/rift_watchers_band.png",
+      "subject": "rift_watchers_band",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for rift_watchers_band, a faction reward ring. Show one complete dark steel ring with a broad angular bezel containing one deep teal faceted stone and simple bronze side bands, centered large in three-quarter view. Square dark slate-blue painted background, edge to edge. Original stylized hand-painted fantasy, bold clean shapes, warm upper-left light, restrained detail, readable at 32 pixels. No text, letters, border, frame, logo, watermark, hands, extra objects, magic or copied game designs.",
+      "sha256": "e5ab21a7061b5e5497fded57e06b2b3230756a427545d532b23ab633126b8442",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "rift_watchers_band",
+      "status": "original art prepared for existing item",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/rift_watchers_band.webp",
+        "sha256": "fe52217aed1fa22bd02c0c5f5b8764bd27ad1b0c8e949c360d4f759bb97e7dff",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

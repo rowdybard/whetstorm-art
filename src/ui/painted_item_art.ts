@@ -36,10 +36,14 @@ import { earlyMaterialThirteenItemImageUrl } from './early_material_thirteen_ite
 import { earlyMaterialTwelveItemImageUrl } from './early_material_twelve_item_art';
 import { earlyQuestItemImageUrl } from './early_quest_item_art';
 import { earlyQuestMaterialItemImageUrl } from './early_quest_material_item_art';
+import { foodConjuredLaterItemImageUrl } from './food_conjured_later_item_art';
 import { foodEarlySecondItemImageUrl } from './food_early_second_item_art';
 import { foodOriginalBatchItemImageUrl } from './food_original_batch_item_art';
+import { herbPlantNextItemImageUrl } from './herb_plant_next_item_art';
 import { jewelryBatchItemImageUrl } from './jewelry_batch_item_art';
+import { jewelryBatchNextItemImageUrl } from './jewelry_batch_next_item_art';
 import { jewelryBatchTwoItemImageUrl } from './jewelry_batch_two_item_art';
+import { leatherBatchCraftedItemImageUrl } from './leather_batch_crafted_item_art';
 import { leatherBatchOriginalItemImageUrl } from './leather_batch_original_item_art';
 import { marshBatchEighteenItemImageUrl } from './marsh_batch_eighteen_item_art';
 import { marshBatchSeventeenItemImageUrl } from './marsh_batch_seventeen_item_art';
@@ -49,6 +53,8 @@ import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
 import { questBatchHighwatchItemImageUrl } from './quest_batch_highwatch_item_art';
 import { questBatchSixteenItemImageUrl } from './quest_batch_sixteen_item_art';
 import { questBatchWaterwaysItemImageUrl } from './quest_batch_waterways_item_art';
+import { questHighwatchSecondItemImageUrl } from './quest_highwatch_second_item_art';
+import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
 import { starterItemImageUrl } from './starter_item_art';
 import { toolBatchFiveItemImageUrl } from './tool_batch_five_item_art';
 import { toolBatchFourItemImageUrl } from './tool_batch_four_item_art';
@@ -73,6 +79,12 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    foodConjuredLaterItemImageUrl(id) ??
+    herbPlantNextItemImageUrl(id) ??
+    jewelryBatchNextItemImageUrl(id) ??
+    leatherBatchCraftedItemImageUrl(id) ??
+    questHighwatchSecondItemImageUrl(id) ??
+    sanctumMailItemImageUrl(id) ??
     clothBatchTwoItemImageUrl(id) ??
     foodEarlySecondItemImageUrl(id) ??
     jewelryBatchTwoItemImageUrl(id) ??

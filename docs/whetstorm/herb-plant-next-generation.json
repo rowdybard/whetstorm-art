@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "fine_sunpetal_herb",
+      "subject": "Fine Sunpetal Herb, a freshly gathered bundle of radiant golden sun-shaped flowers with broad petals and rich green leaves, tied at the stems",
+      "file": "docs/design/whetstorm-art/items/fine_sunpetal_herb.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy inventory item painting. Subject: Fine Sunpetal Herb, a freshly gathered bundle of radiant golden sun-shaped flowers with broad petals and rich green leaves, tied at the stems. Hand-painted 2D fantasy illustration, vivid color and bold simple silhouette, centered whole subject on a dark painted background. Readable at 32 pixels. No frame, text, letters, logo, watermark, or imitation of existing games.",
+      "sha256": "eecd0468f7f76f5d30bef7c66e4903b80a05997fb03e739b9a10ab3a06fe860e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_sunpetal_herb.webp",
+        "sha256": "f7a620aa5e3f9e410d953b5375939160220f2ceeb2587232538d77084406079c",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "sharp Lanczos3 resize; WebP quality 88, effort 6"
+      }
+    },
+    {
+      "itemId": "brook_carrot",
+      "subject": "Brook Carrot, one freshly harvested orange carrot with a short leafy green crown and slender tapered root, slightly angled",
+      "file": "docs/design/whetstorm-art/items/brook_carrot.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy inventory item painting. Subject: Brook Carrot, one freshly harvested orange carrot with a short leafy green crown and slender tapered root, slightly angled. Hand-painted 2D fantasy illustration, vivid color and bold simple silhouette, centered whole subject on a dark painted background. Readable at 32 pixels. No frame, text, letters, logo, watermark, or imitation of existing games.",
+      "sha256": "e157f0005fa893c1ce0ec45d9c410b070247270e71f7de00898ec1ee9c229451",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/brook_carrot.webp",
+        "sha256": "1e5deabcacf325138bb91a2b8cde0bda8e0f8f7ff06fa143e8d68bd5da1ba966",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "sharp Lanczos3 resize; WebP quality 88, effort 6"
+      }
+    },
+    {
+      "itemId": "fine_brook_carrot",
+      "subject": "Fine Brook Carrot, a beautiful premium freshly harvested pair of plump bright orange carrots with lush green tops, tied together with simple twine, visibly different from a single carrot",
+      "file": "docs/design/whetstorm-art/items/fine_brook_carrot.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy inventory item painting. Subject: Fine Brook Carrot, a beautiful premium freshly harvested pair of plump bright orange carrots with lush green tops, tied together with simple twine, visibly different from a single carrot. Hand-painted 2D fantasy illustration, vivid color and bold simple silhouette, centered whole subject on a dark painted background. Readable at 32 pixels. No frame, text, letters, logo, watermark, or imitation of existing games.",
+      "sha256": "323413939e35a49e6f2fe208ef5bdaefa55e59de8542b45b7f1773ffd734cd91",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_brook_carrot.webp",
+        "sha256": "61be3f04218cc18728c20c6b6bb491cfb3f4251c69e9144dd289cb2594de59ba",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "sharp Lanczos3 resize; WebP quality 88, effort 6"
+      }
+    },
+    {
+      "itemId": "bog_beet",
+      "subject": "Bog Beet, one freshly harvested deep burgundy round beetroot with a thin curling root and broad dark green leaves, angled diagonally",
+      "file": "docs/design/whetstorm-art/items/bog_beet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy inventory item painting. Subject: Bog Beet, one freshly harvested deep burgundy round beetroot with a thin curling root and broad dark green leaves, angled diagonally. Hand-painted 2D fantasy illustration, vivid color and bold simple silhouette, centered whole subject on a dark painted background. Readable at 32 pixels. No frame, text, letters, logo, watermark, or imitation of existing games.",
+      "sha256": "2a5ce883211cd7fc914ecf8358d5992e6a2d01b130c07d26786b915411efe32b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bog_beet.webp",
+        "sha256": "6e77d0a34bd77c869d64bbdeaad9a254dd9ac406b975ba3890d86c7b1823095c",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "sharp Lanczos3 resize; WebP quality 88, effort 6"
+      }
+    }
+  ]
+}

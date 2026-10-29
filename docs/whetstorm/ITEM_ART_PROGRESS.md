@@ -64,6 +64,17 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Twenty-eighth checkpoint: four mail pieces, four leather pieces, four conjured
+foods and drinks, four jewelry pieces, four plant materials and four quest
+objects add 24 unique paintings. This effort has created 300 paintings for 300
+IDs without deliberate reuse. Of 1,626 catalog IDs, 317 have direct individual
+paintings and 1,309 do not. Records are `sanctum-mail-item-art-generation.json`,
+`leather-batch-crafted-generation.json`, `food-conjured-later-generation.json`,
+`jewelry-batch-next-generation.json`, `herb-plant-next-generation.json` and
+`quest-highwatch-second-generation.json`. Inventory-size reviews and focused
+image and routing tests passed. Browser, full gate and shipping-tree clearance
+remain open.
+
 Twenty-seventh checkpoint: four mail pieces, four cloth pieces, four foods,
 four jewelry pieces, four gathering materials and four quest objects add 24
 unique paintings. This effort has created 276 paintings for 276 IDs without

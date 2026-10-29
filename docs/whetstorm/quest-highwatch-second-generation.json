@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "ogre_war_totem",
+      "file": "docs/design/whetstorm-art/items/ogre_war_totem.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for ogre_war_totem, an Ogre War Totem. The quest describes a crude totem made of hide and skull with wyrm-scale bindings: show one complete small weathered animal skull mounted on a short hide-wrapped post with visible scale bindings, not a carved wooden face. Center against an opaque dark slate-blue painted vignette. Bold clear silhouette, warm upper-left light, tactile materials, hand-painted fantasy, restrained detail, complete object and safe margins, readable at 32px. No text, letters, logo, watermark, frame, person, or copied designs.",
+      "sha256": "fa3d737f0619323c4ff50ac17d3e4c2aa6f11421fac45c82256e64fc1559f72b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ogre_war_totem.webp",
+        "sha256": "85b1eba0d4c942349387ee10389b41bb2e43b29cd2c4e5e07558be1bf847fd9a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from original; Pillow WebP quality 84, method 6"
+      },
+      "review": "docs/design/whetstorm-art/items/quest-highwatch-second-review.png"
+    },
+    {
+      "itemId": "wyrmcult_orders",
+      "file": "docs/design/whetstorm-art/items/wyrmcult_orders.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for wyrmcult_orders, Broodsworn Orders carried by cultists. One rolled weathered parchment tied with a dark red cord and plain wax seal, isolated centered on an opaque dark slate-blue painted vignette. Bold clear silhouette, warm upper-left light, tactile paper, hand-painted fantasy, restrained detail, complete object and safe margins, readable at 32px. No writing, text, letters, logo, watermark, frame, person, or copied designs.",
+      "sha256": "f43e2ed1e155c38fd59af7d68dc44cf80d1bfb82b0814f39bf21799b24accb89",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmcult_orders.webp",
+        "sha256": "f3f513143d53c0dc1bd4112a4ca1632daefa5210882398f4516e065e87ed1c66",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from original; Pillow WebP quality 84, method 6"
+      },
+      "review": "docs/design/whetstorm-art/items/quest-highwatch-second-review.png"
+    },
+    {
+      "itemId": "ritual_phylactery",
+      "file": "docs/design/whetstorm-art/items/ritual_phylactery.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for ritual_phylactery, a Ritual Phylactery collected from necromancers. One compact ancient dark metal reliquary vessel with a faceted smoky violet glass core, modest aged bronze fittings, isolated centered on an opaque dark slate-blue painted vignette. Bold clear silhouette, warm upper-left light, tactile materials, hand-painted fantasy, restrained detail, complete object and safe margins, readable at 32px. No writing, text, letters, logo, watermark, frame, person, or copied designs.",
+      "sha256": "185cf258905f0d590e78c166d40d4d533ee587284945d4bde144df3036e5a329",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ritual_phylactery.webp",
+        "sha256": "3418543b90bfaff303df17c4dc8ddbdffc4427d1f6cb27c524c94f26d5169a93",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from original; Pillow WebP quality 84, method 6"
+      },
+      "review": "docs/design/whetstorm-art/items/quest-highwatch-second-review.png"
+    },
+    {
+      "itemId": "vanguard_bone",
+      "file": "docs/design/whetstorm-art/items/vanguard_bone.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for vanguard_bone, Vanguard Bone collected from undead vanguard. One complete old ivory long bone with broad rounded ends and subtle weathered cracks, diagonally centered against an opaque dark slate-blue painted vignette. Bold clear silhouette, warm upper-left light, tactile bone, hand-painted fantasy, restrained detail, complete object and safe margins, readable at 32px. No writing, text, letters, logo, watermark, frame, person, or copied designs.",
+      "sha256": "8783a9983eae2bf9760a51c3ad2518e9690a89127bbc5cc28ffc85f4726bf820",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_bone.webp",
+        "sha256": "4affc25682a773042b68353a546160a23933425fb7282d793c93966e08888dff",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from original; Pillow WebP quality 84, method 6"
+      },
+      "review": "docs/design/whetstorm-art/items/quest-highwatch-second-review.png"
+    }
+  ]
+}

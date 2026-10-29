@@ -732,3 +732,11 @@ recorded in `docs/whetstorm/plate-roadward-batch-generation.json`,
 `docs/whetstorm/jewelry-batch-two-generation.json`,
 `docs/whetstorm/material-herb-hide-batch-generation.json`, and
 `docs/whetstorm/quest-batch-waterways-generation.json`.
+
+Twenty-four mail, leather, food, jewelry, plant and quest paintings are
+recorded in `docs/whetstorm/sanctum-mail-item-art-generation.json`,
+`docs/whetstorm/leather-batch-crafted-generation.json`,
+`docs/whetstorm/food-conjured-later-generation.json`,
+`docs/whetstorm/jewelry-batch-next-generation.json`,
+`docs/whetstorm/herb-plant-next-generation.json`, and
+`docs/whetstorm/quest-highwatch-second-generation.json`.
