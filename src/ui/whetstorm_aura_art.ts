@@ -14,6 +14,7 @@ import { whetstormMobAuraImpairmentsImageUrl } from './whetstorm_mob_aura_impair
 import { whetstormMobAuraMagicImageUrl } from './whetstorm_mob_aura_magic_art';
 import { whetstormMobAuraStatusImageUrl } from './whetstorm_mob_aura_status_art';
 import { whetstormRecoveryAuraImageUrl } from './whetstorm_recovery_aura_art';
+import { whetstormWarfareAuraImageUrl } from './whetstorm_warfare_aura_art';
 
 // Original Whetstorm aura paintings, keyed by exact runtime identity.
 const WHETSTORM_AURA_ART: ReadonlyMap<string, string> = new Map([
@@ -81,6 +82,7 @@ export function whetstormAuraImageUrl(id: string): string | null {
     whetstormClassAuraImageUrl(id) ??
     whetstormBattlegroundAuraImageUrl(id) ??
     whetstormEngineAuraImageUrl(id) ??
+    whetstormWarfareAuraImageUrl(id) ??
     whetstormCombatProcAuraImageUrl(id) ??
     whetstormMobAuraBatchImageUrl(id) ??
     whetstormMobAuraDebuffsImageUrl(id) ??

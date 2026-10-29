@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "slagbreaker_helmet",
+      "file": "docs/design/whetstorm-art/items/slagbreaker_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Slagbreaker Helm: one empty dark iron helmet with chain mail coif, hammered plate, copper edging and restrained ember-orange glow in its seams. No face, mannequin or body. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Slagbreaker armor painting; reviewed",
+      "sha256": "98437cc5d7ac7a41b89133981356e3f93eb4165dc0e048ddeed842b452cc15b8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/slagbreaker_helmet.webp",
+        "sha256": "9b12dbb9d58559cd706eb705af0cda78bc1631b9dfbba2a305f92cd104985d18",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "slagbreaker_shoulder",
+      "file": "docs/design/whetstorm-art/items/slagbreaker_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Slagbreaker Pauldrons: a compact symmetric pair of empty dark iron shoulder guards with chain mail, hammered plate, copper edging and restrained ember-orange glow in their seams. No wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Slagbreaker armor painting; reviewed",
+      "sha256": "1f6f05b3bf69a45bfd6d7b5d10621797dfc7118e37824dc9ede461749c9ab482",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/slagbreaker_shoulder.webp",
+        "sha256": "3187c213408bd76aaaa51a217cdf0f2a976a8b2453af3f1dc27173c16f9c4ca8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "slagbreaker_chest",
+      "file": "docs/design/whetstorm-art/items/slagbreaker_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Slagbreaker Hauberk: one empty front-facing dark iron chain mail shirt with hammered plate panels, copper edging and restrained ember-orange glow in its seams. No wearer, head, hands or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Slagbreaker armor painting; reviewed",
+      "sha256": "261126623e5c31a937691e26a62bdbf0af230394df2924087ec0335323c0e055",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/slagbreaker_chest.webp",
+        "sha256": "cecd4a63bb5b4185b949394b426626860a4c8e2c8e886d6a3f53a6b791d5b04e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "slagbreaker_gloves",
+      "file": "docs/design/whetstorm-art/items/slagbreaker_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Slagbreaker Gauntlets: a compact natural pair of empty dark iron chain mail gloves with hammered plate panels, copper edging and restrained ember-orange glow in their seams. No wearer. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Slagbreaker armor painting; reviewed",
+      "sha256": "ae0f5474dd4d9d27004d74f42abf61adfcca8a5d28fffdcce07a2b843c908901",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/slagbreaker_gloves.webp",
+        "sha256": "b7336e1923dd10c439ce67a01c57e5064a65de4525bd05b8e10ca709b0626609",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

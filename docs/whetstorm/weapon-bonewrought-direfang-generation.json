@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "bonewrought_greatsword",
+      "file": "docs/design/whetstorm-art/items/bonewrought_greatsword.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Bonewrought Greatsword, complete two-handed sword with a broad straight steel blade, pale bone inlays along the base and a bone crossguard, dark leather grip and iron fittings. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "12c7a61b9c1c6d26d23bc1e5748c297e1d24ff03024cbded683a5e471c450aac",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bonewrought_greatsword.webp",
+        "sha256": "59b15825800fee36e6c53b6db9dbf4c50253d9ed04d357066b7e37030dbf2cb1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-63ba4ea2-76af-426f-9dc5-7c29154057e7.png"
+    },
+    {
+      "itemId": "direfang_greatblade",
+      "file": "docs/design/whetstorm-art/items/direfang_greatblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Direfang Greatblade, complete two-handed curved heavy steel blade with tooth-like notches at its spine, simple dark iron claw-shaped guard, leather grip and muted bronze fittings. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "f2d20403741c15c10d8133420615885df3d5c79cbb3631d8398d35d89532f107",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/direfang_greatblade.webp",
+        "sha256": "9fe2ea5a291fd458417b12b5c94915eb49e22f48ea7e4aa0d3858f26f4f02cc8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-315c348e-8d21-4a21-a809-274793ea522d.png"
+    }
+  ]
+}

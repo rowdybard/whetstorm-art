@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "set_warfare_unbroken_oath",
+      "runtimeIds": [
+        "set_warfare_unbroken_oath"
+      ],
+      "file": "docs/design/whetstorm-art/auras/set_warfare_unbroken_oath.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original unbroken oath protective status: a sturdy silver shield crossed by a single unbroken golden chain, soft pale gold protective glow. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "b5f22ffc29d6c6ed088b964cb3e9e50e46aa7a0ee94480ec44b4d74d91a4bc17",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/set_warfare_unbroken_oath.webp",
+        "sha256": "2ba341c281fc3118586c076aa563c73730fdc32bc78ed22e56195cc65ce7e1bf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/set_warfare_unbroken_oath.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "set_warfare_ashen_step",
+      "runtimeIds": [
+        "set_warfare_ashen_step"
+      ],
+      "file": "docs/design/whetstorm-art/auras/set_warfare_ashen_step.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original ashen step speed status: a dark leather boot stepping through curling gray ash with a bright ember trail, conveying swift motion. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "32000e6ea7e05956ed764d8c5a49319f795f604d138d31990f1cdc26d02c17e6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/set_warfare_ashen_step.webp",
+        "sha256": "44329b9ca9b6794d5dfbf9de6a333b6ce46854c8780626cead0160703a548ac7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/set_warfare_ashen_step.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "set_warfare_thornguard",
+      "runtimeIds": [
+        "set_warfare_thornguard"
+      ],
+      "file": "docs/design/whetstorm-art/auras/set_warfare_thornguard.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original thornguard dodge status: a curved green thorn branch encircling an empty silhouette with a sweeping teal arc, conveying agile evasion. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "f72f5d9fb732d5269b00368fac015c41a5359699d2887c819f3af552fc841c0a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/set_warfare_thornguard.webp",
+        "sha256": "5a20256ab832cddc65458b6dd0ec7cd5d1bb474bcba568abf369fe4da58ca9c0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/set_warfare_thornguard.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "set_warfare_emberward",
+      "runtimeIds": [
+        "set_warfare_emberward"
+      ],
+      "file": "docs/design/whetstorm-art/auras/set_warfare_emberward.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original emberward protective status: a dark copper shield enclosed in a compact ring of orange embers, warm glow at its center. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "2efbc8111fdf6b6130be5ee97ac038373ad1ac6a9645cefe9d3787abaa4f77da",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/set_warfare_emberward.webp",
+        "sha256": "ceef09dd3b2b461291eb0c8d99a3c4798c43e7dcf4e871cce7a0282d36303026",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/set_warfare_emberward.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

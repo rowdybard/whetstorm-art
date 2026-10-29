@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "vanguard_band_of_might",
+      "file": "docs/design/whetstorm-art/items/vanguard_band_of_might.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Vanguard's Band of Might: a thick hammered iron ring with bronze shield-shaped bezel and a square red garnet. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "ce0c26849bc9ed3cfbdfc949bb1a8e9189916ffa6329601179d1840a22378ec3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_band_of_might.webp",
+        "sha256": "8effe1387a8391d8363e55d934cb3ff7a785d08960238f57638330b519d705c7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_band_of_precision",
+      "file": "docs/design/whetstorm-art/items/vanguard_band_of_precision.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Vanguard's Band of Precision: a slender polished silver ring with gold arrowhead-shaped bezel and a small emerald. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "16244243e3030969616ec28a27dfe2002d2018d8d9cf965e641887f0ca98a31c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_band_of_precision.webp",
+        "sha256": "6c02ececaf1adf2a57f78a6ef464e0969de19dc75087cb9e4852926d2427b786",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_band_of_focus",
+      "file": "docs/design/whetstorm-art/items/vanguard_band_of_focus.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Vanguard's Band of Focus: a polished gold ring with four-point star bezel and a vivid round sapphire. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "cf1d4f484364c3a6dbaf321b5a1314e982dc3d1689d6f202d2c53f1683a7475c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_band_of_focus.webp",
+        "sha256": "09fbeb5eb4ec8c2e84b808dc38e4b633ba16ed685647af86f87f2cbe0507f348",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_band_of_mending",
+      "file": "docs/design/whetstorm-art/items/vanguard_band_of_mending.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Vanguard's Band of Mending: a silver ring whose delicate leaf-shaped shoulders cradle an oval pale green gemstone. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "1deb065a1072e990f6f4c40a3024b7e37bf33610e07e6ee1d67872f8d7c0b534",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_band_of_mending.webp",
+        "sha256": "08845f4e0a4f7d4ad67a3c6e51bcacd92045a3fcc5e5cdf69b0be0fe7fb0fc03",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

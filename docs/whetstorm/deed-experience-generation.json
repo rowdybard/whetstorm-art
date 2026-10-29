@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "prog_veteran",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a weathered bronze shield with a small laurel branch resting against it, representing a seasoned veteran. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_veteran.png",
+      "masterSha256": "a8705d217cf1ad2e0e6175e0895ad10a48a9022bae82557947a73c4908b3e590",
+      "shipping": "public/ui/whetstorm/deeds/prog_veteran.webp",
+      "shippingSha256": "83e3f44ae9e484e1c1ebb58bcadbe155b8536460c417d70416108d4dc1d66536",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_champion",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a silver trophy cup with a red ribbon and two laurel branches, representing a champion. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_champion.png",
+      "masterSha256": "4f14f573975b651a849773766ce3ac2e022320a6a14ef96e7091563706cf6d9d",
+      "shipping": "public/ui/whetstorm/deeds/prog_champion.webp",
+      "shippingSha256": "ab4663d3852256c8d0a83c0944d482501e936c100b8dce907259a6bdb04fe6b5",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_paragon",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a radiant golden star above a polished upright sword and purple mantle, representing a paragon of experience. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_paragon.png",
+      "masterSha256": "c133135808dbb47a8d48a9ec545616f5d265a1f6a8c378a07c50f3c8fc3f051b",
+      "shipping": "public/ui/whetstorm/deeds/prog_paragon.webp",
+      "shippingSha256": "eed2151bebbd2d1b757189760549a84dac126cb53e48bef302c88e56a98ae40f",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

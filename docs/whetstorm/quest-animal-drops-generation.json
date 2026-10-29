@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "thick_winter_pelt",
+      "file": "docs/design/whetstorm-art/items/thick_winter_pelt.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a single folded thick winter animal pelt, dense white and pale gray fur with a visible brown hide edge, against a dark icy blue painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, animal head, or imitation of another game.",
+      "sha256": "5e2da1175aa01acb6254c35e10c75573c50ea285d507f38c6eb959604f66f7e2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/thick_winter_pelt.webp",
+        "sha256": "833d3eda253bea6edb27db98b9608661bf38241d7a7abd1f85dc50bb99c2f2b1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ridge_stalker_pelt",
+      "file": "docs/design/whetstorm-art/items/ridge_stalker_pelt.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a single folded ridge stalker pelt, mottled tawny brown and dark gray fur with a visible rough hide edge, against a dark rocky brown painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, animal head, or imitation of another game.",
+      "sha256": "6a405598c093b023cb9766d5c0914512bf7e25e5a0b97cce36236a90363d446e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ridge_stalker_pelt.webp",
+        "sha256": "1f01c1f8159ba16af69d2e83f0a7a7cc052b8064652d6cd4f73f55c820df8c45",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "plump_fen_eel",
+      "file": "docs/design/whetstorm-art/items/plump_fen_eel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one whole plump freshwater eel, silvery olive skin and curled into a simple C shape, against a dark marsh green painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No plate, hook, border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "ada40dc6f002245edcd79300973d56e5e6102364debb24728a1656a352ff4fe3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/plump_fen_eel.webp",
+        "sha256": "3f2a481016922b2fc7da68a6c28c6c61b0911e783953422b6c309d83ac1aad94",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
