@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "dawnkeepers_circle",
+      "file": "docs/design/whetstorm-art/items/dawnkeepers_circle.png",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for dawnkeepers_circle, a fantasy ring. One complete gold ring with a broad circular sunburst bezel and warm ivory stone, simple strong silhouette, three-quarter view. Square dark slate-blue painted background edge to edge. Center the whole ring with clear margins, large enough to read at 32 pixels. Hand-painted stylized fantasy, warm upper-left light, restrained detail. No text, letters, frame, watermark, hands, extra objects or copied designs.",
+      "sha256": "433394c4b08d22929b543ad69009c14729bfb5ea3fb99d4b6a3e123f309988b0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/dawnkeepers_circle.webp",
+        "sha256": "9cd9ba9c38b4277c1f1e8a07086a1a1796df13ccd7eb36a7c2211f58325a0b43",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "champion_forged_loop",
+      "file": "docs/design/whetstorm-art/items/champion_forged_loop.png",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for champion_forged_loop, a fantasy ring. One complete heavy dark forged iron ring with thick square shoulders and a single copper rivet inset on its broad face, three-quarter view. Square dark slate-blue painted background edge to edge. Center the whole ring with clear margins, large enough to read at 32 pixels. Hand-painted stylized fantasy, warm upper-left light, restrained detail. No text, letters, frame, watermark, hands, extra objects or copied designs.",
+      "sha256": "a205644a3e802ded5c95a297b396fe5192dbb0e3b8caa9555914e0e7a69f560e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/champion_forged_loop.webp",
+        "sha256": "bdbd8e5b0aa7745df49af0a7ca971f9ddc6ecd3e7ee2e02cbf9101f3efd4dfea",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "forgewall_gorget",
+      "file": "docs/design/whetstorm-art/items/forgewall_gorget.png",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for forgewall_gorget, a fantasy neck item. One complete sturdy bronze and iron gorget shaped as a thick open circular collar, front center with a single angular shield-shaped plate, three-quarter view. Square dark slate-blue painted background edge to edge. Center the whole collar with clear margins, large enough to read at 32 pixels. Hand-painted stylized fantasy, warm upper-left light, restrained detail. No text, letters, frame, watermark, hands, extra objects or copied designs.",
+      "sha256": "cbf1a95e1b2fe6690b3ba56dcb455b30bab6f7a2375f4e8968d1b985fa2f8703",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgewall_gorget.webp",
+        "sha256": "04f9624b0656002dbae5aa0cea521d54f3ef962c647b8eb46a10f326f8f84e83",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wyrmfall_pendant",
+      "file": "docs/design/whetstorm-art/items/wyrmfall_pendant.png",
+      "source": "OpenAI image generation (built-in)",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for wyrmfall_pendant, a fantasy necklace. One complete closed loop of thick bronze chain with a single large teal teardrop stone pendant held in simple winglike bronze prongs, entire chain visible, centered. Square dark slate-blue painted background edge to edge. Clear margins, large enough to read at 32 pixels. Hand-painted stylized fantasy, warm upper-left light, restrained detail. No text, letters, frame, watermark, hands, extra objects or copied designs.",
+      "sha256": "84507228617262695a3e53cf5454d394836cf85e992d15aec9307316db63e42e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmfall_pendant.webp",
+        "sha256": "7f77aecf8350eb65dbce3a585621562940bda8f4d52a933efaad46bba6998641",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

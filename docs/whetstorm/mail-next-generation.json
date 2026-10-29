@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "siltguard_helm",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting: Siltguard Helm, a simple iron mail helmet with rounded steel cap, broad nose guard and a short chainmail curtain, traces of river silt. Center the complete helmet on a dark slate-blue painted background. Original hand-painted fantasy, bold readable silhouette, warm upper-left light, restrained detail. No frame, text, letters, logo, watermark, people, or imitation of any game.",
+      "master": "docs/design/whetstorm-art/items/siltguard_helm.png",
+      "master_sha256": "145109725568aefbbaf5f751ff86dde5a661049e41ba4848b8d9418b18cc3bce",
+      "master_pixels": [
+        1254,
+        1254
+      ],
+      "runtime": "public/ui/whetstorm/items/siltguard_helm.webp",
+      "runtime_sha256": "40ce98de05c573c1ead838a395696e4eb89b50431eeadc07047d85e03d832e2b",
+      "processing": "Lanczos3 resize to 128 by 128, WebP quality 90"
+    },
+    {
+      "id": "bulwark_rusted_pauldrons",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting: Bulwark-Rusted Pauldrons, a complete pair of rugged overlapping iron shoulder guards with rusty edges and visible chainmail underlay, symmetrically arranged as one item. Center on a dark slate-blue painted background. Original hand-painted fantasy, bold readable silhouette, warm upper-left light, restrained detail. No frame, text, letters, logo, watermark, people, or imitation of any game.",
+      "master": "docs/design/whetstorm-art/items/bulwark_rusted_pauldrons.png",
+      "master_sha256": "532efdfd0d702b4e3adbfef4239bd69c9ff5c9c6fdcba108af822f543468035f",
+      "master_pixels": [
+        1254,
+        1254
+      ],
+      "runtime": "public/ui/whetstorm/items/bulwark_rusted_pauldrons.webp",
+      "runtime_sha256": "8496796b289f64429e56d234a2a563754e51431e2c420a728112e0300a9e47d5",
+      "processing": "Lanczos3 resize to 128 by 128, WebP quality 90"
+    },
+    {
+      "id": "blackwater_vanguard_chest",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting: Blackwater Vanguard Chestguard, a complete dark forged steel and chainmail chest armor with layered broad plates, muted blue-green patina and worn bronze trim. Center on a dark slate-blue painted background. Original hand-painted fantasy, bold readable silhouette, warm upper-left light, restrained detail. No frame, text, letters, logo, watermark, people, or imitation of any game.",
+      "master": "docs/design/whetstorm-art/items/blackwater_vanguard_chest.png",
+      "master_sha256": "da0fb5c4b8d84b2c88918373770ed0cb1a042fe7c0761203098b0b5891bc7dab",
+      "master_pixels": [
+        1254,
+        1254
+      ],
+      "runtime": "public/ui/whetstorm/items/blackwater_vanguard_chest.webp",
+      "runtime_sha256": "ecafe849eb9e5a8ba87363d9b5403ec9ed9737b002e9efd4c8c217fa458cae6a",
+      "processing": "Lanczos3 resize to 128 by 128, WebP quality 90"
+    },
+    {
+      "id": "cryptplate_helm",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting: Cryptplate Helm, a complete enclosed steel helmet with blunt peaked crown, dark narrow eye slit and bone-colored plate trim over chainmail. Center on a dark slate-blue painted background. Original hand-painted fantasy, bold readable silhouette, warm upper-left light, restrained detail. No frame, text, letters, logo, watermark, people, or imitation of any game.",
+      "master": "docs/design/whetstorm-art/items/cryptplate_helm.png",
+      "master_sha256": "fcbcfb38b40a7ca507b477e257c736f57bb25eae99c9536f5c040e6b924b5fcf",
+      "master_pixels": [
+        1254,
+        1254
+      ],
+      "runtime": "public/ui/whetstorm/items/cryptplate_helm.webp",
+      "runtime_sha256": "90ce7aacd292688a59a1a43f4f479f21daf6a600f48ec94a87c420db35d09e6f",
+      "processing": "Lanczos3 resize to 128 by 128, WebP quality 90"
+    }
+  ]
+}

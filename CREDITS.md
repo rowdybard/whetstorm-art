@@ -764,3 +764,11 @@ recorded in `docs/whetstorm/mail-boneward-generation.json`,
 `docs/whetstorm/jewelry-batch-later-tier-generation.json`,
 `docs/whetstorm/material-chime-cloth-generation.json`, and
 `docs/whetstorm/quest-batch-clues-crypt-generation.json`.
+
+Twenty-four mail, leather, food, jewelry, material and quest paintings are
+recorded in `docs/whetstorm/mail-next-generation.json`,
+`docs/whetstorm/leather-delve-next-generation.json`,
+`docs/whetstorm/food-fen-highwatch-generation.json`,
+`docs/whetstorm/jewelry-forge-generation.json`,
+`docs/whetstorm/material-highpine-next-generation.json`, and
+`docs/whetstorm/quest-batch-realm-drops-generation.json`.

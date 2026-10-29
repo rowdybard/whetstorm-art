@@ -43,6 +43,7 @@ import { farmMaterialsOriginalItemImageUrl } from './farm_materials_original_ite
 import { foodConjuredLaterItemImageUrl } from './food_conjured_later_item_art';
 import { foodCookingLaterItemImageUrl } from './food_cooking_later_item_art';
 import { foodEarlySecondItemImageUrl } from './food_early_second_item_art';
+import { foodFenHighwatchItemImageUrl } from './food_fen_highwatch_item_art';
 import { foodHighwatchSuppliesItemImageUrl } from './food_highwatch_supplies_item_art';
 import { foodOriginalBatchItemImageUrl } from './food_original_batch_item_art';
 import { foodZoneTwoItemImageUrl } from './food_zone_two_item_art';
@@ -53,16 +54,20 @@ import { jewelryBatchNextItemImageUrl } from './jewelry_batch_next_item_art';
 import { jewelryBatchTwoItemImageUrl } from './jewelry_batch_two_item_art';
 import { jewelryChampionsItemImageUrl } from './jewelry_champions_item_art';
 import { jewelryFactionCraftItemImageUrl } from './jewelry_faction_craft_item_art';
+import { jewelryForgeItemImageUrl } from './jewelry_forge_item_art';
 import { leatherBatchCraftedItemImageUrl } from './leather_batch_crafted_item_art';
 import { leatherBatchOriginalItemImageUrl } from './leather_batch_original_item_art';
+import { leatherDelveNextItemImageUrl } from './leather_delve_next_item_art';
 import { leatherThornpeakItemImageUrl } from './leather_thornpeak_item_art';
 import { mailBonewardItemImageUrl } from './mail_boneward_item_art';
 import { mailHighwatchItemImageUrl } from './mail_highwatch_item_art';
+import { mailNextItemImageUrl } from './mail_next_item_art';
 import { mailReliquaryItemImageUrl } from './mail_reliquary_item_art';
 import { marshBatchEighteenItemImageUrl } from './marsh_batch_eighteen_item_art';
 import { marshBatchSeventeenItemImageUrl } from './marsh_batch_seventeen_item_art';
 import { materialChimeClothItemImageUrl } from './material_chime_cloth_item_art';
 import { materialHerbHideBatchItemImageUrl } from './material_herb_hide_batch_item_art';
+import { materialHighpineNextItemImageUrl } from './material_highpine_next_item_art';
 import { materialOrewoodBatchItemImageUrl } from './material_orewood_batch_item_art';
 import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
 import { questBatchCluesCryptItemImageUrl } from './quest_batch_clues_crypt_item_art';
@@ -72,6 +77,7 @@ import { questBatchWaterwaysItemImageUrl } from './quest_batch_waterways_item_ar
 import { questHighwatchSecondItemImageUrl } from './quest_highwatch_second_item_art';
 import { questShoreOriginalItemImageUrl } from './quest_shore_original_item_art';
 import { questThornpeakItemImageUrl } from './quest_thornpeak_item_art';
+import { realmQuestDropItemImageUrl } from './realm_quest_drop_art';
 import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
 import { starterItemImageUrl } from './starter_item_art';
 import { toolBatchFiveItemImageUrl } from './tool_batch_five_item_art';
@@ -97,6 +103,12 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    foodFenHighwatchItemImageUrl(id) ??
+    jewelryForgeItemImageUrl(id) ??
+    leatherDelveNextItemImageUrl(id) ??
+    mailNextItemImageUrl(id) ??
+    materialHighpineNextItemImageUrl(id) ??
+    realmQuestDropItemImageUrl(id) ??
     clothBatchFourItemImageUrl(id) ??
     foodHighwatchSuppliesItemImageUrl(id) ??
     jewelryBatchLaterTierItemImageUrl(id) ??

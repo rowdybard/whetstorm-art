@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "wardens_seal",
+      "file": "docs/design/whetstorm-art/items/wardens_seal.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for wardens_seal, the Warden's Seal, a quest drop. One complete ancient stone-and-bronze seal stamp, a compact oval carved face with an abstract branching emblem and short grip, centered against a dark slate-blue painted background. Square edge to edge, hand-painted stylized fantasy, bold readable silhouette, warm upper-left light, restrained detail, legible at 32 pixels. No people, extra items, text, letters, borders, logos, watermarks, or copied game designs.",
+      "sha256": "b3fdfee9cbf0bc68be480e2604b64ddba0467db44a33b58208432def2dd92e28",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wardens_seal.webp",
+        "sha256": "ff76c732a63d644e38319de1d5babed06218d70e72e7699452bc9db32f3dfd96",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "duskwisp_essence",
+      "file": "docs/design/whetstorm-art/items/duskwisp_essence.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for duskwisp_essence, a quest drop. One small stoppered glass vial containing swirling deep violet luminous mist, centered whole against a dark slate-blue painted background. Square edge to edge, original stylized fantasy hand painting, bold silhouette, warm upper-left light, restrained detail, legible at 32 pixels. No people, extra items, text, letters, borders, logos, watermarks, or copied game designs.",
+      "sha256": "31db422b4513a08ba61ade6e2aed774fd99cd8b096a6058df604ae5055148936",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/duskwisp_essence.webp",
+        "sha256": "1616e60fc196f22ca1e012d433b65139b3907430044208e840b8d3a9c2cfaa9c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "spore_heart",
+      "file": "docs/design/whetstorm-art/items/spore_heart.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for spore_heart, a quest drop. One complete bulbous mushroom heart, rounded wine-red organic bulb with a short pale stem and a few large cream spots, centered against dark slate-blue painted background. Square edge to edge, original stylized fantasy hand painting, bold silhouette, warm upper-left light, restrained detail, legible at 32 pixels. No people, extra items, text, letters, borders, logos, watermarks, or copied game designs.",
+      "sha256": "1118950ef2dee4f54d2455611aa8ab6face45c51e095f1a58db72a0c7986803c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/spore_heart.webp",
+        "sha256": "9598479aa6e68c0637cfd424c280f3685d3fb3ca61d56a603d8ac607e54bd76d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "wisp_mote",
+      "file": "docs/design/whetstorm-art/items/wisp_mote.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for wisp_mote, a quest drop. One brilliant pale turquoise floating mote with a compact teardrop core and two broad curling trails of light, centered against a dark slate-blue painted background. Square edge to edge, original stylized fantasy hand painting, bold silhouette, warm upper-left light, restrained detail, legible at 32 pixels. No people, extra items, text, letters, borders, logos, watermarks, or copied game designs.",
+      "sha256": "dea04dd8b6eb0745333b6c9081673de8f97a7d58e8a89e86b2397ab4e03cdf00",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wisp_mote.webp",
+        "sha256": "f33fee80c35853aa78ea39ac3859838a4d276aff7c2bd01861cefc8847b93b78",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    }
+  ]
+}

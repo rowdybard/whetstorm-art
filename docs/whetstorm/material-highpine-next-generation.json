@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "fine_thorium_ore",
+      "file": "docs/design/whetstorm-art/items/fine_thorium_ore.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint a single Fine Osmium Ore specimen: a dense angular raw dark blue-gray mineral rock with bright silvery metallic crystalline veins and facets, clearly unrefined ore. Original hand-painted fantasy art, bold readable silhouette, centered whole object on dark muted painted background. No frame, text, letters, logo or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "ce9e8b3f225547162304ff529e65e204f5ccefeec4b7a286b911d253389c0bd0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_thorium_ore.webp",
+        "sha256": "11d9834b2371204d44797b0aa394ed19bb0d50119efa1c6f000abd03fffaec1e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "elderwood_log",
+      "file": "docs/design/whetstorm-art/items/elderwood_log.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint a single Highpine Log: a chunky freshly cut pine log with dark russet textured bark, pale golden circular end grain and short broken branch stub. Original hand-painted fantasy art, bold readable silhouette, centered whole object on dark muted painted background. No frame, text, letters, logo or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "2aef00b320606273aed00949a498c17b3840a9523196679b90acb06799140fc9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/elderwood_log.webp",
+        "sha256": "39ffac86b114dff3c7a98ad912f28c0c6de7b8b798a20ae068b888f0569fc640",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fine_elderwood_log",
+      "file": "docs/design/whetstorm-art/items/fine_elderwood_log.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint a single Fine Highpine Log: a clean premium straight pine log with warm reddish bark, brilliant honey-gold end grain and fine resin streaks, clearly a whole cut log. Original hand-painted fantasy art, bold readable silhouette, centered whole object on dark muted painted background. No frame, text, letters, logo or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "6e3c4649118ef8ac1612595b00c6a5737364bbf3ba26e496f5e64df4a261036a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_elderwood_log.webp",
+        "sha256": "2b32f8cde59cc219fa3ecff95508a718487466a7a7c8e594afe61957fb5837a6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "arcanite_bar",
+      "file": "docs/design/whetstorm-art/items/arcanite_bar.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint a single Glyphsteel Bar: a heavy rectangular forged steel ingot, cool dark blue metallic surface and bright polished edges, with one abstract recessed geometric mark. Original hand-painted fantasy art, bold readable silhouette, centered whole object on dark muted painted background. No frame, text, letters, logo or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "0904ffdeff2cbc9193926a99189c9ea65eeb8f8750ae2c28f1c30c79bb451d23",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/arcanite_bar.webp",
+        "sha256": "7af2af4606f31c8bbded2cffc1161f073f0a42bc74dd86887c9183d94d22bf08",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

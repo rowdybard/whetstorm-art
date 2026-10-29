@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "reliquary_leather_chest",
+      "file": "docs/design/whetstorm-art/items/reliquary_leather_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for reliquary_leather_chest, Dustwarden Jerkin. Square painted edge to edge, one complete sleeveless sand-brown leather jerkin with overlapping worn leather panels and a simple dark belt, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "4e8540e71620f98dc027d3f3fc46541bbe8fa0eee8cab13e3963c5e31b8c6fe4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reliquary_leather_chest.webp",
+        "sha256": "8f201ecaf2b84b6f04ecd38f24b217edfe6bd197b055292d7df9eea16d8b4c15",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reliquary_gloves_rog",
+      "file": "docs/design/whetstorm-art/items/reliquary_gloves_rog.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for reliquary_gloves_rog, Bonewarden Grips. Square painted edge to edge, a complete pair of dark brown leather gloves with pale bone-colored protective knuckle plates and sturdy wrist straps, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "d98908b42706599f21eead40a20ba79c095985accff647b0884ec2f00602a743",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reliquary_gloves_rog.webp",
+        "sha256": "49aa6c2552f9168ace7af2cd5058b54b31e72e913f58288766cf393ad0c35bda",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reedstalker_jerkin",
+      "file": "docs/design/whetstorm-art/items/reedstalker_jerkin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for reedstalker_jerkin, Reedstalker Jerkin. Square painted edge to edge, one complete sleeveless muted olive leather jerkin with layered reed-shaped leather panels and simple tan lacing, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "f94a96ec380e214468a2046f878e7eb43d1a3bb856f6dad3ed3ed10139192baf",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reedstalker_jerkin.webp",
+        "sha256": "68a7dafdf1e639de7792e5b13eb0b75a67c2e3b0030e11502bf75a5711845cf6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "widow_silk_hood",
+      "file": "docs/design/whetstorm-art/items/widow_silk_hood.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for widow_silk_hood, Widow-Silk Hood. Square painted edge to edge, one complete deep charcoal leather hood with a visible empty face opening, soft silver silk lining and a subtle web-like stitched edge, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "1568625037e22326eb397c34fcfbe83973d39e25cfc1ab7e413639843073aeb7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/widow_silk_hood.webp",
+        "sha256": "8a8254c21cacf3ec616f38fc69f9c6e959d57362e84d4badb1bd1c74f5f203c3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

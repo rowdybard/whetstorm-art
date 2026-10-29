@@ -64,6 +64,17 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Thirty-second checkpoint: four mail pieces, four leather pieces, four foods,
+four jewelry pieces, four crafting materials and four quest drops add 24 unique
+paintings. This effort has created 396 paintings for 396 IDs without deliberate
+reuse. Of 1,626 catalog IDs, 413 have direct individual paintings and 1,213 do
+not. Some jewelry, dungeon and realm quest items are later rewards. Records are
+`mail-next-generation.json`, `leather-delve-next-generation.json`,
+`food-fen-highwatch-generation.json`, `jewelry-forge-generation.json`,
+`material-highpine-next-generation.json` and `quest-batch-realm-drops-generation.json`.
+Inventory-size reviews and focused image and routing tests passed. Browser,
+full gate and shipping-tree clearance remain open.
+
 Thirty-first checkpoint: four mail pieces, four cloth pieces, four foods,
 four later-tier jewelry pieces, four crafting materials and four quest objects
 add 24 unique paintings. This effort has created 372 paintings for 372 IDs

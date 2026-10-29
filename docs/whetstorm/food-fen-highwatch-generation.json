@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "fenbridge_beet_braise",
+      "file": "docs/design/whetstorm-art/items/fenbridge_beet_braise.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original opaque square fantasy inventory painting of Fenbridge Beet Braise: glossy deep ruby braised beet pieces including one whole beet, served in a simple small earthenware bowl. Tactile painterly food, centered complete silhouette with safe padding, warm upper-left light, cool shadows, dark umber painted background. Bold and readable at 32 pixels. No frame, text, logo, watermark, people, or imitation of existing games.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "cf9ef289cdc9b535744317a3b233940a295597accfcb2a657bb264dcaf1f88bb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenbridge_beet_braise.webp",
+        "sha256": "2c70ea48a76f770e55c987b240cb0e2226de8992fd535850b386f72c0cd042e5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fenbridge_rice_pudding",
+      "file": "docs/design/whetstorm-art/items/fenbridge_rice_pudding.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original opaque square fantasy inventory painting of Fenbridge Rice Pudding: a small rustic ceramic bowl filled with creamy slow-cooked marsh rice pudding, visible grains and a plain wooden spoon resting inside. Centered complete silhouette with safe padding, warm upper-left light, cool shadows, dark umber painted background. Hand-painted fantasy game art, bold and readable at 32 pixels. No frame, text, logo, watermark, people, or imitation of existing games.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "f56576800719de11a2b1ad1888825a160b98b1735412b12438ff1aadb754d5ed",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenbridge_rice_pudding.webp",
+        "sha256": "1213e99d90dee45b2d983ca6bf15da4d6a26808f955bd8f8d43b2177a6ed07cc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "glacier_melt",
+      "file": "docs/design/whetstorm-art/items/glacier_melt.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original opaque square fantasy inventory painting of Glacier Melt: a clear squat glass flask filled with icy pale blue water, sealed with a plain cork, with a few frost crystals on its shoulder. Centered complete silhouette with safe padding, warm upper-left light, cool shadows, dark navy painted background. Hand-painted fantasy game art, bold and readable at 32 pixels. No frame, text, logo, watermark, people, or imitation of existing games.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "8a3a8bf88e7b5a3051e18fbcc4816124d0360421b449a0c14abf2a727502dcb6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/glacier_melt.webp",
+        "sha256": "6f11093703bdd508fe93da3a98d774c148a5dee79b45cf8525e68659f9608567",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "highwatch_barley_porridge",
+      "file": "docs/design/whetstorm-art/items/highwatch_barley_porridge.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original opaque square fantasy inventory painting of Highwatch Barley Porridge: a humble dark stoneware bowl filled with thick golden barley porridge with visible coarse grains and a plain wooden spoon. Centered complete silhouette with safe padding, warm upper-left light, cool shadows, dark umber painted background. Hand-painted fantasy game art, bold and readable at 32 pixels. No frame, text, logo, watermark, people, or imitation of existing games.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "6d500c90cd2a7277b48a2d9050bb807610d556bfbe07edbccedc26f208514cf4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/highwatch_barley_porridge.webp",
+        "sha256": "ea2724c09f5d8f9d2cf2d7ac805739e85393ce75a433f8693725cdb089b65430",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
