@@ -219,10 +219,12 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 import { wildsWeaponItemImageUrl } from './wilds_weapon_item_art';
 import { wovenBagsItemImageUrl } from './woven_bags_item_art';
 import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
+import { zealfireArmorItemImageUrl } from './zealfire_armor_item_art';
 
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    zealfireArmorItemImageUrl(id) ??
     evergardenSeedsItemImageUrl(id) ??
     highpineArgumentItemImageUrl(id) ??
     fishingRodsItemImageUrl(id) ??

@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "zealfire_helmet",
+      "file": "docs/design/whetstorm-art/items/zealfire_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Zealfire Helm: one empty charcoal steel chain mail helmet with ivory ceramic-like plates, gold rivets and restrained blue-white flame edging. No face, mannequin or body. Dark navy painted vignette, warm top-left light, tactile hand-painted materials, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Zealfire armor painting; reviewed",
+      "sha256": "6710bad4b9f93cc01f3fbc15cba460df7fdd47dc6917437b13cbee8cb050128f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/zealfire_helmet.webp",
+        "sha256": "c0ed120512ab53504904545e75cce9c85ffcac1b74cc3a2167b02f942b97964f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "zealfire_shoulder",
+      "file": "docs/design/whetstorm-art/items/zealfire_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Zealfire Pauldrons: a compact symmetric pair of empty charcoal steel chain mail shoulder guards with ivory ceramic-like plates, gold rivets and restrained blue-white flame edging. No wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted materials, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Zealfire armor painting; reviewed",
+      "sha256": "a63eb92c6c08533b68f9b86a85224db1aeb65c2ddb194ec04329ea38f55aa2df",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/zealfire_shoulder.webp",
+        "sha256": "17a1519cc340deca0067ead168a98a9fc79878e4949847462b9da05354f1f6dd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "zealfire_chest",
+      "file": "docs/design/whetstorm-art/items/zealfire_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Zealfire Hauberk: one empty front-facing charcoal steel chain mail shirt with ivory ceramic-like plates, gold rivets and restrained blue-white flame edging. No wearer, head, hands or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted materials, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Zealfire armor painting; reviewed",
+      "sha256": "7110c8fb1153aee807925cfba56626dbb608bcb39257d70d2d54a47fe7997e62",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/zealfire_chest.webp",
+        "sha256": "2733f1ace02de46819a9be8b009786a7517c6ebd83d3e52a734c3fc79265b6f9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "zealfire_gloves",
+      "file": "docs/design/whetstorm-art/items/zealfire_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Zealfire Gauntlets: a compact natural pair of empty charcoal steel chain mail gloves with ivory ceramic-like plates, gold rivets and restrained blue-white flame edging. No wearer. Dark navy painted vignette, warm top-left light, tactile hand-painted materials, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Zealfire armor painting; reviewed",
+      "sha256": "73e612c65f7c15dc2530e7cf250b9ea90dce1bc60dcecfbb7481f945ff4070ba",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/zealfire_gloves.webp",
+        "sha256": "e9f3f04418c86e39fa5d8698a75f05c12bcac9685f4d376ac1b885431de7bee3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "zealfire_legs",
+      "file": "docs/design/whetstorm-art/items/zealfire_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Zealfire Legguards: one complete empty front-facing pair of charcoal steel chain mail trousers ending at open ankle cuffs, with ivory ceramic-like plates, gold rivets and restrained blue-white flame edging. Legs clearly separated, no footwear, boots, wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted materials, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Zealfire armor painting; reviewed",
+      "sha256": "a2ea3c3f0287bc9c494c2c08e0464cae1ce20e895c04e9d91cf249138bd0d852",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/zealfire_legs.webp",
+        "sha256": "3ee02779c005cdaef0656579b6e5f20768eb28895e5792e60fc747b4ea3811ee",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

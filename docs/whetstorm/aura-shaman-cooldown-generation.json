@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "shaman_ancestral_bulwark_icd",
+      "runtimeIds": [
+        "shaman_ancestral_bulwark_icd"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_ancestral_bulwark_icd.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original ancestral bulwark cooldown status: an ancient bronze shield with a glowing turquoise spiral at its center and a small dark hourglass below, conveying protective ability recovering. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "dcc9165c410a2aac1b9f93f4984b0fb70c29a3924afeb43dc93b2d6e569bfd28",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_ancestral_bulwark_icd.webp",
+        "sha256": "98ebcf01ade480ba7a34e6c4ba46936af3542ad4da470f96279e49072611fcf5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/shaman_ancestral_bulwark_icd.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "shaman_gathering_winds_icd",
+      "runtimeIds": [
+        "shaman_gathering_winds_icd"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_gathering_winds_icd.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original gathering winds cooldown status: a pale feather inside a curling mint-green gust and a small dark hourglass below, conveying speed ability recovering. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "db4f4e09c54a383a60ff02c9911613d2d07cc382f630ba681c851b2c576b2871",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_gathering_winds_icd.webp",
+        "sha256": "ac8fb1f1bbbc5f9f6647c2cca749020b25e15690331196e9e8ff47e76c19895b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/shaman_gathering_winds_icd.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "shaman_wayfarer_grace_icd",
+      "runtimeIds": [
+        "shaman_wayfarer_grace_icd"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_wayfarer_grace_icd.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original wayfarer grace cooldown status: a silver wolf silhouette in a pale green wind with a small dark hourglass below, conveying ability recovering. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "b520f92ed6125f96c80c204356164328250144723b743b9ea2c824c3c0ce8acb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_wayfarer_grace_icd.webp",
+        "sha256": "caf209363a9e2e8d208ca548f54c2dd4eaa6ee1a5287c247f4dd6184e46381cb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/shaman_wayfarer_grace_icd.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

@@ -23,6 +23,7 @@ import { whetstormRaidAuraImageUrl } from './whetstorm_raid_aura_art';
 import { whetstormRecoveryAuraImageUrl } from './whetstorm_recovery_aura_art';
 import { whetstormShadowProcAuraImageUrl } from './whetstorm_shadow_proc_aura_art';
 import { whetstormShamanAuraImageUrl } from './whetstorm_shaman_aura_art';
+import { whetstormShamanCooldownAuraImageUrl } from './whetstorm_shaman_cooldown_aura_art';
 import { whetstormStoneboundAuraImageUrl } from './whetstorm_stonebound_aura_art';
 import { whetstormWarfareAuraImageUrl } from './whetstorm_warfare_aura_art';
 
@@ -97,6 +98,7 @@ export function whetstormAuraImageUrl(id: string): string | null {
     whetstormWarfareAuraImageUrl(id) ??
     whetstormLineageAuraImageUrl(id) ??
     whetstormShamanAuraImageUrl(id) ??
+    whetstormShamanCooldownAuraImageUrl(id) ??
     whetstormShadowProcAuraImageUrl(id) ??
     whetstormStoneboundAuraImageUrl(id) ??
     whetstormHunterAuraImageUrl(id) ??
