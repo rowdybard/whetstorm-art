@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "itemId": "wardplate_cuirass",
+      "file": "docs/design/whetstorm-art/items/wardplate_cuirass.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square fantasy MMORPG inventory icon for Wardplate Cuirass, uncommon mail chest armor. Show one complete practical steel mail hauberk with modest riveted steel breast reinforcement, short sleeves and open neck, no wearer, no other objects. Center it on a dark slate-blue painted background; readable at 32 pixels, warm upper-left light, hand-painted fantasy style with broad clean forms. No text, border, logo, watermark, or imitation of existing games or artists.",
+      "sha256": "8171416a2dab3f5f08b0c18e91b5a41701f068d35b0fa7e66cbc7f628332a818",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wardplate_cuirass.webp",
+        "sha256": "c0e246cc3eba3043dc20a9be472335ec981b9d57a31b0b3fd7c1a6c91de1faed",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    },
+    {
+      "itemId": "nightweave_tunic",
+      "file": "docs/design/whetstorm-art/items/nightweave_tunic.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square fantasy MMORPG inventory icon for Nightweave Tunic, uncommon leather chest armor. Show one complete practical dark indigo leather tunic with stitched seams and a simple narrow belt, short sleeves and open neck, no wearer, no other objects. Center it on a dark slate-blue painted background; readable at 32 pixels, warm upper-left light, hand-painted fantasy style with broad clean forms. No text, border, logo, watermark, or imitation of existing games or artists.",
+      "sha256": "127df569c6cb248edb8367c7d883fcbdd521bd48c5d86a139769a0df9cdf6d91",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/nightweave_tunic.webp",
+        "sha256": "8eaec6df88f261490674524a4024623af7d28aeb201c8e9a8c5faf279dc27ef6",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    },
+    {
+      "itemId": "veilcloth_robe",
+      "file": "docs/design/whetstorm-art/items/veilcloth_robe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square fantasy MMORPG inventory icon for Veilcloth Robe, uncommon cloth chest armor. Show one complete modest light silver-blue cloth robe with long sleeves, soft layered fabric and a simple sash, no wearer, no other objects. Center it on a dark slate-blue painted background; readable at 32 pixels, warm upper-left light, hand-painted fantasy style with broad clean forms. No text, border, logo, watermark, or imitation of existing games or artists.",
+      "sha256": "827dcb5baeaa486b4668a34e56b4aa84f202e06413238aaf83ac7b8ca8b8e391",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/veilcloth_robe.webp",
+        "sha256": "f5055599bea480f97e2693572475b747bd3e48d1f94a16ce62a214229529c990",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    }
+  ]
+}

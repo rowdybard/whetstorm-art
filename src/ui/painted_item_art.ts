@@ -121,6 +121,7 @@ import { toolBatchFiveItemImageUrl } from './tool_batch_five_item_art';
 import { toolBatchFourItemImageUrl } from './tool_batch_four_item_art';
 import { toolBatchItemImageUrl } from './tool_batch_item_art';
 import { toolBatchThreeItemImageUrl } from './tool_batch_three_item_art';
+import { vendorChestItemImageUrl } from './vendor_chest_item_art';
 import { weaponBatchEightItemImageUrl } from './weapon_batch_eight_item_art';
 import { weaponBatchElevenItemImageUrl } from './weapon_batch_eleven_item_art';
 import { weaponBatchFifteenItemImageUrl } from './weapon_batch_fifteen_item_art';
@@ -140,6 +141,7 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    vendorChestItemImageUrl(id) ??
     barksongItemImageUrl(id) ??
     fenbloomItemImageUrl(id) ??
     clothBroodItemImageUrl(id) ??

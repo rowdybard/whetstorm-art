@@ -1,5 +1,11 @@
 # Item painting checkpoint
 
+Vendor chest follow-up: three original paintings bring this effort to 533
+individual item paintings. Of 1,626 catalog IDs, 550 have individual paintings
+and 1,076 do not; the remainder includes retired entries and variants. Prompts
+and hashes are in `vendor-chest-generation.json`. Size review and focused
+routing tests passed; browser, full gate and shipping-tree clearance remain open.
+
 Barksong follow-up: one original leather glove painting brings this effort to
 530 individual item paintings. Of 1,626 catalog IDs, 547 have individual
 paintings and 1,079 do not; the remainder includes retired entries and

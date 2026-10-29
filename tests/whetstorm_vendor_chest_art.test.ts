@@ -1,0 +1,42 @@
+import { createHash } from 'node:crypto';
+import { readFileSync } from 'node:fs';
+import sharp from 'sharp';
+import { describe, expect, it } from 'vitest';
+import { ITEMS } from '../src/sim/data';
+import { iconDataUrl, itemImageUrl } from '../src/ui/icons';
+
+const expected: [string, string][] = [
+  ['wardplate_cuirass', 'mail'],
+  ['nightweave_tunic', 'leather'],
+  ['veilcloth_robe', 'cloth'],
+];
+const hash = (path: string) => createHash('sha256').update(readFileSync(path)).digest('hex');
+describe('vendor chest armor paintings', () => {
+  it('routes the three live chest items to their individual paintings', () => {
+    for (const [id, armorType] of expected) {
+      expect(ITEMS[id]).toMatchObject({ kind: 'armor', armorType, slot: 'chest' });
+      expect(itemImageUrl(id)).toBe(`/ui/whetstorm/items/${id}.webp`);
+      expect(iconDataUrl('item', id)).toBe(`/ui/whetstorm/items/${id}.webp`);
+    }
+  });
+  it('records distinct source and delivery images with correct hashes', async () => {
+    const { assets } = JSON.parse(
+      readFileSync('docs/whetstorm/vendor-chest-generation.json', 'utf8'),
+    );
+    expect(assets.map((asset: { itemId: string }) => asset.itemId)).toEqual(
+      expected.map(([id]) => id),
+    );
+    expect(new Set(assets.map((asset: { sha256: string }) => asset.sha256)).size).toBe(3);
+    for (const asset of assets) {
+      expect(asset.reference_images).toEqual([]);
+      expect(asset.prompt.length).toBeGreaterThan(50);
+      expect(hash(asset.file)).toBe(asset.sha256);
+      expect(hash(asset.delivery.path)).toBe(asset.delivery.sha256);
+      expect(await sharp(asset.delivery.path).metadata()).toMatchObject({
+        width: 128,
+        height: 128,
+        format: 'webp',
+      });
+    }
+  });
+});

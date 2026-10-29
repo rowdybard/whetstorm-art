@@ -845,3 +845,6 @@ The original Fenbloom Breeches item painting is recorded in
 
 The original Barksong Handguards item painting is recorded in
 `docs/whetstorm/barksong-handguards-generation.json`.
+
+Three original vendor chest armor paintings are recorded in
+`docs/whetstorm/vendor-chest-generation.json`.
