@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "stalkerhide_jerkin",
+      "file": "docs/design/whetstorm-art/items/stalkerhide_jerkin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for stalkerhide_jerkin, Prowlhide Jerkin. Square painted edge to edge, one complete sleeveless russet leather jerkin with layered hide panels and simple dark lacing, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "5412255d649a34358aaab6b89f6e1726527d3b4f7810b3d611fd6a617b4ff4ed",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stalkerhide_jerkin.webp",
+        "sha256": "6aea1983a6115ac0bd5b761bd3c4d5dd60af1c5270b0d9c7723d0619ea3862d6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "cragwalker_boots",
+      "file": "docs/design/whetstorm-art/items/cragwalker_boots.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for cragwalker_boots, Cragwalker Boots. Square painted edge to edge, a complete pair of sturdy weathered ochre leather hiking boots with thick soles, folded cuffs and dark straps, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "6b38675072cc84975101101180c1afcb396862ccf87545003209c56f789ffdd0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cragwalker_boots.webp",
+        "sha256": "996a291a1fabce570255b9c9531e1c4d6a87cddec3b32fad21a43e8eacf947c3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "windguard_leggings",
+      "file": "docs/design/whetstorm-art/items/windguard_leggings.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for windguard_leggings, Windguard Leggings. Square painted edge to edge, one complete pair of deep brown leather leggings with tapered legs, broad pale tan reinforced outer panels and a simple waist belt, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "641e1ae39facc9fc2065aabf12e0dc40bbefdb4ef2cc7d786a2dcf39e8d1bf9d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/windguard_leggings.webp",
+        "sha256": "417b39cad9199a07e1ded0673d6db8c8424d804103bcd215c07182f7caf94119",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wildgrove_cinch",
+      "file": "docs/design/whetstorm-art/items/wildgrove_cinch.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for wildgrove_cinch, Wildgrove Cinch. Square painted edge to edge, one complete wide forest-green and brown leather waist belt in a closed oval with a simple bronze buckle and leaf-shaped tooling, centered against a dark slate-blue painted background. Bold clear silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "483cbae852565d921daaf0c2e3227d70eb89d75465ab50d9c3144bb66c1ac12a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wildgrove_cinch.webp",
+        "sha256": "d681ddf65e2046dbd04c01a1a5311249235de107f6dc75409aaccd7f28353ffe",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

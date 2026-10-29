@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected source outputs and persisted contact sheet at 32, 48, 64, and 128 pixels; distinct silhouettes readable. The guide, game routing, physical removal, and browser review remain incomplete.",
+  "records": [
+    {
+      "id": "exp_first_ore",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal with a bronze pickaxe striking a dark stone and a small bright mineral seam, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_first_ore.png",
+      "masterSha256": "920f3d8b831d5b625a426eb331ced1181dfd6dd5a2f536cb282da9728d1d17e7",
+      "shipping": "public/ui/whetstorm/deeds/exp_first_ore.webp",
+      "shippingSha256": "00fa810e96ce55002ed8d1adada2df2a77dfbfdbecc9c02e1b82a6e2d9918ca7",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_first_timber",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal with a steel woodsman's axe beside a freshly cut timber log with visible growth rings, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_first_timber.png",
+      "masterSha256": "41d97a76b83dda7e55ad151dab90469e63d2d4ff62dc6a10b571b639a2dc55ff",
+      "shipping": "public/ui/whetstorm/deeds/exp_first_timber.webp",
+      "shippingSha256": "1d0abe088129bc9ef1ab9ef750982ae90c894b0083a241b04cf0e9c737ad7e85",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_first_herb",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal with a vivid green herb sprig with three broad leaves and tiny pale flowers, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_first_herb.png",
+      "masterSha256": "d966dafa9be3908ca6880e59ded0e632d861ffc634ee69de074a0b34f5178ce4",
+      "shipping": "public/ui/whetstorm/deeds/exp_first_herb.webp",
+      "shippingSha256": "a9a543cbef9f338db29056614f64f9af17ef8e21fb8910abc6fcd68b7cbe7187",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_vale_first_cast",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal with a silver freshwater fish leaping above a blue ripple and a curved fishing hook, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_vale_first_cast.png",
+      "masterSha256": "5e6d4b5c1729cf93ea11cff8e352bf7f6ae76b10d1036cc7d68b3aea675a87ba",
+      "shipping": "public/ui/whetstorm/deeds/chr_vale_first_cast.webp",
+      "shippingSha256": "08d0b00d5160936666e31b54c0a98301a281d0489ca8c67029fc44a18e297960",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

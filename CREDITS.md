@@ -780,3 +780,11 @@ recorded in `docs/whetstorm/mail-delve-original-generation.json`,
 `docs/whetstorm/jewelry-batch-warfare-generation.json`,
 `docs/whetstorm/material-harvest-next-generation.json`, and
 `docs/whetstorm/quest-batch-relics-generation.json`.
+
+Twenty original item paintings and four prepared Deeds paintings are recorded
+in `docs/whetstorm/mail-osmium-generation.json`,
+`docs/whetstorm/leather-peak-next-generation.json`,
+`docs/whetstorm/food-later-fish-harvest-generation.json`,
+`docs/whetstorm/material-component-batch-generation.json`,
+`docs/whetstorm/quest-batch-treasure-maps-generation.json`, and
+`docs/whetstorm/deed-batch-early-generation.json`.

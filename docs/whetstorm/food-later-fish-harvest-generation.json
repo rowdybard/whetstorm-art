@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "note": "Later cooking items; early cooking foods already mapped.",
+  "assets": [
+    {
+      "itemId": "peppered_deepbarb_catfish",
+      "file": "docs/design/whetstorm-art/items/peppered_deepbarb_catfish.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: a whole cooked peppered deepbarb catfish, browned skin and visible pepper, on a simple dark plate. Original stylized fantasy hand-painted look, bold silhouette, vibrant warm colors, soft upper-left light, dark painted background. Whole subject centered, legible at 32 pixels. No border, lettering, logos, watermark, or imitation of any existing game or artist.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "23e22e0c8a6e5d583159c1155177e3217564505b8ff4ea72119cf2b376cc3c49",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/peppered_deepbarb_catfish.webp",
+        "sha256": "2b386eb6aafdd168dbd4c398c721cd6d0f0b59c6e0b5f9d8089ed4136ba37d65",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "roast_hollowgill_sturgeon",
+      "file": "docs/design/whetstorm-art/items/roast_hollowgill_sturgeon.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: a whole roast hollowgill sturgeon, its long armored fish silhouette clearly distinct, golden roasted skin on a simple dark platter. Original stylized fantasy hand-painted look, bold silhouette, vibrant warm colors, soft upper-left light, dark painted background. Whole subject centered, legible at 32 pixels. No border, lettering, logos, watermark, or imitation of any existing game or artist.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "e15a913f39f18593471efaa3b9be59849ad72fb46d30a06f092391be9b1212ab",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/roast_hollowgill_sturgeon.webp",
+        "sha256": "457487e3f0f2cd0e38046973d424457975a2d6124ce86e65fa934a75694c6b30",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "evergarden_sunmelon_tart",
+      "file": "docs/design/whetstorm-art/items/evergarden_sunmelon_tart.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: a whole golden sunmelon tart with vivid orange melon slices arranged on its round baked crust. Original stylized fantasy hand-painted look, bold silhouette, vibrant warm colors, soft upper-left light, dark painted background. Whole subject centered, legible at 32 pixels. No border, lettering, logos, watermark, or imitation of any existing game or artist.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "0884999b5570815bb3cff536e4f341ee2bdd0fafe2344f1f7b6ce04aca4c3e78",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/evergarden_sunmelon_tart.webp",
+        "sha256": "7ff92f26d5075dedc9ce1e8fe1694b45e597d599c45df7ae5eccaad2052cba90",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "evergarden_harvest_platter",
+      "file": "docs/design/whetstorm-art/items/evergarden_harvest_platter.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: an abundant Evergarden harvest platter, a rustic oval wooden platter bearing distinct colorful roasted vegetables and golden grains. Original stylized fantasy hand-painted look, bold silhouette, vibrant colors, soft upper-left light, dark painted background. Whole subject centered, legible at 32 pixels. No border, lettering, logos, watermark, or imitation of any existing game or artist.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "9803bebf5fd94aae5b490244453dbc322af3caf121fdd9c76d5f02c29b55622c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/evergarden_harvest_platter.webp",
+        "sha256": "ece46a8e29ac3fe6ea29e59a7de07dc21ed017acd8c20fd7bc577abf421803e6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

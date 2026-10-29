@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "cogwheel_blank",
+      "file": "docs/design/whetstorm-art/items/cogwheel_blank.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: opaque square fantasy game inventory icon. Paint a single Cogwheel Blank: an unfinished thick copper alloy cogwheel with broad evenly spaced teeth, a plain central hole, and fresh tool marks, an unmistakable unassembled crafting component. Original hand-painted fantasy, tactile metal, warm upper-left light, bold centered complete silhouette on a dark painted vignette, readable at small sizes. No text, letters, frame, logo, or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "d95c18e92c325a788cfde9b06bd3f412aff3c32fcb3a7f725e612dbdda334c12",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cogwheel_blank.webp",
+        "sha256": "b5f13fe404fb3e4218c8abd8473c3d62a57cbc43724ff2b07d3389c85d130ab5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sharp_claw",
+      "file": "docs/design/whetstorm-art/items/sharp_claw.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: opaque square fantasy game inventory icon. Paint one Sharp Claw: a large curved detached animal talon, ivory keratin with a dark weathered root and a keen pointed tip, no blood or animal. Original hand-painted fantasy, tactile organic material, warm upper-left light, bold centered complete silhouette on a dark painted vignette, readable at small sizes. No text, letters, frame, logo, or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "7e673dbc5a8d1279efb5990bfe7f4e388d76d11e5e648efcb11e5b4782ed18c6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sharp_claw.webp",
+        "sha256": "6bc8dc61631d6b099828d45e03a35b80ca6433aeae9a7b0c860905274492f862",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "pristine_venom_gland",
+      "file": "docs/design/whetstorm-art/items/pristine_venom_gland.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: opaque square fantasy game inventory icon. Paint one Pristine Venom Gland: a clean intact pale green translucent biological venom sac with a short sealed duct, subtle green fluid visible within, no container or creature. Original hand-painted fantasy, tactile organic material, warm upper-left light, bold centered complete silhouette on a dark painted vignette, readable at small sizes. No text, letters, frame, logo, or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "528bb2966817178d63a622f064a53482761c9181ccd0a261bacde18c0f8dd605",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pristine_venom_gland.webp",
+        "sha256": "524d7653feefbde39805244314c4a725880aa54d181316f825a951622c22c98d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "resonant_thread",
+      "file": "docs/design/whetstorm-art/items/resonant_thread.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: opaque square fantasy game inventory icon. Paint Resonant Thread: a compact tidy hank of fine silver-blue thread looped and tied at the middle, with a restrained luminous shimmer along its fibers, unmistakable crafting fiber rather than rope or jewelry. Original hand-painted fantasy, tactile fibers, warm upper-left light, bold centered complete silhouette on a dark painted vignette, readable at small sizes. No text, letters, frame, logo, or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "84bac05d9a8b676456f57b4a783dd21f0fc095c337e485a01945c9ed1affdc38",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/resonant_thread.webp",
+        "sha256": "0e6066784d81b63897d2012a0b15b473538f96603bcf1b2b48ff2c8c3dff5b1c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

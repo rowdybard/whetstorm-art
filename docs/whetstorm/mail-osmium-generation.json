@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "outrider_sabatons",
+      "master": "docs/design/whetstorm-art/items/outrider_sabatons.png",
+      "runtime": "public/ui/whetstorm/items/outrider_sabatons.webp",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square original Whetstorm inventory painting: Outrider Sabatons, a pair of rugged steel armored riding boots, one slightly forward, articulated toe plates, practical leather straps, worn iron and subdued brass accents. Whole pair centered, bold readable silhouette, upper-left soft light, dark slate-blue painted background edge to edge. Hand-painted fantasy, restrained detail, no frame, letters, text, logo, watermark, wearer, or imitation of existing games.",
+      "processing": "Resize to 128 x 128 with Lanczos3, encode WebP quality 90 using sharp",
+      "master_sha256": "3a5cebc41bc570f94a0991afaa8b910070d50e8e70070f05043f1f829fe2babf",
+      "runtime_sha256": "b27ac25921acaa744a77d0f780a78a51c9a332c85587accd22c929e16ec06f3b"
+    },
+    {
+      "id": "thoriumscale_greathelm",
+      "master": "docs/design/whetstorm-art/items/thoriumscale_greathelm.png",
+      "runtime": "public/ui/whetstorm/items/thoriumscale_greathelm.webp",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square original Whetstorm inventory painting: Osmiumscale Greathelm, one heavy enclosed forged steel helmet with layered overlapping blue-gray metal scales, broad brow and narrow dark eye slit, understated bronze rim. Whole helmet centered, bold readable silhouette, upper-left soft light, dark slate-blue painted background edge to edge. Hand-painted fantasy, restrained detail, no frame, letters, text, logo, watermark, wearer, or imitation of existing games.",
+      "processing": "Resize to 128 x 128 with Lanczos3, encode WebP quality 90 using sharp",
+      "master_sha256": "f66308659760849dc8b4557aca3d9d021581082bf3344d5d6f0f2f4180a80a7e",
+      "runtime_sha256": "b00ff21c58ae6d0a6803bc24d85fb6e3d837a6c2ccae18e8cc085ba517934795"
+    },
+    {
+      "id": "thoriumscale_cuirass",
+      "master": "docs/design/whetstorm-art/items/thoriumscale_cuirass.png",
+      "runtime": "public/ui/whetstorm/items/thoriumscale_cuirass.webp",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square original Whetstorm inventory painting: Osmiumscale Cuirass, one sturdy chest armor with overlapping blue-gray forged metal scales over dark chainmail, warm bronze edging and leather fastenings. Entire breastplate centered, bold readable silhouette, upper-left soft light, dark slate-blue painted background edge to edge. Hand-painted fantasy, restrained detail, no frame, letters, text, logo, watermark, wearer, or imitation of existing games.",
+      "processing": "Resize to 128 x 128 with Lanczos3, encode WebP quality 90 using sharp",
+      "master_sha256": "63635bd25c9763dce340610b64023d5c7c3d1cdac5926dae3f2e31235d330e86",
+      "runtime_sha256": "d952398371297905dfb32315d98fd443ad02608c7ac6f657ad4d26b57d398906"
+    },
+    {
+      "id": "thoriumscale_leggings",
+      "master": "docs/design/whetstorm-art/items/thoriumscale_leggings.png",
+      "runtime": "public/ui/whetstorm/items/thoriumscale_leggings.webp",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square original Whetstorm inventory painting: Osmiumscale Leggings, a matched pair of articulated leg armor with overlapping blue-gray forged metal scales, dark chainmail joints and restrained bronze edging. Entire pair centered, bold readable silhouette, upper-left soft light, dark slate-blue painted background edge to edge. Hand-painted fantasy, restrained detail, no frame, letters, text, logo, watermark, wearer, or imitation of existing games.",
+      "processing": "Resize to 128 x 128 with Lanczos3, encode WebP quality 90 using sharp",
+      "master_sha256": "0d3b5a2dfa4b715d2b4bd90176baa2c1ffab7856b19659eaec977ed12b5803c7",
+      "runtime_sha256": "b854ea1b4e192846c62bd51f267566f8b18d7272f603020ee7ebaba9c4e6dfad"
+    }
+  ]
+}

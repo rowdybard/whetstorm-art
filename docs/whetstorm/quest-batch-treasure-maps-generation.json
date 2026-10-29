@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/treasure_map_common.png",
+      "subject": "Weathered Treasure Map",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm inventory painting for treasure_map_common, Weathered Treasure Map. A single complete roughly folded, worn parchment map with a simple red X, frayed corners and a plain twine tie. No readable writing. Centered against a dark slate-blue painted background, square edge to edge. Hand-painted fantasy, bold clean silhouette, warm upper-left light, restrained detail, readable at 32 pixels. No border, frame, letters, logo, watermark, extra objects or copied game designs.",
+      "sha256": "ef5d1e1ade92ff191c6d6356572ed6ef532a7d506f991b168276191b0ec25e39",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "treasure_map_common",
+      "status": "original art pending aggregator integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/treasure_map_common.webp",
+        "sha256": "987d427f32c049ecd984e0a50dbe84ef3fafec96d68dcc88cfcc191baa1b921f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/treasure_map_rare.png",
+      "subject": "Inked Treasure Map",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm inventory painting for treasure_map_rare, Inked Treasure Map. A single complete partially unrolled cream parchment chart with a bold blue winding coastline and a red X, dark indigo inked edges and a simple wax seal. No readable writing. Centered against a dark slate-blue painted background, square edge to edge. Hand-painted fantasy, bold clean silhouette, warm upper-left light, restrained detail, readable at 32 pixels. No border, frame, letters, logo, watermark, extra objects or copied game designs.",
+      "sha256": "1fbc4eeab7647b22f3b2123f48cde111fcc8148784cd94c97729564115baf654",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "treasure_map_rare",
+      "status": "original art pending aggregator integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/treasure_map_rare.webp",
+        "sha256": "ffa6d307fed617d7c678c1dbc5542af52f043720b7f05d2d8bc832ae292ea4b6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/treasure_map_epic.png",
+      "subject": "Gilded Treasure Map",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm inventory painting for treasure_map_epic, Gilded Treasure Map. A single complete unfolded parchment treasure chart, with golden corner fittings and a bold red X over simple island shapes; a deep violet ribbon secures one corner. No readable writing. Centered against a dark slate-blue painted background, square edge to edge. Hand-painted fantasy, bold clean silhouette, warm upper-left light, restrained detail, readable at 32 pixels. No border, frame, letters, logo, watermark, extra objects or copied game designs.",
+      "sha256": "b9888346de7f01e783c4b31f80797af08d08bc2dc344b10cc815737e326ad0b0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "treasure_map_epic",
+      "status": "original art pending aggregator integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/treasure_map_epic.webp",
+        "sha256": "b2ebfcbe1b6b1f93cfa090afb03985b40175f879c09a2337f50a3b800c0d38a6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/treasure_map_legendary.png",
+      "subject": "Sovereign Treasure Map",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm inventory painting for treasure_map_legendary, Sovereign Treasure Map. A single complete royal treasure chart on a broad cream parchment roll, with rich gold end caps, a deep crimson ribbon and a large red X among simple islands. No readable writing. Centered against a dark slate-blue painted background, square edge to edge. Hand-painted fantasy, bold clean silhouette, warm upper-left light, restrained detail, readable at 32 pixels. No border, frame, letters, logo, watermark, extra objects or copied game designs.",
+      "sha256": "3d92e429dbd8e4dd99d541af17117b57a930e17f09a8f7c0d2378d0fab275e9e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "treasure_map_legendary",
+      "status": "original art pending aggregator integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/treasure_map_legendary.webp",
+        "sha256": "166f98d74752aed8048caab70122433e95e36a926c744b7c393e462ff6b8f15a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    }
+  ]
+}

@@ -64,6 +64,21 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Thirty-fourth checkpoint: four mail pieces, four leather pieces, four foods,
+four crafting materials and four treasure maps add 20 unique paintings. This
+effort has created 440 paintings for 440 item IDs without deliberate reuse. Of
+1,626 catalog IDs, 457 have direct individual paintings and 1,169 do not.
+Records are `mail-osmium-generation.json`, `leather-peak-next-generation.json`,
+`food-later-fish-harvest-generation.json`, `material-component-batch-generation.json`
+and `quest-batch-treasure-maps-generation.json`. Four additional original early
+Deeds paintings are prepared and hash-checked in `deed-batch-early-generation.json`;
+they are not wired into the game or guide. Their opaque backgrounds require
+reliquary-state handling and validation in the complete checkout. The attempted
+reliquary integration test could not load missing `thornhollow_field.generated` in
+this partial checkout, so the runtime change was not retained. Inventory-size
+reviews and focused image and item-routing tests passed. Browser, full gate and
+shipping-tree clearance remain open.
+
 Thirty-third checkpoint: four mail pieces, four cloth pieces, four foods,
 four Warfare jewelry pieces, four harvest materials and four quest objects add
 24 unique paintings. This effort has created 420 paintings for 420 IDs without
