@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "itemId": "rift_surveyors_satchel",
+      "file": "docs/design/whetstorm-art/items/rift_surveyors_satchel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Rift Surveyor's Satchel: a worn dark blue leather satchel with straps, a rolled map tied to its side, and a small luminous violet crystal clasp. Medieval fantasy craftsmanship, no modern hardware, no text. Original hand-painted fantasy, tactile leather, warm upper-left light, centered complete bag silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "aa909e7cc8304138c44751ea978e1cacec6e5fdff4d9aa45f87f1c3b1a5c9712",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/rift_surveyors_satchel.webp",
+        "sha256": "270f4966a17b96a20241ed7301f142dd2d2fc93329fed97b926d8a1955394d3d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "clockwork_tinkers_pack",
+      "file": "docs/design/whetstorm-art/items/clockwork_tinkers_pack.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Clockwork Tinker's Pack: a compact brown leather backpack with brass buckles, a small visible brass gear and neatly attached tool pouches. Medieval fantasy craftsmanship, no modern hardware, no text. Original hand-painted fantasy, tactile leather, warm upper-left light, centered complete bag silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "e2d3c233e2102919a8ab6ee999120c46871d8f85057f92679000cf0634cf7496",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/clockwork_tinkers_pack.webp",
+        "sha256": "f602edc1cc1fa367bffafa3931201d9ed9031721634540eb1cb8e417516c9bcb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "allied_vanguard_duffel",
+      "file": "docs/design/whetstorm-art/items/allied_vanguard_duffel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Allied Vanguard Duffel: a stout forest-green canvas travel duffel with folded tied cloth opening, crossed brown leather straps and brass buckles. Medieval fantasy craftsmanship, no zippers, no modern hardware, no text. Original hand-painted fantasy, tactile fabric, warm upper-left light, centered complete bag silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "ee844d607bd49985604a109300fe9289a50f4a8097bbd2759dd75ed875f425d7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/allied_vanguard_duffel.webp",
+        "sha256": "c852ab7aff3f424a39a319ba83b8f1cd2c5e05d1fab73031dc9cc40b694c3179",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

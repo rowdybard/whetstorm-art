@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "stonepot_feast",
+      "file": "docs/design/whetstorm-art/items/stonepot_feast.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a communal stonepot feast represented by a broad rustic stone pot full of hearty dark stew, root vegetables and savory meat, with a wooden ladle. Dark warm brown painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "9e9fdbf28cee71b086c8c4f0c3a3bae6467ca21de8ae83555682e2cb97189055",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stonepot_feast.webp",
+        "sha256": "6a30c71cf0664449aa76b37e4c839ad96199db5c3c4880ee1c10398d82cfcd1e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "warspice_feast",
+      "file": "docs/design/whetstorm-art/items/warspice_feast.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a communal warspice feast represented by a generous platter of browned meat skewers with red peppers and aromatic spices. Dark burgundy painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "b45f71821e3e0030e7d9a9b0936d8603bb667170fad6c7542ec5eb2a0224c319",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/warspice_feast.webp",
+        "sha256": "d2e456f149f59e63181be37d3ed13b2793a892d3de0d32fde921f49e5d01884c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sageleaf_feast",
+      "file": "docs/design/whetstorm-art/items/sageleaf_feast.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a communal sageleaf feast represented by a broad ceramic pot of creamy chowder with green sage leaves and visible herbs, with a wooden ladle. Dark muted green painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "cf50248569102074080c29081da611eb1031a66f53216a1a4a82c1624603e876",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sageleaf_feast.webp",
+        "sha256": "b532fc9650e34ffdc153cfc8f6dd9d496ab71ccf0a0cc3c5985efae2dec3bd17",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "harvest_feast",
+      "file": "docs/design/whetstorm-art/items/harvest_feast.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a communal harvest feast represented by a generous rustic platter of braised leafy greens, golden root vegetables and autumn produce. Dark harvest brown painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "2a2ecf43e030b17c242f0bb90f6aa689cdc2e6b6e6a35832b908807adc54e300",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/harvest_feast.webp",
+        "sha256": "7b3d5771cc62d65b2ded73d22bcf17d9852afc0a9cbcfc6109278fefedadb350",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

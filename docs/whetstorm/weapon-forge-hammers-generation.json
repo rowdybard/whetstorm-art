@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "varkhul_forgebreaker",
+      "file": "docs/design/whetstorm-art/items/varkhul_forgebreaker.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Forgebreaker, Engine of Varkhul, complete epic two-handed industrial warhammer with a huge blocky dark iron head, visible copper piston fittings and restrained inner blue electric glow, long heavy leather-wrapped metal haft. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "d5a512f95b0cd65b966f9761573b3acd28056d0f372db1cde273f53f901437db",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/varkhul_forgebreaker.webp",
+        "sha256": "bc56d9e29f958f8df4cd60ab93b11f3ec3064528b6512bcd2df5b59ce24d5e82",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-8bf4a865-0371-45ce-aa2b-326b4f7f3548.png"
+    },
+    {
+      "itemId": "forgefathers_warhammer",
+      "file": "docs/design/whetstorm-art/items/forgefathers_warhammer.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Forgefather's Warhammer, complete epic two-handed traditional forge hammer with a broad angular steel head, hammered brass bands and orange ember glow in narrow cracks, long sturdy wood and leather grip. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "dc0552fb5f5d5a763ff23438b41340661444bba747a24eaee3d3cb9748888ff9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgefathers_warhammer.webp",
+        "sha256": "438a33f42d77e67e1b8b6aa5783c392be32b9a33e9f08cbf3efd9b8d82bea3ac",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-956041e9-1c6a-4c92-879d-c8574f94dcbf.png"
+    }
+  ]
+}
