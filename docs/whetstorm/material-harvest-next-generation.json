@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "pristine_silk",
+      "file": "docs/design/whetstorm-art/items/pristine_silk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square Whetstorm inventory item painting, painted edge to edge. Subject: a small pristine bundle of lustrous ivory spider silk strands, neatly looped and loosely tied, with a few visible wispy fibers. Hand-painted fantasy, bold clean silhouette, warm upper-left light, deep dark slate-blue painted background. Whole object centered with margin, readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, spider, or copied game designs.",
+      "status": "original material painting; reviewed at 128, 64, 48, and 32 pixels",
+      "sha256": "dc0731bbcff812a6682406fd99864f2f10cfc369f6657a0884589a4e63b45278",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pristine_silk.webp",
+        "sha256": "c76932f66786c693829dda9553c5d82b1d79f9c194f8bec74f1246ad7be99ebf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-76233656-e479-46fc-bd81-c69a1022f7a4.png"
+    },
+    {
+      "itemId": "venom_gland",
+      "file": "docs/design/whetstorm-art/items/venom_gland.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square Whetstorm inventory item painting, painted edge to edge. Subject: one harvested venom gland, a small intact olive-green organic sac with a short tied duct and subtle translucent golden venom, unmistakably organic, not a bottle or fruit. Hand-painted fantasy, bold clean silhouette, warm upper-left light, deep dark slate-blue painted background. Whole object centered with margin, readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, creature, or copied game designs.",
+      "status": "original material painting; reviewed at 128, 64, 48, and 32 pixels",
+      "sha256": "030110cd2bd99cd0995d99b7f78ebc7673f001e8ccf33f407ee83bf503447821",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/venom_gland.webp",
+        "sha256": "ba8688e68a9bf3cbdb95853e3d8d65b4da00d21a9aac1528464ae497d339dc3f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-83f4a8a6-4268-41dc-9f1a-47fc1d536123.png"
+    },
+    {
+      "itemId": "curved_tusk",
+      "file": "docs/design/whetstorm-art/items/curved_tusk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square Whetstorm inventory item painting, painted edge to edge. Subject: one complete curved tusk from a boar, thick ivory base tapering to a sharp upward-curved point, natural cream bone with gentle wear. Hand-painted fantasy, bold clean silhouette, warm upper-left light, deep dark slate-blue painted background. Whole object centered diagonally with margin, readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, creature, or copied game designs.",
+      "status": "original material painting; reviewed at 128, 64, 48, and 32 pixels",
+      "sha256": "f00d21494f17c6736b8c7694e0264f061e0f2882e9043f73ed3c462847f87e90",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/curved_tusk.webp",
+        "sha256": "bfcd6822862ec5947a074f7adfc5c38bb4b917d3cecc6a267f09d21cb5f38f5f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-ace76554-38bf-4957-b848-1f6f6ea3a790.png"
+    },
+    {
+      "itemId": "pristine_claw",
+      "file": "docs/design/whetstorm-art/items/pristine_claw.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square Whetstorm inventory item painting, painted edge to edge. Subject: one pristine beast claw, a short hooked pointed dark charcoal keratin talon with a pale clean root, intact and polished, clearly distinct from a long ivory tusk. Hand-painted fantasy, bold clean silhouette, warm upper-left light, deep dark slate-blue painted background. Whole object centered diagonally with margin, readable at 32 pixels. No border, frame, text, letters, logos, watermark, hands, creature, or copied game designs.",
+      "status": "original material painting; reviewed at 128, 64, 48, and 32 pixels",
+      "sha256": "a0d9ce26d6a41ed358b4214a9ce14d0af4ecb7ef7e59329e7ae4335be23f6c3d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pristine_claw.webp",
+        "sha256": "44433bf823a4058843a6ccc9262430c26e68ae5ef92fdf90ad2e4c5f8cf79978",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-1df9b1f0-12ad-4c13-80e4-f269c31827cb.png"
+    }
+  ]
+}

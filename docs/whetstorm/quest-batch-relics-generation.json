@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/crypt_keystone.png",
+      "itemId": "crypt_keystone",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory painting for crypt_keystone. One complete squat carved stone keystone, wedge-shaped with a simple recessed circular keyhole, worn granite and subtle bronze edging, centered on a dark slate-blue painted background. Square, edge to edge, no border. Bold clear silhouette, hand-painted broad forms, warm upper-left light, restrained detail readable at 32 pixels. No characters, text, letters, logos, watermarks, copied designs or extra objects.",
+      "sha256": "cc94905d09ed9d9294a9c181071d82b53b43ac27e24647c112f3f073c48776fb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/crypt_keystone.webp",
+        "sha256": "73b654336bbc96ef25360453e890b7841041fc7497904b652faf9db8170a860b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/moongate_rubbing.png",
+      "itemId": "moongate_rubbing",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory painting for moongate_rubbing. One complete folded sheet of aged parchment bearing a dark charcoal rubbing of a simple abstract warding spiral, with curling uneven edges, centered against a dark slate-blue painted background. Square, edge to edge, no border. Bold readable silhouette, hand-painted broad forms, warm upper-left light, restrained detail readable at 32 pixels. No lettering, characters, logos, watermark, copied designs or extra objects.",
+      "sha256": "10b38146f7aba94e425b04a713c3c0ef217fac2322cfdebdc831a49c42aff1ef",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moongate_rubbing.webp",
+        "sha256": "3b207f8bda18f013a3add05b4f9ebb19cec46ced6265e609ddf484f95b4ce1c2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/drowned_offering.png",
+      "itemId": "drowned_offering",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory painting for drowned_offering. One complete small weathered ceremonial clay offering bowl holding a single pale shell, damp blue-green patina and sand worn edges, centered against a dark slate-blue painted background. Square, edge to edge, no border. Bold readable silhouette, hand-painted broad forms, warm upper-left light, restrained detail readable at 32 pixels. No lettering, characters, logos, watermark or copied designs.",
+      "sha256": "d037ce17d9846c415bb3bf6fa86d58574c25dcf458d79fb33081808d07532603",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drowned_offering.webp",
+        "sha256": "231291d70e8a88db75ba77ad24927381ca3661a6f56bb2da1b25a84d1754dd93",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/hedgewick_shears.png",
+      "itemId": "hedgewick_shears",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory painting for hedgewick_shears. One complete pair of old gardening shears, short broad steel blades, sturdy brass pivot and two dark green wrapped handles, angled diagonally and centered against a dark slate-blue painted background. Square, edge to edge, no border. Bold readable silhouette, hand-painted broad forms, warm upper-left light, restrained detail readable at 32 pixels. No plants, lettering, characters, logos, watermark or copied designs.",
+      "sha256": "4ab99f8b70e5087a1aaacb80f88a5a5e912b9b357474381437ccfd48778e5367",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hedgewick_shears.webp",
+        "sha256": "69984b89805b345476c6deb030872ca12f9863636ac3a305c11d5b1c562398c2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

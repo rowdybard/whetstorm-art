@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "final_oath_medallion",
+      "file": "docs/design/whetstorm-art/items/final_oath_medallion.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. One Medallion of the Final Oath: heavy round weathered bronze medallion on a SHORT CLOSED dark leather cord, fully visible with generous background margin on every side, cord does not touch any edge. Simple abstract interlocked double-chevron relief. Centered against dark slate-blue painted background. Original stylized fantasy, hand-painted, bold shapes, warm upper-left light, restrained detail, legible at 32 pixels. No border, frame, text, letters, logos, watermark, hands, or imitation of existing game art.",
+      "status": "original painting; visually reviewed at 32, 48 and 64 pixels",
+      "sha256": "417650866ecc91872ff0c4291b0affd510e7812b27c96f21bdbcca7582171f98",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/final_oath_medallion.webp",
+        "sha256": "23c67516ea1f5005fdecf9e6a12d6a39bc54ab7bd1e9482d312ad1fa36a178db",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "razorwind_torque",
+      "file": "docs/design/whetstorm-art/items/razorwind_torque.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint one Razorwind Torque: a rigid open neck ring forged from silver-gray metal, its two ends shaped as swept tapering wind-blade tips, with a dark blue wrapped section at the bottom. Entire torque centered and large against a dark slate-blue painted background. Original stylized fantasy, hand-painted, strong silhouette, warm upper-left light, restrained details, legible at 32 pixels. No border, frame, text, letters, logos, watermark, hands, or imitation of existing game art.",
+      "status": "original painting; visually reviewed at 32, 48 and 64 pixels",
+      "sha256": "7aba74e87b131902eb612e53a7a3979b1847cc3892782bc3ede277279527d66f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/razorwind_torque.webp",
+        "sha256": "4c1a75c642058bc23961cfbb7512549990ad992ba4435125771f75046aad7331",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "cinder_sigil_pendant",
+      "file": "docs/design/whetstorm-art/items/cinder_sigil_pendant.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. One Cinder-Sigil Pendant: charcoal iron pendant with ember-orange inset stone in a diamond-shaped setting, hanging on a SHORT CLOSED iron chain, the ENTIRE chain visible with generous background margin on all sides, chain does not touch edges. Centered against dark slate-blue painted background. Original stylized fantasy, hand-painted, bold shapes, warm upper-left light, restrained detail, legible at 32 pixels. No border, frame, text, letters, logos, watermark, hands, or imitation of existing game art.",
+      "status": "original painting; visually reviewed at 32, 48 and 64 pixels",
+      "sha256": "5516ed1a2ddc9e6eb998aa5995c21075062ba4cc045fc67d9947cc315fcb05cc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cinder_sigil_pendant.webp",
+        "sha256": "8023f5c002c781308a040a664e5c46f5beb80e6abef08e376ece1b55e9154abc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "iron_vow_band",
+      "file": "docs/design/whetstorm-art/items/iron_vow_band.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint one Iron Vow Band: a single broad forged dark iron finger ring, viewed at a three-quarter angle so its circular opening is clearly visible, with a raised pale steel clasp crossing the front of the band. Whole ring centered and large against a dark slate-blue painted background. Original stylized fantasy, hand-painted, strong silhouette, warm upper-left light, restrained details, legible at 32 pixels. No border, frame, text, letters, logos, watermark, hands, or imitation of existing game art.",
+      "status": "original painting; visually reviewed at 32, 48 and 64 pixels",
+      "sha256": "41a7556c48e6f4a110e1516f2850389536962296b5e4c5ee3f24a282780e1202",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/iron_vow_band.webp",
+        "sha256": "8ed69e4e22f8a1c96e375c1309b17aeae56f3bbc30cb7fbeb3494155b9c3a7c5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

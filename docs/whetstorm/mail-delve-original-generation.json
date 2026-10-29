@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "litany_shoulder",
+      "master": "docs/design/whetstorm-art/items/litany_shoulder.png",
+      "master_sha256": "6631b76e9a34eef5ee798d0e7e8433c79b45362b05f6e5e915d56a3189726406",
+      "runtime": "public/ui/whetstorm/items/litany_shoulder.webp",
+      "runtime_sha256": "fe67c67d667a08ca30f25e25018ab2c7d6f113489ab7948bd5fcfa6f94ec9581",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for litany_shoulder, Blackwater Drift Mantle: a matched pair of empty shoulder pauldrons of weathered dark steel with restrained overlapping plates and muted teal leather lining, practical marsh-worn armor. Center whole pair on dark slate-blue painted background. Square edge-to-edge hand-painted stylized fantasy, bold silhouette, warm upper-left light, readable at 32 pixels. No person, stand, text, border, logo, watermark, magic or copied designs.",
+      "processing": "Sharp Lanczos3 resize to 128 square, WebP quality 84 effort 6"
+    },
+    {
+      "id": "litany_plate_chest",
+      "master": "docs/design/whetstorm-art/items/litany_plate_chest.png",
+      "master_sha256": "822b88098c2b80003378c9540bd9d92a1662f7cacccab93f2aa5a24c77d769bd",
+      "runtime": "public/ui/whetstorm/items/litany_plate_chest.webp",
+      "runtime_sha256": "960300938c3bd677f0cc81a38effa8b881dfcddc4801b4752977efd3f10be6c0",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for litany_plate_chest, Sump-Warden Cuirass: one empty heavy steel breastplate with a broad rounded chest, riveted shoulder straps, muted green patina and a brown waist strap, practical and distinct. Center complete armor on dark slate-blue painted background. Square edge-to-edge hand-painted stylized fantasy, bold silhouette, warm upper-left light, readable at 32 pixels. No person, stand, text, border, logo, watermark, magic or copied designs.",
+      "processing": "Sharp Lanczos3 resize to 128 square, WebP quality 84 effort 6"
+    },
+    {
+      "id": "deacon_reliquary_helm",
+      "master": "docs/design/whetstorm-art/items/deacon_reliquary_helm.png",
+      "master_sha256": "667c72c348263e14682f6670362bad341f1c06cd4c7f8d6cdf55ea22fb4baaad",
+      "runtime": "public/ui/whetstorm/items/deacon_reliquary_helm.webp",
+      "runtime_sha256": "ac48a62192583efa86c446d14c9275db3b8b129b0b870896361b5a5e5d6b6ee0",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for deacon_reliquary_helm, Deacon's Reliquary Helm: one empty ceremonial enclosed steel helm with a broad nasal guard, simple bronze edging and a modest ridge, with a dark open face slit. Center whole helm on dark slate-blue painted background. Square edge-to-edge hand-painted stylized fantasy, bold silhouette, warm upper-left light, readable at 32 pixels. No person, stand, text, border, logo, watermark, magic or copied designs.",
+      "processing": "Sharp Lanczos3 resize to 128 square, WebP quality 84 effort 6"
+    },
+    {
+      "id": "morthens_cryptforged_hauberk",
+      "master": "docs/design/whetstorm-art/items/morthens_cryptforged_hauberk.png",
+      "master_sha256": "d718ae323926c80ee06f1c2243ccbeb89acfd00fc5ead123318d1b18f12d90d7",
+      "runtime": "public/ui/whetstorm/items/morthens_cryptforged_hauberk.webp",
+      "runtime_sha256": "3b22ee808edb8d933deef0c0a667b22f877fad95e3fc7f7a7c1725d0dac54fa2",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for morthens_cryptforged_hauberk, Morthen's Cryptforged Hauberk: one empty short-sleeved dark forged chainmail shirt, clearly interlocking steel rings with broad bone-white shoulder plates and a simple leather belt. Center entire garment on dark slate-blue painted background. Square edge-to-edge hand-painted stylized fantasy, bold silhouette, warm upper-left light, readable at 32 pixels. No person, stand, text, border, logo, watermark, magic or copied designs.",
+      "processing": "Sharp Lanczos3 resize to 128 square, WebP quality 84 effort 6"
+    }
+  ]
+}

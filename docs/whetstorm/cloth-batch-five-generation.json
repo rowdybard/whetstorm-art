@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "peakwool_robe",
+      "file": "docs/design/whetstorm-art/items/peakwool_robe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: Peakwool Robe, a whole empty woolen robe with broad sleeves and simple thick cream fleece fabric, muted rust red hem and collar stitching, centered. Original stylized fantasy hand-painted look, bold clean silhouette, soft upper-left lighting, dark painted background. Readable at 32 pixels. No frame, text, letters, logos, watermark, person, or copied designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "378e517d550b9ec0d7676e18a83f1c85f44591c0969ff0da73263aae7236df58",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/peakwool_robe.webp",
+        "sha256": "dcb208b27c818af197415dc7bfa3d7006cff2b20f48c684de5074b1f79144647",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-047aeb71-91bd-4e65-8aac-e9956323df26.png"
+    },
+    {
+      "itemId": "shardsong_mantle",
+      "file": "docs/design/whetstorm-art/items/shardsong_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: Shardsong Mantle, a whole cloth shoulder mantle, dark indigo folded fabric with a few pale blue crystal shard accents along its collar, centered. Original stylized fantasy hand-painted look, bold clean silhouette, soft upper-left lighting, dark painted background. Readable at 32 pixels. No frame, text, letters, logos, watermark, person, or copied designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "21c56e21f2bd82b84070f16f9ab18af3cbfea20cdfc66fa21c62ace80523a4c8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/shardsong_mantle.webp",
+        "sha256": "91540c853fd40107d24618634e65a24384ed709874c0386003bf73e399ed2f34",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-25e9574e-14e1-4c14-a35d-44980cb033f4.png"
+    },
+    {
+      "itemId": "wyrmcult_spellgrips",
+      "file": "docs/design/whetstorm-art/items/wyrmcult_spellgrips.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: Broodsworn Spellgrips, a whole pair of cloth handwrap gloves, deep burgundy fabric with contrasting pale gold stitched bands and small scaled embroidery, centered. Original stylized fantasy hand-painted look, bold clean silhouette, soft upper-left lighting, dark painted background. Readable at 32 pixels. No frame, text, letters, logos, watermark, person, metal armor, or copied designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "ce3c71dbd9fe3edbb19b60880e3c7bcb4080df4e14b7b4466e4baac9cf5100b1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmcult_spellgrips.webp",
+        "sha256": "79e614421353c5d34d642cac3ed30b3678f8831566d16565579152baf8f211fa",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-8f43bf40-291b-4154-b3ea-38b264208dad.png"
+    },
+    {
+      "itemId": "drownstep_slippers",
+      "file": "docs/design/whetstorm-art/items/drownstep_slippers.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: Drownstep Slippers, a whole pair of soft cloth slippers, faded sea-green fabric with crossed pale linen ties and slightly worn rounded toes, centered. Original stylized fantasy hand-painted look, bold clean silhouette, soft upper-left lighting, dark painted background. Readable at 32 pixels. No frame, text, letters, logos, watermark, person, or copied designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "05688164834c4fef2b946efec141a44b6f120412bd4e86b668404a50091d282b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drownstep_slippers.webp",
+        "sha256": "d6442e5432091c64ce58979fbb79f495fad73999fe0b664f439e06eb54092026",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-2aa51ecf-2604-49b4-8493-890931ef837c.png"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "note": "Highwatch vendor and later cooking 100 heroic-vendor pattern recipes; earlier food already painted.",
+  "assets": [
+    {
+      "itemId": "roast_mountain_goat",
+      "file": "docs/design/whetstorm-art/items/roast_mountain_goat.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square original Whetstorm inventory item painting, whole subject centered against a dark painted background. Roast Mountain Goat: a single rustic roasted goat haunch, golden brown with a short exposed bone, distinctly meat, simple readable silhouette. Hand-painted stylized fantasy, rich warm color, upper-left light, bold clean shapes, restrained detail, readable at 32px. No border, text, letters, logo, watermark. Original design; do not imitate any existing game or artist.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "c04b8c8aafa8cb15e6aef1a25e0ef920fe9c76ec79b7a7b346d9c261a1254515",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/roast_mountain_goat.webp",
+        "sha256": "7cd55c93fbac1e93fe106aec8be622823ecdf9eb8050aa1e82376ee417acc6b6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "stonepot_stew",
+      "file": "docs/design/whetstorm-art/items/stonepot_stew.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square original Whetstorm inventory item painting, whole subject centered against a dark painted background. Stonepot Stew: one chunky grey stone cooking pot holding hearty brown stew with visible root vegetable chunks, no extra vessels. Hand-painted stylized fantasy, rich warm color, upper-left light, bold clean shapes, restrained detail, readable at 32px. No border, text, letters, logo, watermark. Original design; do not imitate any existing game or artist.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "73d75dbab6df354cbfff97be0feff77a0c124c42c442575030290c602a4cff65",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stonepot_stew.webp",
+        "sha256": "be46518c7b719a9b86114f7ca63a04fbf4c4aec9f9235df2a41932bdf038433c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "warspice_skewers",
+      "file": "docs/design/whetstorm-art/items/warspice_skewers.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square original Whetstorm inventory item painting, whole subject centered against a dark painted background. Warspice Skewers: two wooden skewers of roasted meat and red pepper, crossed in a bold shape, with warm spice accents, no plate. Hand-painted stylized fantasy, rich warm color, upper-left light, bold clean shapes, restrained detail, readable at 32px. No border, text, letters, logo, watermark. Original design; do not imitate any existing game or artist.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "3ad30b2869b4b0c70029d194d92812c2c1ce97e53ac3d0a077aa8d0b35e1e810",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/warspice_skewers.webp",
+        "sha256": "e54a6f3b30c0fbcc3a5456b7c6ba7c4a13b5664197c5336ba00dfcb78b0b5647",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sageleaf_chowder",
+      "file": "docs/design/whetstorm-art/items/sageleaf_chowder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square original Whetstorm inventory item painting, whole subject centered against a dark painted background. Sageleaf Chowder: one earthenware bowl of creamy chowder with a prominent green sage leaf floating atop. Hand-painted stylized fantasy, rich warm color, upper-left light, bold clean shapes, restrained detail, readable at 32px. No border, text, letters, logo, watermark. Original design; do not imitate any existing game or artist.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "bc01279054dfd57a8a99538a3b079608617a336f7a56a2e7f2f1b34312df692a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sageleaf_chowder.webp",
+        "sha256": "69813d8d5b8ea23da2caadc0f7418d98ffed369573e86cc6493eb5d1766c2210",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

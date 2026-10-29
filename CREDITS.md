@@ -772,3 +772,11 @@ recorded in `docs/whetstorm/mail-next-generation.json`,
 `docs/whetstorm/jewelry-forge-generation.json`,
 `docs/whetstorm/material-highpine-next-generation.json`, and
 `docs/whetstorm/quest-batch-realm-drops-generation.json`.
+
+Twenty-four mail, cloth, food, jewelry, harvest and quest paintings are
+recorded in `docs/whetstorm/mail-delve-original-generation.json`,
+`docs/whetstorm/cloth-batch-five-generation.json`,
+`docs/whetstorm/food-highwatch-apex-generation.json`,
+`docs/whetstorm/jewelry-batch-warfare-generation.json`,
+`docs/whetstorm/material-harvest-next-generation.json`, and
+`docs/whetstorm/quest-batch-relics-generation.json`.
