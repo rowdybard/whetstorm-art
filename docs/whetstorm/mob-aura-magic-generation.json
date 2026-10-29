@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "mob_frenzy_on_hit",
+      "runtimeIds": [
+        "blood_frenzy"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_frenzy_on_hit.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO buff icon: a snarling wolf head with red glowing eyes and three bold red speed streaks, conveying a wounded beast's increased attack speed. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "d0a51014dc59ff760614e2022b59ecd6b68c8f88568711c3e960b94ea5dba03a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_frenzy_on_hit.webp",
+        "sha256": "fcaef2a6a61795dc8df038c1eafb01791344b8cbfc85974ce4ecc8f53b672226",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_silence",
+      "runtimeIds": [
+        "silence_gravecaller_summoner"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_silence.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon: a spectral screaming mouth sealed by a single heavy black iron bar across it, conveying magical silence. Dark slate background, violet shadow and warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "e240ecec059b4a7398dde50d28f2a970c6ebaaeb0aea8ca47cca8753727bd345",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_silence.webp",
+        "sha256": "f69263f3dfc233b5e73285ad878af70ebebdadb1af263cec96868f4f518c6cb9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_siphon_spirit",
+      "runtimeIds": [
+        "siphon_spirit_sister_nhalia"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_siphon_spirit.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon: a pale blue flame of spirit being pulled out of a small crystal by a curling dark violet spectral tendril, conveying drained spirit. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "8fe74122836e97c53c11c02e45127e563d2765adb44fd03cfdc17437ee21116c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_siphon_spirit.webp",
+        "sha256": "46d97a234e02574774181fe5a1467d834c501c2c6adb40d9e3e1baa447274446",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_spell_vuln",
+      "runtimeIds": [
+        "spellvuln_rift_boss_arcane",
+        "spellvuln_stormcrag_elemental"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_spell_vuln.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon: a cracked violet magical barrier struck by a brilliant blue lightning bolt, conveying increased incoming magic damage. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "1277d956ca6e41e8634971c2ea6114e5dc15a002a93b8e9d32234c7ee8037918",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_spell_vuln.webp",
+        "sha256": "dd7521772535e7db7fffaf01bcb8bbaf00c18d60cd8c3bae907e5c2a00b72d3a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

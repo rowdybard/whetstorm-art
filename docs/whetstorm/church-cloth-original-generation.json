@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vestments_of_the_acolyte",
+      "file": "docs/design/whetstorm-art/items/vestments_of_the_acolyte.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Vestments of the Acolyte, one complete ivory cloth robe with a broad simple gold-trimmed collar, long sleeves and muted crimson woven sash, empty garment with no wearer. Show the complete robe with clear space around it.",
+      "status": "original cloth painting; reviewed",
+      "sha256": "19b4af8c7c911c14ba474f41be246ee84e921bf09d357f69453433502ae3cb3d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vestments_of_the_acolyte.webp",
+        "sha256": "fa211f51caafd8b07059dcaf7356ac62a496c3f347a104657079f880963f523e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "cord_of_the_dawn",
+      "file": "docs/design/whetstorm-art/items/cord_of_the_dawn.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Cord of the Dawn, one complete ivory woven cloth waist sash coiled in a clear loop with gold-thread edging and two knotted ends, no leather or metal. Show the complete sash with clear space around it.",
+      "status": "original cloth painting; reviewed",
+      "sha256": "aa8f00ca44f534f2645811a1e42b4e29bd2217b311893fd5881b9d5e37d2fcfd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cord_of_the_dawn.webp",
+        "sha256": "2605f8f18cf299c608c4596852d1742dffffe1a9dfca4fbc3a04ea436afa0def",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "dawnlit_slippers",
+      "file": "docs/design/whetstorm-art/items/dawnlit_slippers.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Dawnlit Slippers, one complete pair of soft ivory cloth slippers with gold stitched edging and small crimson fabric tabs, no leather or metal. Show both complete slippers with clear space around them.",
+      "status": "original cloth painting; reviewed",
+      "sha256": "3986ffda8e55d752cdea9835bcd7475a8bf4b5d3ede10d563bfaa480b8856354",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/dawnlit_slippers.webp",
+        "sha256": "864b1cc8410743dd127838d0a28acb6eb6430c4658427cf01147b2421bc7e05b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

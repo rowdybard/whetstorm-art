@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "veilsteel_blade",
+      "file": "docs/design/whetstorm-art/items/veilsteel_blade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Veilsteel Blade (veilsteel_blade), a level 15 quest reward. One complete practical one-handed steel sword with a broad softly blue-gray blade, simple silver crossguard and dark leather grip, subtle restrained violet-blue reflected light. Strong diagonal lower left to upper right with safe padding. Deep charcoal and violet painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile materials, crisp silhouette, readable at 22px. No people, hands, sheath, text, symbols, border, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "74f28fb86764bd97fb4d9fbc5c9b9c8a86a8a894b5a5a7e2bf88dff854e9e71a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/veilsteel_blade.webp",
+        "sha256": "79651071046c1450c42370b3c3455697cf63820a9b82662f621e3ade1c95fcb1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "duskfang_dirk",
+      "file": "docs/design/whetstorm-art/items/duskfang_dirk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Duskfang Dirk (duskfang_dirk), a level 15 quest reward. One complete compact fang-shaped dark steel dagger with a gently curved pointed blade, modest bronze guard, and dark wrapped leather grip. Strong diagonal lower left to upper right with safe padding. Deep charcoal and violet painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile materials, crisp silhouette, readable at 22px. No people, hands, sheath, text, symbols, border, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "b5553e97c6f8382b5dacb726715f809c56e544937667a294a2bbc4cd2677a97c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/duskfang_dirk.webp",
+        "sha256": "403ea9306f5051fc64116ebc33535f76e478e35abaa6809c13327a17a9d39b04",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gleamwood_stave",
+      "file": "docs/design/whetstorm-art/items/gleamwood_stave.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Gleamwood Stave (gleamwood_stave), a level 15 quest reward. One complete long polished warm brown wood staff with a broad luminous pale-green oval stone seated in forked wooden prongs and simple dark leather grip. Strong diagonal lower left to upper right with safe padding. Deep charcoal and violet painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile materials, crisp silhouette, readable at 22px. No people, hands, extra objects, text, symbols, border, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "af5428412b9bea37ab66cef92b0336ffce23fc6de093dad93076e5adf2629f43",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gleamwood_stave.webp",
+        "sha256": "c729de56f02c499300c338a1dd739538c802f0599c6a22d68105c9befefbb4ee",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

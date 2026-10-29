@@ -4,6 +4,7 @@ import { whetstormMobAuraCursesImageUrl } from './whetstorm_mob_aura_curses_art'
 import { whetstormMobAuraDebuffsImageUrl } from './whetstorm_mob_aura_debuffs_art';
 import { whetstormMobAuraDrainsImageUrl } from './whetstorm_mob_aura_drains_art';
 import { whetstormMobAuraImpairmentsImageUrl } from './whetstorm_mob_aura_impairments_art';
+import { whetstormMobAuraMagicImageUrl } from './whetstorm_mob_aura_magic_art';
 import { whetstormMobAuraStatusImageUrl } from './whetstorm_mob_aura_status_art';
 
 // Original Whetstorm aura paintings, keyed by exact runtime identity.
@@ -42,6 +43,10 @@ const WHETSTORM_AURA_ART: ReadonlyMap<string, string> = new Map([
     'mob_stagger_hit',
     'mob_tongues',
     'mob_wither',
+    'mob_frenzy_on_hit',
+    'mob_silence',
+    'mob_siphon_spirit',
+    'mob_spell_vuln',
   ].map((id): [string, string] => [id, `/ui/whetstorm/auras/${id}.webp`]),
   ['mortal_wound_bastion_revenant', '/ui/whetstorm/auras/mob_mortal_strike.webp'],
   ['mortal_wound_deathstalker_voss', '/ui/whetstorm/auras/mob_mortal_strike.webp'],
@@ -62,6 +67,7 @@ export function whetstormAuraImageUrl(id: string): string | null {
     whetstormMobAuraControlImageUrl(id) ??
     whetstormMobAuraCursesImageUrl(id) ??
     whetstormMobAuraDrainsImageUrl(id) ??
-    whetstormMobAuraImpairmentsImageUrl(id)
+    whetstormMobAuraImpairmentsImageUrl(id) ??
+    whetstormMobAuraMagicImageUrl(id)
   );
 }

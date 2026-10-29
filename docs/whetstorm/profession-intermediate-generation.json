@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "forgefold_plating",
+      "file": "docs/design/whetstorm-art/items/forgefold_plating.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Forgefold Plating: a compact stack of two thick forged steel armor plates, overlapping, with hammered edges and dark leather joining straps, no armor suit.",
+      "status": "original material painting; reviewed",
+      "sha256": "52f7cf1905d6dfff933af63a5c6efd63762d6256e089a83241f3309df6209257",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgefold_plating.webp",
+        "sha256": "1ba50b20cf5c64d0860b15a830fd3fb53bfed5960162d2eed67ccefb785c9d83",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wyrmhide_cording",
+      "file": "docs/design/whetstorm-art/items/wyrmhide_cording.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Wyrmhide Cording: one neatly coiled length of thick braided dark reddish-brown leather cord with a few visible scale textures, no creature or spool.",
+      "status": "original material painting; reviewed",
+      "sha256": "90627f80b44eaf2ec82831b4439c9c5535f5c29241939c0b65c6fa5fd57172d7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmhide_cording.webp",
+        "sha256": "50384d9425886a7ade72aa2e2d3b8ea604b51e2a41f4198ed29bd466a415b5ed",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sunspun_bolt",
+      "file": "docs/design/whetstorm-art/items/sunspun_bolt.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Sunspun Bolt: a compact roll of golden woven cloth with a short folded end showing fine threads, no writing or spool.",
+      "status": "original material painting; reviewed",
+      "sha256": "e48b6dcb68cfa699ff283aa408e85764a901fda03e9b2de8ffc67e31eeeb4e87",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunspun_bolt.webp",
+        "sha256": "74b2091d7363af78bbb40ab4ac7af1af3f94e1eb4e81191c8cf275ed6e00a5ef",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "duskforged_billet",
+      "file": "docs/design/whetstorm-art/items/duskforged_billet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Duskforged Billet: a single heavy dark blue-gray forged metal billet with squared ends, hammer marks, and a subtle warm edge highlight, not ore or a weapon.",
+      "status": "original material painting; reviewed",
+      "sha256": "322e4af6778b7144c84f4d2c3fa91b1c6d112a085ee15f46d88235f7d867933f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/duskforged_billet.webp",
+        "sha256": "6db11ca8a5ceef11aba36fbcd0be7912bb0ae9e8ca7965eae5ab866542fd048d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

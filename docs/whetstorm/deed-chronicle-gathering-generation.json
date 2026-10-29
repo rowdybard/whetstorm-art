@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected source outputs and contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "chr_vale_gatherer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a cluster of ore, a cut log and a green herb sprig arranged together as a simple harvest bundle, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_vale_gatherer.png",
+      "masterSha256": "228237aef069b729f53a38f5a4bcf8e0adc9d9cd3689c1e678970448cf036b73",
+      "shipping": "public/ui/whetstorm/deeds/chr_vale_gatherer.webp",
+      "shippingSha256": "d70f0823b76d39f5e863cf559356874bed9b400b35b8af47a2c771824375e72d",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_vale_first_harvest",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a ripe orange carrot with lush green leaves rising from rich garden soil, with a subtle sunny green valley beyond, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_vale_first_harvest.png",
+      "masterSha256": "7b1a4fdffd21090e584a56324dffa7e18d16f9bc30bc0ed3a150668ef282dd45",
+      "shipping": "public/ui/whetstorm/deeds/chr_vale_first_harvest.webp",
+      "shippingSha256": "e825777cfb2f02c0558e60d51a81df12f593e4df70e77c5f09bcf745dccb4f27",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_marsh_first_harvest",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a plump purple turnip with green leaves rising from dark peat, with a subtle misty marsh beyond, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_marsh_first_harvest.png",
+      "masterSha256": "ea1f07fc018fa936ee334bcf2ece7a146cf52cda5dc66dceedc0dbea29b7b723",
+      "shipping": "public/ui/whetstorm/deeds/chr_marsh_first_harvest.webp",
+      "shippingSha256": "209ae2b380507592904772c241c24ba0283c34743ca67df6a7c15b9c9e1ba8c5",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_peaks_first_harvest",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a golden wheat sheaf growing from rocky garden soil, with a subtle snow-capped mountain beyond, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_peaks_first_harvest.png",
+      "masterSha256": "7100247aa609b8dc8358eb4ae1f893aa131576b5de23abb29d721449c9af4f29",
+      "shipping": "public/ui/whetstorm/deeds/chr_peaks_first_harvest.webp",
+      "shippingSha256": "39bffa62f4f46cd171544dc91b327f340421e360d010c69d0bbaf367baaa3485",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

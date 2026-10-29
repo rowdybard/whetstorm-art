@@ -872,3 +872,11 @@ six deed crests and four mob aura paintings are recorded in
 `docs/whetstorm/deed-exploration-generation.json`,
 `docs/whetstorm/deed-combat-generation.json`, and
 `docs/whetstorm/mob-aura-impairments-generation.json`.
+
+Ten original cloth, crafting component and quest weapon paintings, four deed
+crests and four mob aura paintings are recorded in
+`docs/whetstorm/church-cloth-original-generation.json`,
+`docs/whetstorm/profession-intermediate-generation.json`,
+`docs/whetstorm/realm-quest-weapons-generation.json`,
+`docs/whetstorm/deed-chronicle-gathering-generation.json`, and
+`docs/whetstorm/mob-aura-magic-generation.json`.

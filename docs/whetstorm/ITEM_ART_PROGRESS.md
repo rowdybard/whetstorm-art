@@ -1,5 +1,15 @@
 # Item painting checkpoint
 
+Team follow-up: ten item paintings cover three Church Order cloth pieces, four
+crafting components and three realm quest weapons. This effort has created 562
+individual item paintings; 579 of 1,626 catalog IDs have individual paintings
+and 1,047 do not, including retired entries and variants. Four chronicle deed
+crests and four mob aura paintings were also added. Prompts and hashes are in
+the `church-cloth-original`, `profession-intermediate`, `realm-quest-weapons`,
+`deed-chronicle-gathering` and `mob-aura-magic` generation records. Size reviews
+and focused routing checks passed. Browser, full gate, locked deed states and
+physical inherited-file removal remain open.
+
 Team checkpoint: ten item paintings cover four faction armor pieces, three
 Thornpeak crafting materials and three Palecoil quest weapons. This effort has
 created 552 individual item paintings; 569 of 1,626 catalog IDs have individual

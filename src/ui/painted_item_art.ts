@@ -21,6 +21,7 @@ import { armorBatchTwentytwoItemImageUrl } from './armor_batch_twentytwo_item_ar
 import { armorBatchTwoItemImageUrl } from './armor_batch_two_item_art';
 import { bagsFishItemImageUrl } from './bags_fish_item_art';
 import { barksongItemImageUrl } from './barksong_item_art';
+import { churchClothOriginalItemImageUrl } from './church_cloth_original_item_art';
 import { clothBatchFiveItemImageUrl } from './cloth_batch_five_item_art';
 import { clothBatchFourItemImageUrl } from './cloth_batch_four_item_art';
 import { clothBatchOneItemImageUrl } from './cloth_batch_one_item_art';
@@ -103,6 +104,7 @@ import { materialProvisioningItemImageUrl } from './material_provisioning_item_a
 import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
 import { potionAlchemyNextItemImageUrl } from './potion_alchemy_next_item_art';
 import { potionLaterItemImageUrl } from './potion_later_item_art';
+import { professionIntermediateItemImageUrl } from './profession_intermediate_item_art';
 import { questBatchCluesCryptItemImageUrl } from './quest_batch_clues_crypt_item_art';
 import { questBatchHighwatchItemImageUrl } from './quest_batch_highwatch_item_art';
 import { questBatchSixteenItemImageUrl } from './quest_batch_sixteen_item_art';
@@ -114,6 +116,7 @@ import { questSignetBrandItemImageUrl } from './quest_signet_brand_item_art';
 import { questThornpeakItemImageUrl } from './quest_thornpeak_item_art';
 import { questTreasureMapItemImageUrl } from './quest_treasure_map_item_art';
 import { realmQuestDropItemImageUrl } from './realm_quest_drop_art';
+import { realmQuestWeaponsItemImageUrl } from './realm_quest_weapons_item_art';
 import { regionalClothRewardsItemImageUrl } from './regional_cloth_rewards_item_art';
 import { resonantMaterialItemImageUrl } from './resonant_material_item_art';
 import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
@@ -145,6 +148,9 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    churchClothOriginalItemImageUrl(id) ??
+    professionIntermediateItemImageUrl(id) ??
+    realmQuestWeaponsItemImageUrl(id) ??
     factionArmorOriginalItemImageUrl(id) ??
     thornpeakTrophyMaterialItemImageUrl(id) ??
     templeQuestWeaponsItemImageUrl(id) ??
