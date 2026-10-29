@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "exp_arcane_calligraphy",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a quill painting a luminous blue arc across a parchment scroll, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_arcane_calligraphy.png",
+      "masterSha256": "46374f7e3ffa0ed65cc3a46396008768ccb908c9a7ff9e30a5646bda95020b91",
+      "shipping": "public/ui/whetstorm/deeds/exp_arcane_calligraphy.webp",
+      "shippingSha256": "43b0bbe33b4205ab0ea893af84dd18b36e743cdf3844184c2676d3231d96ccb0",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_forge_helper",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a smith's hammer beside a newly forged round shield glowing warm orange at its edge, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_forge_helper.png",
+      "masterSha256": "99b8098ea4147e66e13b45a5367e39e2e67e4e31b13b05c075050371d42bc6c5",
+      "shipping": "public/ui/whetstorm/deeds/exp_forge_helper.webp",
+      "shippingSha256": "cf454782dcbea83843bf252417efb522d5c8ac492753a868b606077e017a21b7",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_duskweave_dispatches",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a rolled parchment dispatch tucked into a deep violet enchanted cloak, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_duskweave_dispatches.png",
+      "masterSha256": "3c5bb98922308cf8bf8c57c2fdf6543dfad73a1913eb4cbbaa7d11f7269a1f32",
+      "shipping": "public/ui/whetstorm/deeds/exp_duskweave_dispatches.webp",
+      "shippingSha256": "8f48b98d8ac83e6b820adc5ffb98d799826dfaf77aab1eaaf7b2b59a49aca300",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_wisp_maze",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a glowing blue wisp floating above a green garden hedge maze with a small coin purse in its path, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_wisp_maze.png",
+      "masterSha256": "dee19efc722454fe6f39404e5400c595805d2307b19fb6ff206d9620fe775b3f",
+      "shipping": "public/ui/whetstorm/deeds/exp_wisp_maze.webp",
+      "shippingSha256": "8c62c714f81367c3d6ac931001e7adb31fd819ae41a6c011d41dda8081d4c9a1",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

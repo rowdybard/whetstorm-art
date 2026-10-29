@@ -904,3 +904,6 @@ discovery deed crests and four encounter aura paintings are recorded in
 `docs/whetstorm/hoard-jewelry-generation.json`,
 `docs/whetstorm/deed-peaks-discovery-generation.json`, and
 `docs/whetstorm/mob-aura-encounter-generation.json`.
+
+Four original exploration activity deed paintings are recorded in
+`docs/whetstorm/deed-activity-generation.json`.

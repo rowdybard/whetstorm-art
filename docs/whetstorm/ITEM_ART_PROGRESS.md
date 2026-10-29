@@ -1,5 +1,12 @@
 # Item painting checkpoint
 
+Exploration activity follow-up: four original deed crests cover Arcane
+Calligraphy, Forge Helper, Duskweave Dispatches and Wisp Maze through the game
+and guide lookup. Prompts and hashes are in `deed-activity-generation.json`;
+size review and focused routing tests passed. Guide build, browser, locked
+Reliquary state and shipping-tree clearance remain open; inherited deed files
+still need physical disposition.
+
 Team fifth follow-up: ten item paintings cover three heroic leather pieces,
 four farm resources and three epic jewelry pieces. This effort has created 590
 individual item paintings; 607 of 1,626 catalog IDs have individual paintings

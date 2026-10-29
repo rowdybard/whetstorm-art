@@ -1,3 +1,4 @@
+import { activityDeedImageUrl } from './activity_deed_art';
 import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
 import { explorationDeedImageUrl } from './exploration_deed_art';
 import { journeyDeedImageUrl } from './journey_deed_art';
@@ -27,6 +28,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     chronicleGatheringDeedImageUrl(id) ??
     journeyDeedImageUrl(id) ??
     placeDeedImageUrl(id) ??
-    peaksDiscoveryDeedImageUrl(id)
+    peaksDiscoveryDeedImageUrl(id) ??
+    activityDeedImageUrl(id)
   );
 }
