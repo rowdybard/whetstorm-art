@@ -1,5 +1,12 @@
 # Item painting checkpoint
 
+Aura follow-up: four combat-effect paintings cover eight exact runtime IDs.
+The aura strip now resolves painted mob family IDs to Whetstorm art, including
+earlier families. The hunter-authored `pack_frenzy` keeps its ability art.
+Prompts and hashes are in `mob-aura-combat-generation.json`; the 32/48/64-pixel
+review and focused routing and image checks passed. Browser, full gate and
+shipping-tree clearance remain open.
+
 Fortieth checkpoint: four cloth armor paintings bring this effort to 528
 individual item paintings. Of 1,626 catalog IDs, 545 resolve to individual
 paintings and 1,081 do not; the raw remainder includes retired entries and

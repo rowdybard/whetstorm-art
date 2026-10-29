@@ -1,0 +1,86 @@
+{
+  "source": "OpenAI built-in image generation",
+  "processing": "Pillow Lanczos resize to 128x128, WebP quality 90 method 6",
+  "assets": [
+    {
+      "id": "mob_mortal_strike",
+      "runtimeIds": [
+        "mortal_wound_bastion_revenant",
+        "mortal_wound_deathstalker_voss",
+        "mortal_wound_reliquary_gravecall_acolyte",
+        "mortal_wound_voskar_emberwing"
+      ],
+      "prompt": "Use case: stylized-concept. Square game aura icon painting, edge to edge, no border or frame. Mortal wound: a single forged steel blade cutting across a luminous warm healing light, the light visibly dimmed and broken at the wound. Bold readable central silhouette, no gore. Original Whetstorm style: hand-painted fantasy, clean shapes, warm worn steel and sandstone against a dark slate-blue storm field, subtle white-blue lightning accent, painterly upper-left light. No text, letters, logos or watermark; do not imitate existing games or artists.",
+      "reference_images": [],
+      "source": "OpenAI built-in image generation: exec-e5afa532-b9ba-437b-a11c-84823eb0518f.png",
+      "file": "docs/design/whetstorm-art/auras/mob_mortal_strike.png",
+      "sha256": "322dd6e7df74d2dc910c4a714c72d497f1bbcd51a3ac3622535aea8a0abba88d",
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_mortal_strike.webp",
+        "sha256": "09fcf94612534a431ff996a8d218dccb3b6f5dd078f33d37f2dfc0dd93790420",
+        "dimensions": [
+          128,
+          128
+        ]
+      }
+    },
+    {
+      "id": "mob_pack_frenzy",
+      "runtimeIds": [
+        "pack_frenzy"
+      ],
+      "prompt": "Use case: stylized-concept. Square game aura icon painting, edge to edge, no border or frame. Pack frenzy: three distinct wolf-like silhouettes racing together, the leading head and sharp forward motion strokes conveying a surviving pack's increased attack speed. Bold simple shapes readable at thumbnail size, no gore. Original Whetstorm style: hand-painted fantasy, warm leather and steel against a dark slate-blue storm field, subtle white-blue lightning accent, painterly upper-left light. No text, letters, logos or watermark; do not imitate existing games or artists.",
+      "reference_images": [],
+      "source": "OpenAI built-in image generation: exec-75198306-8f2b-40b9-9cf3-6b604ca2f052.png",
+      "file": "docs/design/whetstorm-art/auras/mob_pack_frenzy.png",
+      "sha256": "00601579dff8bedc1a5bfa6f1617a67d038481209d51af8dbca75e83132235d7",
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_pack_frenzy.webp",
+        "sha256": "bdd8437fa7c8b977ec816d9c940f517fe6c2deb070f4679d4824af6679f3cf86",
+        "dimensions": [
+          128,
+          128
+        ]
+      }
+    },
+    {
+      "id": "mob_rally",
+      "runtimeIds": [
+        "rally_ironvein_foreman"
+      ],
+      "prompt": "Use case: stylized-concept. Square game aura icon painting, edge to edge, no border or frame. Rally: a raised forged steel battle standard with a simple blank banner, three upward golden light rays spreading from it to suggest empowering nearby allies. Bold central silhouette readable at thumbnail size. Original Whetstorm style: hand-painted fantasy, worn leather, steel and sandstone against a dark slate-blue storm field, subtle white-blue lightning accent, painterly upper-left light. No text, letters, symbols resembling writing, logos or watermark; do not imitate existing games or artists.",
+      "reference_images": [],
+      "source": "OpenAI built-in image generation: exec-d5303910-eb2b-42b8-a30b-c7a5daf2d4be.png",
+      "file": "docs/design/whetstorm-art/auras/mob_rally.png",
+      "sha256": "7779e1679c953ca7c9f61c11e9a208fd932776f114e870f128e1fd2d60f106c4",
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_rally.webp",
+        "sha256": "8c7094ee5b59bf73d772ff2ed638dc26e600e0d717798f8e055a11b7b21cde6b",
+        "dimensions": [
+          128,
+          128
+        ]
+      }
+    },
+    {
+      "id": "mob_rampage",
+      "runtimeIds": [
+        "rampage_rift_boss_brute",
+        "rampage_warlord_drogmar"
+      ],
+      "prompt": "Use case: stylized-concept. Square game aura icon painting, edge to edge, no border or frame. Rampage: a massive iron mace crashing down with three escalating amber impact arcs and flying stone shards, conveying rising strength from repeated blows. Bold central silhouette readable at thumbnail size. Original Whetstorm style: hand-painted fantasy, forged steel and warm sandstone against a dark slate-blue storm field, subtle white-blue lightning accent, painterly upper-left light. No text, letters, logos or watermark; do not imitate existing games or artists.",
+      "reference_images": [],
+      "source": "OpenAI built-in image generation: exec-8d3403b5-3ff8-401a-87a7-6d1e066c222d.png",
+      "file": "docs/design/whetstorm-art/auras/mob_rampage.png",
+      "sha256": "23134b4f28344087223aa0cf515f8ab95609e076f095e4cf36d50b25d8b88e50",
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_rampage.webp",
+        "sha256": "141ed6f2d6a9cd069a1406b9b4f380cf07b5bd62d2423451a913484aae42a3da",
+        "dimensions": [
+          128,
+          128
+        ]
+      }
+    }
+  ]
+}

@@ -835,3 +835,7 @@ Four original cloth paintings and twelve mob aura paintings are recorded in
 `docs/whetstorm/mob-aura-curses-generation.json`, and
 `docs/whetstorm/mob-aura-drains-generation.json`. Related mob effects share
 paintings only for the exact runtime identities listed in the records.
+
+Four combat aura paintings are recorded in
+`docs/whetstorm/mob-aura-combat-generation.json`. Their exact mob-effect
+identities deliberately share artwork within the recorded families.
