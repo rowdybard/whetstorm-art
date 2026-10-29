@@ -1,5 +1,12 @@
 # Item painting checkpoint
 
+Regional cloth reward follow-up: three original paintings bring this effort
+to 536 individual item paintings. Of 1,626 catalog IDs, 553 have individual
+paintings and 1,073 do not; the remainder includes retired entries and
+variants. Prompts and hashes are in `regional-cloth-rewards-generation.json`.
+Size review and focused routing tests passed; browser, full gate and
+shipping-tree clearance remain open.
+
 Vendor chest follow-up: three original paintings bring this effort to 533
 individual item paintings. Of 1,626 catalog IDs, 550 have individual paintings
 and 1,076 do not; the remainder includes retired entries and variants. Prompts

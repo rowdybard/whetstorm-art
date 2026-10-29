@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "itemId": "cinderwalk_treads",
+      "file": "docs/design/whetstorm-art/items/cinderwalk_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square fantasy MMORPG inventory icon for Cinderwalk Treads, cloth footwear given as a volcanic-region quest reward. Show one complete matching pair of short charcoal cloth boots with ember-orange stitched seams and soft fabric cuffs, no wearer or other objects. Center on dark slate-blue painted background. Hand-painted fantasy, warm upper-left light, clear simple silhouette at 32 pixels. No text, border, logos, watermark, or imitation of existing games or artists.",
+      "sha256": "fe36f7f738440831a1f5ee79db4bc504874907f27297edd9be144ade9dd2a55c",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cinderwalk_treads.webp",
+        "sha256": "84604ab9e5940032af5465b9a4072c3f464d4114b8a1bca235664fa6275d312d",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    },
+    {
+      "itemId": "hearthlined_treads",
+      "file": "docs/design/whetstorm-art/items/hearthlined_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square fantasy MMORPG inventory icon for Hearth-Lined Treads, cloth footwear given as a snowy-region quest reward. Show one complete matching pair of simple soft blue-gray cloth boots with warm cream fleece lining visible around the cuffs, no wearer or other objects. Center on dark slate-blue painted background. Hand-painted fantasy, warm upper-left light, clear simple silhouette at 32 pixels. No text, border, logos, watermark, or imitation of existing games or artists.",
+      "sha256": "6cee07ff77e16d129059edaa87feb4c0764a97e75456351d5200b7b0ac93a52f",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hearthlined_treads.webp",
+        "sha256": "501f9b8f06310db64100e4a10c541560a090ff51b681c8abb29846ec0a2380e0",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    },
+    {
+      "itemId": "moonfleece_mitts",
+      "file": "docs/design/whetstorm-art/items/moonfleece_mitts.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square fantasy MMORPG inventory icon for Moonfleece Mitts, cloth gloves given as a moonlit woodland quest reward. Show one complete matching pair of soft silver-gray knitted fabric mittens with subtle crescent-shaped pale blue embroidery, no wearer or other objects. Center on dark slate-blue painted background. Hand-painted fantasy, warm upper-left light, clear simple silhouette at 32 pixels. No text, border, logos, watermark, or imitation of existing games or artists.",
+      "sha256": "d1a2fe7b98b9c2e34aa35f8c08781793ae5403ceac0bada21da7c248978bf706",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonfleece_mitts.webp",
+        "sha256": "1fd2b75bacb0b8c39fa69d45d25ac96cc92a504d6fe88ac92a8fe0945ae6b56b",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    }
+  ]
+}

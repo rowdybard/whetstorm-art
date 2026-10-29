@@ -848,3 +848,6 @@ The original Barksong Handguards item painting is recorded in
 
 Three original vendor chest armor paintings are recorded in
 `docs/whetstorm/vendor-chest-generation.json`.
+
+Three original regional cloth reward paintings are recorded in
+`docs/whetstorm/regional-cloth-rewards-generation.json`.

@@ -113,6 +113,7 @@ import { questSignetBrandItemImageUrl } from './quest_signet_brand_item_art';
 import { questThornpeakItemImageUrl } from './quest_thornpeak_item_art';
 import { questTreasureMapItemImageUrl } from './quest_treasure_map_item_art';
 import { realmQuestDropItemImageUrl } from './realm_quest_drop_art';
+import { regionalClothRewardsItemImageUrl } from './regional_cloth_rewards_item_art';
 import { resonantMaterialItemImageUrl } from './resonant_material_item_art';
 import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
 import { shadowpulseItemImageUrl } from './shadowpulse_item_art';
@@ -141,6 +142,7 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    regionalClothRewardsItemImageUrl(id) ??
     vendorChestItemImageUrl(id) ??
     barksongItemImageUrl(id) ??
     fenbloomItemImageUrl(id) ??
