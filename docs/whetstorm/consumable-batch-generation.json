@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "mana_potion",
+      "file": "docs/design/whetstorm-art/items/mana_potion.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Mana Potion: a squat rounded cobalt glass bottle with a short corked neck, luminous blue liquid visible inside, simple unmarked metal collar. Show the complete vessel with clear space around it.",
+      "status": "original consumable painting; reviewed",
+      "sha256": "c4f6beb7bb0d26e82359e980ce547bfe8b0a1d34cfc7fc5074f8422ae9c94e1a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mana_potion.webp",
+        "sha256": "be8b3316f488b68a840b64e47f9ee970733f42d51de66526145697a8c2786c8c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "conjured_water",
+      "file": "docs/design/whetstorm-art/items/conjured_water.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Conjured Rainwater: a clear glass narrow-necked teardrop flask of pale blue water with a simple cork and subtle cool magical shimmer. Show the complete vessel with clear space around it.",
+      "status": "original consumable painting; reviewed",
+      "sha256": "c0549965f6592cec6a89e289c4f86c1648c8cba1e3d443270e872f9d8e2068f0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/conjured_water.webp",
+        "sha256": "eb17cd549ea23cf6dcc8b37dcf75a89ffabea30c8a292824abd5403bdfd0f699",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "conjured_water2",
+      "file": "docs/design/whetstorm-art/items/conjured_water2.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Conjured Wellwater: a broad sturdy ceramic jug with a handle and open lip, pale water visible at its opening and restrained cool magical shimmer. Show the complete vessel with clear space around it.",
+      "status": "original consumable painting; reviewed",
+      "sha256": "28b676276932f88787b442c77a6107398213c6a3ace8f3c1eeeccf00f9b3eb8a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/conjured_water2.webp",
+        "sha256": "82114f44dd114d630962ede970fed566a01612f19d9047818386749a0cf42aad",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "conjured_bread",
+      "file": "docs/design/whetstorm-art/items/conjured_bread.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Conjured Oatcake: a single rustic round golden oatcake with coarse oat texture and a subtle cool magical shimmer, resting on a small plain dark plate. Show the complete serving with clear space around it.",
+      "status": "original consumable painting; reviewed",
+      "sha256": "0286ed086270f1a534f50896f5c59d77b099d4ee8fa22e578c4353eb637dd601",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/conjured_bread.webp",
+        "sha256": "9b8ed156c0a907fb37523b00e93b9b9078223d82f82f1f056d3c0257d7a3356d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

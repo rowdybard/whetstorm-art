@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "fine_copper_ore",
+      "file": "docs/design/whetstorm-art/items/fine_copper_ore.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Fine Copper Ore: a single chunky irregular raw rock with abundant bright copper-orange metallic veins and rough dark stone matrix, not a refined bar.",
+      "status": "original material painting; reviewed",
+      "sha256": "e7a2023f0c90f5f9ee6969c381f41bce89b567978edf46f6e432a1d8401aa592",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_copper_ore.webp",
+        "sha256": "61627f0ce3c7b70cc7a9a30fbedb7f414d5f4e3f68f6547892f060e20ebcae63",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fine_ironbark_log",
+      "file": "docs/design/whetstorm-art/items/fine_ironbark_log.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Fine Ironbark Log: one short heavy log with rugged dark iron-gray bark, pale exposed cut end and a few subtle silver grain highlights, whole log visible.",
+      "status": "original material painting; reviewed",
+      "sha256": "c33fe50d27010d61a148cd6341d6b89fa9d912dcbd4835829af8592df86416c7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_ironbark_log.webp",
+        "sha256": "0bfa664c9af0ecd8fd4ac4c1fa275c11dc901baf32764f964b28586ef96d8ba1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fine_silverleaf_herb",
+      "file": "docs/design/whetstorm-art/items/fine_silverleaf_herb.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Fine Sheenleaf Herb: a small intact sprig with broad silvery-green leaves and pale stems, loosely tied at its base, no flowers or pot.",
+      "status": "original material painting; reviewed",
+      "sha256": "5f3f926ffe4e5d6e3f4b0fba5ac498c07e96dce6f3a308a92d528bdbc8e11f32",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_silverleaf_herb.webp",
+        "sha256": "47c655a21aa786b3093e3f7f1e469d3fceab0384b66128806499c65d2794ea16",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "withered_husks",
+      "file": "docs/design/whetstorm-art/items/withered_husks.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Withered Husks: a small bundle of dry curled tan-brown plant husks and straw, brittle and crumpled, tied loosely with simple twine.",
+      "status": "original material painting; reviewed",
+      "sha256": "02a96f29fbf8a54627fa384c9f67de4e21718e5582bb381fac20ab1fdb135614",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/withered_husks.webp",
+        "sha256": "e0bb7b7f89cdffb94b37a611c909b1d6f1f184f0d31abe17c37dcb267125165f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

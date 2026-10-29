@@ -18,9 +18,11 @@ import { armorBatchTwentyItemImageUrl } from './armor_batch_twenty_item_art';
 import { armorBatchTwentyoneItemImageUrl } from './armor_batch_twentyone_item_art';
 import { armorBatchTwentytwoItemImageUrl } from './armor_batch_twentytwo_item_art';
 import { armorBatchTwoItemImageUrl } from './armor_batch_two_item_art';
+import { consumableBatchItemImageUrl } from './consumable_batch_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { earlyMaterialEightItemImageUrl } from './early_material_eight_item_art';
 import { earlyMaterialElevenItemImageUrl } from './early_material_eleven_item_art';
+import { earlyMaterialFifteenItemImageUrl } from './early_material_fifteen_item_art';
 import { earlyMaterialFiveItemImageUrl } from './early_material_five_item_art';
 import { earlyMaterialFourItemImageUrl } from './early_material_four_item_art';
 import { earlyMaterialFourteenItemImageUrl } from './early_material_fourteen_item_art';
@@ -32,6 +34,7 @@ import { earlyMaterialThirteenItemImageUrl } from './early_material_thirteen_ite
 import { earlyMaterialTwelveItemImageUrl } from './early_material_twelve_item_art';
 import { earlyQuestItemImageUrl } from './early_quest_item_art';
 import { earlyQuestMaterialItemImageUrl } from './early_quest_material_item_art';
+import { jewelryBatchItemImageUrl } from './jewelry_batch_item_art';
 import { marshBatchEighteenItemImageUrl } from './marsh_batch_eighteen_item_art';
 import { marshBatchSeventeenItemImageUrl } from './marsh_batch_seventeen_item_art';
 import { questBatchSixteenItemImageUrl } from './quest_batch_sixteen_item_art';
@@ -53,10 +56,15 @@ import { weaponBatchThirteenItemImageUrl } from './weapon_batch_thirteen_item_ar
 import { weaponBatchTwelveItemImageUrl } from './weapon_batch_twelve_item_art';
 import { weaponBatchTwentyItemImageUrl } from './weapon_batch_twenty_item_art';
 import { weaponBatchTwentyoneItemImageUrl } from './weapon_batch_twentyone_item_art';
+import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_item_art';
 
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    consumableBatchItemImageUrl(id) ??
+    earlyMaterialFifteenItemImageUrl(id) ??
+    jewelryBatchItemImageUrl(id) ??
+    weaponBatchTwentythreeItemImageUrl(id) ??
     starterItemImageUrl(id) ??
     earlyQuestItemImageUrl(id) ??
     earlyDropsItemImageUrl(id) ??

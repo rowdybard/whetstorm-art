@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "hammered_copper_band",
+      "file": "docs/design/whetstorm-art/items/hammered_copper_band.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Hammered Copper Band, a broad simple copper finger ring with visibly hand-hammered facets, no gems.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "baccfb882ba792b55fd0bd9842fb2cfcaf521e68a40b044df9cd4176e714f6f7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hammered_copper_band.webp",
+        "sha256": "e2b87a5a289726fd66671404749f27deb2371a632ed78074cd55c0924f86ceb4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "polished_copper_loop",
+      "file": "docs/design/whetstorm-art/items/polished_copper_loop.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Polished Copper Loop, a slender smooth rounded copper finger ring with a bright polished surface, no gems.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "3ca399ad27b92b23a2734cafc2fb9c8f540b5d0d98e25cb86dc11b51985c0429",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/polished_copper_loop.webp",
+        "sha256": "6634361dd6ffd7496fd9b4d1d0981fb81bba65944ffbcdf0eb0b0730e0381cae",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "coiled_copper_torc",
+      "file": "docs/design/whetstorm-art/items/coiled_copper_torc.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Coiled Copper Torc, an open-ended neck ring made from twisted copper strands with simple rounded terminals, no gems.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "dd6dcfd45ff6d56c6c16c3f7d1da698f9ca995612238e9c9747e893bf5d51ed3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/coiled_copper_torc.webp",
+        "sha256": "a3121d524a132dbca5dac341b80a4512869b06c74a015313d8144c9204fd839e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "riveted_iron_signet",
+      "file": "docs/design/whetstorm-art/items/riveted_iron_signet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Riveted Iron Signet, a dark iron finger ring with a broad plain oval signet face and visible small rivets, no letters or heraldry.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "f4205aa0642c679daeec8528b0ef59dad60feedcb94c0f7ae36ef5f1862fdf8d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/riveted_iron_signet.webp",
+        "sha256": "351808856328c8ad7d0d51f21e36c2a7f5255e4fc8d27649de7eac1096eae525",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

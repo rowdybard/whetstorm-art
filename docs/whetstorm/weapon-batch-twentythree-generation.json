@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "ironvein_lantern_staff",
+      "file": "docs/design/whetstorm-art/items/ironvein_lantern_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051",
+          "role": "style only"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally with visible margin, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Ironvein Lantern Staff, a complete dark ash staff with iron bands and a small caged amber lantern fixed atop it, simple mining wear and wrapped grip.",
+      "status": "original weapon painting; reviewed",
+      "sha256": "7ad8ac691913fe2c6397e4790bf5d859bcea9d1f3ea10a20d75b80bf0060c649",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ironvein_lantern_staff.webp",
+        "sha256": "f0848c505426da5323bec21b7be9a75a49ab072a045affc07eb64065077819d7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-ad5f8d18-82c8-4ddd-bdb3-839cec026897.png"
+    },
+    {
+      "itemId": "emberfang_warblade",
+      "file": "docs/design/whetstorm-art/items/emberfang_warblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051",
+          "role": "style only"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally with visible margin, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Emberfang Warblade, a complete broad steel sword with a fang-shaped profile, ember orange accents along its guard, and dark leather grip; restrained glow.",
+      "status": "original weapon painting; reviewed",
+      "sha256": "ce94cf28feedb4ef69c50aeece9914dc8fc701ee7bc2ad69672c4a47b48fd2e0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberfang_warblade.webp",
+        "sha256": "18a968a1ee481c2a8319ff3cf397680bd6732e80d30f927f6865dec5a4ad17d3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-21b43d59-d811-4368-84bf-e9363f3d7028.png"
+    },
+    {
+      "itemId": "brutoks_maul",
+      "file": "docs/design/whetstorm-art/items/brutoks_maul.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051",
+          "role": "style only"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally with visible margin, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Brutok's Maul, a complete heavy iron-headed war hammer with a blocky battered striking head, stout wooden haft and leather grip, brutal practical ogre construction.",
+      "status": "original weapon painting; reviewed",
+      "sha256": "3a745f4fab89c72d7b877bbc2f9cd77d65e46264f4585336a0241ae5172393a3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/brutoks_maul.webp",
+        "sha256": "03f9d6b88548ff082ac6c4a290836d7cc92c511cccb33669f5b377d93c3d49e3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-a739ec94-4c62-4fcb-b1e4-566b8494df6d.png"
+    },
+    {
+      "itemId": "crag_warden_cudgel",
+      "file": "docs/design/whetstorm-art/items/crag_warden_cudgel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051",
+          "role": "style only"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally with visible margin, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Crag Warden Cudgel, a complete gnarled wooden cudgel capped with an angular gray stone bound by leather straps, subtle cool blue magical accent.",
+      "status": "original weapon painting; reviewed",
+      "sha256": "a3418fbb1af3c1f5b223d03c784c6c2f18b0389d47da995d79084057d2b2eb29",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/crag_warden_cudgel.webp",
+        "sha256": "3872056c89e844ce0bb520b23e8607fe8c73670d77f64d729b830f0ca8e804a2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-34fdb894-39e9-4cb9-85af-7ea8afc2e1d8.png"
+    }
+  ]
+}

@@ -709,3 +709,10 @@ style reference. Their prompts, masters and hashes are in
 Four armor paintings use original Whetstorm art as a style reference. Their
 prompts, masters and hashes are in
 `docs/whetstorm/armor-batch-twentytwo-generation.json`.
+
+Sixteen weapon, consumable, material and jewelry paintings use original
+Whetstorm art as a style reference. Their prompts, masters and hashes are in
+`docs/whetstorm/weapon-batch-twentythree-generation.json`,
+`docs/whetstorm/consumable-batch-generation.json`,
+`docs/whetstorm/early-material-fifteen-generation.json`, and
+`docs/whetstorm/jewelry-batch-generation.json`.

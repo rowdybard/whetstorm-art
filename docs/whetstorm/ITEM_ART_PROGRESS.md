@@ -64,6 +64,16 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Twenty-fifth checkpoint: four weapons, four consumables, four crafting
+materials and four jewelry paintings add 16 unique paintings. This effort has
+created 228 paintings for 228 IDs without deliberate reuse. Of 1,626 catalog
+IDs, 245 have direct individual paintings and 1,381 do not. The generation
+records are `weapon-batch-twentythree-generation.json`,
+`consumable-batch-generation.json`, `early-material-fifteen-generation.json`,
+and `jewelry-batch-generation.json`. Inventory-size reviews and focused image,
+routing and original-art tests passed. Browser, full gate and shipping-tree
+clearance remain open.
+
 Twenty-fourth checkpoint: four recovered armor paintings add four unique
 paintings, bringing this effort to 212 paintings for 212 IDs without deliberate
 reuse. Of 1,626 catalog IDs, 229 have direct individual paintings and 1,397 do
