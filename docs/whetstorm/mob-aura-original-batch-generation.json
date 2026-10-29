@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "mob_aoe_slow",
+      "runtimeIds": [
+        "aoe_slow"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_aoe_slow.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original area movement slow status painting: a single heavy iron boot caught in a broad, inward curling ring of dusty teal pressure, its motion stopped. Strong clear silhouette, neutral hostile teal and iron gray palette, hand-painted stylized fantasy, dark slate background, soft light from upper left. Edge-to-edge painting, no border, letters, text, logo, watermark, or ice. Original design, do not copy or imitate any existing game or artist.",
+      "sha256": "bffccef2884eb2f6d01e8fff7ba663a88a0e17880e605c9b94f00cb52b527df5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_aoe_slow.webp",
+        "sha256": "d02f277c56768003f9df1fa62c38c7662a0e9dffbb9ab59c938bab097d1f1d9d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_aoe_slow.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "mob_bleed",
+      "runtimeIds": [
+        "bleed_ridge_stalker",
+        "bleed_rift_thornback",
+        "bleed_wildheart_ravager"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_bleed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original bleeding status painting: three vivid crimson diagonal slash marks across a dark brown leather surface, a few restrained red droplets, bold clean shape, tasteful without gore. Hand-painted stylized fantasy, dark slate background, soft upper-left light. Edge-to-edge painting, no border, letters, text, logo, watermark. Original design, do not copy or imitate any existing game or artist.",
+      "sha256": "46a408e43cc276a711a25c07dfe314a8e3edc457561e4b04bc902ee0b420e99d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_bleed.webp",
+        "sha256": "a3034cd2935321cb6e151d3158fe336f5736b4e0b80c17fe833da7889a11fd2c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_bleed.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "mob_stack_poison",
+      "runtimeIds": [
+        "stackpoison_mirefen_broodmother",
+        "stackpoison_rift_boss_venom"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_stack_poison.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original stacking poison status painting: three luminous green poison droplets descending above a simple dark violet thorn, green vapor curling softly around them. Bold simple silhouette, hand-painted stylized fantasy, dark slate background, soft upper-left light. Edge-to-edge painting, no border, letters, text, logo, watermark. Original design, do not copy or imitate any existing game or artist.",
+      "sha256": "b67dd3bceceb408dd71420d4e7354691525b7a94f683af59eb2426c29a4fdd31",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_stack_poison.webp",
+        "sha256": "f2b3de7db5d5d8d0f2e6b1a040176bd3e4671100a2f11d6a99635fd7eec602ee",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_stack_poison.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "mob_plague",
+      "runtimeIds": [
+        "plague_drowned_dead",
+        "plague_fenbridge_infiltrator",
+        "plague_drowned_warlord"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_plague.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original plague status painting: a single withered ochre leaf with three dark spots, surrounded by a sickly olive haze, centered large and distinct. Bold clear silhouette, hand-painted stylized fantasy, dark slate background, soft upper-left light. Edge-to-edge painting, no border, letters, text, logo, watermark. Original design, do not copy or imitate any existing game or artist.",
+      "sha256": "f6e643afbf360bce90636eecf95a3a5fc5d3e4ede45f3ceb3c1ccc873f308d22",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_plague.webp",
+        "sha256": "099def5c62578a49f655f6f681b8fc219247681e950a515225a2d1dbca61a0de",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_plague.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

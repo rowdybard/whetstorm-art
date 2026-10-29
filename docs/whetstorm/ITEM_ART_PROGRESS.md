@@ -64,6 +64,27 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Thirty-eighth checkpoint: four mail pieces, four leather pieces, three alchemy
+items and four enchanting materials add 15 unique item paintings. This effort
+has created 508 paintings for 508 item IDs without deliberate reuse. Of 1,626
+catalog IDs, 525 have direct individual paintings and 1,101 do not; the raw
+remainder includes retired compatibility entries and variants. Records are
+`mail-thornpeak-generation.json`, `leather-thornpeak-third-generation.json`,
+`potion-later-generation.json` and `resonant-material-generation.json`.
+Four original mob aura paintings also cover nine exact runtime identities:
+slow, three bleeds, two poisons and three plagues. Their deliberate shared
+effect art and provenance are in `mob-aura-original-batch-generation.json`.
+The public aura resolver now recognizes those identities. The earlier failure
+to reach them through `auraImageUrl` is covered by a regression test.
+
+The 3D audit confirmed Old Peatfire's current model is shared with other
+creatures and has unrecorded rights in the existing inventory; a replacement
+must use its own mapping and preserve its combat animation contract. Existing
+KayKit player bodies and several starter weapons are listed as CC0. Concept
+art already exists; no 3D model or paid generation was performed. Inventory
+reviews and focused image and routing tests passed. Browser, full gate,
+physical old-file removal and shipping-tree clearance remain open.
+
 Thirty-seventh checkpoint: four alchemy items, four farming materials, four
 heroic jewelry items, four dungeon mail items and two heroic cloth items add
 18 unique paintings. This effort has created 493 paintings for 493 item IDs

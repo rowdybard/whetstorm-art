@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "resonant_steel",
+      "file": "docs/design/whetstorm-art/items/resonant_steel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Subject: Resonant Steel, one short thick forged steel ingot with an angular cut edge and subtle blue-white magical resonance along its surface. Original stylized fantasy, hand-painted, bold clean silhouette, readable at 32 pixels, whole object centered on a dark painted background, soft upper-left light. No border, frame, text, letters, logo, watermark. Original design; do not copy any game or artist.",
+      "sha256": "3b65f28b6eb217483364621eb077dae2662cbb83ab7bb7ca29d27416a5e4c955",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "status": "awaiting aggregator integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/resonant_steel.webp",
+        "sha256": "ea15a6b34d5d76e4df8bc8542efb6f75ecb30e11477cd1010ac89e027115ec6a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize from master, WebP quality 84 effort 6"
+      }
+    },
+    {
+      "itemId": "resonant_timber",
+      "file": "docs/design/whetstorm-art/items/resonant_timber.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Subject: Resonant Timber, a single short bundle of cut brown timber bound with cord, with a subtle blue-white magical resonance in the grain. Original stylized fantasy, hand-painted, bold clean silhouette, readable at 32 pixels, whole object centered on a dark painted background, soft upper-left light. No border, frame, text, letters, logo, watermark. Original design; do not copy any game or artist.",
+      "sha256": "c0579f6e2d5b9656bea940e73a8d2d9f67a71f9249939422b9d91ab4918c60d9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "status": "awaiting aggregator integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/resonant_timber.webp",
+        "sha256": "d5af7d28f830082ad0588d34ce691e9f6e33ee9c603b7e183ba2a9dfc820b93c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize from master, WebP quality 84 effort 6"
+      }
+    },
+    {
+      "itemId": "resonant_hide",
+      "file": "docs/design/whetstorm-art/items/resonant_hide.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Subject: Resonant Hide, one folded irregular tan leather hide with visible thick edges and subtle blue-white magical resonance across its surface. Original stylized fantasy, hand-painted, bold clean silhouette, readable at 32 pixels, whole object centered on a dark painted background, soft upper-left light. No border, frame, text, letters, logo, watermark. Original design; do not copy any game or artist.",
+      "sha256": "ecd6ac698b09ac7eb8e61ca8faa166a320dad028ea461483df26237273983b4f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "status": "awaiting aggregator integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/resonant_hide.webp",
+        "sha256": "87be8b612cb14f5d34ff316206fd0f2b93c6769ef7d7c4ebf92aee72f498946a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize from master, WebP quality 84 effort 6"
+      }
+    },
+    {
+      "itemId": "resonant_links",
+      "file": "docs/design/whetstorm-art/items/resonant_links.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Subject: Resonant Links, a small loose pile of thick forged metal chain links with subtle blue-white magical resonance. Original stylized fantasy, hand-painted, bold clean silhouette, readable at 32 pixels, whole object centered on a dark painted background, soft upper-left light. No border, frame, text, letters, logo, watermark. Original design; do not copy any game or artist.",
+      "sha256": "091ce4c20711b54d6a05d6cb5a11a59f279547a605bc638e3c247739cbcd7d52",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "status": "awaiting aggregator integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/resonant_links.webp",
+        "sha256": "54bdd74b7bdd64c6d2ed6403caf15a223e608bd434512c465d758742a03b887c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize from master, WebP quality 84 effort 6"
+      }
+    }
+  ]
+}

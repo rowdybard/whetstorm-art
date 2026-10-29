@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "moonbark_vestments",
+      "file": "docs/design/whetstorm-art/items/moonbark_vestments.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory painting for moonbark_vestments, Moonbark Vestments: a complete sleeveless leather chest vest with broad layered bark-brown panels, muted jade edging and a pale crescent clasp. Square painted edge to edge, centered on a dark slate-blue painted background. Bold silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "c5c2ca59188a7eaebdeeb0184db459573715fa4f4376342b4e08bb963ba96c89",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonbark_vestments.webp",
+        "sha256": "fdf280eb9cb9ae8661ffbebd2008e9a48f2576d0df94c18c5d6c70b8b7fe6cb2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "cragprowl_belt",
+      "file": "docs/design/whetstorm-art/items/cragprowl_belt.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory painting for cragprowl_belt, Cragprowl Belt: a complete wide rugged tawny leather belt in a closed oval, with a chunky stone-grey buckle and layered angular hide tabs. Square painted edge to edge, centered on a dark slate-blue painted background. Bold silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "9ea2028c67157d457cd4ee449057d77734747831d91a16db2979c95374d2a514",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cragprowl_belt.webp",
+        "sha256": "bf6adfa8a25c2b0dc334c3335eac3b9323f5a11b64e10649b5f93b49324b0723",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "stormroot_cowl",
+      "file": "docs/design/whetstorm-art/items/stormroot_cowl.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory painting for stormroot_cowl, Stormroot Cowl: a complete deep indigo leather hood with open dark face aperture, curling root-like tan leather trim and a simple rounded silhouette. Square painted edge to edge, centered on a dark slate-blue painted background. Bold silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "3b69ac401fc22b8b6bdade24a13977883bc80938b6a225717b5083f661f22ff2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormroot_cowl.webp",
+        "sha256": "5ab130518725b2ba1c9ff9b57722bad5e6503dc57a1dc031a7eda6df4b025fc0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "revenantstep_treads",
+      "file": "docs/design/whetstorm-art/items/revenantstep_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory painting for revenantstep_treads, Revenantstep Treads: a complete pair of weathered dark plum leather ankle boots with pale grey folded cuffs, thick soles and simple crossed straps. Square painted edge to edge, centered on a dark slate-blue painted background. Bold silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "48cc898a165fc8a9eaf30f68e7d7b38ca60561d5f84154734c1a2dc58c01e181",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/revenantstep_treads.webp",
+        "sha256": "cc057f88a6d82162b1d75b2099e57d515a303414d4946264f8185ff681758d85",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

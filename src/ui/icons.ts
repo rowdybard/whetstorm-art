@@ -5110,6 +5110,8 @@ export function hasAuraImageIdentity(id: string): boolean {
 
 /** Static art for an exact aura identity, including ordinary ability-art reuse. */
 export function auraImageUrl(id: string): string | null {
+  const whetstormArt = whetstormAuraImageUrl(id);
+  if (whetstormArt) return whetstormArt;
   return EXTERNAL_AURA_IMAGE_URLS.has(id) ||
     AURA_FILE_IMAGE_IDS.has(id) ||
     hasAbilityIconIdentity(id) ||

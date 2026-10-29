@@ -71,6 +71,7 @@ import { leatherDelveNextItemImageUrl } from './leather_delve_next_item_art';
 import { leatherLitanyOriginalItemImageUrl } from './leather_litany_original_item_art';
 import { leatherPeakNextItemImageUrl } from './leather_peak_next_item_art';
 import { leatherThornpeakItemImageUrl } from './leather_thornpeak_item_art';
+import { leatherThornpeakThirdItemImageUrl } from './leather_thornpeak_third_item_art';
 import { leatherWyrmOriginalItemImageUrl } from './leather_wyrm_original_item_art';
 import { mailBatchGraveItemImageUrl } from './mail_batch_grave_item_art';
 import { mailBonewardItemImageUrl } from './mail_boneward_item_art';
@@ -80,6 +81,7 @@ import { mailHighwatchItemImageUrl } from './mail_highwatch_item_art';
 import { mailNextItemImageUrl } from './mail_next_item_art';
 import { mailOsmiumItemImageUrl } from './mail_osmium_item_art';
 import { mailReliquaryItemImageUrl } from './mail_reliquary_item_art';
+import { mailThornpeakItemImageUrl } from './mail_thornpeak_item_art';
 import { marshBatchEighteenItemImageUrl } from './marsh_batch_eighteen_item_art';
 import { marshBatchSeventeenItemImageUrl } from './marsh_batch_seventeen_item_art';
 import { materialAdvanceItemImageUrl } from './material_advance_item_art';
@@ -92,6 +94,7 @@ import { materialOrewoodBatchItemImageUrl } from './material_orewood_batch_item_
 import { materialProvisioningItemImageUrl } from './material_provisioning_item_art';
 import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
 import { potionAlchemyNextItemImageUrl } from './potion_alchemy_next_item_art';
+import { potionLaterItemImageUrl } from './potion_later_item_art';
 import { questBatchCluesCryptItemImageUrl } from './quest_batch_clues_crypt_item_art';
 import { questBatchHighwatchItemImageUrl } from './quest_batch_highwatch_item_art';
 import { questBatchSixteenItemImageUrl } from './quest_batch_sixteen_item_art';
@@ -103,6 +106,7 @@ import { questSignetBrandItemImageUrl } from './quest_signet_brand_item_art';
 import { questThornpeakItemImageUrl } from './quest_thornpeak_item_art';
 import { questTreasureMapItemImageUrl } from './quest_treasure_map_item_art';
 import { realmQuestDropItemImageUrl } from './realm_quest_drop_art';
+import { resonantMaterialItemImageUrl } from './resonant_material_item_art';
 import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
 import { shadowpulseItemImageUrl } from './shadowpulse_item_art';
 import { starterItemImageUrl } from './starter_item_art';
@@ -129,6 +133,10 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    leatherThornpeakThirdItemImageUrl(id) ??
+    mailThornpeakItemImageUrl(id) ??
+    potionLaterItemImageUrl(id) ??
+    resonantMaterialItemImageUrl(id) ??
     alchemyBottlesItemImageUrl(id) ??
     farmHighlandMaterialItemImageUrl(id) ??
     jewelryHeroicQuartermasterItemImageUrl(id) ??

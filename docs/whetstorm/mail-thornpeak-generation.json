@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "deathlord_sabatons",
+      "file": "docs/design/whetstorm-art/items/deathlord_sabatons.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Subject: a pair of heavy iron chainmail sabatons with bone-colored toe caps and subtle grave-carved trim, entire item centered, no wearer or extra objects. Original stylized fantasy, hand-painted look, bold clean silhouette, readable at 32 pixels, soft light from upper left, worn forged steel, dark painted background. No border, frame, text, letters, logos or watermark. Original design, do not imitate existing games or artists.",
+      "status": "original armor painting; reviewed at 32, 48 and 64 pixels",
+      "sha256": "18b31f3122e64d48eb45181058bad06b88623918da5381b6c93213ebdad2b5b4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/deathlord_sabatons.webp",
+        "sha256": "d46030af62ffaf1348b8f96f14649120775ac289996b94006069feccb82264d2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "peaksong_helm",
+      "file": "docs/design/whetstorm-art/items/peaksong_helm.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Subject: a steel chainmail helm with a broad open face aperture, wind-swept feather crest and mountain-shaped brow, entire item centered, no wearer or extra objects. Original stylized fantasy, hand-painted look, bold clean silhouette, readable at 32 pixels, soft light from upper left, worn forged steel, dark painted background. No border, frame, text, letters, logos or watermark. Original design, do not imitate existing games or artists.",
+      "status": "original armor painting; reviewed at 32, 48 and 64 pixels",
+      "sha256": "16ad973aac0eedb4f4e7dfc76d351036e6e456b75e2c1e6e255010fb71ced464",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/peaksong_helm.webp",
+        "sha256": "0d16d27b5e6724415272c3395461a2720cb2678551343870e4d6b9c3df97d768",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "thunderward_legguards",
+      "file": "docs/design/whetstorm-art/items/thunderward_legguards.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Subject: a pair of steel chainmail legguards with sturdy knee plates and restrained lightning-shaped brass inlays, entire item centered, no wearer or extra objects. Original stylized fantasy, hand-painted look, bold clean silhouette, readable at 32 pixels, soft light from upper left, worn forged steel, dark painted background. No border, frame, text, letters, logos or watermark. Original design, do not imitate existing games or artists.",
+      "status": "original armor painting; reviewed at 32, 48 and 64 pixels",
+      "sha256": "add56cfcf771982c43f3500b3a51471030062d2073d7d7dc2453a9bc34907310",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/thunderward_legguards.webp",
+        "sha256": "148d457cf764cf38306224ed34f071ceafc13c5cf92013c3dc6f3542892a6c0b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "crownforged_gauntlets",
+      "file": "docs/design/whetstorm-art/items/crownforged_gauntlets.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Subject: a pair of dark steel chainmail gauntlets with bone-white knuckle plates and small crown-shaped cuffs, entire item centered, no wearer or extra objects. Original stylized fantasy, hand-painted look, bold clean silhouette, readable at 32 pixels, soft light from upper left, worn forged steel, dark painted background. No border, frame, text, letters, logos or watermark. Original design, do not imitate existing games or artists.",
+      "status": "original armor painting; reviewed at 32, 48 and 64 pixels",
+      "sha256": "82ceed599231ba411fe40fb38e8f6850fe37573630c8d30567b82017e63bb1a1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/crownforged_gauntlets.webp",
+        "sha256": "08537d5417b1a0ab05e4a2d1b9e944195f17269a21e730e7ab98024ac10fca24",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

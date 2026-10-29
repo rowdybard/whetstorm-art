@@ -811,3 +811,11 @@ and one well-fed aura painting are recorded in
 `docs/whetstorm/mail-dungeon-original-generation.json`,
 `docs/whetstorm/armor-batch-shadowpulse-generation.json`, and
 `docs/whetstorm/well-fed-aura-generation.json`.
+
+Fifteen original mail, leather, alchemy and material paintings plus four mob
+aura paintings are recorded in `docs/whetstorm/mail-thornpeak-generation.json`,
+`docs/whetstorm/leather-thornpeak-third-generation.json`,
+`docs/whetstorm/potion-later-generation.json`,
+`docs/whetstorm/resonant-material-generation.json`, and
+`docs/whetstorm/mob-aura-original-batch-generation.json`. The four mob aura
+paintings deliberately cover nine exact effect identities as listed there.

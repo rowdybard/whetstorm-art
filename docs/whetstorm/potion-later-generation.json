@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "elixir_of_the_serpent",
+      "file": "docs/design/whetstorm-art/items/elixir_of_the_serpent.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square inventory painting for elixir_of_the_serpent. One complete squat green glass bottle, unmistakably serpent themed with a sculpted coiled serpent around the neck, cork stopper and visible emerald liquid level. Centered on a dark slate-blue painted vignette. Hand-painted fantasy, tactile glass, warm upper-left light, bold silhouette legible at 32 pixels. No border, text, letters, logos, watermark, people or other objects. Original design, do not imitate any game or artist.",
+      "sha256": "9b4de4fd059fa900e1eaa1b4d9f637130cee3d5c673cbf0cc5b0d48d8a2f0f00",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/elixir_of_the_serpent.webp",
+        "sha256": "76d59c663e3616815aeeac6cafc5679fc1ad353a02b208a65476f7d2ba58e74f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84 effort 6"
+      }
+    },
+    {
+      "itemId": "potion_of_invisibility",
+      "file": "docs/design/whetstorm-art/items/potion_of_invisibility.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square inventory painting for potion_of_invisibility. One complete tall narrow frosted glass vial with a faceted teardrop silhouette, cork stopper and faint translucent lavender liquid level, with subtle mist contained within. Centered on a dark slate-blue painted vignette. Hand-painted fantasy, tactile glass, warm upper-left light, bold silhouette legible at 32 pixels. No border, text, letters, logos, watermark, people or other objects. Original design, do not imitate any game or artist.",
+      "sha256": "55abd5245847f1f48dd98496b02ddbc75c0244c06baa9ab8e3a685eed55663db",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/potion_of_invisibility.webp",
+        "sha256": "5a10f4ff0b67c8223aaf20fec5ffc5a2e08a7264086a329ef8f330c832f0a2b2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84 effort 6"
+      }
+    },
+    {
+      "itemId": "elixir_of_mana_regeneration",
+      "file": "docs/design/whetstorm-art/items/elixir_of_mana_regeneration.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square inventory painting for elixir_of_mana_regeneration. One complete round cobalt glass flask with a broad flattened base, cork stopper and visible luminous azure liquid level, a simple silver collar. Centered on a dark slate-blue painted vignette. Hand-painted fantasy, tactile glass, warm upper-left light, bold silhouette legible at 32 pixels. No border, text, letters, logos, watermark, people or other objects. Original design, do not imitate any game or artist.",
+      "sha256": "e8ded4dd7210c1be74f4e21ab0d6df585af1d1c419739feafc47400534dcb91c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/elixir_of_mana_regeneration.webp",
+        "sha256": "5c03bc76d13e82d9a2ee4c32b3a665def686b5069ca7ed7b005106c5c790696c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos3 resize from master; sharp WebP quality 84 effort 6"
+      }
+    }
+  ]
+}
