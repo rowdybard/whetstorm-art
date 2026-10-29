@@ -36,12 +36,33 @@ the retired placeholder list in `docs/claudium-store.md`, and registrations in
 | Hoarfrost (7) | `ice_fang`, `glaciersplit`, `rimecrusher`, `frostbite`, `hoarfrost_vigil`, `shard_of_everwinter`, `winterbite` |
 | Fallen Star (8) | `solheim_last_light_of_the_dawn`, `skyrender_the_firmament_s_wound`, `starfall_judgment_of_the_heavens`, `astravyr_fang_of_the_fallen_star`, `cosmarch_spire_of_the_endless_void`, `emberwish_mote_of_the_dying_sun`, `encore_the_second_falling_star`, `meteorlatch_the_sky_s_last_judgment` |
 
-For example, `src/ui/weapon_variants.ts` maps the ordinary game items
-`marrowpoint`, `duskwhisper`, `courtiers_bonefang`, `thornpeak_wardblade` and
-`gravecourt_hewer` to legacy models. Retired storefront status therefore does
-not prove all legacy assets have no gameplay consumers. Audit actual cosmetic
-access, in-game mappings, editor references and generated manifests before
-removal or substitution.
+### Known gameplay consumers of legacy models
+
+`src/ui/weapon_variants.ts` maps these five base equipment items to four of
+the restricted legacy models. The held-model resolver in
+`src/render/characters/manifest.ts` also inherits a base mapping through an
+item's `heroicOf` field; `heroic_duskwhisper` is a documented example.
+
+| Held model | Base item IDs | Source evidence |
+| --- | --- | --- |
+| `redskull_dagger` | `marrowpoint` | Drakelands loot in `src/sim/content/drakelands.ts` |
+| `purple_dagger` | `duskwhisper`, `courtiers_bonefang` | Wildheart and Nythraxis loot in `src/sim/content/wildheart.ts` and `nythraxis_loot.ts` |
+| `purple_sword` | `thornpeak_wardblade` | Nythraxis loot in `src/sim/content/nythraxis_loot.ts` |
+| `purple_axe` | `gravecourt_hewer` | Nythraxis loot in `src/sim/content/nythraxis_loot.ts` |
+
+Individual items can share a model. Replace or remap their held models while retaining the items and their combat
+behavior. Match weapon family, grip origin, orientation and handling; the
+repository's `scripts/asset_pipeline/CLAUDE.md` describes the normalized weapon
+contract and a zero-generation path for existing licensed GLBs. Do not run the
+pipeline or change those mappings merely from this plan.
+
+The Season 1 registry is referenced by `src/sim/content/reliquary.ts`,
+`weapon_skin_rules.ts`, the cosmetic UI and renderer as well as store-related
+code. The handoff says commerce is switched off, but that alone does not prove
+these cosmetics are inaccessible or safe to remove. Check actual ownership and
+non-store acquisition paths, item and UI references, editor references and
+generated manifests before exclusion or substitution. References prove a code
+path exists; they do not by themselves prove availability in a running build.
 
 The 16 named files plus these 40 weapons give **56 specifically identified
 tracked restricted GLBs**, not 56 necessarily required new models. Other
