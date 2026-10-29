@@ -1,0 +1,52 @@
+{
+  "assets": [
+    {
+      "itemId": "sundered_essence",
+      "file": "docs/design/whetstorm-art/items/sundered_essence.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: opaque square fantasy game inventory icon. Paint Sundered Essence: a compact cluster of fractured glowing purple crystalline shards suspended around a brilliant violet core, an ancient magical crafting material, not a weapon. Original hand-painted fantasy, tactile faceted crystal, warm upper-left light, bold centered complete silhouette on a dark painted vignette, readable at small sizes. No text, letters, frame, logo, or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "4d5c1de1a6874a64e71ed8ab03f369df9eaf7e620cdefe210be0140c4df542e5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sundered_essence.webp",
+        "sha256": "57adc511f40890e001e7e67926842d34ed88ac29b1d6284fcbdcb9c42b4368e0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "rift_essence",
+      "file": "docs/design/whetstorm-art/items/rift_essence.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: opaque square fantasy game inventory icon. Paint Rift Essence: a compact swirling teal-blue magical energy orb trapped within a jagged dark stone ring, with subtle stars at its center, a magical crafting material. Original hand-painted fantasy, tactile stone and luminous energy, warm upper-left light, bold centered complete silhouette on a dark painted vignette, readable at small sizes. No text, letters, frame, logo, or watermark.",
+      "status": "original material painting; reviewed",
+      "sha256": "86ee1af6b6722fef57bf159415980a1c4258e211719d572e9917c0316db4ce8f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/rift_essence.webp",
+        "sha256": "bf10fe32a2e3da5b337c6cba6e82fd48e8e7f53d942ef996d385afd850fa6438",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

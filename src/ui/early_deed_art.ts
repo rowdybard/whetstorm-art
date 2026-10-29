@@ -2,8 +2,10 @@ import { activityDeedImageUrl } from './activity_deed_art';
 import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
 import { explorationDeedImageUrl } from './exploration_deed_art';
 import { journeyDeedImageUrl } from './journey_deed_art';
+import { milestoneDeedImageUrl } from './milestone_deed_art';
 import { peaksDiscoveryDeedImageUrl } from './peaks_discovery_deed_art';
 import { placeDeedImageUrl } from './place_deed_art';
+import { tradeMasteryDeedImageUrl } from './trade_mastery_deed_art';
 
 // Original paintings for early deeds, shared by game and guide.
 const EARLY_DEED_ART = new Map<string, string>([
@@ -24,6 +26,8 @@ const EARLY_DEED_ART = new Map<string, string>([
 export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
+    milestoneDeedImageUrl(id) ??
+    tradeMasteryDeedImageUrl(id) ??
     explorationDeedImageUrl(id) ??
     chronicleGatheringDeedImageUrl(id) ??
     journeyDeedImageUrl(id) ??

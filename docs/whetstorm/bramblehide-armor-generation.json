@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "bramblehide_crown",
+      "file": "docs/design/whetstorm-art/items/bramblehide_crown.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Roots' Bramblehide Crown: an empty hood of rugged dark russet stitched leather with reinforced brow and subtle interwoven thorny brown root edging. No face, mannequin or body. Deep navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image is style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Bramblehide armor painting; reviewed",
+      "sha256": "3ed19814b38792aefa4277c941a8838f7a7f0bd9ac2a99e8d3bdd89c4375d120",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bramblehide_crown.webp",
+        "sha256": "9462e3c13f9b8ed7599652ae50060d8a63ccf8bc707f4eb23688a24eda3e1973",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bramblehide_mantle",
+      "file": "docs/design/whetstorm-art/items/bramblehide_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Roots' Bramblehide Mantle: a compact symmetrical pair of rugged dark russet stitched leather shoulder guards, layered hide plates with subtle interwoven thorny brown root edging. No wearer or mannequin. Deep navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image is style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Bramblehide armor painting; reviewed",
+      "sha256": "cf63f9554d7dcd23df653ecfc6c578937732db55d68e77ef65800335366c581e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bramblehide_mantle.webp",
+        "sha256": "991c209a25f670e06791367744be6a8ebc02d15f9637b23c09dd67c00afd7258",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bramblehide_grips",
+      "file": "docs/design/whetstorm-art/items/bramblehide_grips.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Roots' Bramblehide Grips: a compact natural pair of empty rugged dark russet stitched leather gloves with reinforced knuckles and subtle interwoven thorny brown root edging around the cuffs. No wearer. Deep navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image is style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Bramblehide armor painting; reviewed",
+      "sha256": "c20cb6e095d2da0996383411cdf151ad391b99d0616b4e49cf2752dd4af2cf5e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bramblehide_grips.webp",
+        "sha256": "a98ac34a78a3a76c60e93a4a1cb5784f0ecb4411b103578781ba7843614ecb3f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bramblehide_treads",
+      "file": "docs/design/whetstorm-art/items/bramblehide_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Roots' Bramblehide Treads: a compact natural pair of empty rugged dark russet stitched leather boots with reinforced toes and subtle interwoven thorny brown root edging around the cuffs. No wearer. Deep navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image is style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Bramblehide armor painting; reviewed",
+      "sha256": "ede6a39b4f035f21d5c0498a53a5b83f4a212b245bb155f33c139e0f59123b20",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bramblehide_treads.webp",
+        "sha256": "c542adc379d57b89c58a05b846335664995068b3fc3a49dc827dcf4672e96955",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

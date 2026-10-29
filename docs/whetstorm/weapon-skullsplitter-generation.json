@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "skullsplitter_dirk",
+      "file": "docs/design/whetstorm-art/items/skullsplitter_dirk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original dark fantasy game inventory painting, square opaque navy painted background. One complete Skullsplitter Dirk: rugged short dagger with a wide tapered triangular steel blade, chipped edge, dark bone grip, asymmetrical hooked iron guard, small brass pommel. Diagonal full silhouette with padding, readable at 22 pixels. Warm top-left light, tactile hand-painted metal, controlled brushwork. No text, frame, hands, person, watermark, or existing game designs.",
+      "status": "original weapon painting; reviewed at 128 and 22 pixels",
+      "sha256": "04bbfb93c1904a0af6b2cd686ca8ed54cdb873bf04c50d382ea9b5b2a4e860f7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/skullsplitter_dirk.webp",
+        "sha256": "efe7a6a9ebfebe86cd1331c642e23abebcbd603a4d642f69c226e9dcb80813be",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-d0cfeab8-7dd6-4c46-8b87-3dba3291268b.png"
+    }
+  ]
+}

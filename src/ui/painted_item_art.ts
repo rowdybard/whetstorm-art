@@ -21,6 +21,7 @@ import { armorBatchTwentytwoItemImageUrl } from './armor_batch_twentytwo_item_ar
 import { armorBatchTwoItemImageUrl } from './armor_batch_two_item_art';
 import { bagsFishItemImageUrl } from './bags_fish_item_art';
 import { barksongItemImageUrl } from './barksong_item_art';
+import { bramblehideArmorItemImageUrl } from './bramblehide_armor_item_art';
 import { churchClothOriginalItemImageUrl } from './church_cloth_original_item_art';
 import { clothBatchFiveItemImageUrl } from './cloth_batch_five_item_art';
 import { clothBatchFourItemImageUrl } from './cloth_batch_four_item_art';
@@ -65,6 +66,8 @@ import { foodHighwatchSuppliesItemImageUrl } from './food_highwatch_supplies_ite
 import { foodLaterFishHarvestItemImageUrl } from './food_later_fish_harvest_item_art';
 import { foodOriginalBatchItemImageUrl } from './food_original_batch_item_art';
 import { foodZoneTwoItemImageUrl } from './food_zone_two_item_art';
+import { galecallArmorItemImageUrl } from './galecall_armor_item_art';
+import { gravewyrmWeaponItemImageUrl } from './gravewyrm_weapon_item_art';
 import { herbPlantNextItemImageUrl } from './herb_plant_next_item_art';
 import { heroicLeatherOriginalItemImageUrl } from './heroic_leather_original_item_art';
 import { heroicMailOriginalItemImageUrl } from './heroic_mail_original_item_art';
@@ -102,6 +105,7 @@ import { marshBatchSeventeenItemImageUrl } from './marsh_batch_seventeen_item_ar
 import { materialAdvanceItemImageUrl } from './material_advance_item_art';
 import { materialChimeClothItemImageUrl } from './material_chime_cloth_item_art';
 import { materialComponentBatchItemImageUrl } from './material_component_batch_item_art';
+import { materialEssenceBatchItemImageUrl } from './material_essence_batch_item_art';
 import { materialHarvestNextItemImageUrl } from './material_harvest_next_item_art';
 import { materialHerbHideBatchItemImageUrl } from './material_herb_hide_batch_item_art';
 import { materialHighpineNextItemImageUrl } from './material_highpine_next_item_art';
@@ -116,6 +120,7 @@ import { questBatchCluesCryptItemImageUrl } from './quest_batch_clues_crypt_item
 import { questBatchHighwatchItemImageUrl } from './quest_batch_highwatch_item_art';
 import { questBatchSixteenItemImageUrl } from './quest_batch_sixteen_item_art';
 import { questBatchWaterwaysItemImageUrl } from './quest_batch_waterways_item_art';
+import { questDropsScalesItemImageUrl } from './quest_drops_scales_item_art';
 import { questHighwatchSecondItemImageUrl } from './quest_highwatch_second_item_art';
 import { questRelicsItemImageUrl } from './quest_relics_item_art';
 import { questShoreOriginalItemImageUrl } from './quest_shore_original_item_art';
@@ -128,6 +133,7 @@ import { regionalClothRewardsItemImageUrl } from './regional_cloth_rewards_item_
 import { resonantMaterialItemImageUrl } from './resonant_material_item_art';
 import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
 import { shadowpulseItemImageUrl } from './shadowpulse_item_art';
+import { skullsplitterItemImageUrl } from './skullsplitter_item_art';
 import { starterItemImageUrl } from './starter_item_art';
 import { templeQuestWeaponsItemImageUrl } from './temple_quest_weapons_item_art';
 import { thornpeakTrophyMaterialItemImageUrl } from './thornpeak_trophy_material_item_art';
@@ -157,6 +163,12 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    materialEssenceBatchItemImageUrl(id) ??
+    galecallArmorItemImageUrl(id) ??
+    bramblehideArmorItemImageUrl(id) ??
+    gravewyrmWeaponItemImageUrl(id) ??
+    questDropsScalesItemImageUrl(id) ??
+    skullsplitterItemImageUrl(id) ??
     farmProduceFineItemImageUrl(id) ??
     hoardJewelryItemImageUrl(id) ??
     vaelLeatherOriginalItemImageUrl(id) ??

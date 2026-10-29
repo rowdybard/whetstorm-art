@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "resurrection_sickness",
+      "runtimeIds": [
+        "resurrection_sickness"
+      ],
+      "file": "docs/design/whetstorm-art/auras/resurrection_sickness.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game status icon readable at 32 pixels. Original resurrection sickness: a pale cracked silver heart above a faint curling violet spirit wisp, weakened and recovering. Bold silhouette, dark slate background, restrained violet and silver, hand-painted fantasy, soft upper-left lighting. Edge-to-edge painting, no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "e4cfb3f938b441bfc426162f9a6f36bcccd0d116d3e5da7a41e087f7b535391d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/resurrection_sickness.webp",
+        "sha256": "2a5697b8f15513c73602016de2bae49fcf9e060fe710e01d433de3dec7950848",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/resurrection_sickness.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "sated",
+      "runtimeIds": [
+        "sated"
+      ],
+      "file": "docs/design/whetstorm-art/auras/sated.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game status icon readable at 32 pixels. Original sated status: a full amber goblet with a small closed bronze clasp, subtle warm glow indicating recovery time. Bold silhouette, dark slate background, warm amber and bronze, hand-painted fantasy, soft upper-left lighting. Edge-to-edge painting, no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "e589ec54d733eeda219cb26d7d64a77d0316b828f71c63ce76a2b612169d2f25",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/sated.webp",
+        "sha256": "e27d0bc3f55f704740fe44107de1768cdb8c27dfc817fb1d0aff51e4de79b7a1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/sated.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "unstuck_sickness",
+      "runtimeIds": [
+        "unstuck_sickness"
+      ],
+      "file": "docs/design/whetstorm-art/auras/unstuck_sickness.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game status icon readable at 32 pixels. Original unstuck sickness: a worn leather boot emerging from a broken stone ring, with a faint exhausted blue wisp, suggesting recovery after escape. Bold silhouette, dark slate background, muted blue and brown, hand-painted fantasy, soft upper-left lighting. Edge-to-edge painting, no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "589e6548c815bae5f589de0374e01b8083404865199885616891cd7c72b5161e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/unstuck_sickness.webp",
+        "sha256": "5e83f6ec035157d3c8ca92bb6193ebc8fc0d914e932ee33533bb22a32dcf6e1e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/unstuck_sickness.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

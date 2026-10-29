@@ -1,3 +1,4 @@
+import { whetstormClassAuraImageUrl } from './whetstorm_class_aura_art';
 import { whetstormMobAuraAfflictionsImageUrl } from './whetstorm_mob_aura_afflictions_art';
 import { whetstormMobAuraBatchImageUrl } from './whetstorm_mob_aura_batch_art';
 import { whetstormMobAuraControlImageUrl } from './whetstorm_mob_aura_control_art';
@@ -9,6 +10,7 @@ import { whetstormMobAuraEncounterImageUrl } from './whetstorm_mob_aura_encounte
 import { whetstormMobAuraImpairmentsImageUrl } from './whetstorm_mob_aura_impairments_art';
 import { whetstormMobAuraMagicImageUrl } from './whetstorm_mob_aura_magic_art';
 import { whetstormMobAuraStatusImageUrl } from './whetstorm_mob_aura_status_art';
+import { whetstormRecoveryAuraImageUrl } from './whetstorm_recovery_aura_art';
 
 // Original Whetstorm aura paintings, keyed by exact runtime identity.
 const WHETSTORM_AURA_ART: ReadonlyMap<string, string> = new Map([
@@ -72,6 +74,8 @@ const WHETSTORM_AURA_ART: ReadonlyMap<string, string> = new Map([
 export function whetstormAuraImageUrl(id: string): string | null {
   return (
     WHETSTORM_AURA_ART.get(id) ??
+    whetstormRecoveryAuraImageUrl(id) ??
+    whetstormClassAuraImageUrl(id) ??
     whetstormMobAuraBatchImageUrl(id) ??
     whetstormMobAuraDebuffsImageUrl(id) ??
     whetstormMobAuraStatusImageUrl(id) ??

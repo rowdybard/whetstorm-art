@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "icicles",
+      "runtimeIds": [
+        "icicles"
+      ],
+      "file": "docs/design/whetstorm-art/auras/icicles.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Create an original frost mage icicles status: three sharply defined translucent blue ice shards suspended vertically in a fan, cold white glints. Bold simple silhouette, deep navy background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "7e7825fae3f80c526a2bd6bd7e4bb1cdc24920183da54b8c7d07860505cb9036",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/icicles.webp",
+        "sha256": "17f5ac9b48c7121f5de7645b0949b033791ba3c43f2e4a87eea6765409fc5a43",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/icicles.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "winters_chill",
+      "runtimeIds": [
+        "winters_chill"
+      ],
+      "file": "docs/design/whetstorm-art/auras/winters_chill.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Create an original winter chill debuff: a single dark iron mask with a blue frost crystal spreading across its cheek, wisps of cold mist. Bold simple silhouette, deep navy background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "93618a1aacd7ccf88d6bd4dc4251ac1e7ff2d1814c2970f7a979eb83d4f22e9e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/winters_chill.webp",
+        "sha256": "e830d178e9466d25f908966402dea36315d66882b050537249a0ab29ecbfcfa8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/winters_chill.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "affliction_doom",
+      "runtimeIds": [
+        "affliction_doom"
+      ],
+      "file": "docs/design/whetstorm-art/auras/affliction_doom.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Create an original shadow condemnation resource status: a dark iron hourglass with luminous violet sand collecting in its lower chamber and a single small purple flame. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "00b6f0102bfea7e7ea026d16417f0da6793c58cd7b6165466172e70bfeb32e75",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/affliction_doom.webp",
+        "sha256": "f35d3a0a71f8daa01c085f35f682ff2da5a80366cadb4cb26da9f8ae3bb5a181",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/affliction_doom.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "soul_fragments",
+      "runtimeIds": [
+        "soul_fragments"
+      ],
+      "file": "docs/design/whetstorm-art/auras/soul_fragments.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Create an original soul fragment resource status: three turquoise glowing faceted shards orbiting a small dark center, faint ghostly teal vapor. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "ef0576e1f61bfc25a93e1e692e273e7e201907ebf03572ad5ba2077c977ed7c3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/soul_fragments.webp",
+        "sha256": "acdf9b18c50da8bd64cdc2ca5d8f9d97bbe12d7373110a5bb88a5fae6a757f11",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/soul_fragments.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

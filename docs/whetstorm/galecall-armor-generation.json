@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "stormcallers_crown",
+      "file": "docs/design/whetstorm-art/items/stormcallers_crown.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Galecall Crown: an empty mail helmet, front-facing, steel chain coif under a distinct open-faced slate-blue steel crown with small swept wing-shaped metal flanges and muted brass trim. No face, mannequin or body. Dark navy painted vignette, top-left warm light, painterly tactile metal, clear silhouette with safe margin. Reference image is style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Galecall armor painting; reviewed",
+      "sha256": "7a296281a797a74afe99c9a9489e5562b6856b8c9d97bfa61bc3bf11c7bd7817",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormcallers_crown.webp",
+        "sha256": "8bc5311cb277ef794c733707651e12bf781ccb1c272e908a9c56fe027eb661a5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "stormcallers_spaulders",
+      "file": "docs/design/whetstorm-art/items/stormcallers_spaulders.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Galecall Spaulders: a compact symmetric pair of empty slate-blue steel shoulder guards over visible steel chain mail, each with swept wing-shaped flanges and muted brass trim. No body or mannequin. Dark navy painted vignette, top-left warm light, painterly tactile metal, complete silhouette with safe margin. Reference image is style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Galecall armor painting; reviewed",
+      "sha256": "bbb7e005d7c3c9f18b8bf3aa7f9d7803b9198930029b9b6c4cc72b5d050ee1e9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormcallers_spaulders.webp",
+        "sha256": "7c446a7cfc863522e62938e387aaec40348fd588e90792e85498320f35bd8a25",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "stormcallers_handguards",
+      "file": "docs/design/whetstorm-art/items/stormcallers_handguards.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Galecall Handguards: a compact natural pair of empty steel chain mail gloves with slate-blue steel backplates, swept wing-shaped flanges at the cuffs and muted brass trim. No wearer. Dark navy painted vignette, top-left warm light, painterly tactile metal, complete silhouette with safe margin. Reference image is style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Galecall armor painting; reviewed",
+      "sha256": "f33faf7f56d4cbbcc056c4bf10bc6d45be57078de4a4f7717c147979f2dc3f84",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormcallers_handguards.webp",
+        "sha256": "5db8a6e822db0f47bb9b6fbc09268411ba0533dfc62f3c069e10cc06dd828cda",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "stormcallers_waistguard",
+      "file": "docs/design/whetstorm-art/items/stormcallers_waistguard.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Galecall Waistguard: one broad curved steel chain mail belt with slate-blue steel plates, a plain central clasp, small swept wing-shaped flanges and muted brass trim. No wearer. Dark navy painted vignette, top-left warm light, painterly tactile metal, complete silhouette with safe margin. Reference image is style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Galecall armor painting; reviewed",
+      "sha256": "8ea31eaa4da0f41a0c451e6f181118f68be1b1a29fc52f4750c3de62ff5b524b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormcallers_waistguard.webp",
+        "sha256": "cb8c03c3449ed8e0bc2b41c44a1b016c3fd071acf3f25053d9e9395c037e4998",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

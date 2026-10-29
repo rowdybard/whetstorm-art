@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "prog_mining_100",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a sturdy iron pick striking a rich copper ore seam in a dark rocky mine, warm sparks catching the facets. Centered in a circular brass frame, dark warm background, bold simple silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_mining_100.png",
+      "masterSha256": "e989fcfc93099c675b3d5703d6e7d2ce837dbd2d428c8c0cd9fb2ae482c4a936",
+      "shipping": "public/ui/whetstorm/deeds/prog_mining_100.webp",
+      "shippingSha256": "e7516e16d9cf8ad646c4c814178e303b1ac901b20565f9c92071bb3e3551dd05",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_logging_100",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a woodsman's axe resting diagonally against a freshly cut red-brown log with visible growth rings, in a forest clearing. Centered in a circular brass frame, dark warm background, bold simple silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_logging_100.png",
+      "masterSha256": "4216d931a02c5f0531a1a9334ea1b491eadaf77fbf280ca14e6b54c5832c54ae",
+      "shipping": "public/ui/whetstorm/deeds/prog_logging_100.webp",
+      "shippingSha256": "b36b446d71d447831fa4f2594787ef3f3141c7f0c9cd3efcb35d2eb43d12ad94",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_herbalism_100",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a tied bundle of green medicinal herbs and small violet flowers with a crescent harvesting sickle in a sunlit meadow. Centered in a circular brass frame, dark warm background, bold simple silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_herbalism_100.png",
+      "masterSha256": "1367dbf336f82c2f58580fff128214037843c5651d9ca52fd246fcc4d006d227",
+      "shipping": "public/ui/whetstorm/deeds/prog_herbalism_100.webp",
+      "shippingSha256": "bc44608b6bce82bcb2d1be32ff21edd7cea7fbd5a5f513d05238c4c1dd22e371",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

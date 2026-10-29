@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "wyrmfang_greatblade",
+      "file": "docs/design/whetstorm-art/items/wyrmfang_greatblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original dark fantasy game inventory painting, square opaque deep navy painted background. One Wyrmfang Greatblade, an epic complete two-handed steel greatsword, long broad blade with subtle tooth-shaped notches near the guard, dark leather grip, weathered bone accents, restrained bronze fittings. Full diagonal silhouette with generous padding. Top-left warm light, tactile hand-painted metal, crisp readable at 22 pixels. No person, hands, text, frame, watermark or copied game design.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "c4997234bc060861e47f499e43af99bfdfa1b0ef547b3030734c10b96ad39999",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmfang_greatblade.webp",
+        "sha256": "609687245fda725b3196aeb79c84e522690fbd3f8e6d9cdf55521dfbc4e8d80a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-71ca1d47-039c-49e2-af67-7cd6cb75c645.png"
+    },
+    {
+      "itemId": "staff_of_the_gravewyrm",
+      "file": "docs/design/whetstorm-art/items/staff_of_the_gravewyrm.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original dark fantasy game inventory painting, square opaque deep navy painted background. One Staff of the Gravewyrm, a complete long dark wood staff with a carved ivory wyrm skull head cradling a small muted blue magical stone, bronze bindings and a plain narrow base. Full diagonal silhouette with generous padding. Top-left warm light, tactile hand-painted wood and bone, crisp readable at 22 pixels. No person, hands, text, frame, watermark or copied game design.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "0f74e3a0e1b65479c554f5325568de06cea7f904596126b5b9edb0a639309404",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/staff_of_the_gravewyrm.webp",
+        "sha256": "2811271eb6a3576dbbcfcf66efebd422ad9595b87ffb66c5b573f5a74d4470b9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-2700890d-55e4-4aff-8d74-572f9d160e85.png"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "ps_lustrous_pearl",
+      "file": "docs/design/whetstorm-art/items/ps_lustrous_pearl.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one luminous lustrous pearl, round silvery ivory with subtle iridescence, resting alone on a small dark blue cloth. Square image painted edge to edge, centered bold silhouette, hand-painted stylized fantasy, warm upper left light, dark muted background, legible at 32 pixels. No text, border, watermark, logos, or imitation of another game.",
+      "sha256": "19e49a88c2503a061af9a8ea1973d87190a34f8d507635fdc78ad99e03e0b9bd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ps_lustrous_pearl.webp",
+        "sha256": "cea68974c8f0f31c7411e2a558b68efb0b94cff827fe5fe4964e3f9f97906c55",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "palecoil_heartscale",
+      "file": "docs/design/whetstorm-art/items/palecoil_heartscale.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a single large pale serpentine heartscale, pearlescent ivory with soft turquoise edge and a heart-shaped silhouette, resting on dark stone. Square painted edge to edge, centered bold silhouette, stylized fantasy hand painting, upper left light, dark muted background, legible at 32 pixels. No text, border, watermark, logos, or imitation of another game.",
+      "sha256": "791d9c3c00cbb31025ed04e4dc854c263d507c82ba4854c53ee8b33f022e9d38",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/palecoil_heartscale.webp",
+        "sha256": "3f143025e34e17292c29b08742d0ab9f409ea60cd39426ec0ca9e5266030a094",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "emberwing_scale",
+      "file": "docs/design/whetstorm-art/items/emberwing_scale.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one broad emberwing dragon scale, deep red-orange with a golden ember glow at its center and charred edges, resting on dark stone. Square painted edge to edge, centered bold silhouette, stylized fantasy hand painting, upper left light, dark muted background, legible at 32 pixels. No text, border, watermark, logos, or imitation of another game.",
+      "sha256": "65ace2e64d39b294fbe93f0008410bb08696b9ab63a3260fb73ad5a716fbcd50",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberwing_scale.webp",
+        "sha256": "d8affac9a2a9cc9d961b918ba4d82c52bafed40bf2982610a49cf808726750a8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

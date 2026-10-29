@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "prog_the_long_middle",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a winding stone road crossing rolling green hills toward distant mountains, a milestone on the path. Centered in a circular brass frame, dark warm background, clear simple silhouette at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_the_long_middle.png",
+      "masterSha256": "078376822c3e900309c0808183f670143dfbac4f7fba8767731e177e2324f9c0",
+      "shipping": "public/ui/whetstorm/deeds/prog_the_long_middle.webp",
+      "shippingSha256": "e63bc313cf66685c5e376eb0c28f8e138593b071dc387bee30d03212dbdffab1",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_level_cap",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a lone pennant planted on a sunlit mountain summit above clouds, viewed from slightly below. Centered in a circular brass frame, dark warm background, clear simple silhouette at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_level_cap.png",
+      "masterSha256": "b9158ae59d9f02a8c52797b05555fe7905b396e40f97f2c6ddcb0bcc2ba58a69",
+      "shipping": "public/ui/whetstorm/deeds/prog_level_cap.webp",
+      "shippingSha256": "c7453d38503774ce5412f646ca13239aee682fe6dc3b2a9dc302c55be962eeab",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_deep_roots",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a luminous emerald tree with a strong trunk and visibly deep branching roots, representing mastery of a talent. Centered in a circular brass frame, dark warm background, clear simple silhouette at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_deep_roots.png",
+      "masterSha256": "9b01dc42457cd7fe19b03be2cf467cb145a95ec58330c36c278301563f41a924",
+      "shipping": "public/ui/whetstorm/deeds/prog_deep_roots.webp",
+      "shippingSha256": "02cb67c81cd2ba3863c15318da73c99f01bd8aaaea4273b7c8edc093ef32c27c",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}
