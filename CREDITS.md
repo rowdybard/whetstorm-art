@@ -842,3 +842,6 @@ identities deliberately share artwork within the recorded families.
 
 The original Fenbloom Breeches item painting is recorded in
 `docs/whetstorm/fenbloom-breeches-generation.json`.
+
+The original Barksong Handguards item painting is recorded in
+`docs/whetstorm/barksong-handguards-generation.json`.

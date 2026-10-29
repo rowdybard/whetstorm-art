@@ -1,0 +1,21 @@
+{
+  "assets": [
+    {
+      "itemId": "barksong_handguards",
+      "file": "docs/design/whetstorm-art/items/barksong_handguards.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original square fantasy MMORPG inventory icon painting for Barksong Handguards, epic leather gloves with a forest magic theme. Show exactly one matching pair of complete worn brown leather gloves, open cuffs and fingers visible, decorated with subtle bark-textured panels and green leaf stitching; no person, no other equipment. Centered on a dark slate-blue painted background. Bold clean silhouette readable at 32 pixels, warm upper-left light, painterly original fantasy style, simple strong shapes. No border, text, letters, logos or watermark; do not imitate existing games or artists.",
+      "sha256": "d70591395cd2c60842f7c2c948cf9eb70eb60607da9191753c4bfd81107ed194",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/barksong_handguards.webp",
+        "sha256": "9c161da8146715777d63a52533f4e77e14380473c858e2f6e2a6e2953a71d184",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    }
+  ]
+}

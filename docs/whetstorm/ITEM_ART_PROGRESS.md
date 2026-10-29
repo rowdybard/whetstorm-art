@@ -1,5 +1,12 @@
 # Item painting checkpoint
 
+Barksong follow-up: one original leather glove painting brings this effort to
+530 individual item paintings. Of 1,626 catalog IDs, 547 have individual
+paintings and 1,079 do not; the remainder includes retired entries and
+variants. Prompt and hashes are in `barksong-handguards-generation.json`.
+Size review and focused routing tests passed; browser, full gate and
+shipping-tree clearance remain open.
+
 Fenbloom follow-up: one original leather leg painting brings this effort to
 529 individual item paintings. Of 1,626 catalog IDs, 546 now have individual
 paintings and 1,080 do not; the raw remainder includes retired entries and
