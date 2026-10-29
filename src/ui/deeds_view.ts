@@ -24,6 +24,7 @@ import { wearableDevBadgeTitles } from '../sim/dev_badge_titles';
 import type { DeedDef, DeedStats, DeedTrigger } from '../sim/types';
 import type { DeedsRarity } from '../world_api';
 import { DEED_IMAGE_IDS } from './deed_image_ids';
+import { earlyDeedImageUrl } from './early_deed_art';
 
 /** Watchlist cap: at most this many deeds pinned to the HUD tracker. */
 export const DEED_WATCH_CAP = 5;
@@ -114,7 +115,7 @@ const DEED_CREST_ID_PREFIX = 'deed_';
 export const DEED_CATEGORY_CREST_PREFIX = 'deed_cat_';
 
 export function deedCrestId(id: string, category: string): string {
-  return DEED_IMAGE_IDS.has(id) || DEED_BESPOKE_CRESTS.has(id)
+  return earlyDeedImageUrl(id) !== null || DEED_IMAGE_IDS.has(id) || DEED_BESPOKE_CRESTS.has(id)
     ? `${DEED_CREST_ID_PREFIX}${id}`
     : `${DEED_CATEGORY_CREST_PREFIX}${deedDisplayCategory(category)}`;
 }
@@ -133,7 +134,8 @@ export function deedCrestId(id: string, category: string): string {
 export function deedCrestHasPaintedArt(crestId: string): boolean {
   return (
     crestId.startsWith(DEED_CREST_ID_PREFIX) &&
-    DEED_IMAGE_IDS.has(crestId.slice(DEED_CREST_ID_PREFIX.length))
+    (earlyDeedImageUrl(crestId.slice(DEED_CREST_ID_PREFIX.length)) !== null ||
+      DEED_IMAGE_IDS.has(crestId.slice(DEED_CREST_ID_PREFIX.length)))
   );
 }
 

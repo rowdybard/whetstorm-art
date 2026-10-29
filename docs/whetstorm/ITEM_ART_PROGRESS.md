@@ -1,5 +1,16 @@
 # Item painting checkpoint
 
+Team third follow-up: ten item paintings cover three heroic leather pieces,
+four crafting components and three Drogmar quest weapons. This effort has
+created 572 individual item paintings; 589 of 1,626 catalog IDs have individual
+paintings and 1,037 do not, including retired entries and variants. Four journey
+deeds and four mob aura paintings were also added. Their generation records are
+`heroic-leather-original`, `profession-intermediate-second`,
+`drogmar-quest-weapons`, `deed-journey` and `mob-aura-afflictions`. Size reviews
+and focused routing checks passed. The full deed-view test file is absent from
+this partial checkout; browser, full gate, locked deed states and physical
+inherited-file removal remain open.
+
 Team follow-up: ten item paintings cover three Church Order cloth pieces, four
 crafting components and three realm quest weapons. This effort has created 562
 individual item paintings; 579 of 1,626 catalog IDs have individual paintings

@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "bonechill_striders",
+      "file": "docs/design/whetstorm-art/items/bonechill_striders.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Bonechill Striders, one complete pair of rugged dark charcoal leather boots with pale bone-colored stitched reinforcements, frosty blue accents and sturdy toes. Show both complete boots with clear space around them.",
+      "status": "original leather painting; reviewed",
+      "sha256": "235e8cdd586560a2850f2b404ee5db9ce3c80746137d8f8a25ef730110ae6e28",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bonechill_striders.webp",
+        "sha256": "df55c2107667f6f44db772d5224f21d1ea2f2481f84659fd83a13bdfa23b7624",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bonechill_cord",
+      "file": "docs/design/whetstorm-art/items/bonechill_cord.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Bonechill Cord, one complete coiled charcoal leather waist belt with a pale bone-colored buckle and restrained icy blue stitching. Show the complete belt with clear space around it.",
+      "status": "original leather painting; reviewed",
+      "sha256": "d15552abbfb2b4d220d4ca262a4ae138660d7ea282d1f7ffdcecec0e23879825",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bonechill_cord.webp",
+        "sha256": "a8d6873c1abc89bd903111ccd49daf556f39220289d8f59d65b3210bdab5ea30",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sanctum_prowlers_grips",
+      "file": "docs/design/whetstorm-art/items/sanctum_prowlers_grips.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Sanctum Prowler's Grips, one complete pair of supple deep umber leather gloves with reinforced knuckles, muted bronze studs and dark red wrist wraps. Show both complete gloves with clear space around them.",
+      "status": "original leather painting; reviewed",
+      "sha256": "4ab10fc0b297953cd70f8ad29abb03cdc3c4e3cae778d55eccd048b4b587d311",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sanctum_prowlers_grips.webp",
+        "sha256": "bb27cc32b006782689e4e2dec431eb616d4d5b070d8f5877c2c7805c22542942",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

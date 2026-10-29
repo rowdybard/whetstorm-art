@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "mob_smolder",
+      "runtimeIds": [
+        "smolder_ironvein_sapper",
+        "smolder_rift_hellguard",
+        "smolder_rift_magma_brute"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_smolder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon for lingering fire damage: a glowing coal with a curling orange flame and wisps of smoke rising from its blackened surface. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "08eaba44ec79413c62f262e63ab1668ee6f3389bccfc7b57c755003200fbe124",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_smolder.webp",
+        "sha256": "4fae60896fbd0d374a44035355a9892f75701bebebcbe3c51d51caa993045dd1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_soulrot",
+      "runtimeIds": [
+        "soulrot_restless_bones",
+        "soulrot_rift_boss_necro",
+        "soulrot_rift_boss_ritualist",
+        "soulrot_rift_pact_acolyte"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_soulrot.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon for shadow damage over time: a pale spectral skull crumbling into violet shadow, a dark tendril curling through it. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "4b1b0eefb661f4ef6f0fa2e12a91681717141a1e3215dc2c6b2cb70031433a6d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_soulrot.webp",
+        "sha256": "6ed3b7095e79ab548959d41d2068a6a3cc350c7306d239b3b6503bbe6f31bcda",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_venom",
+      "runtimeIds": [
+        "venom_duskwisp",
+        "venom_old_marrowshell",
+        "venom_rift_venom_weaver",
+        "venom_webwood_spider"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_venom.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon for poison damage over time: one large green venom droplet falling from a curved ivory fang. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "34e605adb235eaafae7350cfa42134f28cc0d6eb35c1dd9cd14f5ac57a6ab292",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_venom.webp",
+        "sha256": "c08d4a7462884dfb86bac742fe5980edb1ccd03df16124e5c2a26e596c85f140",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_vulnerability",
+      "runtimeIds": [
+        "vulnerability_gravecaller_cultist"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_vulnerability.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon for increased damage taken: a battered steel breastplate with a large exposed central crack struck by red rays from several directions. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "07f7f954e3e473004bdf87c19a4a23c52a1a6998ce451c02df5da50d3af399e9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_vulnerability.webp",
+        "sha256": "bcbd1f7796d15ef72c79c021e007afef81d6c87e997c5eae03f59a6cc412a067",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+import { whetstormMobAuraAfflictionsImageUrl } from './whetstorm_mob_aura_afflictions_art';
 import { whetstormMobAuraBatchImageUrl } from './whetstorm_mob_aura_batch_art';
 import { whetstormMobAuraControlImageUrl } from './whetstorm_mob_aura_control_art';
 import { whetstormMobAuraCursesImageUrl } from './whetstorm_mob_aura_curses_art';
@@ -47,6 +48,10 @@ const WHETSTORM_AURA_ART: ReadonlyMap<string, string> = new Map([
     'mob_silence',
     'mob_siphon_spirit',
     'mob_spell_vuln',
+    'mob_smolder',
+    'mob_soulrot',
+    'mob_venom',
+    'mob_vulnerability',
   ].map((id): [string, string] => [id, `/ui/whetstorm/auras/${id}.webp`]),
   ['mortal_wound_bastion_revenant', '/ui/whetstorm/auras/mob_mortal_strike.webp'],
   ['mortal_wound_deathstalker_voss', '/ui/whetstorm/auras/mob_mortal_strike.webp'],
@@ -68,6 +73,7 @@ export function whetstormAuraImageUrl(id: string): string | null {
     whetstormMobAuraCursesImageUrl(id) ??
     whetstormMobAuraDrainsImageUrl(id) ??
     whetstormMobAuraImpairmentsImageUrl(id) ??
-    whetstormMobAuraMagicImageUrl(id)
+    whetstormMobAuraMagicImageUrl(id) ??
+    whetstormMobAuraAfflictionsImageUrl(id)
   );
 }

@@ -880,3 +880,11 @@ crests and four mob aura paintings are recorded in
 `docs/whetstorm/realm-quest-weapons-generation.json`,
 `docs/whetstorm/deed-chronicle-gathering-generation.json`, and
 `docs/whetstorm/mob-aura-magic-generation.json`.
+
+Ten original heroic leather, crafting component and quest weapon paintings,
+four journey deed crests and four mob aura paintings are recorded in
+`docs/whetstorm/heroic-leather-original-generation.json`,
+`docs/whetstorm/profession-intermediate-second-generation.json`,
+`docs/whetstorm/drogmar-quest-weapons-generation.json`,
+`docs/whetstorm/deed-journey-generation.json`, and
+`docs/whetstorm/mob-aura-afflictions-generation.json`.

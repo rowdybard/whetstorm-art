@@ -32,6 +32,7 @@ import { clothBroodItemImageUrl } from './cloth_brood_item_art';
 import { clothDelveAmberfallItemImageUrl } from './cloth_delve_amberfall_item_art';
 import { consumableBatchItemImageUrl } from './consumable_batch_item_art';
 import { craftReagentOriginalBatchItemImageUrl } from './craft_reagent_original_batch_item_art';
+import { drogmarQuestWeaponsItemImageUrl } from './drogmar_quest_weapons_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { earlyMaterialEightItemImageUrl } from './early_material_eight_item_art';
 import { earlyMaterialElevenItemImageUrl } from './early_material_eleven_item_art';
@@ -63,6 +64,7 @@ import { foodLaterFishHarvestItemImageUrl } from './food_later_fish_harvest_item
 import { foodOriginalBatchItemImageUrl } from './food_original_batch_item_art';
 import { foodZoneTwoItemImageUrl } from './food_zone_two_item_art';
 import { herbPlantNextItemImageUrl } from './herb_plant_next_item_art';
+import { heroicLeatherOriginalItemImageUrl } from './heroic_leather_original_item_art';
 import { jewelryBatchApexItemImageUrl } from './jewelry_batch_apex_item_art';
 import { jewelryBatchItemImageUrl } from './jewelry_batch_item_art';
 import { jewelryBatchLaterTierItemImageUrl } from './jewelry_batch_later_tier_item_art';
@@ -105,6 +107,7 @@ import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
 import { potionAlchemyNextItemImageUrl } from './potion_alchemy_next_item_art';
 import { potionLaterItemImageUrl } from './potion_later_item_art';
 import { professionIntermediateItemImageUrl } from './profession_intermediate_item_art';
+import { professionIntermediateSecondItemImageUrl } from './profession_intermediate_second_item_art';
 import { questBatchCluesCryptItemImageUrl } from './quest_batch_clues_crypt_item_art';
 import { questBatchHighwatchItemImageUrl } from './quest_batch_highwatch_item_art';
 import { questBatchSixteenItemImageUrl } from './quest_batch_sixteen_item_art';
@@ -148,6 +151,9 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    heroicLeatherOriginalItemImageUrl(id) ??
+    professionIntermediateSecondItemImageUrl(id) ??
+    drogmarQuestWeaponsItemImageUrl(id) ??
     churchClothOriginalItemImageUrl(id) ??
     professionIntermediateItemImageUrl(id) ??
     realmQuestWeaponsItemImageUrl(id) ??

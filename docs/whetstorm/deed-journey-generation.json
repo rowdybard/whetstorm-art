@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "exp_long_road_north",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a winding road pointing north through three distant settlement silhouettes, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_long_road_north.png",
+      "masterSha256": "8429b2abe9a9e7e9cbaef88e1922e015c197876901b5749a9100d71f85f59d9a",
+      "shipping": "public/ui/whetstorm/deeds/exp_long_road_north.webp",
+      "shippingSha256": "0700b70f3ebd92b50dba5c04402e40890b1e296c984c1b165305d9762945d199",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_world_traveler",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a brass compass rose over a small folded travel map depicting green valley, blue marsh, and pale mountains, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_world_traveler.png",
+      "masterSha256": "1856a6893fb2e08375f4594a84767621858fd085cec29a2c7464623a0827e490",
+      "shipping": "public/ui/whetstorm/deeds/exp_world_traveler.webp",
+      "shippingSha256": "b0855bca2abe1fe1d878f591096ed1069fdaf76e9fbc248e28c10c97d705794b",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_clue_first_casket",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a small open wooden treasure casket filled with golden coins, half uncovered in dark earth beside a parchment clue, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_clue_first_casket.png",
+      "masterSha256": "8ab95ea8ff067414645828a3ba75a87b8650c32b43cf70e58ecc53badd2eda4c",
+      "shipping": "public/ui/whetstorm/deeds/exp_clue_first_casket.webp",
+      "shippingSha256": "a83618e67ed7dbf9e0fd840433a0c5055b0b81b27964d3e41b2143bd29a39f51",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_harbor_to_harbor",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a small wooden ferry under sail between two stone piers across blue water, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_harbor_to_harbor.png",
+      "masterSha256": "d1e76f8334933772b425d82d6fae76901cc37c8ab89876118d8fb3e28f7dbdf2",
+      "shipping": "public/ui/whetstorm/deeds/exp_harbor_to_harbor.webp",
+      "shippingSha256": "f619e35830140198bbd0ca7795478d2bc495890673c0a20af98216cc9f141115",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "drogmars_skullcleaver",
+      "file": "docs/design/whetstorm-art/items/drogmars_skullcleaver.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Drogmar's Skullcleaver (drogmars_skullcleaver), an ogre warlord quest reward axe. One complete heavy single-headed iron battle axe, broad chipped cleaver blade, simple bone-colored skull ornament on the head, sturdy dark wood haft and worn leather grip. Strong diagonal lower left to upper right with safe padding. Deep charcoal and muted brown painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile materials, crisp silhouette, readable at 22px. No person, hands, extra objects, writing, border, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "6076058ef9fb39ffa9730d23eba6477a05d005e33d6f2dd49dfd0e53a47d8af4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drogmars_skullcleaver.webp",
+        "sha256": "5f14c07a2595a883ebfd1fd8e36d5a343f3b5591b5c48fa118b29573633888d6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ogre_bonecharm_staff",
+      "file": "docs/design/whetstorm-art/items/ogre_bonecharm_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Ogre Bonecharm Staff (ogre_bonecharm_staff), an ogre warlord quest reward. One complete rough dark wood staff with a large pale carved bone charm securely bound at its head with leather cords and an uncomplicated wrapped grip. Strong diagonal lower left to upper right with safe padding. Deep charcoal and muted brown painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile materials, crisp silhouette, readable at 22px. No person, hands, extra objects, writing, border, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "a9d92d7a3e3a274a0489756d4c62608fd3eced4b551fc9403bab5747a2e79100",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ogre_bonecharm_staff.webp",
+        "sha256": "aca36f0fb3c14428c8e0e5029e2e75409f4a9554a737256aec407681390fecde",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gutripper_shiv",
+      "file": "docs/design/whetstorm-art/items/gutripper_shiv.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Gutripper Shiv (gutripper_shiv), an ogre warlord quest reward dagger. One complete short brutal iron shiv with a broad hooked and chipped blade, a small crude guard, and tightly wrapped dark leather grip. Strong diagonal lower left to upper right with safe padding. Deep charcoal and muted brown painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile materials, crisp silhouette, readable at 22px. No person, hands, sheath, blood, extra objects, writing, border, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "8d2aa12754a47039c5660524b09721c40410159ac3944cb5599d809503b0ca10",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gutripper_shiv.webp",
+        "sha256": "dac19ac28ce6a4e6cbeecadbcb8f52346457893fdf242dd964fad73697730920",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

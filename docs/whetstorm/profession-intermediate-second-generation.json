@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "prismglass_setting",
+      "file": "docs/design/whetstorm-art/items/prismglass_setting.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Prismglass Setting: one small faceted translucent pale blue glass gem held in a simple dark silver four-pronged unfinished jewelry setting, no chain or ring band.",
+      "status": "original material painting; reviewed",
+      "sha256": "da45b84fa133389e751c182501bbe6170fb8afcd5fd63ac70d5b4804939d5b5f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/prismglass_setting.webp",
+        "sha256": "d9f092b20b057f09947bfdd0d814844161b0217cf11d5c3ecfb8f7ceb647993e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "precision_chassis",
+      "file": "docs/design/whetstorm-art/items/precision_chassis.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Precision Chassis: one compact unfinished mechanical frame of dark metal and ashwood with a few clearly visible brass gears and rivets, no complete machine.",
+      "status": "original material painting; reviewed",
+      "sha256": "1b1075cd13c28ada8bc5bc130c53b4743e91241991f4ffcf562528c8a68f664d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/precision_chassis.webp",
+        "sha256": "ce1d68e093a65437ada46df47ac218251c773558d593ccf2c4459ee174eda73f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "quickening_catalyst",
+      "file": "docs/design/whetstorm-art/items/quickening_catalyst.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Quickening Catalyst: a single stoppered glass vial containing luminous amber-green alchemical liquid, with no label and restrained glow.",
+      "status": "original material painting; reviewed",
+      "sha256": "5dcbdcbe2aa7cfdc37226c196e707c665f4a31e47f0206324c808731286e545c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/quickening_catalyst.webp",
+        "sha256": "d9e4300323368d69034ec7ecf4d7417271bbf7f7cf38431c2646da4988c40d4e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sablewax_vellum",
+      "file": "docs/design/whetstorm-art/items/sablewax_vellum.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Sablewax Vellum: one short rolled sheet of pale parchment bound with dark sealing wax, blank and unmarked, no writing or symbols.",
+      "status": "original material painting; reviewed",
+      "sha256": "6c20f842bc2f0a8d090825f84f730d58a598c9ab74e9cfd97d8d48de3f9b87a4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sablewax_vellum.webp",
+        "sha256": "0a4842565e4c8d5fa71a0d3769f296248784fed62b515e06c2d4f54a06a3b14f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
