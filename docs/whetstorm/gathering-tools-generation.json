@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "arcanite_mining_pick",
+      "file": "docs/design/whetstorm-art/items/arcanite_mining_pick.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Glyphsteel Mining Pick: a sturdy single-handed mining pick with a steel double-point head, subtle engraved geometric marks and a dark wooden handle, a practical mining tool. Original hand-painted fantasy, tactile metal and wood, warm upper-left light, centered complete diagonal silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original gathering tool painting; reviewed",
+      "sha256": "163f94640e700fdc3e00ff0c48a73035814beb57323e40d9ec0deec9ef465466",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/arcanite_mining_pick.webp",
+        "sha256": "babef8f56173d55b4920fe97905ce836a5ca2f9a219a5f241eb75691286ff964",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ashwood_axe",
+      "file": "docs/design/whetstorm-art/items/ashwood_axe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Ashwood Axe: a practical woodcutting axe with a wedge-shaped iron head and pale ash wood handle, no combat decoration. Original hand-painted fantasy, tactile metal and wood, warm upper-left light, centered complete diagonal silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original gathering tool painting; reviewed",
+      "sha256": "bbd16674eefc85c089e6385558e4594d216349f47144fe4a89e3ee0dee138f4b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ashwood_axe.webp",
+        "sha256": "6df4aba962244149a98f52f14c37d8ed335cbbd64c590f096359caf60a91bbba",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "elderwood_axe",
+      "file": "docs/design/whetstorm-art/items/elderwood_axe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Highpine Axe: a sturdy woodcutting axe with a broad dark steel head, a small pine tree etched on its face and a rich brown wooden handle, no combat decoration. Original hand-painted fantasy, tactile metal and wood, warm upper-left light, centered complete diagonal silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original gathering tool painting; reviewed",
+      "sha256": "76e83007425870a6d62c3f68ba06de5c9bc411020c6711178b49d14681ccbf46",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/elderwood_axe.webp",
+        "sha256": "1ba270c643e3eab68b11b1f9f38643fb1cb32ef58faf385224fbe4049609ee8f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sunpetal_sickle",
+      "file": "docs/design/whetstorm-art/items/sunpetal_sickle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Sunpetal Sickle: a curved golden brass harvesting sickle with a dark wood grip and subtle petal engraving, a practical herb gathering tool. Original hand-painted fantasy, tactile metal and wood, warm upper-left light, centered complete diagonal silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original gathering tool painting; reviewed",
+      "sha256": "1c667669d71a9a0ee8c717c915bb7c7e3e7bf60c0cdd34cee062589bcef30eb5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunpetal_sickle.webp",
+        "sha256": "0f74c2adca737039eaee6d7acd44c266b8e03aaabb3df6a3e77e2b31ab666912",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

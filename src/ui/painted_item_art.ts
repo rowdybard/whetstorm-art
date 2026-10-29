@@ -46,6 +46,7 @@ import { craftedGroupFeastsItemImageUrl } from './crafted_group_feasts_item_art'
 import { craftedReagentBagsItemImageUrl } from './crafted_reagent_bags_item_art';
 import { craftedScrollsItemImageUrl } from './crafted_scrolls_item_art';
 import { craghornIceveinItemImageUrl } from './craghorn_icevein_item_art';
+import { crozierSparksItemImageUrl } from './crozier_sparks_item_art';
 import { dawnForgeItemImageUrl } from './dawn_forge_item_art';
 import { dawnforgedArmorItemImageUrl } from './dawnforged_armor_item_art';
 import { deathlessStormItemImageUrl } from './deathless_storm_item_art';
@@ -93,6 +94,7 @@ import { forgeArmorSecondItemImageUrl } from './forge_armor_second_item_art';
 import { forgeHammerItemImageUrl } from './forge_hammer_item_art';
 import { forgewallArmorItemImageUrl } from './forgewall_armor_item_art';
 import { galecallArmorItemImageUrl } from './galecall_armor_item_art';
+import { gatheringToolsItemImageUrl } from './gathering_tools_item_art';
 import { gravecourtFangItemImageUrl } from './gravecourt_fang_item_art';
 import { gravewyrmWeaponItemImageUrl } from './gravewyrm_weapon_item_art';
 import { herbPlantNextItemImageUrl } from './herb_plant_next_item_art';
@@ -214,6 +216,8 @@ import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    crozierSparksItemImageUrl(id) ??
+    gatheringToolsItemImageUrl(id) ??
     utilitySuppliesItemImageUrl(id) ??
     springSpireItemImageUrl(id) ??
     factionUtilityItemImageUrl(id) ??

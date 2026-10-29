@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "dgn_hollow_crypt_heroic",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a crossed silver sword and torch in front of a crumbling crypt arch, a small violet spectral skull behind them, representing a heroic crypt victory. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_hollow_crypt_heroic.png",
+      "masterSha256": "b5733d636072b0be07752f4fc15e8c16edc8ef837a327b341ef61c2adf8a0a85",
+      "shipping": "public/ui/whetstorm/deeds/dgn_hollow_crypt_heroic.webp",
+      "shippingSha256": "55f197f0131c12a3e3c84e4631df4df6bae51d5315374c2158f2bedb5898cae4",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_sunken_bastion_heroic",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a silver shield raised before a fog-wreathed ruined tower and dark water, with a gold laurel wreath, representing a heroic bastion victory. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_sunken_bastion_heroic.png",
+      "masterSha256": "73299e12de082f5e55c7df5c77499cd30df9430df86d8175b5a57ba068c8fa43",
+      "shipping": "public/ui/whetstorm/deeds/dgn_sunken_bastion_heroic.webp",
+      "shippingSha256": "610b9845389d87b07bc56fdc12e36b7ff45a88cd55fb8db156443bc054397739",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_drowned_temple_heroic",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a golden trident crossing a luminous crescent moon above rippling teal water and submerged temple columns, representing a heroic temple victory. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_drowned_temple_heroic.png",
+      "masterSha256": "78744513af76554af36db2d2b9d9651f8eb1ad8d463052e70deffce407c349e4",
+      "shipping": "public/ui/whetstorm/deeds/dgn_drowned_temple_heroic.webp",
+      "shippingSha256": "ce3bb438ab53051063fa73e94035158f1fc9a082bade94a8f2577a80d6759cb1",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

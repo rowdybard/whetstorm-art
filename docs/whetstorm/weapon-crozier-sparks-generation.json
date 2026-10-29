@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "springtouched_crozier",
+      "file": "docs/design/whetstorm-art/items/springtouched_crozier.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Springtouched Crozier, complete one-handed healing mace with a curved bronze crook head surrounding a small green crystal, pale wooden shaft, budding leaves and simple leather grip. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "7fbc475f029bc997f0d367ec6180572f4120a1431e89b6df4722f6bd331eb416",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/springtouched_crozier.webp",
+        "sha256": "b68a299449635f9567d31d9dc5dc86dc17e5020ad00838ba9b95e37ecc7f824f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-78598554-888d-4018-8274-389259e54f61.png"
+    },
+    {
+      "itemId": "wand_of_quenched_sparks",
+      "file": "docs/design/whetstorm-art/items/wand_of_quenched_sparks.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Wand of Quenched Sparks, complete compact wand of dark metal and wood, a small blue glass crystal held in iron prongs, copper collars and tiny subdued blue sparks. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "f1d3fe54850b1664ad333c64b7da1e2cd32c582764ab59920c1678627366e717",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wand_of_quenched_sparks.webp",
+        "sha256": "df7f8314d758f43aefcb433bd8aeaba4feb11dd962ceaa296d2d0ea02c783369",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-216e9843-92e8-4553-a113-b74d67bf148f.png"
+    }
+  ]
+}
