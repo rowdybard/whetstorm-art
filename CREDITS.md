@@ -854,3 +854,6 @@ Three original regional cloth reward paintings are recorded in
 
 Three original regional footwear paintings are recorded in
 `docs/whetstorm/regional-footwear-generation.json`.
+
+Three original regional glove paintings are recorded in
+`docs/whetstorm/regional-gloves-generation.json`.

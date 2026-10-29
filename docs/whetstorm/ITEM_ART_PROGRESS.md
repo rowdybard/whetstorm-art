@@ -1,5 +1,11 @@
 # Item painting checkpoint
 
+Regional glove follow-up: three original paintings bring this effort to 542
+individual item paintings. Of 1,626 catalog IDs, 559 have individual paintings
+and 1,067 do not; the remainder includes retired entries and variants. Prompts
+and hashes are in `regional-gloves-generation.json`. Size review and focused
+routing tests passed; browser, full gate and shipping-tree clearance remain open.
+
 Regional footwear follow-up: three original paintings bring this effort to
 539 individual item paintings. Of 1,626 catalog IDs, 556 have individual
 paintings and 1,070 do not; the remainder includes retired entries and

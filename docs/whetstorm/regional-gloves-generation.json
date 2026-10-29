@@ -1,0 +1,55 @@
+{
+  "assets": [
+    {
+      "itemId": "shearkeeper_gloves",
+      "file": "docs/design/whetstorm-art/items/shearkeeper_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square fantasy MMORPG inventory icon for Shearkeeper Gloves, uncommon cloth gloves awarded in a pastoral garden region. Show one complete matching pair of simple brown woven work gloves with cream fleece cuffs and neat green stitching, no wearer or other objects. Center on dark slate-blue painted background. Hand-painted fantasy, warm upper-left light, clean silhouette at 32 pixels. No text, border, logos, watermark, or imitation of existing games or artists.",
+      "sha256": "a3b1097e5e9700f96b1cc41ff00ecdcc97294377fc1fd0f805ee836c6372396d",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/shearkeeper_gloves.webp",
+        "sha256": "aaeca15bcdfbed9edae1263720483cd7feba0fee72280469cb0af4872378f0bc",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    },
+    {
+      "itemId": "saltforged_grips",
+      "file": "docs/design/whetstorm-art/items/saltforged_grips.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square fantasy MMORPG inventory icon for Saltforged Grips, uncommon cloth gloves awarded in a coastal region. Show one complete matching pair of tough sandy-tan fabric fingerless work gloves with pale salt-white stitching and simple indigo wrist wraps, no wearer or other objects. Center on dark slate-blue painted background. Hand-painted fantasy, warm upper-left light, clean silhouette at 32 pixels. No text, border, logos, watermark, or imitation of existing games or artists.",
+      "sha256": "3500b715e0844010a86d67d80fd2a61f8ae7aed3dbcfbb6aac50a19e9866c33d",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/saltforged_grips.webp",
+        "sha256": "561af5ea353abe7dce53bfc789397a27d62df149e0167dc819868e418f37283a",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    },
+    {
+      "itemId": "gravebound_silk_wraps",
+      "file": "docs/design/whetstorm-art/items/gravebound_silk_wraps.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square fantasy MMORPG inventory icon for Gravebound Silk Wraps, uncommon cloth gloves awarded in a haunted forest. Show one complete matching pair of dark violet silk hand wraps with pale gray binding ribbons and subtle silver stitching, no wearer or other objects. Center on dark slate-blue painted background. Hand-painted fantasy, warm upper-left light, clean silhouette at 32 pixels. No text, border, logos, watermark, or imitation of existing games or artists.",
+      "sha256": "2bd6b3255cccce2affbb65f37d9f758ae30fceb528d797dc98d2fde7706c6df2",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravebound_silk_wraps.webp",
+        "sha256": "302f38580894f35fee108bcbff4a6d7e2ab10b058206e58c2ca606546c35f03d",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    }
+  ]
+}
