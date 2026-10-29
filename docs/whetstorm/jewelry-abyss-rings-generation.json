@@ -1,0 +1,52 @@
+{
+  "assets": [
+    {
+      "itemId": "abyssal_loop",
+      "file": "docs/design/whetstorm-art/items/abyssal_loop.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Abyssal Loop: a dark silver ring with twisting wave-like shoulders holding a deep blue-green pearl that seems to contain ocean depths. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "cef43da12221bf6bcb97b9adca12588602da578fc596002b2bbca874538c6c8a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/abyssal_loop.webp",
+        "sha256": "bf6454be207a4790f36837fc7d26dcf9fa7e94d6b2bab62cfd26c10f69a2956e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "abysswrought_band",
+      "file": "docs/design/whetstorm-art/items/abysswrought_band.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Abysswrought Band: a heavy blackened bronze ring with angular jagged shoulders and a luminous cyan crystal, subtle violet light in the etched fissures. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "740c5c981575dbb332241b175296fd736fcf763b794b20f88948e96c90ab9609",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/abysswrought_band.webp",
+        "sha256": "f3b1cde0c5a85d09dba0d0c46ea735ae09e3f1bf0a0000c8745358e8868267eb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

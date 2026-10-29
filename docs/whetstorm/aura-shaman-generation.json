@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "shaman_mending_current",
+      "runtimeIds": [
+        "shaman_mending_current"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_mending_current.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original mending current healing status: a clear turquoise water spiral surrounding a small glowing pearl, gentle green healing light. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "aee20c92edccf6603e24efcc5add2d436ef333198bcf3d9091761b51e756cfec",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_mending_current.webp",
+        "sha256": "4ac98fc3c07cdb2177cf6c663c76a91aa9f0e05350f40cd6c18fc3f1fdc843d1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/shaman_mending_current.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "shaman_thunder_charges",
+      "runtimeIds": [
+        "shaman_thunder_charges"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_thunder_charges.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original thunder charges resource status: three bright cyan lightning sparks orbiting a dark storm-blue stone, clear separated shapes. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "ec41cd96eb54e2cd2c6008645994cbd0c59029451ceb1160193c3ff0c8b58d58",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_thunder_charges.webp",
+        "sha256": "cb43373641c5257fee2824b9f23e6fecb08055d5829ec5f3b15768081b122240",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/shaman_thunder_charges.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "shaman_gathering_winds",
+      "runtimeIds": [
+        "shaman_gathering_winds"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_gathering_winds.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original gathering winds speed status: a pale feather swept along by a broad curling mint-green gust, conveying motion. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "d6daacfe1f21a672ed01c18abdc35280fe95b48a4b3a7b87748a27ad8c55f704",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_gathering_winds.webp",
+        "sha256": "d5362b74661da0f5147b21bd682aee38c6648d1aa2732543d016b3bee333e466",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/shaman_gathering_winds.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "shaman_ancestral_bulwark",
+      "runtimeIds": [
+        "shaman_ancestral_bulwark"
+      ],
+      "file": "docs/design/whetstorm-art/auras/shaman_ancestral_bulwark.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original ancestral bulwark defensive status: an ancient bronze shield with a glowing turquoise spiral at its center and a faint protective aura. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "43aaf7d696fb7fdd0839b4f7605180e7e4ca2132c0910c9fc7b8fc025cb209e2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/shaman_ancestral_bulwark.webp",
+        "sha256": "b99c3228d38b51c9fc223c7ab0f9c854c1caa7306e66c471b59b8acb9518c896",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/shaman_ancestral_bulwark.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

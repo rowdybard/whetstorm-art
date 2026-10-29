@@ -26,6 +26,7 @@ import { bonewroughtDirefangItemImageUrl } from './bonewrought_direfang_item_art
 import { bramblehideArmorItemImageUrl } from './bramblehide_armor_item_art';
 import { bramblehideArmorSecondItemImageUrl } from './bramblehide_armor_second_item_art';
 import { churchClothOriginalItemImageUrl } from './church_cloth_original_item_art';
+import { cleaverWildsoulItemImageUrl } from './cleaver_wildsoul_item_art';
 import { clothBatchFiveItemImageUrl } from './cloth_batch_five_item_art';
 import { clothBatchFourItemImageUrl } from './cloth_batch_four_item_art';
 import { clothBatchOneItemImageUrl } from './cloth_batch_one_item_art';
@@ -38,6 +39,7 @@ import { consumableBatchItemImageUrl } from './consumable_batch_item_art';
 import { courtierWardItemImageUrl } from './courtier_ward_item_art';
 import { craftReagentOriginalBatchItemImageUrl } from './craft_reagent_original_batch_item_art';
 import { craghornIceveinItemImageUrl } from './craghorn_icevein_item_art';
+import { dawnForgeItemImageUrl } from './dawn_forge_item_art';
 import { direfangArmorItemImageUrl } from './direfang_armor_item_art';
 import { drogmarQuestWeaponsItemImageUrl } from './drogmar_quest_weapons_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
@@ -62,6 +64,7 @@ import { farmProduceFineItemImageUrl } from './farm_produce_fine_item_art';
 import { farmProduceOriginalItemImageUrl } from './farm_produce_original_item_art';
 import { farmingThornpeakItemImageUrl } from './farming_thornpeak_item_art';
 import { fenbloomItemImageUrl } from './fenbloom_item_art';
+import { fishingRawCatchItemImageUrl } from './fishing_raw_catch_item_art';
 import { foodConjuredLaterItemImageUrl } from './food_conjured_later_item_art';
 import { foodCookingLaterItemImageUrl } from './food_cooking_later_item_art';
 import { foodEarlySecondItemImageUrl } from './food_early_second_item_art';
@@ -82,6 +85,7 @@ import { heroicLeatherOriginalItemImageUrl } from './heroic_leather_original_ite
 import { heroicMailOriginalItemImageUrl } from './heroic_mail_original_item_art';
 import { highwatchWeaponItemImageUrl } from './highwatch_weapon_item_art';
 import { hoardJewelryItemImageUrl } from './hoard_jewelry_item_art';
+import { jewelryAbyssRingsItemImageUrl } from './jewelry_abyss_rings_item_art';
 import { jewelryBatchApexItemImageUrl } from './jewelry_batch_apex_item_art';
 import { jewelryBatchItemImageUrl } from './jewelry_batch_item_art';
 import { jewelryBatchLaterTierItemImageUrl } from './jewelry_batch_later_tier_item_art';
@@ -128,6 +132,7 @@ import { materialHerbHideBatchItemImageUrl } from './material_herb_hide_batch_it
 import { materialHighpineNextItemImageUrl } from './material_highpine_next_item_art';
 import { materialOrewoodBatchItemImageUrl } from './material_orewood_batch_item_art';
 import { materialProvisioningItemImageUrl } from './material_provisioning_item_art';
+import { mistLunarItemImageUrl } from './mist_lunar_item_art';
 import { mournweaveArmorItemImageUrl } from './mournweave_armor_item_art';
 import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
 import { potionAlchemyNextItemImageUrl } from './potion_alchemy_next_item_art';
@@ -191,6 +196,11 @@ import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    cleaverWildsoulItemImageUrl(id) ??
+    fishingRawCatchItemImageUrl(id) ??
+    jewelryAbyssRingsItemImageUrl(id) ??
+    mistLunarItemImageUrl(id) ??
+    dawnForgeItemImageUrl(id) ??
     forgeArmorSecondItemImageUrl(id) ??
     gravecourtFangItemImageUrl(id) ??
     jewelryHonorRingsItemImageUrl(id) ??

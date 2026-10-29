@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "mistcallers_fang",
+      "file": "docs/design/whetstorm-art/items/mistcallers_fang.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Mistcaller's Fang, complete epic dagger with a curved narrow silver-steel blade, soft translucent sea-green mist caught near its hilt, dark patinated bronze guard and blue leather grip. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "e2cd6dc2fdac2421ae16b43d5d6bb69972193d294ba0193b2bf5eeaad2154485",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mistcallers_fang.webp",
+        "sha256": "3d1f8a3c47f1d0b78a44cfd74d4f130288f8b5e4c1638c8fe46769c1b62aeb78",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-4c097f5b-3a57-439e-8a42-2d1bc6ccceed.png"
+    },
+    {
+      "itemId": "lunar_tide_greatstaff",
+      "file": "docs/design/whetstorm-art/items/lunar_tide_greatstaff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Lunar Tide Greatstaff, complete long two-handed staff of dark driftwood with silver crescent crown holding a small luminous blue moonstone, restrained shell-like ornament and blue cloth bindings. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "5b61d13277c12c68de7451fc58577a7b8bc4505cd95f1e65e34438f53fc511d2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/lunar_tide_greatstaff.webp",
+        "sha256": "1b30915e3c2c9f50b0d1b4076a534f7507bc8789c5df4e3c3cf5acd1ca7f50b5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-b73ba29e-cf72-4132-a49c-e01e18fa4075.png"
+    }
+  ]
+}

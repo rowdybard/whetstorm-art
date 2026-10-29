@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "raw_bog_eel",
+      "file": "docs/design/whetstorm-art/items/raw_bog_eel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one whole raw bog eel with olive brown smooth skin, curled into a simple C shape, on a dark marsh green painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No plate, hook, water, border, text, logo, watermark, or imitation of another game.",
+      "sha256": "05a89197fa6ded298943ea5b085fbb822930b421bac88f5490a0de2c9389efbb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/raw_bog_eel.webp",
+        "sha256": "84f764210a514ca86f5813be2a85c68b437bf30b0f3e000a517964c3f4049320",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "raw_frostgill_trout",
+      "file": "docs/design/whetstorm-art/items/raw_frostgill_trout.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one whole raw frostgill trout with a blue-silver body, small icy pale speckles and a subtle pink gill, oriented diagonally, on a dark cool blue painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No plate, hook, water, border, text, logo, watermark, or imitation of another game.",
+      "sha256": "7a2b270b632912d1f02fd3c42cb897e75cb9e6fbfae27abe197644849c0044f8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/raw_frostgill_trout.webp",
+        "sha256": "6c915c10faee7834fb657ae34484f669c729a37dc097d5c081036ef1156e42d0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "raw_stonescale_carp",
+      "file": "docs/design/whetstorm-art/items/raw_stonescale_carp.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one whole raw slatefin carp, a broad slate gray fish with large silver scales and sturdy dark fins, oriented diagonally, on a dark muted teal painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No plate, hook, water, border, text, logo, watermark, or imitation of another game.",
+      "sha256": "4ddced598140488ac65372c5e6a6430c233927d256e1011ddc988544faa77a11",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/raw_stonescale_carp.webp",
+        "sha256": "abc0dd905ccce2c1296f8de5cd60b0749a4344c3afb8c81e4f047b7c8fc6c579",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

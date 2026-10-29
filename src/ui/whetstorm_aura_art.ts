@@ -15,6 +15,7 @@ import { whetstormMobAuraImpairmentsImageUrl } from './whetstorm_mob_aura_impair
 import { whetstormMobAuraMagicImageUrl } from './whetstorm_mob_aura_magic_art';
 import { whetstormMobAuraStatusImageUrl } from './whetstorm_mob_aura_status_art';
 import { whetstormRecoveryAuraImageUrl } from './whetstorm_recovery_aura_art';
+import { whetstormShamanAuraImageUrl } from './whetstorm_shaman_aura_art';
 import { whetstormWarfareAuraImageUrl } from './whetstorm_warfare_aura_art';
 
 // Original Whetstorm aura paintings, keyed by exact runtime identity.
@@ -85,6 +86,7 @@ export function whetstormAuraImageUrl(id: string): string | null {
     whetstormEngineAuraImageUrl(id) ??
     whetstormWarfareAuraImageUrl(id) ??
     whetstormLineageAuraImageUrl(id) ??
+    whetstormShamanAuraImageUrl(id) ??
     whetstormCombatProcAuraImageUrl(id) ??
     whetstormMobAuraBatchImageUrl(id) ??
     whetstormMobAuraDebuffsImageUrl(id) ??

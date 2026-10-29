@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "dgn_gravewyrm_sanctum",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a skeletal dragon skull resting beneath a cracked stone arch in a shadowed underground sanctum, faint violet light. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_gravewyrm_sanctum.png",
+      "masterSha256": "09cf918a81660ba43b0133c4454de289285debadb5a2ec5805176446a941e81b",
+      "shipping": "public/ui/whetstorm/deeds/dgn_gravewyrm_sanctum.webp",
+      "shippingSha256": "de67f74206eeff3d9d07302010230a18e6b4483b0728ec888770558d567addfc",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_nythraxis",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a broken royal stone seal and an open iron doorway beneath a jagged mountain peak, a fading dragon silhouette beyond it. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_nythraxis.png",
+      "masterSha256": "fb0f0cfaad62137ef7f48636560b4f3e0ad8275359f110455cbfb8fbb1bb05f6",
+      "shipping": "public/ui/whetstorm/deeds/dgn_nythraxis.webp",
+      "shippingSha256": "2f35b6e9ab6e4b884e4631a6e0d36a647409dc0dd3c37b2d8ca2517dd6c3ff2b",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_thornpeak_rounds",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a traveler's compass at the center of a map, surrounded by four small distinct dungeon symbols: crypt arch, ruined tower, crescent moon, and wyrm skull. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_thornpeak_rounds.png",
+      "masterSha256": "d509fa94dddb7ceb059d2a250c307871e94ddadbb30de99e4948188400e29fb9",
+      "shipping": "public/ui/whetstorm/deeds/dgn_thornpeak_rounds.webp",
+      "shippingSha256": "8d79fa9da40886e296068e2a6a118f63f8f9807818414961eb92a904e44145cc",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

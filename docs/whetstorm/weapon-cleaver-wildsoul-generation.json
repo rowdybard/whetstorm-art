@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gravewyrm_cleaver",
+      "file": "docs/design/whetstorm-art/items/gravewyrm_cleaver.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Gravewyrm Cleaver, complete epic one-handed axe with a heavy hooked steel head, pale dragon-bone inset, weathered bronze rivets and dark leather-wrapped short haft. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "5bb4ff02caecdba04bd2c26beceb7d341553b498e941aed1589c23ea192dffb6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewyrm_cleaver.webp",
+        "sha256": "fdc90e946c712869c0b718d939ca50a94328c0d1ba7b8d80c31c5d1173c88cda",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-a2e02f66-a8a2-45e4-8459-84645d08b0b9.png"
+    },
+    {
+      "itemId": "wildsoul_maul",
+      "file": "docs/design/whetstorm-art/items/wildsoul_maul.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Wildsoul Maul, complete epic two-handed hammer with a rounded dark stone head entwined by living roots, restrained green moss and a long sturdy wood haft with leather bindings. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "f70cbcde756514b9a09e78d6fe97d03c826de7b088c550f223a7ea642ec86c9c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wildsoul_maul.webp",
+        "sha256": "bf63576b0ce0c2bbd6d397f70c1567942c2647c1ebcc9133116815b394588d16",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-5e7fdc02-9203-4a2b-8a6f-2b05556c0929.png"
+    }
+  ]
+}

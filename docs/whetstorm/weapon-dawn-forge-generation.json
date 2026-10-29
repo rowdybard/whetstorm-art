@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "dawnkeeper_consecrated_mace",
+      "file": "docs/design/whetstorm-art/items/dawnkeeper_consecrated_mace.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Dawnkeeper's Consecrated Mace, complete one-handed healer mace with a bright gold-bronze flanged head, modest sunburst motif, pale steel shaft and brown leather grip. Restrained warm holy glow. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "fb96f5a83fe699f514166c131f1705756928f835357ce37fb2781212a7bc67c8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/dawnkeeper_consecrated_mace.webp",
+        "sha256": "5915703faa890832dc72819d5659cbd2bbbc66183e60dbfc438ed1ea14974f01",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-353f3885-f7d9-4569-9ab2-1fed29b907f4.png"
+    },
+    {
+      "itemId": "forgemaster_crag_cleaver",
+      "file": "docs/design/whetstorm-art/items/forgemaster_crag_cleaver.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Forgemaster's Crag Cleaver, complete two-handed industrial fantasy axe with a broad heavy dark steel cleaver head, squared brass mechanical fittings, stout long iron haft and dark leather grips. Tiny restrained blue electrical accents. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "3486cf70c71563f104e120df29b0f5dff51b29fa94c6f0c3894f75b385261f51",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgemaster_crag_cleaver.webp",
+        "sha256": "c19951502b62bb21e33ed92490c3a22e215880d923399a8cae5c7e50d16c8c0b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-b5e402dc-c0ed-46b2-a9b3-b2dab81f7ca6.png"
+    }
+  ]
+}
