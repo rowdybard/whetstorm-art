@@ -80,6 +80,7 @@ import { farmingThornpeakItemImageUrl } from './farming_thornpeak_item_art';
 import { fenbloomItemImageUrl } from './fenbloom_item_art';
 import { fishingLaterCatchItemImageUrl } from './fishing_later_catch_item_art';
 import { fishingRawCatchItemImageUrl } from './fishing_raw_catch_item_art';
+import { fishingRodsItemImageUrl } from './fishing_rods_item_art';
 import { foodConjuredLaterItemImageUrl } from './food_conjured_later_item_art';
 import { foodCookingLaterItemImageUrl } from './food_cooking_later_item_art';
 import { foodEarlySecondItemImageUrl } from './food_early_second_item_art';
@@ -153,6 +154,7 @@ import { materialProvisioningItemImageUrl } from './material_provisioning_item_a
 import { mistLunarItemImageUrl } from './mist_lunar_item_art';
 import { mournweaveArmorItemImageUrl } from './mournweave_armor_item_art';
 import { oathpyreArmorItemImageUrl } from './oathpyre_armor_item_art';
+import { osmiumGlyphsteelItemImageUrl } from './osmium_glyphsteel_item_art';
 import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
 import { potionAlchemyNextItemImageUrl } from './potion_alchemy_next_item_art';
 import { potionLaterItemImageUrl } from './potion_later_item_art';
@@ -183,6 +185,7 @@ import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
 import { shadowpulseItemImageUrl } from './shadowpulse_item_art';
 import { skullsplitterItemImageUrl } from './skullsplitter_item_art';
 import { slagbreakerArmorItemImageUrl } from './slagbreaker_armor_item_art';
+import { soulAndCoresItemImageUrl } from './soul_and_cores_item_art';
 import { springSpireItemImageUrl } from './spring_spire_item_art';
 import { starterItemImageUrl } from './starter_item_art';
 import { templeQuestWeaponsItemImageUrl } from './temple_quest_weapons_item_art';
@@ -218,6 +221,9 @@ import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    fishingRodsItemImageUrl(id) ??
+    osmiumGlyphsteelItemImageUrl(id) ??
+    soulAndCoresItemImageUrl(id) ??
     farmingHoesItemImageUrl(id) ??
     oathpyreArmorItemImageUrl(id) ??
     crozierSparksItemImageUrl(id) ??

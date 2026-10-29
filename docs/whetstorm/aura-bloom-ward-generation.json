@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "deathbloom",
+      "runtimeIds": [
+        "deathbloom"
+      ],
+      "file": "docs/design/whetstorm-art/auras/deathbloom.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original deathbloom damage status: a wilted dark violet flower with one falling petal and a subtle sickly green haze, conveying decay without gore. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "d8044c58757b30c796c595214cc1cad934edbce41594bc959fe4e4cc19618199",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/deathbloom.webp",
+        "sha256": "820c13b3f36bcea18bd87746b3a100694ddf2ba3ae86631c69657d78a1e10730",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/deathbloom.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "lifebloom",
+      "runtimeIds": [
+        "lifebloom"
+      ],
+      "file": "docs/design/whetstorm-art/auras/lifebloom.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original lifebloom healing status: a fresh luminous green flower opening around a small warm golden center, surrounded by gentle green motes. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "b885144464bf73f50c55046e613b6866397167924756fce4e8cea0125834a9ed",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/lifebloom.webp",
+        "sha256": "76cf6a0612b0abf52445a0116adfb34eabfd0f830ecb8db51089117af29e5ce9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/lifebloom.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "nythraxis_wardstone_lit",
+      "runtimeIds": [
+        "nythraxis_wardstone_lit"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_wardstone_lit.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game raid status icon readable at 32 pixels. Original lit wardstone status: a standing dark stone with a luminous cyan crystal inset and a soft protective blue aura. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, readable letters, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "2d75048631901196c6961c1ff7501aa3dc8f92aaac8ccbd752bd8c4c3f0017fa",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_wardstone_lit.webp",
+        "sha256": "9a047030ef6e90aac1609c08ac4770b191c0644c1f8f61cbf2e882d94cb1f994",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/nythraxis_wardstone_lit.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "nythraxis_transition_pause",
+      "runtimeIds": [
+        "nythraxis_transition_pause"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_transition_pause.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game raid status icon readable at 32 pixels. Original transition pause stun status: a dark iron crown suspended in a golden ring of stillness over cracked stone, conveying a boss briefly halted. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "8c06df0f3a246059b9d1c21bc1db9f2f0a7da2a0119e0fa0f91c07cd2e7e1f79",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_transition_pause.webp",
+        "sha256": "a64d56557117b51eaa9580f97434f21686f327049ce8cb4466703c301f5ffc73",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/nythraxis_transition_pause.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "itemId": "stormreel_fishing_rod",
+      "file": "docs/design/whetstorm-art/items/stormreel_fishing_rod.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Stormreel Fishing Rod: a compact fishing rod with dark wood shaft, blue steel reel and a lightning-shaped brass accent, fishing line and hook visible, no weapon. Original hand-painted fantasy, tactile metal and wood, warm upper-left light, centered complete diagonal silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original fishing tool painting; reviewed",
+      "sha256": "ade16d9d3fd96bfddf8626e6417f84a22ccb7b52e85217b6d135c60f38f7d74e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormreel_fishing_rod.webp",
+        "sha256": "ad72860096cfdfdcb676a8b63841eb321790dad033bf9c1bce3b650f3ac58090",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "tidewrought_fishing_rod",
+      "file": "docs/design/whetstorm-art/items/tidewrought_fishing_rod.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Tidewrought Fishing Rod: a compact fishing rod with pale wood shaft, teal metal reel and wave-shaped brass accent, fishing line and hook visible, no weapon. Original hand-painted fantasy, tactile metal and wood, warm upper-left light, centered complete diagonal silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original fishing tool painting; reviewed",
+      "sha256": "3033c3e275d2cd39a955d80c35395061232e20bf82dc19e046ca260837275d8c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tidewrought_fishing_rod.webp",
+        "sha256": "8025b8abd12bb1b4f43ecf3b643114ad2a12271a6649f124c59e2528830e561c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "clockreel_fishing_rod",
+      "file": "docs/design/whetstorm-art/items/clockreel_fishing_rod.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Clockreel Fishing Rod: a compact fishing rod with brown wood shaft, a prominent brass clockwork gear reel and small crank, fishing line and hook visible, no weapon. Original hand-painted fantasy, tactile metal and wood, warm upper-left light, centered complete diagonal silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original fishing tool painting; reviewed",
+      "sha256": "c72a1bcd6bfb88173bfd7f4af4c40c9a3678d0db4ec5606ba72215da349dd125",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/clockreel_fishing_rod.webp",
+        "sha256": "15602249c8f174e785e4866622b11a9b6a0d77be10b7f6f5cd55c286c5b67794",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

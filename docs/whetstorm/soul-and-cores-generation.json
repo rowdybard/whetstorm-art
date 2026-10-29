@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "soul_stone",
+      "file": "docs/design/whetstorm-art/items/soul_stone.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one small smooth dark violet soul stone, a polished oval crystal with a gentle inner purple-white glow suggesting restorative magic, against a dark charcoal violet painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No skull, writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "88d1bcd56e4740c48b7c2d960a16345699015c8afe58e2a163f172e23e5c572f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/soul_stone.webp",
+        "sha256": "eebfe3203bc72ddb03e3098d5c7d734294e4ccdebc7bf070897fbef51133d5fb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wyrmfall_core",
+      "file": "docs/design/whetstorm-art/items/wyrmfall_core.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one faceted wyrmfall core, a heavy angular deep teal crystal with warm gold veins and a subtle inner glow, suggesting a precious dragon raid crafting catalyst, against a dark blue-gray painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "1fc31fbae8614fe528429c7ae4b078a19b27e75f6d55cabc5a0645258268131b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmfall_core.webp",
+        "sha256": "069b3760d135d563ea99ed47f83a6478ba31242850d40fffa65f58f9a4370f74",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "lastflame_core",
+      "file": "docs/design/whetstorm-art/items/lastflame_core.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one core of the last flame, a compact jagged black stone enclosing a brilliant orange-gold flame with red molten cracks, against a dark charcoal painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "83acdb766c5f1cdfc18b99583ff95f5fdaba45264ce4e685912cc220c7024b6c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/lastflame_core.webp",
+        "sha256": "5fd4070290388c2bc842eb6b7af667f4d1fceceba63fd0e45d6c57bdb43e2861",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

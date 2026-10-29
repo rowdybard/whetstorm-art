@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "thorium_warblade",
+      "file": "docs/design/whetstorm-art/items/thorium_warblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Osmium Warblade, complete crafted one-handed sword with a dark blue-grey dense steel blade, squared iron guard and worn brown leather grip, restrained silver edge highlight. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "3e3a73f1f2af1021dd834bdaa8338594d30aedcc050a483a2a98f7fb4686862b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/thorium_warblade.webp",
+        "sha256": "736f455c566f5431b59896cf478347d4802c2a8b8ccc7eff8847e7ccacac6f4c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-a971ea5e-c4e7-4e5f-a5db-06eb71dcb57d.png"
+    },
+    {
+      "itemId": "arcanite_war_axe",
+      "file": "docs/design/whetstorm-art/items/arcanite_war_axe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Glyphsteel War Axe, complete crafted one-handed axe with a broad blue-grey steel head, small restrained blue gemstone in the socket, brass fittings and brown leather-wrapped wooden haft. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, runes, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "b780dcda38c35a45ed38626100773c704e3381e1c489bb0611fa139c3d8d52b3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/arcanite_war_axe.webp",
+        "sha256": "36bc65a347f42c4cf18d3578924fa27d7f3662163ee6cc78b486573a34508195",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-cc7164a1-faed-4a9f-9da7-570ff25a4f82.png"
+    }
+  ]
+}
