@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "dgn_hollow_crypt",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a broken stone crypt doorway with a ghostly violet skull-shaped glow fading within, representing a defeated gravecaller. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_hollow_crypt.png",
+      "masterSha256": "ffee5711e6cc4f6418b487c78259a9d454235a6e0d03750cddc7ca4e940ffb33",
+      "shipping": "public/ui/whetstorm/deeds/dgn_hollow_crypt.webp",
+      "shippingSha256": "a1ee16609b6b3ee4d1d7b90b46fe0494907d9dad6f347d3130f96bd4f0e28158",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_sunken_bastion",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a ruined stone tower rising from shallow water, surrounded by torn wisps of pale blue fog, representing victory in a sunken bastion. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_sunken_bastion.png",
+      "masterSha256": "ade4abc2a2a76fe7172e16ea0ef92bb9a12dbf33aa2625e8449606f1978fe5db",
+      "shipping": "public/ui/whetstorm/deeds/dgn_sunken_bastion.webp",
+      "shippingSha256": "9d3907b1d6168ad21d1891e30435fad7d9c1c63cccd86c0569f569c0e9f217e6",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_drowned_temple",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a glowing silver crescent moon sinking into dark teal water before ancient submerged temple columns, representing victory at a drowned temple. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_drowned_temple.png",
+      "masterSha256": "2c390c6eaa110eea88f90c77c45aaea8041ed7197eceb5e2d8d2e63418968b92",
+      "shipping": "public/ui/whetstorm/deeds/dgn_drowned_temple.webp",
+      "shippingSha256": "6dc9c8acf21a83742197fe25f6c50d308b60d3c93852e7896accb4a27a14557e",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

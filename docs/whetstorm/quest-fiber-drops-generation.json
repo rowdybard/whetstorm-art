@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "moonfleece_tuft",
+      "file": "docs/design/whetstorm-art/items/moonfleece_tuft.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one soft compact tuft of moonfleece wool, silvery white with a subtle pale blue moonlit sheen, against a deep indigo painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "d294f13c9005b4b4abcb8b6b62f155b6c285b91d72f9e9c070eaba9e36b43ff5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonfleece_tuft.webp",
+        "sha256": "06243f9b69691b3d839833db1c0fdbc2457780b1b9c149ad0423e3958e057f68",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "widowsilk_skein",
+      "file": "docs/design/whetstorm-art/items/widowsilk_skein.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one neatly looped skein of dark violet widowsilk thread, glimmering subtly with fine silver strands, tied at the middle, against a deep charcoal painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "0c1f94a0b34dc46dd36bdfc058a393e7b7da1b0a07e2dfa1543ed17b6861da41",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/widowsilk_skein.webp",
+        "sha256": "f1b2152b6b06613f9afb7c3e4382bf6abe66ac7a00b92c403070afef78f31047",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "canopy_silk_hank",
+      "file": "docs/design/whetstorm-art/items/canopy_silk_hank.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one loosely looped hank of natural pale golden canopy silk, bound once with green thread, against a deep forest green painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "ad5a1f58902eaa366b0dc6eb28f4f9b4ac938461d295f232535b77fbb4e62bdd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/canopy_silk_hank.webp",
+        "sha256": "54381eb3ef6bd1596f25add90b83b6ab95d9167840e06db419e110d9fa19bf65",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

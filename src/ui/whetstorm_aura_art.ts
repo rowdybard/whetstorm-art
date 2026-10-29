@@ -1,5 +1,7 @@
+import { whetstormBattlegroundAuraImageUrl } from './whetstorm_battleground_aura_art';
 import { whetstormClassAuraImageUrl } from './whetstorm_class_aura_art';
 import { whetstormCombatProcAuraImageUrl } from './whetstorm_combat_proc_aura_art';
+import { whetstormEngineAuraImageUrl } from './whetstorm_engine_aura_art';
 import { whetstormMobAuraAfflictionsImageUrl } from './whetstorm_mob_aura_afflictions_art';
 import { whetstormMobAuraBatchImageUrl } from './whetstorm_mob_aura_batch_art';
 import { whetstormMobAuraControlImageUrl } from './whetstorm_mob_aura_control_art';
@@ -77,6 +79,8 @@ export function whetstormAuraImageUrl(id: string): string | null {
     WHETSTORM_AURA_ART.get(id) ??
     whetstormRecoveryAuraImageUrl(id) ??
     whetstormClassAuraImageUrl(id) ??
+    whetstormBattlegroundAuraImageUrl(id) ??
+    whetstormEngineAuraImageUrl(id) ??
     whetstormCombatProcAuraImageUrl(id) ??
     whetstormMobAuraBatchImageUrl(id) ??
     whetstormMobAuraDebuffsImageUrl(id) ??

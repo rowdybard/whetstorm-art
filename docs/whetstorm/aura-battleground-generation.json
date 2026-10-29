@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "bg_battle_rune",
+      "runtimeIds": [
+        "bg_battle_rune"
+      ],
+      "file": "docs/design/whetstorm-art/auras/bg_battle_rune.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game battleground aura icon readable at 32 pixels. Original battle rune status: an upright iron sword crossing a red glowing circular stone rune, conveying strength. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, readable letters, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "56b02f252b799634c68f53755df58d92db9ec95a2f2543f1d344d6e11ec1738e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/bg_battle_rune.webp",
+        "sha256": "2a0e11d4f7296fa8e565361ac7514b00ccc1d1312929ec4902cebc6154ffeb67",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/bg_battle_rune.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "bg_sprint_rune",
+      "runtimeIds": [
+        "bg_sprint_rune"
+      ],
+      "file": "docs/design/whetstorm-art/auras/bg_sprint_rune.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game battleground aura icon readable at 32 pixels. Original sprint rune status: a bronze boot crossing a bright amber circular stone rune, with subtle sweeping motion. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, readable letters, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "148265fe3610ca21f3541643f13a5f5c98964881d0e855c50d0816d6ea4a5263",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/bg_sprint_rune.webp",
+        "sha256": "7e507728310b326d2b60e68688bf4d8fa197a302709134fd10fd60f9d9919a29",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/bg_sprint_rune.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "bg_ward_rune",
+      "runtimeIds": [
+        "bg_ward_rune"
+      ],
+      "file": "docs/design/whetstorm-art/auras/bg_ward_rune.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game battleground aura icon readable at 32 pixels. Original ward rune status: a silver shield crossing a cool blue glowing circular stone rune, conveying protection. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, readable letters, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "b3f95944af08449299b0d4670325a9169cb085b6a2a7ef3e4fed4b84b834beb3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/bg_ward_rune.webp",
+        "sha256": "e4f8dbd8e421e4a15a1e529f648bdbc13807456d1d56e7c70dfdeabb8df091e1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/bg_ward_rune.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "bg_carried_flag",
+      "runtimeIds": [
+        "bg_carried_flag"
+      ],
+      "file": "docs/design/whetstorm-art/auras/bg_carried_flag.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game battleground aura icon readable at 32 pixels. Original carried flag status: a gold-tipped pole carrying a plain cream fabric banner billowing to the right, centered large. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, emblems, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "b7ff44e915afd8701b288a62bf1bf4c27ce74447cfd620132ffe41ffe0e30f95",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/bg_carried_flag.webp",
+        "sha256": "8c4b723df38830c89415621e1e3447cf143051ae0642ee3932a20e1aa8bb4570",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/bg_carried_flag.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

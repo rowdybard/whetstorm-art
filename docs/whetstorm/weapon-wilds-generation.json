@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "nightfangs_greatstaff",
+      "file": "docs/design/whetstorm-art/items/nightfangs_greatstaff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Nightfang's Greatstaff, a complete long two-handed dark ash staff with a carved wolf fang crown and a subdued violet stone, leather lashings and weathered iron fittings. Full diagonal silhouette with visible margins, readable at small size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No people, hands, letters, frame, watermark or copied game design.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "c6aee94e345502cad5734c7cd60819bef2cefa4a05cfe086f13cac8e45266713",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/nightfangs_greatstaff.webp",
+        "sha256": "5d9a816a8ad33825adc351705a1f98f9260d6687769a4953b97e12f2e9271420",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-4083dbff-56e3-487d-9ea6-6903b54b9033.png"
+    },
+    {
+      "itemId": "maul_of_the_scourged_wilds",
+      "file": "docs/design/whetstorm-art/items/maul_of_the_scourged_wilds.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Maul of the Scourged Wilds, a complete heavy two-handed weapon with a large irregular weathered stone hammer head bound to a stout wooden haft with bronze bands, thorny root motifs and mossy green accents. Full diagonal silhouette with visible margins, readable at small size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No people, hands, letters, frame, watermark or copied game design.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "93cf731594ce74f931a7a5fd2ffedfc4b52b50f2af5c24fda167bd1ab5a0d550",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/maul_of_the_scourged_wilds.webp",
+        "sha256": "96a8ef2ba3e337d208c54f78e9b6ddd47afe4c6cfa72f709ace69bc5f70ded72",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-fd904b64-825e-4442-9b91-924280103677.png"
+    }
+  ]
+}

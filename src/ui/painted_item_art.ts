@@ -21,6 +21,7 @@ import { armorBatchTwentytwoItemImageUrl } from './armor_batch_twentytwo_item_ar
 import { armorBatchTwoItemImageUrl } from './armor_batch_two_item_art';
 import { bagsFishItemImageUrl } from './bags_fish_item_art';
 import { barksongItemImageUrl } from './barksong_item_art';
+import { bonewroughtArmorItemImageUrl } from './bonewrought_armor_item_art';
 import { bramblehideArmorItemImageUrl } from './bramblehide_armor_item_art';
 import { bramblehideArmorSecondItemImageUrl } from './bramblehide_armor_second_item_art';
 import { churchClothOriginalItemImageUrl } from './church_cloth_original_item_art';
@@ -35,6 +36,7 @@ import { clothDelveAmberfallItemImageUrl } from './cloth_delve_amberfall_item_ar
 import { consumableBatchItemImageUrl } from './consumable_batch_item_art';
 import { craftReagentOriginalBatchItemImageUrl } from './craft_reagent_original_batch_item_art';
 import { craghornIceveinItemImageUrl } from './craghorn_icevein_item_art';
+import { direfangArmorItemImageUrl } from './direfang_armor_item_art';
 import { drogmarQuestWeaponsItemImageUrl } from './drogmar_quest_weapons_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { earlyMaterialEightItemImageUrl } from './early_material_eight_item_art';
@@ -85,6 +87,7 @@ import { jewelryFactionCraftItemImageUrl } from './jewelry_faction_craft_item_ar
 import { jewelryForgeItemImageUrl } from './jewelry_forge_item_art';
 import { jewelryHeroicQuartermasterItemImageUrl } from './jewelry_heroic_quartermaster_item_art';
 import { jewelryIgnivarNecklacesItemImageUrl } from './jewelry_ignivar_necklaces_item_art';
+import { jewelryIgnivarRingsItemImageUrl } from './jewelry_ignivar_rings_item_art';
 import { jewelryVanguardPendantsItemImageUrl } from './jewelry_vanguard_pendants_item_art';
 import { leatherBatchCraftedItemImageUrl } from './leather_batch_crafted_item_art';
 import { leatherBatchOriginalItemImageUrl } from './leather_batch_original_item_art';
@@ -125,6 +128,7 @@ import { questBatchHighwatchItemImageUrl } from './quest_batch_highwatch_item_ar
 import { questBatchSixteenItemImageUrl } from './quest_batch_sixteen_item_art';
 import { questBatchWaterwaysItemImageUrl } from './quest_batch_waterways_item_art';
 import { questDropsScalesItemImageUrl } from './quest_drops_scales_item_art';
+import { questFiberDropsItemImageUrl } from './quest_fiber_drops_item_art';
 import { questGlowingDropsItemImageUrl } from './quest_glowing_drops_item_art';
 import { questHighwatchSecondItemImageUrl } from './quest_highwatch_second_item_art';
 import { questRealmCollectionItemImageUrl } from './quest_realm_collection_item_art';
@@ -166,11 +170,17 @@ import { weaponBatchTwentyItemImageUrl } from './weapon_batch_twenty_item_art';
 import { weaponBatchTwentyfourItemImageUrl } from './weapon_batch_twentyfour_item_art';
 import { weaponBatchTwentyoneItemImageUrl } from './weapon_batch_twentyone_item_art';
 import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_item_art';
+import { wildsWeaponItemImageUrl } from './wilds_weapon_item_art';
 import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    bonewroughtArmorItemImageUrl(id) ??
+    direfangArmorItemImageUrl(id) ??
+    jewelryIgnivarRingsItemImageUrl(id) ??
+    questFiberDropsItemImageUrl(id) ??
+    wildsWeaponItemImageUrl(id) ??
     materialEssenceBatchItemImageUrl(id) ??
     galecallArmorItemImageUrl(id) ??
     bramblehideArmorItemImageUrl(id) ??

@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "seal_of_the_forgewall",
+      "file": "docs/design/whetstorm-art/items/seal_of_the_forgewall.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Seal of the Forgewall: a heavy black iron signet ring with a squared gold-edged face bearing a stylized stone wall and a tiny orange ember. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "acb6c804f8fdaa06ab0daa217b630bbc563e4cd6a125ca81edadcd2b98b3942a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/seal_of_the_forgewall.webp",
+        "sha256": "1dc44cffbbfbe089b006ae1c2fdc72bf6512c470391703ec830e9811fbcf9fdf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "band_of_marked_strikes",
+      "file": "docs/design/whetstorm-art/items/band_of_marked_strikes.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Band of Marked Strikes: a sturdy bronze ring with three parallel diagonal notches cut into its broad face and a small ruby inset. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "b7cda933c84654f5aa062c71c21aa71027d357723703dea1c7e0ccdb2302f23c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/band_of_marked_strikes.webp",
+        "sha256": "7580c400569dd65c98d08bc3c4c18bae30822a0ac3053c67ea925302eeebbeff",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "circle_of_cinders",
+      "file": "docs/design/whetstorm-art/items/circle_of_cinders.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Circle of Cinders: a dark silver ring with a circular orange glowing cinder gemstone held in prongs resembling curling flame. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "58a1763a4b41271e78b8dbcefb6a63cea6ef2fa6c21b68751c25a717c7a81ccf",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/circle_of_cinders.webp",
+        "sha256": "87845f97011caa75a1e99ad8869e81331a4d743066bb9acc1503334c3fde8e1c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "loop_of_quiet_springs",
+      "file": "docs/design/whetstorm-art/items/loop_of_quiet_springs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Loop of Quiet Springs: an elegant silver ring with curved wave-like shoulders holding a luminous pale blue oval gemstone. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "2665e23348bb5e46acff12b90b78cfe85d4c3ea41e5685cdf8a93539008bf56f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/loop_of_quiet_springs.webp",
+        "sha256": "a3a9e41107e4a20f2dd9525e7cc02cc855c154de09f537dc35dc4f4e32dcd46a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

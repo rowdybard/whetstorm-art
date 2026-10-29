@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "moontide",
+      "runtimeIds": [
+        "moontide"
+      ],
+      "file": "docs/design/whetstorm-art/auras/moontide.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original moontide resource status: a luminous silver crescent suspended over a curling deep blue tidal wave, subtle stars. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "b82c70849c7a4dab873e19f19df6c908e51f89cc75849aad36141db588c28e62",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/moontide.webp",
+        "sha256": "e4c7e490789c354949dd536d821037a3a28905bfb5dba7bec24433049746d991",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/moontide.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "old_blood",
+      "runtimeIds": [
+        "old_blood"
+      ],
+      "file": "docs/design/whetstorm-art/auras/old_blood.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original old blood resource status: a curved ivory fang framing one vivid crimson droplet, a subtle dark red glow. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "aa8eb12936a62e2c928fef76bea881ccdad4493d4c7fad96b394683edbb78731",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/old_blood.webp",
+        "sha256": "bafeebe6a39f8bf1b36542e8cc0aea0df03edd5b1239b072892db16404878c0a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/old_blood.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "verdance",
+      "runtimeIds": [
+        "verdance"
+      ],
+      "file": "docs/design/whetstorm-art/auras/verdance.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original verdance resource status: a fresh luminous green sprout with three leaves emerging from a small amber seed, soft green motes. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "e130b249830ffa7c79039e796be5cabd7be8c2623968a033b7e92d6f8f498ea2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/verdance.webp",
+        "sha256": "5d548ce65c6746a2f7bda571727220818ba858726c9e5f4bd88954b411a08303",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/verdance.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "destruction_ruin",
+      "runtimeIds": [
+        "destruction_ruin"
+      ],
+      "file": "docs/design/whetstorm-art/auras/destruction_ruin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original ruin resource status: a dark angular volcanic gemstone split by glowing orange seams, a small red flame rising from within. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "4506cf2d9e3c847d8d174c2f50cb865159f29b1aaf9f16659f153b7eccd195d6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/destruction_ruin.webp",
+        "sha256": "9f805cd82798fe3c4450fb9845fa664821701611dcb45f9313916113d99f8877",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/destruction_ruin.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

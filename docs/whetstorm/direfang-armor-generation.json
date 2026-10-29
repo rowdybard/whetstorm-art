@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "nighttalon_crown",
+      "file": "docs/design/whetstorm-art/items/nighttalon_crown.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Direfang Crown: one empty hood of charcoal leather with layered angular panels, muted bone-colored fang-shaped trim, and dark red stitching. No face, mannequin or body. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Direfang armor painting; reviewed",
+      "sha256": "4b51bf3df60c4e67188ab302fb3b5d8cb92805b0cd0120b12afde18a1964bd51",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/nighttalon_crown.webp",
+        "sha256": "782c34f87173d62917523fcd78e0e305ce4635fcc8fa171c52100e33626ca66a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "nighttalon_shoulderguards",
+      "file": "docs/design/whetstorm-art/items/nighttalon_shoulderguards.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Direfang Shoulderguards: a compact symmetric pair of empty charcoal leather shoulder guards with layered angular panels, muted bone-colored fang-shaped trim, and dark red stitching. No wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Direfang armor painting; reviewed",
+      "sha256": "410539c1c88e7269579869af2cb916bdaecb510012444b70901659d8528d3d2a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/nighttalon_shoulderguards.webp",
+        "sha256": "fcfa2046c986f18cb771fd663af34e382fa4f4c21920b6592df08847ad5fcd2c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "nighttalon_grips",
+      "file": "docs/design/whetstorm-art/items/nighttalon_grips.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Direfang Grips: a compact natural pair of empty charcoal leather gloves with layered angular panels, muted bone-colored fang-shaped trim, and dark red stitching. No wearer. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Direfang armor painting; reviewed",
+      "sha256": "43c9bff7f1250760cf5e2e3df5b4249c16fc1160b8857814d63580e2df726ce8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/nighttalon_grips.webp",
+        "sha256": "e49ec8854e9c0649072ed46ce7cf9133c385d7ad077f1780002e7ceeb889ecae",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "nighttalon_waistband",
+      "file": "docs/design/whetstorm-art/items/nighttalon_waistband.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Direfang Waistband: one broad curved charcoal leather waist belt with layered angular panels, a simple clasp, muted bone-colored fang-shaped trim, and dark red stitching. No wearer. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Direfang armor painting; reviewed",
+      "sha256": "da6cc9acea2a12e2127d9e71d3d60bb81c5ec521696e73400255a66fca7b2e53",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/nighttalon_waistband.webp",
+        "sha256": "d153d3a86fa879e5f94f0ff03969fcb8ee5d46a0e02d05147f9266bd765984ab",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

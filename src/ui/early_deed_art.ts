@@ -2,6 +2,7 @@ import { activityDeedImageUrl } from './activity_deed_art';
 import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
 import { combatMasteryDeedImageUrl } from './combat_mastery_deed_art';
 import { craftMasteryDeedImageUrl } from './craft_mastery_deed_art';
+import { dungeonClearDeedImageUrl } from './dungeon_clear_deed_art';
 import { explorationDeedImageUrl } from './exploration_deed_art';
 import { journeyDeedImageUrl } from './journey_deed_art';
 import { milestoneDeedImageUrl } from './milestone_deed_art';
@@ -32,6 +33,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     tradeMasteryDeedImageUrl(id) ??
     combatMasteryDeedImageUrl(id) ??
     craftMasteryDeedImageUrl(id) ??
+    dungeonClearDeedImageUrl(id) ??
     explorationDeedImageUrl(id) ??
     chronicleGatheringDeedImageUrl(id) ??
     journeyDeedImageUrl(id) ??
