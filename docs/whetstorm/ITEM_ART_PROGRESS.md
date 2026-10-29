@@ -1,5 +1,12 @@
 # Item painting checkpoint
 
+Early progression deed follow-up: three original crests cover First Steps,
+Finding Your Feet and Well Rested through the shared game and guide lookup.
+Prompts, source hashes and delivery hashes are in
+`deed-progression-generation.json`. Size review and focused routing tests passed;
+guide build, browser, locked Reliquary state and shipping-tree clearance remain
+open. The inherited deed assets still need physical disposition.
+
 Early deed integration follow-up: the four existing first-ore, first-timber,
 first-herb and Vale-first-cast paintings now route through the game crest
 lookup and the guide page. Focused game-routing and source-hash tests passed.

@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "id": "prog_first_steps",
+      "master": "docs/design/whetstorm-art/deeds/prog_first_steps.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for First Steps, awarded for reaching level 2. A single small bronze boot print leads onto a short winding path, enclosed in one simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "3e0e8b6bf6c174787fc62d91ae9f8c926099f45e75c328c708451f1ec5d5673a",
+      "shipping": "public/ui/whetstorm/deeds/prog_first_steps.webp",
+      "shippingSha256": "d6c74bceca20224115523c1ba02a3992e310a72d712323772c17fc4351c006a8",
+      "processing": "Pillow Lanczos resize to 128x128; WebP quality 90 method 6"
+    },
+    {
+      "id": "prog_finding_your_feet",
+      "master": "docs/design/whetstorm-art/deeds/prog_finding_your_feet.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for Finding Your Feet, awarded for reaching level 5. A sturdy travel boot beside a small upright trail marker with blank arrow, enclosed in one simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "110fa4de8ca36a94e176ba8b879483e8f7275ba6d883baaaa7b07f132ebb1a4c",
+      "shipping": "public/ui/whetstorm/deeds/prog_finding_your_feet.webp",
+      "shippingSha256": "29d719b47097dd77456b514d9db5737b3587f52f374d164ff93b560059aa8b60",
+      "processing": "Pillow Lanczos resize to 128x128; WebP quality 90 method 6"
+    },
+    {
+      "id": "prog_well_rested",
+      "master": "docs/design/whetstorm-art/deeds/prog_well_rested.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for Well Rested, awarded for gaining rested experience at an inn. A warm golden lantern beside a simple rolled wool blanket and a tiny crescent moon, enclosed in one simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "17ea4187cb1d6c3ad0c52bde60c45791678eaa79fca76ee23b3654dcb8580958",
+      "shipping": "public/ui/whetstorm/deeds/prog_well_rested.webp",
+      "shippingSha256": "ed92a84da01e0ec8fc9288ca859e6862725cbf709ece40a46652aabe43e8265a",
+      "processing": "Pillow Lanczos resize to 128x128; WebP quality 90 method 6"
+    }
+  ]
+}

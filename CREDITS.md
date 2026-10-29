@@ -857,3 +857,6 @@ Three original regional footwear paintings are recorded in
 
 Three original regional glove paintings are recorded in
 `docs/whetstorm/regional-gloves-generation.json`.
+
+Three original early progression deed paintings are recorded in
+`docs/whetstorm/deed-progression-generation.json`.
