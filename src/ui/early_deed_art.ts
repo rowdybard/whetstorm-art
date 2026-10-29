@@ -1,3 +1,5 @@
+import { explorationDeedImageUrl } from './exploration_deed_art';
+
 // Original paintings for early deeds, shared by game and guide.
 const EARLY_DEED_ART = new Map<string, string>([
   ['exp_first_ore', '/ui/whetstorm/deeds/exp_first_ore.webp'],
@@ -10,8 +12,10 @@ const EARLY_DEED_ART = new Map<string, string>([
   ['prog_double_digits', '/ui/whetstorm/deeds/prog_double_digits.webp'],
   ['prog_talented', '/ui/whetstorm/deeds/prog_talented.webp'],
   ['prog_specialized', '/ui/whetstorm/deeds/prog_specialized.webp'],
+  ['cmb_first_blood', '/ui/whetstorm/deeds/cmb_first_blood.webp'],
+  ['cmb_first_fall', '/ui/whetstorm/deeds/cmb_first_fall.webp'],
 ]);
 
 export function earlyDeedImageUrl(id: string): string | null {
-  return EARLY_DEED_ART.get(id) ?? null;
+  return EARLY_DEED_ART.get(id) ?? explorationDeedImageUrl(id);
 }

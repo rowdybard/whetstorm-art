@@ -46,6 +46,7 @@ import { earlyMaterialThirteenItemImageUrl } from './early_material_thirteen_ite
 import { earlyMaterialTwelveItemImageUrl } from './early_material_twelve_item_art';
 import { earlyQuestItemImageUrl } from './early_quest_item_art';
 import { earlyQuestMaterialItemImageUrl } from './early_quest_material_item_art';
+import { factionArmorOriginalItemImageUrl } from './faction_armor_original_item_art';
 import { farmHighlandMaterialItemImageUrl } from './farm_highland_material_item_art';
 import { farmMaterialsOriginalItemImageUrl } from './farm_materials_original_item_art';
 import { farmingThornpeakItemImageUrl } from './farming_thornpeak_item_art';
@@ -118,6 +119,8 @@ import { resonantMaterialItemImageUrl } from './resonant_material_item_art';
 import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
 import { shadowpulseItemImageUrl } from './shadowpulse_item_art';
 import { starterItemImageUrl } from './starter_item_art';
+import { templeQuestWeaponsItemImageUrl } from './temple_quest_weapons_item_art';
+import { thornpeakTrophyMaterialItemImageUrl } from './thornpeak_trophy_material_item_art';
 import { toolBatchFiveItemImageUrl } from './tool_batch_five_item_art';
 import { toolBatchFourItemImageUrl } from './tool_batch_four_item_art';
 import { toolBatchItemImageUrl } from './tool_batch_item_art';
@@ -142,6 +145,9 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    factionArmorOriginalItemImageUrl(id) ??
+    thornpeakTrophyMaterialItemImageUrl(id) ??
+    templeQuestWeaponsItemImageUrl(id) ??
     regionalClothRewardsItemImageUrl(id) ??
     vendorChestItemImageUrl(id) ??
     barksongItemImageUrl(id) ??

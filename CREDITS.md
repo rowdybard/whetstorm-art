@@ -863,3 +863,12 @@ Three original early progression deed paintings are recorded in
 
 Three original talent progression deed paintings are recorded in
 `docs/whetstorm/deed-talents-generation.json`.
+
+Ten original faction armor, crafting material and quest weapon paintings,
+six deed crests and four mob aura paintings are recorded in
+`docs/whetstorm/faction-armor-original-generation.json`,
+`docs/whetstorm/thornpeak-trophy-material-generation.json`,
+`docs/whetstorm/temple-quest-weapons-generation.json`,
+`docs/whetstorm/deed-exploration-generation.json`,
+`docs/whetstorm/deed-combat-generation.json`, and
+`docs/whetstorm/mob-aura-impairments-generation.json`.

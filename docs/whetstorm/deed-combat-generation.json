@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "id": "cmb_first_blood",
+      "master": "docs/design/whetstorm-art/deeds/cmb_first_blood.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for First Blood, awarded for defeating a first enemy. Show a simple steel sword crossing a small broken wooden training target, no blood or gore, inside one circular brass medal on dark warm background. Bold readable silhouette at 32 pixels, hand-painted fantasy. No text, numerals, logos, watermark, outer frame, or imitation of other games or artists.",
+      "masterSha256": "92308ab3d28d5883e926faf0ed0de1bdd5ae4a176a4662b7cef8ba56298d1351",
+      "shipping": "public/ui/whetstorm/deeds/cmb_first_blood.webp",
+      "shippingSha256": "a549ef839acdba903ff64fe0c45ad1481e805d608b66cec167434576bc97bf35",
+      "processing": "Pillow Lanczos resize to 128x128; WebP quality 90 method 6"
+    },
+    {
+      "id": "cmb_first_fall",
+      "master": "docs/design/whetstorm-art/deeds/cmb_first_fall.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for Dust Yourself Off, awarded for a first defeat. Show a small dented steel helmet resting on the ground with one warm rising spark beside it, no body or gore, inside one circular brass medal on dark warm background. Bold readable silhouette at 32 pixels, hand-painted fantasy. No text, numerals, logos, watermark, outer frame, or imitation of other games or artists.",
+      "masterSha256": "c4ce93d96077fd0f428c26b8bed6d930bfa7488bc4119ea3b38e861bbda2d771",
+      "shipping": "public/ui/whetstorm/deeds/cmb_first_fall.webp",
+      "shippingSha256": "08f458c5516d73e9f9d6a207a485808f84fa259494cf1d9d92a91c455b7dc6b7",
+      "processing": "Pillow Lanczos resize to 128x128; WebP quality 90 method 6"
+    }
+  ]
+}

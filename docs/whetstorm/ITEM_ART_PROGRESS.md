@@ -1,5 +1,16 @@
 # Item painting checkpoint
 
+Team checkpoint: ten item paintings cover four faction armor pieces, three
+Thornpeak crafting materials and three Palecoil quest weapons. This effort has
+created 552 individual item paintings; 569 of 1,626 catalog IDs have individual
+paintings and 1,057 do not. The raw remainder includes retired entries and
+variants. Four exploration and two early combat deed crests and four mob aura
+paintings were also added. Prompts and hashes are in the corresponding
+`faction-armor-original`, `thornpeak-trophy-material`, `temple-quest-weapons`,
+`deed-exploration`, `deed-combat` and `mob-aura-impairments` generation records.
+Size reviews and focused source/routing checks passed. Browser, full gate,
+locked deed states and physical inherited-file removal remain open.
+
 Talent deed follow-up: three original crests cover Double Digits, A Point Well
 Spent and Declaration of Intent through the game and guide lookup. Prompts and
 hashes are in `deed-talents-generation.json`; size review and focused tests

@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "riftwalkers_tunic",
+      "file": "docs/design/whetstorm-art/items/riftwalkers_tunic.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Riftwalker's Tunic, one complete rugged dark violet leather chest tunic with a high collar, layered stitched panels, muted silver rivets and a subtle teal seam; no mannequin. Show the full garment with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "90a5a4322fa9e85813741637b4689928ddf22efbec303297ec8fd770f6a9485a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/riftwalkers_tunic.webp",
+        "sha256": "553c46d30dbcddc5bf003cf904b9e19b79522febce76e62159654e21162b787b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "riftwalkers_cord",
+      "file": "docs/design/whetstorm-art/items/riftwalkers_cord.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Riftwalker's Cord, one complete coiled dark violet leather waist belt with a broad weathered silver buckle and teal stitching. Show the full belt with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "043bca99dc50495b706423111eb91fb6fb3f3b9896beeb56820400f544c882cf",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/riftwalkers_cord.webp",
+        "sha256": "a7cae40729ebd66807301cd6789723ca622db4b1c49ab531fae95b2e27e66ee3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "riftwalkers_treads",
+      "file": "docs/design/whetstorm-art/items/riftwalkers_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Riftwalker's Treads, one complete pair of rugged dark violet leather boots with pale metal fastenings, reinforced toes and teal stitching. Show both boots with clear space around them.",
+      "status": "original armor painting; reviewed",
+      "sha256": "da813bb3216ce9c4098138b59b781e335403a1e11632e0534a94ec2ff7dfb6e7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/riftwalkers_treads.webp",
+        "sha256": "08a9fa4cff8aca9b35f1005318e0545a4b032aae209f7773c059e4776e2487dd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "artificers_welding_cowl",
+      "file": "docs/design/whetstorm-art/items/artificers_welding_cowl.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Artificer's Welding Cowl, one complete practical mail armor helmet for an artificer, steel chainmail hood with a dark empty face opening, bronze reinforced brow and a raised welding visor; no face. Show the full hood with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "548e701090235e3765846d6187bedfa158c3ca41cd2f3f0868aa8b4f5ee7f4fd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/artificers_welding_cowl.webp",
+        "sha256": "7d189429bb80e060e09be96810e2170ffab6d07930944af098dc40cc263fd9bf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

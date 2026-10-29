@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "mob_slow_strike",
+      "runtimeIds": [
+        "slowstrike_mire_prowler"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_slow_strike.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO debuff icon. Paint a single steel sword dragged downward into thick brown swamp mire, its blade clearly impeded by sticky mud. Dark background, dramatic warm highlights, painterly hand-painted fantasy game art, bold readable silhouette at 32 pixels, full bleed square, no border, no text, no letters, no watermark.",
+      "sha256": "be398d0cc75a66bb76bb6901808eea4f252d9db7f791129a79dae24099c977ea",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_slow_strike.webp",
+        "sha256": "de52f57eeea16350b3f3284260c6e27f783f45ad0119156ee8e62d5a4d6cd13f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_stagger_hit",
+      "runtimeIds": [
+        "stagger_deeprock_kobold"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_stagger_hit.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO debuff icon. Paint a single boot slipping sideways on broken stone with a sharp impact burst, conveying loss of balance and reduced dodge. Dark background, ochre stone and iron tones, painterly hand-painted fantasy game art, bold readable silhouette at 32 pixels, full bleed square, no border, no text, no letters, no watermark.",
+      "sha256": "c4f9f580d23adb0c3c5265b9bc76c9c8575a290a6bedc745efcf2c89c08f0c37",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_stagger_hit.webp",
+        "sha256": "9f1c10a761010209b1d368ebae775fd7dd588e09a4f6cf6ca3541e052647b13b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_tongues",
+      "runtimeIds": [
+        "tongues_nhalia_mourner"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_tongues.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO debuff icon. Paint a shadowy open mouth whose purple magical voice is tangled in a heavy knot of spectral ribbons, conveying slowed spellcasting. Dark background, violet and muted gold light, painterly hand-painted fantasy game art, bold readable silhouette at 32 pixels, full bleed square, no border, no text, no letters, no watermark.",
+      "sha256": "ca8b07b1b90fcadd8faa487d429881fd2f04beb6b77bd8aa10e49a839576a68c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_tongues.webp",
+        "sha256": "9405e42b8d4f1172b6a2de57143e4aea148eae17c59403dc251ad6e1313cd24b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_wither",
+      "runtimeIds": [
+        "wither_fen_troll"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_wither.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO debuff icon. Paint a single withered clawed hand, its sinews shriveled under sickly green rot, conveying loss of agility. Dark background, moss green and bone colors, painterly hand-painted fantasy game art, bold readable silhouette at 32 pixels, full bleed square, no border, no text, no letters, no watermark.",
+      "sha256": "8a73db1d01783323ea90ab0806d7866c75894fdc4901a438a88db74c45ce6e56",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_wither.webp",
+        "sha256": "5fc735526c15e701027872a61a0962292e901b292befbef757f0d6577cc347b4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

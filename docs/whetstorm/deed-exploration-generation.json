@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected source outputs and contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "exp_something_shiny",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal with a single luminous golden crystal resting on dark earth, a few restrained sparkles around it, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_something_shiny.png",
+      "masterSha256": "3e35e66b68306240dec3d696cd93ef9bfdb6eaae28bd8e0cd233324c5f06be15",
+      "shipping": "public/ui/whetstorm/deeds/exp_something_shiny.webp",
+      "shippingSha256": "65a62c4e5329bea9e03cd97dece7aeb236db46670d90a897ad8e52e1edf5df7a",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_vale_wayfarer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a winding path across a sunlit green valley toward a distant tree and gentle hills, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_vale_wayfarer.png",
+      "masterSha256": "58f522ff3427c12238ac855cf0cb30cc86d2f53766e8f1184fa585156e5a6c98",
+      "shipping": "public/ui/whetstorm/deeds/exp_vale_wayfarer.webp",
+      "shippingSha256": "a84bb25f78a48aa235f0d88e54c3b4de6a21d9328959fe502da819d8ca21e990",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_marsh_wayfarer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a narrow wooden boardwalk through a misty blue-green marsh with reeds and still water, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_marsh_wayfarer.png",
+      "masterSha256": "a89647862d9f133b92f21db7a3a0ff437e86db836f4fa41938ff9ec809ba51e8",
+      "shipping": "public/ui/whetstorm/deeds/exp_marsh_wayfarer.webp",
+      "shippingSha256": "a05ea9b02be954923c9280bf8f768113cac368b2fba7ff6f67ba01f98a9c3b5a",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_peaks_wayfarer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a bright snow-capped mountain peak above a winding mountain trail and dark rocky slopes, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_peaks_wayfarer.png",
+      "masterSha256": "213b98f884ddde4ab5c165363edfce78441aa75a789d2b65a7ce7c19da5a7873",
+      "shipping": "public/ui/whetstorm/deeds/exp_peaks_wayfarer.webp",
+      "shippingSha256": "2ace7b3a24a2f5852057c976968dd9a13208a5d793c2507e6efc372bd171244a",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "moonscale_saber",
+      "file": "docs/design/whetstorm-art/items/moonscale_saber.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Moonscale Saber (moonscale_saber), a level 16 quest reward. One complete practical one-handed saber with a gently curved silver steel blade, a restrained pale overlapping serpentine scale motif near the guard, simple dark leather grip. Strong diagonal from lower left to upper right with safe padding. Deep navy painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile materials, crisp silhouette, readable at 22px. No people, hands, sheath, text, symbols, border, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "bb705b7b2d3587906d76772f8a5c243f7e634a2ee8499a850d2aaae8fc4e9ceb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonscale_saber.webp",
+        "sha256": "91a4142e42f06c0666de5ac067cbc955482457e733546ff199fe11745c7b3b3c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "palecoil_rod",
+      "file": "docs/design/whetstorm-art/items/palecoil_rod.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Palecoil Rod (palecoil_rod), a level 16 quest reward wand. One complete short bone-white rod with a single sculpted pale serpent coiling around a dark wood core, a modest pearl finial, and dark wrapped grip. Strong diagonal from lower left to upper right with safe padding. Deep navy painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile materials, crisp silhouette, readable at 22px. No people, hands, extra objects, text, symbols, border, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "865208921e9934a92af62e4cf2dbe7e1ab8f2dd62346f0dc66ff3b4a8a7503e9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/palecoil_rod.webp",
+        "sha256": "1dc84f9544607781e175f4ca2b1576e5feec161363f738dd4e20ac0d010ccc0c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "tideglass_dirk",
+      "file": "docs/design/whetstorm-art/items/tideglass_dirk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Tideglass Dirk (tideglass_dirk), a level 16 quest reward. One complete compact dagger with translucent sea-green glass blade and bright beveled edges, a simple weathered silver crossguard and dark leather grip. Strong diagonal from lower left to upper right with safe padding. Deep navy painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile materials, crisp silhouette, readable at 22px. No people, hands, sheath, extra objects, text, symbols, border, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "47089ff173bb515593ede8967cdfe0ff81c295691bcb60a7854f9a26504dde88",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tideglass_dirk.webp",
+        "sha256": "54ef1f7e5eca12bbae5cef900f25acb74fc81f2bb76255d496cbd6a341d19a4a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

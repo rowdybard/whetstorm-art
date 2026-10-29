@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "old_cragmaws_pelt",
+      "file": "docs/design/whetstorm-art/items/old_cragmaws_pelt.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Old Cragmaw's Pelt: a thick rugged gray-brown feline fur pelt, flattened and loosely folded, with a pale underside visible, no head or limbs.",
+      "status": "original material painting; reviewed",
+      "sha256": "a0728763713a4e2af35f9de795f70af422cdd5924d2167446d1629c0ae2915d0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/old_cragmaws_pelt.webp",
+        "sha256": "b5c99817a07ff67e30b0688ae3bbd9ac0d27447885987f490aaf2371c0c3b6aa",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "cracked_ogre_tusk",
+      "file": "docs/design/whetstorm-art/items/cracked_ogre_tusk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Cracked Ogre Tusk: one large curved ivory tusk, clearly chipped and cracked, with a rough broken base, no skull or creature.",
+      "status": "original material painting; reviewed",
+      "sha256": "09b1631b859684739d2d4f3b26f829039e4a878b29b29f6113d0d6a6c5f6e102",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cracked_ogre_tusk.webp",
+        "sha256": "c0db1fc0d12d0e0cd1741cee1bb8d60c242d6699847c1be0cd1193b5fbb012e6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "emberwing_cinderscale",
+      "file": "docs/design/whetstorm-art/items/emberwing_cinderscale.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Emberwing Cinderscale: one broad dark charcoal dragon scale with ember-orange glowing fissures and a subtly scorched textured surface, no creature.",
+      "status": "original material painting; reviewed",
+      "sha256": "39445d24fb34bec868c433527591627873b02abe4034f454fe83ee51233e94f5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberwing_cinderscale.webp",
+        "sha256": "b2680fd0139a82aecdf254854df7bbed437d593d0eaa1f8cfb131819360b4931",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
