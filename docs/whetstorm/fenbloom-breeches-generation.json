@@ -1,0 +1,21 @@
+{
+  "assets": [
+    {
+      "itemId": "fenbloom_breeches",
+      "file": "docs/design/whetstorm-art/items/fenbloom_breeches.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create a single original square fantasy MMORPG inventory icon painting for Fenbloom Breeches, epic leather leg armor with a nature magic theme: one complete pair of dark moss-brown leather trousers with subtle fen-green stitched leaf accents, belt and sturdy leg panels, no boots, no human body, no extra equipment. Centered on a dark slate-blue painted background. Bold readable silhouette at 32 pixels, warm upper-left light, painterly original fantasy style with broad clean shapes. No text, letters, logos, frames or watermark. Do not imitate any existing game or artist.",
+      "sha256": "39eaec05e194ed76e827ae5e8ed700fa87892887c46a4234ffbf2bbb0bdf0ea7",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenbloom_breeches.webp",
+        "sha256": "27332949ee7ff8d156882c64aead12deb05d752699bcac3b1cd9e858496bbec5",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 90 method 6"
+      }
+    }
+  ]
+}

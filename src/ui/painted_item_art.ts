@@ -48,6 +48,7 @@ import { earlyQuestMaterialItemImageUrl } from './early_quest_material_item_art'
 import { farmHighlandMaterialItemImageUrl } from './farm_highland_material_item_art';
 import { farmMaterialsOriginalItemImageUrl } from './farm_materials_original_item_art';
 import { farmingThornpeakItemImageUrl } from './farming_thornpeak_item_art';
+import { fenbloomItemImageUrl } from './fenbloom_item_art';
 import { foodConjuredLaterItemImageUrl } from './food_conjured_later_item_art';
 import { foodCookingLaterItemImageUrl } from './food_cooking_later_item_art';
 import { foodEarlySecondItemImageUrl } from './food_early_second_item_art';
@@ -138,6 +139,7 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    fenbloomItemImageUrl(id) ??
     clothBroodItemImageUrl(id) ??
     clothDelveAmberfallItemImageUrl(id) ??
     farmingThornpeakItemImageUrl(id) ??

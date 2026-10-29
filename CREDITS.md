@@ -839,3 +839,6 @@ paintings only for the exact runtime identities listed in the records.
 Four combat aura paintings are recorded in
 `docs/whetstorm/mob-aura-combat-generation.json`. Their exact mob-effect
 identities deliberately share artwork within the recorded families.
+
+The original Fenbloom Breeches item painting is recorded in
+`docs/whetstorm/fenbloom-breeches-generation.json`.

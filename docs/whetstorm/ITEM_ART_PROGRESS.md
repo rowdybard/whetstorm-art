@@ -1,5 +1,12 @@
 # Item painting checkpoint
 
+Fenbloom follow-up: one original leather leg painting brings this effort to
+529 individual item paintings. Of 1,626 catalog IDs, 546 now have individual
+paintings and 1,080 do not; the raw remainder includes retired entries and
+variants. Its prompt, source and hashes are in
+`fenbloom-breeches-generation.json`. Size review and focused routing tests
+passed; browser, full gate and shipping-tree clearance remain open.
+
 Aura follow-up: four combat-effect paintings cover eight exact runtime IDs.
 The aura strip now resolves painted mob family IDs to Whetstorm art, including
 earlier families. The hunter-authored `pack_frenzy` keeps its ability art.
