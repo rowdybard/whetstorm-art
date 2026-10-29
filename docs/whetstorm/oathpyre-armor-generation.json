@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "oathpyre_helmet",
+      "file": "docs/design/whetstorm-art/items/oathpyre_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Oathpyre Helm: one empty dark steel chain mail helmet with broad bronze plates, deep red enamel accents and a small flame-shaped crest. No face, mannequin or body. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Oathpyre armor painting; reviewed",
+      "sha256": "2b515e0d74cce9f324e374ddedf00e55bd3bef7b1b54311bb57c20d5a921cbb0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/oathpyre_helmet.webp",
+        "sha256": "e76d650aa2f20ae6f2ff0900cda06f71e3d83907dad4e5a7592d932719d85f15",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "oathpyre_shoulder",
+      "file": "docs/design/whetstorm-art/items/oathpyre_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Oathpyre Pauldrons: a compact symmetric pair of empty dark steel chain mail shoulder guards with broad bronze plates, deep red enamel accents and small flame-shaped crests. No wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Oathpyre armor painting; reviewed",
+      "sha256": "a0eacb61f61bb89b4ca96ba52eb4bb4294b057cd28e00e3aef1ee59129c1907d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/oathpyre_shoulder.webp",
+        "sha256": "6a20fcdcbd01a44f49ced3302e4c8fe365824f066fa73e16b438fccd02406462",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "oathpyre_chest",
+      "file": "docs/design/whetstorm-art/items/oathpyre_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Oathpyre Hauberk: one empty front-facing dark steel chain mail shirt with broad bronze plates, deep red enamel accents and a small flame-shaped crest. No wearer, head, hands or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Oathpyre armor painting; reviewed",
+      "sha256": "9e23223f3a10fa791ef09906a58e40043bff1a4a27b4f63a419fb62a5211a0fa",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/oathpyre_chest.webp",
+        "sha256": "0c73447114923bb9a86d79a306bbb6bfb3eda00fb9465c95ec09dc1595eaa735",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "oathpyre_gloves",
+      "file": "docs/design/whetstorm-art/items/oathpyre_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Oathpyre Gauntlets: a compact natural pair of empty dark steel chain mail gloves with broad bronze plates, deep red enamel accents and small flame-shaped crests. No wearer. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Oathpyre armor painting; reviewed",
+      "sha256": "cda8ad37626e7745df3e6a72b08ac0f04c909d525fc76fd348ac9435aef2e0bb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/oathpyre_gloves.webp",
+        "sha256": "8c533894ede6963d3ec985f6ac424b8d4a57e98639676ebd66a037f7861007c6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "oathpyre_legs",
+      "file": "docs/design/whetstorm-art/items/oathpyre_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Oathpyre Legguards: one complete empty front-facing pair of dark steel chain mail trousers ending at open ankle cuffs, with broad bronze plates, deep red enamel accents and small flame-shaped crests. Legs clearly separated, no footwear, boots, wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Oathpyre armor painting; reviewed",
+      "sha256": "d7fecb774a4f4ca2034269888594f4da002492be99f170b9b3ed653177d16b71",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/oathpyre_legs.webp",
+        "sha256": "95027406e0ffe5641cd1c076379a7cbb7f06fd0d514fe70c2cdeb1afa8e022fd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

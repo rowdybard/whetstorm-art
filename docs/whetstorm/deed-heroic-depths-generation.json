@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "dgn_gravewyrm_sanctum_heroic",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a silver sword crossing a horned skeletal wyrm skull beneath a purple-lit stone arch, with a gold laurel wreath, representing a heroic sanctum victory. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_gravewyrm_sanctum_heroic.png",
+      "masterSha256": "d11ebef00d75a70fa7b00d6c99dc4d87f967590c53e712a96373629bcaa34bcf",
+      "shipping": "public/ui/whetstorm/deeds/dgn_gravewyrm_sanctum_heroic.webp",
+      "shippingSha256": "a57fd9be19282a71b606f7959bfa80b98bd5edd4d24a654154d2d140609ee61a",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_nythraxis_heroic",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a broken crown resting on a silver shield before a jagged mountain peak, a fading dragon silhouette in the orange sky, representing a heroic dragon victory. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_nythraxis_heroic.png",
+      "masterSha256": "8de66524d5b280dc88825c5f6220d79b455ed3e93c2f04823df8eb05db533de4",
+      "shipping": "public/ui/whetstorm/deeds/dgn_nythraxis_heroic.webp",
+      "shippingSha256": "327d1b8546e43772a494224c0d2e8086a4555150ad23015fa7ce1e69baf4b47f",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dlv_reliquary_heroic",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing an open golden reliquary chest on fallen stone in a collapsed underground chamber, with a glowing silver sword standing beside it and a small gold laurel. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dlv_reliquary_heroic.png",
+      "masterSha256": "5e364acdee9cdbe7e64c12fb8316c3fd9bdb79ad2844fbbd480dce7f955b7182",
+      "shipping": "public/ui/whetstorm/deeds/dlv_reliquary_heroic.webp",
+      "shippingSha256": "49b9ee269e7fbe1c8129fb7b4e5e7ef91a02d1a336525beb05ff30c6b9c392cd",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

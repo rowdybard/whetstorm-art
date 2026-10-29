@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "wlk_forbidden_reflection",
+      "runtimeIds": [
+        "wlk_forbidden_reflection",
+        "wlk_forbidden_reflection_lock"
+      ],
+      "file": "docs/design/whetstorm-art/auras/wlk_forbidden_reflection.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original forbidden reflection status: a dark oval mirror with a bright violet echo of a single spell spark reflected twice in its surface, shadowy aura. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "c84f663b0330340f9525e7532b2e677cf9c9245616220ee6d3a4e46315885152",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/wlk_forbidden_reflection.webp",
+        "sha256": "7d55e6be9cbaf109349da3c79e96f482ff08ba628a1e4195b06273b9ba8fbbd5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/wlk_forbidden_reflection.webp",
+          "public/ui/auras/wlk_forbidden_reflection_lock.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "wlk_leaden_hex",
+      "runtimeIds": [
+        "wlk_leaden_hex_slow",
+        "wlk_leaden_hex_root",
+        "wlk_leaden_hex_root_lock"
+      ],
+      "file": "docs/design/whetstorm-art/auras/wlk_leaden_hex.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original leaden hex status: a heavy dark metal chain coils around a single boot, with a subtle violet shadow glow, conveying slowing and rooting. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "1da7308991a3bf1138f73e1714fd03f79d08a86cb6bf27c0366d82c3f91fa561",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/wlk_leaden_hex.webp",
+        "sha256": "67fbd3bfdfc75c12f5c3fa35c7798e9bc945a5437e73874e78745298f42f8962",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/wlk_leaden_hex_slow.webp",
+          "public/ui/auras/wlk_leaden_hex_root.webp",
+          "public/ui/auras/wlk_leaden_hex_root_lock.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "voidsong_echo",
+      "runtimeIds": [
+        "voidsong_echo"
+      ],
+      "file": "docs/design/whetstorm-art/auras/voidsong_echo.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original voidsong damage status: a small dark violet crystal emitting concentric purple sound waves into shadow, a sharp central glow. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "2d83371bcbce1d45e4368f115cf6429b90659c219934d4a7c7b96c68c88af23a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/voidsong_echo.webp",
+        "sha256": "d03f149efb61cc58e30622909ab43d7e850f7c4974f788737963c54632f86a00",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/voidsong_echo.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

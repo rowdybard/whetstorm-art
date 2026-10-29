@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "bronze_hoe",
+      "file": "docs/design/whetstorm-art/items/bronze_hoe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Bronze Hoe: a practical farming hoe with a modest rectangular bronze blade set perpendicular to a wooden handle, no combat decoration. Original hand-painted fantasy, tactile metal and wood, warm upper-left light, centered complete diagonal silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original farming tool painting; reviewed",
+      "sha256": "48d1231391cbd6570c1f156cb8d78b2bce3a2784a461ff801d418c2c594e418c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bronze_hoe.webp",
+        "sha256": "700880012552c5abdcb73859bf35fee695064e2542d71eb94fc3ac80b09bc587",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "skysilver_hoe",
+      "file": "docs/design/whetstorm-art/items/skysilver_hoe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Skysilver Hoe: a practical farming hoe with a silver-blue rectangular blade set perpendicular to a pale wooden handle, subtle cloud engraving, no combat decoration. Original hand-painted fantasy, tactile metal and wood, warm upper-left light, centered complete diagonal silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original farming tool painting; reviewed",
+      "sha256": "c4c687dba2126627a4917df60fb2a18ae098b50e03cb16b7c72ac6b5bb14d36a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/skysilver_hoe.webp",
+        "sha256": "421d85485e6fc458afd6b5d7eddfe8315e4dd70ab3285f19ad41d9a6c1304da5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "osmium_hoe",
+      "file": "docs/design/whetstorm-art/items/osmium_hoe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Osmium Hoe: a sturdy farming hoe with a dark blue-gray steel rectangular blade set perpendicular to a brown wooden handle, brass reinforcement, no combat decoration. Original hand-painted fantasy, tactile metal and wood, warm upper-left light, centered complete diagonal silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original farming tool painting; reviewed",
+      "sha256": "c422bdacab5ba35276e528e5d75e3118b20e830d6c45ed3023165f93e11c4c08",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/osmium_hoe.webp",
+        "sha256": "a4a3b356b0f0a1dcba7ea37c5d1df5f44786ba86ab7f6adc07b4c310291a5ec7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "evergarden_hoe",
+      "file": "docs/design/whetstorm-art/items/evergarden_hoe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Evergarden Hoe: an elegant farming hoe with a green-patinated bronze blade set perpendicular to a wooden handle, leaf engraving and a brass collar, no combat decoration. Original hand-painted fantasy, tactile metal and wood, warm upper-left light, centered complete diagonal silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original farming tool painting; reviewed",
+      "sha256": "a83cc3b7ad452e983137817fcd80cb1e4937ae5ef6844a750ea4736769b2c561",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/evergarden_hoe.webp",
+        "sha256": "bfa0b8f456b81888de0d78f37026d9ae3afb4738301fcb8f7be17c1f18431dba",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

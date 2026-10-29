@@ -75,6 +75,7 @@ import { farmHighlandMaterialItemImageUrl } from './farm_highland_material_item_
 import { farmMaterialsOriginalItemImageUrl } from './farm_materials_original_item_art';
 import { farmProduceFineItemImageUrl } from './farm_produce_fine_item_art';
 import { farmProduceOriginalItemImageUrl } from './farm_produce_original_item_art';
+import { farmingHoesItemImageUrl } from './farming_hoes_item_art';
 import { farmingThornpeakItemImageUrl } from './farming_thornpeak_item_art';
 import { fenbloomItemImageUrl } from './fenbloom_item_art';
 import { fishingLaterCatchItemImageUrl } from './fishing_later_catch_item_art';
@@ -151,6 +152,7 @@ import { materialOrewoodBatchItemImageUrl } from './material_orewood_batch_item_
 import { materialProvisioningItemImageUrl } from './material_provisioning_item_art';
 import { mistLunarItemImageUrl } from './mist_lunar_item_art';
 import { mournweaveArmorItemImageUrl } from './mournweave_armor_item_art';
+import { oathpyreArmorItemImageUrl } from './oathpyre_armor_item_art';
 import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
 import { potionAlchemyNextItemImageUrl } from './potion_alchemy_next_item_art';
 import { potionLaterItemImageUrl } from './potion_later_item_art';
@@ -216,6 +218,8 @@ import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    farmingHoesItemImageUrl(id) ??
+    oathpyreArmorItemImageUrl(id) ??
     crozierSparksItemImageUrl(id) ??
     gatheringToolsItemImageUrl(id) ??
     utilitySuppliesItemImageUrl(id) ??
