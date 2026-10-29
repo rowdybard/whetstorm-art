@@ -64,6 +64,19 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Thirty-first checkpoint: four mail pieces, four cloth pieces, four foods,
+four later-tier jewelry pieces, four crafting materials and four quest objects
+add 24 unique paintings. This effort has created 372 paintings for 372 IDs
+without deliberate reuse. Of 1,626 catalog IDs, 389 have direct individual
+paintings and 1,237 do not. Chime Shard and the jewelry are later-tier content.
+Records are `mail-boneward-generation.json`, `cloth-batch-four-generation.json`,
+`food-highwatch-supplies-generation.json`, `jewelry-batch-later-tier-generation.json`,
+`material-chime-cloth-generation.json` and `quest-batch-clues-crypt-generation.json`.
+Four additional freight fixture candidates were generated but are unintegrated
+and uncounted pending confirmation of inventory use; their local provenance is
+`quest-batch-freight-generation.json`. Inventory-size reviews and focused image
+and routing tests passed. Browser, full gate and shipping-tree clearance remain open.
+
 Thirtieth checkpoint: four mail pieces, four leather pieces, four foods, four
 faction jewelry pieces, four farming materials and four quest objects add 24
 unique paintings. This effort has created 348 paintings for 348 IDs without

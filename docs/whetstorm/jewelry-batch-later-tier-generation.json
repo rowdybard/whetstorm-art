@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "seal_of_the_nine_oaths",
+      "file": "docs/design/whetstorm-art/items/seal_of_the_nine_oaths.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create an original square Whetstorm inventory painting of the Seal of the Nine Oaths: a single substantial bronze signet ring with nine small simple notches around a solid circular seal. Hand-painted fantasy, bold readable silhouette, soft warm upper-left light, dark slate-blue painted background. Center whole ring with margin, readable at 32 pixels. No frame, text, letters, logos, watermark, hands, or copied game designs.",
+      "status": "later-tier level 20 heroic vendor and world quest jewelry; reviewed at 32, 48, 64 and 128 pixels",
+      "sha256": "c7f7776a412ce9e00eb050e58bad4e28bc938b1c273a2aeb412fc938ac92899f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/seal_of_the_nine_oaths.webp",
+        "sha256": "47fdbd28de5a6f5992f2056c64012153feb82dd056cb8dff2c654a1485b5dad4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-c4d39cca-d78d-4382-9fd1-beee6d64327c.png"
+    },
+    {
+      "itemId": "nielas_coldlight_band",
+      "file": "docs/design/whetstorm-art/items/nielas_coldlight_band.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create an original square Whetstorm inventory painting of Niela's Coldlight Band: a single polished silver ring with a broad icy pale blue oval stone held in simple claws, gentle frosty glow. Hand-painted fantasy, bold readable silhouette, soft upper-left light, dark slate-blue painted background. Center whole ring with margin, readable at 32 pixels. No frame, text, letters, logos, watermark, hands, or copied game designs.",
+      "status": "later-tier level 20 heroic vendor and world quest jewelry; reviewed at 32, 48, 64 and 128 pixels",
+      "sha256": "c1813f9f40f585378f39f096106bc34a01d5e5ab869d2fb83f2c085f672b28e1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/nielas_coldlight_band.webp",
+        "sha256": "cecb137b93b0572289900f1a498b34f4ed1bbcff44ed2b9768b4083e68055d65",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-c39f2516-bef2-4993-b248-096c89b28bf3.png"
+    },
+    {
+      "itemId": "sutils_gambit",
+      "file": "docs/design/whetstorm-art/items/sutils_gambit.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create an original square Whetstorm inventory painting of Sutil's Gambit: a single dark steel ring with an angular copper bezel and a rich red diamond-shaped stone, subtle asymmetrical construction. Hand-painted fantasy, bold readable silhouette, soft warm upper-left light, dark slate-blue painted background. Center whole ring with margin, readable at 32 pixels. No frame, text, letters, logos, watermark, hands, or copied game designs.",
+      "status": "later-tier level 20 heroic vendor and world quest jewelry; reviewed at 32, 48, 64 and 128 pixels",
+      "sha256": "087d2aaa40968ab0737c731b2606832fd145d9b62f8d53f8d76bcfb8b2fb3d73",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sutils_gambit.webp",
+        "sha256": "979c0cb747c830ac9c9d2c75d707d98d7bcfc32193d4e2d4eede24062a67b859",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-7c1e891b-4998-47dc-a679-fe6a577805f5.png"
+    },
+    {
+      "itemId": "oath_of_the_round_table",
+      "file": "docs/design/whetstorm-art/items/oath_of_the_round_table.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create an original square Whetstorm inventory painting of Oath of the Round Table: a single sturdy gold ring whose broad round face shows a simple circular table motif with four raised seats. Hand-painted fantasy, bold readable silhouette, soft warm upper-left light, dark slate-blue painted background. Center whole ring with margin, readable at 32 pixels. No frame, text, letters, logos, watermark, hands, or copied game designs.",
+      "status": "later-tier level 20 heroic vendor and world quest jewelry; reviewed at 32, 48, 64 and 128 pixels",
+      "sha256": "e04c20aef9588e94f81588b7fb18c92a87f0c0232432a58409ad580d0adbbd12",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/oath_of_the_round_table.webp",
+        "sha256": "4b3832fe8b2ef14c5305fc0db6ad4bde5911a22cf0f3c0c04cc3345c48d60109",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-f8702903-cc4c-4ae3-a241-26e8097516cc.png"
+    }
+  ]
+}

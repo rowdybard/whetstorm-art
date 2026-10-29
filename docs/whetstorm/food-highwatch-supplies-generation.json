@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "highwatch_barley_bannock",
+      "file": "docs/design/whetstorm-art/items/highwatch_barley_bannock.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy game inventory item painting. Original Whetstorm hand-painted fantasy style, bold clean shapes and readable silhouette, warm painterly light from upper left. Center the entire subject on a dark painted slate background, substantial margins. Minimal detail, vivid restrained colors, readable at 32 pixels. No border, frame, text, letters, logo, watermark. Original design; do not copy any existing game or artist. Subject: Highwatch Barley Bannock: a single round rustic golden barley flatbread, split slightly to reveal crumb, with a few baked-in green herb flecks.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "64cd1aa523041b06b580a9e2c32b9b87e88e2a76a8f08fd001a66b4a0a232a61",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/highwatch_barley_bannock.webp",
+        "sha256": "766a72ae57995a39b8a2220775eceee56c10ab66baa1623335261ccf05831860",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "highwatch_gourd_soup",
+      "file": "docs/design/whetstorm-art/items/highwatch_gourd_soup.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy game inventory item painting. Original Whetstorm hand-painted fantasy style, bold clean shapes and readable silhouette, warm painterly light from upper left. Center the entire subject on a dark painted slate background, substantial margins. Minimal detail, vivid restrained colors, readable at 32 pixels. No border, frame, text, letters, logo, watermark. Original design; do not copy any existing game or artist. Subject: Highwatch Gourd Soup: a small sturdy pottery bowl filled with golden orange gourd soup, a simple swirl and a few herbs, entire bowl visible.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "09a05f6f72df1a2623f2408cac85162b94c3e7d6cf4d2dfa811e5ee583e6593f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/highwatch_gourd_soup.webp",
+        "sha256": "7bddf323fb8e54bbea49f6e26fc09f3462381779d25de9336ab0327006e63349",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "trail_hardtack",
+      "file": "docs/design/whetstorm-art/items/trail_hardtack.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy game inventory item painting. Original Whetstorm hand-painted fantasy style, bold clean shapes and readable silhouette, warm painterly light from upper left. Center the entire subject on a dark painted slate background, substantial margins. Minimal detail, vivid restrained colors, readable at 32 pixels. No border, frame, text, letters, logo, watermark. Original design; do not copy any existing game or artist. Subject: Highwatch Trail Hardtack: a small stack of square rough baked hardtack biscuits with distinct holes and browned edges, tied loosely with plain twine.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "e3baeaefdb503a47ee8486a1a584992b49037e104164bbac9ec018605dbb25f3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/trail_hardtack.webp",
+        "sha256": "2516a6e2b8e5957aa6b292b8430a043ae698eb38d5cac2202cf5f0d967cc4392",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "meltwater_flask",
+      "file": "docs/design/whetstorm-art/items/meltwater_flask.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy game inventory item painting. Original Whetstorm hand-painted fantasy style, bold clean shapes and readable silhouette, warm painterly light from upper left. Center the entire subject on a dark painted slate background, substantial margins. Minimal detail, vivid restrained colors, readable at 32 pixels. No border, frame, text, letters, logo, watermark. Original design; do not copy any existing game or artist. Subject: Meltwater Flask: one squat clear glass flask filled with pale blue water, cork stopper and simple leather carrying loop, whole flask visible.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "f05dda7e936e07ecd5d9e8710bc80fabbc9d77611e53185938b3474d13a0b391",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/meltwater_flask.webp",
+        "sha256": "7a8e6e9f04449cd029ae694b057ac442211ef51f992b70d81c15f4b103b399ba",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "homespun_cloth",
+      "file": "docs/design/whetstorm-art/items/homespun_cloth.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint Homespun Cloth: a compact folded bundle of coarse natural undyed woven fabric, visible crosswoven fibers and soft frayed edge, secured by a simple thread. Original hand-painted fantasy art, lush color, bold readable silhouette, centered whole subject against dark muted painted background. No frame, text, letters, logo or watermark. No imitation of any existing game asset.",
+      "status": "original material painting; reviewed at 32, 48 and 64 pixels",
+      "sha256": "a047160de7ee5a7ec613ce6c8d00849e9b27a8f1360db5cda49f7b1e78701bc6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/homespun_cloth.webp",
+        "sha256": "031a6b8d44643cb6710f11d15f0c1dad1658f5d62ba72c85b984d4e3007ba3cd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "arcane_shard",
+      "file": "docs/design/whetstorm-art/items/arcane_shard.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint Chime Shard: a single jagged luminous violet-blue magical crystal fragment with angular facets and a delicate inner chime-like glow. Original hand-painted fantasy art, lush color, bold readable silhouette, centered whole subject against dark muted painted background. No frame, text, letters, logo or watermark. No imitation of any existing game asset.",
+      "status": "original material painting; reviewed at 32, 48 and 64 pixels",
+      "sha256": "dd9949471e715ef7fa3bda99a24cb30ba64b9df027de324a32a41e9261a6b3fa",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/arcane_shard.webp",
+        "sha256": "4d0e9fed828bb897fd5b18aba9f952f72f3a305bc246a1e6ae1978cae3f884b9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "arcane_essence",
+      "file": "docs/design/whetstorm-art/items/arcane_essence.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint Chime Essence: a small sealed round glass vial containing glowing swirling turquoise magical essence, with a simple cork and a distinct bright liquid silhouette. Original hand-painted fantasy art, lush color, bold readable silhouette, centered whole subject against dark muted painted background. No frame, text, letters, logo or watermark. No imitation of any existing game asset.",
+      "status": "original material painting; reviewed at 32, 48 and 64 pixels",
+      "sha256": "5dd04673849ecc343f3b77d640f44cbaa5d5ddf628a21d277192899f4a1802eb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/arcane_essence.webp",
+        "sha256": "e6804e5aec6b6ce04dc8224eac83673d08684bdb4085bdfe2df47e3baa6ded2f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "arcane_dust",
+      "file": "docs/design/whetstorm-art/items/arcane_dust.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square inventory item painting. Paint Chime Dust: a small open rustic shallow ceramic bowl holding sparkling blue-violet magical powder, with a few luminous motes above its rim. Original hand-painted fantasy art, lush color, bold readable silhouette, centered whole subject against dark muted painted background. No frame, text, letters, logo or watermark. No imitation of any existing game asset.",
+      "status": "original material painting; reviewed at 32, 48 and 64 pixels",
+      "sha256": "05759bb789691f89f134ce54349c2045eb4984a302f9028581d507753602fd5e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/arcane_dust.webp",
+        "sha256": "ebe037dba9d2680195e338da5bb101385712d7b109e49f1f6286ca0f53f055f8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

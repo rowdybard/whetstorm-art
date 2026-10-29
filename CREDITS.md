@@ -756,3 +756,11 @@ are recorded in `docs/whetstorm/mail-highwatch-generation.json`,
 `docs/whetstorm/jewelry-champions-generation.json`,
 `docs/whetstorm/farm-materials-original-generation.json`, and
 `docs/whetstorm/quest-shore-original-generation.json`.
+
+Twenty-four mail, cloth, food, jewelry, material and quest paintings are
+recorded in `docs/whetstorm/mail-boneward-generation.json`,
+`docs/whetstorm/cloth-batch-four-generation.json`,
+`docs/whetstorm/food-highwatch-supplies-generation.json`,
+`docs/whetstorm/jewelry-batch-later-tier-generation.json`,
+`docs/whetstorm/material-chime-cloth-generation.json`, and
+`docs/whetstorm/quest-batch-clues-crypt-generation.json`.

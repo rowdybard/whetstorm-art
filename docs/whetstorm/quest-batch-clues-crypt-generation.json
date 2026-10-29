@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "clue_scroll",
+      "file": "docs/design/whetstorm-art/items/clue_scroll.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for clue_scroll, a clue scroll. A single complete rolled parchment scroll tied with a red cord, a corner slightly unfurled with abstract ink marks that are not letters, centered on a dark slate-blue painted square. Hand-painted stylized fantasy, bold clean silhouette, warm upper-left light, restrained detail readable at 32 pixels. No frame, text, letters, logo, watermark, people, other objects, photorealism or copied game designs.",
+      "sha256": "1fc70e912db1e37b81100fdba6af422f3e2090f22b6ef74bff98e208f752e977",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/clue_scroll.webp",
+        "sha256": "992aaab2d03b9dc1c458b59c22c90b7e17b4e327e7f627f13720f09a9729f6dc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "treasure_casket",
+      "file": "docs/design/whetstorm-art/items/treasure_casket.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for treasure_casket, a treasure casket. A single complete small closed wooden chest with stout aged bronze bands, a broad central latch and rounded lid, three-quarter view, centered on a dark slate-blue painted square. Hand-painted stylized fantasy, bold clean silhouette, warm upper-left light, restrained detail readable at 32 pixels. No frame, text, letters, logo, watermark, people, other objects, photorealism or copied game designs.",
+      "sha256": "1df09719a0876b02679c84e844c8edde0c3ddce70f966e177d12b8f5c5b636dc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/treasure_casket.webp",
+        "sha256": "53ff5c8da46f78bcdc01e2a238493d822edde72513e23877077c859b79b03a92",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "captains_crest",
+      "file": "docs/design/whetstorm-art/items/captains_crest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for captains_crest, the upper half of a crypt keystone. One complete thick carved grey stone upper half of a circular keystone, shaped like a broad semicircle with a flat broken lower edge and a simple raised bronze arch, centered on a dark slate-blue painted square. Hand-painted stylized fantasy, bold clean silhouette, warm upper-left light, restrained detail readable at 32 pixels. No letters, text, frame, logo, watermark, people, other objects, photorealism or copied game designs.",
+      "sha256": "1f762c961661273324034d38b46e7b099bf3c40e1a2a3e6d953ef1ce83dca34b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/captains_crest.webp",
+        "sha256": "3927bbf1d1a175d3df6115644482db98bd12b89e23380a49b90ef478710c4d9f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "priests_sigil",
+      "file": "docs/design/whetstorm-art/items/priests_sigil.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for priests_sigil, the lower half of a crypt keystone. One complete thick carved grey stone lower half of a circular keystone, a broad downward semicircle with a flat broken upper edge and a simple raised bronze curved band, centered on a dark slate-blue painted square. Hand-painted stylized fantasy, bold clean silhouette, warm upper-left light, restrained detail readable at 32 pixels. No letters, text, frame, logo, watermark, people, other objects, photorealism or copied game designs.",
+      "sha256": "25fb066c843482cefa0b9632fe1b94b5fbe1a7e119d3a24e8912bbdea466ea65",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/priests_sigil.webp",
+        "sha256": "280493cbd20512165d3b7b75c27797efb49ce82069d9749c8fc98eab895bac91",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

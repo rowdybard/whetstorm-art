@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/boneplate_vest.png",
+      "subject": "Boneplate Vest",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for boneplate_vest, Boneplate Vest. One complete empty practical mail vest with a bold breast of overlapping pale bone plates fastened over dark iron chainmail, simple brown leather straps. Centered on dark slate-blue painted background. Square edge-to-edge hand-painted stylized fantasy, bold silhouette, restrained detail, warm upper-left light, readable at 32 pixels. No wearer, stand, other objects, frame, text, letters, logo, watermark, glow, or copied game designs.",
+      "sha256": "2530af9dad3b17cdbcded4bd3ab693ae900ab4bc3d59106f99aafafd3a49d9cf",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "boneplate_vest",
+      "status": "original art awaiting integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/boneplate_vest.webp",
+        "sha256": "1e2f6ccb2de88fe3f4383345340df9fe7c1b582c76b7ef9700d28f866b7752b8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/drogmar_warboots.png",
+      "subject": "Drogmar's Warboots",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for drogmar_warboots, Drogmar's Warboots. One complete pair of empty heavy iron armored boots with sturdy dark steel toe caps, riveted brown leather cuffs and broad angular bronze ankle guards, practical battle-worn gear. Centered on dark slate-blue painted background. Square edge-to-edge hand-painted stylized fantasy, bold silhouette, restrained detail, warm upper-left light, readable at 32 pixels. No wearer, legs, stand, other objects, frame, text, letters, logo, watermark, glow, or copied game designs.",
+      "sha256": "dcc967c2301d723049b1c7443869b18c361eab27b5befbccec91c035377f25c9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "drogmar_warboots",
+      "status": "original art awaiting integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drogmar_warboots.webp",
+        "sha256": "a986fad721763447a9c9cce69364559f2e5990837fa05e32760689008bbbee34",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/marrowlord_boneboots.png",
+      "subject": "Marrowlord Boneboots",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for marrowlord_boneboots, Marrowlord Boneboots. One complete pair of empty armored boots with pale ivory bone shin plates, dark iron chainmail joints and sturdy steel toes, distinctive broad curved bone ridges. Centered on dark slate-blue painted background. Square edge-to-edge hand-painted stylized fantasy, bold silhouette, restrained detail, warm upper-left light, readable at 32 pixels. No wearer, legs, stand, other objects, frame, text, letters, logo, watermark, glow, or copied game designs.",
+      "sha256": "e5425068be7c17942eab96b155a75b546a48de4e608bf3e90b81b1abd84d86eb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "marrowlord_boneboots",
+      "status": "original art awaiting integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/marrowlord_boneboots.webp",
+        "sha256": "1cf83967cba204c3067da889fc0845f701f33c6b9e98cde10db07bb3828e1d23",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/boneguard_breastplate.png",
+      "subject": "Boneguard Breastplate",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for boneguard_breastplate, Boneguard Breastplate. One complete empty dark steel mail breastplate with a prominent pale bone-colored V-shaped central guard, simple rivets and broad armored shoulder edges, practical dungeon armor. Centered on dark slate-blue painted background. Square edge-to-edge hand-painted stylized fantasy, bold silhouette, restrained detail, warm upper-left light, readable at 32 pixels. No wearer, stand, other objects, frame, text, letters, logo, watermark, glow, or copied game designs.",
+      "sha256": "3495b71d2a6805ce6623d2c147987bf18a661453d836c62edc19da7ef1c3aecd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "boneguard_breastplate",
+      "status": "original art awaiting integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/boneguard_breastplate.webp",
+        "sha256": "d041b89799e1b31384959bc28b48ec1b1c050cde27c9661c2d01d562909f099d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    }
+  ]
+}

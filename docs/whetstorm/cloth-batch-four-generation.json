@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "litany_legs",
+      "file": "docs/design/whetstorm-art/items/litany_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: Silt-Walker Greaves, a whole pair of soft cloth trousers with wrapped lower legs, weathered clay brown fabric with pale silt-colored stitched bindings, centered. Original stylized fantasy hand-painted look, bold clean silhouette, soft upper-left lighting, dark painted background. Readable at 32 pixels. No frame, text, letters, logos, watermark, person, metal armor or copied designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "d5caf98f590fe1104283c33d17045e5d6e40b835930fffa14bc286b7ed4e8dde",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/litany_legs.webp",
+        "sha256": "ecc7d837e32ce25c02589af8cb488e10f3c9b06a353356586798ba18591f9b28",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-be8a867a-e80a-4635-be90-b0be2d550d9b.png"
+    },
+    {
+      "itemId": "litany_cloth_chest",
+      "file": "docs/design/whetstorm-art/items/litany_cloth_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: Choir-Drowned Raiment, a whole empty cloth chest robe, faded deep blue fabric with ivory layered collar and subtle water-worn gold edging, centered. Original stylized fantasy hand-painted look, bold clean silhouette, soft upper-left lighting, dark painted background. Readable at 32 pixels. No frame, text, letters, logos, watermark, person or copied designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "9091cb024981f9885f42bbcec538f7cee5cb27c28e1ba15f7d79d7a6a3498f90",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/litany_cloth_chest.webp",
+        "sha256": "9ac2c11c434bb989ccce2755f4f31cf307434882ec7faf75e24f150ec912b043",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-91043e0f-6f4b-406b-aacd-1a34b2f9336b.png"
+    },
+    {
+      "itemId": "litany_helm",
+      "file": "docs/design/whetstorm-art/items/litany_helm.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: Reliquant's Drowned Cowl, a whole empty cloth hood with broad draped shoulders, dark moss green linen with a pale blue stitched border, centered. Original stylized fantasy hand-painted look, bold clean silhouette, soft upper-left lighting, dark painted background. Readable at 32 pixels. No frame, text, letters, logos, watermark, person or copied designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "60408b9fa4edbd1e7bc517f9e94da8b7eaeef346f74536411bf57ff314a5622f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/litany_helm.webp",
+        "sha256": "9f4b80fc5644c872f2ba94f4c7547f89d62c0a0d003a3ba488a5e78867828c79",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-f7b77f35-03c5-4f41-a6ee-fdaf4b401b3a.png"
+    },
+    {
+      "itemId": "tidewatchers_wraps",
+      "file": "docs/design/whetstorm-art/items/tidewatchers_wraps.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting for Whetstorm: Tidewatcher's Wraps, a whole pair of soft cloth trousers with bandaged lower legs, sea-green fabric with wide sandy cream ties, centered. Original stylized fantasy hand-painted look, bold clean silhouette, soft upper-left lighting, dark painted background. Readable at 32 pixels. No frame, text, letters, logos, watermark, person, metal armor or copied designs.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "2948888bd4db8b2f9b5179e0d59c1d726ef3be98976e68372747b6619e3bf73c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tidewatchers_wraps.webp",
+        "sha256": "3ce845f45bc1b0428979b559c04cde2798f142b9749102336934d0185742ab76",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-11f724ba-6c81-421f-8645-8f3e97c0d86f.png"
+    }
+  ]
+}
