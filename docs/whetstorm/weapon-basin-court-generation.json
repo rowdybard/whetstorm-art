@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "greatfang_of_the_basin",
+      "file": "docs/design/whetstorm-art/items/greatfang_of_the_basin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Greatfang of the Basin, complete epic two-handed greatsword shaped like a broad pale fang, with reinforced steel spine, rugged bronze crossguard and dark hide-wrapped long grip. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "b8909287aa1a374c6441ec6fe23881de4e039bc84a394445514843df3db14fc5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/greatfang_of_the_basin.webp",
+        "sha256": "27eab323d82379c0fd2c82c945fc28291a07ceb5c6eb2b4e6e18a099660575b3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-a77256c1-64ed-4035-be16-6fd80aaeb172.png"
+    },
+    {
+      "itemId": "scepter_of_the_deathless_court",
+      "file": "docs/design/whetstorm-art/items/scepter_of_the_deathless_court.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Scepter of the Deathless Court, complete compact one-handed wand with dark iron shaft, sculpted bone crown surrounding a small muted violet gem, antique bronze fittings and wrapped leather grip. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "32af0140285bd6a141dbd2f0d5a57362d7397e506e686aa69dc3e980fa7772fb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/scepter_of_the_deathless_court.webp",
+        "sha256": "b88a1c5f9719175ed5c81e1035691af30bf53df01e6a7b57d8720520dae3ea7c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-1ea3d6fe-5a73-4820-ba07-5a902ca02618.png"
+    }
+  ]
+}

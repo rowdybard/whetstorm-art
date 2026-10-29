@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "itemId": "gravewoven_bag",
+      "file": "docs/design/whetstorm-art/items/gravewoven_bag.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Gravewoven Bag: a compact rugged dark charcoal woven cloth sack with pale gray stitched seams, leather drawstring and subtle bone-shaped clasp, no skulls or text. Original hand-painted fantasy, tactile fabric, warm upper-left light, centered complete bag silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "070c9a695522d56e24ec19763e32362ba00d6786ea04bca3c489f903faa5ed43",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewoven_bag.webp",
+        "sha256": "ab0a6ff18d27821f8967d4bc57201598f95b1063ddda6786cb6406369a973872",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "mistcallers_duffel",
+      "file": "docs/design/whetstorm-art/items/mistcallers_duffel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Mistcaller's Duffel: a practical rounded blue-gray canvas travel duffel with leather straps, brass buckles, a folded and tied cloth opening, and delicate mist around its base. Medieval fantasy craftsmanship, no zippers, no modern hardware, no characters. Original hand-painted fantasy, tactile fabric, warm upper-left light, centered complete bag silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "d6659b7afabf5f506da5277e3edf21513aafdf3cec6ff108dcb8f6dbb015ba81",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mistcallers_duffel.webp",
+        "sha256": "4593aeb7ce495784c98e68e16d1888ecd60e9ac1a8e6af98ccd14a51b74ca2f1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "necromancers_reagent_satchel",
+      "file": "docs/design/whetstorm-art/items/necromancers_reagent_satchel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Necromancer's Reagent Satchel: a worn deep purple leather messenger satchel with a flap, small stitched reagent pockets and a silver clasp holding a dark violet gem, no skulls or text. Original hand-painted fantasy, tactile leather, warm upper-left light, centered complete bag silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "de85e8f441af76e67bdb5e92e581891f835155a60e38b5ecc65fa2a907a585c6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/necromancers_reagent_satchel.webp",
+        "sha256": "e42b38d94ff542024764df7dfc49d43a71dc318fd209930c245fbcdc07aaf03f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

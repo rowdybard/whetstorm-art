@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "deathless_greatblade",
+      "file": "docs/design/whetstorm-art/items/deathless_greatblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Deathless Greatblade, complete epic two-handed greatsword with long dark steel blade, pale bone ribs near the guard, antique bronze fittings and black leather grip, restrained violet glint. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "46ff65be19cdfe7d46631305deb9cd04deae9d45ee9b18247455e0826ca8b023",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/deathless_greatblade.webp",
+        "sha256": "a90a62010ea1883ff087421fab72e9ebd16d3826c7cc23cd15ec3b86fb5e9e47",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-a70b8475-4466-4eab-9845-496ea2f96566.png"
+    },
+    {
+      "itemId": "stormcallers_focus",
+      "file": "docs/design/whetstorm-art/items/stormcallers_focus.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Stormcaller's Focus, complete compact one-handed wand with dark wood shaft, a blue crystal held in a silver pronged crown, bronze bands and a restrained small arc of electricity. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "d480412ca622c7080373e7f2003e94ee7b87df11797c45b89b6b9268561806aa",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormcallers_focus.webp",
+        "sha256": "b93d588fb6a44b581af694ab3610bbdbb1244c73c4e83d55e9095affc78c2b17",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-8f4284d8-7632-4215-b91f-edc4f930e6d8.png"
+    }
+  ]
+}

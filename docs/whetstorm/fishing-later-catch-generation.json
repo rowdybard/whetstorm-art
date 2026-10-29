@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "raw_deepbarb_catfish",
+      "file": "docs/design/whetstorm-art/items/raw_deepbarb_catfish.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one whole raw deepbarb catfish, robust dark blue-gray body with long whiskers and a broad head, oriented diagonally against a dark muted blue painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No plate, hook, water, border, text, logo, watermark, or imitation of another game.",
+      "sha256": "09c73fc14ed43037e782b38ee3c046f64c56f94e0789dc3e26c92fa7dd3c0740",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/raw_deepbarb_catfish.webp",
+        "sha256": "39fcd4c5202e6cb7c907ff9fcb165480f90a848b8bb52ba01d11228b8031ad40",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "raw_hollowgill_sturgeon",
+      "file": "docs/design/whetstorm-art/items/raw_hollowgill_sturgeon.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one whole raw hollowgill sturgeon, long pale gray fish with a pointed snout and armored bony ridges along its back, oriented diagonally against a dark slate teal painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No plate, hook, water, border, text, logo, watermark, or imitation of another game.",
+      "sha256": "a0efb0ed29ca0f3b641e1b7ecc56e7d749abb507e4f663eca019e39692170176",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/raw_hollowgill_sturgeon.webp",
+        "sha256": "28dd6840622595ced76347cfd5cf339cea62ef7a481f292c71b69120a2584ac5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "raw_stillmere_salmon",
+      "file": "docs/design/whetstorm-art/items/raw_stillmere_salmon.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one whole raw stillmere salmon, slender silver fish with muted rose sides and a scattering of dark spots, oriented diagonally against a dark forest blue painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No plate, hook, water, border, text, logo, watermark, or imitation of another game.",
+      "sha256": "93d63c383d49e097265d7daf1b38ae6ea49dd569d40a15d743ba59d52c065792",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/raw_stillmere_salmon.webp",
+        "sha256": "41992c5d1cb79e259f537f5c4f30d582036cd98d2ec606dd1226c0913c250611",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

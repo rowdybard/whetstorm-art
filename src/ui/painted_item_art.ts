@@ -21,6 +21,7 @@ import { armorBatchTwentytwoItemImageUrl } from './armor_batch_twentytwo_item_ar
 import { armorBatchTwoItemImageUrl } from './armor_batch_two_item_art';
 import { bagsFishItemImageUrl } from './bags_fish_item_art';
 import { barksongItemImageUrl } from './barksong_item_art';
+import { basinCourtItemImageUrl } from './basin_court_item_art';
 import { bonewroughtArmorItemImageUrl } from './bonewrought_armor_item_art';
 import { bonewroughtDirefangItemImageUrl } from './bonewrought_direfang_item_art';
 import { bramblehideArmorItemImageUrl } from './bramblehide_armor_item_art';
@@ -40,8 +41,10 @@ import { courtierWardItemImageUrl } from './courtier_ward_item_art';
 import { craftReagentOriginalBatchItemImageUrl } from './craft_reagent_original_batch_item_art';
 import { craghornIceveinItemImageUrl } from './craghorn_icevein_item_art';
 import { dawnForgeItemImageUrl } from './dawn_forge_item_art';
+import { deathlessStormItemImageUrl } from './deathless_storm_item_art';
 import { direfangArmorItemImageUrl } from './direfang_armor_item_art';
 import { drogmarQuestWeaponsItemImageUrl } from './drogmar_quest_weapons_item_art';
+import { dungeonBagsItemImageUrl } from './dungeon_bags_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { earlyMaterialEightItemImageUrl } from './early_material_eight_item_art';
 import { earlyMaterialElevenItemImageUrl } from './early_material_eleven_item_art';
@@ -64,6 +67,7 @@ import { farmProduceFineItemImageUrl } from './farm_produce_fine_item_art';
 import { farmProduceOriginalItemImageUrl } from './farm_produce_original_item_art';
 import { farmingThornpeakItemImageUrl } from './farming_thornpeak_item_art';
 import { fenbloomItemImageUrl } from './fenbloom_item_art';
+import { fishingLaterCatchItemImageUrl } from './fishing_later_catch_item_art';
 import { fishingRawCatchItemImageUrl } from './fishing_raw_catch_item_art';
 import { foodConjuredLaterItemImageUrl } from './food_conjured_later_item_art';
 import { foodCookingLaterItemImageUrl } from './food_cooking_later_item_art';
@@ -196,6 +200,10 @@ import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    fishingLaterCatchItemImageUrl(id) ??
+    dungeonBagsItemImageUrl(id) ??
+    deathlessStormItemImageUrl(id) ??
+    basinCourtItemImageUrl(id) ??
     cleaverWildsoulItemImageUrl(id) ??
     fishingRawCatchItemImageUrl(id) ??
     jewelryAbyssRingsItemImageUrl(id) ??

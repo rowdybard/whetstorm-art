@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "hunter_pack_rally",
+      "runtimeIds": [
+        "hunter_pack_rally_speed",
+        "hunter_pack_rally_haste",
+        "hunter_pack_rally_spellhaste"
+      ],
+      "file": "docs/design/whetstorm-art/auras/hunter_pack_rally.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original pack rally group status: three distinct wolf silhouettes running together beneath a glowing green circular crest, conveying coordinated speed. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "aabed9e8eb1dd0c03a9aaeec778332bb1e3993e8eec03775e859c32dcae8492b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/hunter_pack_rally.webp",
+        "sha256": "be64c4a1fdae40316cbc661dbd37f8b81271270391c7d5cd57cdc304f1ebb103",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/hunter_pack_rally_speed.webp",
+          "public/ui/auras/hunter_pack_rally_haste.webp",
+          "public/ui/auras/hunter_pack_rally_spellhaste.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "hunter_predators_pace",
+      "runtimeIds": [
+        "hunter_predators_pace"
+      ],
+      "file": "docs/design/whetstorm-art/auras/hunter_predators_pace.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original predator's pace speed status: an amber feline eye above one dark paw print, with subtle gold motion trails. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "82dd1ef36f87cf75a1bc1f58a2c21e678448b278c318f9f9c3604429321c683d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/hunter_predators_pace.webp",
+        "sha256": "93f064058a3085526a90ec5ae4ce51798f6f678994bd7481723cced8fcb7deac",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/hunter_predators_pace.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "hunter_enduring_courser_burst",
+      "runtimeIds": [
+        "hunter_enduring_courser_burst"
+      ],
+      "file": "docs/design/whetstorm-art/auras/hunter_enduring_courser_burst.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original enduring courser speed status: a leaping tawny spotted wildcat in profile with a pale green wind trail, energetic and easy to read. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "550efb3775d84479354f8213f64385152857b0066f16c880fea41e370ee85e47",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/hunter_enduring_courser_burst.webp",
+        "sha256": "24d2e4b05553d7346a522417cd1ad2c05ba347dcc0012a0fbb3c0817e4601158",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/hunter_enduring_courser_burst.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}
