@@ -164,6 +164,7 @@ import { potionLaterItemImageUrl } from './potion_later_item_art';
 import { professionAccessoriesItemImageUrl } from './profession_accessories_item_art';
 import { professionIntermediateItemImageUrl } from './profession_intermediate_item_art';
 import { professionIntermediateSecondItemImageUrl } from './profession_intermediate_second_item_art';
+import { professionStationsItemImageUrl } from './profession_stations_item_art';
 import { questAnimalDropsItemImageUrl } from './quest_animal_drops_item_art';
 import { questBatchCluesCryptItemImageUrl } from './quest_batch_clues_crypt_item_art';
 import { questBatchHighwatchItemImageUrl } from './quest_batch_highwatch_item_art';
@@ -227,6 +228,7 @@ import { zealfireArmorItemImageUrl } from './zealfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    professionStationsItemImageUrl(id) ??
     fineProduceStockItemImageUrl(id) ??
     razorEmberglassItemImageUrl(id) ??
     professionAccessoriesItemImageUrl(id) ??

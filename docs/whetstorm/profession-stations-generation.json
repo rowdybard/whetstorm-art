@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "itemId": "masters_field_forge",
+      "file": "docs/design/whetstorm-art/items/masters_field_forge.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Master's Field Forge: a compact portable black iron forge with a glowing coal fire, a small anvil and bellows, mounted on a sturdy simple base, no person. Original hand-painted fantasy, tactile iron and wood, warm upper-left light, centered complete silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original profession station painting; reviewed",
+      "sha256": "f608dbeb5d4cfa6f6dec07b615828f4a6d19fa2c6273ac5b852bb361a7d6496d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/masters_field_forge.webp",
+        "sha256": "65fdc49bc743c61b909c2fa51d94a12697f1be89b3442a282eccc2f7bb782823",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "grand_cauldron",
+      "file": "docs/design/whetstorm-art/items/grand_cauldron.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Grand Cauldron: a heavy dark iron cauldron on a small portable stand, with softly glowing turquoise alchemical liquid and a little steam, no person. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original profession station painting; reviewed",
+      "sha256": "cd2fefce32f0a70d2d58a4f3d8c54ae92959fe14bf7aeb9012e63225139f9e22",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/grand_cauldron.webp",
+        "sha256": "82cd4b6329e0e1e09aaa43f22317c78f9b7115d91bebae3742b874c427259643",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "laden_hearth",
+      "file": "docs/design/whetstorm-art/items/laden_hearth.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint The Laden Hearth: a compact portable stone cooking hearth with a warm fire, iron cooking pot and a small rack of simple provisions, no person. Original hand-painted fantasy, tactile stone and metal, warm upper-left light, centered complete silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original profession station painting; reviewed",
+      "sha256": "6b0cf6888dc128c9341859097e1b5f5632e4efaf61eba7d754178749184b3462",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/laden_hearth.webp",
+        "sha256": "3333541c111dea1fb4023017686751ca48bbfb70dbd3722a00f9c8e5f656cf4b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
