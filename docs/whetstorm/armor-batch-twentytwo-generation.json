@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "mistveil_cord",
+      "file": "docs/design/whetstorm-art/items/mistveil_cord.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Mistveil Cord, a cloth waist armor sash, coiled pale mist-blue woven fabric with simple knotted ends and subtle stitching, no leather or metal. Show the complete sash with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "d91362db6eb7107009c11c6b92c1b222132beed515a29bbb1116c8b30f56ee99",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mistveil_cord.webp",
+        "sha256": "5b9fd8ac76edfec46498a6fed17b9e693f256bb84a84285bfa8baccc93ee8617",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "mistveil_grips",
+      "file": "docs/design/whetstorm-art/items/mistveil_grips.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of Mistveil Grips, cloth gloves, mist-blue woven fabric with soft cuffs and simple pale seam stitching, no leather or metal armor. Show both complete gloves with clear space around them.",
+      "status": "original armor painting; reviewed",
+      "sha256": "25cdf27c93a22bc0a9eda3a4addee2b645d441a99641d904bdda8b027a3d6e49",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mistveil_grips.webp",
+        "sha256": "7c04c1f4ea330f9cb9e2c2f98f38779e7856384db8e42f12506f1134e2b69478",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wardweave_cowl",
+      "file": "docs/design/whetstorm-art/items/wardweave_cowl.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Wardweave Cowl, cloth head armor, a complete hood of warm ivory woven cloth with a shadowed empty opening and modest gold thread stitched edging, no face, leather, or metal. Show the complete hood with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "1d85d8fcd7406bd16934cc696e7923676d80fe4d02bf7b27603ba2466c430a33",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wardweave_cowl.webp",
+        "sha256": "896a6f9a2d779ec5c798506d46bea07b953f79adef3ab0c2a50299390bf8ad7b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "duskhide_wraps",
+      "file": "docs/design/whetstorm-art/items/duskhide_wraps.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete pair of Duskhide Wraps, leather gloves, supple dark brown tanned hide with wrapped wrist cuffs, visible stitched seams and modest metal studs. Show both complete gloves with clear space around them.",
+      "status": "original armor painting; reviewed",
+      "sha256": "beaf763dbc84d02290a7da8f47c646bd32b2c7e31e178901ed199befdb480625",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/duskhide_wraps.webp",
+        "sha256": "327656e3a8cf0468de467c4d192e604581f1300a36aa7881d5704456e83c330f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

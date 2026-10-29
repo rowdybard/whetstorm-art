@@ -64,6 +64,14 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Twenty-fourth checkpoint: four recovered armor paintings add four unique
+paintings, bringing this effort to 212 paintings for 212 IDs without deliberate
+reuse. Of 1,626 catalog IDs, 229 have direct individual paintings and 1,397 do
+not. The prompts, masters and hashes are recorded in
+`armor-batch-twentytwo-generation.json`; its 32, 48 and 64 pixel review and
+focused image, routing and original-art tests passed. Browser, full gate and
+shipping-tree clearance remain open.
+
 Twenty-third checkpoint: four armor pieces and four weapons add eight unique
 paintings, bringing this effort to 208 paintings for 208 IDs without deliberate
 reuse. Of 1,626 catalog IDs, 225 have direct individual paintings and 1,401 do
