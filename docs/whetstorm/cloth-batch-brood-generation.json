@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "wyrmcult_grand_robe",
+      "file": "docs/design/whetstorm-art/items/wyrmcult_grand_robe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm fantasy inventory painting, painted edge to edge. Subject: Broodsworn Grand Robe, one complete empty long cloth robe in dark charcoal plum fabric with subdued wine-red woven trim, broad sleeves and a simple tied waist; subtle dragon-brood inspired stitching, no armor plates. Front-facing, centered with safe margins, clearly readable at 32 pixels. Hand-painted, tactile fabric folds, warm upper-left light, cool shadows, deep slate-blue painted background. No border, text, letters, logo, watermark, person, hands, mannequin, photorealism, or copied designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "83200766ab5185fb15d8589914b6621cb6a5a4c5cc9f6b0e7801653a24902558",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmcult_grand_robe.webp",
+        "sha256": "2177baca9c35f3e8750540ec04b7a51f89cf819fd7bb4653f2d672335f1e8ec8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wyrmcult_soulsteps",
+      "file": "docs/design/whetstorm-art/items/wyrmcult_soulsteps.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm fantasy inventory painting, painted edge to edge. Subject: Broodsworn Soulsteps, a complete compact pair of empty soft cloth slippers in dark charcoal plum fabric with subdued wine-red folded cuffs and subtle dragon-brood inspired stitched edging, related to a matching robe; no leather or metal. Center with safe margins, clearly readable at 32 pixels. Hand-painted, tactile woven fabric, warm upper-left light, cool shadows, deep slate-blue painted background. No border, text, letters, logo, watermark, person, feet, mannequin, photorealism, or copied designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "8e83b837530f95b335305d27f144555698c9bd5bb8c2ddcad0d9c5ae469ca6f1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmcult_soulsteps.webp",
+        "sha256": "63d037b3e243c24fed3602d906fd1b0ca801ba51735ac7dbcd10eaaa4083ebaa",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "moonshroud_robe",
+      "file": "docs/design/whetstorm-art/items/moonshroud_robe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm fantasy inventory painting, painted edge to edge. Subject: Moonwrack Robe, one complete empty long cloth robe of dusky blue-violet fabric with pale silver crescent-shaped woven trim, broad sleeves and a simple sash. Clearly cloth, no metal armor. Front-facing, centered with safe margins, clearly readable at 32 pixels. Hand-painted, tactile fabric folds, warm upper-left light, cool shadows, deep slate-blue painted background. No border, text, letters, logo, watermark, person, hands, mannequin, photorealism, or copied designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "f99f7a7d91766220e825bac8aa4186932e22d86e51126b665e5edc1531e19cf3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonshroud_robe.webp",
+        "sha256": "4a0676a806c50be3f24db3f3469d6b05add45b1dc7a02f91fd272b93607a0712",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "necromancers_legwraps",
+      "file": "docs/design/whetstorm-art/items/necromancers_legwraps.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm fantasy inventory painting, painted edge to edge. Subject: Mournweave Legwraps, one complete pair of empty dark charcoal woven cloth trousers with separate legs, muted smoky violet binding wraps around the calves, restrained pale stitched seams and a tied waist, suitable to a necromancer's cloth set. Front-facing, centered with safe margins, clearly readable at 32 pixels. Hand-painted, tactile fabric folds, warm upper-left light, cool shadows, deep slate-blue painted background. No border, text, letters, logo, watermark, person, feet, mannequin, photorealism, or copied designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "bacb5f13fcecd8919058160c66e9af582820830b3594a072d5b61027f294b0ff",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/necromancers_legwraps.webp",
+        "sha256": "763b81a7ac988f53b6d59aa4ed765952ca53d9ca5a38c44caf34a2dede509210",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

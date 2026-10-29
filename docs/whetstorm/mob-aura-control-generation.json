@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "mob_lockout",
+      "runtimeIds": [
+        "lockout_threnos_first_voice",
+        "lockout_wyrmcult_zealot"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_lockout.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original spell school lockout painting: a bright blue magical flame imprisoned behind a heavy closed iron padlock, clear bold silhouette. Original stylized fantasy, hand-painted, dark slate background, soft upper-left light, white-blue magical accents. Edge-to-edge painting, no border, frame, letters, text, logo or watermark. Do not copy or imitate any existing game or artist.",
+      "sha256": "149f8c2ceb4d878523725bbd1fa215e155343e7c38abc0c4750926a47ebc28c7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_lockout.webp",
+        "sha256": "2be301d4dc344904ac4d9cfd478555e9929a279a78aa28fb5ed23e6b5966bcfb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_chill_on_hit",
+      "runtimeIds": [
+        "mirefen_widowling_chill",
+        "rift_frost_revenant_chill",
+        "stormcrag_elemental_chill"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_chill_on_hit.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original chilling movement slow painting: a single heavy leather boot held fast by a thick pale-blue ice crust with a short cold wind streak, bold clean silhouette. Original stylized fantasy, hand-painted, dark slate background, soft upper-left light. Edge-to-edge painting, no border, frame, letters, text, logo or watermark. Do not copy or imitate any existing game or artist.",
+      "sha256": "af712e058ae07b070b85cc362eac131d8e15dd394ecb7b6fcef0ca5e4afea4c0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_chill_on_hit.webp",
+        "sha256": "f577363ce192c9866e48c8173072f1c7d89ce061d3dd423362e3c9aa420d8d38",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_charge_stun",
+      "runtimeIds": [
+        "mob_charge_stun"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_charge_stun.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original charge stun painting: a steel helmet struck from the side by a broad amber impact burst, with two small stars indicating daze, bold clean silhouette. Original stylized fantasy, hand-painted, dark slate background, soft upper-left light. Edge-to-edge painting, no border, frame, letters, text, logo or watermark. Do not copy or imitate any existing game or artist.",
+      "sha256": "ce307247ceb316d4b8a9fdcc2b9dae2a659ff293fa91fac486bdef9689c7e203",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_charge_stun.webp",
+        "sha256": "91388c7b21d7b4d0b161630cd8d57468faeca204c09248889dca93f53ed302c8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_demoralize",
+      "runtimeIds": [
+        "mob_demoralize"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_demoralize.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon, viewed at 32 to 64 pixels. Create an original demoralization painting indicating weakened attack power: a heavy steel sword drooping downward as its warm orange battle glow visibly fades, bold clean silhouette. Original stylized fantasy, hand-painted, dark slate background, soft upper-left light. Edge-to-edge painting, no border, frame, letters, text, logo or watermark. Do not copy or imitate any existing game or artist.",
+      "sha256": "3556506dc733c88f580c8bc4f43ef6b055ecf02a399ec0e3dcce6c28a92ca854",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_demoralize.webp",
+        "sha256": "0bf01726725d8d7cbbb98ae96ba5d59e3a5196f77aaa6acbbd986bf800055ccd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

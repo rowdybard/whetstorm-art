@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "mob_expose",
+      "runtimeIds": [
+        "expose_varkas_boneguard"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_expose.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original square MMO debuff icon painting, legible at 32 pixels. A battered bronze shield split open by a bright diagonal fracture exposing a red vulnerable center, bold central silhouette, dark umber background, painterly high contrast, no frame, no text, no logo, no existing game art.",
+      "sha256": "d6a1b4f9dbe0842ee45cdad5fd71e4b60df996fb51d9a8e52f7fdc56b4662d3f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_expose.webp",
+        "sha256": "db9714e9efb63f7946734e6094f0ca2f81066e4853047d630c17ec5bf675a4b7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_expose.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "mob_heal_absorb",
+      "runtimeIds": [
+        "heal_absorb_gravecaller_summoner",
+        "heal_absorb_rift_boss_necro"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_heal_absorb.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original square MMO debuff icon painting, legible at 32 pixels. A radiant golden healing droplet trapped and swallowed by a black violet thorny shroud, bold central silhouette, dark plum background, painterly high contrast, no frame, no text, no logo, no existing game art.",
+      "sha256": "71c5de99184ff46e675c3a4ddd08246b84334c8440b4738e545e7df1ed112d29",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_heal_absorb.webp",
+        "sha256": "076280bda3cf977d2082569eb690202ab0e612e436006fc4f3b32414b665de4d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_heal_absorb.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "mob_hex",
+      "runtimeIds": [
+        "hex_gravecaller_cultist"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_hex.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original square MMO debuff icon painting, legible at 32 pixels. A withered shadow-purple hand squeezing the glow out of a small ember, suggesting weakened strength and healing, bold central silhouette, dark indigo background, painterly high contrast, no frame, no text, no logo, no existing game art.",
+      "sha256": "9b8ff56dd2beda0d1a38eadc284e7e04835d46b728317258276ce8b9e79ea2cb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_hex.webp",
+        "sha256": "a143330ee85c98f5d96f238e041c2433613a7ed0d570f63b7d71b5799e0d09b6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_hex.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "mob_polymorph_hex",
+      "runtimeIds": [
+        "hex_mudfin_murloc"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_polymorph_hex.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original square MMO debuff icon painting, legible at 32 pixels. A small green frog silhouette emerging from a curling luminous teal transformation mist, suggesting a nature polymorph curse, bold central silhouette, dark marsh background, painterly high contrast, no frame, no text, no logo, no existing game art.",
+      "sha256": "83326c2c14935bc4f6c6ff4d542e583d6022bcec615f9b5fe2da68c36a6de1b9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_polymorph_hex.webp",
+        "sha256": "e2fbb320cc1f1e1310713073ba3e5e51469177f27b8726c09d812c7c8db25c1b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/mob_polymorph_hex.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

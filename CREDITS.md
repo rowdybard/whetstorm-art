@@ -828,3 +828,10 @@ paintings are recorded in `docs/whetstorm/cloth-delve-amberfall-generation.json`
 `docs/whetstorm/mob-aura-status-generation.json`, and
 `docs/whetstorm/mob-aura-debuffs-generation.json`. Each aura family deliberately
 shares its painting across its listed exact runtime identities.
+
+Four original cloth paintings and twelve mob aura paintings are recorded in
+`docs/whetstorm/cloth-batch-brood-generation.json`,
+`docs/whetstorm/mob-aura-control-generation.json`,
+`docs/whetstorm/mob-aura-curses-generation.json`, and
+`docs/whetstorm/mob-aura-drains-generation.json`. Related mob effects share
+paintings only for the exact runtime identities listed in the records.

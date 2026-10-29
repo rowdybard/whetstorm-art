@@ -26,6 +26,7 @@ import { clothBatchOneItemImageUrl } from './cloth_batch_one_item_art';
 import { clothBatchSixItemImageUrl } from './cloth_batch_six_item_art';
 import { clothBatchThreeItemImageUrl } from './cloth_batch_three_item_art';
 import { clothBatchTwoItemImageUrl } from './cloth_batch_two_item_art';
+import { clothBroodItemImageUrl } from './cloth_brood_item_art';
 import { clothDelveAmberfallItemImageUrl } from './cloth_delve_amberfall_item_art';
 import { consumableBatchItemImageUrl } from './consumable_batch_item_art';
 import { craftReagentOriginalBatchItemImageUrl } from './craft_reagent_original_batch_item_art';
@@ -137,6 +138,7 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    clothBroodItemImageUrl(id) ??
     clothDelveAmberfallItemImageUrl(id) ??
     farmingThornpeakItemImageUrl(id) ??
     jewelryBatchApexItemImageUrl(id) ??

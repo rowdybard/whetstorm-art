@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "mob_cost_tax",
+      "runtimeIds": [
+        "cost_tax_gravecaller_mender"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_cost_tax.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square painted MMO debuff icon for increased ability resource costs: a large glowing blue mana crystal squeezed tightly by a dark iron clamp, a few pale energy droplets escaping. Bold clean silhouette, slate-blue background, warm upper-left light and a tiny white-blue lightning accent; stylized fantasy hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "41fef093568e26dd469840d197c0ef8aa80e561121908316e3c7979a37991354",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_cost_tax.webp",
+        "sha256": "4c0ed2505745c5c63c2b2c99b5856b86f55a332aa9e6769cb1de6e9c35ac1d0e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "auraId": "mob_crit_vuln",
+      "runtimeIds": [
+        "critvuln_mire_widow"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_crit_vuln.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square painted MMO debuff icon for vulnerability to critical strikes: a single battered forged-steel shield with a large bright orange fracture at its center, exposing a dark gap. Bold clean silhouette, slate-blue background, warm upper-left light and a tiny white-blue lightning accent; stylized fantasy hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "e4a25be40d0ce97da59cc3f8b7932c456761093c18936334319a13546cc3ca0e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_crit_vuln.webp",
+        "sha256": "f361bcc20e50d6839c7234c0c67c878d5876bf7f1accde9f069d662e985d7618",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "auraId": "mob_enervate",
+      "runtimeIds": [
+        "enervate_boneclad_revenant"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_enervate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square painted MMO debuff icon for drained stamina: a robust red heart-shaped stone with a broad violet shadow tendril pulling a glowing ember from it. Bold clean silhouette, slate-blue background, warm upper-left light and a tiny white-blue lightning accent; stylized fantasy hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "279c16b002f634262a227dbc3e29691b2395c7926c0516a4a1c65fbd1605ea18",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_enervate.webp",
+        "sha256": "05c2af8fca0ab17774cca29f0882386ad3f6106be6171ca5892da207a7553ecf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "auraId": "mob_enfeeble",
+      "runtimeIds": [
+        "enfeeble_threnos_first_voice",
+        "enfeeble_wyrmcult_zealot"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_enfeeble.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square painted MMO debuff icon for reduced intellect: a pale glowing crystal brain shape being dimmed by one broad curling purple shadow, clearly distinguishable from a heart or shield. Bold clean silhouette, slate-blue background, warm upper-left light and a tiny white-blue lightning accent; stylized fantasy hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "673a0eef654ef3fc5da364c63c9f5e30ccef378da792756eb40661fb1eb28f00",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_enfeeble.webp",
+        "sha256": "a11ee96e5a2ab2ab72fd502624404f31daf4286f95f60cf9d7aa0d728cace50a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

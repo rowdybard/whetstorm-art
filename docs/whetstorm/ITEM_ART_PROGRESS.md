@@ -1,5 +1,15 @@
 # Item painting checkpoint
 
+Fortieth checkpoint: four cloth armor paintings bring this effort to 528
+individual item paintings. Of 1,626 catalog IDs, 545 resolve to individual
+paintings and 1,081 do not; the raw remainder includes retired entries and
+variants. Twelve original mob aura paintings cover 17 exact effect identities,
+with related effects deliberately sharing family artwork. Prompts and hashes
+are in `cloth-batch-brood-generation.json`, `mob-aura-control-generation.json`,
+`mob-aura-curses-generation.json` and `mob-aura-drains-generation.json`.
+Size reviews and focused image and routing tests passed. Browser testing, the
+full gate and shipping-tree clearance remain open.
+
 2026-10-27: The live catalog contains 1,626 item IDs. This checkpoint adds
 12 unique paintings and routes 12 IDs: four early creature drops, four pieces
 of armor and four gathering tools. Together with 17 previously mapped IDs,
