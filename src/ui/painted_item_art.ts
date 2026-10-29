@@ -81,6 +81,7 @@ import { foodOriginalBatchItemImageUrl } from './food_original_batch_item_art';
 import { foodZoneTwoItemImageUrl } from './food_zone_two_item_art';
 import { forgeArmorItemImageUrl } from './forge_armor_item_art';
 import { forgeArmorSecondItemImageUrl } from './forge_armor_second_item_art';
+import { forgewallArmorItemImageUrl } from './forgewall_armor_item_art';
 import { galecallArmorItemImageUrl } from './galecall_armor_item_art';
 import { gravecourtFangItemImageUrl } from './gravecourt_fang_item_art';
 import { gravewyrmWeaponItemImageUrl } from './gravewyrm_weapon_item_art';
@@ -200,6 +201,7 @@ import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    forgewallArmorItemImageUrl(id) ??
     fishingLaterCatchItemImageUrl(id) ??
     dungeonBagsItemImageUrl(id) ??
     deathlessStormItemImageUrl(id) ??

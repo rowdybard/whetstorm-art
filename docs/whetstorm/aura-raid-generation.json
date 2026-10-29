@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "nythraxis_dread_curse",
+      "runtimeIds": [
+        "nythraxis_dread_curse"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_dread_curse.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game raid debuff icon readable at 32 pixels. Original stacking dread curse: a cracked dark iron shield struck by three descending violet shadow streaks, conveying rising vulnerability. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "c23d091c59c0f2e9a27d2b199b1d414788ef58554496ef2a7ece34f99d3c27c7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_dread_curse.webp",
+        "sha256": "7d6ab8fce34a4e569593567112e735b0ad80e691886974490b456991378c4b49",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/nythraxis_dread_curse.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "nythraxis_soul_rend",
+      "runtimeIds": [
+        "nythraxis_soul_rend"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_soul_rend.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game raid debuff icon readable at 32 pixels. Original soul rend mark: a luminous pale violet spirit orb split by a sharp dark diagonal fissure and enclosed by a thin pulsing ring. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "e0d955bf4948c041bd5556e40e3ac4ab4f0697965b3b91798e0225fae300f9ee",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_soul_rend.webp",
+        "sha256": "f0ab87fca774868fc8c2cfb46bd24e23b19f5d0fd1386f3fa288b19480398c12",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/nythraxis_soul_rend.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "nythraxis_transition_stun",
+      "runtimeIds": [
+        "nythraxis_transition_stun"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_transition_stun.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game raid status icon readable at 32 pixels. Original stomp stun: a heavy stone foot striking a fractured circular ground with golden impact rays, conveying immobilization. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "9f4991e6b0bf7a81562effdb0fe07a5e6834e7ebc94f361d901472996da2c786",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_transition_stun.webp",
+        "sha256": "133efead6e9a7ad6522382e5a2fcb7394c7af6e89eadbfd0d3c13152b3de2515",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/nythraxis_transition_stun.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "nythraxis_deathless_stun",
+      "runtimeIds": [
+        "nythraxis_deathless_stun"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_deathless_stun.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game raid status icon readable at 32 pixels. Original interrupted rage stun: a dark iron crown tilted under a bright cyan magical burst with a broken arc, conveying a halted attack. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "dc4125997024622b168b6301f7195cdbac549e7d90479ad2d0c38d0aebfc1e92",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_deathless_stun.webp",
+        "sha256": "fe215603ee98d32eb1527ce0554d75b088547961c306d4e082fe48dda5532ea3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/nythraxis_deathless_stun.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

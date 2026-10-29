@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "dgn_deepward",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a glowing lantern illuminating a deep staircase descending through a monumental stone arch, a heroic laurel wreath around the light, representing conquering underground challenges. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_deepward.png",
+      "masterSha256": "c357f99afbf996697d102512f1a3d8a90ce5d2cdbabd7717a5ac75d89f29450b",
+      "shipping": "public/ui/whetstorm/deeds/dgn_deepward.webp",
+      "shippingSha256": "0751f9b1446eede13d825b56fc9b8ff243695c8ce6ca09cf7ee4248073517ff4",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_mark_circuit",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing four distinct silver tokens arranged in a circle around a golden sun over a parchment map, representing a full daily circuit of heroic dungeons. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_mark_circuit.png",
+      "masterSha256": "df75bfee0740650dfdf480bb05de578f426498138fa248783864cb58894e724e",
+      "shipping": "public/ui/whetstorm/deeds/dgn_mark_circuit.webp",
+      "shippingSha256": "7c936b0bd7f5fe0ba64c86c9a87be149f1984520d8fb1b45e9ed7497b0126314",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_boss_clears_50",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a row of heavy stone doors receding into depth, each open, with a victorious sword planted at the foreground, representing many dungeon bosses defeated. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_boss_clears_50.png",
+      "masterSha256": "2b116a776a6e4bf6672f84f4ec05500083f795e7b3bcb1bd1995d3841bb43c1d",
+      "shipping": "public/ui/whetstorm/deeds/dgn_boss_clears_50.webp",
+      "shippingSha256": "57bc4ddf14943662b9f6f02278fd10092a76cdc2f190f871654423bc8deffd75",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

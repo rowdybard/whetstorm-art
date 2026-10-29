@@ -15,6 +15,7 @@ import { whetstormMobAuraEncounterImageUrl } from './whetstorm_mob_aura_encounte
 import { whetstormMobAuraImpairmentsImageUrl } from './whetstorm_mob_aura_impairments_art';
 import { whetstormMobAuraMagicImageUrl } from './whetstorm_mob_aura_magic_art';
 import { whetstormMobAuraStatusImageUrl } from './whetstorm_mob_aura_status_art';
+import { whetstormRaidAuraImageUrl } from './whetstorm_raid_aura_art';
 import { whetstormRecoveryAuraImageUrl } from './whetstorm_recovery_aura_art';
 import { whetstormShamanAuraImageUrl } from './whetstorm_shaman_aura_art';
 import { whetstormWarfareAuraImageUrl } from './whetstorm_warfare_aura_art';
@@ -89,6 +90,7 @@ export function whetstormAuraImageUrl(id: string): string | null {
     whetstormLineageAuraImageUrl(id) ??
     whetstormShamanAuraImageUrl(id) ??
     whetstormHunterAuraImageUrl(id) ??
+    whetstormRaidAuraImageUrl(id) ??
     whetstormCombatProcAuraImageUrl(id) ??
     whetstormMobAuraBatchImageUrl(id) ??
     whetstormMobAuraDebuffsImageUrl(id) ??

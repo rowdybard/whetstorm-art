@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "forgewall_chest",
+      "file": "docs/design/whetstorm-art/items/forgewall_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/forgewall_shoulder.png",
+          "sha256": "0828b6243a163ad40dbf19f6594d7e7b6cf561c2313b7a3978b35f7a340a7f58"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Forgewall Hauberk: one empty front-facing dark steel chain mail shirt with broad angular hammered plates and reinforced gold-bronze rims. No wearer, head, hands or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style and set materials only, do not copy its shoulder guards. No writing, border, frame, watermark, or transparency.",
+      "status": "original Forgewall armor painting; reviewed",
+      "sha256": "0ff8c40927164558c9235f652c0a360eda5fc83712f532f18789b3d42d2b0cbc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgewall_chest.webp",
+        "sha256": "ad6b3a425f8c1a3da530d3664c8c3c742b46f2d699a97c3a32c2dc5f22d4132b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "forgewall_gloves",
+      "file": "docs/design/whetstorm-art/items/forgewall_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/forgewall_shoulder.png",
+          "sha256": "0828b6243a163ad40dbf19f6594d7e7b6cf561c2313b7a3978b35f7a340a7f58"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Forgewall Gauntlets: a compact natural pair of empty dark steel chain mail gloves with broad angular hammered plates and reinforced gold-bronze rims. No wearer. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style and set materials only, do not copy its shoulder guards. No writing, border, frame, watermark, or transparency.",
+      "status": "original Forgewall armor painting; reviewed",
+      "sha256": "20323994f2bf4d6d322f57147d7b0676bf3fe7e5a33fb8270bba3d4a172862b0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgewall_gloves.webp",
+        "sha256": "dd1a40dcb222ae1072e7ea07f77242ae53632d0e1d3392be462f7ed13bff5cd3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "forgewall_legs",
+      "file": "docs/design/whetstorm-art/items/forgewall_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/forgewall_shoulder.png",
+          "sha256": "0828b6243a163ad40dbf19f6594d7e7b6cf561c2313b7a3978b35f7a340a7f58"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Forgewall Legguards: one complete empty front-facing pair of dark steel chain mail trousers ending at open ankle cuffs, with broad angular hammered plates and reinforced gold-bronze rims. Legs clearly separated, no footwear, boots, wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style and set materials only, do not copy its shoulder guards. No writing, border, frame, watermark, or transparency.",
+      "status": "original Forgewall armor painting; reviewed",
+      "sha256": "d94e49611b661f4810e88dee4bca38e071452d7406da28be06a7c4ac11c38ef5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgewall_legs.webp",
+        "sha256": "d20f5d03cc2f9e99e0ccc20f73580be2b3e8a0dec2641f9c82f7308a559cf3c1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
