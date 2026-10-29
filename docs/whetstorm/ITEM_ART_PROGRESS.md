@@ -1,5 +1,15 @@
 # Item painting checkpoint
 
+Team fourth follow-up: eight item paintings cover three heroic mail pieces,
+four farm crops and one quest weapon. This effort has created 580 individual
+item paintings; 597 of 1,626 catalog IDs have individual paintings and 1,029 do
+not, including retired entries and variants. Four place deed crests and four
+mob aura paintings were also added. Their generation records are
+`heroic-mail-original`, `farm-produce-original`, `velkhar-quest-weapon`,
+`deed-place` and `mob-aura-defense`. Size reviews and focused routing checks
+passed. Browser, full gate, locked deed states and physical inherited-file
+removal remain open.
+
 Team third follow-up: ten item paintings cover three heroic leather pieces,
 four crafting components and three Drogmar quest weapons. This effort has
 created 572 individual item paintings; 589 of 1,626 catalog IDs have individual

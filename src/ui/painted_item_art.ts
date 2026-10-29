@@ -51,6 +51,7 @@ import { earlyQuestMaterialItemImageUrl } from './early_quest_material_item_art'
 import { factionArmorOriginalItemImageUrl } from './faction_armor_original_item_art';
 import { farmHighlandMaterialItemImageUrl } from './farm_highland_material_item_art';
 import { farmMaterialsOriginalItemImageUrl } from './farm_materials_original_item_art';
+import { farmProduceOriginalItemImageUrl } from './farm_produce_original_item_art';
 import { farmingThornpeakItemImageUrl } from './farming_thornpeak_item_art';
 import { fenbloomItemImageUrl } from './fenbloom_item_art';
 import { foodConjuredLaterItemImageUrl } from './food_conjured_later_item_art';
@@ -65,6 +66,7 @@ import { foodOriginalBatchItemImageUrl } from './food_original_batch_item_art';
 import { foodZoneTwoItemImageUrl } from './food_zone_two_item_art';
 import { herbPlantNextItemImageUrl } from './herb_plant_next_item_art';
 import { heroicLeatherOriginalItemImageUrl } from './heroic_leather_original_item_art';
+import { heroicMailOriginalItemImageUrl } from './heroic_mail_original_item_art';
 import { jewelryBatchApexItemImageUrl } from './jewelry_batch_apex_item_art';
 import { jewelryBatchItemImageUrl } from './jewelry_batch_item_art';
 import { jewelryBatchLaterTierItemImageUrl } from './jewelry_batch_later_tier_item_art';
@@ -131,6 +133,7 @@ import { toolBatchFiveItemImageUrl } from './tool_batch_five_item_art';
 import { toolBatchFourItemImageUrl } from './tool_batch_four_item_art';
 import { toolBatchItemImageUrl } from './tool_batch_item_art';
 import { toolBatchThreeItemImageUrl } from './tool_batch_three_item_art';
+import { velkharQuestWeaponItemImageUrl } from './velkhar_quest_weapon_item_art';
 import { vendorChestItemImageUrl } from './vendor_chest_item_art';
 import { weaponBatchEightItemImageUrl } from './weapon_batch_eight_item_art';
 import { weaponBatchElevenItemImageUrl } from './weapon_batch_eleven_item_art';
@@ -151,6 +154,9 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    heroicMailOriginalItemImageUrl(id) ??
+    farmProduceOriginalItemImageUrl(id) ??
+    velkharQuestWeaponItemImageUrl(id) ??
     heroicLeatherOriginalItemImageUrl(id) ??
     professionIntermediateSecondItemImageUrl(id) ??
     drogmarQuestWeaponsItemImageUrl(id) ??

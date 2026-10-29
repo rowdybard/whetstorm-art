@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "mob_stoneskin",
+      "runtimeIds": [
+        "stoneskin_ancient_guardian",
+        "stoneskin_marrowlord_varkas",
+        "stoneskin_old_marrowshell",
+        "stoneskin_rift_boss_arcane",
+        "stoneskin_rift_boss_frost",
+        "stoneskin_sump_troll_devourer",
+        "stoneskin_thunzharr_waking_peak"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_stoneskin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO buff icon for a self damage-absorbing barrier: a broad stone slab shield with rocky facets and a soft amber protective glow. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "dca77bd846f32ea741a066940f1a10ac51e5b21743df948e177802a0debd58be",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_stoneskin.webp",
+        "sha256": "d8eedecc183acc4aa7ace900b09a07d8389ecc242845e60e3bd711c67dd26cf8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_stun_on_hit",
+      "runtimeIds": [
+        "stun_mogger_lackey",
+        "stun_rift_stone_ogre"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_stun_on_hit.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon for a brief stun from a crushing blow: a heavy stone hammer striking a helmet with a bright yellow burst and three small stars. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "4eaf7e710fad3a2e030714664f2e8683afb1bf2338cb7318b69fd47f89c86add",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_stun_on_hit.webp",
+        "sha256": "278d0fc2925df94f4a905d7d471c18ac87781e887965771ea28c41cdb1de21df",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_warcry",
+      "runtimeIds": [
+        "warcry_deepfen_murloc",
+        "warcry_wildheart_beastmaster"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_warcry.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO buff icon for a warcry that quickens nearby allies' attacks: an open bronze war horn emitting bold golden sound arcs and speed streaks. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "b627735e5606173d3492ff9d8a623c4a2988570dea3b5e58dd97564cd9a724d9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_warcry.webp",
+        "sha256": "7e2ca00867ed00b4f9b41b728e486ea46ef00a13d45cc94ebaa7bc8969a78cce",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "mob_ward_allies",
+      "runtimeIds": [
+        "ward_grave_silt_bulwark",
+        "ward_mogger",
+        "ward_treant_elder",
+        "ward_wildheart_beastmaster"
+      ],
+      "file": "docs/design/whetstorm-art/auras/mob_ward_allies.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO buff icon for a shared damage-absorbing ward: three small silhouettes grouped under one luminous blue protective dome, with a clear glowing rim. Dark slate background, warm upper-left light, stylized hand-painted broad shapes, legible at 32 pixels. Edge-to-edge painting, no frame, text, letters, logo, watermark, photorealism or imitation of existing games or artists.",
+      "sha256": "06d380866c00e3a74ae027cf1f9f648e6e4394cb813e8305dd88e29dbac7839e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/mob_ward_allies.webp",
+        "sha256": "66e513beebb8a2052c3b90c26f88d75092b425ed5ae0c77a9fd56bdccae4d694",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

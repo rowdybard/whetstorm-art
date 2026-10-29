@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "chr_marsh_gatherer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a marsh forager's bundle of dark ore, cut wood and green herbs against blue-green reeds, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_marsh_gatherer.png",
+      "masterSha256": "4337a5e0a28e22a0cdd010d98c57ce2113a8b9c63da26a3adbe4584a81507dcf",
+      "shipping": "public/ui/whetstorm/deeds/chr_marsh_gatherer.webp",
+      "shippingSha256": "73037941b91f840a59b79564c33ba762cfd1c23d44a7c1714024cdca99ccdc12",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_the_last_keep",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a shadowy open stone doorway leading into silent ancient keep halls, a single warm shaft of light on the floor, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_the_last_keep.png",
+      "masterSha256": "1f8215d05a6bd9db83194150b53b195bb074a5c1d681a20e9375ab8936dbb533",
+      "shipping": "public/ui/whetstorm/deeds/exp_the_last_keep.webp",
+      "shippingSha256": "6a8730015a96d8648ac4d737ac7454b4e771a3e3d2c1e7128528e0405348e197",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_dawnhold_castle",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing an open castle archway with sunlit flowers and green garden beyond, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_dawnhold_castle.png",
+      "masterSha256": "7eb1b1d46b12aaf97a1791eac23bc2c45f840e870731ddca12d48c867a30ccd7",
+      "shipping": "public/ui/whetstorm/deeds/exp_dawnhold_castle.webp",
+      "shippingSha256": "a5cfb1fde0e2bd4effcb6c9d06199785b9881840f32b3ebe17057ef961239ebe",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "exp_windrider_slalom",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a small wooden mechanical glider descending through a rocky canyon, its broad wings silhouetted against the sky, centered in a circular brass frame. Dark warm background, strong simple silhouette, clear at 32 pixels. No text, letters, numbers, logos, watermark, other icons or borders beyond the medal. Independently designed, do not imitate any existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/exp_windrider_slalom.png",
+      "masterSha256": "45ff8fdd62d5c79f48314e6ee56be83cca61c0917c547c3021732e72fb761b39",
+      "shipping": "public/ui/whetstorm/deeds/exp_windrider_slalom.webp",
+      "shippingSha256": "d98777fd560f69f0beb1b65135c060125930b9bc9e5a06d43a777aec3386450b",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

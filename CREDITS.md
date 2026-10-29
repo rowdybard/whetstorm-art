@@ -888,3 +888,11 @@ four journey deed crests and four mob aura paintings are recorded in
 `docs/whetstorm/drogmar-quest-weapons-generation.json`,
 `docs/whetstorm/deed-journey-generation.json`, and
 `docs/whetstorm/mob-aura-afflictions-generation.json`.
+
+Eight original heroic mail, farm crop and quest weapon paintings, four place
+deed crests and four mob aura paintings are recorded in
+`docs/whetstorm/heroic-mail-original-generation.json`,
+`docs/whetstorm/farm-produce-original-generation.json`,
+`docs/whetstorm/velkhar-quest-weapon-generation.json`,
+`docs/whetstorm/deed-place-generation.json`, and
+`docs/whetstorm/mob-aura-defense-generation.json`.

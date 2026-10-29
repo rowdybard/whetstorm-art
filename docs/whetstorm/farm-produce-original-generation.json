@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "frost_lentils",
+      "file": "docs/design/whetstorm-art/items/frost_lentils.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Frost Lentils: a small compact pile of pale icy green lentil seeds with two intact dried pods, edible crop, no bowl or container.",
+      "status": "original material painting; reviewed",
+      "sha256": "1cc55fa15ccbd5639353b3e7d5bdd13d2e74ceefb31b2fae58635a56b4ef3efe",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/frost_lentils.webp",
+        "sha256": "9c8e382f9a9769ca385244852d52d56f58ffce51c51b10a11d02286f31228ee2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gilded_yam",
+      "file": "docs/design/whetstorm-art/items/gilded_yam.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Gilded Yam: one whole earthy golden-skinned yam with a few fine roots, robust elongated tuber, no leaves or plate.",
+      "status": "original material painting; reviewed",
+      "sha256": "0442606eae043e2747f8b54a4a60c77bded94d53a0c6060c2d6c349825b3e85c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gilded_yam.webp",
+        "sha256": "74dfdab650558547bd342ea5a3590eeece1a183202a7b01acdf88d105bbb806b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "evergarden_pumpkin",
+      "file": "docs/design/whetstorm-art/items/evergarden_pumpkin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Evergarden Pumpkin: one whole rounded orange pumpkin with a short green stem, subtle deep ridges and natural surface texture, no carving or face.",
+      "status": "original material painting; reviewed",
+      "sha256": "fa3c97765fde039826e20fb84b39cce7e65ca89cb369e44f0144caf5302dd7b7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/evergarden_pumpkin.webp",
+        "sha256": "263b574b6313ab65a182218d7a9f095d99af998b861e32e3cd75372c5df4f65f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gilded_sunmelon",
+      "file": "docs/design/whetstorm-art/items/gilded_sunmelon.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Gilded Sunmelon: one whole round golden-yellow melon with faint pale green striping and short stem, no slices, plate or leaves.",
+      "status": "original material painting; reviewed",
+      "sha256": "a25e081da347f28d2415b985e1dca793ff4df736c3304cc44fff35a0c9ceddf1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gilded_sunmelon.webp",
+        "sha256": "42d3792d70969131a4a6d138c50a6b0a8f9ae0a6843b2bfbd489475d11dba8fe",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

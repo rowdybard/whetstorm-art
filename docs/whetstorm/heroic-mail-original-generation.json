@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gravewyrm_claws",
+      "file": "docs/design/whetstorm-art/items/gravewyrm_claws.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Gravewyrm Claws, one complete pair of dark iron mail gauntlets with overlapping dragon-scale plates and pale bone-colored claw-shaped fingertips. Show both complete gauntlets with clear space around them.",
+      "status": "original mail painting; reviewed",
+      "sha256": "e008559ca234ced4403c173a1c469a41f513b6e0ac19540495357da23826bb57",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravewyrm_claws.webp",
+        "sha256": "8e5a1d456e3bed19b5849bc09cc4b091697e1c432e55b91c5796a74ac1d3a69c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gravescale_girdle",
+      "file": "docs/design/whetstorm-art/items/gravescale_girdle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Gravescale Girdle, one complete coiled dark iron mail waist belt with overlapping scale plates and a weathered bone-colored metal buckle. Show the complete belt with clear space around it.",
+      "status": "original mail painting; reviewed",
+      "sha256": "aac9f487184619f27e78410401b3d45f0a78f9beb7e8a5d88c6bf4a968a02881",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravescale_girdle.webp",
+        "sha256": "34604a3581ba144c47d5a95cb5a27030d9aa61792842c7817f3f011bc74c5018",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "mistforged_pauldrons",
+      "file": "docs/design/whetstorm-art/items/mistforged_pauldrons.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Fogforged Pauldrons, one complete pair of steel mail shoulder guards with broad overlapping silver-gray plates, subdued teal patina and chainmail fringe. Show both complete shoulder guards with clear space around them.",
+      "status": "original mail painting; reviewed",
+      "sha256": "0f109d9399e048709a72b7297015c6a74123ffd59c5ce09d802292a20c907d86",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mistforged_pauldrons.webp",
+        "sha256": "831843fbdb938e9d793921ae852f034a03182f46c3ea6e51715da2a1d7553fb8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

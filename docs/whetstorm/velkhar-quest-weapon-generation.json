@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "staff_of_velkhar",
+      "file": "docs/design/whetstorm-art/items/staff_of_velkhar.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original Whetstorm opaque square inventory painting for Staff of Velkhar (staff_of_velkhar), a rare quest reward from a grand necromancer. One complete long dark weathered wood staff, a pale bone fork holding a single restrained violet stone at the head, and dark leather binding at the grip. Strong diagonal lower left to upper right with safe padding. Deep charcoal and muted purple painted vignette, warm top-left light, cool shadows, premium hand-painted classic fantasy MMO art, tactile materials, crisp silhouette, readable at 22px. No person, hands, extra objects, writing, runes, border, watermark, transparency, photo or copied designs.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "973f1a20b1437e57ae2839462af7eac87c976cc7395cbe680fb4c5f6df716a08",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/staff_of_velkhar.webp",
+        "sha256": "93e1cd7573646057427e18c9a0a5e349f7e24a1bb50603577d685d915889d773",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

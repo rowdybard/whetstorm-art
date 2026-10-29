@@ -1,6 +1,7 @@
 import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
 import { explorationDeedImageUrl } from './exploration_deed_art';
 import { journeyDeedImageUrl } from './journey_deed_art';
+import { placeDeedImageUrl } from './place_deed_art';
 
 // Original paintings for early deeds, shared by game and guide.
 const EARLY_DEED_ART = new Map<string, string>([
@@ -23,6 +24,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     EARLY_DEED_ART.get(id) ??
     explorationDeedImageUrl(id) ??
     chronicleGatheringDeedImageUrl(id) ??
-    journeyDeedImageUrl(id)
+    journeyDeedImageUrl(id) ??
+    placeDeedImageUrl(id)
   );
 }
