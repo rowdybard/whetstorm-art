@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "ironhusk_flask",
+      "file": "docs/design/whetstorm-art/items/ironhusk_flask.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one squat stoppered glass alchemy flask containing moss-green liquid, encased in a rugged iron lattice suggesting a protective husk. Dark deep green painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "7b1fd2a3dd74e691e1090129d3ed7921846b45b317889cadf9ae3644a4d6676f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ironhusk_flask.webp",
+        "sha256": "53aac670945fbae7dd8d708be371aa316e5cc4beacb4157f4c6eeb695d624f01",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "warboar_flask",
+      "file": "docs/design/whetstorm-art/items/warboar_flask.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one stout stoppered glass alchemy flask containing rich amber-red liquid, with a simple bronze boar-tusk shaped metal ornament around its neck. Dark burgundy painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "586a05fc3ee2b2b034bef6f8895d70ac38d3f8fa3c2ab35f1c8c1f6f749450f5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/warboar_flask.webp",
+        "sha256": "87fb65114c891b53081bb0728376ab5558c15071fed147bf31f198446c53074b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "runewater_flask",
+      "file": "docs/design/whetstorm-art/items/runewater_flask.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one tall stoppered glass alchemy flask containing luminous clear blue liquid, with abstract geometric silver bands around the neck and base. Dark midnight blue painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, cool upper-left light, readable at 32 pixels. No letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "94ca1039d47faee47cf69140104db8cef39122f06b75b751977d73a0da9d046e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/runewater_flask.webp",
+        "sha256": "5a79dc647f52a285ee2dc7122531cdbcddcffa99f56644b7319ed1118407b9ee",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

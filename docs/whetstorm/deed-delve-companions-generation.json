@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "dlv_companion_max",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a single glowing brass lantern beside a sturdy shield on a rocky cave ledge, representing a trusted companion at full rank. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dlv_companion_max.png",
+      "masterSha256": "5b7e44f1085035815e345fad3230dbb0d97a076bd117e8cea16a60948755bb0f",
+      "shipping": "public/ui/whetstorm/deeds/dlv_companion_max.webp",
+      "shippingSha256": "6676946367ad20741aafca0d4478b3b70cc4d012bf77a1c26550ae93c3f2a563",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dlv_companions_both",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing two distinct glowing brass lanterns hanging side by side beneath a stone cavern arch, representing two trusted companions. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dlv_companions_both.png",
+      "masterSha256": "1c45398e0dac3a574afb727eb3e7ebb1254600c022ab89402fb8df8209357f22",
+      "shipping": "public/ui/whetstorm/deeds/dlv_companions_both.webp",
+      "shippingSha256": "e658239ba7e0cb1dec544353bdc52391b8073c86f1e79896303d949d5540674d",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dlv_solo_heroic",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing two adventurer silhouettes, one carrying a sword and one a lantern, standing together before a dark cavern entrance with a gold laurel overhead, representing a heroic delve with a companion. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dlv_solo_heroic.png",
+      "masterSha256": "efcbcebc86a46ff94d55773f17ff9cf5ad0decb981a0e406ed09fdb774a9b00a",
+      "shipping": "public/ui/whetstorm/deeds/dlv_solo_heroic.webp",
+      "shippingSha256": "359d7e71d319d89a63de0c32cd5889d6651e7ed3a703ad3bc29f8d0bbced8e08",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "cinderfang_kris",
+      "file": "docs/design/whetstorm-art/items/cinderfang_kris.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Cinderfang Kris, complete epic short dagger with a wavy dark steel blade, thin ember-red cracks near the blade base, modest bronze guard and black leather grip. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "8e978d35fd559c294366a5535575c3ae31982a44d4a7971a7ba337d6ec42c5b3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cinderfang_kris.webp",
+        "sha256": "fcb5ebaf0e45895c9a542ac285a2ea233ea45aaa6d2f34bc18dd67bed7337180",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-9f268e87-b0e9-4db5-9fcd-af53fee29bd1.png"
+    },
+    {
+      "itemId": "slagrender_cleaver",
+      "file": "docs/design/whetstorm-art/items/slagrender_cleaver.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Slagrender Cleaver, complete epic one-handed axe with a broad asymmetric dark steel cleaver head, brass rivets, thin glowing orange slag fissures and a short leather-wrapped iron haft. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "ecf1b99448a0a9eb83a6ae3d470ba787b3f6f65e4841eda31eff69f7491314fb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/slagrender_cleaver.webp",
+        "sha256": "c17840f240d842684a76f518bc772254e6af8610045f2c5859f058d5c27f12e4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-85e1d760-0425-4151-a8fd-2bf1a41a97e6.png"
+    }
+  ]
+}

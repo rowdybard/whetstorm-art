@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "burlap_reagent_pouch",
+      "file": "docs/design/whetstorm-art/items/burlap_reagent_pouch.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Burlap Reagent Pouch: a small rough tan burlap drawstring pouch with leather cord and a few dried herbs tucked under the cord. Medieval fantasy craftsmanship, no modern hardware, no text. Original hand-painted fantasy, tactile fabric, warm upper-left light, centered complete bag silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "a3efabb271430632efe42c8d729b49fda78d39c8d4a401b0577066be7a9af26c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/burlap_reagent_pouch.webp",
+        "sha256": "7d69cfe0320434ff322b2a9dc8b2520ec3cbbd701a90f6b787d95dde2064d853",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "foragers_haversack",
+      "file": "docs/design/whetstorm-art/items/foragers_haversack.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Forager's Haversack: a sturdy olive canvas shoulder bag with brown leather flap and buckles, a small bunch of leaves tucked in an outside pocket. Medieval fantasy craftsmanship, no modern hardware, no text. Original hand-painted fantasy, tactile fabric, warm upper-left light, centered complete bag silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "1d276e56084c82558ed1b761854a372ec5942b1c66d249c4aa0465fd6dbca7aa",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/foragers_haversack.webp",
+        "sha256": "28f48f390bce364264afbbaa595596b68994ba0c33cd2680817b01755e03e204",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "loombound_reagent_satchel",
+      "file": "docs/design/whetstorm-art/items/loombound_reagent_satchel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Loombound Reagent Satchel: a plum-colored woven cloth satchel with leather straps, neat external pockets holding a few herb sprigs and small stoppered vials, and a brass clasp. Medieval fantasy craftsmanship, no modern hardware, no text. Original hand-painted fantasy, tactile fabric, warm upper-left light, centered complete bag silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "45ada22020b9702647c8482981a14ffe01b9f61fcb1739ff7bcfbb746a91ee87",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/loombound_reagent_satchel.webp",
+        "sha256": "888fb4e90606d4ce28f7593da4254b4b2cf479118a854271d7b554baf1d44004",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sunspun_haversack",
+      "file": "docs/design/whetstorm-art/items/sunspun_haversack.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Sunspun Haversack: a golden woven cloth haversack with a folded flap, braided leather straps, a sun-shaped brass clasp and subtle luminous golden thread. Medieval fantasy craftsmanship, no modern hardware, no text. Original hand-painted fantasy, tactile fabric, warm upper-left light, centered complete bag silhouette on dark painted vignette, readable at small size. No letters, frame, logo, or watermark.",
+      "status": "original bag painting; reviewed",
+      "sha256": "e2774297d8e528c873fe841f9239773d3bef6d27cd88a37d6f27b5b9bd1e435e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunspun_haversack.webp",
+        "sha256": "6611a8e5939e31c86d07fda7a16d70c335c313de9831f81ea5c16dbb6cdf2eae",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

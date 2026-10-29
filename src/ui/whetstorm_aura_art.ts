@@ -1,5 +1,6 @@
 import { whetstormBattlegroundAuraImageUrl } from './whetstorm_battleground_aura_art';
 import { whetstormClassAuraImageUrl } from './whetstorm_class_aura_art';
+import { whetstormCombatEffectAuraImageUrl } from './whetstorm_combat_effect_aura_art';
 import { whetstormCombatProcAuraImageUrl } from './whetstorm_combat_proc_aura_art';
 import { whetstormEngineAuraImageUrl } from './whetstorm_engine_aura_art';
 import { whetstormHunterAuraImageUrl } from './whetstorm_hunter_aura_art';
@@ -94,6 +95,7 @@ export function whetstormAuraImageUrl(id: string): string | null {
     whetstormHunterAuraImageUrl(id) ??
     whetstormRaidAuraImageUrl(id) ??
     whetstormCombatProcAuraImageUrl(id) ??
+    whetstormCombatEffectAuraImageUrl(id) ??
     whetstormMobAuraBatchImageUrl(id) ??
     whetstormMobAuraDebuffsImageUrl(id) ??
     whetstormMobAuraStatusImageUrl(id) ??

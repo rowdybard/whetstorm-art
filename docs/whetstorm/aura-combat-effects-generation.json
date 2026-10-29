@@ -1,0 +1,139 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "fear_incap",
+      "runtimeIds": [
+        "fear_incap"
+      ],
+      "file": "docs/design/whetstorm-art/auras/fear_incap.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original fear incapacitation status: a shadowy face with wide glowing pale eyes recoiling from a dark violet claw-shaped shadow, conveying fear without gore. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "3cecb0bca96c849c5771e7380df9515e8150cc980c6134e30559d50e1a4733a3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/fear_incap.webp",
+        "sha256": "0355b21dc848e39399d72549cb1d8d51ee98a585fe3d1b7ed2b7d32321733749",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/fear_incap.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "boneglass_cut",
+      "runtimeIds": [
+        "boneglass_cut"
+      ],
+      "file": "docs/design/whetstorm-art/auras/boneglass_cut.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original boneglass cut damage status: a sharp translucent ivory shard cutting across a dark red leather surface, a restrained crimson glint, no gore. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "6f12fe79aeb62cd075a4e686c4d9c21b6a11af39f72ffcb0fbdf8c2535398e99",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/boneglass_cut.webp",
+        "sha256": "ed4157aa336f13686228b5f3dc42b8a119e9260dd5481387d312f502cf31f178",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/boneglass_cut.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "marrowpoint_rend",
+      "runtimeIds": [
+        "marrowpoint_rend"
+      ],
+      "file": "docs/design/whetstorm-art/auras/marrowpoint_rend.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original marrow rend damage status: a pale jagged bone point tearing across a dark crimson background, a few restrained red droplets, no gore. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "9397f43b26a8de96e6fd3216bd3b50ad64b2765e6490126da0769f8d6f5e93c9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/marrowpoint_rend.webp",
+        "sha256": "11d7ad1b606ba1e76b12b2401ebeb3767d8bcf584321ec1e22f411bc61d59ce4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/marrowpoint_rend.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "water_jet",
+      "runtimeIds": [
+        "water_jet",
+        "water_jet_slow"
+      ],
+      "file": "docs/design/whetstorm-art/auras/water_jet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original water jet damage and slow status: a concentrated turquoise jet of water with bright droplets striking a dark stone, a faint cool blue mist. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "0eac6f3125c1d9bb907df4d43dc4226dc9f5bf7d27901d31247074462a875dfc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/water_jet.webp",
+        "sha256": "ed68ca3c1c2d588153fd05de7266216a80dc83e67d0b73d6e48d371b20d40d3c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "paths": [
+          "public/ui/auras/water_jet.webp",
+          "public/ui/auras/water_jet_slow.webp"
+        ],
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}
