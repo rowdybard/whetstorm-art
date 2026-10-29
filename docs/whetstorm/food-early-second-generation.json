@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vale_hearth_loaf",
+      "file": "docs/design/whetstorm-art/items/vale_hearth_loaf.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square fantasy game inventory item painting: Vale Hearth Loaf. A single rustic golden oval hearth loaf with bold scored crust, whole and centered. Dark painted background, hand-painted fantasy art, vibrant color, bold clear silhouette, soft upper-left light, legible at 32 pixels. No border, frame, text, lettering, logo or watermark. Original design, do not imitate any existing game or artist.",
+      "status": "original food painting; reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "ac6fbfc3ac07db2f1b5b2808d05d7b5f0b5a74837131e449fcfceb3babd9946d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vale_hearth_loaf.webp",
+        "sha256": "67cfae5e749a78474afd11840493229279fc4ef1c5f4f745ed1090d415effbc8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "eastbrook_root_pottage",
+      "file": "docs/design/whetstorm-art/items/eastbrook_root_pottage.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square fantasy game inventory item painting: Eastbrook Root Pottage. A single rustic earthenware bowl filled with thick golden root vegetable pottage, clearly visible chunks, whole bowl centered. Dark painted background, hand-painted fantasy art, vibrant color, bold clear silhouette, soft upper-left light, legible at 32 pixels. No border, frame, text, lettering, logo or watermark. Original design, do not imitate any existing game or artist.",
+      "status": "original food painting; reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "693097c22c7ffbc238e5b1512b62b631e197048754feb9199797560a984b388d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eastbrook_root_pottage.webp",
+        "sha256": "eb7965fee27791164ca3205ed83ddcd951a8390ca923a6c9eb7e420ac36c454f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "eastbrook_glazed_carrots",
+      "file": "docs/design/whetstorm-art/items/eastbrook_glazed_carrots.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square fantasy game inventory item painting: Eastbrook Glazed Carrots. A small bundle of three whole bright orange glazed cooked carrots with green tops, centered, simple readable silhouette. Dark painted background, hand-painted fantasy art, vibrant color, bold clear silhouette, soft upper-left light, legible at 32 pixels. No border, frame, text, lettering, logo or watermark. Original design, do not imitate any existing game or artist.",
+      "status": "original food painting; reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "de09a2950f7c51b43c86bd39b9ec219a0c93ad2d6e2b0ff32412679a6eadb37c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eastbrook_glazed_carrots.webp",
+        "sha256": "8ac78a598e0e061faa800e6eb9aa13b93b87f21dc449be5fd90ac0578ff47a7d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fenbridge_rice_bowl",
+      "file": "docs/design/whetstorm-art/items/fenbridge_rice_bowl.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square fantasy game inventory item painting: Fenbridge Rice Bowl. One dark ceramic bowl heaped with white rice and a few green herbs, seen in three-quarter view, entire bowl centered. Dark painted background, hand-painted fantasy art, vibrant color, bold clear silhouette, soft upper-left light, legible at 32 pixels. No border, frame, text, lettering, logo or watermark. Original design, do not imitate any existing game or artist.",
+      "status": "original food painting; reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "32e698f23cbd630d137c637214b3e7c21e3d795691ba5128888ad0b602f17b1e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenbridge_rice_bowl.webp",
+        "sha256": "f208e92b9342b2dc9904302042e273f6c50387033e6ca4e86aa8f7b46d998c4f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

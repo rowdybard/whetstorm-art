@@ -724,3 +724,11 @@ recorded in `docs/whetstorm/weapon-batch-twentyfour-generation.json`,
 `docs/whetstorm/food-original-batch-generation.json`,
 `docs/whetstorm/material-orewood-batch-generation.json`, and
 `docs/whetstorm/quest-batch-highwatch-generation.json`.
+
+Twenty-four mail, cloth, food, jewelry, material and quest paintings are
+recorded in `docs/whetstorm/plate-roadward-batch-generation.json`,
+`docs/whetstorm/cloth-batch-two-generation.json`,
+`docs/whetstorm/food-early-second-generation.json`,
+`docs/whetstorm/jewelry-batch-two-generation.json`,
+`docs/whetstorm/material-herb-hide-batch-generation.json`, and
+`docs/whetstorm/quest-batch-waterways-generation.json`.

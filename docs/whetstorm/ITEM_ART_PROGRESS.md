@@ -64,6 +64,17 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Twenty-seventh checkpoint: four mail pieces, four cloth pieces, four foods,
+four jewelry pieces, four gathering materials and four quest objects add 24
+unique paintings. This effort has created 276 paintings for 276 IDs without
+deliberate reuse. Of 1,626 catalog IDs, 293 have direct individual paintings
+and 1,333 do not. The retired Monarch's Crown was skipped. Records are
+`plate-roadward-batch-generation.json`, `cloth-batch-two-generation.json`,
+`food-early-second-generation.json`, `jewelry-batch-two-generation.json`,
+`material-herb-hide-batch-generation.json` and `quest-batch-waterways-generation.json`.
+Inventory-size reviews and focused image and routing tests passed. Browser,
+full gate and shipping-tree clearance remain open.
+
 Twenty-sixth checkpoint: four weapons, four cloth armor pieces, four leather
 armor pieces, four foods, four crafting materials and four quest objects add
 24 unique paintings. This effort has created 252 paintings for 252 IDs without

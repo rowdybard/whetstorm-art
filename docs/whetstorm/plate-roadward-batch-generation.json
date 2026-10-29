@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "roadwardens_helm",
+      "file": "docs/design/whetstorm-art/items/roadwardens_helm.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Roadwarden's Helm, a humble early mail armor helmet of worn silver iron, rounded crown, nose guard and short chainmail neck curtain, empty dark opening, no face. Show complete helmet with clear space around it.",
+      "status": "original mail armor painting; reviewed",
+      "sha256": "26490342c786b343f926cac770a06e8024b653ea403ada92eea57cde854b7acb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/roadwardens_helm.webp",
+        "sha256": "50b91b4f82f7439e420644afa548515fbf1de0cd8fbedcf4f68f6d0d17363e99",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reinforced_pauldrons",
+      "file": "docs/design/whetstorm-art/items/reinforced_pauldrons.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Reinforced Pauldrons, a pair of simple early mail armor shoulder guards, broad overlapping iron plates with riveted rims and dark chainmail beneath, no torso. Show both complete pauldrons with clear space around them.",
+      "status": "original mail armor painting; reviewed",
+      "sha256": "876ebadc47812260a9913697d105284c79be09a659564c3ae131e3b6c6196c6c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reinforced_pauldrons.webp",
+        "sha256": "052f512924090fbed1f6bb7e49aeb6feec283ba564409533589133dab953f166",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "outrider_brigandine",
+      "file": "docs/design/whetstorm-art/items/outrider_brigandine.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Outrider Brigandine, an early mail armor chest garment made of brown leather reinforced with rows of steel plates and rivets, short chainmail at the armholes, empty neck opening, no person. Show complete chest piece with clear space around it.",
+      "status": "original mail armor painting; reviewed",
+      "sha256": "b139ac6c9d9b937533cd785db6eb572b71284d5a7b253f7f0460129934c5aa75",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/outrider_brigandine.webp",
+        "sha256": "e3f049c3add220aaeed7df85776ef880d1b67f18ccea471b3b54bb609f4ba65c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "outrider_legguards",
+      "file": "docs/design/whetstorm-art/items/outrider_legguards.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Outrider Legguards, a complete pair of early mail armor legguards, articulated steel knee plates and chainmail over brown leather leggings, no boots or person. Show both complete legguards with clear space around them.",
+      "status": "original mail armor painting; reviewed",
+      "sha256": "3888f3573ec7bbdb6c63bfc152f84c2306d8edf93254c3db9968ea3eb4bb4ef4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/outrider_legguards.webp",
+        "sha256": "2cc682135cc27554425fa637f07da608f525e061ac41dacb835c17085deec223",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

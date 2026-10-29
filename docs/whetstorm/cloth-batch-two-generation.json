@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "sableweb_cord",
+      "file": "docs/design/whetstorm-art/items/sableweb_cord.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: original Whetstorm square inventory painting. Sableweb Cord: a single dark charcoal woven cloth waist cord, loosely coiled into a compact loop, delicate pale web-like interlacing and two short tasselled ends. Whole object centered, no mannequin. Original hand-painted fantasy, tactile cloth, warm upper-left light, dark navy painted vignette, bold readable silhouette at tiny size. No text, symbols, frames, logos or watermark. No imitation of any existing game or artist.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "d32d90a94514233fe28059bb40ac0de4bceb8e73a577da0f98bb580d7cdfa4c0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sableweb_cord.webp",
+        "sha256": "240fb3004692884ad4aae36e59b7f5614d3b26cd1f132bbbe2cb52f21a1915d2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-fefc6720-357c-4fe0-b0a1-73c53d1bb042.png"
+    },
+    {
+      "itemId": "caravan_quilted_vest",
+      "file": "docs/design/whetstorm-art/items/caravan_quilted_vest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: original Whetstorm square inventory painting. Caravan Quilted Vest: a practical sleeveless ochre and russet quilted cloth vest, front view, distinct diamond stitching, simple toggles, worn fabric. Complete garment centered, no body or mannequin. Original hand-painted fantasy, tactile cloth, warm upper-left light, dark navy painted vignette, bold readable silhouette at tiny size. No text, symbols, frames, logos or watermark. No imitation of any existing game or artist.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "8cbe8b62119adec0460c2b8ee7e43c78fb826ca7dfa235ec9c3e123cfae76cf1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/caravan_quilted_vest.webp",
+        "sha256": "4a5e1fd2ca55cebc0d8f313c9ab550a0f3f62f852727b3f50bf471c757e14226",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-2718850a-5922-4626-8b07-d1bca2b004a0.png"
+    },
+    {
+      "itemId": "pilgrims_leggings",
+      "file": "docs/design/whetstorm-art/items/pilgrims_leggings.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: original Whetstorm square inventory painting. Pilgrim's Leggings: a single pair of humble soft slate-blue cloth trousers, front view, loose cut with tied waist and patched knees, travel-worn fabric. Complete garment centered, no body or mannequin. Original hand-painted fantasy, tactile cloth, warm upper-left light, dark navy painted vignette, bold readable silhouette at tiny size. No text, symbols, frames, logos or watermark. No imitation of any existing game or artist.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "498b5f7ffdb77d7622f3e2871d90df2a01c82e0be826086a1c1c121a6e0ae83b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pilgrims_leggings.webp",
+        "sha256": "3232110e1e1208337b6fdd49bd80c66c250855558f7f4b438c69587bb8f23e7e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-f5946911-125a-437e-bfb0-0261c534eb25.png"
+    },
+    {
+      "itemId": "sunspun_handwraps",
+      "file": "docs/design/whetstorm-art/items/sunspun_handwraps.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: original Whetstorm square inventory painting. Sunspun Handwraps: a compact natural pair of golden cream woven cloth handwraps, warm amber edging, overlapping bands and visible thumb openings, no hands. Whole object centered. Original hand-painted fantasy, tactile cloth, warm upper-left light, dark navy painted vignette, bold readable silhouette at tiny size. No text, symbols, frames, logos or watermark. No imitation of any existing game or artist.",
+      "status": "original cloth armor painting; reviewed",
+      "sha256": "034fe4e5db21122ad0f82029bb0f06b6f374c131e812abce3e7e56d97cf40f1f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunspun_handwraps.webp",
+        "sha256": "673b9d426b4110c41e92e012aa80533402c2767a562082fbecb3507620fbd35d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-bb210bdc-d101-436c-944a-d058bc9c90a2.png"
+    }
+  ]
+}

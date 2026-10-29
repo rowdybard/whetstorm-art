@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "pristine_hide",
+      "subject": "Pristine Hide, a single exceptionally clean supple tawny animal hide spread flat, naturally irregular hide silhouette and pale soft fur edging",
+      "file": "docs/design/whetstorm-art/items/pristine_hide.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting: Pristine Hide, a single exceptionally clean supple tawny animal hide spread flat, naturally irregular hide silhouette and pale soft fur edging, complete and centered. Original Whetstorm stylized fantasy hand-painted look, bold clean shape and legible at 32 pixels, warm light upper left, dark painted background edge to edge. No frame, lettering, text, logo, watermark. Original design; do not copy any existing game or artist.",
+      "sha256": "6299ae45581371ad51755cbe5b739f34c9deddfa6cc9049406781e80e69ae871",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pristine_hide.webp",
+        "sha256": "450e97c9d0d742758635baf27664de638d44b9e4011f5e5c86af8bdec437196e",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 88, method 6"
+      }
+    },
+    {
+      "itemId": "goldleaf_herb",
+      "subject": "Goldleaf Herb, a single gathered sprig of broad golden yellow leaves with a short green stem",
+      "file": "docs/design/whetstorm-art/items/goldleaf_herb.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting: Goldleaf Herb, a single gathered sprig of broad golden yellow leaves with a short green stem, complete and centered. Original Whetstorm stylized fantasy hand-painted look, bold clean shape and legible at 32 pixels, warm light upper left, dark painted background edge to edge. No frame, lettering, text, logo, watermark. Original design; do not copy any existing game or artist.",
+      "sha256": "2f0798fe2961517f0be0fbb33bc95dcfe3a882e08fc4101126978a50f7982d11",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/goldleaf_herb.webp",
+        "sha256": "a82cf4a5d51c963045a459a8eee2e938fa22d7681c57392c39300c4e1c61955b",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 88, method 6"
+      }
+    },
+    {
+      "itemId": "sunpetal_herb",
+      "subject": "Sunpetal Herb, one gathered plant sprig with one large sunny yellow flower and a few green leaves",
+      "file": "docs/design/whetstorm-art/items/sunpetal_herb.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting: Sunpetal Herb, one gathered plant sprig with one large sunny yellow flower and a few green leaves, complete and centered. Original Whetstorm stylized fantasy hand-painted look, bold clean shape and legible at 32 pixels, warm light upper left, dark painted background edge to edge. No frame, lettering, text, logo, watermark. Original design; do not copy any existing game or artist.",
+      "sha256": "adb0dafef6a9b843d2c313448195f7e072eaecb93a328870d00143f1aca95adc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunpetal_herb.webp",
+        "sha256": "ce0304f3aa8f441aed65a732b918e73406f57f82d4d183ef2fc9545ddbba0bc8",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 88, method 6"
+      }
+    },
+    {
+      "itemId": "fine_goldleaf_herb",
+      "subject": "Fine Goldleaf Herb, an exceptional fresh tied bunch of broad golden leaves with bright pale gold tips and short green stems",
+      "file": "docs/design/whetstorm-art/items/fine_goldleaf_herb.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Square inventory item painting: Fine Goldleaf Herb, an exceptional fresh tied bunch of broad golden leaves with bright pale gold tips and short green stems, complete and centered. Original Whetstorm stylized fantasy hand-painted look, bold clean shape and legible at 32 pixels, warm light upper left, dark painted background edge to edge. No frame, lettering, text, logo, watermark. Original design; do not copy any existing game or artist.",
+      "sha256": "d0d8f8e59849ad0643d75b06f0598eb6fd6b7d735a438e2564a0b68220213a8d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_goldleaf_herb.webp",
+        "sha256": "7417e12483dbadbb72e02fd636a494c37053a5e89732bc9ded588c3eb1f8920e",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Pillow Lanczos resize; WebP quality 88, method 6"
+      }
+    }
+  ]
+}

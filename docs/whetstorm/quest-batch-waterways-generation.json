@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-art/items/wisplight_globe.png",
+      "subject": "Wisplight Globe",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for wisplight_globe, a WISPLIGHT GLOBE. One complete round glass globe containing a gentle pale turquoise wisp, with a simple bronze collar and small loop. Centered against a dark slate-blue painted background. Original hand-painted stylized fantasy, bold silhouette, warm upper-left light, restrained detail, readable at 32 pixels. Square painting edge to edge. No frame, text, letters, logo, watermark, people, or copied game designs.",
+      "sha256": "30b5333f24f51202659bbd52cad6305e121fe1578e3e6516c3838c9b596be88c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "wisplight_globe",
+      "status": "original art prepared for quest batch",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wisplight_globe.webp",
+        "sha256": "2a5b3637b988d3a251ef097ea6e12fbb6f1f3daae97f17e9e6e018ee651c06c6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/fenway_mooring_line.png",
+      "subject": "Cut Mooring Line",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for fenway_mooring_line, a CUT MOORING LINE. One complete thick tan hemp rope loosely coiled with two clearly frayed cut ends, no other objects. Centered against a dark slate-blue painted background. Original hand-painted stylized fantasy, bold silhouette, warm upper-left light, restrained detail, readable at 32 pixels. Square painting edge to edge. No frame, text, letters, logo, watermark, people, or copied game designs.",
+      "sha256": "bdcf01573a364139a43c8aa832181de72fab6c55fff6c6025973e96b7c55be84",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "fenway_mooring_line",
+      "status": "original art prepared for quest batch",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenway_mooring_line.webp",
+        "sha256": "77c5995318a5ef371851620a5ae36218d20b4072bd8024719d64d72e7c8834a7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/bridgemere_toll_chest.png",
+      "subject": "Sunken Toll-Chest",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for bridgemere_toll_chest, a SUNKEN TOLL-CHEST. One complete small waterworn wooden chest with rounded lid, broad aged bronze bands and simple central clasp, hint of algae at bottom, no coins. Centered three-quarter view against a dark slate-blue painted background. Original hand-painted stylized fantasy, bold silhouette, warm upper-left light, restrained detail, readable at 32 pixels. Square painting edge to edge. No frame, text, letters, logo, watermark, people, or copied game designs.",
+      "sha256": "44725a04a8a7be5787848827df11e4d80d58a8a2adc5e4171821ffe4a6b1552c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "bridgemere_toll_chest",
+      "status": "original art prepared for quest batch",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bridgemere_toll_chest.webp",
+        "sha256": "a7423fdea6c17e96491d3dbdfe6a95994128887f530f61645c71bfef584e6a96",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    },
+    {
+      "file": "docs/design/whetstorm-art/items/amberfall_sap_bucket.png",
+      "subject": "Sap-Tap Bucket",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory item painting for amberfall_sap_bucket, a SAP-TAP BUCKET. One complete modest wooden stave bucket with metal hoops and arched handle, a little golden sap visible within, no other objects. Centered three-quarter view against a dark slate-blue painted background. Original hand-painted stylized fantasy, bold silhouette, warm upper-left light, restrained detail, readable at 32 pixels. Square painting edge to edge. No frame, text, letters, logo, watermark, people, or copied game designs.",
+      "sha256": "0e6c14b9d8813b03ca621dbf2d20cf4ec8aa886b54c1fbfb11d21ccafb70e44e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "itemId": "amberfall_sap_bucket",
+      "status": "original art prepared for quest batch",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/amberfall_sap_bucket.webp",
+        "sha256": "0bff2309ef76bd8c9da371bd901d56f91ff8d3df8306029ec3b9e3db1025202d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Lanczos resize from master; Pillow WebP quality 84, method 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "etched_iron_loop",
+      "file": "docs/design/whetstorm-art/items/etched_iron_loop.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy game inventory item painting. Paint Etched Iron Loop: one simple iron finger ring, broad slate-grey band engraved with a bold zigzag groove, three-quarter view showing the opening. whole and centered, large readable silhouette, hand-painted stylized fantasy, lush but restrained color, bold forms and minimal detail, warm highlights, dark painted background. Square composition. Entire object in frame with generous margin. Original design, no frame, letters, text, logo, watermark, hands or other objects. 2D painting, not 3D.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "d3a64b5039e0dc4780a6004a3af360beaeace07ad54114d4d4ec6dbca66a0ed9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/etched_iron_loop.webp",
+        "sha256": "03a86493b70a9569dc7c9eedcbeae9665ac382472f60ac6befa4b4dac8837b82",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "iron_link_choker",
+      "file": "docs/design/whetstorm-art/items/iron_link_choker.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy game inventory item painting. Paint Iron Link Choker: one short iron necklace made from chunky interlocking dark iron oval links, arranged in an open horseshoe, with a simple clasp. whole and centered, large readable silhouette, hand-painted stylized fantasy, lush but restrained color, bold forms and minimal detail, warm highlights, dark painted background. Square composition. Entire object in frame with generous margin. Original design, no frame, letters, text, logo, watermark, hands or other objects. 2D painting, not 3D.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "329edcd0bad590d322a24fd1bded05936b0f405aa53b51d48d53c295188366c0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/iron_link_choker.webp",
+        "sha256": "f4371900e57e9d1d9a5a878d7f7d79ec4888814df9f2414c1e9e934b07b2ca16",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "weighted_thorium_band",
+      "file": "docs/design/whetstorm-art/items/weighted_thorium_band.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy game inventory item painting. Paint Weighted Osmium Band: one heavy finger ring with a thick dark blue-grey metal band and a large squared weight integrated into its top, no gemstone. whole and centered, large readable silhouette, hand-painted stylized fantasy, lush but restrained color, bold forms and minimal detail, warm highlights, dark painted background. Square composition. Entire object in frame with generous margin. Original design, no frame, letters, text, logo, watermark, hands or other objects. 2D painting, not 3D.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "fe93b8569b0fdf03b7758752df5f6a2f1c78c8f719a09187a5c858e452b4c29d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/weighted_thorium_band.webp",
+        "sha256": "78643c1faa1834c2aa1dfa2812da08803128571cb94dcfc1a897cab666f8bb06",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gleaming_thorium_loop",
+      "file": "docs/design/whetstorm-art/items/gleaming_thorium_loop.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy game inventory item painting. Paint Gleaming Osmium Loop: one elegant bright silvery blue metal finger ring, polished rounded band with a single sweeping raised ridge, no gemstone. whole and centered, large readable silhouette, hand-painted stylized fantasy, lush but restrained color, bold forms and minimal detail, warm highlights, dark painted background. Square composition. Entire object in frame with generous margin. Original design, no frame, letters, text, logo, watermark, hands or other objects. 2D painting, not 3D.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "57fb464346eb9879bf731e940aff96b287ddc2690ec2242bacad12aaa01d5a25",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gleaming_thorium_loop.webp",
+        "sha256": "75a0a29de547f5bc8404c2abbf0df2f7df115a9f91e16fc5cc0fae1f6d8d9845",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
