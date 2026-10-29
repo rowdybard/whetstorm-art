@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "fine_vale_wheat",
+      "file": "docs/design/whetstorm-art/items/fine_vale_wheat.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Square inventory item painting: Fine Vale Wheat, a small tied sheaf of ripe golden wheat with full heavy grain heads and long stems, centered whole. Original stylized fantasy, hand-painted, bold clean shapes, restrained detail, readable at 32 pixels. Dark slate-blue painted background, soft warm upper-left light. No frame, text, letters, logo, watermark, people or hands. Original design; do not imitate other games.",
+      "status": "original farming material painting; reviewed",
+      "sha256": "8ac999781d64acd327695815dc0910a794a4d5b239ab33e19f5b542b368e515e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_vale_wheat.webp",
+        "sha256": "13644e5b004ca6dd0acbbee3d176f4a685fc84bc52e386cce59fbc1053f59aac",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      },
+      "source_output": "exec-82403919-56cc-4364-85a4-ecffdce98d88.png"
+    },
+    {
+      "itemId": "brook_carrot_seed",
+      "file": "docs/design/whetstorm-art/items/brook_carrot_seed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Square inventory item painting: Brook Carrot Seed, a small open unmarked cloth pouch spilling a few tiny tan carrot seeds, centered whole, with a single delicate carrot leaf tucked beside its mouth to identify the contents. Original stylized fantasy, hand-painted, bold clean shapes, restrained detail, readable at 32 pixels. Dark slate-blue painted background, soft warm upper-left light. No frame, text, letters, logo, watermark, people or hands. Original design; do not imitate other games.",
+      "status": "original farming material painting; reviewed",
+      "sha256": "571e0cfb6112d74663562fa88cf076f6fa4b31e65a6e1368b1c5446973c7e60a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/brook_carrot_seed.webp",
+        "sha256": "2ed66a9514123fb43d3fc739c4b11dfacc8d12dd861fe3842551b316bb8ccb30",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      },
+      "source_output": "exec-03e6b02d-65fc-497e-a1dc-e2f1073c9888.png"
+    },
+    {
+      "itemId": "fine_bog_beet",
+      "file": "docs/design/whetstorm-art/items/fine_bog_beet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Square inventory item painting: Fine Bog Beet, one plump deep burgundy beetroot with a short tapering root and lush green leaves, centered whole. Original stylized fantasy, hand-painted, bold clean shapes, restrained detail, readable at 32 pixels. Dark slate-blue painted background, soft warm upper-left light. No frame, text, letters, logo, watermark, people or hands. Original design; do not imitate other games.",
+      "status": "original farming material painting; reviewed",
+      "sha256": "78c0d6be60a1f066a635f84e86858004785ea9ab7bd2110e8189933d8adf5add",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_bog_beet.webp",
+        "sha256": "7837f3c0e19399f8dcbf74f7e8d4c0cee2398d041d5b17c26b88f159199382ba",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      },
+      "source_output": "exec-1dc2dd55-9354-483e-aa4b-1dadf65f6537.png"
+    },
+    {
+      "itemId": "bog_beet_seed",
+      "file": "docs/design/whetstorm-art/items/bog_beet_seed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Square inventory item painting: Bog Beet Seed, a small open unmarked dark brown cloth pouch with several distinctive knobbly beet seed clusters beside it and one tiny burgundy beet leaf tucked at its mouth, centered whole. Original stylized fantasy, hand-painted, bold clean shapes, restrained detail, readable at 32 pixels. Dark slate-blue painted background, soft warm upper-left light. No frame, text, letters, logo, watermark, people or hands. Original design; do not imitate other games.",
+      "status": "original farming material painting; reviewed",
+      "sha256": "d7a7c5f6d0ba161ea5ab463a97a482d35b7b954b87eec5a72e5ab143938d8d4b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bog_beet_seed.webp",
+        "sha256": "58adf1675000ba6308b9e32e85e2eb502aeceeb1bdf2d2a8edb97c5100c71125",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      },
+      "source_output": "exec-680ffbb4-a485-4c5a-976f-c47095b10a74.png"
+    }
+  ]
+}

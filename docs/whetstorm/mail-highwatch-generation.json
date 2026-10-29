@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "highwatch_wallshield",
+      "file": "docs/design/whetstorm-art/items/highwatch_wallshield.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Highwatch Wallshield, a single tall broad iron-reinforced wooden shield with a simple stone-grey central boss and worn bronze edges. Show the complete shield with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "787bf13ad7f4ff52d9096bec40dd1686b48d201c9a9662bcb55e9a0479137f6b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/highwatch_wallshield.webp",
+        "sha256": "96a1b7c131826aa1deb09304cd0a32e8005ac3a66cdaa865861a6277dc934a26",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "highwatch_breastplate",
+      "file": "docs/design/whetstorm-art/items/highwatch_breastplate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Highwatch Breastplate, a single practical forged steel torso breastplate with subtle bronze edging, leather side straps and a simple raised central ridge. Show the complete armor with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "1d0eb1fc80174ddcabd7832b43d05928bb483674ab35506d2bbe54a48669343d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/highwatch_breastplate.webp",
+        "sha256": "edb0498fb38f307bb5596da6b57339f3a49086aff2d3629af1d3c9b5eacec03c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "cragward_pauldrons",
+      "file": "docs/design/whetstorm-art/items/cragward_pauldrons.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Cragward Pauldrons, one complete pair of sturdy forged steel shoulder armor with rugged overlapping angular plates and understated copper rivets. Show both complete pauldrons with clear space around them.",
+      "status": "original armor painting; reviewed",
+      "sha256": "71ebf8bc5f31752062eb16a58c3e31aeca7dc1efc1b4b20533d5585a67045ce0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cragward_pauldrons.webp",
+        "sha256": "260b8d0f60130040de2e56d62d25749da8880a3bc8c4d192276e47a87beea734",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "stormchant_gauntlets",
+      "file": "docs/design/whetstorm-art/items/stormchant_gauntlets.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Stormchant Gauntlets, one complete pair of steel mail gloves with segmented blue-grey metal fingers, copper wrist bands and a restrained pale blue storm motif. Show both complete gauntlets with clear space around them.",
+      "status": "original armor painting; reviewed",
+      "sha256": "723941d49fbdc125c53a0ad2a5260abb6818daae41bd1f94c9d1238c5a5a75ab",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormchant_gauntlets.webp",
+        "sha256": "0ae3570e681859dd42ab079895d836691e8c64340b1baa936b877a85ce2ff9d8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

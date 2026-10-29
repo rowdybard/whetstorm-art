@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "champion_rift_band",
+      "file": "docs/design/whetstorm-art/items/champion_rift_band.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: fantasy game inventory icon painting. Paint Champion's Rift Band, a single heavy dark iron ring with a broad angular face split by a luminous violet fissure, subtle silver edging. Whole ring centered, bold readable silhouette, dark painted background, vivid hand-painted fantasy illustration. No frame, text, letters, logo, watermark, other objects. Original design, not imitating any game.",
+      "status": "original painting; size review",
+      "sha256": "c378806b152c89d266ad48111f91b9f2b6278bd24c041d034b312599f0602b0e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/champion_rift_band.webp",
+        "sha256": "3a84e43ef4cff8a4d346d2c2512be8f4cf5de5f5cfa6b9df479af2b86062fa5a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "riftwardens_pendant",
+      "file": "docs/design/whetstorm-art/items/riftwardens_pendant.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Inventory icon, original hand-painted fantasy. A complete Riftwarden's Pendant: single violet crystal in silver protective cage dangling from a complete closed circular silver chain. The entire necklace including the chain must be visible, small and centered with generous margins on all four sides, dark painted background. Strong readable shape. No text, frame, logo, watermark, or other objects.",
+      "status": "original painting; size review",
+      "sha256": "40f73964c818b1bb48a286544abceffe80af6999245902b1dd55d8052cfa0e45",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/riftwardens_pendant.webp",
+        "sha256": "dd51b65175d71efccc89c7c31494c9dddd71ed918e6d3f03d355f4becd7a60e3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "champion_dawn_medallion",
+      "file": "docs/design/whetstorm-art/items/champion_dawn_medallion.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Inventory icon, original hand-painted fantasy. A complete Champion's Dawn Medallion: round gold sunrise medallion with amber enamel dangling from a complete closed circular gold chain. The entire necklace including chain must be visible, small and centered with generous margins on all four sides, dark painted background. Strong readable shape. No text, frame, logo, watermark, or other objects.",
+      "status": "original painting; size review",
+      "sha256": "4ef0798f59af96bd9523e9c1c9f1781550857c86c5bc975ef626de3d417db5bf",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/champion_dawn_medallion.webp",
+        "sha256": "04ce8943a02e5db2d80012f901475e3e1084a1d93d913b28fa8d37802723c50c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "champions_dawn_loop",
+      "file": "docs/design/whetstorm-art/items/champions_dawn_loop.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: fantasy game inventory icon painting. Paint Champion's Dawn Loop, a single gold ring with an inset orange sunstone and a simple flared sunray setting. Whole ring centered, bold readable silhouette, dark painted background, vivid hand-painted fantasy illustration. No frame, text, letters, logo, watermark, other objects. Original design, not imitating any game.",
+      "status": "original painting; size review",
+      "sha256": "b62040dd5eee74f984f239979fe53058f67c97c58138cfded16ea5682b79a6bb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/champions_dawn_loop.webp",
+        "sha256": "0dd60be44d6c5a888da4a7c13feacc39c1c7c941ac066a52610ba8c49a926444",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

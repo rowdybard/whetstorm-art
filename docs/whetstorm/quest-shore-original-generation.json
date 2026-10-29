@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "ps_castaway_crate",
+      "file": "docs/design/whetstorm-art/items/ps_castaway_crate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for ps_castaway_crate, Castaway Crate, a small salvaged wooden supply crate from a shipwreck. Square painted edge to edge, show the entire single sturdy rough plank crate in three-quarter view, rope tied around it, worn salt-stained wood and simple iron nails, centered against dark slate-blue painted background. Original stylized hand-painted fantasy art, bold readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No text, symbols, frame, people, additional objects, logos, watermark, or copied designs.",
+      "status": "original quest painting; reviewed at 32, 48 and 64 pixels",
+      "sha256": "36855c079c85c0c9e4a5d729698fe6193086496c15477c9fe4530540f333b920",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ps_castaway_crate.webp",
+        "sha256": "49e37273adac8a7dcdc339eb9e2094c5c94a0e67d9399d48ce88b66b08a71168",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ps_passing_stone",
+      "file": "docs/design/whetstorm-art/items/ps_passing_stone.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for ps_passing_stone, Passing Stone, a quest rite stone. Square painted edge to edge, show one whole smooth oval charcoal-grey stone with a single pale gold natural mineral vein across its face, slightly beveled, centered against dark slate-blue painted background. Original stylized hand-painted fantasy art, bold readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No text, letters, runes, symbols, frame, people, extra objects, logos, watermark, or copied designs.",
+      "status": "original quest painting; reviewed at 32, 48 and 64 pixels",
+      "sha256": "4b7969e5fdc4cb67e2840113e945726cbcc63bb540c33f89d1dc124381608321",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ps_passing_stone.webp",
+        "sha256": "c1fa1306ceb5e7f4c78ea87f2038f03039866a4d3520b9eabf39af08b18b0278",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ps_briny_lure",
+      "file": "docs/design/whetstorm-art/items/ps_briny_lure.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for ps_briny_lure, Briny Lure, a reusable tide-pool fishing lure. Square painted edge to edge, show one complete chunky fish-shaped carved pale shell lure with a single curved dark metal hook and short tied cord, centered against dark slate-blue painted background. Original stylized hand-painted fantasy art, bold readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No text, letters, frame, people, fish, additional objects, logos, watermark, or copied designs.",
+      "status": "original quest painting; reviewed at 32, 48 and 64 pixels",
+      "sha256": "5c04ac5ca1d48c7b0f3253b6f072ff15b4164284fa0773f9df993b5e9c5b31ce",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ps_briny_lure.webp",
+        "sha256": "4918f145b5045a43d2079b17f7925e916afd2164cf3abc1adc833c6ab67114f5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "firebottle",
+      "file": "docs/design/whetstorm-art/items/firebottle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original Whetstorm inventory painting for firebottle, a reusable firebottle thrown at huts. Square painted edge to edge, show one whole squat dark amber glass bottle with a tightly stoppered neck and a short unlit cloth wick, centered against dark slate-blue painted background. Original stylized hand-painted fantasy art, bold readable silhouette, warm upper-left light, restrained details, readable at 32 pixels. No text, labels, letters, frame, people, additional objects, flames, logos, watermark, or copied designs.",
+      "status": "original quest painting; reviewed at 32, 48 and 64 pixels",
+      "sha256": "9a50b940ef61f684f9f7db1606c94fdb2b5d41c70007d7c7daf64ba7ba4d0b95",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/firebottle.webp",
+        "sha256": "fbe2e92bf0d4f9bc32f96b17076585954b9d58cfb2d40f6ae140d75dc498dbce",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

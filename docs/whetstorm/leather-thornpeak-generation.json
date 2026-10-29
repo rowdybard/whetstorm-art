@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "cragmaw_prowlboots",
+      "file": "docs/design/whetstorm-art/items/cragmaw_prowlboots.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Cragmaw Prowlboots, one complete pair of rugged dark brown leather boots with overlapping tan hide ankle cuffs, modest claw-shaped stitching, clearly visible toes and soles, no wearer.",
+      "status": "original armor painting; reviewed",
+      "sha256": "033e4475bf570abf16df3684693486769cfa4aa6bd1c39e76537f2871518047f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cragmaw_prowlboots.webp",
+        "sha256": "f81135f1e5a072c2bd0d33164d4332c343ee4270d128766e5d48bd5a231fede6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "cragmaw_huntcord",
+      "file": "docs/design/whetstorm-art/items/cragmaw_huntcord.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Cragmaw's Huntcord, one complete coiled weathered russet leather belt with a broad bone-colored buckle and simple laced tie, no wearer.",
+      "status": "original armor painting; reviewed",
+      "sha256": "b970c44bd6b80bb630a4557f75aa66db5338ece34f80e0a2c1f5d399ffe73882",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cragmaw_huntcord.webp",
+        "sha256": "93dd7dcae77355b5e3344d144329b77d02355bf8f0b7cd4feac6d603cc20ecc2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "nightwalk_jerkin",
+      "file": "docs/design/whetstorm-art/items/nightwalk_jerkin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Nightwalk Jerkin, one complete sleeveless dark umber leather jerkin with a high collar, crossed fastening straps and quiet muted blue stitching, no wearer.",
+      "status": "original armor painting; reviewed",
+      "sha256": "1a275638909e5464ef432feb396b723be637d444a1884ceb7db989a9088c59b6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/nightwalk_jerkin.webp",
+        "sha256": "ce30483f17925f615dd526e0bc1dd2f982d800d0aad551fa14961fdc72412efd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "shadowmeld_tunic",
+      "file": "docs/design/whetstorm-art/items/shadowmeld_tunic.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: Nightveil Tunic, one complete long-sleeved deep plum leather tunic with overlapping panels and pale stitched edging, no wearer.",
+      "status": "original armor painting; reviewed",
+      "sha256": "23f3340bb9673e47d56c0c0271595b3e96e1a2b7d039afff7e3d315064ebb0da",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/shadowmeld_tunic.webp",
+        "sha256": "195556ef4073edabede6a19b911daec5981c47b4d7d7b54fea64c31843df163b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

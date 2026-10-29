@@ -64,6 +64,17 @@ distinction from plain tallow; its first source and prompt remain recorded.
 Size reviews and focused image, routing and original-art tests passed. Browser,
 full gate and shipping-tree clearance remain open.
 
+Thirtieth checkpoint: four mail pieces, four leather pieces, four foods, four
+faction jewelry pieces, four farming materials and four quest objects add 24
+unique paintings. This effort has created 348 paintings for 348 IDs without
+deliberate reuse. Of 1,626 catalog IDs, 365 have direct individual paintings
+and 1,261 do not. Faction jewelry is later reputation content. Records are
+`mail-highwatch-generation.json`, `leather-thornpeak-generation.json`,
+`food-zone-two-generation.json`, `jewelry-champions-generation.json`,
+`farm-materials-original-generation.json` and `quest-shore-original-generation.json`.
+Inventory-size reviews and focused image and routing tests passed. Browser,
+full gate and shipping-tree clearance remain open.
+
 Twenty-ninth checkpoint: four mail pieces, four cloth pieces, four foods, four
 jewelry pieces, four crafting reagents and four quest objects add 24 unique
 paintings. This effort has created 324 paintings for 324 IDs without deliberate

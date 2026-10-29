@@ -748,3 +748,11 @@ recorded in `docs/whetstorm/mail-reliquary-generation.json`,
 `docs/whetstorm/jewelry-faction-craft-generation.json`,
 `docs/whetstorm/craft-reagent-original-batch-generation.json`, and
 `docs/whetstorm/quest-batch-thornpeak-generation.json`.
+
+Twenty-four mail, leather, food, faction jewelry, farming and quest paintings
+are recorded in `docs/whetstorm/mail-highwatch-generation.json`,
+`docs/whetstorm/leather-thornpeak-generation.json`,
+`docs/whetstorm/food-zone-two-generation.json`,
+`docs/whetstorm/jewelry-champions-generation.json`,
+`docs/whetstorm/farm-materials-original-generation.json`, and
+`docs/whetstorm/quest-shore-original-generation.json`.

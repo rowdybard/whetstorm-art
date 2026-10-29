@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "fenbridge_rye",
+      "file": "docs/design/whetstorm-art/items/fenbridge_rye.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original opaque square fantasy inventory painting of Fenbridge Rye Loaf: one whole dark rye loaf, crust scored in broad diagonal slashes, on a small simple plate. Hand-painted tactile crust, centered complete silhouette with safe padding, warm upper-left light, cool shadows, dark umber painted background. Readable at tiny size. No frame, text, logo, watermark, people, or imitation of existing games.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "3716284906696537b26701a258dcb63532282bef5655e5e45376a7fe3662bb83",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fenbridge_rye.webp",
+        "sha256": "de2e3d14a450e73169e5b4174bf8ee65ee2d9c473d3d1e393547617458164427",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "marsh_mint_tea",
+      "file": "docs/design/whetstorm-art/items/marsh_mint_tea.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original opaque square fantasy inventory painting of Marsh Mint Tea: one squat earthenware flask containing mint tea, a single mint sprig tucked beneath its plain stopper. Readable vessel and material, centered complete silhouette with safe padding, warm upper-left light, cool shadows, dark umber painted background. Hand-painted fantasy game art, readable at tiny size. No frame, text, logo, watermark, people, or imitation of existing games.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "439ec26c8c55e6b0204c5d5fd8e8ca8beacee4d1b0c986fe2601d2e913e02a54",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/marsh_mint_tea.webp",
+        "sha256": "51ec2cd184567edfeb56ce35482c02656b67a2034fc935a90b36aaef9700e98a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "smoked_eel",
+      "file": "docs/design/whetstorm-art/items/smoked_eel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original opaque square fantasy inventory painting of Smoked Mirefen Eel: one whole smoked eel curled in a compact arc, golden brown textured skin, on a simple dark plate. Centered complete silhouette with safe padding, warm upper-left light, cool shadows, dark umber painted background. Hand-painted fantasy game art, readable at tiny size. No frame, text, logo, watermark, people, or imitation of existing games.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "8dce706be875bd354af33f917bb38a8eed54923669cad4a122d9cc0ecaf09e8f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/smoked_eel.webp",
+        "sha256": "b02cb57e2cb28d098832581a2772afdbbb25a919b0934e6d98d2a8c16cbdafe4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "silvermist_cordial",
+      "file": "docs/design/whetstorm-art/items/silvermist_cordial.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original opaque square fantasy inventory painting of Silvermist Cordial: one clear glass bottle with a round shoulder and cork, containing pale silver-blue cordial with visible liquid line. Centered complete silhouette with safe padding, warm upper-left light, cool shadows, dark navy painted background. Hand-painted fantasy game art, readable at tiny size. No frame, text, logo, watermark, people, or imitation of existing games.",
+      "status": "reviewed at 32, 48 and 64 pixels; awaiting integration",
+      "sha256": "08a74f4f7eb08843369cde39fb1320215c96ebdfb4e6bdcdbf70366e1daa89f2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silvermist_cordial.webp",
+        "sha256": "3163a4b23a6cdb0c280af1c28c354e76ec3f0cdda89ddff3ef5188cde42e25a9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}
