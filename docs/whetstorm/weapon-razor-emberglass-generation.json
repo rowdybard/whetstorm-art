@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "first_blood_razor",
+      "file": "docs/design/whetstorm-art/items/first_blood_razor.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One First-Blood Razor, complete one-handed war dagger with a narrow bright steel blade, angular dark iron guard, deep red leather grip and restrained bronze fittings. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No blood, person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "c3640992f3cca6797d853cc75ec121d304bd986ce9b6ba9623b59984a6a6d6a2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/first_blood_razor.webp",
+        "sha256": "2cb51a526e877a95d768457611c5453153197d606d6e615911d25395dd89fca6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-315ee713-df50-43eb-8fe6-63590edace34.png"
+    },
+    {
+      "itemId": "emberglass_warstaff",
+      "file": "docs/design/whetstorm-art/items/emberglass_warstaff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Emberglass Warstaff, complete long two-handed dark wood staff crowned with a faceted orange-red glass crystal in dark bronze prongs, leather wraps and subtle contained ember glow. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "cf4c2e1fc3ee2b38c14d336af3a57bad2ed9a485d2cb0e23128149048b3e9052",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberglass_warstaff.webp",
+        "sha256": "17821f2d76485c17b0102cd566b92bc5da53281bf8e99701b6e82200bc984b7c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-41394ed9-c1dd-437d-8fc7-a48172e74068.png"
+    }
+  ]
+}

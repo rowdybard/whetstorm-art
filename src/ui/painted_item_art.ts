@@ -79,6 +79,7 @@ import { farmProduceOriginalItemImageUrl } from './farm_produce_original_item_ar
 import { farmingHoesItemImageUrl } from './farming_hoes_item_art';
 import { farmingThornpeakItemImageUrl } from './farming_thornpeak_item_art';
 import { fenbloomItemImageUrl } from './fenbloom_item_art';
+import { fineProduceStockItemImageUrl } from './fine_produce_stock_item_art';
 import { fishingLaterCatchItemImageUrl } from './fishing_later_catch_item_art';
 import { fishingRawCatchItemImageUrl } from './fishing_raw_catch_item_art';
 import { fishingRodsItemImageUrl } from './fishing_rods_item_art';
@@ -180,6 +181,7 @@ import { questShoreOriginalItemImageUrl } from './quest_shore_original_item_art'
 import { questSignetBrandItemImageUrl } from './quest_signet_brand_item_art';
 import { questThornpeakItemImageUrl } from './quest_thornpeak_item_art';
 import { questTreasureMapItemImageUrl } from './quest_treasure_map_item_art';
+import { razorEmberglassItemImageUrl } from './razor_emberglass_item_art';
 import { realmQuestDropItemImageUrl } from './realm_quest_drop_art';
 import { realmQuestWeaponsItemImageUrl } from './realm_quest_weapons_item_art';
 import { regionalClothRewardsItemImageUrl } from './regional_cloth_rewards_item_art';
@@ -225,6 +227,8 @@ import { zealfireArmorItemImageUrl } from './zealfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    fineProduceStockItemImageUrl(id) ??
+    razorEmberglassItemImageUrl(id) ??
     professionAccessoriesItemImageUrl(id) ??
     zealfireArmorItemImageUrl(id) ??
     evergardenSeedsItemImageUrl(id) ??

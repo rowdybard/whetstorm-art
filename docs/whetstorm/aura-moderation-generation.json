@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "cheater_mark",
+      "runtimeIds": [
+        "cheater_mark"
+      ],
+      "file": "docs/design/whetstorm-art/auras/cheater_mark.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original moderation mark status: a cracked dark iron seal bearing a single watchful pale eye, a restrained crimson glow, conveying a public sanction. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, readable letters, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "9e79c1dd0ff3fd02197cff0dbdbdb693547de00fa2477f9d2e8a6362801a8d9b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/cheater_mark.webp",
+        "sha256": "3ae7c6128e77e5097e7e7360129a74c22ce6a0849d3c22a1898fd86522ca1233",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/cheater_mark.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

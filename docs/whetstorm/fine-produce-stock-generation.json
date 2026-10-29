@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "fine_gilded_sunmelon",
+      "file": "docs/design/whetstorm-art/items/fine_gilded_sunmelon.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one exceptional ripe golden sunmelon, round with a subtly netted rind and a bright golden sheen, with a single small green leaf, on a deep warm brown painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No seeds, pouch, lettering, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "2b6a45aefb37205b9d2334928c85063014bbb54971db22b6d29f5a17153e2612",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_gilded_sunmelon.webp",
+        "sha256": "47f80cfc142d61d5a2e5cfc57575eae3324327c77c14692309bfb91992b85c12",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "fine_evergarden_greens",
+      "file": "docs/design/whetstorm-art/items/fine_evergarden_greens.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a lush bundle of exceptional fresh Evergarden greens, vivid dark emerald leaves tied loosely with twine and a small golden glimmer on the leaf edges, on a dark brown-green painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No plate, pouch, lettering, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "d1aa97c11366989aba857141b349a45e2e0875ff482a1c235a2b215ca19dab2b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fine_evergarden_greens.webp",
+        "sha256": "5e35311591aee299dae08c77573c24cdd69e154b07223e146643a048ce4f2e22",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "seasoned_stock",
+      "file": "docs/design/whetstorm-art/items/seasoned_stock.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a small stoppered ceramic jar of seasoned cooking stock, warm amber broth visible at the opening with a few herbs tied around the jar, on a deep warm charcoal painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No lettering, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "a78f7cb361b065936eaf4e6896b42f530b2c4572d5bf2002fbd60162f28adf08",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/seasoned_stock.webp",
+        "sha256": "6e009fa53c6a311364903e4fef4e6086ef31cadb59c2a0a405d1185f9a7e4a3c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
