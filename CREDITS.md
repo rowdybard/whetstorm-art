@@ -860,3 +860,6 @@ Three original regional glove paintings are recorded in
 
 Three original early progression deed paintings are recorded in
 `docs/whetstorm/deed-progression-generation.json`.
+
+Three original talent progression deed paintings are recorded in
+`docs/whetstorm/deed-talents-generation.json`.

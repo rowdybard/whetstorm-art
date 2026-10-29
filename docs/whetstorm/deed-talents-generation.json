@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "id": "prog_double_digits",
+      "master": "docs/design/whetstorm-art/deeds/prog_double_digits.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for Double Digits, awarded upon reaching level 10 and unlocking talents. Show an open old parchment talent book with a single bright rising gold star above it, inside one simple circular brass medal, dark warm background, clear bold silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "55baaab19a3a50e1ac2ba7ad8407d0ca265191da2958221043c111dfc6c79c07",
+      "shipping": "public/ui/whetstorm/deeds/prog_double_digits.webp",
+      "shippingSha256": "def7472252abe01b971dc5cf1c857112df55234590995ee55af2b78e3bfe9880",
+      "processing": "Pillow Lanczos resize to 128x128; WebP quality 90 method 6"
+    },
+    {
+      "id": "prog_talented",
+      "master": "docs/design/whetstorm-art/deeds/prog_talented.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for A Point Well Spent, awarded for spending a first talent point. Show one golden faceted crystal set into the center of a small open constellation of faint connected points, inside one simple circular brass medal, dark warm background, clear bold silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "0987df450250cede69af27b056a994356d602d89b66ebc3409a90893cdc453dc",
+      "shipping": "public/ui/whetstorm/deeds/prog_talented.webp",
+      "shippingSha256": "e04293f09d1bf98e0a5d3e13e6dcaa6b2eb1392ebe6d6821a3b85457c10019dc",
+      "processing": "Pillow Lanczos resize to 128x128; WebP quality 90 method 6"
+    },
+    {
+      "id": "prog_specialized",
+      "master": "docs/design/whetstorm-art/deeds/prog_specialized.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for Declaration of Intent, awarded for choosing a specialization. Show three branching paths meeting under a single upright compass needle pointing along one path, inside one simple circular brass medal, dark warm background, clear bold silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "43d72dcd9dfb5bfa0525869d74a6a2aa93207034ea84c2aa711ae5f4c62ae64f",
+      "shipping": "public/ui/whetstorm/deeds/prog_specialized.webp",
+      "shippingSha256": "dadadd87673edfb347f85ade755e5393c2c0116f6aa49808a6e479826c683f7f",
+      "processing": "Pillow Lanczos resize to 128x128; WebP quality 90 method 6"
+    }
+  ]
+}

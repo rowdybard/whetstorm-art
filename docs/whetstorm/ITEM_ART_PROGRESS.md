@@ -1,5 +1,11 @@
 # Item painting checkpoint
 
+Talent deed follow-up: three original crests cover Double Digits, A Point Well
+Spent and Declaration of Intent through the game and guide lookup. Prompts and
+hashes are in `deed-talents-generation.json`; size review and focused tests
+passed. Guide build, browser, locked Reliquary state and shipping-tree clearance
+remain open; inherited deed files still need physical disposition.
+
 Early progression deed follow-up: three original crests cover First Steps,
 Finding Your Feet and Well Rested through the shared game and guide lookup.
 Prompts, source hashes and delivery hashes are in
