@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "elderwood_battle_staff",
+      "file": "docs/design/whetstorm-art/items/elderwood_battle_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Highpine Battle Staff, complete crafted long staff of weathered pale pine with sturdy iron endcaps, brown leather wrappings and a restrained carved pinecone finial. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "1e123d0ad6af87337869c01af7f4fd4b16517499896cb379dcebe72642ae2301",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/elderwood_battle_staff.webp",
+        "sha256": "127447e092313e75fad75098212c09460a1296820287de0bb46810da351a72ff",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-86405d19-62a1-405d-aa11-a849f52763ce.png"
+    },
+    {
+      "itemId": "final_argument_greatblade",
+      "file": "docs/design/whetstorm-art/items/final_argument_greatblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Final Argument Greatblade, complete two-handed war sword with a wide straight steel blade, angular dark iron crossguard, red leather long grip and restrained bronze fittings, practical formidable finish. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "65d2d023a1f78927f375eb603a288645a1892a4c177952afe5a00118e20cfc49",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/final_argument_greatblade.webp",
+        "sha256": "52f050d388c922fe72040585e79f0f79744312cb7303c71e0ee7c219bc9c3aa9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-c9869853-3688-40ca-ac1c-a599c56c1c7d.png"
+    }
+  ]
+}

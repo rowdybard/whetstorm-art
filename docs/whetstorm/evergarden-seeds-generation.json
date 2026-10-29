@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gilded_sunmelon_seed",
+      "file": "docs/design/whetstorm-art/items/gilded_sunmelon_seed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting: a small open seed pouch spilling flat pale gold melon seeds beside one round smooth golden melon with an unsegmented rind and subtle netting, clearly a melon, no pumpkin ribs or stem. Dark warm brown painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No text, letters, numbers, labels, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "dab7f26e8cce66577c5bb269d1191ddedd8fb7e425a26d377fa9a4bac201eba7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gilded_sunmelon_seed.webp",
+        "sha256": "49b379f66607341e2aab321f6b149680caffca89633cf8a23add161429ddc6b8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "evergarden_greens_seed",
+      "file": "docs/design/whetstorm-art/items/evergarden_greens_seed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a small open rustic seed pouch spilling tiny dark green seeds beside a fresh leafy green sprig, against a deep forest green painted background. Square painted edge to edge, centered bold silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No text, letters, numbers, label, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "ff80d20abba67f2432c7315c39e9db6bf67ee5eeb3b5320869beddcc0e188898",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/evergarden_greens_seed.webp",
+        "sha256": "6c20d01f06db04ce743945d1dc76c68fc878bdcd0f9950b324eb8110f5236d45",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gilded_yam_seed",
+      "file": "docs/design/whetstorm-art/items/gilded_yam_seed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a small open rustic seed pouch containing golden yam seed pieces beside a small golden yam, against a dark ochre painted background. Square painted edge to edge, centered bold silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No text, letters, numbers, label, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "ec6e7f0951d9515d87e08367aee791ea88e2e885d4c86a539cc45532453323b5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gilded_yam_seed.webp",
+        "sha256": "b456bf5ee56249ec79700904a219bc747550ae35bd50121c5e45bfe8f8b8d37d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "evergarden_pumpkin_seed",
+      "file": "docs/design/whetstorm-art/items/evergarden_pumpkin_seed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a small open rustic seed pouch spilling pale pumpkin seeds beside a small orange pumpkin, against a dark earthy green painted background. Square painted edge to edge, centered bold silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No text, letters, numbers, label, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "e0435866fdc237279a1b4a61b0db8dd24264a71f006a86c270aca428c3cc5f79",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/evergarden_pumpkin_seed.webp",
+        "sha256": "88701ecaf774a4aa87561223ce77b927c5d5be3b60bba4395dda3f237c631b9c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

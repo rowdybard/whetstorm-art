@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "dgn_morthen_flawless",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing an unbroken silver shield before a fading violet spectral skull in a stone crypt, surrounded by a golden laurel, representing a flawless group victory. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_morthen_flawless.png",
+      "masterSha256": "611e074be3e931a57492627eb9b2f2627c869b68eea91b016fcfd401c74d89ed",
+      "shipping": "public/ui/whetstorm/deeds/dgn_morthen_flawless.webp",
+      "shippingSha256": "498aaf656f8c42a1a64e44639f125314ac560efc2d4c7e31142373462d2244f3",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_morthen_trio",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing three adventurer silhouettes standing together before a violet-lit grave arch with a faint skull above, representing a small group victory. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_morthen_trio.png",
+      "masterSha256": "73046ee8c6844c3fbe18d44346b5c40a54ed4cca2c06ba87b7c15b14b2135b28",
+      "shipping": "public/ui/whetstorm/deeds/dgn_morthen_trio.webp",
+      "shippingSha256": "21f99ab5e73be20c349e2f670abb360ae3dd36d2449e29b2dfb30bdba417c93a",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_olen_arc",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a knight's sword sweeping in a bright arc toward a single raised shield while two small silhouettes safely stand outside the arc, representing careful positioning. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_olen_arc.png",
+      "masterSha256": "900bc8cf3c6539487f1c57bbaff1f0d56acb8911f5188d8bc43f3d4b448365ee",
+      "shipping": "public/ui/whetstorm/deeds/dgn_olen_arc.webp",
+      "shippingSha256": "716d3c51b4bd104aa141c4c2ec5d99c15b3c179e8547f026d81b2f65dd6ba2cd",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

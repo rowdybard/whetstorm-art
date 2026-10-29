@@ -68,6 +68,7 @@ import { earlyMaterialThirteenItemImageUrl } from './early_material_thirteen_ite
 import { earlyMaterialTwelveItemImageUrl } from './early_material_twelve_item_art';
 import { earlyQuestItemImageUrl } from './early_quest_item_art';
 import { earlyQuestMaterialItemImageUrl } from './early_quest_material_item_art';
+import { evergardenSeedsItemImageUrl } from './evergarden_seeds_item_art';
 import { factionArmorOriginalItemImageUrl } from './faction_armor_original_item_art';
 import { factionBagsItemImageUrl } from './faction_bags_item_art';
 import { factionUtilityItemImageUrl } from './faction_utility_item_art';
@@ -102,6 +103,7 @@ import { gravewyrmWeaponItemImageUrl } from './gravewyrm_weapon_item_art';
 import { herbPlantNextItemImageUrl } from './herb_plant_next_item_art';
 import { heroicLeatherOriginalItemImageUrl } from './heroic_leather_original_item_art';
 import { heroicMailOriginalItemImageUrl } from './heroic_mail_original_item_art';
+import { highpineArgumentItemImageUrl } from './highpine_argument_item_art';
 import { highwatchWeaponItemImageUrl } from './highwatch_weapon_item_art';
 import { hoardJewelryItemImageUrl } from './hoard_jewelry_item_art';
 import { jewelryAbyssRingsItemImageUrl } from './jewelry_abyss_rings_item_art';
@@ -221,6 +223,8 @@ import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    evergardenSeedsItemImageUrl(id) ??
+    highpineArgumentItemImageUrl(id) ??
     fishingRodsItemImageUrl(id) ??
     osmiumGlyphsteelItemImageUrl(id) ??
     soulAndCoresItemImageUrl(id) ??
