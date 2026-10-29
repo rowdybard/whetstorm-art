@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "courtiers_bonefang",
+      "file": "docs/design/whetstorm-art/items/courtiers_bonefang.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Courtier's Bonefang, complete one-handed dagger with a slender curved ivory fang blade, dark steel guard, purple leather grip and restrained bronze fittings, a refined but sinister raid weapon. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "aae07c3746654db75aa96f741217570b28cd28fceac0ffdcb52c323cd1b72191",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/courtiers_bonefang.webp",
+        "sha256": "fb9e85b895f83efc7ccd39559fc918a817f68d815edaa97720468e352f4b2ccf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-cfad6507-8edb-4318-84f9-54caabdc960e.png"
+    },
+    {
+      "itemId": "thornpeak_wardblade",
+      "file": "docs/design/whetstorm-art/items/thornpeak_wardblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Thornpeak Wardblade, complete sturdy one-handed defensive steel sword with a wide straight blade, protective thorn-shaped steel crossguard, brown leather grip and restrained bronze fittings. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "b072c3a2965e0daf55afd9161e668f6696e403251ceb224ec9a79b2c2b825a1f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/thornpeak_wardblade.webp",
+        "sha256": "b4ae161ae1ed56a6890dae2e11dd0a5f516b13fec28c365c55667baf4033175b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-ee5c73f1-cb84-4058-bc92-439d3cfd0430.png"
+    }
+  ]
+}

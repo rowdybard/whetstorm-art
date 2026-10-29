@@ -35,6 +35,7 @@ import { clothBatchTwoItemImageUrl } from './cloth_batch_two_item_art';
 import { clothBroodItemImageUrl } from './cloth_brood_item_art';
 import { clothDelveAmberfallItemImageUrl } from './cloth_delve_amberfall_item_art';
 import { consumableBatchItemImageUrl } from './consumable_batch_item_art';
+import { courtierWardItemImageUrl } from './courtier_ward_item_art';
 import { craftReagentOriginalBatchItemImageUrl } from './craft_reagent_original_batch_item_art';
 import { craghornIceveinItemImageUrl } from './craghorn_icevein_item_art';
 import { direfangArmorItemImageUrl } from './direfang_armor_item_art';
@@ -71,11 +72,13 @@ import { foodHighwatchSuppliesItemImageUrl } from './food_highwatch_supplies_ite
 import { foodLaterFishHarvestItemImageUrl } from './food_later_fish_harvest_item_art';
 import { foodOriginalBatchItemImageUrl } from './food_original_batch_item_art';
 import { foodZoneTwoItemImageUrl } from './food_zone_two_item_art';
+import { forgeArmorItemImageUrl } from './forge_armor_item_art';
 import { galecallArmorItemImageUrl } from './galecall_armor_item_art';
 import { gravewyrmWeaponItemImageUrl } from './gravewyrm_weapon_item_art';
 import { herbPlantNextItemImageUrl } from './herb_plant_next_item_art';
 import { heroicLeatherOriginalItemImageUrl } from './heroic_leather_original_item_art';
 import { heroicMailOriginalItemImageUrl } from './heroic_mail_original_item_art';
+import { highwatchWeaponItemImageUrl } from './highwatch_weapon_item_art';
 import { hoardJewelryItemImageUrl } from './hoard_jewelry_item_art';
 import { jewelryBatchApexItemImageUrl } from './jewelry_batch_apex_item_art';
 import { jewelryBatchItemImageUrl } from './jewelry_batch_item_art';
@@ -89,6 +92,7 @@ import { jewelryForgeItemImageUrl } from './jewelry_forge_item_art';
 import { jewelryHeroicQuartermasterItemImageUrl } from './jewelry_heroic_quartermaster_item_art';
 import { jewelryIgnivarNecklacesItemImageUrl } from './jewelry_ignivar_necklaces_item_art';
 import { jewelryIgnivarRingsItemImageUrl } from './jewelry_ignivar_rings_item_art';
+import { jewelryRiftboundItemImageUrl } from './jewelry_riftbound_item_art';
 import { jewelryVanguardBandsItemImageUrl } from './jewelry_vanguard_bands_item_art';
 import { jewelryVanguardPendantsItemImageUrl } from './jewelry_vanguard_pendants_item_art';
 import { leatherBatchCraftedItemImageUrl } from './leather_batch_crafted_item_art';
@@ -131,11 +135,13 @@ import { questBatchCluesCryptItemImageUrl } from './quest_batch_clues_crypt_item
 import { questBatchHighwatchItemImageUrl } from './quest_batch_highwatch_item_art';
 import { questBatchSixteenItemImageUrl } from './quest_batch_sixteen_item_art';
 import { questBatchWaterwaysItemImageUrl } from './quest_batch_waterways_item_art';
+import { questBreakscarredSteelItemImageUrl } from './quest_breakscarred_steel_item_art';
 import { questDropsScalesItemImageUrl } from './quest_drops_scales_item_art';
 import { questFiberDropsItemImageUrl } from './quest_fiber_drops_item_art';
 import { questGlowingDropsItemImageUrl } from './quest_glowing_drops_item_art';
 import { questHighwatchSecondItemImageUrl } from './quest_highwatch_second_item_art';
 import { questRealmCollectionItemImageUrl } from './quest_realm_collection_item_art';
+import { questRegionalDropsItemImageUrl } from './quest_regional_drops_item_art';
 import { questRelicsItemImageUrl } from './quest_relics_item_art';
 import { questShoreOriginalItemImageUrl } from './quest_shore_original_item_art';
 import { questSignetBrandItemImageUrl } from './quest_signet_brand_item_art';
@@ -181,6 +187,12 @@ import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    courtierWardItemImageUrl(id) ??
+    questBreakscarredSteelItemImageUrl(id) ??
+    forgeArmorItemImageUrl(id) ??
+    highwatchWeaponItemImageUrl(id) ??
+    jewelryRiftboundItemImageUrl(id) ??
+    questRegionalDropsItemImageUrl(id) ??
     bonewroughtDirefangItemImageUrl(id) ??
     jewelryVanguardBandsItemImageUrl(id) ??
     mournweaveArmorItemImageUrl(id) ??

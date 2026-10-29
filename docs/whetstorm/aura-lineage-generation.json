@@ -1,0 +1,129 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "set_gravemight",
+      "runtimeIds": [
+        "set_gravemight"
+      ],
+      "file": "docs/design/whetstorm-art/auras/set_gravemight.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original gravemight attack power status: a heavy dark iron gauntlet clenched around a glowing violet stone, forceful upward pose. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "fd726ba607f067b9aa6dd300c15ed36230b0c91834995e34a0bffeaa7a741bd7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/set_gravemight.webp",
+        "sha256": "b2c769fff92d159e80fd0882878d6c76d59fafb11406ce24a60f8433facfd7bb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/set_gravemight.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "set_bonesplinter",
+      "runtimeIds": [
+        "set_bonesplinter"
+      ],
+      "file": "docs/design/whetstorm-art/auras/set_bonesplinter.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original bonesplinter bleed status: three ivory bone splinters piercing a dark crimson surface, a restrained red glow, no gore. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "da3bec2c64c32e484d804a9c3d0835f61d1aa916f5dc4387f46708ec85b8b7b9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/set_bonesplinter.webp",
+        "sha256": "b82dcfb2f5a39e04d12d1b6d20958c034f77d17dab3bfd814be3905bc4fe7c0a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/set_bonesplinter.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "set_fangrush",
+      "runtimeIds": [
+        "set_fangrush"
+      ],
+      "file": "docs/design/whetstorm-art/auras/set_fangrush.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original fangrush attack speed status: a single long ivory fang swept forward by bright amber motion trails. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "b03bd5235e27ffd590be99758f68e75a8511bafa76ed2f20322770d3468eb1b6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/set_fangrush.webp",
+        "sha256": "4d630b8da528e81b39a499aecab168791f7c18470ab57975c064ce61b192ae69",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/set_fangrush.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "set_ragged_gash",
+      "runtimeIds": [
+        "set_ragged_gash"
+      ],
+      "file": "docs/design/whetstorm-art/auras/set_ragged_gash.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original ragged gash bleed status: a single jagged deep red slash tearing a dark leather panel, with a few restrained red droplets, no gore. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "0503d2a70c12e4f93c8cec5ada1f5655b5c86c66e7a39e06408fdd88ca435f72",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/set_ragged_gash.webp",
+        "sha256": "a354f22636c20888a863574f254e443406b97a8c1caeb119c340ddd1264387f0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/set_ragged_gash.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}

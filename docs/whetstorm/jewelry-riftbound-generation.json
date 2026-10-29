@@ -1,0 +1,100 @@
+{
+  "assets": [
+    {
+      "itemId": "riftbound_band_of_might",
+      "file": "docs/design/whetstorm-art/items/riftbound_band_of_might.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Riftbound Band of Might: a heavy dark iron ring with fractured angular shoulders framing a brilliant crimson crystal, with subtle violet rift light in cracks. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "f2b5495de5ba08c8d869108af88dbd5ab461e9f9eaa27b9db6e91e7e3124896d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/riftbound_band_of_might.webp",
+        "sha256": "09db376bcb027b533c0c5591f4de2524f78ef077e3066bd237e872074d06cfc7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "riftbound_band_of_insight",
+      "file": "docs/design/whetstorm-art/items/riftbound_band_of_insight.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Riftbound Band of Insight: a dark silver ring with fractured angular shoulders framing a brilliant sapphire crystal, with subtle violet rift light in cracks. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "1f185f5e1acfd59f791c7e7bfa5704e9399850c0eac74388ced31af6b27f2441",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/riftbound_band_of_insight.webp",
+        "sha256": "19fea7b6ba0c2ff0861ee429a664fea3e41056f389d4a157014cf31ca7f9fa3c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "riftbound_band_of_guile",
+      "file": "docs/design/whetstorm-art/items/riftbound_band_of_guile.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Riftbound Band of Guile: a dark bronze ring with fractured angular shoulders framing a brilliant emerald crystal, with subtle violet rift light in cracks. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete ring in three-quarter view on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "9e850bb30d0d4eaef6dda501a5eb8cb26955230d7d93286b3a459913d3b3ed4c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/riftbound_band_of_guile.webp",
+        "sha256": "844408a3d2c088cbd1c94d237432910bbe1602366afddd93c2aef2260e207150",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "heart_of_the_rift",
+      "file": "docs/design/whetstorm-art/items/heart_of_the_rift.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Heart of the Rift: a pendant of jagged dark silver enclosing a luminous heart-shaped violet crystal with a tiny swirling starfield within, on a dark chain. Original hand-painted fantasy, tactile metal, warm upper-left light, centered bold silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original jewelry painting; reviewed",
+      "sha256": "8638f2e18af6948050ac049b07d76c86d0a39a88f0abc12500cff363b8dbbe76",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/heart_of_the_rift.webp",
+        "sha256": "8ac7c88ea9b7187e4abf109a81a5894c8c248690d980162614dceae735c31b42",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

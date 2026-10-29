@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "breakscarred_steel",
+      "file": "docs/design/whetstorm-art/items/breakscarred_steel.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a small pile of scavenged salt-pitted steel scrap from a shipwreck, including a broken sword fragment, bent iron hook, and rough hinge. Weathered steel with subtle rust and salt marks, no complete weapon. Against a dark muted slate blue painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
+      "sha256": "a16afb039f1189edad92df6599e485ad277399fa1099a22681408579bfaeef96",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/breakscarred_steel.webp",
+        "sha256": "c0cbe9529be60a29a0c900a8381039bf6e9141e33e4a8e465bb7b6ec5d17bf98",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

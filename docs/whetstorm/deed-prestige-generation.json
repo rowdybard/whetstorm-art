@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "prog_prestige",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a sunrise over a winding trail that loops back toward a distant hill, representing a journey begun again. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_prestige.png",
+      "masterSha256": "fc19fceadd05162013334eec600ae0a660c86f66e515a0f5c07063d8a893686d",
+      "shipping": "public/ui/whetstorm/deeds/prog_prestige.webp",
+      "shippingSha256": "a29b1d68f2c27cd233c6fe0840379a48975787d2ef11f1523dc7e82327a85a82",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_prestige_5",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing well-worn leather traveler boots beside a walking staff and coiled rope, representing repeated journeys. The circular brass frame is fully surrounded by dark brown background extending to all four image corners, no white or transparency. Bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_prestige_5.png",
+      "masterSha256": "6166a12132a865072b4927d7a2eb73da54819adf0530e2d507cbca247e87df0c",
+      "shipping": "public/ui/whetstorm/deeds/prog_prestige_5.webp",
+      "shippingSha256": "e2a6599925442b586141f0afa774f8d1e78e630c73ab01d1927f5dfe0d1de66f",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_prestige_10",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a radiant bronze wheel with sweeping curved spokes turning amid a wreath of green laurels, representing perpetual motion. Centered in a circular brass frame, dark warm background, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_prestige_10.png",
+      "masterSha256": "811acbf6f3f0e995e201a3857a41ac07c243269991d62909b28a1dec63a03f1f",
+      "shipping": "public/ui/whetstorm/deeds/prog_prestige_10.webp",
+      "shippingSha256": "7a3279e9d8adbfdd11ec1a4032b40abb795643e83a7447b84a8493d03b0cbcd2",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

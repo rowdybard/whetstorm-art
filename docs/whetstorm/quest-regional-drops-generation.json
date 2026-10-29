@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "evergarden_bloom_clipping",
+      "file": "docs/design/whetstorm-art/items/evergarden_bloom_clipping.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a single freshly pruned flowering sprig, vivid pink and cream blossom with a few green leaves and a clean clipped stem, against a dark garden green painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, vase, or imitation of another game.",
+      "sha256": "71f721789b58e8b564641732a6684d1b784de57caebb782e29f95e8ef15bf665",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/evergarden_bloom_clipping.webp",
+        "sha256": "8e5b9f23752338b667ab2fa133306b1c12d3ce1a1f32fccd4cf20ff598aa600d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "farshore_salt_moss",
+      "file": "docs/design/whetstorm-art/items/farshore_salt_moss.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one small clump of coastal salt moss, dark sea green and teal fronds with visible pale salt crystals, against a deep slate blue painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, container, or imitation of another game.",
+      "sha256": "b371abcaa6c0a0da28b0f54d62898a7b9ca9a7d5508b7e75dee843a2f6b4a866",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/farshore_salt_moss.webp",
+        "sha256": "087142a0bbc5245ea880d8e996e9e089922958547c2e614ed71c755ca2c30427",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "galecrest_ram_wool",
+      "file": "docs/design/whetstorm-art/items/galecrest_ram_wool.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a compact rough tuft of greasy ram wool, warm gray-brown with slightly clumped locks and a subtle sheen, against a dark highland green painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No border, text, logo, watermark, person, animal head, or imitation of another game.",
+      "sha256": "7f651e07b5d6e5513cea4a7bac96528a4b03879b1b92aab9ba47d48b4f80fc01",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/galecrest_ram_wool.webp",
+        "sha256": "3c5116b0ed74f0b58d2fb56bb9011a295d56d0720a134ddb5e39c3df4abb566b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

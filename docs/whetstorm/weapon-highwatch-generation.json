@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "highwatch_warblade",
+      "file": "docs/design/whetstorm-art/items/highwatch_warblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Highwatch Warblade, complete common one-handed military steel sword with a broad practical blade, modest squared brass crossguard and brown leather grip, honest wear. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "2a05212582d6b104412e9c793e19ddd877b16ff396f737cfaceac2757adbcb7d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/highwatch_warblade.webp",
+        "sha256": "355753b58cc343c39c9e6fdb5670506cec919add7cb0f9317487d6fb11f6bc43",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-92fe08a1-6886-4834-a3c0-3dac8a1a6f87.png"
+    },
+    {
+      "itemId": "highwatch_greatsword",
+      "file": "docs/design/whetstorm-art/items/highwatch_greatsword.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Highwatch Greatsword, complete common two-handed military steel sword with a long straight blade, modest swept brass crossguard, long dark leather grip and practical worn finish. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "0f5f48b3c5d3151250ea167a85dbffd79bb46d429e8c1eb1304551b379483882",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/highwatch_greatsword.webp",
+        "sha256": "27d66f7fb53ca270d4c40a70409ce18c1e400f3068297c7824d0fd08d28ab556",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-696d3151-7811-4098-98fb-472bcb823c62.png"
+    }
+  ]
+}

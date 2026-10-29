@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "prog_mythic",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a luminous blue phoenix rising with outspread wings above a mountain ridge, representing mythic experience. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_mythic.png",
+      "masterSha256": "c2b0df80d1558c92f4a22a4092c89df6c32c49bedaa4e6d0a1aa4183d748960f",
+      "shipping": "public/ui/whetstorm/deeds/prog_mythic.webp",
+      "shippingSha256": "040bcced2c608f0fc5f309c12b2b3c91046ac0c5b0a2c49d96d00964383990f8",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_eternal",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a glowing hourglass with golden sand flowing in a loop through a starry night sky, representing enduring experience. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_eternal.png",
+      "masterSha256": "3f68ee73782ca0ec6d504803551e3119b0a75d10a8626e0553225f0ff9426eba",
+      "shipping": "public/ui/whetstorm/deeds/prog_eternal.webp",
+      "shippingSha256": "c9bbe3d1386cb0cd02253da21eee21d68e8b55d49b4b99cdcf1589e7cca51a71",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_full_build",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing six different colored gemstones arranged on a branching golden talent tree, representing a complete build. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_full_build.png",
+      "masterSha256": "125eebdce7904d1b3688d1bc804457dcd8965e709b4227158d7d7086b0f868aa",
+      "shipping": "public/ui/whetstorm/deeds/prog_full_build.webp",
+      "shippingSha256": "6d4bc070d7b855073985d861e2f579a34011696eee02eb20e7f72c53eaba7c42",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

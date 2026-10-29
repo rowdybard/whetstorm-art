@@ -1,4 +1,5 @@
 import { activityDeedImageUrl } from './activity_deed_art';
+import { ascendantDeedImageUrl } from './ascendant_deed_art';
 import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
 import { combatMasteryDeedImageUrl } from './combat_mastery_deed_art';
 import { craftMasteryDeedImageUrl } from './craft_mastery_deed_art';
@@ -9,6 +10,7 @@ import { journeyDeedImageUrl } from './journey_deed_art';
 import { milestoneDeedImageUrl } from './milestone_deed_art';
 import { peaksDiscoveryDeedImageUrl } from './peaks_discovery_deed_art';
 import { placeDeedImageUrl } from './place_deed_art';
+import { prestigeDeedImageUrl } from './prestige_deed_art';
 import { tradeMasteryDeedImageUrl } from './trade_mastery_deed_art';
 
 // Original paintings for early deeds, shared by game and guide.
@@ -36,6 +38,8 @@ export function earlyDeedImageUrl(id: string): string | null {
     craftMasteryDeedImageUrl(id) ??
     dungeonClearDeedImageUrl(id) ??
     experienceDeedImageUrl(id) ??
+    prestigeDeedImageUrl(id) ??
+    ascendantDeedImageUrl(id) ??
     explorationDeedImageUrl(id) ??
     chronicleGatheringDeedImageUrl(id) ??
     journeyDeedImageUrl(id) ??

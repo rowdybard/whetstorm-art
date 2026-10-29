@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "slagbreaker_legs",
+      "file": "docs/design/whetstorm-art/items/slagbreaker_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/slagbreaker_chest.png",
+          "sha256": "261126623e5c31a937691e26a62bdbf0af230394df2924087ec0335323c0e055"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Slagbreaker Legguards: one complete empty front-facing pair of dark iron chain mail leggings with hammered plate knee panels, copper edging and restrained ember-orange glow in the seams. Legs clearly separated, no wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style and set materials only, do not copy its shirt. No writing, border, frame, watermark, or transparency.",
+      "status": "original forge armor painting; reviewed",
+      "sha256": "6ea3c6cc35436f82644dc192b09b3829c21b690000b4f6653dcb67eb5cc06bdb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/slagbreaker_legs.webp",
+        "sha256": "76873b3f4ff90ba9b75d62b1a24b504fac0b8905a21cb1aa2cee27ab1feee54b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "emberfury_helmet",
+      "file": "docs/design/whetstorm-art/items/emberfury_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Emberfury Helm: one empty dark steel mail helmet with ridged red-bronze plates and restrained ember-red glow in the seams. No face, mannequin or body. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original forge armor painting; reviewed",
+      "sha256": "1c8d4a75ad3216adbef08af197e4c98c73a293125829450edb44734c1c13ac20",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberfury_helmet.webp",
+        "sha256": "35e6577dc912a146e4ecfe56b27aef7f18e549d628b467292f410d6481d4ff5d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "emberfury_shoulder",
+      "file": "docs/design/whetstorm-art/items/emberfury_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Emberfury Pauldrons: a compact symmetric pair of empty dark steel mail shoulder guards with ridged red-bronze plates and restrained ember-red glow in the seams. No wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original forge armor painting; reviewed",
+      "sha256": "973c48b1684a9ceaaed32efbd6d96496eb453d58c9dec51c301fc8dce05470be",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberfury_shoulder.webp",
+        "sha256": "73eef7ae74fbc05063a5c2468671891af15696542e5b2d5df77b5f1a9582c0db",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "emberfury_chest",
+      "file": "docs/design/whetstorm-art/items/emberfury_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Emberfury Hauberk: one empty front-facing dark steel mail shirt with ridged red-bronze plates and restrained ember-red glow in the seams. No wearer, head, hands or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted metal, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original forge armor painting; reviewed",
+      "sha256": "60d524b20b450da9e17ce9ecce42367f1b1088236ea34aa0f21912e8809014aa",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberfury_chest.webp",
+        "sha256": "ccfbfb5507fdef99957bb14f3d6bbb2fc5de9d71fa28c51b92ae50288b01cb39",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
