@@ -160,6 +160,7 @@ import { osmiumGlyphsteelItemImageUrl } from './osmium_glyphsteel_item_art';
 import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
 import { potionAlchemyNextItemImageUrl } from './potion_alchemy_next_item_art';
 import { potionLaterItemImageUrl } from './potion_later_item_art';
+import { professionAccessoriesItemImageUrl } from './profession_accessories_item_art';
 import { professionIntermediateItemImageUrl } from './profession_intermediate_item_art';
 import { professionIntermediateSecondItemImageUrl } from './profession_intermediate_second_item_art';
 import { questAnimalDropsItemImageUrl } from './quest_animal_drops_item_art';
@@ -224,6 +225,7 @@ import { zealfireArmorItemImageUrl } from './zealfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    professionAccessoriesItemImageUrl(id) ??
     zealfireArmorItemImageUrl(id) ??
     evergardenSeedsItemImageUrl(id) ??
     highpineArgumentItemImageUrl(id) ??

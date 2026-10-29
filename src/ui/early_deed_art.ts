@@ -12,6 +12,7 @@ import { dungeonJourneyDeedImageUrl } from './dungeon_journey_deed_art';
 import { dungeonMetaDeedImageUrl } from './dungeon_meta_deed_art';
 import { experienceDeedImageUrl } from './experience_deed_art';
 import { explorationDeedImageUrl } from './exploration_deed_art';
+import { floodedChallengeDeedImageUrl } from './flooded_challenge_deed_art';
 import { heroicClearDeedImageUrl } from './heroic_clear_deed_art';
 import { heroicDepthsDeedImageUrl } from './heroic_depths_deed_art';
 import { journeyDeedImageUrl } from './journey_deed_art';
@@ -52,6 +53,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     delveCompanionDeedImageUrl(id) ??
     delveChallengeDeedImageUrl(id) ??
     experienceDeedImageUrl(id) ??
+    floodedChallengeDeedImageUrl(id) ??
     heroicClearDeedImageUrl(id) ??
     heroicDepthsDeedImageUrl(id) ??
     prestigeDeedImageUrl(id) ??

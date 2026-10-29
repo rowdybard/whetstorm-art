@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "itemId": "gatherers_cache",
+      "file": "docs/design/whetstorm-art/items/gatherers_cache.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Gatherer's Cache: a small weathered leather field pouch with brass clasp, a sprig of herbs and a tiny mineral specimen visible in outer pockets, a portable gathering accessory. Original hand-painted fantasy, tactile materials, warm upper-left light, centered complete silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original profession accessory painting; reviewed",
+      "sha256": "7819ddfbfea4248fe15440aef36b9a4e175d976a90d1e6d155b6eb1355ccc397",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gatherers_cache.webp",
+        "sha256": "632bbe2c1720944695c1e8b6ccb8c86c51aac1b04fd29ddcf2368f72f0e6a714",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "artisans_eye",
+      "file": "docs/design/whetstorm-art/items/artisans_eye.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Artisan's Eye: a small brass magnifying loupe with a clear blue glass lens and dark leather grip, a practical crafting accessory. Original hand-painted fantasy, tactile metal and glass, warm upper-left light, centered complete silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original profession accessory painting; reviewed",
+      "sha256": "b78b390024dba1a1ce46cba042ec2b9439ba96dbe9f7c6b6665e9ed9f9967823",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/artisans_eye.webp",
+        "sha256": "b5f98b7894d240eca2fbab9a7842fed9a488d6ed4a1d321879fc2a8446f2a8ed",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "makers_charm",
+      "file": "docs/design/whetstorm-art/items/makers_charm.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Maker's Charm: a small hammered bronze pendant shaped like crossed hammer and needle over a round amber gem, hanging from a short leather cord, a crafting accessory. Original hand-painted fantasy, tactile metal and leather, warm upper-left light, centered complete silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original profession accessory painting; reviewed",
+      "sha256": "fe507c83da8ba6e2008015622fcc4f4aa3b0f1f48804296027e2b0873d5200a9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/makers_charm.webp",
+        "sha256": "0bc2cdedf04b6728c4826eabeafa8f535fbab92d4d4cd335e2f11674fe4bfdfe",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

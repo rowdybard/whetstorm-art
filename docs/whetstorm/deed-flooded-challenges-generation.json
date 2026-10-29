@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "dgn_vael_thralls",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a broken chain falling into dark water beneath a foggy stone tower, with a silver sword, representing defeat of summoned thralls. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_vael_thralls.png",
+      "masterSha256": "1994a252c4a0050d60751e64425b099deb4916e5cdd177275fe0743aec337438",
+      "shipping": "public/ui/whetstorm/deeds/dgn_vael_thralls.webp",
+      "shippingSha256": "d675b4d098dd556496cd6c68a2026db7ed4bd4976e907eb9fe0a08d70ad330ac",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_ysolei_moonspawn",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a silver crescent moon above teal water with several dim extinguished blue wisps around it and a single upright sword, representing a victory over summoned creatures. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_ysolei_moonspawn.png",
+      "masterSha256": "b79cdfa917b2df9b7db5b1e1b285cdc8ca8527916495811b97c2fe62fca6f548",
+      "shipping": "public/ui/whetstorm/deeds/dgn_ysolei_moonspawn.webp",
+      "shippingSha256": "621a21c06c6b8d301e2ff670def029bac2d3f31df2e96f4a9b9fd7068713a4c9",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_ysolei_flawless",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing an unbroken silver shield framed by golden laurels before a luminous crescent moon and submerged temple columns, representing a flawless group victory. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_ysolei_flawless.png",
+      "masterSha256": "be29c8b4d419af83f60ad5d94e0245cd607fddc86ed5a35ae7929a581ff1b615",
+      "shipping": "public/ui/whetstorm/deeds/dgn_ysolei_flawless.webp",
+      "shippingSha256": "6011a6b45c99eb0e8e454c155c49c26a0c6b636221ac764969835050d1a5058e",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}
