@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "lunar_choir_leggings",
+      "file": "docs/design/whetstorm-art/items/lunar_choir_leggings.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject with safe margins, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, mannequin, photorealism, or copied game designs. Subject: Lunar Choir Leggings: a complete pair of flowing cloth trousers, moonlit pale silver-blue woven fabric with restrained crescent stitched trim; distinct two legs and no body.",
+      "status": "full-size and small-size visual review; in-game review pending",
+      "sha256": "a64eb3e7c9518daea95d135beb528d0d54d8befc7bf6bc8f702af66c37b52c1a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/lunar_choir_leggings.webp",
+        "sha256": "9deecf894aad7036352a568d103f8615c0fa9382e404711acca11d6ff434b458",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "choir_blessed_spaulders",
+      "file": "docs/design/whetstorm-art/items/choir_blessed_spaulders.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject with safe margins, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, mannequin, photorealism, or copied game designs. Subject: Choir-Blessed Spaulders: a symmetrical pair of mail shoulder guards, silvery steel and fine chainmail with restrained pearl and crescent ornament, empty neck opening, no body.",
+      "status": "full-size and small-size visual review; in-game review pending",
+      "sha256": "e6005ac5508ee70e236785b032333de9852a8e5469438bfc126d1dc4a353dd4d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/choir_blessed_spaulders.webp",
+        "sha256": "360c5b5fd65d3762d8cdbfb0683fc78329dc15d47760fdb478decfd1b36e95ea",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "tideworn_warboots",
+      "file": "docs/design/whetstorm-art/items/tideworn_warboots.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject with safe margins, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, mannequin, photorealism, or copied game designs. Subject: Tideworn Warboots: one compact natural pair of sturdy mail boots, weathered blue-gray steel plates over chainmail with subtly worn sea-salt patina, both complete.",
+      "status": "full-size and small-size visual review; in-game review pending",
+      "sha256": "e38dec63a5b68f8155c056307bfba82049911498e21c6989e1ca445f701e8d8f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tideworn_warboots.webp",
+        "sha256": "3ddeeb2542ad8a98bffa415dbb36537d82322fb76a949bd61af40c28760ac384",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "shroud_of_the_gravewyrm",
+      "file": "docs/design/whetstorm-art/items/shroud_of_the_gravewyrm.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject with safe margins, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, mannequin, photorealism, or copied game designs. Subject: Shroud of the Gravewyrm: a complete front-facing cloth robe with draped sleeves, charcoal and muted violet woven fabric with subtle bone-colored serpentine embroidery, shadowed empty neck opening, no body.",
+      "status": "full-size and small-size visual review; in-game review pending",
+      "sha256": "ed11756c068faedd546451d848b3b9b30c1dfd631e4008f789db648fba7f9094",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/shroud_of_the_gravewyrm.webp",
+        "sha256": "f20558a10fa09e348c08ba76c139ad56e7089b955f7139b8ed3aee4d64067ff6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

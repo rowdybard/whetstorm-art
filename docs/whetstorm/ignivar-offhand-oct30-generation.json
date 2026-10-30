@@ -1,0 +1,106 @@
+{
+  "assets": [
+    {
+      "itemId": "varkhul_emberward",
+      "file": "docs/design/whetstorm-art/items/varkhul_emberward.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Paint an original square fantasy MMORPG inventory icon: Emberward, Bulwark of Varkhul, a legendary imposing broad angular shield of blackened iron with deeply hammered bronze ridges and narrow glowing ember seams. One complete shield, distinct central raised boss, readable front view and safe padding; warm upper-left light, deep charcoal painted background, premium tactile hand-painted fantasy art. No writing, frame, watermark, copied game art.",
+      "status": "full-size and small-size visual review; in-game review pending",
+      "sha256": "868feb2e23fdc00e8f6503075eeec1b95aa1402f2a197762b2bc053269e7a202",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/varkhul_emberward.webp",
+        "sha256": "c9b1e665236aa21b62809c2ef4e378a6f7eccb317838677cf41e2e8ac49fa1b0",
+        "pixels": [
+          128,
+          128
+        ],
+        "bytes": 4380,
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "bulwark_of_the_inner_crucible",
+      "file": "docs/design/whetstorm-art/items/bulwark_of_the_inner_crucible.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Paint an original square fantasy MMORPG inventory icon: Bulwark of the Inner Crucible, a complete tall forge-made shield with dark iron plates, a thick brass rim, a geometric crucible-shaped central boss and subtle orange heat in seams. Front view, centered silhouette with safe padding, warm upper-left light and dark painted charcoal background, premium tactile hand-painted fantasy art. No writing, frame, watermark, copied game art.",
+      "status": "full-size and small-size visual review; in-game review pending",
+      "sha256": "ccc63ddc85a694593bdd5272e2103dfd0245bbfc79f22f5892c1e18adf863137",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bulwark_of_the_inner_crucible.webp",
+        "sha256": "2f2320d619a76ca512b61c74bb71fff2be35185e145fa7c7bfabb38832c63cbc",
+        "pixels": [
+          128,
+          128
+        ],
+        "bytes": 3622,
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ember_wardens_barrier",
+      "file": "docs/design/whetstorm-art/items/ember_wardens_barrier.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Paint an original square fantasy MMORPG inventory icon: Ember Warden's Barrier, one complete rounded kite shield of aged silver and warm bronze, with a softly glowing amber gemstone set into the central boss and delicate flame-shaped relief. Front view, centered silhouette with safe padding, warm upper-left light and dark painted charcoal background, premium tactile hand-painted fantasy art. No writing, frame, watermark, copied game art.",
+      "status": "full-size and small-size visual review; in-game review pending",
+      "sha256": "0d7bbbbe2f7d3ca56202fe9231e3ca413da8b76712a4142538e692bad0d27522",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ember_wardens_barrier.webp",
+        "sha256": "00847f85819d19f63eb40e5fb5b8f9fb58c7e1636d3f351bcd1b91ed1ec9d60e",
+        "pixels": [
+          128,
+          128
+        ],
+        "bytes": 3678,
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "orb_of_the_last_spring",
+      "file": "docs/design/whetstorm-art/items/orb_of_the_last_spring.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Paint an original square fantasy MMORPG inventory icon: Orb of the Last Spring, a single clear round glass orb containing pale turquoise water and a small living green sprout, resting in a simple aged silver cradle. Complete centered subject with safe padding, warm upper-left light and dark painted charcoal background, premium tactile hand-painted fantasy art. No writing, frame, watermark, copied game art.",
+      "status": "full-size and small-size visual review; in-game review pending",
+      "sha256": "1c1b905ff25806e4eba97ec3459427290ce3c1f51f33737f769b221cbbea9c91",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/orb_of_the_last_spring.webp",
+        "sha256": "2df6130362ded30a36e749f2fece9c0dac81d170254d6da71b77ba616ab16bd3",
+        "pixels": [
+          128,
+          128
+        ],
+        "bytes": 4506,
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ],
+  "review": "docs/whetstorm/ignivar-offhand-oct30-review.png",
+  "circle_review": "docs/whetstorm/ignivar-offhand-oct30-circle-review.png"
+}

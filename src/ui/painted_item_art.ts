@@ -29,6 +29,7 @@ import { bonewroughtArmorItemImageUrl } from './bonewrought_armor_item_art';
 import { bonewroughtDirefangItemImageUrl } from './bonewrought_direfang_item_art';
 import { bramblehideArmorItemImageUrl } from './bramblehide_armor_item_art';
 import { bramblehideArmorSecondItemImageUrl } from './bramblehide_armor_second_item_art';
+import { choirGraveIgnivarItemImageUrl } from './choir_grave_ignivar_item_art';
 import { churchClothOriginalItemImageUrl } from './church_cloth_original_item_art';
 import { cinderSlagItemImageUrl } from './cinder_slag_item_art';
 import { cleaverWildsoulItemImageUrl } from './cleaver_wildsoul_item_art';
@@ -249,6 +250,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    choirGraveIgnivarItemImageUrl(id) ??
     heroicCourtHoardItemImageUrl(id) ??
     oct30ThirdOriginalItemImageUrl(id) ??
     oct30SecondOriginalItemImageUrl(id) ??

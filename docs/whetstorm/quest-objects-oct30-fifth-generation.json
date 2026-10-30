@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "grave_sir_aldren",
+      "file": "docs/design/whetstorm-art/items/grave_sir_aldren.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for grave_sir_aldren, Grave of Captain Aldren quest object. One complete upright weathered stone grave marker, broad rectangular shape with rounded shoulders and a single simple carved shield relief, moss at its foot, centered on a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No writing, letters, border, logos, watermark, people, weapons, photorealism, or copied game designs.",
+      "sha256": "869694af5f9baa3d92685409b8931998c108b335c32592279db01f9a5a3eddc5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/grave_sir_aldren.webp",
+        "sha256": "2b397d5932dbe7ec57a473ebeac2ad1c90c3e3034520f3d56ada9a3a7202454d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "grave_high_priest_malric",
+      "file": "docs/design/whetstorm-art/items/grave_high_priest_malric.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for grave_high_priest_malric, Grave of High Priest Malric quest object. One complete narrow upright weathered pale stone grave monument with a pointed arched top and a simple carved sun disk relief, a low stepped plinth, centered on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No writing, letters, religious symbols, border, logos, watermark, people, extra objects, photorealism, or copied game designs.",
+      "sha256": "43d1706a9d450e74f1da69c55edbd9696119840fae505197e794c7536889da5f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/grave_high_priest_malric.webp",
+        "sha256": "c49aae0c16b58694bff2c2b14ba9060993c346ca822cb10c4ebb8169e4954501",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "grave_captain_voss",
+      "file": "docs/design/whetstorm-art/items/grave_captain_voss.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for grave_captain_voss, Grave of Royal Assassin Voss quest object. One complete low dark slate grave marker, asymmetrical angular slab with a single pale crescent-shaped stone inlay, small chips and moss at base, centered against dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No writing, letters, border, logos, watermark, people, weapons, photorealism, or copied game designs.",
+      "sha256": "6fd10dfdb0cd25ba34843356f6c9275a4d98e1c0b046fb76018f7e7443913e62",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/grave_captain_voss.webp",
+        "sha256": "9e05977ad6950870d37e4370a76eade03293809a9f7a90b734fe6d92907af9e1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "barrow_grave_offering",
+      "file": "docs/design/whetstorm-art/items/barrow_grave_offering.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for barrow_grave_offering, a Scattered Grave Offering quest object. A small group of ancient grave goods: a tarnished gold shallow bowl tipped on its side beside three broad plain gold coins, a few clumps of dark soil, centered on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No writing, letters, symbols on coins, border, logos, watermark, people, bones, photorealism, or copied game designs.",
+      "sha256": "7dcc5ff80b416db28821e1af0a3b271fad9409e5343b7b88f2918b3c26dc9ddc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/barrow_grave_offering.webp",
+        "sha256": "508c3cdde46b400e246dcd988e1a0e3db7afefcba7fc9ae05f6ff2c9b4a89c5d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
