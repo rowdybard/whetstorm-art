@@ -314,7 +314,7 @@ void main() {
 
 // The flame breath: a flamethrower jet of flipbook billboards advected up the
 // core socket's +Y (its emit direction). The atlas is 6x6 = 36 frames of a
-// SINGLE-CHANNEL fire-intensity bake (a Mantaflow burst graded to grayscale);
+// procedural grayscale fire-intensity bake;
 // the colour ramp lives HERE in the shader, so the same texel drives the
 // additive fire pass (white-hot ramp), the soot pass (dark blobs riding
 // inside the stream) and the alpha erosion -- and the grade can shift with
@@ -326,7 +326,7 @@ const FLAME_GRID = 6.0;
 const FLAME_FRAMES = 36.0;
 
 /** The one flipbook flame atlas every sprite fire in the game samples. */
-export const FLAME_ATLAS_URL = '/textures/vfx/ignivar_flame_6x6.webp';
+export const FLAME_ATLAS_URL = '/textures/vfx/whetstorm_flame_6x6.webp';
 export const FLAME_ATLAS_FRAMES = FLAME_FRAMES;
 
 /**
@@ -809,7 +809,7 @@ export function attachIgnivarVfx(
   }
   // ---- the flame breath: flipbook jet + soot + sparks + muzzle, CORE only
   const uFlame = { value: 0 }; // breath envelope: 0 off, 1 full roar
-  const flameTex = getFlameTex(opts.flameTexUrl ?? '/textures/vfx/ignivar_flame_6x6.webp');
+  const flameTex = getFlameTex(opts.flameTexUrl ?? FLAME_ATLAS_URL);
   const flameCount = 110;
   const makeFlameGeo = (n: number) => {
     const g = new THREE.InstancedBufferGeometry();
@@ -1206,7 +1206,7 @@ export function createGroundFireAoe(opts: GroundFireAoeOptions = {}): GroundFire
       uLocalFlameScale: { value: localFlameScale },
       uIntensity,
       uReach: { value: 1 }, // declared by FLAME_COMMON, unused here
-      uTex: { value: getFlameTex(opts.flameTexUrl ?? '/textures/vfx/ignivar_flame_6x6.webp') },
+      uTex: { value: getFlameTex(opts.flameTexUrl ?? FLAME_ATLAS_URL) },
       uSoot: { value: 0 },
     },
     vertexShader: AOE_FLAME_VERT,

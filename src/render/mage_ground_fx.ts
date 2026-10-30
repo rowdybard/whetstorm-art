@@ -561,7 +561,6 @@ export class MageGroundFx {
       ? createGroundFireAoe({
           radius: opts.radius,
           count: 36,
-          flameTexUrl: '/textures/vfx/ignivar_flame_6x6.webp',
         })
       : null;
     if (ignivarFireAoe) {

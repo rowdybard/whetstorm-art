@@ -164,7 +164,6 @@ export function attachIgnivarModelVfx(model: THREE.Object3D): boolean {
       count: GFX.tier === 'low' ? 40 : GFX.tier === 'medium' ? 64 : 96,
       shimmer: GFX.tier !== 'low',
       flameLight: GFX.tier !== 'low',
-      flameTexUrl: '/textures/vfx/ignivar_flame_6x6.webp',
     });
     model.userData[IGNIVAR_FIRE_VFX_HANDLE] = handle;
     return true;

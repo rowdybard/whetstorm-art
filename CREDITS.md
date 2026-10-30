@@ -112,6 +112,12 @@ vector-derived art made for this fork without image references. Its source and
 processing are recorded in `docs/whetstorm/fel-meteor-impact-provenance.md`; the
 historical impact art retains its existing attribution.
 
+The procedural flame intensity atlas at
+`public/textures/vfx/whetstorm_flame_6x6.webp` was authored for this fork
+without image inputs. Its generator, encoding and hashes are recorded in
+`docs/whetstorm/flame-atlas-provenance.md`; historical atlas rights remain
+unchanged.
+
 The silver-, gold-, and prismatic-tier Fiesta augment icons under
 `public/ui/whetstorm/fiesta/augments/` are original hand-authored SVGs based on
 the live augment mechanics. Paths and hashes are recorded in the

@@ -56,3 +56,6 @@ The fel meteor work produced an untracked partial
 the media present in that incomplete snapshot and must not be transplanted as a
 full-game manifest. Regenerate the owning media manifest in the complete
 candidate and verify the new texture there.
+The later `whetstorm_flame_6x6.webp` atlas was also added after that partial
+manifest was generated. The complete candidate must regenerate the manifest for
+both textures and verify all VFX consumers in the built package.
