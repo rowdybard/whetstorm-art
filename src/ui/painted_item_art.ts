@@ -164,6 +164,7 @@ import { materialOrewoodBatchItemImageUrl } from './material_orewood_batch_item_
 import { materialProvisioningItemImageUrl } from './material_provisioning_item_art';
 import { mistLunarItemImageUrl } from './mist_lunar_item_art';
 import { mountReinsHeroicItemImageUrl } from './mount_reins_heroic_item_art';
+import { mountReinsRemainingItemImageUrl } from './mount_reins_remaining_item_art';
 import { mournweaveArmorItemImageUrl } from './mournweave_armor_item_art';
 import { oathpyreArmorItemImageUrl } from './oathpyre_armor_item_art';
 import { osmiumGlyphsteelItemImageUrl } from './osmium_glyphsteel_item_art';
@@ -244,6 +245,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    mountReinsRemainingItemImageUrl(id) ??
     slagsnareArmorItemImageUrl(id) ??
     anvilSigilsItemImageUrl(id) ??
     voidDuskItemImageUrl(id) ??

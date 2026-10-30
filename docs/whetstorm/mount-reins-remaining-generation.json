@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "reins_valorsteed",
+      "file": "docs/design/whetstorm-art/items/reins_valorsteed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original Whetstorm inventory painting: portrait of a noble valorsteed riding horse with a warm brown coat, dark mane and plain leather bridle, centered on dark slate blue. Square edge-to-edge, bold silhouette, stylized fantasy hand painting, upper-left light, readable at 32px. No rider, text, border, logo, watermark, or imitation of any game.",
+      "sha256": "f463429ef134387ed66c68b7398d39125761f1fc315580aa527bdccf81bd9da6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_valorsteed.webp",
+        "sha256": "ab75cd5308fb03909046dc66ed03c204662dc40538a550eb02a6a779309cd262",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reins_avian_strider",
+      "file": "docs/design/whetstorm-art/items/reins_avian_strider.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original Whetstorm inventory painting: portrait of a viridian valestrider mount, elegant green-feathered flightless bird with long neck, sturdy beak and simple leather bridle, centered on dark forest green. Square edge-to-edge, bold silhouette, stylized fantasy hand painting, upper-left light, readable at 32px. No rider, text, border, logo, watermark, or imitation of any game.",
+      "sha256": "70f1d0104b0b24b377d3d9a81c7566b7807423ccd601dabaa9275732a238ef83",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_avian_strider.webp",
+        "sha256": "889ca1373e43aaf892488aa6a6569b84fcef79d686ffad94683677a5e658b018",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reins_lanternback_troll",
+      "file": "docs/design/whetstorm-art/items/reins_lanternback_troll.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original Whetstorm inventory painting: portrait of a bipedal hill troll mount, broad humanoid face with small tusks, wearing an iron throne strapped across his shoulders with two glowing storm lanterns hanging from its arms. Head and shoulders centered on dark blue background. Square edge-to-edge, bold silhouette, stylized fantasy hand painting, upper-left light, readable at 32px. No rider, no quadruped body, text, border, logo, watermark, or imitation of any game.",
+      "sha256": "56c86ac863d0af93f4537af309132f2669cc4507dcfdea63f6a9d9d6523251a0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_lanternback_troll.webp",
+        "sha256": "22c3da210995aad182d3719dc3dafebc6145a0870a2c1333518b6bedc90ae873",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reins_stormfeather_griffin",
+      "file": "docs/design/whetstorm-art/items/reins_stormfeather_griffin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original Whetstorm inventory painting: portrait of a majestic stormfeather griffin mount with silver-blue eagle head, golden beak and a simple leather bridle, centered on dark storm blue. Square edge-to-edge, bold silhouette, stylized fantasy hand painting, upper-left light, readable at 32px. No rider, text, border, logo, watermark, or imitation of any game.",
+      "sha256": "d4d8251ce41348c5e120859fe520adc0ed3466d9ce39a0493e3af3d3dc687e2e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_stormfeather_griffin.webp",
+        "sha256": "899341714a867c2b8f1285bd83e2756fe7322fcc6edd8833f665bf71d4c1957d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reins_thunderstrut_gobbler",
+      "file": "docs/design/whetstorm-art/items/reins_thunderstrut_gobbler.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original Whetstorm inventory painting: portrait of a grand gobbler mount, proud large turkey with bronze-red feathers, fan-shaped tail and simple leather harness, centered on dark warm brown. Square edge-to-edge, bold silhouette, stylized fantasy hand painting, upper-left light, readable at 32px. No rider, text, border, logo, watermark, or imitation of any game.",
+      "sha256": "9a96b3cab6f5e55398876449c1b91382dce0fa10dc2fcd887aea26ec5b67993e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_thunderstrut_gobbler.webp",
+        "sha256": "03ec2fd919139ba6d0cee62a0874e6b7bcd94dc18bb98bf4f9c8e3ae85061f83",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reins_aether_hover_cycle",
+      "file": "docs/design/whetstorm-art/items/reins_aether_hover_cycle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original Whetstorm inventory painting: an ignition key for an aether hover-cycle, one brass key with a blue crystal and subtle wing-shaped metal bow, centered on dark midnight blue. Square edge-to-edge, bold silhouette, stylized fantasy hand painting, upper-left light, readable at 32px. No vehicle, text, border, logo, watermark, or imitation of any game.",
+      "sha256": "0fdcc132f187af088d206acd6ff192a0d3387f2376489e702f3138d0cc445a8f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_aether_hover_cycle.webp",
+        "sha256": "1c4af0452367544f46ab4cfee00150fa47a7a7d97f2f3de28bc1736497e01dda",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
