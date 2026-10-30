@@ -238,6 +238,11 @@ const ORIGINAL_MOB_PORTRAITS: ReadonlyMap<string, string> = new Map([
     'eastbrook_freight_caravan',
     'willowfen_remedy_caravan',
     'frostveil_supply_caravan',
+    'apprentice_wren',
+    'gravedigger_mosley',
+    'castaway_navigator',
+    'fisher_bram',
+    'yumi_cat',
     'sloomtooth_the_drowned',
     'spider_egg',
     'barrow_wight',
@@ -273,6 +278,15 @@ const ORIGINAL_MOB_PORTRAITS: ReadonlyMap<string, string> = new Map([
   ].map((id): [string, string] => [id, `/ui/whetstorm/encounters/finder-${id}.webp`]),
   ['ignivar_herald_of_the_last_flame', '/ui/whetstorm/encounters/ignivar-finder.webp'],
   ['nythraxis_scourge_of_thornpeak', '/ui/whetstorm/mobs/nythraxis_scourge_of_thornpeak.webp'],
+  ['hub_training_dummy', '/ui/whetstorm/mobs/training_dummy.webp'],
+  ...[
+    'hub_healing_dummy',
+    'healing_dummy_tank',
+    'healing_dummy_soldier',
+    'healing_dummy_scout',
+    'healing_dummy_caster',
+    'healing_dummy_ranger',
+  ].map((id): [string, string] => [id, '/ui/whetstorm/mobs/friendly_player_dummy.webp']),
 ]);
 
 export function targetPortraitSourceId(templateId: string, isMobEntity: boolean): string | null {

@@ -217,6 +217,13 @@ it('routes original mob portraits while retaining non-mob, alias, and unknown be
     'hoard_silk_cocoon',
     'hoard_brood_cocoon',
     'necromancy_gravewing',
+    'hub_training_dummy',
+    'hub_healing_dummy',
+    'healing_dummy_tank',
+    'healing_dummy_soldier',
+    'healing_dummy_scout',
+    'healing_dummy_caster',
+    'healing_dummy_ranger',
     'friendly_player_dummy',
     'normal_boss_dummy',
     'heroic_boss_dummy',
@@ -224,6 +231,11 @@ it('routes original mob portraits while retaining non-mob, alias, and unknown be
     'eastbrook_freight_caravan',
     'willowfen_remedy_caravan',
     'frostveil_supply_caravan',
+    'apprentice_wren',
+    'gravedigger_mosley',
+    'castaway_navigator',
+    'fisher_bram',
+    'yumi_cat',
     'sloomtooth_the_drowned',
     'spider_egg',
     'barrow_wight',
@@ -273,6 +285,19 @@ it('routes original mob portraits while retaining non-mob, alias, and unknown be
   expect(targetPortraitUrl('guardian_tithefiend', true)).toBe(
     '/ui/whetstorm/mobs/guardian_tithefiend.webp',
   );
+  expect(targetPortraitUrl('hub_training_dummy', true)).toBe(
+    '/ui/whetstorm/mobs/training_dummy.webp',
+  );
+  for (const id of [
+    'hub_healing_dummy',
+    'healing_dummy_tank',
+    'healing_dummy_soldier',
+    'healing_dummy_scout',
+    'healing_dummy_caster',
+    'healing_dummy_ranger',
+  ]) {
+    expect(targetPortraitUrl(id, true)).toBe('/ui/whetstorm/mobs/friendly_player_dummy.webp');
+  }
   expect(targetPortraitUrl('forest_wolf_extra', true)).toBe('/ui/mobs/forest_wolf_extra.webp');
   expect(targetPortraitUrl('unknown/creature', true)).toBe('/ui/mobs/unknown%2Fcreature.webp');
 });

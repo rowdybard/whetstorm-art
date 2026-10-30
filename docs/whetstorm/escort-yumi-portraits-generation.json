@@ -1,0 +1,67 @@
+{
+  "source": "OpenAI built-in image generation",
+  "externalReferenceImages": [],
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "assets": [
+    {
+      "id": "apprentice_wren",
+      "prompt": "Original fantasy game target portrait, square head and shoulders, painterly stylized illustration, dark muted background, no text or frame. Young adult female mage apprentice with short copper pixie hair, wide green eyes, warm complexion, round brows, cheerful smile, simple azure mage clothing. Readable at 128 pixels. Independently designed; do not imitate any existing game art.",
+      "masterPath": "docs/design/whetstorm-art/mobs/apprentice_wren.png",
+      "masterSha256": "60a8375cbbd8b1fbc03f1d204f40fa04f1c79874a0609f1ed04d4723244356d8",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/apprentice_wren.webp",
+      "deliverySha256": "1bb7bc0691ca45bd4b6d52dffce52a76b855904e93369dd16d6945b135be8b4b"
+    },
+    {
+      "id": "gravedigger_mosley",
+      "prompt": "Original fantasy game target portrait, square head and shoulders, painterly stylized illustration, dark muted background, no text or frame. Male gravedigger with close cropped dark brown hair, stubble, wide anxious eyes and worried brows, warm medium complexion, sturdy shoulders and dark practical work clothes. Readable at 128 pixels. Independently designed; do not imitate any existing game art.",
+      "masterPath": "docs/design/whetstorm-art/mobs/gravedigger_mosley.png",
+      "masterSha256": "05f51ed6745ecd5525c0e8d257a5f21eb0101a86bba50389eaf6caa95c6a12e2",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/gravedigger_mosley.webp",
+      "deliverySha256": "45a779070c644e9a940bfad5278c5ce918826a9c35c98b854f54b15d1d9d0beb"
+    },
+    {
+      "id": "castaway_navigator",
+      "prompt": "Original fantasy game target portrait, square head and shoulders, painterly stylized illustration, dark muted background, no text or frame. Sun-weathered male castaway navigator with long parted sun-bleached hair, scruffy beard, almond blue-green eyes, lean cheeks and sun-darkened skin; bare shoulders and simple ragged clothing. Readable at 128 pixels. Independently designed; do not imitate any existing game art.",
+      "masterPath": "docs/design/whetstorm-art/mobs/castaway_navigator.png",
+      "masterSha256": "5ef08f61bdce4b2f0bcc603ff27ef1fe9d2d1fb8cf61e2d65c0b5f0551ea8c41",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/castaway_navigator.webp",
+      "deliverySha256": "3200d8da5d03973f51e9a812e3bce4672d6742f6c69c45d00a8f929e5f8e7d12"
+    },
+    {
+      "id": "fisher_bram",
+      "prompt": "Original fantasy game target portrait, square head and shoulders, painterly stylized illustration, dark muted background, no text or frame. Weathered male fisherman with messy brown hair, full beard, worried brows and tired drooping blue eyes, gaunt cheeks, frown and worn teal work clothes. Readable at 128 pixels. Independently designed; do not imitate any existing game art.",
+      "masterPath": "docs/design/whetstorm-art/mobs/fisher_bram.png",
+      "masterSha256": "3a284406544919f9d57c8c80e5ebb66ee4858ffd12a4834c1e55a3ee94ec59d8",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/fisher_bram.webp",
+      "deliverySha256": "f1eea8078ab5ef9bab374b6b728b59f032bf894cca89f630baa392e2869486e4"
+    },
+    {
+      "id": "yumi_cat",
+      "prompt": "Original fantasy game target portrait, square close-up of a cute chibi magical cat familiar, creamy pale fur, large ears and softly glowing rune collar, painterly stylized illustration, dark muted background, no text or frame. Readable at 128 pixels. Independently designed; do not imitate any existing game art.",
+      "masterPath": "docs/design/whetstorm-art/mobs/yumi_cat.png",
+      "masterSha256": "c3ae3cbdb46399b4c107ab58c45693cee9afbf3815896488e699ad04bf2c0c62",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/yumi_cat.webp",
+      "deliverySha256": "b2accc193e427206def19eb7e5819f19933f8d87c0c0b6e3e5ce1e0e3639e692"
+    }
+  ]
+}

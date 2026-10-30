@@ -28,11 +28,14 @@ Read-only geometry comparison against KayKit Adventures upstream commit
 and 822 indices match the source glTF data within floating-point precision.
 The full-reference candidate GLB SHA-256 is
 `35658e3e8b4b2b3350bb8c2f1d7beac29653c99f47fc9090707ee700da6ce09a`.
-Both the candidate and restricted axe use the same `VAR_AXE` family attachment,
-but the embedded KTX2 image has not been compared with the source PNG. Verify
-that texture and review drawn and stowed positions, both hands, combat animation,
+Both the candidate and restricted axe use the same `VAR_AXE` family attachment.
+The embedded 1024-square KTX2 was subsequently decoded and compared with the
+official source atlas PNG. Mean absolute channel difference was 4.13/255, with
+41.78% of channels exactly equal; the pixels are similar but not identical.
+This does not establish whether the differences are solely compression or also
+reflect edits. Review drawn and stowed positions, both hands, combat animation,
 heroic inheritance, preload, clipping, and enhancement effects before selecting
-the substitute. This evidence does not prove texture provenance or visual fit.
+the substitute. This comparison does not prove an unmodified texture or visual fit.
 
 For the four inscription tomes, `spellbook_open.glb` is a free candidate from
 the KayKit Adventure character pack, whose source and atlas are documented by
@@ -134,9 +137,17 @@ files remain to be audited.
 
 | Assets | Consumer evidence in the inspected checkout | Planning implication |
 | --- | --- | --- |
-| `lanternback_troll` | `src/sim/clue_casket.ts` and `src/sim/content/items.ts` identify the treasure-casket mount reward; the renderer registers the model. | Preserve the reward and rider/animation behavior if substituting its visual. |
+| `lanternback_troll` | `src/sim/clue_casket.ts` and `src/sim/rift/hoard_reward_roll.ts` both provide reward paths; the renderer registers the model. | Preserve the existing reward key and ownership, and rider/animation behavior if substituting its visual. |
 | `terrorspark_groundshaker` | `src/sim/content/items.ts` describes its reins as developer-only with no ordinary acquisition; `mounts.ts` lists it as a developer mount. | Review developer and saved-state handling separately; do not assume a player-facing replacement is needed. |
 | `chimeglass_tortoise`, `goblin_rocket_sled` | `mount_skins.ts` registers both as cosmetic skins; their legacy reins are inert junk in `items.ts`. | Audit actual entitlement, acquisition and saved ownership before removing or replacing the skins. |
+
+The Lanternback renderer uses idle, walk, run and death clips, an animated
+chair-bone rider attachment with a fixed-seat fallback, and two lantern-bone
+attachments. Any candidate needs its own measured seat position and gait,
+including rider stability through transitions and LODs; silently falling back
+from a missing chair bone does not prove a good fit. Free animated monster
+packs are possible sources to investigate, but no specific replacement's
+license, model, animation coverage, seating, or proportions has been verified.
 | Four inscription tomes | `src/render/characters/manifest.ts` maps `silverleaf_primer`, `goldleaf_folio`, `sunpetal_grimoire` and `voidbound_grimoire` to the corresponding held models. | Preserve item-to-hand attachment and grip when remapping. |
 | Ferry, Wyrmwatch harbor, Wickharbor wharf and harbor | The transport and harbor content modules describe ferry routes, walkable decks, collision and the harbormaster house as coordinated with the rendered models. | Preserve pier surfaces, routes, collisions, interactions and visual alignment; a generic static mesh is not automatically a substitute. |
 | Harbormaster gear | `src/render/characters/manifest.ts` attaches the tricorne to `head` and spyglass to `hips`. | Fit replacements to those attachment frames and validate on the body. |

@@ -1150,6 +1150,10 @@ image generation. Prompts and hashes are recorded in
 `realm-camps-provenance.json`, `necromancy-summons-provenance.json`, and
 `thornpeak-visions-stable-provenance.json` under `public/ui/whetstorm/mobs/`.
 
+The original quest-escort and Yumi portraits were created for Whetstorm using
+OpenAI's built-in image generation. Their prompts and hashes are recorded in
+`docs/whetstorm/escort-yumi-portraits-generation.json`.
+
 Original Glimmermere, Frostveil, Willowfen, Palmreach, Mirefen, hoard, and
 Gravewing portraits were created for Whetstorm using OpenAI's built-in image
 generation. Prompts and hashes are recorded under `public/ui/whetstorm/mobs/`
