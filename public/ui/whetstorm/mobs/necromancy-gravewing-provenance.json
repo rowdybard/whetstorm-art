@@ -1,0 +1,21 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "necromancy_gravewing",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy RPG enemy target portrait. Create an original painted head-and-shoulders portrait of a bulky dark charcoal hunched humanoid gargoyle, muscular arms and torso, two pale upward-curving horns, and a large dark batlike wing curling behind its right side. Violet backdrop. Painterly dark fantasy game illustration, centered, readable at small size, no text, border, logo, or watermark.",
+      "path": "public/ui/whetstorm/mobs/necromancy_gravewing.webp",
+      "sha256": "2264dc6c8e2f6f8957f5dc4b2a50728e6c5aab350e1347a544618f9ea3809c21",
+      "bytes": 2936,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/necromancy_gravewing.png",
+        "sha256": "d4da6c7b5ae94fee5b6af37c643a52746dd714a20f3dfb7bc93341c4d6c234e9",
+        "bytes": 2486331
+      }
+    }
+  ]
+}

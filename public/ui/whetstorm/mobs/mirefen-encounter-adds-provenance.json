@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "mirejaw_frenzy",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square tightly framed head of a small furious frog-like mudfin swamp creature, broad amphibian face and mouth, green turquoise skin, glowing marsh light, coherent with a frog creature model. Painterly detailed game icon, centered subject, no text, frame or watermark.",
+      "path": "public/ui/whetstorm/mobs/mirejaw_frenzy.webp",
+      "sha256": "47d3ca9ed257d17cdaad7c997a63c93f70f44dfc81096bcf50e9f060c1b4423d",
+      "bytes": 5806,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/mirejaw_frenzy.png",
+        "sha256": "cae72b103dd27f00e20c2849aba91b16df5d0134dbc9f51e8b3bdb5ec8902a2a",
+        "bytes": 2435249
+      }
+    },
+    {
+      "id": "widow_hatchling",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square tightly framed front of a young widow spider, compact dark plum and black body, eight eyes and small fangs, subtle spider silk and marsh shadow. Painterly detailed game icon, centered subject, no text, frame or watermark.",
+      "path": "public/ui/whetstorm/mobs/widow_hatchling.webp",
+      "sha256": "47dd5a6595123a451ce576ee3d2eceec58c4ca81f3c7a6fa40765edbe3a962ca",
+      "bytes": 4390,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/widow_hatchling.png",
+        "sha256": "9dd49049758679876242fe46d36968856646ab62c5f183415ff0f9dddb2d0261",
+        "bytes": 2498192
+      }
+    },
+    {
+      "id": "nhalia_mourner",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square tightly framed head and shoulders of a human mourner rendered as a hooded masked outlaw in dark red-brown leather, somber shadowed eyes and funeral atmosphere, muted purple crypt lighting. Painterly detailed game icon, centered face, no text, frame or watermark.",
+      "path": "public/ui/whetstorm/mobs/nhalia_mourner.webp",
+      "sha256": "e22b5bda2f24124227e05a8e3fe8cde69501b0dcd42ff6b36f53356e1c0b8f1d",
+      "bytes": 3276,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/nhalia_mourner.png",
+        "sha256": "ee6472810a41a1cc79c6ce4d25d669ff078fd6493fbdf5c74353c47dd4945291",
+        "bytes": 2564588
+      }
+    },
+    {
+      "id": "tolling_bell",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a massive ancient tarnished metal church bell, pale blue-gray patina, heavy flared rim and clapper, ominous flooded crypt atmosphere. It is a rolling bell projectile, not a creature or human. Painterly detailed game icon, centered subject, no text, frame or watermark.",
+      "path": "public/ui/whetstorm/mobs/tolling_bell.webp",
+      "sha256": "e120acfe53fc0568fc3484aa15fca1dbf9a241ef0751d5c796e579a1f956c12f",
+      "bytes": 4992,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/tolling_bell.png",
+        "sha256": "4d991905299e37cabc591d94278f7b84f3990ec8b9d314f615e72fd50c8b79f2",
+        "bytes": 2887356
+      }
+    }
+  ]
+}

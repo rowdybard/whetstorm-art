@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "glimmermere_wader",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy RPG enemy target portrait. Create original painted close-up bust of a Glimmermere Wader: amphibious fish humanoid with broad fish head, prominent gills and fins, pale blue-gray scales, inspired by its in-game murloc model. Dark lake background, polished painterly dark fantasy, clear readable face, centered, no border, text, symbols, or watermark.",
+      "path": "public/ui/whetstorm/mobs/glimmermere_wader.webp",
+      "sha256": "f4671f4d4deb3c967fbbd9db40a400e3088d39a0c9345f691942826a59ee2524",
+      "bytes": 4132,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/glimmermere_wader.png",
+        "sha256": "18bdeb16143a9555a25e23b3224b95a5fbc866a0f40416e2ca0f26fa24759676",
+        "bytes": 2433391
+      }
+    },
+    {
+      "id": "drowned_votary",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy RPG enemy target portrait. Create original painted close-up bust of a Drowned Votary: skeletal undead worshipper, exposed weathered skull, muted sea-green patina, tattered submerged ritual hood. Its in-game model is a skeleton. Dark underwater backdrop, polished painterly dark fantasy, clear readable face, centered, no border, text, symbols, or watermark.",
+      "path": "public/ui/whetstorm/mobs/drowned_votary.webp",
+      "sha256": "99ff25c19048e9e94fdcfc48a2cca2a15e9f67d226cb7307dc50bad0439aa4ea",
+      "bytes": 4348,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/drowned_votary.png",
+        "sha256": "60ed66af50b4160d24cb25ba2d5bbf995f1585fc1a2f798eeb03a6ff748ca050",
+        "bytes": 2551201
+      }
+    },
+    {
+      "id": "sethrael_palecoil",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy RPG enemy target portrait. Create original painted close-up bust of Sethrael the Palecoil: dragonkin with pale icy blue scales, draconic snout and horns, derived from the game's dragonkin model, a rare creature beside a moonlit lake. Dark mist backdrop, polished painterly dark fantasy, clear readable face, centered, no border, text, symbols, or watermark.",
+      "path": "public/ui/whetstorm/mobs/sethrael_palecoil.webp",
+      "sha256": "279b58221e9c228dc3331270fd1370d37df915b2aed738b42011946fb49429e9",
+      "bytes": 4626,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/sethrael_palecoil.png",
+        "sha256": "a8c475f738772db08891435ff39cb3dce77eb32fd7e4d0e89e596c1181d57e19",
+        "bytes": 2527114
+      }
+    },
+    {
+      "id": "frostmane_yeti",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy RPG enemy target portrait. Create original painted close-up bust of a Rimemane Yeti: massive yeti with thick snow-white fur, broad brutish face and visible fangs, matching the game's yeti model. Shadowed icy mountain backdrop, polished painterly dark fantasy, clear readable face, centered, no border, text, symbols, or watermark.",
+      "path": "public/ui/whetstorm/mobs/frostmane_yeti.webp",
+      "sha256": "5ebebeffddb53e59cfe86090ab102a52ae013402c949d3b28f64102b94ee4f68",
+      "bytes": 4532,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/frostmane_yeti.png",
+        "sha256": "439314a2c5e6eafe9b60c6a2ac8956b82e42c3e6398fbf6e65740ee0895777c0",
+        "bytes": 2918482
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6, center crop",
+  "entries": [
+    {
+      "id": "lily_wisp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: original fantasy MMO target portrait, square, no border. Paint a pale mint-green translucent floating ghost spirit with a softly hooded humanoid head and wispy tapering body, hovering above a dim lily pond. Close-up head and shoulders, strong readable silhouette, painterly fantasy game art, subdued dark background, dramatic gentle light. No text, logo, UI or watermark.",
+      "path": "public/ui/whetstorm/mobs/lily_wisp.webp",
+      "sha256": "5338c2eac30caf2f41a488412074f733778e0b1cb68a51366def0d9cf4f2ed7f",
+      "bytes": 3962,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/lily_wisp.png",
+        "sha256": "7ca3bbb869e8f271bdcc929f4c0b8145ab1a1654db8b5ddc19144d76a778ec31",
+        "bytes": 2082043
+      }
+    },
+    {
+      "id": "drowsy_croaker",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: original fantasy MMO target portrait, square, no border. Paint a sleepy green aquatic fish humanoid with broad fishlike face, fins and heavy-lidded eyes, in a shadowy marsh. Close-up head and shoulders, readable silhouette, painterly fantasy game art, muted dark backdrop and warm highlights. No frog anatomy, no text, logo, UI or watermark.",
+      "path": "public/ui/whetstorm/mobs/drowsy_croaker.webp",
+      "sha256": "fe8dfa94c819ae04b3fbb8f34ce331418b5efb97be5e17f5b24911684ca065b1",
+      "bytes": 4702,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/drowsy_croaker.png",
+        "sha256": "f3fbf0cedb62824f68f640be25bea9cde1fe7a4e4ba4f338c14434766ac7ba8c",
+        "bytes": 2398703
+      }
+    },
+    {
+      "id": "tide_scuttler",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: original fantasy MMO target portrait, square, no border. Paint a coral-red beach crab with broad armored shell, prominent eyes and claws, on a shadowy tropical tidepool shore. Close-up portrait, clear readable silhouette, painterly fantasy game art, deep dark background and warm highlights. No text, logo, UI or watermark.",
+      "path": "public/ui/whetstorm/mobs/tide_scuttler.webp",
+      "sha256": "664835646d8d74c49027264c48504fdf7ade5a17c685f0a67e859c23193937d4",
+      "bytes": 6108,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/tide_scuttler.png",
+        "sha256": "ab2427026b90354866e0601f55578f69ca67c662aaeb3f337899eeab6b9006bf",
+        "bytes": 2448969
+      }
+    },
+    {
+      "id": "thicket_boar",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: original fantasy MMO target portrait, square, no border. Paint a stocky dark brown bristly wild boar with broad snout and curved ivory tusks in a tropical thicket. Close-up head and shoulders, clear readable silhouette, painterly fantasy game art, dark backdrop and warm highlights. No text, logo, UI or watermark.",
+      "path": "public/ui/whetstorm/mobs/thicket_boar.webp",
+      "sha256": "2f9ee65badc5554a091510b9f7d54f347099523d359bd400ffefed0e30a57c72",
+      "bytes": 5328,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/thicket_boar.png",
+        "sha256": "7b00a3a30097aaec09bb6005ad639eebc5a63dea68e1367648e48ef343a64a9c",
+        "bytes": 2502629
+      }
+    }
+  ]
+}

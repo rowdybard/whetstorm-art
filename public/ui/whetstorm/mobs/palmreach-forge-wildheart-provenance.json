@@ -1,0 +1,61 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "canopy_weaver",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original square fantasy MMO target portrait of a canopy weaver: a green-tinted giant spider with eight long slender jointed legs, dark chitinous body and multiple small eyes, against a lush jungle canopy. Close centered front three-quarter view, painterly game illustration, readable at 128px. No text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/canopy_weaver.webp",
+      "sha256": "ae3cfce73e032c2c759b345ed8c9b2efb6fa227996c1a0de7f528170e89a6a74",
+      "bytes": 7490,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/canopy_weaver.png",
+        "sha256": "85aded0700c5c0eba0cca37bc826c7be4235787b27f12d201fb50aeffc1f28bc",
+        "bytes": 2654253
+      }
+    },
+    {
+      "id": "idol_guardian",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original square fantasy MMO target portrait of an idol guardian: a hulking pale gray skeletal golem with a horned skull, angular stone-like armor and heavy shoulders, standing in overgrown tropical ruins. Close centered head and shoulders, painterly fantasy game illustration, readable at 128px. No text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/idol_guardian.webp",
+      "sha256": "e3e3a6c0a8cc1766b997e545add3a6367811e5a3297d63b7dcb14668ef8dd26a",
+      "bytes": 7404,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/idol_guardian.png",
+        "sha256": "5dd5983d00b02a3bd3ed43b677690ae5d823f617209447f6653b1617ad388772",
+        "bytes": 3171715
+      }
+    },
+    {
+      "id": "derelict_mech",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original square fantasy MMO target portrait of a derelict mech: a damaged dark iron humanoid automaton, skeletal mechanical frame with exposed joints, crawling out of an ancient forge. Centered close view emphasizing its mechanical head and shoulders, dim warm forge glow, painterly fantasy game illustration, readable at 128px. No text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/derelict_mech.webp",
+      "sha256": "de92d8018a0e28d385119b3f534487899625fd650c21ba5a58b17b273cdf5fa8",
+      "bytes": 5842,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/derelict_mech.png",
+        "sha256": "7c6dd39ad69f7a08f4fc5951a3a66a741568590c105e2943097670ae13f8af06",
+        "bytes": 2573602
+      }
+    },
+    {
+      "id": "wildheart_high_priest",
+      "source": "OpenAI built-in image generation, text only",
+      "reuse": "Original Finder portrait and master: public/ui/whetstorm/encounters/finder-raid-wildheart-provenance.json",
+      "prompt": "Original square fantasy game encounter portrait: a troll high priest with tusks and a ceremonial jaguar headdress, ancient stone jungle terrace and luminous nature magic. Head and shoulders, centered, painterly illustration, readable at small sizes. No text, logos, borders or watermark.",
+      "path": "public/ui/whetstorm/encounters/finder-wildheart_high_priest.webp",
+      "sha256": "9749bef22c219e953e96e4fdbb80c90ca84ded8380ac6d2820c38562cd24f405",
+      "bytes": 7816,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-wildheart_high_priest.png",
+        "sha256": "ac03587e26d74bd8edd6a0632129aca7aea3d59a160d25a20fd59ec58b151a6a",
+        "bytes": 3090039
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "rift_bonewalker",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy game target portrait. A risen skeletal warrior, bare pale bone skull and upper torso, simple worn armor, dark eye sockets, faithful to a generic skeleton minion. Painterly dark fantasy, muted bone and charcoal, dramatic readable close-up centered composition, subdued dark background. No text, borders, logos or watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_bonewalker.webp",
+      "sha256": "2a743d67f22887e8ec96ec5f6d8cb662af4449db3636e53cd715866bad46367b",
+      "bytes": 4204,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_bonewalker.png",
+        "sha256": "6b4d5287f8f2fed78036b1d04687e7745b0f64b4375dc10bdaa911468149858a",
+        "bytes": 2554781
+      }
+    },
+    {
+      "id": "hoard_silk_cocoon",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy game target portrait. A tall upright spider silk cocoon shaped around a standing person, pale ivory overlapping wound bands and wispy anchor threads, no visible person. Painterly dark fantasy, centered readable silhouette, subdued dark cavern background. No text, borders, logos or watermark.",
+      "path": "public/ui/whetstorm/mobs/hoard_silk_cocoon.webp",
+      "sha256": "2d4827f5d31baae27a508e742f545ec0e891b5e63fe8a0f8c55aed8c54dcbf51",
+      "bytes": 3658,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/hoard_silk_cocoon.png",
+        "sha256": "f7a4220b85853ac46f6c569a7918f270638e92f641eb8c6947f2ab9dfb359865",
+        "bytes": 2671790
+      }
+    },
+    {
+      "id": "hoard_brood_cocoon",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy game target portrait. A squat spider brood cocoon, woven greenish ivory silk sac with several softly glowing eggs pressing through its surface, distinct rounded silhouette. Painterly dark fantasy, centered readable composition, subdued dark cavern background. No text, borders, logos or watermark.",
+      "path": "public/ui/whetstorm/mobs/hoard_brood_cocoon.webp",
+      "sha256": "bf2328b95714c2837cec744ba2cb59614db7578593b6a982741c28cc09c14879",
+      "bytes": 4808,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/hoard_brood_cocoon.png",
+        "sha256": "70d08aa1c38eeaeee895425c370849e2b679d413a11dee6133244df7021d75f2",
+        "bytes": 2895808
+      }
+    }
+  ]
+}

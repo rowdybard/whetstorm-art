@@ -1150,6 +1150,13 @@ image generation. Prompts and hashes are recorded in
 `realm-camps-provenance.json`, `necromancy-summons-provenance.json`, and
 `thornpeak-visions-stable-provenance.json` under `public/ui/whetstorm/mobs/`.
 
+Original Glimmermere, Frostveil, Willowfen, Palmreach, Mirefen, hoard, and
+Gravewing portraits were created for Whetstorm using OpenAI's built-in image
+generation. Prompts and hashes are recorded under `public/ui/whetstorm/mobs/`
+in `glimmermere-frostveil-provenance.json`, `willowfen-palmreach-provenance.json`,
+`palmreach-forge-wildheart-provenance.json`, `mirefen-encounter-adds-provenance.json`,
+`hoard-cocoon-bonewalker-provenance.json`, and `necromancy-gravewing-provenance.json`.
+
 Original Veiled Hollow, Vale, Drowned Litany, cave, and epic hoard portraits
 were created for Whetstorm using OpenAI's built-in image generation. Prompts
 and hashes are recorded in `docs/whetstorm/cave-ember-portraits-generation.json`
