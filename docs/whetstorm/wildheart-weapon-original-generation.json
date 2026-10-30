@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "wildheart_tuskblade",
+      "file": "docs/design/whetstorm-art/items/wildheart_tuskblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Premium hand-painted dark fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject diagonally with visible margin, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism or copied game designs. Subject: Wildheart Tuskblade, one epic two-handed broad steel sword with a distinctive ivory tusk-shaped curved guard, rugged leather grip and restrained jungle-green accents. Complete weapon, tip to pommel.",
+      "sha256": "eb0d19ec4d4ac3a9d567fa5bc311982af0dd393e793f7588e8a13c1f028730c0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wildheart_tuskblade.webp",
+        "sha256": "f760a904f666b41eedfaa8c6003e7ea6d109ce8e04211c6cbad97602243ae1e2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-ca7ad9f7-c785-42ab-89ec-35d9061733b6.png",
+      "status": "Original painting reviewed at 128, 64, 32 and 22 pixels; circular crop requires integration review."
+    },
+    {
+      "itemId": "wildheart_hexwood_staff",
+      "file": "docs/design/whetstorm-art/items/wildheart_hexwood_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Premium hand-painted dark fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject diagonally with visible margin, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism or copied game designs. Subject: Hexwood Staff of the Basin, one epic two-handed gnarled dark wooden staff, rootlike head surrounding a small muted jade stone, leather binding, subtle jungle-green accents. Complete weapon, tip to base.",
+      "sha256": "29a42e8f9dd12a1be9abadf9ffcc7d94f3163a8acd654d865e786a3d5041a590",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wildheart_hexwood_staff.webp",
+        "sha256": "218a0f031be13a170f94650a275a23ad111bccb50943891dc1858fc64ef7d58a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-d9caef7b-29ec-4fe6-8812-4a1864dfc80a.png",
+      "status": "Original painting reviewed at 128, 64, 32 and 22 pixels; circular crop requires integration review."
+    },
+    {
+      "itemId": "wildheart_fangknife",
+      "file": "docs/design/whetstorm-art/items/wildheart_fangknife.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Premium hand-painted dark fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject diagonally with visible margin, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism or copied game designs. Subject: Fangknife of Zulgar, one epic short dagger with a curved fang-like ivory blade, sturdy dark leather grip, restrained bronze fittings and jungle-green accents. Complete weapon, tip to pommel.",
+      "sha256": "813f7a413be7ef1b4086c027d238b68fe0e45a1d2be10440eb1a4973b2d0ac20",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wildheart_fangknife.webp",
+        "sha256": "6c7a2f7ffebd0c884c66bb8f328989497ac168e4d4bf2a061851d100b7af3ec3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-04af4361-15f3-4e2a-b93d-eceb2a95e506.png",
+      "status": "Original painting reviewed at 128, 64, 32 and 22 pixels; circular crop requires integration review."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gyrelens_array",
+      "file": "docs/design/whetstorm-art/items/gyrelens_array.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create an original square Whetstorm fantasy inventory painting of Gyrelens Array: a compact handheld brass gyroscope, nested concentric metal rings holding one luminous blue glass lens at its center. The whole object centered, bold readable silhouette at 32 pixels, hand-painted tactile metal, warm upper-left light, cool dark slate painted background edge to edge. No frame, text, letters, logo, watermark, people, hands, or imitation of games or artists.",
+      "sha256": "96114d2297215c062ea600db93c6e7157d26a08d29ef81b7a6f827cbcbc241c9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "status": "original artwork; awaiting integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gyrelens_array.webp",
+        "sha256": "c5f237feec9b879b31b0a681965efec4d0cf9a49b7041f7915d004b8e240fb9b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "voidbound_grimoire",
+      "file": "docs/design/whetstorm-art/items/voidbound_grimoire.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create an original square Whetstorm fantasy inventory painting of Voidbound Grimoire: one closed thick dark violet leather spellbook with a small inset amethyst and restrained silver corner fittings, tilted slightly, complete silhouette centered. Hand-painted tactile fantasy, warm upper-left light, dark slate painted background edge to edge; readable at 32 pixels. No frame, text, letters, logo, watermark, people, hands, or imitation of games or artists.",
+      "sha256": "430c4e3071afd8f3fc42ce265c191bd1d33d75c0aaafda2a50f8fc19cf1b2ddd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "status": "original artwork; awaiting integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/voidbound_grimoire.webp",
+        "sha256": "beeb0dcb815789ab5eba282e8a0688552fce423781e29f0cd4d044cf4bf2d1f9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "copperlens_ocular",
+      "file": "docs/design/whetstorm-art/items/copperlens_ocular.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create an original square Whetstorm fantasy inventory painting of Copperlens Ocular: one compact handheld copper spyglass-like ocular instrument, round teal glass lens facing viewer at a slight angle, a short solid grip, clean mechanical rings. Entire object centered with room around it, hand-painted tactile fantasy, warm upper-left light, dark slate painted background edge to edge; readable at 32 pixels. No frame, text, letters, logo, watermark, people, hands, or imitation of games or artists.",
+      "sha256": "779d94e36a0e56758533495053aa4bc90ea88a5d5664d60f15f13dddde456a8d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "status": "original artwork; awaiting integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/copperlens_ocular.webp",
+        "sha256": "5e1e9634bc0f705c7c526713fcd22d415bea2d9cde7fc949be7125a9e2e3cb86",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wraithfire_orb",
+      "file": "docs/design/whetstorm-art/items/wraithfire_orb.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create an original square Whetstorm fantasy inventory painting of Wraithfire Orb: one luminous violet spectral fire contained within a dark transparent round glass orb, held in a simple blackened metal claw-like pedestal. Entire object centered, distinct silhouette, hand-painted fantasy, warm upper-left light, dark slate painted background edge to edge; readable at 32 pixels. No frame, text, letters, logo, watermark, people, hands, or imitation of games or artists.",
+      "sha256": "9611437b54a9cb2f7d7a7b9500f154889895bf815ac74486a0c678fe8c4faa26",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "status": "original artwork; awaiting integration",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wraithfire_orb.webp",
+        "sha256": "68f563ac384bb22d82c5ac7c190438bc4708f23a7ba5640291da6e4e1ef132c1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

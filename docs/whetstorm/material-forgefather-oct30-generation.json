@@ -1,0 +1,29 @@
+{
+  "assets": [
+    {
+      "itemId": "forgefathers_ember",
+      "file": "docs/design/whetstorm-art/items/forgefathers_ember.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original opaque square Whetstorm fantasy MMORPG inventory item painting. Subject: Forgefather's Ember, a single irregular coal-sized ancient forge ember, dark cracked charcoal crust enclosing a hot molten orange-gold heart, small restrained sparks. This is a precious tangible smithing reagent, not a weapon or jewel. Hand-painted tactile fantasy art, warm upper-left key light, cool deep shadows, centered whole silhouette filling about 70 percent, clear at tiny icon size, on a deep charcoal painted vignette. No text, letters, symbols, frame, border, hands, watermark, transparency, or imitation of existing game art.",
+      "status": "original painting; reviewed at full size and 128, 64, 40, 28, and 22 pixels; in-game review pending",
+      "sha256": "d099ceea778a650c8760650aef0711c1ace2ff4b7c04d7cdf3a70cf5032c87be",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgefathers_ember.webp",
+        "sha256": "4c32f8fd7a495a88679300dd544dda4efc9bcdb29bb503bf0492466315f266e1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "review": "docs/whetstorm/material-forgefather-oct30-review.png"
+    }
+  ]
+}

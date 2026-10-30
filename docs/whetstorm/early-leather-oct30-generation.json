@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "bristlehide_spaulders",
+      "file": "docs/design/whetstorm-art/items/bristlehide_spaulders.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square Whetstorm fantasy MMORPG inventory painting for Bristlehide Spaulders (bristlehide_spaulders), an uncommon leather shoulder armor. Show one complete matching pair of rugged brown leather shoulder guards with short dark boar-bristle fringe, broad rounded layered hide plates, visible stitched seams and simple ties. No animal, body, mannequin or torso. Center both on an opaque deep slate-blue painted vignette with safe margins; subject fills around 72 percent. Premium hand-painted fantasy, tactile worn hide, broad clean forms, warm upper-left light and cool shadow, recognizable at 22 pixels. No border, text, writing, logo, watermark, photorealism, or imitation of any existing game or artist.",
+      "status": "original painting; reviewed at 128, 40, 28 and 22 pixels; integration pending",
+      "sha256": "287b40a8263cf88505b4478311e50dbd736834578ec1938aade5116037bacabe",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bristlehide_spaulders.webp",
+        "sha256": "a4393604cb0ac68c5afa2cb9f20e99628c4bbd9bdd133d765c2d54d56210ad20",
+        "pixels": [
+          128,
+          128
+        ],
+        "bytes": 3062,
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wanderers_chestguard",
+      "file": "docs/design/whetstorm-art/items/wanderers_chestguard.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original square Whetstorm fantasy MMORPG inventory painting for Wanderer's Chestguard (wanderers_chestguard), an uncommon leather chest armor. Show one complete empty practical traveler's chestguard of warm russet leather, broad fitted torso with a simple overlapping panel, worn stitched edges, dark shoulder straps and modest metal buckles. No body, head, mannequin, arms or other objects. Center on an opaque deep slate-blue painted vignette with safe margins; subject fills around 72 percent. Premium hand-painted fantasy, tactile worn leather, broad clean forms, warm upper-left light and cool shadow, recognizable at 22 pixels. No border, text, writing, logo, watermark, photorealism, or imitation of any existing game or artist.",
+      "status": "original painting; reviewed at 128, 40, 28 and 22 pixels; integration pending",
+      "sha256": "09c0e208f08ebec0c8758c22c99e90c22edf9d286e7189f2141b13ba7f3600e3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wanderers_chestguard.webp",
+        "sha256": "600c476b77dcd46cf91f8ccd81727f68cc187003d07283280a9299bc422f855d",
+        "pixels": [
+          128,
+          128
+        ],
+        "bytes": 3502,
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

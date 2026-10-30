@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "evergarden_statue_rubbing",
+      "file": "docs/design/whetstorm-art/items/evergarden_statue_rubbing.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for evergarden_statue_rubbing, a Statue Rubbing quest object. One complete cream parchment sheet with a soft charcoal impression of a stylized abstract stone flower relief, rolled corners, centered large on a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold simple silhouette and broad shapes, legible at 32 pixels. No words, letters, border, logo, watermark, hands, extra objects, photorealism, or copied designs.",
+      "sha256": "9b5039ae81e7d42d016a4a8c4eb952dbdc5d52ef9a6e0c1b12a32a66f274cfa5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/evergarden_statue_rubbing.webp",
+        "sha256": "cc110f5aca63d9df547d93c92906fbe45b239077bdeb500056e3642ffe03ad7d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vigil_star_chart",
+      "file": "docs/design/whetstorm-art/items/vigil_star_chart.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for vigil_star_chart, a Vigil Star Chart quest object. Show one complete dark indigo circular astronomical chart on aged parchment, with a few large gold dots joined by fine lines, rolled edges and no letters. Center against a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold silhouette, restrained detail, legible at 32 pixels. No text, border, logo, watermark, hands, extra objects, photorealism, or copied game designs.",
+      "sha256": "7ecb767d25c2aad1defc4573e10f57a5ca4f7934905514c8362e0a666986cab0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vigil_star_chart.webp",
+        "sha256": "b3fcf61ff760b13e752361b0b132e0bd35ed6fd7ac72bdf244db381876a4f3ce",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sunken_offering_bowl",
+      "file": "docs/design/whetstorm-art/items/sunken_offering_bowl.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for sunken_offering_bowl, a Refilled Offering Bowl quest object. One complete shallow weathered turquoise ceramic bowl viewed from above at three quarters, containing clear water with a single pale flower floating on it. Center on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold silhouette, broad forms, restrained detail, legible at 32 pixels. No text, letters, border, logo, watermark, hands, additional objects, photorealism, or copied game designs.",
+      "sha256": "4580b6b4abb0ae33cc716b03f77a399544a86b7229ed7b4792f1f815a852b419",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunken_offering_bowl.webp",
+        "sha256": "120fb856033e529ba663210ca0c9b06e5d6ae8c5252bea2b7380b04bacc8c363",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "hollow_sealstone",
+      "file": "docs/design/whetstorm-art/items/hollow_sealstone.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for hollow_sealstone, The Hollow Sealstone quest object. One complete rough oval dark gray stone with a deep central hollow inset, bordered by a simple thick bronze ring, and a subdued blue light within the hollow. Center against a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold silhouette, broad forms, restrained detail, legible at 32 pixels. No text, letters, runes, border, logo, watermark, hands, extra objects, photorealism, or copied game designs.",
+      "sha256": "31a572b3d86a4098068ed32d328ce3b0b9e68b0b67f290b080e3df8223b38e4a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hollow_sealstone.webp",
+        "sha256": "dd6ee4bc715a1c278838e06bb78bd09275774ed0c5b4f13a35d2370c31d9ff3b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

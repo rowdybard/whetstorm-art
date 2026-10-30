@@ -167,6 +167,7 @@ import { mountReinsHeroicItemImageUrl } from './mount_reins_heroic_item_art';
 import { mountReinsRemainingItemImageUrl } from './mount_reins_remaining_item_art';
 import { mournweaveArmorItemImageUrl } from './mournweave_armor_item_art';
 import { oathpyreArmorItemImageUrl } from './oathpyre_armor_item_art';
+import { oct30OriginalItemImageUrl } from './oct30_original_item_art';
 import { osmiumGlyphsteelItemImageUrl } from './osmium_glyphsteel_item_art';
 import { packlordArmorItemImageUrl } from './packlord_armor_item_art';
 import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
@@ -245,6 +246,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    oct30OriginalItemImageUrl(id) ??
     mountReinsRemainingItemImageUrl(id) ??
     slagsnareArmorItemImageUrl(id) ??
     anvilSigilsItemImageUrl(id) ??
