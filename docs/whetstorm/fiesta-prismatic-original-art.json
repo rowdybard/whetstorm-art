@@ -1,0 +1,37 @@
+{
+  "author": "Codex",
+  "method": "Original hand-authored SVG geometry based on live prismatic augment mechanics; no reference images or inherited artwork used.",
+  "review": "Compare the 18px and 40px renderings in fiesta-prismatic-original-review.png.",
+  "records": [
+    {
+      "id": "aug_apex_predator",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_apex_predator.svg",
+      "sha256": "821806f06ae06bf050de60aef5f1711a4530da2c68074de96678d474c32cd625"
+    },
+    {
+      "id": "aug_archmage",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_archmage.svg",
+      "sha256": "b36c992f9c3445a27c9ba7276ae5e7745d4e7087e21624c86aa2f2bd83b97b4c"
+    },
+    {
+      "id": "aug_unkillable",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_unkillable.svg",
+      "sha256": "64ac323e93b00519ddb3b90063a3f333685207399411987132d7c6b399bad8c9"
+    },
+    {
+      "id": "aug_overdrive",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_overdrive.svg",
+      "sha256": "06aad955b2a7f8136e6b84c373718b3e1bb6adc10822db6827fa9a0f91dde735"
+    },
+    {
+      "id": "aug_avatar",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_avatar.svg",
+      "sha256": "ebdc89fb4ee9945cbcab7e11cc2dc3a5793458c0042fa428b38b4aa0e5269df3"
+    },
+    {
+      "id": "aug_ascendant",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_ascendant.svg",
+      "sha256": "8749739fe9afd07b79827af597e25a11b419aefe089727a19ef07e3188a7f61f"
+    }
+  ]
+}

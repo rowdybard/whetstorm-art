@@ -62,12 +62,13 @@ are original hand-authored SVGs based on the gameplay mechanics. Their paths
 and hashes are recorded in `docs/whetstorm/delve-affix-original-art.json`;
 the historical Delve art records below retain their restrictions.
 
-The silver- and gold-tier Fiesta augment icons under
+The silver-, gold-, and prismatic-tier Fiesta augment icons under
 `public/ui/whetstorm/fiesta/augments/` are original hand-authored SVGs based on
 the live augment mechanics. Paths and hashes are recorded in the
 `docs/whetstorm/fiesta-silver-original-art.json` and
-`docs/whetstorm/fiesta-gold-original-art.json` manifests. The historical Fiesta
-art records below retain their restrictions.
+`docs/whetstorm/fiesta-gold-original-art.json` and
+`docs/whetstorm/fiesta-prismatic-original-art.json` manifests. The historical
+Fiesta art records below retain their restrictions.
 
 `public/map_art/whetstorm_continent.webp` is original procedural map art based
 on the simulation's terrain and biome data. Its generator and source lineage

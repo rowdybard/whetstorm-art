@@ -30,26 +30,8 @@ export const FIESTA_POWERUP_IMAGE_IDS: ReadonlySet<string> = new Set([
   'pow_berserker',
 ]);
 
-const ORIGINAL_AUGMENT_IDS: ReadonlySet<string> = new Set([
-  'aug_brutality',
-  'aug_spellfire',
-  'aug_toughness',
-  'aug_keen_eye',
-  'aug_fleetfoot',
-  'aug_ironhide',
-  'aug_mending',
-  'aug_warlords_might',
-  'aug_arcane_surge',
-  'aug_vampirism',
-  'aug_juggernaut',
-  'aug_bloodhunter',
-  'aug_lightwell',
-  'aug_bounty_hunter',
-]);
-
 export function fiestaAugmentImageUrl(id: string): string | null {
-  if (ORIGINAL_AUGMENT_IDS.has(id)) return `/ui/whetstorm/fiesta/augments/${id}.svg`;
-  return FIESTA_AUGMENT_IMAGE_IDS.has(id) ? `/ui/fiesta/augments/${id}.webp` : null;
+  return FIESTA_AUGMENT_IMAGE_IDS.has(id) ? `/ui/whetstorm/fiesta/augments/${id}.svg` : null;
 }
 
 export function fiestaPowerupImageUrl(id: string): string | null {
@@ -68,7 +50,7 @@ const FIESTA_AUGMENT_FALLBACK_PATHS: Readonly<Record<AugmentCategory, string>> =
 
 /**
  * Small category identity used only while exact Fiesta art is unavailable or
- * fails to decode. The painted WebP remains the primary surface.
+ * fails to decode. Exact augment art remains the primary surface.
  */
 export function fiestaAugmentFallbackSvg(category: AugmentCategory): string {
   return (
