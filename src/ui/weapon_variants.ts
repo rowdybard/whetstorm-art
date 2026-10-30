@@ -72,7 +72,7 @@ export const ITEM_WEAPON_VARIANTS: Record<string, string> = {
   // Rogue epics and rares
   rimefang: 'ice_fang', // EPIC: Rift frost dagger
   marrowpoint: 'adv_dagger', // EPIC: Cindraleth (Drakelands)
-  duskwhisper: 'purple_dagger', // EPIC: Wildheart Beastmaster shadow dagger
+  duskwhisper: 'adv_dagger', // EPIC: Wildheart Beastmaster shadow dagger
   // heroic_duskwhisper inherits the base variant via heroicOf (auto-generated);
   // it must NOT have its own entry here (held_weapon_models pins that).
   boneglass_shiv: 'whittler_s_knife', // RARE: Basin Lv17-19 filler
@@ -145,13 +145,8 @@ export const ITEM_WEAPON_VARIANTS: Record<string, string> = {
   tradesman_hatchet: 'adv_axe_1handed',
   forgemaster_crag_cleaver: 'adv_axe_2handed', // Faction vendor epic two-handed axe
   gravewyrm_cleaver: 'adv_axe_1handed', // EPIC: Heroic Korzul axe
-  // Nythraxis gap-fill one-handers (content/zone3.ts): the violet-gem KayKit
-  // set, the Deathless Court's bone-and-violet palette in hand (purple_dagger
-  // is shared with Duskwhisper; the sword and axe were unused). Their
-  // inventory icons are in-engine stills of these models
-  // (scripts/render_weapon_still_icons.mjs over the jobs table in
-  // docs/achievements/nythraxis-gap-weapon-renders-2026-09-04/).
-  courtiers_bonefang: 'purple_dagger',
+  // Nythraxis gap-fill one-handers (content/zone3.ts).
+  courtiers_bonefang: 'adv_dagger',
   thornpeak_wardblade: 'purple_sword',
   gravecourt_hewer: 'purple_axe',
   pitlords_cleaver: 'adv_axe_1handed', // rift rare cleaver (heroic clone rides heroicOf)
