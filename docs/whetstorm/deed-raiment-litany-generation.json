@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "col_set_soulflame",
+      "master": "docs/design/whetstorm-art/deeds/col_set_soulflame.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for collecting Wraithfire Regalia: a dark robe ensemble with vivid violet spectral flames and silver trim displayed on an armory stand, dim warm background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "f702e1e4a45ddb767f12767fe1285fc1748400dfb79c3a19462b1f9f01c3d514",
+      "shipping": "public/ui/whetstorm/deeds/col_set_soulflame.webp",
+      "shippingSha256": "288887b8c99b862ef8c059e5cf3bd62751cb478226190345a69bb2538751db49",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_set_stormcallers",
+      "master": "docs/design/whetstorm-art/deeds/col_set_stormcallers.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for collecting Galecall Vestments: a deep blue robe ensemble with pale lightning and wind motifs displayed on an armory stand, dim warm background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "846ac3366559ed9b37f1ab717ef9309d7b8e324596727fec6cb16131c01da0d0",
+      "shipping": "public/ui/whetstorm/deeds/col_set_stormcallers.webp",
+      "shippingSha256": "1812960c141b68838269460df1fefacf5e14b2441d5d3554fc75b25fe7599fd2",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "dlv_litany_heroic",
+      "master": "docs/design/whetstorm-art/deeds/dlv_litany_heroic.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for a heroic drowned chapel delve: a flooded ancient chapel doorway with a luminous golden heroic shield standing in the water, eerie blue light, background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "bc30ec9070c5cfbec69b6d9d89745dc4def3b4d7b734d5e15723f8e9c99cf8e7",
+      "shipping": "public/ui/whetstorm/deeds/dlv_litany_heroic.webp",
+      "shippingSha256": "c3badf0b238f89baa3d1cf5f027247b25fe2aafa29e728854f0c823b629b8578",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "dlv_varric_ringers",
+      "master": "docs/design/whetstorm-art/deeds/dlv_varric_ringers.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for defeating a deacon after his funeral ringers: a cracked bronze funeral bell lying silent in shallow water before a shadowy ruined chapel, a broken bell clapper beside it, blue-green mist, background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "d266d4435bfa4c666f9ae52ef46f4205ddc621c4867077c8af137b5e14b564fa",
+      "shipping": "public/ui/whetstorm/deeds/dlv_varric_ringers.webp",
+      "shippingSha256": "e922e904c959dc877b3dcf7f2318498ee59b05bc40736dcbd89666fc78b5d6b0",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}

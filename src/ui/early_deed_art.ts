@@ -39,6 +39,7 @@ import { peatfireDeedImageUrl } from './peatfire_deed_art';
 import { placeDeedImageUrl } from './place_deed_art';
 import { prestigeDeedImageUrl } from './prestige_deed_art';
 import { raidChallengeDeedImageUrl } from './raid_challenge_deed_art';
+import { raimentLitanyDeedImageUrl } from './raiment_litany_deed_art';
 import { sanctumChallengeDeedImageUrl } from './sanctum_challenge_deed_art';
 import { socialMilestoneDeedImageUrl } from './social_milestone_deed_art';
 import { soloArenaDeedImageUrl } from './solo_arena_deed_art';
@@ -109,6 +110,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     heroicClearDeedImageUrl(id) ??
     heroicDepthsDeedImageUrl(id) ??
     prestigeDeedImageUrl(id) ??
+    raimentLitanyDeedImageUrl(id) ??
     raidChallengeDeedImageUrl(id) ??
     sanctumChallengeDeedImageUrl(id) ??
     ascendantDeedImageUrl(id) ??
