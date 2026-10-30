@@ -8,9 +8,10 @@
 // wiki lists names, Renown, and rewards only, keeping instanced spoilers off the public
 // site (the same bar the dungeons page and the bestiary hold).
 
-import { earlyDeedImageUrl } from '../../ui/early_deed_art';
+import { deedCrestId } from '../../ui/deeds_view';
 import { esc } from '../../ui/esc';
 import { formatNumber, type TranslationKey, t } from '../../ui/i18n';
+import { iconDataUrl } from '../../ui/icons';
 import { GUIDE_DEEDS, type GuideDeed } from '../content.generated';
 import { hrefFor } from '../routes';
 import type { GuidePage } from './types';
@@ -51,7 +52,7 @@ const CATEGORY_LABEL_KEYS: Record<(typeof CATEGORY_ORDER)[number], TranslationKe
 // then the cosmetic reward (title text, the word Border, or nothing). Names and reward
 // titles are English proper nouns baked from the sim, rendered as raw text through esc().
 function deedRow(d: GuideDeed): string {
-  const crest = earlyDeedImageUrl(d.id) ?? d.crest;
+  const crest = iconDataUrl('crest', deedCrestId(d.id, d.category));
   const renownCell = d.feat
     ? `<span class="guide-deed-feat">${esc(t('guide.deedsPage.featTag'))}</span>`
     : esc(formatNumber(d.renown));

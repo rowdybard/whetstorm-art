@@ -15,11 +15,11 @@ describe('Reliquary crest background classification', () => {
     }
   });
 
-  it('keeps inherited painted crests and procedural crests on their respective treatments', () => {
+  it('treats inherited title art as an opaque procedural category crest', () => {
     const inherited = reliquaryCellArt({ kind: 'title', id: 'chr_peaks_chapter_iii' });
-    expect(inherited).toEqual({ kind: 'crest', crestId: 'deed_chr_peaks_chapter_iii' });
-    expect(deedImageUrl('deed_chr_peaks_chapter_iii')).toBe('/ui/deeds/chr_peaks_chapter_iii.webp');
-    expect(inherited && reliquaryCellArtOpaque(inherited)).toBe(false);
+    expect(inherited).toEqual({ kind: 'crest', crestId: 'deed_cat_chronicle' });
+    expect(deedImageUrl('deed_chr_peaks_chapter_iii')).toBeNull();
+    expect(inherited && reliquaryCellArtOpaque(inherited)).toBe(true);
     expect(reliquaryCellArtOpaque({ kind: 'crest', crestId: 'deed_cat_chronicle' })).toBe(true);
     expect(reliquaryCellArtOpaque({ kind: 'crest', crestId: 'deed_future_bespoke' })).toBe(true);
   });

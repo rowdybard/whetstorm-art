@@ -19,7 +19,6 @@ import {
 } from '../sim/content/zone3';
 import { ABILITIES, ITEMS } from '../sim/data';
 import { crestIconUrl } from './crest_icon_art';
-import { DEED_IMAGE_IDS } from './deed_image_ids';
 import { earlyDeedImageUrl } from './early_deed_art';
 import { professionImageUrl } from './hud/professions/profession_art';
 import { MOB_AURA_IMAGE_IDS } from './mob_aura_icon_art';
@@ -5534,13 +5533,7 @@ export function itemImageUrl(id: string): string | null {
   return Object.hasOwn(ITEMS, id) || UI_ITEM_IMAGE_IDS.has(id) ? originalArt('item', id) : null;
 }
 
-// Book of Deeds crest ids are shaped `deed_<deedId>` (deeds_view.ts deedCrestId). Those whose
-// deed ships committed painted art (public/ui/deeds/<deedId>.webp, listed in DEED_IMAGE_IDS)
-// resolve to that static WebP. Mirrors itemImageUrl. The `deed_cat_<category>` base crests and
-// every non-deed crest id prefix-strips to something not in the set. Class, family, and status
-// paintings are resolved independently by crestIconUrl; a missing image still falls through to
-// the procedural recipe without breaking a consumer.
-const DEED_ICON_DIR = '/ui/deeds';
+// Original deed paintings win over procedural crest recipes.
 const DEED_CREST_PREFIX = 'deed_';
 
 // Exhaustive live-deed art debt ledger. The Masterwrought completion wave clears its
@@ -5601,10 +5594,7 @@ export const DEED_ART_PENDING: ReadonlySet<string> = new Set([
 export function deedImageUrl(crestId: string): string | null {
   if (!crestId.startsWith(DEED_CREST_PREFIX)) return null;
   const deedId = crestId.slice(DEED_CREST_PREFIX.length);
-  return (
-    earlyDeedImageUrl(deedId) ??
-    (DEED_IMAGE_IDS.has(deedId) ? `${DEED_ICON_DIR}/${deedId}.webp` : null)
-  );
+  return earlyDeedImageUrl(deedId);
 }
 
 /** True when `id` has a real crest recipe, as opposed to falling through to the

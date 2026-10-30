@@ -23,7 +23,7 @@ import { countsTowardCompletion } from '../sim/deeds_completion';
 import { wearableDevBadgeTitles } from '../sim/dev_badge_titles';
 import type { DeedDef, DeedStats, DeedTrigger } from '../sim/types';
 import type { DeedsRarity } from '../world_api';
-import { DEED_IMAGE_IDS } from './deed_image_ids';
+import { DEED_IMAGE_IDS as INHERITED_DEED_IMAGE_IDS } from './deed_image_ids';
 import { earlyDeedImageUrl } from './early_deed_art';
 
 /** Watchlist cap: at most this many deeds pinned to the HUD tracker. */
@@ -82,10 +82,10 @@ export const DEED_BESPOKE_CRESTS: ReadonlySet<string> = new Set([
 ]);
 
 /** Crest icon id for a deed: `deed_<id>` when the deed has committed painted art
- *  (DEED_IMAGE_IDS) OR a bespoke procedural recipe (DEED_BESPOKE_CRESTS), else the
+ *  or a bespoke procedural recipe (DEED_BESPOKE_CRESTS) outside the inherited image set, else the
  *  display category base `deed_cat_<category>`. The image branch in icons.ts outranks the
  *  bespoke recipe for the same id; the recipes stay as the forward-compat fallback tier
- *  (an artless bespoke deed still lands on deed_<id>, never the base crest). */
+ *  (an artless bespoke deed outside the inherited set keeps its bespoke crest). */
 /** Where a jump-to-deed (a chat deed-link or recent-strip activation) may
  *  land: the deed's display category, or null when the jump must not move the
  *  Book at all. Null for a catalog-unknown id (content drift) and for a
@@ -115,14 +115,15 @@ const DEED_CREST_ID_PREFIX = 'deed_';
 export const DEED_CATEGORY_CREST_PREFIX = 'deed_cat_';
 
 export function deedCrestId(id: string, category: string): string {
-  return earlyDeedImageUrl(id) !== null || DEED_IMAGE_IDS.has(id) || DEED_BESPOKE_CRESTS.has(id)
+  return earlyDeedImageUrl(id) !== null ||
+    (!INHERITED_DEED_IMAGE_IDS.has(id) && DEED_BESPOKE_CRESTS.has(id))
     ? `${DEED_CREST_ID_PREFIX}${id}`
     : `${DEED_CATEGORY_CREST_PREFIX}${deedDisplayCategory(category)}`;
 }
 
 /**
- * True when this crest id resolves to committed painted art (an alpha-matted
- * WebP under public/ui/deeds), false for every crest the icon system must
+ * True when this crest id resolves to a committed Whetstorm painting, false
+ * for every crest the icon system must
  * COMPOSITE procedurally: the deed_cat_* category fallbacks AND a bespoke
  * crest whose commissioned art has not landed yet (deedCrestId still answers
  * `deed_<id>` for those, so a prefix test cannot tell the two apart). The
@@ -134,8 +135,7 @@ export function deedCrestId(id: string, category: string): string {
 export function deedCrestHasPaintedArt(crestId: string): boolean {
   return (
     crestId.startsWith(DEED_CREST_ID_PREFIX) &&
-    (earlyDeedImageUrl(crestId.slice(DEED_CREST_ID_PREFIX.length)) !== null ||
-      DEED_IMAGE_IDS.has(crestId.slice(DEED_CREST_ID_PREFIX.length)))
+    earlyDeedImageUrl(crestId.slice(DEED_CREST_ID_PREFIX.length)) !== null
   );
 }
 
