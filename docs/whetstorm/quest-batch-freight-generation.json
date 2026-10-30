@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "ps_ferry_bell",
+      "file": "docs/design/whetstorm-art/items/ps_ferry_bell.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for ps_ferry_bell, a ferry bell. Square painted edge to edge, one complete small weathered bronze hand bell hanging from a short stout wooden bracket, centered on a dark slate-blue painted background. Bold clean silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, photorealism, or designs copied from other games.",
+      "sha256": "833ae221d3d13f0c2cff6843f1c9d83d2998401b81a251f0b8bf828ff1c3b866",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ps_ferry_bell.webp",
+        "sha256": "ffb23452578da2783cac81715590b777b704118fbb6082fbfa1557778e029a14",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "eastbrook_freight_crate",
+      "file": "docs/design/whetstorm-art/items/eastbrook_freight_crate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for eastbrook_freight_crate, a freight crate. Square painted edge to edge. One complete sturdy closed wooden shipping crate with broad planks and dark iron corner straps, three-quarter view, centered on dark slate-blue painted background. Bold clean silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, labels, logo, watermark, person, extra objects, photorealism, or designs copied from other games.",
+      "sha256": "fc6f7ae023785cb1f4ec7c8960c2d2178f6f9a91f98ce60650b7063d1b42d4ec",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eastbrook_freight_crate.webp",
+        "sha256": "bb658bd18e4b4d954eca891bd9cf609627da8166b23560f55aaf97cdf062758b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "eastbrook_freight_wagon",
+      "file": "docs/design/whetstorm-art/items/eastbrook_freight_wagon.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for eastbrook_freight_wagon, a freight wagon. Square painted edge to edge. One complete simple empty wooden cargo wagon with four chunky iron-rimmed wheels and a short tow pole, viewed from three quarters, centered against a dark slate-blue painted background. Bold clean silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, animal, cargo, photorealism, or designs copied from other games.",
+      "sha256": "0f81262cf91b366ffba16b52fcb18e71e72236f9bbe95a987a9dd2ffa48e2336",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/eastbrook_freight_wagon.webp",
+        "sha256": "dcf4f4ba8b37dc16eec51c504415f793b92e2409e0e75591629d692d646f5f91",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "mere_ferry_lantern",
+      "file": "docs/design/whetstorm-art/items/mere_ferry_lantern.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm inventory item painting for mere_ferry_lantern, a ferry lantern. Square painted edge to edge. One complete practical old brass ferry lantern with broad glass panes, a stout handle and warm candle light within, centered on dark slate-blue painted background. Bold clean silhouette, warm upper-left light, lush stylized fantasy, hand-painted broad forms, restrained detail readable at 32 pixels. No border, text, letters, logo, watermark, person, extra objects, photorealism, or designs copied from other games.",
+      "sha256": "206290977c448bbf619ce94e35c50445ab93ccc82d32b5c28bab6b10672d2d85",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mere_ferry_lantern.webp",
+        "sha256": "e7cb4c261cb1f545d99542c0c8d432f5f11b4181e146c7affcfa189d12cb29d4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

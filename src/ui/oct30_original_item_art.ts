@@ -17,6 +17,10 @@ const OCT30_ORIGINAL_ITEMS = new Map<string, string>([
   ['vigil_star_chart', '/ui/whetstorm/items/vigil_star_chart.webp'],
   ['sunken_offering_bowl', '/ui/whetstorm/items/sunken_offering_bowl.webp'],
   ['hollow_sealstone', '/ui/whetstorm/items/hollow_sealstone.webp'],
+  ['ps_ferry_bell', '/ui/whetstorm/items/ps_ferry_bell.webp'],
+  ['eastbrook_freight_crate', '/ui/whetstorm/items/eastbrook_freight_crate.webp'],
+  ['eastbrook_freight_wagon', '/ui/whetstorm/items/eastbrook_freight_wagon.webp'],
+  ['mere_ferry_lantern', '/ui/whetstorm/items/mere_ferry_lantern.webp'],
 ]);
 
 export function oct30OriginalItemImageUrl(id: string): string | null {

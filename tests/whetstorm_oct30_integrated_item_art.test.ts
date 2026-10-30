@@ -21,6 +21,10 @@ const ids = [
   'vigil_star_chart',
   'sunken_offering_bowl',
   'hollow_sealstone',
+  'ps_ferry_bell',
+  'eastbrook_freight_crate',
+  'eastbrook_freight_wagon',
+  'mere_ferry_lantern',
 ];
 const manifests = [
   'wildheart-weapon-original-generation',
@@ -28,6 +32,7 @@ const manifests = [
   'material-forgefather-oct30-generation',
   'accessory-held-oct30-generation',
   'quest-objects-oct30-generation',
+  'quest-batch-freight-generation',
 ];
 const hash = (path: string) => createHash('sha256').update(readFileSync(path)).digest('hex');
 
