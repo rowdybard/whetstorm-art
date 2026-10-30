@@ -248,7 +248,7 @@ export class WorldQuestConfectionWindow {
     })) {
       this.root.style.setProperty(property, `url(${JSON.stringify(apiUrl(path))})`);
     }
-    const url = apiUrl('/ui/minigames/confection-candies.webp');
+    const url = apiUrl('/ui/whetstorm/minigames/confection-candies.webp');
     this.root.style.setProperty('--wqm-candy-atlas', `url(${JSON.stringify(url)})`);
     if (this.artReady) this.root.dataset.candyArt = 'ready';
     if (this.art) return;

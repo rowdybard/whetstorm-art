@@ -92,6 +92,11 @@ pictograms based on emote names, without image references. Their provenance is
 described in `docs/whetstorm/emote-icon-provenance.md`; this does not establish
 the rights for the earlier emote bitmaps.
 
+The Confection Cascade candy atlas under `public/ui/whetstorm/minigames/` is
+original vector artwork made for this fork without image references. Its source,
+processing and hashes are recorded in `docs/whetstorm/confection-candy-atlas.md`.
+The earlier atlas retains its historical attribution.
+
 The silver-, gold-, and prismatic-tier Fiesta augment icons under
 `public/ui/whetstorm/fiesta/augments/` are original hand-authored SVGs based on
 the live augment mechanics. Paths and hashes are recorded in the

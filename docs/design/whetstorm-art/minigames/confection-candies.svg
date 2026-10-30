@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024">
+  <defs>
+    <linearGradient id="berry" x2=".8" y2="1"><stop stop-color="#ffb6c5"/><stop offset=".45" stop-color="#e83160"/><stop offset="1" stop-color="#701034"/></linearGradient>
+    <linearGradient id="citrus" x2=".8" y2="1"><stop stop-color="#fff3a6"/><stop offset=".48" stop-color="#ffb52b"/><stop offset="1" stop-color="#9c4609"/></linearGradient>
+    <linearGradient id="mint" x2=".8" y2="1"><stop stop-color="#e0fff1"/><stop offset=".48" stop-color="#48d6a3"/><stop offset="1" stop-color="#087b61"/></linearGradient>
+    <linearGradient id="grape" x2=".8" y2="1"><stop stop-color="#edd4ff"/><stop offset=".48" stop-color="#a665df"/><stop offset="1" stop-color="#4d207f"/></linearGradient>
+    <linearGradient id="blue" x2=".8" y2="1"><stop stop-color="#d2f8ff"/><stop offset=".48" stop-color="#40bce9"/><stop offset="1" stop-color="#155383"/></linearGradient>
+  </defs>
+  <rect width="1536" height="1024" fill="#000"/>
+  <g transform="translate(290 288)">
+    <path d="M0 -170 Q12 -170 22 -160 L159 -22 Q170 -11 170 0 Q170 11 159 22 L22 159 Q11 170 0 170 Q-11 170 -22 159 L-159 22 Q-170 11 -170 0 Q-170 -11 -159 -22 L-22 -160 Q-12 -170 0 -170Z" fill="url(#berry)" stroke="#f57e9a" stroke-width="9"/>
+    <path d="M-118 -22 L0 -139 L118 -22 L0 97Z" fill="none" stroke="#ffd5dc" stroke-opacity=".5" stroke-width="8"/>
+    <path d="M-86 -45 Q-48 -105 -7 -118" fill="none" stroke="#fff" stroke-opacity=".75" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(768 278)">
+    <circle r="168" fill="url(#citrus)" stroke="#ffda72" stroke-width="9"/>
+    <circle r="126" fill="none" stroke="#fff5be" stroke-opacity=".62" stroke-width="9"/>
+    <path d="M0 -117 V117 M-101 -58 L101 58 M-101 58 L101 -58" stroke="#fff4bc" stroke-opacity=".55" stroke-width="8"/>
+    <path d="M-103 -73 Q-72 -126 -24 -132" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(1234 272)">
+    <path d="M0 -165 Q12 -165 21 -150 L163 100 Q178 127 148 134 L-148 134 Q-178 127 -163 100 L-21 -150 Q-12 -165 0 -165Z" fill="url(#mint)" stroke="#a8f5d6" stroke-width="9"/>
+    <path d="M0 -113 L117 94 H-117Z" fill="none" stroke="#e5fff5" stroke-opacity=".58" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M-91 62 L-30 -51" fill="none" stroke="#fff" stroke-opacity=".75" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(290 744)">
+    <rect x="-150" y="-150" width="300" height="300" rx="42" fill="url(#grape)" stroke="#d4a4fa" stroke-width="9"/>
+    <rect x="-112" y="-112" width="224" height="224" rx="24" fill="none" stroke="#f4ddff" stroke-opacity=".55" stroke-width="8"/>
+    <path d="M-94 -52 V-83 Q-94 -94 -82 -94 H-35" fill="none" stroke="#fff" stroke-opacity=".75" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(768 721)">
+    <path d="M0 -170 L49 -68 L161 -53 L80 26 L101 141 L0 87 L-101 141 L-80 26 L-161 -53 L-49 -68Z" fill="url(#blue)" stroke="#99e5fc" stroke-width="9" stroke-linejoin="round"/>
+    <path d="M0 -117 L34 -45 L113 -34 L56 21 L70 99 L0 61 L-70 99 L-56 21 L-113 -34 L-34 -45Z" fill="none" stroke="#ddfaff" stroke-opacity=".6" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M-78 -38 L-34 -43 L-12 -90" fill="none" stroke="#fff" stroke-opacity=".8" stroke-width="12" stroke-linecap="round"/>
+  </g>
+</svg>
