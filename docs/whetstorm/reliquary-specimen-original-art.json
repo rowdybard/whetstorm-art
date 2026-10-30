@@ -1,0 +1,12 @@
+{
+  "author": "Codex",
+  "method": "Original hand-authored SVG geometry depicting a preserved botanical specimen. No reference images or inherited artwork used.",
+  "review": "See reliquary-specimen-original-review.png for 16, 32 and 48 pixel renders on light and dark backgrounds.",
+  "records": [
+    {
+      "id": "gather_event:perfect_specimen",
+      "path": "public/ui/whetstorm/reliquary/perfect_specimen.svg",
+      "sha256": "bcdcd84c63431e2b674b5124844dd2a48bccac5d9a36518da9aee772b10b258f"
+    }
+  ]
+}

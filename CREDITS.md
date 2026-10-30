@@ -62,6 +62,12 @@ are original hand-authored SVGs based on the gameplay mechanics. Their paths
 and hashes are recorded in `docs/whetstorm/delve-affix-original-art.json`;
 the historical Delve art records below retain their restrictions.
 
+The Reliquary Perfect Specimen icon at
+`public/ui/whetstorm/reliquary/perfect_specimen.svg` is original hand-authored
+art. Its hash and provenance are recorded in
+`docs/whetstorm/reliquary-specimen-original-art.json`; the historical specimen
+art record below retains its restrictions.
+
 The silver-, gold-, and prismatic-tier Fiesta augment icons under
 `public/ui/whetstorm/fiesta/augments/` are original hand-authored SVGs based on
 the live augment mechanics. Paths and hashes are recorded in the

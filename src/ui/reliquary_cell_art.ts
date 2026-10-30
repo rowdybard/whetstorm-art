@@ -73,7 +73,7 @@ const CRAFT_IMAGE_PREFIX = 'prof_';
 const GATHER_IMAGE_PREFIX = 'gather_';
 
 /** Dedicated painted corpse-harvest specimen trophy. */
-export const RELIQUARY_PERFECT_SPECIMEN_IMAGE_URL = '/ui/reliquary/perfect_specimen.webp';
+export const RELIQUARY_PERFECT_SPECIMEN_IMAGE_URL = '/ui/whetstorm/reliquary/perfect_specimen.svg';
 
 /** Marker id carried by the specimen's decode-failure fallback. */
 export const RELIQUARY_SPECIMEN_GLYPH_ID = 'woc-specimen-glyph';
