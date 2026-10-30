@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "prog_callused_hands",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG achievement crest. Subject: work-worn leather work gloves beside small artisan tools, representing a novice's first trade. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, strong distinctive silhouette readable at 32 pixels, warm forge light. No text, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_callused_hands.png",
+      "masterSha256": "eb561a09a71216e1c843326632e515f09082f237034b9fb8444794d264aaa7c0",
+      "shipping": "public/ui/whetstorm/deeds/prog_callused_hands.webp",
+      "shippingSha256": "1421970ba5260e9714205eb82df99da9e69f9a5b3884841bd5f07295b7801321",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_tools_of_the_trade",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG achievement crest. Subject: hammer, tongs and chisel laid across a wooden crafting bench, representing a first craft at a station. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, strong distinctive silhouette readable at 32 pixels, warm forge light. No text, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_tools_of_the_trade.png",
+      "masterSha256": "b75e39e12b0953b2ff4ccc2fbf7c55127cda2b009a771115aba06e82a448458e",
+      "shipping": "public/ui/whetstorm/deeds/prog_tools_of_the_trade.webp",
+      "shippingSha256": "a7d6fcd605e21cbd7a4abe1e8613abaa3edc32651e1eaf11b3a19be2e5f46c05",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_guildsworn",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG achievement crest. Subject: two distinct small artisan tools crossed over a tied parchment, representing the joining of two crafting trades. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, strong distinctive silhouette readable at 32 pixels, warm forge light. No text, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_guildsworn.png",
+      "masterSha256": "692d62ce671265a4a0a370fe457e7a57c491e06897b08469302629b184899f79",
+      "shipping": "public/ui/whetstorm/deeds/prog_guildsworn.webp",
+      "shippingSha256": "ccef25454066c3b72fbd1ae46e1ead849887bbb4a95ba1e07072bfba53c3459d",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_masterwright",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG achievement crest. Subject: a finely crafted steel breastplate with a small glowing golden maker's mark above a forge anvil, representing a first masterwork. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, strong distinctive silhouette readable at 32 pixels, warm forge light. No text, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_masterwright.png",
+      "masterSha256": "41e11271493b9b6f84bc86afae6ed83367119bb2085e422297c3fad67a937287",
+      "shipping": "public/ui/whetstorm/deeds/prog_masterwright.webp",
+      "shippingSha256": "5cc992fe9459fbe59d2310551424a951321e0abac2ba2554cd6ae4d997c417ef",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    }
+  ]
+}
