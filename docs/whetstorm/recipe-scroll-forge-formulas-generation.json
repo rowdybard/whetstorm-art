@@ -1,0 +1,108 @@
+{
+  "assets": [
+    {
+      "itemId": "formula_riftwalkers_grace",
+      "file": "docs/design/whetstorm-art/items/formula_riftwalkers_grace.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square hand-painted fantasy inventory icon: weathered parchment scroll partly unrolled, bearing a simple painted illustration of a small sword surrounded by a violet rift glow, identifying riftwalker's grace. Complete centered scroll, safe margins, warm light, dark umber background. No writing, text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "ebeaffcba57bfb9f1f864de2cfa72f2127cb5a1c036c02fa0d53d0bac33a7064",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/formula_riftwalkers_grace.webp",
+        "sha256": "b40b0bac2594b7223e1e18357612928ca0db1714041d04b79806e562389ed1e7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4034
+      }
+    },
+    {
+      "itemId": "formula_lastflame_zeal",
+      "file": "docs/design/whetstorm-art/items/formula_lastflame_zeal.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square hand-painted fantasy inventory icon: weathered parchment scroll partly unrolled, bearing a simple painted illustration of a small sword surrounded by red orange flame, identifying last flame's zeal. Complete centered scroll, safe margins, warm light, dark umber background. No writing, text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "48d28259174f93d853953c1bba4545430acef7c8185bf69c1ffbbcc6714a7a2b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/formula_lastflame_zeal.webp",
+        "sha256": "9268b113f4c70e57dfc8c5b5867c1006007b1e8439a0a1975c137710e9ebeb86",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4132
+      }
+    },
+    {
+      "itemId": "pattern_masters_field_forge",
+      "file": "docs/design/whetstorm-art/items/pattern_masters_field_forge.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square hand-painted fantasy inventory icon: weathered parchment scroll partly unrolled, bearing a simple painted illustration of a compact portable iron forge with glowing coals and a tiny anvil, identifying master's field forge. Complete centered scroll, safe margins, warm light, dark umber background. No writing, text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "9521462676307a7df1fcbefee57f9347936a8d8bc65120773ba3ae035b4d1bae",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_masters_field_forge.webp",
+        "sha256": "0c273359c9da197bb400d696c0135417d613d69ed0886f0bd3f4968dedf81ed9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4490
+      }
+    },
+    {
+      "itemId": "pattern_makers_charm",
+      "file": "docs/design/whetstorm-art/items/pattern_makers_charm.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square hand-painted fantasy inventory icon: weathered parchment scroll partly unrolled, bearing a simple painted illustration of a bronze artisan charm with a miniature hammer emblem, identifying maker's charm. Complete centered scroll, safe margins, warm light, dark umber background. No writing, text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "3756a33606e2f417011f1ad05b23daa295742b8b70e1107f62deea2f4dd134bd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_makers_charm.webp",
+        "sha256": "82053effe50bf889e1f7bb66a3c68812f4a16376119f0ceb950d2b6d8d727c51",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4120
+      }
+    }
+  ]
+}

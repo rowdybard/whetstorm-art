@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "ashveil_chest",
+      "file": "docs/design/whetstorm-art/items/ashveil_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete Ashveil Tunic: ash-gray leather chest vest with layered dark violet leather panels and subtle ember-colored stitching, no metal, empty neck and arm openings, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "db8e528031b1cd3e1bb386e413652f9b07bf3922ca72f2df070225cc285c7d8d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ashveil_chest.webp",
+        "sha256": "9033970c2f4d39a665191ec918e0708475c1be93c08c7e0d8e04958e3c6ed564",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "ashveil_gloves",
+      "file": "docs/design/whetstorm-art/items/ashveil_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete pair of Ashveil Grips: ash-gray leather gloves with layered dark violet leather panels and subtle ember-colored stitching, no metal, both gloves centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "6fec41bf0d945297e00663bb2394124b302d8a68caefd4553c60dfc9947caf81",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ashveil_gloves.webp",
+        "sha256": "6e8a9cb08c98e0de9eafd1983db3410a1aa51765e051cafe6e65d1bf1d322db7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "ashveil_legs",
+      "file": "docs/design/whetstorm-art/items/ashveil_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete pair of Ashveil Breeches: ash-gray leather pants from waist to ankle with two separate legs, layered dark violet leather panels and subtle ember-colored stitching, no metal or feet, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "e98797c49470e8df33a57aee113e0556e2c16ae61260565d6743c971f5ce8572",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ashveil_legs.webp",
+        "sha256": "a2ec0de9b62bbbe66b8f24f04aa536f655edb60b3cfc3179edf5523466b924cd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "emberscreed_helmet",
+      "file": "docs/design/whetstorm-art/items/emberscreed_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete Creed of Embers Hood: a soft dark charcoal woven cloth hood with dark red fabric trim and subtle orange embroidered ember motifs, no metal or leather, empty opening, centered with space. No face, person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "b64b40c7cd9f3c16dedd76b6f94d17b46ef0d806dc0e8dd1d15633669dd8b628",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberscreed_helmet.webp",
+        "sha256": "31b60779b064387dafd9064c4b5f87c9f214c5b4ee3f25dc8a9791fb64fe7bc9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

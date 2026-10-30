@@ -169,6 +169,7 @@ import { mountReinsHeroicItemImageUrl } from './mount_reins_heroic_item_art';
 import { mountReinsRemainingItemImageUrl } from './mount_reins_remaining_item_art';
 import { mournweaveArmorItemImageUrl } from './mournweave_armor_item_art';
 import { oathpyreArmorItemImageUrl } from './oathpyre_armor_item_art';
+import { oct30EighteenthOriginalItemImageUrl } from './oct30_eighteenth_original_item_art';
 import { oct30EighthArmorItemImageUrl } from './oct30_eighth_armor_item_art';
 import { oct30EleventhOriginalItemImageUrl } from './oct30_eleventh_original_item_art';
 import { oct30FifteenthOriginalItemImageUrl } from './oct30_fifteenth_original_item_art';
@@ -271,6 +272,7 @@ export function paintedItemImageUrl(id: string): string | null {
     recipeScrollBatchItemImageUrl(id) ??
     recipeScrollProvisionsItemImageUrl(id) ??
     recipeScrollFishStationsItemImageUrl(id) ??
+    oct30EighteenthOriginalItemImageUrl(id) ??
     oct30SeventeenthOriginalItemImageUrl(id) ??
     oct30SixteenthOriginalItemImageUrl(id) ??
     oct30FifteenthOriginalItemImageUrl(id) ??
