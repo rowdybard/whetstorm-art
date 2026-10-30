@@ -1,0 +1,108 @@
+{
+  "assets": [
+    {
+      "itemId": "pattern_peppered_deepbarb_catfish",
+      "file": "docs/design/whetstorm-art/items/pattern_peppered_deepbarb_catfish.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: a single weathered parchment recipe scroll partly unrolled with a cord, on the parchment a clear painted diagram of one cooked catfish with whiskers, flecked with black pepper. No writing. Complete centered silhouette with safe margins; warm top-left light, deep cool shadows, dark umber vignette, tactile materials, premium hand-painted dark fantasy. No border, frame, watermark, collage or text.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "5b4822876a683e60ff489f1c3e92884ec137b3fa532830b6bc1fa1c959ac2d04",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_peppered_deepbarb_catfish.webp",
+        "sha256": "9817f9083b42fd7182dc6c1199acdaa3c3fae8d286a9020082ec942b3da62d01",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4260
+      }
+    },
+    {
+      "itemId": "pattern_roast_hollowgill_sturgeon",
+      "file": "docs/design/whetstorm-art/items/pattern_roast_hollowgill_sturgeon.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: a single weathered parchment recipe scroll partly unrolled with a cord, on the parchment a clear painted diagram of one roasted sturgeon with a long pointed snout and armored ridges. No writing. Complete centered silhouette with safe margins; warm top-left light, deep cool shadows, dark umber vignette, tactile materials, premium hand-painted dark fantasy. No border, frame, watermark, collage or text.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "7ba368a4889ecdd19b7182f56845dc9296bc89e07a6fa9834ad7c0ed31d3442d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_roast_hollowgill_sturgeon.webp",
+        "sha256": "09aefbc11325b20968988c55814b7efcf2b6c640f2f24de6714134190809606c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4238
+      }
+    },
+    {
+      "itemId": "pattern_grand_cauldron",
+      "file": "docs/design/whetstorm-art/items/pattern_grand_cauldron.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: a single weathered parchment recipe scroll partly unrolled with a cord, on the parchment a clear painted diagram of a large alchemist's cauldron with a contained blue-green potion. No writing. Complete centered silhouette with safe margins; warm top-left light, deep cool shadows, dark umber vignette, tactile materials, premium hand-painted dark fantasy. No border, frame, watermark, collage or text.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "0da46de8ab2f992e6b24b90ee35ef4ad82b03a212c97ea4638e279b68b683b7e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_grand_cauldron.webp",
+        "sha256": "45900c3e5904fddca0037bffa0a8f1ab129d9551b50c631a115cdc388b6367d9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4108
+      }
+    },
+    {
+      "itemId": "pattern_laden_hearth",
+      "file": "docs/design/whetstorm-art/items/pattern_laden_hearth.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: a single weathered parchment recipe scroll partly unrolled with a cord, on the parchment a clear painted diagram of a compact stone cooking hearth with a pot over glowing embers. No writing. Complete centered silhouette with safe margins; warm top-left light, deep cool shadows, dark umber vignette, tactile materials, premium hand-painted dark fantasy. No border, frame, watermark, collage or text.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "3f11e985504e9f286ed785d8fc6876b5274b093d0a590405281f651f44f8b770",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_laden_hearth.webp",
+        "sha256": "a2c98ec8fbac7e7b811b116b8385417b8033c016f507002b13ee8c3bd2e6c461",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4176
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "mawscale_pauldrons",
+      "file": "docs/design/whetstorm-art/items/mawscale_pauldrons.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, broad shapes readable at 32 pixels. One complete pair of Mawscale Pauldrons: cloth shoulder wraps in deep rusty red fabric, layered folded panels with small scale-shaped stitched patterns in ochre thread, no metal or leather. Both shoulder pieces centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "7c5689feafec83b062939d964b795145f78e18e022646bfbfb9231f3c6a8bea1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mawscale_pauldrons.webp",
+        "sha256": "5c8ea09c86831243750a042df7949c6c16427e49dbf0b14a7696d74826cae778",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "fountain_court_mantle",
+      "file": "docs/design/whetstorm-art/items/fountain_court_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, broad shapes readable at 32 pixels. One complete Mantle of the Fountain Court: soft ivory and pale aqua woven cloth shoulder wraps with flowing folds and delicate water-drop embroidery, no metal or leather. Both shoulder pieces centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "897cd36ac0cd05048b1cf37fc5782f858b4117ac181ad2d1dd51c1c135ef1c61",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fountain_court_mantle.webp",
+        "sha256": "cd87611202533825fb2398632ee1a22c736aa6be36e1b08ba18cc59f02936efe",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "mantle_of_the_unbroken_shore",
+      "file": "docs/design/whetstorm-art/items/mantle_of_the_unbroken_shore.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, broad shapes readable at 32 pixels. One complete Mantle of the Unbroken Shore: sand-colored cloth shoulder wraps with layered woven folds, dark teal stitched wave edging and subtle cord ties, no metal or leather. Both shoulder pieces centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "d668f2edb86decee624755843ae01f2606b29225ef19bb6d01fe6711f3827251",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mantle_of_the_unbroken_shore.webp",
+        "sha256": "02df1fb9bb16a8a1153dc3b2f3b070cc7f717eda9ac7389aaef87bd02ea1f090",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "wreck_wardens_mantle",
+      "file": "docs/design/whetstorm-art/items/wreck_wardens_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, broad shapes readable at 32 pixels. One complete Mantle of the Wreck Warden: weathered deep sea-blue woven cloth shoulder wraps with pale rope-like embroidery and modest frayed edges, no metal or leather. Both shoulder pieces centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "3794ff978b7e881f2403def833c7d98280423207a71f450245dd5a607e502f93",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wreck_wardens_mantle.webp",
+        "sha256": "918db7b45bc009d930cf8c8dc7d3bccb251293efc953521c863c56eb1da965d8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

@@ -180,6 +180,7 @@ import { oct30SeventhOriginalItemImageUrl } from './oct30_seventh_original_item_
 import { oct30SixthOriginalItemImageUrl } from './oct30_sixth_original_item_art';
 import { oct30TenthOriginalItemImageUrl } from './oct30_tenth_original_item_art';
 import { oct30ThirdOriginalItemImageUrl } from './oct30_third_original_item_art';
+import { oct30TwelfthOriginalItemImageUrl } from './oct30_twelfth_original_item_art';
 import { osmiumGlyphsteelItemImageUrl } from './osmium_glyphsteel_item_art';
 import { packlordArmorItemImageUrl } from './packlord_armor_item_art';
 import { plateRoadwardItemImageUrl } from './plate_roadward_item_art';
@@ -210,6 +211,7 @@ import { razorEmberglassItemImageUrl } from './razor_emberglass_item_art';
 import { realmQuestDropItemImageUrl } from './realm_quest_drop_art';
 import { realmQuestWeaponsItemImageUrl } from './realm_quest_weapons_item_art';
 import { recipeScrollBatchItemImageUrl } from './recipe_scroll_batch_item_art';
+import { recipeScrollFishStationsItemImageUrl } from './recipe_scroll_fish_stations_item_art';
 import { recipeScrollProvisionsItemImageUrl } from './recipe_scroll_provisions_item_art';
 import { regionalClothRewardsItemImageUrl } from './regional_cloth_rewards_item_art';
 import { resonantMaterialItemImageUrl } from './resonant_material_item_art';
@@ -263,6 +265,8 @@ export function paintedItemImageUrl(id: string): string | null {
   return (
     recipeScrollBatchItemImageUrl(id) ??
     recipeScrollProvisionsItemImageUrl(id) ??
+    recipeScrollFishStationsItemImageUrl(id) ??
+    oct30TwelfthOriginalItemImageUrl(id) ??
     oct30EleventhOriginalItemImageUrl(id) ??
     oct30TenthOriginalItemImageUrl(id) ??
     oct30NinthOriginalItemImageUrl(id) ??
