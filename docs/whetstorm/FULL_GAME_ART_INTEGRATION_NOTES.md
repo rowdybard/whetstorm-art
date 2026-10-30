@@ -59,3 +59,24 @@ candidate and verify the new texture there.
 The later `whetstorm_flame_6x6.webp` atlas was also added after that partial
 manifest was generated. The complete candidate must regenerate the manifest for
 both textures and verify all VFX consumers in the built package.
+
+Later art-branch changes also replace direct UI art paths. The weekly quest
+scenes, medals and emissary portrait require the updated
+`src/ui/weekly_quests_view.ts` and the `ui/whetstorm/weekly` assets together;
+the same view's cache icon now uses the item icon resolver. The Ley and
+Confection puzzle replacements require their updated window modules and all
+referenced `ui/whetstorm/minigames` images, including the separately authored
+candy atlas. The weekly vault changes require both
+`src/ui/weekly_rewards_window.ts` and
+`src/ui/weekly_reward_claim_controller.ts`, plus their replacement SVGs.
+Reconcile the world-quest and generic leaderboard CSS medal URLs and their
+view modules as a unit. These changes span multiple art commits; applying only
+the latest commit will not carry the complete dependency set.
+
+The media-manifest generator scans models, textures, environment and VFX,
+not `public/ui`. UI art still needs to be copied and exercised in a full build,
+but does not require an entry in that generated media manifest. A later map
+bake created untracked map plates and `src/ui/map_bg_manifest.generated.ts`
+in the partial art worktree; the full reference already tracks its own plates
+and manifest. Do not transplant the partial bake without validating freshness
+against the complete candidate's simulation and build.

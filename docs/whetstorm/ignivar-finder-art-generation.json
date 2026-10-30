@@ -1,0 +1,20 @@
+{
+  "source": "OpenAI built-in image generation",
+  "externalReferenceImages": [],
+  "id": "ignivar_herald_of_the_last_flame",
+  "prompt": "Original fantasy game dungeon finder boss portrait, square. An imposing fire elemental lord with a broad rugged body of dark volcanic rock, a single intensely glowing molten core and ember fissures. Close upper-body portrait facing the viewer on a deep charcoal background, bold readable silhouette and warm amber lighting. Hand-painted stylized fantasy illustration, no border, lettering, symbols, logos or watermark; do not copy existing game artwork.",
+  "masterPath": "docs/design/whetstorm-art/encounters/ignivar-finder.png",
+  "masterSha256": "029de28f9af0ba298866e62b9932b463f1ee4b6a56212d61827b71f20bc2bc8c",
+  "masterDimensions": [
+    1254,
+    1254
+  ],
+  "deliveryPath": "public/ui/whetstorm/encounters/ignivar-finder.webp",
+  "deliverySha256": "824ede7491956269389643cb40ded0187d304c08c572272aa4f2b41d54807906",
+  "deliveryDimensions": [
+    128,
+    128
+  ],
+  "processing": "Lanczos resize; Pillow WebP quality 84, method 6",
+  "review": "Original illustration interpreting the elemental boss; visual identity versus the 3D model and in-game display require review."
+}

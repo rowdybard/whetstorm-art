@@ -44,6 +44,16 @@ export type FinderTab = 'catalogue' | 'queue' | 'board' | 'vault';
 // Directory of the prerendered boss portrait stills (WebP, fixed 128x128).
 export const FINDER_PORTRAIT_DIR = '/ui/dungeons';
 
+export function finderPortraitUrl(mobId: string): string {
+  if (mobId === 'ignivar_herald_of_the_last_flame') {
+    return '/ui/whetstorm/encounters/ignivar-finder.webp';
+  }
+  if (mobId === 'morthen' || mobId === 'vael_the_mistcaller' || mobId === 'ysolei') {
+    return `/ui/whetstorm/encounters/finder-${mobId}.webp`;
+  }
+  return `${FINDER_PORTRAIT_DIR}/${mobId}.webp`;
+}
+
 export type FinderBlockReason = 'level' | 'spec' | null;
 
 export interface FinderActivityRowView {
@@ -311,7 +321,7 @@ function buildEncounters(activity: FinderActivity): FinderEncounterViewModel[] {
       final: enc.final === true,
       summoned: enc.summoned === true,
       mechanics: [...enc.mechanics],
-      portraitUrl: `${FINDER_PORTRAIT_DIR}/${enc.mobId}.webp`,
+      portraitUrl: finderPortraitUrl(enc.mobId),
       copper,
       groups,
       singles,
@@ -384,7 +394,7 @@ export function buildDungeonFinderView(input: DungeonFinderViewInput): DungeonFi
     const blocked = blockReasonFor(a, level, specRole);
     const finalEnc = a.encounters.find((e) => e.final) ?? a.encounters[a.encounters.length - 1];
     return {
-      portraitUrl: `${FINDER_PORTRAIT_DIR}/${finalEnc.mobId}.webp`,
+      portraitUrl: finderPortraitUrl(finalEnc.mobId),
       id: a.id,
       dungeonId: a.dungeonId,
       difficulty: a.difficulty,

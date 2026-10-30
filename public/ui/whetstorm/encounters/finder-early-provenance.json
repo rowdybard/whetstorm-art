@@ -1,0 +1,47 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "morthen",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder boss portrait for a dark fantasy game, readable at 128px. Create a gaunt undead gravecaller, upper body and head, weathered bone face beneath a tattered charcoal hood, muted violet necromantic glow and ancient crypt stones behind. Distinct original design, painterly high-detail game illustration, centered close-up, dramatic silhouette and lighting. No text, letters, logos, border, watermark or interface.",
+      "path": "public/ui/whetstorm/encounters/finder-morthen.webp",
+      "sha256": "3c9780d945442ba04acede327df8c969f17c2b62f7d6fae4d65adf6b29949e33",
+      "bytes": 6004,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-morthen.png",
+        "sha256": "d211c008166a27af16d731f1208df41d414e50c20895361c1d9b100d0faca2af",
+        "bytes": 2739389
+      }
+    },
+    {
+      "id": "vael_the_mistcaller",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder boss portrait for a dark fantasy game, readable at 128px. Create a human male fogbinder sorcerer, head and shoulders, wearing weathered deep teal robes, silver hair, stern face, with swirling pale mist and a flooded ruined bastion behind him. Distinct original design, painterly high-detail game illustration, centered close-up, dramatic silhouette and lighting. No text, letters, logos, border, watermark or interface.",
+      "path": "public/ui/whetstorm/encounters/finder-vael_the_mistcaller.webp",
+      "sha256": "e688bd2541203d9151ca05e1790ba6405c255e86591d1b71b3bb72abfa444e53",
+      "bytes": 5384,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-vael_the_mistcaller.png",
+        "sha256": "d796eb03e93ca0ede4873c47b504f67a6962b60be04e7b9ea2da548a66936bed",
+        "bytes": 2813008
+      }
+    },
+    {
+      "id": "ysolei",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder boss portrait for a dark fantasy game, readable at 128px. Create a dragonkin avatar of a drowned moon: a majestic aquatic dragon head and shoulders with pearlescent silver-blue scales, swept-back fins and a luminous crescent moon reflected in water behind, inside a submerged temple. Distinct original design, painterly high-detail game illustration, centered close-up, dramatic silhouette and moonlit teal lighting. No text, letters, logos, border, watermark or interface.",
+      "path": "public/ui/whetstorm/encounters/finder-ysolei.webp",
+      "sha256": "ae9540e921f6d531f66803b625de37f849cdcaad87372987ae610dcd668d45e1",
+      "bytes": 6382,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-ysolei.png",
+        "sha256": "a154cf49dc0c5d6593ee23b161c56dd4b2d95a946068768c5387f2aacbc1712a",
+        "bytes": 3251198
+      }
+    }
+  ]
+}

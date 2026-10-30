@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "soc_steady_custom",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG achievement crest. Subject: a modest stack of gold coins beside a small merchant's cloth pouch, symbolizing steady sales. Centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, strong distinctive silhouette readable at 32 pixels, warm light. No text, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/soc_steady_custom.png",
+      "masterSha256": "d59a161a67079ce8993a0a68b51241866620ae67a822e3de63c77a432a16188b",
+      "shipping": "public/ui/whetstorm/deeds/soc_steady_custom.webp",
+      "shippingSha256": "030a5822d88d959a975871cd0e4902d4582dc9661a55ce40a62b2ace1a447e75",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "soc_market_magnate",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG achievement crest. Subject: a large overflowing treasure chest of golden coins with a merchant's balance scale, symbolizing market wealth. Centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, strong distinctive silhouette readable at 32 pixels, warm light. No text, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/soc_market_magnate.png",
+      "masterSha256": "001364de34229e34e46638cb4aa571049199dd5413e7a2c4714c63d0276157aa",
+      "shipping": "public/ui/whetstorm/deeds/soc_market_magnate.webp",
+      "shippingSha256": "f46809236f2d2b269a335408185cb9b6d13444c92abb9d394087c18df2b8f170",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "soc_by_ravens_wing",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG achievement crest. Subject: a black raven carrying a small wax-sealed parcel in its talons, symbolizing a delivered gift. Centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, strong distinctive silhouette readable at 32 pixels, warm light. No text, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/soc_by_ravens_wing.png",
+      "masterSha256": "cf6301727b39604d07faf75749529e574bb0e06a7048ba6b7e4bc85d6a7a683f",
+      "shipping": "public/ui/whetstorm/deeds/soc_by_ravens_wing.webp",
+      "shippingSha256": "29c590522c9110ff9cc22c502542c4090071f3f29c6a6c95fca5f325109778cb",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "soc_salvage_50",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG achievement crest. Subject: a worn steel gauntlet being dismantled beside a small hammer and recovered metal pieces, symbolizing repeated salvage. Centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, strong distinctive silhouette readable at 32 pixels, warm light. No text, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/soc_salvage_50.png",
+      "masterSha256": "5878b6fff13d9ad5f69af42e5221ffad3ca56d01e70b51133ac8204bdb767f0e",
+      "shipping": "public/ui/whetstorm/deeds/soc_salvage_50.webp",
+      "shippingSha256": "a8e4bcfde3939aefc8cf4429b1fd8765fd2cd6cbf16aabf45f05e7afbbf24c4b",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    }
+  ]
+}

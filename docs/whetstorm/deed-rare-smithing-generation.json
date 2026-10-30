@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "id": "prog_weaponcrafting_rare",
+      "master": "docs/design/whetstorm-art/deeds/prog_weaponcrafting_rare.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for crafting a first rare weapon: a single newly forged steel sword resting diagonally across a dark anvil, a small hammer beside it, blue-white sparks, enclosed in a simple circular brass medal against a dark warm background. Bold readable silhouette at 32 pixels, richly hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame, or imitation of other games or artists.",
+      "masterSha256": "8f2ef1a2994a4d0bf6b71833235571653df74928d8e0609d0a9ad8fa4064a446",
+      "shipping": "public/ui/whetstorm/deeds/prog_weaponcrafting_rare.webp",
+      "shippingSha256": "284e05c60dc569416b9177b8d3315b72cb1e8638bdb4bb921537218675f74b8a",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "prog_armorcrafting_rare",
+      "master": "docs/design/whetstorm-art/deeds/prog_armorcrafting_rare.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for crafting a first rare armor piece: a single polished steel breastplate with deep blue enamel accents resting upright on a wooden workbench, a small forging hammer beside it, enclosed in a simple circular brass medal against a dark warm forge background. Bold readable silhouette at 32 pixels, richly hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame, or imitation of other games or artists.",
+      "masterSha256": "68bfef23d3fd34747619397e6f9c94a10dfb070b56663457d465e1300cf1f14f",
+      "shipping": "public/ui/whetstorm/deeds/prog_armorcrafting_rare.webp",
+      "shippingSha256": "77e7de871857a05c45b8fbf866a9a5a8209e78bcd5e904c5312671dbe383fe71",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}

@@ -1044,3 +1044,11 @@ The weekly quest scenes, medals, and emissary portrait were created for
 Whetstorm using OpenAI's built-in image generation. Prompts and hashes are in
 `docs/whetstorm/weekly-scenes-generation.json` and
 `docs/whetstorm/weekly-medals-emissary-art.json`.
+
+Original Dungeon Finder encounter portraits and social, commerce, and rare
+smithing deed paintings were created for Whetstorm using OpenAI's built-in
+image generation. Prompts and hashes are recorded in
+`docs/whetstorm/ignivar-finder-art-generation.json`,
+`public/ui/whetstorm/encounters/finder-early-provenance.json`,
+`docs/whetstorm/deed-social-commerce-generation.json`, and
+`docs/whetstorm/deed-rare-smithing-generation.json`.
