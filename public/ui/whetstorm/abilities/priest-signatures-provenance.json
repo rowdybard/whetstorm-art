@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "smite",
+      "path": "public/ui/whetstorm/abilities/smite.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon painting. Smite: a single incandescent golden-white spear of holy light plunging downward through dark storm clouds, radiant impact and sparks. Rich painterly dark fantasy, high contrast, bold readable silhouette at 128px, full-bleed square composition, no border, no text, no symbols borrowed from existing games, no watermark.",
+      "sha256": "0641e91dbe24dc119a89324c22fd10fe372f761cb909e310ba1e7c64bfab4ffd",
+      "bytes": 6376,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/smite.png",
+        "sha256": "c58de920bde2f9e64b51159afb0c010d22973b34b0e81931f065d8ced854ff1e",
+        "bytes": 2625453
+      }
+    },
+    {
+      "id": "power_word_shield",
+      "path": "public/ui/whetstorm/abilities/power_word_shield.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon painting. Power Word Shield: luminous translucent golden protective dome with a small stylized human silhouette sheltered inside, radiating concentric light against dark indigo. Rich painterly dark fantasy, high contrast, bold readable silhouette at 128px, full-bleed square composition, no border, no text, no symbols borrowed from existing games, no watermark.",
+      "sha256": "09377b75f4d9a29da776dcd3812bc017fcc0fe06d5ebc77a38a81f905b067ab7",
+      "bytes": 5734,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/power_word_shield.png",
+        "sha256": "30f288c4c994974b6b389705d60c151a80bec4169aa1161e6a20dfcc37053393",
+        "bytes": 2533511
+      }
+    },
+    {
+      "id": "renew",
+      "path": "public/ui/whetstorm/abilities/renew.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon painting. Renew: an open hand cradling a fresh green shoot surrounded by warm restorative golden light and drifting motes, dark forest background. Rich painterly dark fantasy, high contrast, bold readable silhouette at 128px, full-bleed square composition, no border, no text, no symbols borrowed from existing games, no watermark.",
+      "sha256": "8117cba67be79189ee64d650bfba9eab335b3cad9ab9a4050e736fff71303243",
+      "bytes": 5634,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/renew.png",
+        "sha256": "dac7bcc62a68d8900c7beaec64f2659cbd053924fe767edfe30978a9f9c5773f",
+        "bytes": 2301483
+      }
+    },
+    {
+      "id": "mind_blast",
+      "path": "public/ui/whetstorm/abilities/mind_blast.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon painting. Mind Blast: a side profile silhouette of a head struck by a concentrated violet psychic burst with jagged radiating magenta energy, dark near-black background. Rich painterly dark fantasy, high contrast, bold readable silhouette at 128px, full-bleed square composition, no border, no text, no symbols borrowed from existing games, no watermark.",
+      "sha256": "b463dbcce9909e5c41dca19857b4660e6bffe900724b967ea350e72de223e291",
+      "bytes": 5262,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/mind_blast.png",
+        "sha256": "52ca7556f6877cd8fe20bc547a2d00553cf693832e1727a91c6e41298acc264a",
+        "bytes": 2670494
+      }
+    }
+  ]
+}

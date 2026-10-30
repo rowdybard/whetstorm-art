@@ -5,6 +5,24 @@ Checked 2026-10-29 against the clean `D:/whetstorm-deploy` checkout at
 planning inventory, not a release clearance or authorization to buy or generate
 models. The private art branch is a separate partial checkout.
 
+### Art-branch update (2026-10-30)
+
+At art-branch commit `f453ad0db8`, the historical legacy-weapon table below
+no longer describes every active held-model mapping. `marrowpoint`,
+`duskwhisper`, and `courtiers_bonefang` now use `adv_dagger`, and
+`thornpeak_wardblade` uses `adv_sword_1handed`. `gravecourt_hewer` still maps
+to `purple_axe`. The four inscription tomes remain mapped as offhand models.
+These mappings also feed model preloading; heroic variants inherit their base
+item's mapping. See `src/ui/weapon_variants.ts` and
+`src/render/characters/manifest.ts` in the art branch.
+
+`adv_axe_1handed` is a candidate for the remaining axe: the game already uses
+it for other one-handed axes and it follows the existing axe attachment path.
+Before substituting it, verify the exact model's source and embedded assets,
+then test grip and clipping in both hands and all relevant poses. Remapping
+alone does not remove restricted files from a distribution. These observations
+do not change the 56-file historical inventory or establish release clearance.
+
 ### Harbor route marker: free interim candidate
 
 A later read-only inspection found the CC0 KayKit `dungeon/sign_right.glb`
@@ -57,7 +75,7 @@ the retired placeholder list in `docs/claudium-store.md`, and registrations in
 
 ### Known gameplay consumers of legacy models
 
-`src/ui/weapon_variants.ts` maps these five base equipment items to four of
+At the 2026-10-29 snapshot, `src/ui/weapon_variants.ts` mapped these five base equipment items to four of
 the restricted legacy models. The held-model resolver in
 `src/render/characters/manifest.ts` also inherits a base mapping through an
 item's `heroicOf` field; `heroic_duskwhisper` is a documented example.

@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "fireball",
+      "path": "public/ui/whetstorm/abilities/fireball.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: square fantasy MMO ability icon painting. A single blazing fireball hurtles diagonally through darkness, molten orange core and long curling ember trail, bold readable silhouette, painterly textured brushwork, dramatic lighting. No text, no border, no symbols, no watermark.",
+      "sha256": "2df0eb149b0e3a5f22f6a1f04fe39b0888e7192830f594ebe157fa7912aa7e2d",
+      "bytes": 4352,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/fireball.png",
+        "sha256": "2f8e6f990a7315afd058c0d85660d29a96d5abd275b73bdd39390630740e21a4",
+        "bytes": 2062560
+      }
+    },
+    {
+      "id": "frostbolt",
+      "path": "public/ui/whetstorm/abilities/frostbolt.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: square fantasy MMO ability icon painting. A jagged translucent ice spear shoots diagonally through a dark blue winter haze, shards and frozen vapor streaming behind it, bold readable silhouette, painterly textured brushwork, luminous cyan lighting. No text, no border, no symbols, no watermark.",
+      "sha256": "2c9ed0906137bd231b64f509726d9a88c88943353d8aaf3c1fc9fa56a05e6c3a",
+      "bytes": 5446,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/frostbolt.png",
+        "sha256": "78c33c916242dc6119dc625c7a806e1ec499a6536eb5cad452a75a8b644d3ec9",
+        "bytes": 2705981
+      }
+    },
+    {
+      "id": "arcane_missiles",
+      "path": "public/ui/whetstorm/abilities/arcane_missiles.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: square fantasy MMO ability icon painting. Three distinct violet arcane missiles spiral outward from a luminous magical focal point, comet-like energy trails, dark indigo backdrop, bold readable silhouette, painterly textured brushwork, brilliant purple and silver light. No text, no border, no symbols, no watermark.",
+      "sha256": "fe08b92cbfbcf6967ee83c826b13106c3bd2fee8e1cc35cb737e5e51f75e11b0",
+      "bytes": 5284,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/arcane_missiles.png",
+        "sha256": "ef8b0b2e417fe37a5b05fac22807614f0ae1ca3ff4770239ee9834407d7bdace",
+        "bytes": 2608739
+      }
+    },
+    {
+      "id": "blink",
+      "path": "public/ui/whetstorm/abilities/blink.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: square fantasy MMO ability icon painting. A hooded mage silhouette dissolves into blue-violet streaks and reappears a short distance away, conveying instantaneous teleportation, dark atmospheric backdrop, bold readable composition, painterly textured brushwork, luminous magical light. No text, no border, no symbols, no watermark.",
+      "sha256": "60f1f91bec2e3228fdd720d2fd0691577780fcd522cfa35829f6cf64b54fef3b",
+      "bytes": 5676,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/blink.png",
+        "sha256": "c89b067bcb347b7a7064a4b1ce33f2734fe3e8b2d4c3b37e19c17adab39a897c",
+        "bytes": 2583769
+      }
+    }
+  ]
+}

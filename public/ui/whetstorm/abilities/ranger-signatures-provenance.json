@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "measured_shot",
+      "path": "public/ui/whetstorm/abilities/measured_shot.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Square fantasy MMO ability icon for Measured Shot: a single nocked arrow held at full draw in a rugged wooden bow, arrowhead centered on a small distant glint, conveying deliberate precise aim. Premium hand-painted dark fantasy game art, bold simple silhouette readable at 28px, muted forest greens and warm amber light, opaque charcoal backdrop. One icon, no text, frame, watermark, or references to other games.",
+      "sha256": "3a4253a93e3c93c7a3955fa88080c4370327026e8162b574c9cb13c5673e9982",
+      "bytes": 4306,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/measured_shot.png",
+        "sha256": "51606798eba8746ce9e787b4aa21046d98d1ea466c92add7cf0299949052c517",
+        "bytes": 1956911
+      }
+    },
+    {
+      "id": "pack_command",
+      "path": "public/ui/whetstorm/abilities/pack_command.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Square fantasy MMO ability icon for Pack Command: a leather-gloved hand gesturing forward beside the alert profile of a wolf companion, conveying coordinated attack. Premium hand-painted dark fantasy game art, bold simple silhouette readable at 28px, warm ochre and forest green highlights, opaque charcoal backdrop. One icon, no text, frame, watermark, or references to other games.",
+      "sha256": "e60709abe929f10c3997175f119706ded2cd097e8c1c09157803cbc3cead5e32",
+      "bytes": 5484,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/pack_command.png",
+        "sha256": "6b61c3693ed18f846def3d40078301f7e3402a51ded30a0d1f23a2132d2d5395",
+        "bytes": 2451060
+      }
+    },
+    {
+      "id": "frostjaw_trap",
+      "path": "public/ui/whetstorm/abilities/frostjaw_trap.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Square fantasy MMO ability icon for Frostjaw Trap: a single open iron jaw trap coated in sharp blue ice crystals with cold mist curling around its teeth. Premium hand-painted dark fantasy game art, bold simple silhouette readable at 28px, luminous icy blue against opaque charcoal backdrop. One icon, no text, frame, watermark, or references to other games.",
+      "sha256": "29a28cf0a0e4c1f6972ecd1333a534d847791cb07a12abc2ace9228fcd1c709b",
+      "bytes": 5484,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/frostjaw_trap.png",
+        "sha256": "f51accb8b75a10b2d6abe570d3ba0ec4bc59220c26333cda83235b49d88d89a6",
+        "bytes": 2572631
+      }
+    },
+    {
+      "id": "trailbreak",
+      "path": "public/ui/whetstorm/abilities/trailbreak.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Square fantasy MMO ability icon for Trailbreak: a rugged leather boot kicking away from a broken bramble snare, with a sweeping burst of green and amber motion, conveying an evasive escape. Premium hand-painted dark fantasy game art, bold simple silhouette readable at 28px, opaque charcoal backdrop. One icon, no text, frame, watermark, or references to other games.",
+      "sha256": "6482a2fcd8c80828252d6cfb018b32156953e81f1d6a24d9e53fa4b3c0ce6a7c",
+      "bytes": 6868,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/trailbreak.png",
+        "sha256": "ed4b0868b71b56b3f2f86e3e5858f2c7f9a61ae92a83b2977ff8b244e1c11b6e",
+        "bytes": 2468587
+      }
+    }
+  ]
+}

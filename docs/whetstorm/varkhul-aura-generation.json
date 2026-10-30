@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "varkhul_makers_brand",
+      "runtimeIds": [
+        "varkhul_makers_brand"
+      ],
+      "file": "docs/design/whetstorm-art/auras/varkhul_makers_brand.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon for a forge boss maker's brand: a glowing angular iron branding stamp presses a molten orange sigil into dark metal. Dark slate backdrop, dramatic warm light, hand-painted broad shapes, readable at 32 pixels. Edge-to-edge painting; no frame, text, letters, logo, watermark, photorealism, or imitation of existing games or artists.",
+      "sha256": "2d8d69bca6d083ca429e7f1fa6a9fcab56ca41b5aa5da3a533a4369e7708be69",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/varkhul_makers_brand.webp",
+        "sha256": "54b46a1fcd82f60d7efab9dca9048ccaf948f5ca9a06d6ab721fc298135c3b69",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "varkhul_cinder_orbs",
+      "runtimeIds": [
+        "varkhul_cinder_orbs"
+      ],
+      "file": "docs/design/whetstorm-art/auras/varkhul_cinder_orbs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon for cinder orbs: three bright ember spheres with cracked black crust orbit in smoky air, sparks scattering. Dark charcoal backdrop, vivid orange glow, hand-painted broad shapes, readable at 32 pixels. Edge-to-edge painting; no frame, text, letters, logo, watermark, photorealism, or imitation of existing games or artists.",
+      "sha256": "a8a86a676defed51018bfb75aab8f909199d55ce29e0b895813689143cb68811",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/varkhul_cinder_orbs.webp",
+        "sha256": "6c8c6a00e82743e4122d477304fa66e1fb5924aecf30cf0eceb2627dc9bd9de4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "varkhul_red_hot_metal",
+      "runtimeIds": [
+        "varkhul_red_hot_metal"
+      ],
+      "file": "docs/design/whetstorm-art/auras/varkhul_red_hot_metal.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO debuff icon for red hot metal: a jagged glowing red iron shard with a dark crust and white-hot tip radiating heat. Deep maroon background, hand-painted broad shapes, readable at 32 pixels. Edge-to-edge painting; no frame, text, letters, logo, watermark, photorealism, or imitation of existing games or artists.",
+      "sha256": "1762294c5ce14689ff610e359823b22b3eeabe33629d8ab8a55d0de7875ef433",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/varkhul_red_hot_metal.webp",
+        "sha256": "a267df6210cdbf675e80a3c1da0d04d3ae5f6ba3db68abc2b1e51d69c8263a91",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "varkhul_masters_assembly",
+      "runtimeIds": [
+        "varkhul_masters_assembly"
+      ],
+      "file": "docs/design/whetstorm-art/auras/varkhul_masters_assembly.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm square fantasy MMO boss buff icon for master's assembly: a bronze mechanical gauntlet gripping a luminous forge core amid interlocking iron gears. Deep blue-black background, golden forge light, hand-painted broad shapes, readable at 32 pixels. Edge-to-edge painting; no frame, text, letters, logo, watermark, photorealism, or imitation of existing games or artists.",
+      "sha256": "594cacf78ad7e0ddf9f5a238daf03703708a0e856ab90ce6973e1148b4ae3e5f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/varkhul_masters_assembly.webp",
+        "sha256": "c14c377a659fa1448800ccbcbd034476035e3e86047617fb37ebecd8e4285f3d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

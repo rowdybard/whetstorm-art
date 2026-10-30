@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected 128px contact sheet.",
+  "records": [
+    {
+      "id": "col_pristine_vein",
+      "prompt": "Use case: stylized-concept. Square fantasy MMO achievement icon: a freshly cracked pristine mineral vein in dark rock, luminous crystalline ore exposed with a few golden sparks. Premium hand-painted dark fantasy game art, strong simple silhouette readable at 28px, dramatic light, opaque dark backdrop. One icon, no text, frame, watermark, or references to other games.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/col_pristine_vein.png",
+      "masterSha256": "791f19f5b0a28d47277defd5cc64af3f7d7681c6fee7e6a59ee12aa649fb0209",
+      "shipping": "public/ui/whetstorm/deeds/col_pristine_vein.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90",
+      "shippingSha256": "e9b8c7ef9d2d53989a09bb569e5754e7b304d8819749b6a4dc05e576dbe158ac"
+    },
+    {
+      "id": "col_ancient_heartwood",
+      "prompt": "Use case: stylized-concept. Square fantasy MMO achievement icon: a freshly cut length of ancient heartwood, rich amber glowing growth rings and rugged bark, with a few green leaves. Premium hand-painted dark fantasy game art, strong simple silhouette readable at 28px, dramatic light, opaque dark backdrop. One icon, no text, frame, watermark, or references to other games.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/col_ancient_heartwood.png",
+      "masterSha256": "a58470a674b25752f16a29ac7c87b79f9a164e0645386263bfb97579717a1fec",
+      "shipping": "public/ui/whetstorm/deeds/col_ancient_heartwood.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90",
+      "shippingSha256": "5bdfd2fbf0ca0034b0af95eee47464e555c589b44b24b2cc77aef5b56d08b50f"
+    },
+    {
+      "id": "col_moonlit_bloom",
+      "prompt": "Use case: stylized-concept. Square fantasy MMO achievement icon: one moonlit flower opening, pale silver-blue petals and luminous center, a sliver of moonlight illuminating it against dark foliage. Premium hand-painted dark fantasy game art, strong simple silhouette readable at 28px, opaque dark backdrop. One icon, no text, frame, watermark, or references to other games.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/col_moonlit_bloom.png",
+      "masterSha256": "4356139476ed952ef8f4469301cf1f973e5ab571baee26d88863e19d80981ab4",
+      "shipping": "public/ui/whetstorm/deeds/col_moonlit_bloom.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90",
+      "shippingSha256": "24a43130ff2c98c5a5a98890e56082a666a2cb8b834072d33f39cf6cb86366cd"
+    },
+    {
+      "id": "col_perfect_specimen",
+      "prompt": "Use case: stylized-concept. Square fantasy MMO achievement icon: a flawless tanned beast hide specimen carefully laid out with a small bone clasp, pristine symmetrical silhouette, warm russet fur and leather. Premium hand-painted dark fantasy game art, strong simple silhouette readable at 28px, dramatic light, opaque dark backdrop. One icon, no text, frame, watermark, gore, or references to other games.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/col_perfect_specimen.png",
+      "masterSha256": "69e95baf8434f839909f06ed4a31f183c7e643d3990adc64d67ee12e018b9f54",
+      "shipping": "public/ui/whetstorm/deeds/col_perfect_specimen.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90",
+      "shippingSha256": "82515f2539334e292e5f4b30ac1504b09a6075c413ac24daab2c29afcd3e4599"
+    }
+  ]
+}

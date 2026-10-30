@@ -1008,3 +1008,12 @@ The original procedural Fightpit decals and their generator are documented in
 Three original Warrior signature ability paintings were created for Whetstorm
 using OpenAI's built-in image generation; their prompts and hashes are recorded
 in `public/ui/whetstorm/abilities/warrior-signatures-provenance.json`.
+
+Original Mage, Priest, and Ranger ability paintings, rare gathering deed
+paintings, and Varkhul aura paintings were created for Whetstorm using OpenAI's
+built-in image generation. Prompts and hashes are recorded in
+`public/ui/whetstorm/abilities/mage-signatures-provenance.json`,
+`public/ui/whetstorm/abilities/priest-signatures-provenance.json`,
+`public/ui/whetstorm/abilities/ranger-signatures-provenance.json`,
+`docs/whetstorm/deed-rare-gathering-generation.json`, and
+`docs/whetstorm/varkhul-aura-generation.json`.
