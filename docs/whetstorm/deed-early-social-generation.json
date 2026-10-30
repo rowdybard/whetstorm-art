@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "soc_first_party",
+      "master": "docs/design/whetstorm-art/deeds/soc_first_party.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for joining a party: two distinct adventurers' clasped forearms, one leather bracer and one steel bracer, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "67977912d88c988cfb28e5066c06d1d63a2096c23a6adf5aaeae69f71de2e8e7",
+      "shipping": "public/ui/whetstorm/deeds/soc_first_party.webp",
+      "shippingSha256": "68c84966fd4cae8b5f77f36c34a0d92784dd3e8d7a458f4f30f818a69ceecc58",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "soc_first_trade",
+      "master": "docs/design/whetstorm-art/deeds/soc_first_trade.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for completing a trade: two hands exchanging a small brown pouch for a bright silver coin, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "9dfaee7b7a19112dfcb2ac512e3f8b11a7c79bc4d027d8b60d8e3ebf84365348",
+      "shipping": "public/ui/whetstorm/deeds/soc_first_trade.webp",
+      "shippingSha256": "07b4149e09f9cc3ef79291942f6d4bc5cbce693f83691656abb74c1377089288",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "soc_first_salvage",
+      "master": "docs/design/whetstorm-art/deeds/soc_first_salvage.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for salvaging a piece of gear into materials: a battered steel helmet beside a small hammer and two metal ingots, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "53a9c5fad6029fb9376fc5824a3b080e8859b8c619a1e4034ec99b380fbb24f6",
+      "shipping": "public/ui/whetstorm/deeds/soc_first_salvage.webp",
+      "shippingSha256": "a27bf15340110da4e8dce32acb234df20874aa88a0350eebf06dc66eb6863f22",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "soc_meet_bursar",
+      "master": "docs/design/whetstorm-art/deeds/soc_meet_bursar.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for visiting a town bursar: a polished brass strongbox with keyhole beside a single old-fashioned key, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "a42fd5c49c306b172c5957ca0b4beef64a9ed41c9859b40e4f0b4278b805baaa",
+      "shipping": "public/ui/whetstorm/deeds/soc_meet_bursar.webp",
+      "shippingSha256": "dd133021c9b5748c1dd7a4991abc2820e0d73466e3c8433d29af2f6085005985",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}
