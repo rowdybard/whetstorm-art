@@ -19,7 +19,7 @@ describe('original archetypes and masterwork seal routing', () => {
       expect(professionIconUrl(id)).toBe(`/ui/whetstorm/professions/${id}.webp`);
     }
     expect(archetypeImageUrl('weaponcrafting+armorcrafting')).toBe(
-      '/ui/professions/archetype_smith.webp',
+      '/ui/whetstorm/professions/archetype_smith.webp',
     );
   });
   it('routes the masterwork seal for resolver and direct constant consumers', () => {

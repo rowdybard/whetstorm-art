@@ -7,6 +7,7 @@ import {
   WHETSTORM_MASTERWORK_SEAL_IMAGE_URL,
   whetstormMasterworkProfessionImageUrl,
 } from './whetstorm_masterwork_art';
+import { whetstormSmithImageUrl } from './whetstorm_smith_art';
 
 const PROFESSION_IMAGE_DIR = '/ui/professions';
 
@@ -33,6 +34,7 @@ export function professionImageUrl(id: string): string | null {
     whetstormCraftingAProfessionImageUrl(id) ??
     whetstormCraftingBProfessionImageUrl(id) ??
     whetstormArchetypeAImageUrl(id) ??
+    whetstormSmithImageUrl(id) ??
     whetstormMasterworkProfessionImageUrl(id) ??
     (PROFESSION_IMAGE_IDS.has(id) ? `${PROFESSION_IMAGE_DIR}/${id}.webp` : null)
   );

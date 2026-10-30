@@ -1,0 +1,11 @@
+{
+  "id": "archetype_smith",
+  "source": "OpenAI built-in image generation",
+  "reference_images": [],
+  "prompt": "Use case: stylized-concept. Asset: a single original square fantasy MMO profession archetype crest for a smith, combining weaponcrafting and armorcrafting. Paint a steel anvil, crossed smith hammer and sword, with warm forge light inside a polished circular antique-gold medallion. Dark painted vignette outside medallion, original hand-painted high-fantasy style, strong centered silhouette readable at 32 pixels. No text, letters, watermark, game logos or existing game references.",
+  "master": "docs/design/whetstorm-art/professions/archetype_smith.png",
+  "masterSha256": "cd4bbb2953f63bb73696744ca804c29e99d6385320f10a3482f70d00d2c2a5fe",
+  "shipping": "public/ui/whetstorm/professions/archetype_smith.webp",
+  "shippingSha256": "82ef1bf6a159d432f52abc15eb3cbb9c8bae34c0bbc93ea3a10816459b27820e",
+  "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+}

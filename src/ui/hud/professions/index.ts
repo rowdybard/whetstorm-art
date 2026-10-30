@@ -76,3 +76,4 @@ export * from './whetstorm_crafting_a_art';
 export * from './whetstorm_crafting_b_art';
 export * from './whetstorm_gathering_art';
 export * from './whetstorm_masterwork_art';
+export * from './whetstorm_smith_art';
