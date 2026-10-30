@@ -3093,17 +3093,17 @@
     text-align: center;
   }
   #leaderboard-window .lbp-slot-1 {
-    --lbp-medal: url("/ui/leaderboard/medal_gold.webp");
+    --lbp-medal: url("/ui/whetstorm/leaderboard/medal_gold.svg");
     grid-column: 2;
   }
   #leaderboard-window .lbp-slot-2 {
     --lbp-tint: var(--color-ranking-place-second);
-    --lbp-medal: url("/ui/leaderboard/medal_silver.webp");
+    --lbp-medal: url("/ui/whetstorm/leaderboard/medal_silver.svg");
     grid-column: 1;
   }
   #leaderboard-window .lbp-slot-3 {
     --lbp-tint: var(--color-ranking-place-third);
-    --lbp-medal: url("/ui/leaderboard/medal_bronze.webp");
+    --lbp-medal: url("/ui/whetstorm/leaderboard/medal_bronze.svg");
     grid-column: 3;
   }
   #leaderboard-window .lbp-slot-medal {
@@ -4964,17 +4964,17 @@
      the grid stands it silver left, gold centre, bronze right, and each place
      carries its own medal disc. */
   #world-quest-leaderboard-window .lbp-slot-1 {
-    --lbp-medal: url("/ui/world-quests/leaderboard/medal_gold.webp");
+    --lbp-medal: url("/ui/whetstorm/leaderboard/medal_gold.svg");
     grid-column: 2;
   }
   #world-quest-leaderboard-window .lbp-slot-2 {
     --lbp-tint: var(--color-ranking-place-second);
-    --lbp-medal: url("/ui/world-quests/leaderboard/medal_silver.webp");
+    --lbp-medal: url("/ui/whetstorm/leaderboard/medal_silver.svg");
     grid-column: 1;
   }
   #world-quest-leaderboard-window .lbp-slot-3 {
     --lbp-tint: var(--color-ranking-place-third);
-    --lbp-medal: url("/ui/world-quests/leaderboard/medal_bronze.webp");
+    --lbp-medal: url("/ui/whetstorm/leaderboard/medal_bronze.svg");
     grid-column: 3;
   }
   #world-quest-leaderboard-window .lbp-slot-medal {

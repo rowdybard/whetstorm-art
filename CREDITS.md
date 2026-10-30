@@ -52,6 +52,11 @@ The replacement mapping records subjects, SHA-256 hashes and the exact retired
 upstream paths. Historical credits below remain authoritative for those retired
 assets; they are not reclassified as Whetstorm artwork.
 
+The podium medals under `public/ui/whetstorm/leaderboard/` are original
+hand-authored SVG geometry made for Whetstorm, without image inputs or
+third-party artwork. Both leaderboard podiums use this shared gold, silver
+and bronze family. The historical medal records below retain their restrictions.
+
 The seven launch-class paintings (`bulwark`, `brute`, `whirlblade`, `ranger`,
 `skybinder`, `cleric`, `warden`) and eight Bulwark skill paintings are original
 Whetstorm art made with OpenAI built-in image generation from the owner's
@@ -61,6 +66,13 @@ hashes, prompts, numerical resizing and delivery hashes are recorded under
 The skill PNG masters are retained outside public; the shipped versions use
 WebP under `public/ui/skills/bulwark/`. These records do not change any older
 asset's attribution or licence.
+
+The item and deed paintings recorded in the Whetstorm generation manifests
+under `docs/whetstorm/` were created for this fork. Each manifest identifies
+its artwork, generation prompts, image inputs where applicable, master files,
+shipping files, and hashes. Consult the individual record for provenance; a
+Whetstorm path alone does not establish the lineage of other assets. These
+records do not alter the restrictions on the historical art listed below.
 
 ## Do not redistribute these
 
