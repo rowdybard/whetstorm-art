@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "old_cragmaw",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait, Old Cragmaw: a massive bipedal bear-like mountain creature, thick coarse dark brown fur, bear muzzle and fangs, heavy brow, no armor, rocky mountain backdrop. Painterly close head and shoulders, dramatic light, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/old_cragmaw.webp",
+      "sha256": "76b287a1293c9f919193570abe9ee2830e54a18e74905fc7e6fa337312094962",
+      "bytes": 5168,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/old_cragmaw.png",
+        "sha256": "5f3d523d49dd26f53337d3478662c065fe630359b1cba203efc37660240b9670",
+        "bytes": 2973362
+      }
+    },
+    {
+      "id": "ironvein_foreman",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait, Ironvein Foreman: a stocky green goblin-like kobold miner with long pointed ears and broad nose, rough mining gear, warm ochre tones, dark mountain mine backdrop. Painterly close head and shoulders, dramatic light, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/ironvein_foreman.webp",
+      "sha256": "5b9f71009ca5d75c93242f590c991fa3b6d62aa4d6cfe160f0ae03d7aae1c43a",
+      "bytes": 6080,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/ironvein_foreman.png",
+        "sha256": "9b0c39062d495b63233e02fd56fbea5d2b1c4fb7e269437d2f1a0ac24289f0f6",
+        "bytes": 2693957
+      }
+    },
+    {
+      "id": "brakka_wallbreaker",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait, Brakka the Wallbreaker: imposing brown-skinned ogre with broad nose, small lower tusks, heavy brow and rough hide armor, mountain war camp backdrop. Painterly close head and shoulders, dramatic light, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/brakka_wallbreaker.webp",
+      "sha256": "e55846a7fe29bc457061ffaa7b7a01a1633731f23b5edcbf0213145415b73840",
+      "bytes": 6278,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/brakka_wallbreaker.png",
+        "sha256": "3146eb8049f5a430d30e93b5bd8cf2239bafc6490b08e3b54a0de8ea7e4453d7",
+        "bytes": 2942363
+      }
+    },
+    {
+      "id": "warlord_drogmar",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait, Warlord Drogmar: imposing brown-skinned ogre warlord with heavy brow, broad nose and small lower tusks, battle-worn armor and mountain war camp behind. Painterly close head and shoulders, dramatic light, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/warlord_drogmar.webp",
+      "sha256": "bee1cc92cd1985aab641ce5334084e29975f4124be6ad8056aa0bf64279de23e",
+      "bytes": 6334,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/warlord_drogmar.png",
+        "sha256": "6c79b72dc44a2f36d7148eb1a034ff19c9c582988e4679ea0f91419f80707b44",
+        "bytes": 2980357
+      }
+    }
+  ]
+}

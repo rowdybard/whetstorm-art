@@ -93,6 +93,27 @@ it('routes original mob portraits while retaining non-mob, alias, and unknown be
     'hoard_bound_pulsar',
     'hoard_abyssal_tentacle',
     'raised_bonewalker',
+    'moonfleece_grazer',
+    'gloam_strider',
+    'nightkin_stargazer',
+    'wood_wraith',
+    'reliquary_ledger_wraith',
+    'reliquary_funeral_ringer',
+    'reliquary_gravecall_acolyte',
+    'reliquary_saintless_effigy',
+    'old_cragmaw',
+    'ironvein_foreman',
+    'brakka_wallbreaker',
+    'warlord_drogmar',
+    'rift_venom_weaver',
+    'rift_thornback',
+    'rift_rime_elemental',
+    'rift_frost_revenant',
+    'varkas_boneguard',
+    'fallen_captain_aldren',
+    'corrupted_priest_malric',
+    'deathstalker_voss',
+    'bound_guardian',
     'korgath_the_bound',
     'grand_necromancer_velkhar',
     'korzul_the_gravewyrm',
@@ -111,6 +132,9 @@ it('routes original mob portraits while retaining non-mob, alias, and unknown be
   }
   expect(targetPortraitSourceId('guardian_stampede_1', true)).toBe('wild_boar');
   expect(targetPortraitUrl('guardian_stampede_1', true)).toBe(targetPortraitUrl('wild_boar', true));
+  expect(targetPortraitUrl('guardian_stampede_2', true)).toBe(
+    targetPortraitUrl('gloam_strider', true),
+  );
   expect(targetPortraitUrl('guardian_stampede_0', true)).toBe(
     targetPortraitUrl('old_greyjaw', true),
   );

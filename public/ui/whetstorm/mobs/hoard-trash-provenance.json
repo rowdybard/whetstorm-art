@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "rift_venom_weaver",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a green venomous cave spider, eight jointed legs, green chitin, dark clustered eyes and prominent fangs, shadowy cave backdrop. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_venom_weaver.webp",
+      "sha256": "148c192a0fa36194ce7ccb8025ac4dd9e2b9c4d86c4479d75dd72919f5149317",
+      "bytes": 5810,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_venom_weaver.png",
+        "sha256": "fe10e0f4dfb0d941af9224be350f46913b2254613fcb6b334cbe2a8ee0187aff",
+        "bytes": 2762047
+      }
+    },
+    {
+      "id": "rift_thornback",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a ferocious quadrupedal cave beast with a long muzzle, dark green rugged hide and a fan of sharp thorns down its back, shadowy cavern backdrop. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_thornback.webp",
+      "sha256": "37409f4460afaddf8a9ebbc13d9ef79f485ff3fe28766b9d420aeb295bd1b108",
+      "bytes": 5530,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_thornback.png",
+        "sha256": "7462c8bd1b9bd43000dd3d51cc1011b4df6a9094eab54b41fd187fcb3db89ab6",
+        "bytes": 2671011
+      }
+    },
+    {
+      "id": "rift_rime_elemental",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a hulking blue-white frost elemental, a craggy icy body and head with huge arms made of jagged translucent ice, cold cavern backdrop. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_rime_elemental.webp",
+      "sha256": "9321b1645d871a583fc088551919fe61daba45a357007c5da92e9ef98c15cf41",
+      "bytes": 6730,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_rime_elemental.png",
+        "sha256": "2e108731198ccc4d2529da9a4f23fc491039359ea1ec66810986245b6b38d860",
+        "bytes": 2740445
+      }
+    },
+    {
+      "id": "rift_frost_revenant",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a frost revenant, an undead humanoid warrior with icy blue skeletal features and weathered frozen armor, cold dark cavern backdrop. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_frost_revenant.webp",
+      "sha256": "117b98261e2662a250a3a65bba6a5c7ef4d1b6797b20fc3c7f607ff2ca4648e8",
+      "bytes": 7116,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_frost_revenant.png",
+        "sha256": "6411f70c55e76c6e6326e28df25bac2cc3aafa9194641a5c91837d983d0e9226",
+        "bytes": 3270706
+      }
+    }
+  ]
+}

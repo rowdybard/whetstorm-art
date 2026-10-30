@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "moonfleece_grazer",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original dark fantasy MMORPG target portrait, square close-up of a silver-white woolly alpaca-like grazer with gentle long face and rounded ears, pale fleece, in violet night meadow. Painterly high-quality game illustration, face fills frame, dark vignette, no border, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/moonfleece_grazer.webp",
+      "sha256": "8f97f1f17e4628fb2a47d0f5d3ef343f8c3f99d5dc7226218856a85ff6561b9d",
+      "bytes": 4706,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/moonfleece_grazer.png",
+        "sha256": "19440812136c33ce5c530ce94fffd549d1a3092bad6a634e7ef058910d1acaa7",
+        "bytes": 2797128
+      }
+    },
+    {
+      "id": "gloam_strider",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original dark fantasy MMORPG target portrait, square close-up of a sleek predatory raptor with narrow reptilian snout, indigo and dusky violet scales, alert eyes, in a moonlit violet meadow. Painterly high-quality game illustration, face fills frame, dark vignette, no border, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/gloam_strider.webp",
+      "sha256": "7b85ee1245a27ad02cb37d34a5509a86e082a08ba33463364db232411e50dcf2",
+      "bytes": 4382,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/gloam_strider.png",
+        "sha256": "8fca54940fc26c84aaddf42f3aa724611c819ec8388c1a14c0ec8d80061178c8",
+        "bytes": 2358038
+      }
+    },
+    {
+      "id": "nightkin_stargazer",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original dark fantasy MMORPG target portrait, square close-up of a small hovering masked night spirit, pale blue lavender body and a simple mysterious pale mask, starlit twilight atmosphere. Painterly high-quality game illustration, face fills frame, dark vignette, no border, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/nightkin_stargazer.webp",
+      "sha256": "47ec9446f090f30a37b8df6c7c95805c96a1828b1c3e6cce97b2e739c4de9433",
+      "bytes": 4676,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/nightkin_stargazer.png",
+        "sha256": "6648e6524309ab50526cffa8f183a7de013de32e741a9ab0384125ff5c26436f",
+        "bytes": 2328164
+      }
+    },
+    {
+      "id": "wood_wraith",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original dark fantasy MMORPG target portrait, square close-up of a drifting spectral ghost, pale grey-green translucent hooded apparition with mournful shadowed face, amidst a gloomy haunted wood. Painterly high-quality game illustration, face fills frame, dark vignette, no border, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/wood_wraith.webp",
+      "sha256": "ddd4a9bfbc81f2c864b1a2a18ed5c30f17153837801151f9da5f0a0c1bda29a5",
+      "bytes": 3974,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/wood_wraith.png",
+        "sha256": "bd03a1addf5ce529f3eae6fd5b281dbd5d0f6ba107901cf199585d80b20e8909",
+        "bytes": 2299919
+      }
+    }
+  ]
+}

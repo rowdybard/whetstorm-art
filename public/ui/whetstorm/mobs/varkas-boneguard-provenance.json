@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "processing": "sharp Lanczos3 resize to 128 x 128, WebP quality 84, effort 6",
+      "id": "varkas_boneguard",
+      "bytes": 5328,
+      "source_output": "exec-77e9a6e7-30af-4158-ab9c-c0e4e35480fb.png",
+      "path": "public/ui/whetstorm/mobs/varkas_boneguard.webp",
+      "sha256": "47997a77a701c86f14091219acdc92363a28f9c31cf43f845f1accdb91bf1dd4",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy MMO target portrait readable within a small circular crop. A common undead skeleton minion, bare weathered ivory skull and rib bones with muted gray-beige tint, humble worn dark leather and scraps of simple armor, no crown or ornate regalia. Head and shoulders, centered close-up in a dim ancient stone crypt, subtle cold light. Painterly detailed fantasy game illustration, clear silhouette. No text, letters, border, logo or watermark; do not imitate existing games.",
+      "master": {
+        "bytes": 2571512,
+        "path": "docs/design/whetstorm-art/mobs/varkas_boneguard.png",
+        "sha256": "ba4b37977855b0a63bd58fbc4219a0f502087775a1a2420a6c6c3d7ef7a56c69"
+      }
+    }
+  ]
+}

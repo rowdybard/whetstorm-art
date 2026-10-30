@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "reliquary_ledger_wraith",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized fantasy RPG target portrait, square close-up. A pale near-ghostly unarmed skeleton minion, bare ivory skull, faint ethereal wash, dark crypt background. Painterly polished game art, readable face at 128px, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/reliquary_ledger_wraith.webp",
+      "sha256": "26731eac654a18ec59924bc9bad76aa6eb553452df7718479373ef47ec521982",
+      "bytes": 4934,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/reliquary_ledger_wraith.png",
+        "sha256": "cf785a798b7d380a8b634a889fb36cbf8eda58c38b8d66af8112ce9070c02e8e",
+        "bytes": 2430733
+      }
+    },
+    {
+      "id": "reliquary_funeral_ringer",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized fantasy RPG target portrait, square close-up. A skeleton rogue with weathered bone skull and cloth-brown hood and garments, hint of a battered axe, dark crypt background. Painterly polished game art, readable face at 128px, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/reliquary_funeral_ringer.webp",
+      "sha256": "7b6a987dd3cd0e24d160dc5121f11f47fc1cadb5a31f2888387b3a64e501a122",
+      "bytes": 5506,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/reliquary_funeral_ringer.png",
+        "sha256": "a038292fda0c141531ba132c3a2024c195ccfe7d65c53ad4e513cbf495926857",
+        "bytes": 2800291
+      }
+    },
+    {
+      "id": "reliquary_gravecall_acolyte",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized fantasy RPG target portrait, square close-up. A human mage in a deep dark brown hood and pointed mage hat, sinister gravecall acolyte, staff partially visible, crypt background. Painterly polished game art, readable face at 128px, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/reliquary_gravecall_acolyte.webp",
+      "sha256": "9b44e9541c610d0c88d8ff95e29a5ed033c72764a5068f0888fdbce0258e846d",
+      "bytes": 4592,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/reliquary_gravecall_acolyte.png",
+        "sha256": "00b5913d66681051a2856aa0421ff949492f866ebb19a0055fff9305f69b84d4",
+        "bytes": 2576040
+      }
+    },
+    {
+      "id": "reliquary_saintless_effigy",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized fantasy RPG target portrait, square close-up. An armored skeleton warrior resembling a carved pale stone effigy, skull and stone-washed armor, blade partially visible, dark crypt background. Painterly polished game art, readable face at 128px, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/reliquary_saintless_effigy.webp",
+      "sha256": "76b3d59e30b5cda0134629e7423769fc8f8fdef3e69300ba8c074779ae02a893",
+      "bytes": 6064,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/reliquary_saintless_effigy.png",
+        "sha256": "e6cb33d147c40d61b02c470fe1f7e5c3e8202de725aeef5536e7044e02d73dde",
+        "bytes": 2993316
+      }
+    }
+  ]
+}

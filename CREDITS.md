@@ -1102,3 +1102,10 @@ and the `amberfall-remaining-provenance.json`, `farshore-overworld-provenance.js
 `hoard-actors-provenance.json`, and `gravewyrm-bonewalker-provenance.json`
 files in `public/ui/whetstorm/mobs/`. The corrected Sanctum Scaleguard
 painting is recorded in `raid-sanctum-targets-provenance.json` there.
+
+Original Nightbloom, Wraithwood, Collapsed Reliquary, Thornpeak, hoard, and
+Varkas Boneguard portraits were created for Whetstorm using OpenAI's built-in
+image generation. Prompts and hashes are recorded under
+`public/ui/whetstorm/mobs/` in `nightbloom-wraithwood-provenance.json`,
+`collapsed-reliquary-provenance.json`, `thornpeak-overworld-rares-provenance.json`,
+`hoard-trash-provenance.json`, and `varkas-boneguard-provenance.json`.
