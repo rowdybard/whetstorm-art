@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "pvp_duel_grace",
+      "master": "docs/design/whetstorm-art/deeds/pvp_duel_grace.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for losing a friendly duel with grace: a knight's battered helmet resting beside a lowered wooden sword and a small white wildflower in a grassy clearing, soft evening light. Strong simple shapes readable at 32 pixels. Background fills every corner. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "c09410328de7dd72e7dab156bdc3ceced196a2c0dc35359f0172d554c0c10a50",
+      "shipping": "public/ui/whetstorm/deeds/pvp_duel_grace.webp",
+      "shippingSha256": "5fbdb97f974262db7475520979b2823a0f392159a2efd8d976ad1a2b48261c82",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "pvp_arena_1v1_1600",
+      "master": "docs/design/whetstorm-art/deeds/pvp_arena_1v1_1600.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for a contender's first solo arena rating milestone: a bronze gladiator helmet above crossed simple steel swords against a sunlit sandy arena. Strong simple shapes readable at 32 pixels. Background fills every corner. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "e8fdabb676586219379ccff7e62ad5aaa492187a35ce3a25c239cbea8fa18923",
+      "shipping": "public/ui/whetstorm/deeds/pvp_arena_1v1_1600.webp",
+      "shippingSha256": "6b3b0c1da74453635b5ff06e2841d7a38ed3ad8ab401590ee79ada15a9f422a3",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "pvp_arena_1v1_1750",
+      "master": "docs/design/whetstorm-art/deeds/pvp_arena_1v1_1750.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for an accomplished solo arena rival: a steel gladiator helmet with a red plume and a small silver laurel wreath against a sunlit sandy arena. Strong simple shapes readable at 32 pixels. Background fills every corner. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "427450fc07a01541243767ae0ea2fadccef659c7fe8c2f8f37bc82ddeee0d2dc",
+      "shipping": "public/ui/whetstorm/deeds/pvp_arena_1v1_1750.webp",
+      "shippingSha256": "35c6ee63d0b006534b4f1022c61bce8e96e0fe6c8108825aefc6bd12d97f6878",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "pvp_arena_1v1_1900",
+      "master": "docs/design/whetstorm-art/deeds/pvp_arena_1v1_1900.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for the highest solo arena gladiator rating: a gold gladiator helmet with crimson plume, encircled by a radiant gold laurel wreath, sunlit arena behind. Strong simple shapes readable at 32 pixels. Background fills every corner. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "c93a7be217c36efed9cb51c86b32fdec493fc4098ab473d4097053f8c2dfb57c",
+      "shipping": "public/ui/whetstorm/deeds/pvp_arena_1v1_1900.webp",
+      "shippingSha256": "00c69b3e50c926c98c09a45a0dbd6dc04e02ba3816a254a1565933d50379d382",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}

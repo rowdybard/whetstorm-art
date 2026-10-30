@@ -40,6 +40,7 @@ import { prestigeDeedImageUrl } from './prestige_deed_art';
 import { raidChallengeDeedImageUrl } from './raid_challenge_deed_art';
 import { sanctumChallengeDeedImageUrl } from './sanctum_challenge_deed_art';
 import { socialMilestoneDeedImageUrl } from './social_milestone_deed_art';
+import { soloArenaDeedImageUrl } from './solo_arena_deed_art';
 import { thornpeakChronicleDeedImageUrl } from './thornpeak_chronicle_deed_art';
 import { tradeFirstDeedImageUrl } from './trade_first_deed_art';
 import { tradeMasteryDeedImageUrl } from './trade_mastery_deed_art';
@@ -76,6 +77,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     earlyCollectionDeedImageUrl(id) ??
     earlySocialDeedImageUrl(id) ??
     civicBankDeedImageUrl(id) ??
+    soloArenaDeedImageUrl(id) ??
     socialMilestoneDeedImageUrl(id) ??
     valleyCollectionDeedImageUrl(id) ??
     valeChronicleDeedImageUrl(id) ??
