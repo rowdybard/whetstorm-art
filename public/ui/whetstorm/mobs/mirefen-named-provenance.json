@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "old_peatfire",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon of Old Peatfire: ancient powerful dragonkin with weathered dark mossy brown scales, broad horned reptilian head and smoldering orange glow in its throat, marsh haze behind. Painterly semi-realistic game illustration, head and shoulders, centered square crop, no border, text, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/old_peatfire.webp",
+      "sha256": "7bb293abdd187f0fd65012846529c646ca1df139bd33b964c787746c58ab3ff8",
+      "bytes": 5454,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/old_peatfire.png",
+        "sha256": "0eae29d2b91cd050d4a987ab55cf93ac0b6089bc9e46ec0e7866d9bd7ff5907b",
+        "bytes": 2964458
+      }
+    },
+    {
+      "id": "mirejaw_the_ravenous",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon of Mirejaw the Ravenous: fearsome amphibious fishlike humanoid with wide toothed jaws, dark green scales, prominent fins and yellow eyes, misty marsh behind. Painterly semi-realistic game illustration, head and shoulders, centered square crop, no border, text, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/mirejaw_the_ravenous.webp",
+      "sha256": "c6441379493496b94c157ee456d89dc77d53d1fb89eb04ed672f98e3eb78c484",
+      "bytes": 4912,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/mirejaw_the_ravenous.png",
+        "sha256": "d9e7567ffc5c725d736feef662bcac7215f0e5b2990e03774df720830a22145b",
+        "bytes": 2588715
+      }
+    },
+    {
+      "id": "sister_nhalia",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon of Sister Nhalia: sinister female priestess in a dark hooded robe, pale face and shadow magic, drowned marsh shrine behind. Painterly semi-realistic game illustration, head and shoulders, centered square crop, no border, text, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/sister_nhalia.webp",
+      "sha256": "ac9135819ed5575375c6bf85e7c1dbecbc56595480d7e25a2c0ccc4e2f236192",
+      "bytes": 4918,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/sister_nhalia.png",
+        "sha256": "27cebf5b7d77972a220165b8223d62e16f5e13bfeb9c52048d2d4bc452eb1d37",
+        "bytes": 2546540
+      }
+    },
+    {
+      "id": "deacon_voss",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon of Deacon Voss: sinister male gravecaller priest with dark hooded robes, gaunt face and shadow magic, drowned marsh shrine behind. Painterly semi-realistic game illustration, head and shoulders, centered square crop, no border, text, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/deacon_voss.webp",
+      "sha256": "39ef399144937dd58a55aec43bffedca02c3e89dac13424e9c9fb1b1e7feb770",
+      "bytes": 4982,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/deacon_voss.png",
+        "sha256": "3c98bf12ea7b174e980174cbfdc33a9b72952938b12d22864af9f887e7899b07",
+        "bytes": 2738038
+      }
+    }
+  ]
+}

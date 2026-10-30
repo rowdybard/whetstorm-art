@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "shore_scuttler",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square close-up of a small natural brown shore crab, broad shell and claws, rocky beach background. Painterly polished game illustration, clear silhouette at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/shore_scuttler.webp",
+      "sha256": "da3bac19f444af5349b8d44680baf6dcc1766b81e75959c1e0f51a3165462185",
+      "bytes": 7334,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/shore_scuttler.png",
+        "sha256": "eed48f6a3b86b0418e1952db0e5a9edfa340feb09e7e19f227b70fe5e73b18cd",
+        "bytes": 2614649
+      }
+    },
+    {
+      "id": "mister_crabs",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square close-up of an imposing large natural crab with weathered brown shell and powerful claws, old king of the shallows, coastal background. Painterly polished game illustration, clear silhouette at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/mister_crabs.webp",
+      "sha256": "bc857128e1eebea993b34f5e2b36a3259c0ce7985079bd060ca0ad98d25a2527",
+      "bytes": 7606,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/mister_crabs.png",
+        "sha256": "7507af0cf8fb21412a59823db640d54137d720320896d8756b7a01bda70e26be",
+        "bytes": 3199558
+      }
+    },
+    {
+      "id": "captain_verlan",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square close-up head and shoulders of a fallen undead captain, skeletal face and weathered armor, among ruined graveyard stones. Painterly polished game illustration, clear silhouette at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/captain_verlan.webp",
+      "sha256": "4b77a39534279d383e3dfc0221a9df7d4c7869c31fd1315c41f466b57ecfb091",
+      "bytes": 6248,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/captain_verlan.png",
+        "sha256": "7d6b01fbdde7dc0e1d8817cebde80b94ec735d38f44673fda4714abc9a81e8c0",
+        "bytes": 2737976
+      }
+    },
+    {
+      "id": "wraithbinder_maldrec",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square close-up head and shoulders of an undead gravecaller, gaunt skeletal face and dark weathered robes, grave-cold shadow around a ruined chapel. Painterly polished game illustration, clear silhouette at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/wraithbinder_maldrec.webp",
+      "sha256": "ac349bd6f3f4a754dbdd6c8d9592b9db4148a4eded95b26a6b3132c82e54bed8",
+      "bytes": 5356,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/wraithbinder_maldrec.png",
+        "sha256": "19d9dcb3cdff08da1c58b72ce3fa2d6698536ed85cb6782ba0110d753cd76551",
+        "bytes": 2722044
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "processing": "sharp Lanczos3 resize to 128 x 128, WebP quality 84, effort 6",
+      "id": "shardlord_kazzix",
+      "bytes": 7520,
+      "source_output": "exec-1cdf4775-9109-4a18-9396-a9d2e317e503.png",
+      "path": "public/ui/whetstorm/mobs/shardlord_kazzix.webp",
+      "sha256": "0758ddaf6664d99ad8224e1e85d9749c590473f73112154d8dafef4e552edcb1",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square fantasy MMORPG portrait of Shardlord Kazzix, a sentient frost elemental with a face of pale blue crystals and a glowing core, snowy mountain backdrop. Painterly game art, centered head and shoulders, bold readable forms. No text or frame.",
+      "master": {
+        "bytes": 2917735,
+        "path": "docs/design/whetstorm-art/mobs/shardlord_kazzix.png",
+        "sha256": "26b97449a28d3e002a56aa5e0a574076b909f5614d5b5091e2eac943faaa4018"
+      }
+    },
+    {
+      "processing": "sharp Lanczos3 resize to 128 x 128, WebP quality 84, effort 6",
+      "id": "threnos_first_voice",
+      "bytes": 6098,
+      "source_output": "exec-39311aef-f48d-4ee9-97a1-227008a1a16b.png",
+      "path": "public/ui/whetstorm/mobs/threnos_first_voice.webp",
+      "sha256": "a30a8bfe471633f6b1c7b6e0ee85361dc3d2580afca6d8db26141cc59487f734",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square fantasy MMORPG portrait of Threnos the First Voice, a human cult leader wearing a purple hood and robes, chanting with subtle magical light, mountain shrine background. Painterly game art, centered head and shoulders, bold readable forms. No text or frame.",
+      "master": {
+        "bytes": 2596335,
+        "path": "docs/design/whetstorm-art/mobs/threnos_first_voice.png",
+        "sha256": "d94f8aa6d2a2b241faef7f32c46ee3811b7b3fc9a9544bf06ff50798dd77cbbd"
+      }
+    },
+    {
+      "processing": "sharp Lanczos3 resize to 128 x 128, WebP quality 84, effort 6",
+      "id": "marrowlord_varkas",
+      "bytes": 7608,
+      "source_output": "exec-93fa9b47-5836-4bad-bfb5-7a518761c4fa.png",
+      "path": "public/ui/whetstorm/mobs/marrowlord_varkas.webp",
+      "sha256": "be5e4b81b4ae9fc7c70db4114b6b7b6be3208709aa5acd40bcbe066666e59ede",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square fantasy MMORPG portrait of Marrowlord Varkas, a skeletal fantasy knight with ivory skull and bone armor, mystical purple light, mountain crypt background. Painterly game art, centered head and shoulders, bold readable forms. No text or frame.",
+      "master": {
+        "bytes": 3204339,
+        "path": "docs/design/whetstorm-art/mobs/marrowlord_varkas.png",
+        "sha256": "455bbe75ed3a08054c98a7ce6f207fce451d2addaf3d29295c0da6a51ed59925"
+      }
+    }
+  ]
+}

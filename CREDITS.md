@@ -1117,6 +1117,14 @@ and the `rift-ember-bone-provenance.json`, `drowned-litany-first-provenance.json
 `player-companions-provenance.json`, and `mirefen-gravecallers-bog-provenance.json`
 files under `public/ui/whetstorm/mobs/`.
 
+Original named overworld and Rift encounter portraits were created for
+Whetstorm using OpenAI's built-in image generation. Prompts and hashes are
+recorded in the `vale-shore-grave-provenance.json`,
+`mirefen-named-provenance.json`, `thornpeak-named-three-provenance.json`,
+`named-overworld-rares-provenance.json`, and `rift-storm-sunken-provenance.json`
+files under `public/ui/whetstorm/mobs/`. The corrected corrupted sporeling is
+recorded in `veiled-hollow-fungal-provenance.json` there.
+
 Original Veiled Hollow, Vale, Drowned Litany, cave, and epic hoard portraits
 were created for Whetstorm using OpenAI's built-in image generation. Prompts
 and hashes are recorded in `docs/whetstorm/cave-ember-portraits-generation.json`

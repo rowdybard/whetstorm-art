@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "voskar_emberwing",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG target portrait, square. A young orange-scaled fire drake named Voskar, close head and upper neck portrait, fierce intelligent amber eyes, short swept-back horns, ember-lit jaws, dark volcanic backdrop. Painterly high-fidelity fantasy illustration, clear bold silhouette, centered face filling the frame, readable at 128 pixels and within a circular crop. Original creature design, no text, no border, no watermark.",
+      "path": "public/ui/whetstorm/mobs/voskar_emberwing.webp",
+      "sha256": "48aa91f5cca7ec098aadee21303ee9c0db01411f3bb7c4d1de1184b5cd5f5c0a",
+      "bytes": 6962,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/voskar_emberwing.png",
+        "sha256": "42fce1f4f69ce7e0dbf42e4a3e0055743a4f10731b8683a00b273be7c02e7951",
+        "bytes": 2471427
+      }
+    },
+    {
+      "id": "barrow_king",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG target portrait, square. The Barrow King, a risen skeletal monarch with ancient corroded crown, pale blue bone and weathered burial armor, in a dark moonlit barrow. Head and shoulders centered, painterly polished illustration, readable at 128px and circular crop. No text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/barrow_king.webp",
+      "sha256": "a1fd0674b78fce4bc1adf298fc99791ccb91dc8602f96a208cd3d0f98b4b8d4d",
+      "bytes": 6106,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/barrow_king.png",
+        "sha256": "bdc951bc588f808eb9ecc8e8e42f00ec16463d0724d7f7d37888e7c83455717f",
+        "bytes": 2921509
+      }
+    },
+    {
+      "id": "gleamstag",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG target portrait, square. The Gleamstag, a gentle luminous pale lavender-white stag with delicate branching antlers and alert deer face, in a twilight woodland clearing. Head and shoulders centered, painterly polished illustration, readable at 128px and circular crop. No text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/gleamstag.webp",
+      "sha256": "422d51250ae3f0cb1354dc2ee848c017113b0172614cdf00ba13223de4a05591",
+      "bytes": 5808,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/gleamstag.png",
+        "sha256": "515fabdf0606d2f795885f257424f84b2ff6aacfb08ca1ad999f8bd72bb392f1",
+        "bytes": 2556731
+      }
+    },
+    {
+      "id": "old_marrowshell",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG target portrait, square. Old Marrowshell, an ancient blue-grey crab with weathered shell, eyestalks and heavy pincers, in a misty forest pond. Face and upper body centered, painterly polished illustration, readable at 128px and circular crop. No text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/old_marrowshell.webp",
+      "sha256": "c63b7766c0602ba88c0ef88d8dc42bab44bd8c8d9de9e43281f741131afdc296",
+      "bytes": 6508,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/old_marrowshell.png",
+        "sha256": "0e9212157188a72a5f1d9c93d521dcc070347f10e871a7e51710eaf16938d75e",
+        "bytes": 2801206
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "rift_storm_caller",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a turquoise storm elemental formed from dark swirling clouds and luminous cyan lightning, stern elemental face, stormy spire backdrop. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_storm_caller.webp",
+      "sha256": "456c5e2581e1ade83045a98d031b21fa753a566677661990e027c0e18b101e33",
+      "bytes": 6634,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_storm_caller.png",
+        "sha256": "8c7f14fc99761f345322df542cc797de2de541d66686bc8510f5ef2114661730",
+        "bytes": 2677629
+      }
+    },
+    {
+      "id": "rift_stormscale",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a blue-scaled drake with reptilian head, swept horns and a hint of wings, electric storm clouds behind. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_stormscale.webp",
+      "sha256": "596b6db7bce1288cf9a0e3de0a1c9b864998d0c380c786f01cc18efa2a59de7e",
+      "bytes": 6494,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_stormscale.png",
+        "sha256": "5fb746603dd418bfbb8037db5fb9c8a5ac548587b4bd84a884485fcfc5b3679c",
+        "bytes": 2839702
+      }
+    },
+    {
+      "id": "rift_tide_thrall",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a teal amphibious fish-like humanoid with fins, broad mouth and large eyes, submerged ancient ruins behind. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_tide_thrall.webp",
+      "sha256": "d4b1a323e7c61b49e1b7b33d2ea0b7e8e3c4825906f1de5537e13950b248d8c5",
+      "bytes": 6030,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_tide_thrall.png",
+        "sha256": "9043658c768650343aa8851fe86e1a18254af1db8c11013f7d7a179537269f97",
+        "bytes": 2654997
+      }
+    },
+    {
+      "id": "rift_deep_lurker",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a teal subterranean burrowing creature with a chitinous insectoid head and mandibles, damp sunken cavern behind. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_deep_lurker.webp",
+      "sha256": "d76b0182b3e6b32d15db220f0bf626c23b00431c3432c899708c7c41524af11d",
+      "bytes": 6256,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_deep_lurker.png",
+        "sha256": "3e8df68a2d75d261a5503e0af9ac585af3f45d139790b2dd5acc36d6e484e26f",
+        "bytes": 2627038
+      }
+    }
+  ]
+}

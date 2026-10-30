@@ -32,16 +32,30 @@
     },
     {
       "id": "corrupted_sporeling",
-      "source": "OpenAI built-in image generation, text only",
-      "prompt": "Create an original fantasy game target portrait, square painterly polished 3D illustration. A hostile corrupted sporeling, a hovering glub-like mushroom folk blob with dark purple bruised fungal flesh and a sinister expressive face, centered against a dim cavern with faint violet spores. Strong readable silhouette, tight circular-crop-safe framing, no text, no border, no watermark.",
+      "source": "OpenAI built-in image generation, edit of original sporeling_gatherer master",
+      "prompt": "Edit this original game portrait into the corrupted sporeling variant. Preserve the exact same rounded mushroom cap, body silhouette, simple two eyes and tiny closed mouth, pose, composition and illustration style. Change the creature's tan and cream colors to muted bruised purple and charcoal violet, with subtle violet spores and a darker grove. Remove the gatherer's basket. No teeth, fangs, horns, text, border or watermark.",
       "path": "public/ui/whetstorm/mobs/corrupted_sporeling.webp",
-      "sha256": "bac358542d00e7f09f1b357a38d354b8f406dc3314a136a9a71c8a45dd4ef402",
-      "bytes": 5790,
+      "sha256": "a96c2a2fb153ad933ef923e70b6d8915fa074d1f0bcad4e9454f688626d690a7",
+      "bytes": 5594,
       "master": {
         "path": "docs/design/whetstorm-art/mobs/corrupted_sporeling.png",
-        "sha256": "d9c1a165ac12801edd0fd1e46dcee573bfb603f3159ae929e8e92ce6e33a05b5",
-        "bytes": 2612062
-      }
+        "sha256": "110ccea7fa5362799179eaa3a34c575e4ed507a2d90671068e87198b0d805c18",
+        "bytes": 2427327
+      },
+      "superseded": {
+        "id": "corrupted_sporeling",
+        "source": "OpenAI built-in image generation, text only",
+        "prompt": "Create an original fantasy game target portrait, square painterly polished 3D illustration. A hostile corrupted sporeling, a hovering glub-like mushroom folk blob with dark purple bruised fungal flesh and a sinister expressive face, centered against a dim cavern with faint violet spores. Strong readable silhouette, tight circular-crop-safe framing, no text, no border, no watermark.",
+        "path": "public/ui/whetstorm/mobs/corrupted_sporeling.webp",
+        "sha256": "bac358542d00e7f09f1b357a38d354b8f406dc3314a136a9a71c8a45dd4ef402",
+        "bytes": 5790,
+        "master": {
+          "path": "docs/design/whetstorm-art/mobs/corrupted_sporeling.png",
+          "sha256": "d9c1a165ac12801edd0fd1e46dcee573bfb603f3159ae929e8e92ce6e33a05b5",
+          "bytes": 2612062
+        }
+      },
+      "reference": "docs/design/whetstorm-art/mobs/sporeling_gatherer.png"
     },
     {
       "id": "treant_elder",
