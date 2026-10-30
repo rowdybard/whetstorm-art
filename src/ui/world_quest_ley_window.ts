@@ -203,11 +203,11 @@ export class WorldQuestLeyWindow {
     this.root.classList.add('ley-beam');
     this.root.style.setProperty(
       '--wql-frame-art',
-      `url("${apiUrl('/ui/minigames/ley-frame-v1.webp')}")`,
+      `url("${apiUrl('/ui/whetstorm/minigames/ley-circuit-frame.webp')}")`,
     );
     this.root.style.setProperty(
       '--wql-heart-art',
-      `url("${apiUrl('/ui/minigames/ley-heart-v1.webp')}")`,
+      `url("${apiUrl('/ui/whetstorm/minigames/ley-crystal-heart.webp')}")`,
     );
     this.root.innerHTML =
       `<div class="panel-title"><span id="world-quest-puzzle-title"></span><button type="button" class="x-btn" data-close>${svgIcon('close')}</button></div>` +

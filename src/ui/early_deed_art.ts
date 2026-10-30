@@ -53,6 +53,7 @@ import { tradeMasteryDeedImageUrl } from './trade_mastery_deed_art';
 import { tradeSkillDeedImageUrl } from './trade_skill_deed_art';
 import { valeChronicleDeedImageUrl } from './vale_chronicle_deed_art';
 import { valleyCollectionDeedImageUrl } from './valley_collection_deed_art';
+import { willowfenGalecrestDeedImageUrl } from './willowfen_galecrest_deed_art';
 
 // Original paintings for early deeds, shared by game and guide.
 const EARLY_DEED_ART = new Map<string, string>([
@@ -117,6 +118,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     raimentLitanyDeedImageUrl(id) ??
     raidChallengeDeedImageUrl(id) ??
     sanctumChallengeDeedImageUrl(id) ??
+    willowfenGalecrestDeedImageUrl(id) ??
     rareGatheringDeedImageUrl(id) ??
     battlegroundDeedImageUrl(id) ??
     ascendantDeedImageUrl(id) ??

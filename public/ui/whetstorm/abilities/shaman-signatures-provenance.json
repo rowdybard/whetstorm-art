@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "lightning_bolt",
+      "path": "public/ui/whetstorm/abilities/lightning_bolt.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: square fantasy MMO ability icon painting. A single jagged white-blue lightning bolt strikes downward through a dark storm, electric branches and luminous turbulent clouds, bold readable silhouette, painterly textured brushwork. No text, border, symbols, or watermark.",
+      "sha256": "9e476d427eafb9b469b33d5239423ba448606c33a28199e992b3b19370e64c8d",
+      "bytes": 5952,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/lightning_bolt.png",
+        "sha256": "89e22dac00426b6fc923e966f2ae435b7ce52e105f9b74c9d41e1001fd26878a",
+        "bytes": 2653662
+      }
+    },
+    {
+      "id": "rockbiter_weapon",
+      "path": "public/ui/whetstorm/abilities/rockbiter_weapon.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: square fantasy MMO ability icon painting. A rugged iron weapon blade is empowered by cracked stone and glowing earthy ochre energy, mineral fragments swirling around it against a dark background, bold readable silhouette, painterly textured brushwork. No text, border, symbols, or watermark.",
+      "sha256": "b0312889789ac832172518b674ccf1e1e9a1535fd6cba031a16cbe72341eae13",
+      "bytes": 6814,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/rockbiter_weapon.png",
+        "sha256": "c4b608646a536de5c1070523b8daad5eccf4ec147b9a31efcaecaa81a3616de8",
+        "bytes": 3015910
+      }
+    },
+    {
+      "id": "healing_wave",
+      "path": "public/ui/whetstorm/abilities/healing_wave.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: square fantasy MMO ability icon painting. A radiant turquoise wave of healing water curls upward around a warm golden light, droplets and gentle flowing motion against deep blue darkness, bold readable silhouette, painterly textured brushwork. No text, border, symbols, or watermark.",
+      "sha256": "fe551286f47526e9d40a4a999aba5d01ef322ae07a38e93b1bad2569b0941ea5",
+      "bytes": 6770,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/healing_wave.png",
+        "sha256": "de9d7b15f11d13d9c9bf792be6d08435865f409b7b207f2310720775cddbe2e7",
+        "bytes": 2871532
+      }
+    },
+    {
+      "id": "earth_shock",
+      "path": "public/ui/whetstorm/abilities/earth_shock.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: square fantasy MMO ability icon painting. A violent shockwave erupts from fractured earth, jagged rocks and glowing amber energy bursting outward against a dark background, bold readable silhouette, painterly textured brushwork. No text, border, symbols, or watermark.",
+      "sha256": "9eb40ab113af332f77954d68cf8499ae1a31fdb0ec8e6e07d980043568f7483c",
+      "bytes": 7284,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/earth_shock.png",
+        "sha256": "81ed8b4ba8b4fd4b0a773359825a170a6f585a6b681f5c1ef8269cdaecd82312",
+        "bytes": 2841309
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "holy_light",
+      "path": "public/ui/whetstorm/abilities/holy_light.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon painting. Mending Light: a single armored hand cupping a warm golden-white healing flame, delicate rays and motes against deep indigo shadow. Rich painterly dark fantasy, high contrast, bold readable silhouette at 128px, full-bleed square composition, no border, no text, no symbols borrowed from existing games, no watermark.",
+      "sha256": "ccb70dd73ac44d77e131a71da0b2b75b0ad234a38ecd35b62219c672b96c80a5",
+      "bytes": 5144,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/holy_light.png",
+        "sha256": "3f75c6596e31ad0c25047e0d3a4fb36c67b70c10bea18b1177cde1f47f410956",
+        "bytes": 2338120
+      }
+    },
+    {
+      "id": "hammer_of_grace",
+      "path": "public/ui/whetstorm/abilities/hammer_of_grace.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon painting. Hammer of Grace: a single radiant golden war hammer flying diagonally through the air, trailing luminous sparks against dark blue shadow. Rich painterly dark fantasy, high contrast, bold readable silhouette at 128px, full-bleed square composition, no border, no text, no symbols borrowed from existing games, no watermark.",
+      "sha256": "e66a0fa30a43a64cda470b9d09f73721e8e4f1defe747f6945736bac7288a58c",
+      "bytes": 6568,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/hammer_of_grace.png",
+        "sha256": "377b3780691186198e92c7f20a6c7ba9a89eb741acbc3f18091e590ecae190b4",
+        "bytes": 2702140
+      }
+    },
+    {
+      "id": "divine_ascension",
+      "path": "public/ui/whetstorm/abilities/divine_ascension.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon painting. Divine Ascension: a faceless armored figure rising in a powerful column of golden-white light, wings of radiant energy unfolding upward against deep violet darkness. Rich painterly dark fantasy, high contrast, bold readable silhouette at 128px, full-bleed square composition, no border, no text, no symbols borrowed from existing games, no watermark.",
+      "sha256": "738c65125a6206e049c0c1f558687757d301b84801a87eea34283ff95b7c18c9",
+      "bytes": 7204,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/divine_ascension.png",
+        "sha256": "678f3d4dcbe49562c7a381ec716a963c64599f4f403c86416d6b82cc475e6b85",
+        "bytes": 2660650
+      }
+    },
+    {
+      "id": "dawn_devotion",
+      "path": "public/ui/whetstorm/abilities/dawn_devotion.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon painting. Dawn Devotion: a radiant rising sun over a small upright ceremonial sword, golden rays spreading through dark crimson clouds, symbolizing shared martial resolve. Rich painterly dark fantasy, high contrast, bold readable silhouette at 128px, full-bleed square composition, no border, no text, no symbols borrowed from existing games, no watermark.",
+      "sha256": "1df79ed084d40e68d4985ad07ee7eb756d7361903fb6cb802990d27e4541f731",
+      "bytes": 5868,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/dawn_devotion.png",
+        "sha256": "17aebe5ebdec1c7693871fdd9b40a0456b209d21fcc845942b91e41763d789ce",
+        "bytes": 2483102
+      }
+    }
+  ]
+}

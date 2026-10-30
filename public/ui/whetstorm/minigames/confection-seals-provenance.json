@@ -1,0 +1,34 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "256x256 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "victory",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: square fantasy game result seal, readable at 58 pixels. A single ornate round golden confectioner's medallion, an embossed radiant five-point star surrounded by a restrained laurel wreath, warm polished gold and amber highlights. Centered and fully visible on a pure black background for screen blending. Painterly handcrafted finish, bold silhouette. No text, no lettering, no border around the image, no watermark.",
+      "path": "public/ui/whetstorm/minigames/confection-victory-seal.webp",
+      "sha256": "b4cf2fbc2d438f3fbf0b8db004db2b09340168701f14f1e41bac447de4cfe931",
+      "bytes": 15236,
+      "master": {
+        "path": "docs/design/whetstorm-art/minigames/confection-victory-seal.png",
+        "sha256": "c4191bf8113c541a03876e47d7d48c6e58e59f60a592f947048135542e267566",
+        "bytes": 1910098
+      }
+    },
+    {
+      "id": "defeat",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset: square fantasy game result seal, readable at 58 pixels. A single ornate round bronze confectioner's medallion, an embossed cracked candy diamond surrounded by a restrained laurel wreath, subdued copper and russet highlights. Centered and fully visible on a pure black background for screen blending. Painterly handcrafted finish, bold silhouette. No text, no lettering, no border around the image, no watermark.",
+      "path": "public/ui/whetstorm/minigames/confection-defeat-seal.webp",
+      "sha256": "2090b096db733606126090c541ad5d04137e4357b6b6cf2ab720e713238758f6",
+      "bytes": 13284,
+      "master": {
+        "path": "docs/design/whetstorm-art/minigames/confection-defeat-seal.png",
+        "sha256": "f5191a47504a36029e166f223a8e9fcac73f5bc1abd43671df8b989650cd3df4",
+        "bytes": 1875346
+      }
+    }
+  ]
+}

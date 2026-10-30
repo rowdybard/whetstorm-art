@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "ignivar_brand_of_the_pyre",
+      "runtimeIds": [
+        "ignivar_brand_of_the_pyre"
+      ],
+      "file": "docs/design/whetstorm-art/auras/ignivar_brand_of_the_pyre.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted dark fantasy game aura icon readable at 32 pixels. Original brand of the pyre: a glowing ember-red iron brand searing a simple flame-shaped mark into dark stone, sparks rising. Bold centered silhouette, dramatic warm light, painterly textured background. Edge-to-edge art, no border, text, lettering, logo or watermark. Do not copy existing games or artists.",
+      "sha256": "f3f0b86ea15d3b331fb8d2bf2c996e6b0f0d2119ea79e1dd0c18712317bd3905",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/ignivar_brand_of_the_pyre.webp",
+        "sha256": "eb444c8a1897ce5a5859f7edf51ecc0a1985956ad9c094f72644208909d2a764",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "ignivar_molten_armor",
+      "runtimeIds": [
+        "ignivar_molten_armor"
+      ],
+      "file": "docs/design/whetstorm-art/auras/ignivar_molten_armor.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted dark fantasy game aura icon readable at 32 pixels. Original molten armor: a single heavy charcoal-black iron breastplate split by luminous orange molten cracks, embers in dark air. Bold centered silhouette, painterly texture, rich contrast. Edge-to-edge art, no border, text, lettering, logo or watermark. Do not copy existing games or artists.",
+      "sha256": "fe4d0451944f4009eb12424d16316cd68a6f43099be2857547a3edac286543e4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/ignivar_molten_armor.webp",
+        "sha256": "856d73b52920513bc2a174fa72b3a0313852618de74be4602a1a599a841923e9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "ignivar_last_inferno",
+      "runtimeIds": [
+        "ignivar_last_inferno"
+      ],
+      "file": "docs/design/whetstorm-art/auras/ignivar_last_inferno.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted dark fantasy game aura icon readable at 32 pixels. Original last inferno: a solitary blackened skull engulfed by a towering spiral of fierce orange and white fire, ash-dark backdrop. Bold simple silhouette, dramatic contrast, painterly fantasy. Edge-to-edge art, no border, text, lettering, logo or watermark. Do not copy existing games or artists.",
+      "sha256": "de8ada03b7b68fe98c7835cc1ff68400b4110ecd3419e3ce9e73446f11d07fe9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/ignivar_last_inferno.webp",
+        "sha256": "3ebbab8ed6c85b73a7c2f378add4e3a86f018a689971aa0d0ef71730cb51467e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "nythraxis_bone_storm",
+      "runtimeIds": [
+        "nythraxis_bone_storm"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_bone_storm.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted dark fantasy game aura icon readable at 32 pixels. Original bone storm: ivory bone shards circling in a violent vortex around a cold blue spectral core against deep black-purple shadow. Bold simple composition, ghostly light, hand-painted fantasy texture. Edge-to-edge art, no border, text, lettering, logo or watermark. Do not copy existing games or artists.",
+      "sha256": "3aea45d2427e0bc55e1e73236e742594b74b06653868f9e80696af061ed5c180",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_bone_storm.webp",
+        "sha256": "4f7598c4e4cd1df712f1d4d2d5f5ed44bf5a8788f215a3fa593ea9f20af02a97",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -243,8 +243,8 @@ export class WorldQuestConfectionWindow {
       '--wqm-clasp-art': '/ui/minigames/confection-lock-v7.webp',
       '--wqm-crest-art': '/ui/minigames/confection-jewels-v7.webp',
       '--wqm-hinge-art': '/ui/minigames/confection-hinge-v4.webp',
-      '--wqm-victory-seal-art': '/ui/minigames/confection-victory-seal-v4.webp',
-      '--wqm-defeat-seal-art': '/ui/minigames/confection-defeat-seal-v4.webp',
+      '--wqm-victory-seal-art': '/ui/whetstorm/minigames/confection-victory-seal.webp',
+      '--wqm-defeat-seal-art': '/ui/whetstorm/minigames/confection-defeat-seal.webp',
     })) {
       this.root.style.setProperty(property, `url(${JSON.stringify(apiUrl(path))})`);
     }

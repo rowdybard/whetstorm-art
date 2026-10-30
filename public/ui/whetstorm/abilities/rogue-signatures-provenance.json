@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "sinister_strike",
+      "path": "public/ui/whetstorm/abilities/sinister_strike.webp",
+      "sha256": "95543d90d72261e3073cf531f70f4487a1d16379d07f9c58b21cb5e147789d1c",
+      "bytes": 4696,
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy game ability icon painting, square. A steel dagger carving a forceful diagonal slash through dark crimson air, sparks and a sharp red arc, strong centered silhouette. Painterly brushwork, dramatic lighting, dark enamel background, readable at 128px. No text, frame, logos, watermark, or copied game art.",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/sinister_strike.png",
+        "sha256": "2538f9496fe954364e28b9effd22d58281355219c4e045525fe8d4ec61ee3979",
+        "bytes": 2253990
+      }
+    },
+    {
+      "id": "eviscerate",
+      "path": "public/ui/whetstorm/abilities/eviscerate.webp",
+      "sha256": "f70b219dd729f3be210f5cdec558b7c5458ee47974baded976edc2bdffbf56dc",
+      "bytes": 4426,
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy game ability icon painting, square. A pair of crossed short blades converging in a decisive finishing strike, brilliant red impact against dark burgundy, clear bold centered silhouette. Painterly brushwork, dramatic lighting, readable at 128px. No text, frame, logos, watermark, gore, or copied game art.",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/eviscerate.png",
+        "sha256": "f3240b38a5d82888d55c643658764c75ab5960e8c913128b9c49925b8a5e89e1",
+        "bytes": 2228513
+      }
+    },
+    {
+      "id": "backstab",
+      "path": "public/ui/whetstorm/abilities/backstab.webp",
+      "sha256": "c0ee1e757d7f5966029b44ae1e77a1eab967f0727b2f23c188d23515a2083b27",
+      "bytes": 3354,
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy game ability icon painting, square. A gloved hand thrusting a narrow dagger forward from behind a shadowed shoulder, violet-blue motion streak, clear centered silhouette. Painterly brushwork, dramatic lighting, dark background, readable at 128px. No text, frame, logos, watermark, gore, or copied game art.",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/backstab.png",
+        "sha256": "597fdee2a5e53282ec2c869fb207ffb9e35807e9733f63c5c4342ac5b01b1f91",
+        "bytes": 2252512
+      }
+    },
+    {
+      "id": "stealth",
+      "path": "public/ui/whetstorm/abilities/stealth.webp",
+      "sha256": "c050bf75caec543a658bad5928300975f8a8e91af0128907b7e95aaec5de2e00",
+      "bytes": 3878,
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy game ability icon painting, square. A hooded anonymous figure dissolving into deep blue-violet shadow and mist, luminous subtle eyes, centered clear silhouette. Painterly brushwork, dramatic lighting, dark background, readable at 128px. No text, frame, logos, watermark, or copied game art.",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/stealth.png",
+        "sha256": "471ee3e34c4d7f8d4e0b8b3a03980ab8516e72961247df51ce29922b1218bdf7",
+        "bytes": 2265815
+      }
+    }
+  ]
+}

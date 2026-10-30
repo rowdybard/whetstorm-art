@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "chr_willowfen_first_cast",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: a silver fish leaping from a lily-covered marsh pool beneath a graceful willow, representing a first catch in Willowfen. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_willowfen_first_cast.png",
+      "masterSha256": "83a8db14fa3c8c00658b781de65cafdc97eec1f962d34647a3ef1ada598f39ae",
+      "shipping": "public/ui/whetstorm/deeds/chr_willowfen_first_cast.webp",
+      "shippingSha256": "425132e47ece65cef6afdbf0fad3bc6f64bff71bcb923c54aee7c214984f2a84",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_willowfen_gatherer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: a copper ore chunk, cut willow log and green marsh herb sprig arranged together against a misty fen, representing gathering three resources in Willowfen. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_willowfen_gatherer.png",
+      "masterSha256": "d793548ce5fd6c4a88782ed42d65023a86ff8a685231ef6fd5cf647df9c2e75a",
+      "shipping": "public/ui/whetstorm/deeds/chr_willowfen_gatherer.webp",
+      "shippingSha256": "f1b415a413023d8ef773c05b8d4cc0a024316c5f5bb464e5a112e3622a5fe3a2",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_galecrest_first_cast",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: a bright trout leaping above a mirror-still mountain tarn, with wind-swept headland cliffs beyond, representing a first catch in Galecrest. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_galecrest_first_cast.png",
+      "masterSha256": "39109ce6e99cde6151519f171b52b078be76d91bbb37527385bf5d62352e6dd3",
+      "shipping": "public/ui/whetstorm/deeds/chr_galecrest_first_cast.webp",
+      "shippingSha256": "51fc86fa1e3089813adff73ac7d02bc7f6bf3ebc951126ac42b265ca6becadd4",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_galecrest_gatherer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: a blue-gray ore chunk, cut wind-bent log and golden coastal herb sprig arranged together against a windy mountain headland, representing gathering three resources in Galecrest. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_galecrest_gatherer.png",
+      "masterSha256": "87ee58b9f9fdcba0b2e23348d019d4d626b001227885c50f219f0a000595e3f0",
+      "shipping": "public/ui/whetstorm/deeds/chr_galecrest_gatherer.webp",
+      "shippingSha256": "848eda5c8abefa66f90977fa5818f14cab745425b8564429b06534fff3128af4",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

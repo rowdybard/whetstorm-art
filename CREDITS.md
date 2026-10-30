@@ -1017,3 +1017,15 @@ built-in image generation. Prompts and hashes are recorded in
 `public/ui/whetstorm/abilities/ranger-signatures-provenance.json`,
 `docs/whetstorm/deed-rare-gathering-generation.json`, and
 `docs/whetstorm/varkhul-aura-generation.json`.
+
+Original Shaman, Rogue, and Paladin ability paintings, Willowfen and Galecrest
+deed paintings, encounter aura paintings, and Ley and Confection puzzle art
+were created for Whetstorm using OpenAI's built-in image generation. Prompts
+and hashes are recorded in
+`public/ui/whetstorm/abilities/shaman-signatures-provenance.json`,
+`public/ui/whetstorm/abilities/rogue-signatures-provenance.json`,
+`public/ui/whetstorm/abilities/paladin-signatures-provenance.json`,
+`docs/whetstorm/deed-willowfen-galecrest-generation.json`,
+`docs/whetstorm/aura-encounter-oct30-generation.json`,
+`docs/whetstorm/ley-puzzle-art-generation.md`, and
+`public/ui/whetstorm/minigames/confection-seals-provenance.json`.

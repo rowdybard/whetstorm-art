@@ -1,8 +1,11 @@
 import { launchAbilityImageUrl } from './launch_art';
 import { originalIconUrl, originalModifierRecipe, paintOriginalIcon } from './original_icon_art';
 import { whetstormMageSignatureImageUrl } from './whetstorm_mage_signature_art';
+import { whetstormPaladinSignatureImageUrl } from './whetstorm_paladin_signature_art';
 import { whetstormPriestSignatureImageUrl } from './whetstorm_priest_signature_art';
 import { whetstormRangerSignatureImageUrl } from './whetstorm_ranger_signature_art';
+import { whetstormRogueSignatureImageUrl } from './whetstorm_rogue_signature_art';
+import { whetstormShamanSignatureImageUrl } from './whetstorm_shaman_signature_art';
 import { whetstormWarriorSignatureImageUrl } from './whetstorm_warrior_signature_art';
 // Procedural painted icons for abilities, items and auras.
 //
@@ -5735,8 +5738,11 @@ function originalArt(kind: IconKind, id: string, size = DEFAULT_ICON_SIZE): stri
     if (warriorSignature) return warriorSignature;
     const classSignature =
       whetstormMageSignatureImageUrl(id) ??
+      whetstormPaladinSignatureImageUrl(id) ??
       whetstormPriestSignatureImageUrl(id) ??
-      whetstormRangerSignatureImageUrl(id);
+      whetstormRangerSignatureImageUrl(id) ??
+      whetstormRogueSignatureImageUrl(id) ??
+      whetstormShamanSignatureImageUrl(id);
     if (classSignature) return classSignature;
   }
   // Exact trinket aura identity shares its originating item's own original art.
