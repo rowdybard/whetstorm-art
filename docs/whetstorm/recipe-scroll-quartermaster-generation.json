@@ -1,0 +1,108 @@
+{
+  "assets": [
+    {
+      "itemId": "pattern_ironhusk_flask",
+      "file": "docs/design/whetstorm-art/items/pattern_ironhusk_flask.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one weathered parchment recipe scroll partly rolled, tied with iron-grey cord, on the parchment a simple painted squat iron flask and a small shield motif to identify Ironhusk Flask. No writing. Complete centered silhouette, safe margins; warm top-left light, deep cool shadows and dark charcoal painted vignette, tactile parchment, premium hand-painted dark fantasy. No border, frame, watermark, or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "346a2e23c939d5d44a68895d236402f7d47f0c764d0491426748f8e3918cf32f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_ironhusk_flask.webp",
+        "sha256": "0a4de73e5bfbc6c11bdf4fbe3728ab400b16589a2f183a70104c862d8ffc97f3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3866
+      }
+    },
+    {
+      "itemId": "pattern_warboar_flask",
+      "file": "docs/design/whetstorm-art/items/pattern_warboar_flask.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one weathered parchment recipe scroll rolled at one end and secured by russet leather tie, on the parchment a painted red flask and small boar silhouette identifying Warboar Flask. No writing. Complete centered silhouette, safe margins; warm top-left light, cool shadows and dark brown painted vignette, tactile parchment, premium hand-painted dark fantasy. No border, frame, watermark, or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "623bbdab2cbae3bdbc19a32270543ff6c1fde8d729f46b8614d59b2069b45de9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_warboar_flask.webp",
+        "sha256": "705bb25d90d3588eeb5f0bad050452aeaf6f73fed989805dd48ead309fe96996",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4468
+      }
+    },
+    {
+      "itemId": "pattern_runewater_flask",
+      "file": "docs/design/whetstorm-art/items/pattern_runewater_flask.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one weathered parchment formula scroll folded and bound with teal cord, on the parchment a painted turquoise flask and a simple water ripple identifying Runewater Flask. No writing or runes. Complete centered silhouette, safe margins; warm top-left light, cool shadows and dark blue painted vignette, tactile parchment, premium hand-painted dark fantasy. No border, frame, watermark, or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "c29de33a038ba9509d1ad351f20e235b4a51b5b908a6fb2bf18989b945324ff6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_runewater_flask.webp",
+        "sha256": "0411dda30f6ee81d6e8e2402304c445175818d784e00823fa92e588c74fdb3b7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4088
+      }
+    },
+    {
+      "itemId": "pattern_clockreel_fishing_rod",
+      "file": "docs/design/whetstorm-art/items/pattern_clockreel_fishing_rod.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one weathered schematic parchment rolled at both ends, held by brass clasp, on the parchment a clear painted diagram of a fishing rod with a small clockwork reel identifying Clockreel Fishing Rod. No text, numbers or writing. Complete centered silhouette, safe margins; warm top-left light, cool shadows and dark umber painted vignette, tactile parchment, premium hand-painted dark fantasy. No border, frame, watermark, or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "1e00abbaea3dba3d090be45da194cce416c074aa60bcddd13aa49ad763249a44",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_clockreel_fishing_rod.webp",
+        "sha256": "41cbd8a9e57d116ef1e4633051d13648ee813eed00be32d678e84252733b5b29",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4192
+      }
+    }
+  ]
+}

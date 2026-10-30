@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "pactbound_vestments",
+      "file": "docs/design/whetstorm-art/items/pactbound_vestments.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, slate-blue painted background, warm upper-left light and broad shapes readable at 32 pixels. One complete Pactbound Vestments: a dark burgundy cloth robe with layered woven sleeves, a simple muted gold stitched cord and empty neck opening, no armor plates, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "6e302a0ec45fdafe1dde098cd65d08dd084a893b971e6f85bdd785546e798b26",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pactbound_vestments.webp",
+        "sha256": "5109434173f58d1176155bb54d6165ad751746f2e03924f932fcca3e6bd3b7b7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "emberforged_bulwark",
+      "file": "docs/design/whetstorm-art/items/emberforged_bulwark.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, slate-blue painted background, warm upper-left light and broad shapes readable at 32 pixels. One complete Emberforged Bulwark: a dark iron linked mail chest hauberk with blackened overlapping plates, copper rivets and subtle glowing ember-orange seams, empty neck opening, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "5ce9371609f423841bd8a396a66f104243bf27c19d95303df5c6978eb6191265",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberforged_bulwark.webp",
+        "sha256": "d405085d12f51ed071f3d78c8bccc7cc0d7bde63c7402b51b1b12e22955770d0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "stormsunder_hood",
+      "file": "docs/design/whetstorm-art/items/stormsunder_hood.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, slate-blue painted background, warm upper-left light and broad shapes readable at 32 pixels. One complete Stormsunder Hood: a supple dark blue leather hood with a dark empty opening, visible stitched seams and pale silver lightning-shaped stitching, centered with space. No face, person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "3283c76955aec73ab24b6b540dc83e9fba2cefb1bf2a5bf11ba9fa97dcc2e704",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormsunder_hood.webp",
+        "sha256": "b565ec650f5835d5a74defa61d38a8f30b3c6af36a70957d0b8f54224291d8d4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "voidweave_mantle",
+      "file": "docs/design/whetstorm-art/items/voidweave_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, slate-blue painted background, warm upper-left light and broad shapes readable at 32 pixels. One complete Voidweave Mantle: a pair of layered deep violet woven cloth shoulder wraps, soft folds with subtle pale lavender thread edging, no metal or leather, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "492a66b1d2c2e56d98904dd7cbd1a4831b39d294ffa3470a965d69af00547cbb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/voidweave_mantle.webp",
+        "sha256": "0ab4aa68f5211f8d4822fb2fac89efef2e3588d6f901cb1093d54fac4d0d07c5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

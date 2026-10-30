@@ -172,6 +172,7 @@ import { oathpyreArmorItemImageUrl } from './oathpyre_armor_item_art';
 import { oct30EighthArmorItemImageUrl } from './oct30_eighth_armor_item_art';
 import { oct30FifthOriginalItemImageUrl } from './oct30_fifth_original_item_art';
 import { oct30FourthOriginalItemImageUrl } from './oct30_fourth_original_item_art';
+import { oct30NinthOriginalItemImageUrl } from './oct30_ninth_original_item_art';
 import { oct30OriginalItemImageUrl } from './oct30_original_item_art';
 import { oct30SecondOriginalItemImageUrl } from './oct30_second_original_item_art';
 import { oct30SeventhOriginalItemImageUrl } from './oct30_seventh_original_item_art';
@@ -258,6 +259,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 export function paintedItemImageUrl(id: string): string | null {
   return (
     recipeScrollBatchItemImageUrl(id) ??
+    oct30NinthOriginalItemImageUrl(id) ??
     oct30EighthArmorItemImageUrl(id) ??
     oct30SeventhOriginalItemImageUrl(id) ??
     oct30SixthOriginalItemImageUrl(id) ??
