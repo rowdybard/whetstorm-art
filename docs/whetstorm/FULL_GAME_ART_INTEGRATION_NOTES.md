@@ -34,7 +34,12 @@ quest-dialog, guide/deed, held-weapon, map-marker, podium and world-quest ladder
 tests against actual consumers before updating assertions. A read-only search
 found 53 full-game test files mentioning legacy art paths; this is a review
 queue, not a count of proven failures. Retain current guide navigation and
-responsive tests. Run the applicable full gate, a fresh candidate build, and
+responsive tests. `tests/guide.test.ts`, `tests/release_v034_additional_art.test.ts`
+and `tests/release_art_audit_v036_reliquary_deeds.test.ts` specifically assert
+the old generated deed `crest` field; the guide generator no longer emits it.
+Reconcile those tests and regenerate the guide content in the full candidate,
+while preserving spoiler filtering and live deed fallback coverage. Run the
+applicable full gate, a fresh candidate build, and
 desktop/mobile in-game checks, including missing-state art and held-model grips.
 
 The restricted originals and possible packed or cached copies remain a separate
