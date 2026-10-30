@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "chr_marsh_chapter_i",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A weathered stone causeway and a raised lantern leading through misty reeds, representing securing a marsh crossing. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_marsh_chapter_i.png",
+      "masterSha256": "af56a60bc1330a17d82024d98693731aaff1fbbe8c46a8264175b3fa9def99dc",
+      "shipping": "public/ui/whetstorm/deeds/chr_marsh_chapter_i.webp",
+      "shippingSha256": "d24e9c3b0551565b304a2cfdb5c87368c3687438f0533a6dd1934fa3d96798cc",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_marsh_chapter_ii",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A silver fish and a small lit candle above rippling dark marsh water, representing a marsh tale of fishing and laying the drowned to rest. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_marsh_chapter_ii.png",
+      "masterSha256": "10d1133a2be9f689a853f3c2417360ca7b81ce344aa9d027fcbb1f151b099154",
+      "shipping": "public/ui/whetstorm/deeds/chr_marsh_chapter_ii.webp",
+      "shippingSha256": "1ccb2b12ab0690612fa3b7bd16aa6cd645ff3ebb4c6710cc788a53604fad2ee4",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_marsh_chapter_iii",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A ruined stone bastion rising above foggy reeds beneath a bright victorious beacon, representing completion of the marsh chronicle. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_marsh_chapter_iii.png",
+      "masterSha256": "10cb876bcbeb3b93262ab7e44b31b0b96b2a7e2bdc8fbe034d00a5df54c3c520",
+      "shipping": "public/ui/whetstorm/deeds/chr_marsh_chapter_iii.webp",
+      "shippingSha256": "de26ec34692d34c980569ef5f0b41bedea1e511e0a18e1c4a85680bcb9a728b7",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_marsh_first_cast",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A long eel breaking the surface of a marsh pool among tall reeds, representing a first catch in Mirefen. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_marsh_first_cast.png",
+      "masterSha256": "b6fc28fb02a60ed85a40613bffec3bf3e2da076e72f4db1b91d3cae6393cf38f",
+      "shipping": "public/ui/whetstorm/deeds/chr_marsh_first_cast.webp",
+      "shippingSha256": "b26c1c7c7f409a6d0a9a0f62019cd38894790cffcd2b4194bfc5e35fa68e04d1",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}
