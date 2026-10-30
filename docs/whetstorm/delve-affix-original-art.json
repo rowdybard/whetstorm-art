@@ -1,0 +1,37 @@
+{
+  "author": "Codex",
+  "method": "Original hand-authored SVG geometry based on live affix mechanics; no reference images or inherited artwork used.",
+  "review": "Compare the 18px desktop and 40px mobile renderings in delve-affix-original-review.png.",
+  "records": [
+    {
+      "id": "bad_air",
+      "path": "public/ui/whetstorm/delve-affixes/bad_air.svg",
+      "sha256": "12bcb0e0c87b6ee59a5fe95c53063658b1e0e7a0bb438db09c7ed2934764b5d6"
+    },
+    {
+      "id": "belligerent_dead",
+      "path": "public/ui/whetstorm/delve-affixes/belligerent_dead.svg",
+      "sha256": "291e7b109976908a29d86722e2350408fb4534216f80d21abe6c8c25d029339f"
+    },
+    {
+      "id": "candleblind",
+      "path": "public/ui/whetstorm/delve-affixes/candleblind.svg",
+      "sha256": "5da0602bd40cb3815ffe57327c083687e25874bebec4c3c7367c2841b7e28356"
+    },
+    {
+      "id": "high_water",
+      "path": "public/ui/whetstorm/delve-affixes/high_water.svg",
+      "sha256": "496186137766fc32e38d2d2b61dcdc6ba8ed6af011e6b8e9ec1da57fdee42eb3"
+    },
+    {
+      "id": "lively_choir",
+      "path": "public/ui/whetstorm/delve-affixes/lively_choir.svg",
+      "sha256": "1751b44359d6faa4e4638faad92d669444b2c95f1dcdd86f16756b8da0e4ae5a"
+    },
+    {
+      "id": "restless_graves",
+      "path": "public/ui/whetstorm/delve-affixes/restless_graves.svg",
+      "sha256": "4bf3cf6e45ddc14b8d829de9995896759a14ca7ce4a0a62dd81d689d7530f88b"
+    }
+  ]
+}

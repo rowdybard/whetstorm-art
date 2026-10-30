@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+<rect width="48" height="48" rx="7" fill="#201c2a"/>
+<circle cx="24" cy="13" r="6" fill="#f7d990"/><circle cx="10" cy="21" r="5" fill="#c6aadb"/><circle cx="38" cy="21" r="5" fill="#c6aadb"/><path d="M14 37 Q14 22 24 22 Q34 22 34 37Z M3 40 Q3 29 11 29 Q15 29 17 34 L17 40Z M31 40 V34 Q33 29 38 29 Q45 29 45 40Z" fill="#dfc4ee"/><path d="M19 31 Q24 35 29 31" fill="none" stroke="#583c70" stroke-width="3"/>
+</svg>

@@ -10,8 +10,8 @@ export const DELVE_AFFIX_IMAGE_IDS: ReadonlySet<string> = new Set([
   'restless_graves',
 ]);
 
-const DELVE_AFFIX_ICON_DIR = '/ui/delve-affixes';
+const DELVE_AFFIX_ICON_DIR = '/ui/whetstorm/delve-affixes';
 
 export function delveAffixImageUrl(id: string): string | null {
-  return DELVE_AFFIX_IMAGE_IDS.has(id) ? `${DELVE_AFFIX_ICON_DIR}/${id}.webp` : null;
+  return DELVE_AFFIX_IMAGE_IDS.has(id) ? `${DELVE_AFFIX_ICON_DIR}/${id}.svg` : null;
 }
