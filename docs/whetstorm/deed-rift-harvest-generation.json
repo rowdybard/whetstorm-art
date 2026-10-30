@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 160 pixels.",
+  "records": [
+    {
+      "id": "dgn_rift",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a lone traveler stepping through a jagged glowing violet rift portal in dark stone, an open path visible beyond. Centered in a circular brass frame, dark warm background, bold simple silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_rift.png",
+      "masterSha256": "fbfab163d440a144186c3acbb31877d1417f431acc93ff21f8babcfefc507011",
+      "shipping": "public/ui/whetstorm/deeds/dgn_rift.webp",
+      "shippingSha256": "50120b06ddf6d1c0483badebf0cb4b51553db849f7d13d9a2381ca5e7dec0106",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_rift_s_rank",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a regal crown suspended before a fractured radiant violet rift, bright shards surrounding it, symbolizing mastery of the hardest rift. Centered in a circular brass frame, dark warm background, bold simple silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_rift_s_rank.png",
+      "masterSha256": "b3ba6395fde1e2d5e594bda5771d9833d536878800f3e8df8fad4375e9789f9e",
+      "shipping": "public/ui/whetstorm/deeds/dgn_rift_s_rank.webp",
+      "shippingSha256": "8345e1679b256af266a8c2625c8a619f051dba8d6c5e2b4225d782ba4362cec6",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_legendmaker",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a master smith's hammer striking a luminous golden blade on an anvil, sparks radiating outward, symbolizing making a named legendary weapon. Centered in a circular brass frame, dark warm background, bold simple silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_legendmaker.png",
+      "masterSha256": "f5af4ae72601eb639f9953595eb3ca7f2cce21ba6342a51ecf80c954a129850b",
+      "shipping": "public/ui/whetstorm/deeds/prog_legendmaker.webp",
+      "shippingSha256": "8741d54bad5cb42658984827cdb71ea35076f0576556141afb9353b1c114758f",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "col_golden_harvest",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a radiant golden sheaf of grain bound by a green ribbon with a small sickle, sparkling in sunlight, symbolizing a rare golden harvest. Centered in a circular brass frame, dark warm background, bold simple silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/col_golden_harvest.png",
+      "masterSha256": "c46ecfa979feffc6f857aadef223f3aead5d27729fdee445cb5d88f416766763",
+      "shipping": "public/ui/whetstorm/deeds/col_golden_harvest.webp",
+      "shippingSha256": "6dc0050de3955be65f61d948a56ea1affb8e9dae4fb7d1d12254d756aadaf0ea",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source": "OpenAI built-in image generation",
+  "externalReferenceImages": [],
+  "records": [
+    {
+      "id": "medal_dungeons",
+      "prompt": "Original Whetstorm fantasy game circular quest medal, a carved stone dungeon doorway with a descending stair, surrounded by simple bronze edging. Single symmetrical round medal centered and filling the square, high contrast sculpted forms and dark outer background, hand-painted stylized fantasy, legible at small size. No lettering, numbers, logos, ribbons, or copied designs.",
+      "masterPath": "docs/design/whetstorm-art/weekly/medal_dungeons.png",
+      "masterSha256": "98321a5880a149ca8a131f89a30d0a3e8c30f372a46e1f8003b92381b1091864",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/weekly/medal_dungeons.webp",
+      "deliverySha256": "4a33f17f063909772ed5998cebc459aa9665871e409bea3d507ff5719ff5cd45",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "processing": "Lanczos resize; Pillow WebP quality 84, method 6"
+    },
+    {
+      "id": "medal_raid",
+      "prompt": "Original Whetstorm fantasy game circular quest medal, a single ancient crown over crossed blades, with a deep violet inset and bronze edging. Single symmetrical round medal centered and filling the square, high contrast sculpted forms and dark outer background, hand-painted stylized fantasy, legible at small size. No lettering, numbers, logos, ribbons, or copied designs.",
+      "masterPath": "docs/design/whetstorm-art/weekly/medal_raid.png",
+      "masterSha256": "fb787df6a8ed566907cc56ad33d8a24f0861d3616a03b8aaee6e97c500e20c19",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/weekly/medal_raid.webp",
+      "deliverySha256": "3d2395120af8becb8fbdec9b4dd8a4f89b0cc99787c6fd1351cc07f7c1994112",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "processing": "Lanczos resize; Pillow WebP quality 84, method 6"
+    },
+    {
+      "id": "medal_battlegrounds",
+      "prompt": "Original Whetstorm fantasy game circular quest medal, two crossed spears and a shield, with a crimson inset and bronze edging. Single symmetrical round medal centered and filling the square, high contrast sculpted forms and dark outer background, hand-painted stylized fantasy, legible at small size. No lettering, numbers, logos, ribbons, or copied designs.",
+      "masterPath": "docs/design/whetstorm-art/weekly/medal_battlegrounds.png",
+      "masterSha256": "cef7c2612750417f0338280bae07ec815e07e243c6a0f0b9c7e160dc967d650f",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/weekly/medal_battlegrounds.webp",
+      "deliverySha256": "4b5766c1844bb9197fe2d397f114ffd4f34f5a48d45a8ef153a07d3d5907a368",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "processing": "Lanczos resize; Pillow WebP quality 84, method 6"
+    },
+    {
+      "id": "medal_worldboss",
+      "prompt": "Original Whetstorm fantasy game circular quest medal, a horned monstrous silhouette above a mountain peak, with a teal inset and bronze edging. Single symmetrical round medal centered and filling the square, high contrast sculpted forms and dark outer background, hand-painted stylized fantasy, legible at small size. No lettering, numbers, logos, ribbons, or copied designs.",
+      "masterPath": "docs/design/whetstorm-art/weekly/medal_worldboss.png",
+      "masterSha256": "f4fb5909b5d29836e9b4112271e3b135d4d7053b24104073894e4999657c43ab",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/weekly/medal_worldboss.webp",
+      "deliverySha256": "9b9c0ceaccae5d2c22b7c99b1a7140c079f6a007d0680b63ca47c60d5ec6194d",
+      "deliveryDimensions": [
+        128,
+        128
+      ],
+      "processing": "Lanczos resize; Pillow WebP quality 84, method 6"
+    },
+    {
+      "id": "emissary",
+      "prompt": "Original Whetstorm fantasy game character portrait, a warm, dignified male fantasy town emissary with swept-back dark hair, short goatee, violet hooded robe, and a ledger; shoulders and head, facing slightly toward the viewer. Square crop, painted edge to edge, dark muted background, friendly serious expression, stylized hand-painted shapes, warm light, clear silhouette, no writing, logos or copied designs.",
+      "masterPath": "docs/design/whetstorm-art/weekly/emissary.png",
+      "masterSha256": "94b5e5e15edb9aa92c62772317982845c40e7a5b19b3c923a048943d43178bcb",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/weekly/emissary.webp",
+      "deliverySha256": "8c429584dac63321362bc2a075b187f83827d364c731b905d034b51d3fa70e85",
+      "deliveryDimensions": [
+        256,
+        256
+      ],
+      "processing": "Lanczos resize; Pillow WebP quality 84, method 6"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "author": "Whetstorm, generated with OpenAI built-in image generation on 2026-10-30",
+  "referenceImages": [],
+  "processing": "Sharp resize to 768 pixels wide, preserving aspect ratio; WebP quality 82, effort 6",
+  "records": [
+    {
+      "id": "dungeons",
+      "master": "docs/design/whetstorm-art/weekly/dungeons.png",
+      "masterSha256": "10d45e7c6daad5d9f92b75e49dd0a060d00c11c6d51affce6bffaa8153a54d90",
+      "delivery": "public/ui/whetstorm/weekly/dungeons.webp",
+      "deliverySha256": "9d357480537a03170f49b055494973e218797fce638c30f98c786ffdb271e9f8",
+      "sourceOutput": "exec-fa507531-3be0-4679-9577-39b3371e0ece.png",
+      "prompt": "Use case: stylized-concept. Asset type: fantasy MMO weekly quest card illustration. A torchlit stone dungeon entrance descending beneath a wild hillside, worn arch and blue shadows. Original painterly dark fantasy art, rich muted earth colors, warm gold highlights, clear central silhouette, atmospheric depth. No text, lettering, logos, UI frame or watermark. Landscape composition suitable for a shallow center crop."
+    },
+    {
+      "id": "raid",
+      "master": "docs/design/whetstorm-art/weekly/raid.png",
+      "masterSha256": "dbfb4031e1e0668660da69869d2ca78aced53016a221d0874d9b1a951c769e23",
+      "delivery": "public/ui/whetstorm/weekly/raid.webp",
+      "deliverySha256": "e59d07d6217b4bc27ea756c7c0c68645ddec51d91b698e7193a89724fdbcc162",
+      "sourceOutput": "exec-cd31fdf3-da9f-4578-b72d-26496922d19b.png",
+      "prompt": "Use case: stylized-concept. Asset type: fantasy MMO weekly quest card illustration. A vast ancient raid citadel with glowing windows beyond a mountain valley, dramatic silhouette. Original painterly dark fantasy art, rich muted earth colors, warm gold highlights, clear central silhouette, atmospheric depth. No text, lettering, logos, UI frame or watermark. Landscape composition suitable for a shallow center crop."
+    },
+    {
+      "id": "battlegrounds",
+      "master": "docs/design/whetstorm-art/weekly/battlegrounds.png",
+      "masterSha256": "3ed8a783685d7ffffb84bb70b74bc3e1e7b80088948af42dcead54770a3d3650",
+      "delivery": "public/ui/whetstorm/weekly/battlegrounds.webp",
+      "deliverySha256": "43c68d27b98f3165e366ef5d328d7e2c847152c3b6c37c7601894c1d88a54915",
+      "sourceOutput": "exec-9feb60ed-7a09-419a-8034-1173edd17149.png",
+      "prompt": "Use case: stylized-concept. Asset type: fantasy MMO weekly quest card illustration. A windswept battleground with two empty opposing banners and scattered shields, no logos. Original painterly dark fantasy art, rich muted earth colors, warm gold highlights, clear central silhouette, atmospheric depth. No text, lettering, logos, UI frame or watermark. Landscape composition suitable for a shallow center crop."
+    },
+    {
+      "id": "worldboss",
+      "master": "docs/design/whetstorm-art/weekly/worldboss.png",
+      "masterSha256": "eb5308f2498eff71291029dccf0a05a24673d201c9ac7aaf76bf1622b2b984ff",
+      "delivery": "public/ui/whetstorm/weekly/worldboss.webp",
+      "deliverySha256": "bcd34438bca22bed4e8d96fddd4aeb6d72115c1bebd4ae00b97014058f5a12e3",
+      "sourceOutput": "exec-42cbc049-37fc-464f-92bc-db02c63d647c.png",
+      "prompt": "Use case: stylized-concept. Asset type: fantasy MMO weekly quest card illustration. A colossal horned wild beast silhouetted on a moor under storm clouds, viewed from afar. Original painterly dark fantasy art, rich muted earth colors, warm gold highlights, clear central silhouette, atmospheric depth. No text, lettering, logos, UI frame or watermark. Landscape composition suitable for a shallow center crop."
+    }
+  ]
+}

@@ -88,7 +88,7 @@ export interface WeeklyQuestDialogView {
   decline: string;
 }
 
-export const WEEKLY_ART_DIR = 'ui/weekly';
+export const WEEKLY_ART_DIR = 'ui/whetstorm/weekly';
 
 type WeeklyWorld = {
   weeklyQuest: WeeklyQuestProgress | null;

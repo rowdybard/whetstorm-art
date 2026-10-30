@@ -23,6 +23,18 @@ then test grip and clipping in both hands and all relevant poses. Remapping
 alone does not remove restricted files from a distribution. These observations
 do not change the 56-file historical inventory or establish release clearance.
 
+For the four inscription tomes, `spellbook_open.glb` is a free candidate from
+the KayKit Adventure character pack, whose source and atlas are documented by
+the [upstream pack](https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0)
+as CC0. The deployed GLB embeds a KTX2 texture; its transformed bytes have not
+been compared to the source atlas. The game already uses this open book as a
+rigid hand prop, but it is not a drop-in replacement for the closed tomes: the
+offhand attachment path does not carry the prop's `gripRef`. A replacement needs
+an explicit attachment solution and visual checks for scale, clipping, both
+hands and relevant animations. Its silhouette also changes the item appearance.
+Keep the existing tome files until a complete candidate is tested; a remap by
+itself would not remove restricted files from a distribution.
+
 ### Harbor route marker: free interim candidate
 
 A later read-only inspection found the CC0 KayKit `dungeon/sign_right.glb`

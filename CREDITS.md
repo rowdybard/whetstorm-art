@@ -1035,3 +1035,12 @@ Whetstorm using OpenAI's built-in image generation. The walnut texture and
 frame are independently authored procedural and SVG artwork. Their sources
 and hashes are recorded in the corresponding `confection-*-provenance.json`
 files under `public/ui/whetstorm/minigames/`.
+
+Original Rift and harvest deed paintings were created for Whetstorm using
+OpenAI's built-in image generation; prompts and hashes are recorded in
+`docs/whetstorm/deed-rift-harvest-generation.json`.
+
+The weekly quest scenes, medals, and emissary portrait were created for
+Whetstorm using OpenAI's built-in image generation. Prompts and hashes are in
+`docs/whetstorm/weekly-scenes-generation.json` and
+`docs/whetstorm/weekly-medals-emissary-art.json`.
