@@ -1,13 +1,13 @@
 // Loads the painted continent-overview plate shown on the world map's continent
-// level. A single static hand-authored / AI-generated key-art image at
-// /map_art/world_overview.webp, decoded once and cached. The continent painter
+// level. A simulation-derived original terrain image at
+// /map_art/whetstorm_continent.webp, decoded once and cached. The continent painter
 // blits it into the world-bounds dest rect; when it is missing the painter falls
 // back to an ocean fill plus the zone-region overlay, so the overview still works
 // (custom worlds, a stripped asset build, or a not-yet-committed plate).
 //
 // Terrain-only art contract (mirrors map_art.ts): north at the top, the same
 // east-west mirroring as the game map, no baked text or labels (the localized
-// zone names + markers are drawn on top by the painter). Swap the file in place
+// zone names + markers are drawn on top by the painter). Rebuild the file with scripts/build_whetstorm_continent.mjs
 // to change the art; the loader keys on the fixed path, nothing else.
 //
 // FRAMING contract, because the zone regions are projected onto the whole plate
@@ -25,7 +25,7 @@ type ArtState = HTMLImageElement | 'loading' | 'missing';
 let state: ArtState | null = null;
 const waiters: { onReady: (img: HTMLImageElement) => void; onMiss: () => void }[] = [];
 
-const CONTINENT_ART_SRC = '/map_art/world_overview.webp';
+const CONTINENT_ART_SRC = '/map_art/whetstorm_continent.webp';
 
 /** Load (or join the load of) the continent plate. Exactly one of the two
  *  callbacks fires: onReady with the decoded image, or onMiss so the caller can

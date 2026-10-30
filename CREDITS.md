@@ -57,6 +57,11 @@ hand-authored SVG geometry made for Whetstorm, without image inputs or
 third-party artwork. Both leaderboard podiums use this shared gold, silver
 and bronze family. The historical medal records below retain their restrictions.
 
+`public/map_art/whetstorm_continent.webp` is original procedural map art based
+on the simulation's terrain and biome data. Its generator and source lineage
+are described in `docs/whetstorm/CONTINENT_ART.md`; no upstream map image was
+used. The historical map-art records below retain their restrictions.
+
 The seven launch-class paintings (`bulwark`, `brute`, `whirlblade`, `ranger`,
 `skybinder`, `cleric`, `warden`) and eight Bulwark skill paintings are original
 Whetstorm art made with OpenAI built-in image generation from the owner's
