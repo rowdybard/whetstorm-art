@@ -1,0 +1,47 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "wildheart_stalker",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder portrait for Whetstorm, readable at 128px. Create Vineclaw Stalker, an agile green-skinned tusked troll hunter with a razorvine spear visible beside his face, leaf and vine wrappings, in a lush wild jungle basin. Head and shoulders centered, fierce watchful gaze, painterly high-detail fantasy game illustration, dramatic green light. Distinct original design. No text, letters, logos, border, watermark or interface.",
+      "path": "public/ui/whetstorm/encounters/finder-wildheart_stalker.webp",
+      "sha256": "36bccedb2ddaf193fbbb0e113a8cd403139e935fe473d1ea28b140d97389f42a",
+      "bytes": 7610,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-wildheart_stalker.png",
+        "sha256": "9d222f27cb8a822b82801c761cc379dff9a06d9d09411d3b6e096bd2fc7b8204",
+        "bytes": 2832311
+      }
+    },
+    {
+      "id": "wildheart_ravager",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder portrait for Whetstorm, readable at 128px. Create Bloodmane Ravager, a powerful brown-skinned tusked troll melee warrior with a striking rust-red mane, scarred face and rugged hide armor, in a lush wild jungle basin. Head and shoulders centered, fierce charging expression, painterly high-detail fantasy game illustration, dramatic warm light. Distinct original design. No text, letters, logos, border, watermark or interface.",
+      "path": "public/ui/whetstorm/encounters/finder-wildheart_ravager.webp",
+      "sha256": "861e3fa3d0fc085bad83566404790d1e06de86199616e5e6bf959c8dcd9499d9",
+      "bytes": 6920,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-wildheart_ravager.png",
+        "sha256": "b654a4c65c058490e772ed32e47d6f7bcedba0afb4429546f3f16190145f9a41",
+        "bytes": 2778238
+      }
+    },
+    {
+      "id": "wildheart_hexcaller",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder portrait for Whetstorm, readable at 128px. Create Sunbone Hexcaller, an olive-green tusked troll ritual caster with a sun-bleached bone headdress and ritual cloth, casting amber-green nature magic, on a jungle ritual shelf. Head and shoulders centered, focused expression, painterly high-detail fantasy game illustration, dramatic golden light. Distinct original design. No text, letters, logos, border, watermark or interface.",
+      "path": "public/ui/whetstorm/encounters/finder-wildheart_hexcaller.webp",
+      "sha256": "050101012482f59851252e0b10266933f1d2a3dda97ea1046a8a04d446e15b0e",
+      "bytes": 8056,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-wildheart_hexcaller.png",
+        "sha256": "2d218b36229da61fbaac3343780d2c0fd78e9e8017a65a2362d5993ecf7f7f20",
+        "bytes": 2749952
+      }
+    }
+  ]
+}

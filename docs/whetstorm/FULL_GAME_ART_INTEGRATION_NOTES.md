@@ -80,3 +80,11 @@ bake created untracked map plates and `src/ui/map_bg_manifest.generated.ts`
 in the partial art worktree; the full reference already tracks its own plates
 and manifest. Do not transplant the partial bake without validating freshness
 against the complete candidate's simulation and build.
+
+Dungeon Finder now has its own original encounter portrait overrides. Other
+systems still consume the separate legacy `ui/mobs` images, including target
+frames, Reliquary slain cells, a hoard event banner and raid-guide fallback
+posters. Finder replacements do not remove those dependencies. The older mob
+images are model-rendered portraits; the new Finder pictures are independent
+illustrations. Review identity, circular cropping and the larger guide poster
+before reusing the illustrations in those other systems.

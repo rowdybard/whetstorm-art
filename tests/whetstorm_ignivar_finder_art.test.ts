@@ -38,7 +38,7 @@ describe('original Ignivar finder portrait', () => {
           ?.portraitUrl,
       ).toBe(portrait);
       expect(view.rows.find((r) => r.id === `ignivar_raid_arena_${difficulty}`)?.portraitUrl).toBe(
-        '/ui/dungeons/varkhul_forgefather_of_the_last_flame.webp',
+        '/ui/whetstorm/encounters/finder-varkhul_forgefather_of_the_last_flame.webp',
       );
     }
     expect(finderPortraitUrl('ignivar_herald_of_the_last_flame_extra')).toBe(

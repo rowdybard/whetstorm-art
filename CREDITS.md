@@ -1052,3 +1052,10 @@ image generation. Prompts and hashes are recorded in
 `public/ui/whetstorm/encounters/finder-early-provenance.json`,
 `docs/whetstorm/deed-social-commerce-generation.json`, and
 `docs/whetstorm/deed-rare-smithing-generation.json`.
+
+The additional Dungeon Finder encounter paintings were created for Whetstorm
+using OpenAI's built-in image generation. Prompts and hashes are in the
+`finder-miniboss-provenance.json`, `finder-gravewyrm-provenance.json`,
+`finder-thornpeak-provenance.json`, `finder-wildheart-provenance.json`, and
+`finder-raid-wildheart-provenance.json` records under
+`public/ui/whetstorm/encounters/`.

@@ -1,0 +1,47 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "sexton_marrow",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder boss portrait for a dark fantasy game, readable at 128px. Create Sexton Marrow, an undead former chapel caretaker and gravedigger: gaunt bone face, ragged earth-brown burial keeper's coat and a small weathered bell near his shoulder, ancient crypt masonry behind. Centered head and shoulders, painterly detailed game illustration, dramatic warm candlelight and deep shadow. Distinct original design. No text, letters, logos, border, watermark or interface.",
+      "path": "public/ui/whetstorm/encounters/finder-sexton_marrow.webp",
+      "sha256": "c437323377e465834e391e76917f4f365566405fb2a37e5072bf30eb3cb45f6b",
+      "bytes": 5100,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-sexton_marrow.png",
+        "sha256": "4e3ad0294a4608add3b23a34b8ce2856e064d23eb1f152d6cae2892fbcdde119",
+        "bytes": 2706159
+      }
+    },
+    {
+      "id": "knight_commander_olen",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder boss portrait for a dark fantasy game, readable at 128px. Create Knight-Commander Olen, a drowned undead knight who died defending a flooded bastion: skeletal face within battered dark steel knight's helm, corroded plate armor, seaweed and muted teal water in a ruined stone fortress behind. Centered head and shoulders, painterly detailed game illustration, dramatic silhouette and cold light. Distinct original design. No text, letters, logos, border, watermark or interface.",
+      "path": "public/ui/whetstorm/encounters/finder-knight_commander_olen.webp",
+      "sha256": "7473a5cd22d3de99c1432c3c1e42baa53cf77dd1a8c4cbe4ce60fc1ee0fbabab",
+      "bytes": 6222,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-knight_commander_olen.png",
+        "sha256": "94520e673474bf6dfdb395d6852ac8e6b7e0908478cc2d8581155af4e85cef07",
+        "bytes": 3089755
+      }
+    },
+    {
+      "id": "choirmother_selthe",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder boss portrait for a dark fantasy game, readable at 128px. Create Choirmother Selthe, eerie female leader of a drowned cult: pale water-touched face, elaborate weathered ritual choir robes and shell-like headdress, moonlit submerged temple behind, pale violet and silver-blue palette. Centered head and shoulders, painterly detailed game illustration, dramatic silhouette and ethereal light. Distinct original design. No text, letters, logos, border, watermark or interface.",
+      "path": "public/ui/whetstorm/encounters/finder-choirmother_selthe.webp",
+      "sha256": "b93d2185bab83edb10f85867522625c645cc8e4ff6118d647830f711f9b06f3a",
+      "bytes": 5710,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-choirmother_selthe.png",
+        "sha256": "ef28dace65da5f2c3d79eb726d5896596846adc3eaca3727efdcaea8bee4cb6c",
+        "bytes": 2926877
+      }
+    }
+  ]
+}

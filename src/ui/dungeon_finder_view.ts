@@ -44,11 +44,34 @@ export type FinderTab = 'catalogue' | 'queue' | 'board' | 'vault';
 // Directory of the prerendered boss portrait stills (WebP, fixed 128x128).
 export const FINDER_PORTRAIT_DIR = '/ui/dungeons';
 
+const ORIGINAL_FINDER_PORTRAITS = new Set([
+  'morthen',
+  'vael_the_mistcaller',
+  'ysolei',
+  'sexton_marrow',
+  'knight_commander_olen',
+  'choirmother_selthe',
+  'korgath_the_bound',
+  'grand_necromancer_velkhar',
+  'korzul_the_gravewyrm',
+  'fallen_captain_aldren',
+  'corrupted_priest_malric',
+  'deathstalker_voss',
+  'bound_guardian',
+  'wildheart_stalker',
+  'wildheart_ravager',
+  'wildheart_hexcaller',
+  'wildheart_beastmaster',
+  'wildheart_high_priest',
+  'nythraxis_scourge_of_thornpeak',
+  'varkhul_forgefather_of_the_last_flame',
+]);
+
 export function finderPortraitUrl(mobId: string): string {
   if (mobId === 'ignivar_herald_of_the_last_flame') {
     return '/ui/whetstorm/encounters/ignivar-finder.webp';
   }
-  if (mobId === 'morthen' || mobId === 'vael_the_mistcaller' || mobId === 'ysolei') {
+  if (ORIGINAL_FINDER_PORTRAITS.has(mobId)) {
     return `/ui/whetstorm/encounters/finder-${mobId}.webp`;
   }
   return `${FINDER_PORTRAIT_DIR}/${mobId}.webp`;

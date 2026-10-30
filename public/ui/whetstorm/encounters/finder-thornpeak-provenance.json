@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "fallen_captain_aldren",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder portrait readable at 128px. Fallen Captain Aldren, undead skeletal warrior and former royal captain, head and shoulders, battered steel captain's armor and a broken crest, cold bone face, a heavy grave cleaver partly visible, ancient Thornpeak crypt behind. Original painterly fantasy game illustration, strong centered silhouette, cool steel and muted amber light. No text, letters, logos, border, watermark or interface; do not imitate existing games.",
+      "path": "public/ui/whetstorm/encounters/finder-fallen_captain_aldren.webp",
+      "sha256": "99466f4cb514102fd17a1ccbf239380cc6958520b0613c1120afd73efafde6b8",
+      "bytes": 5870,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-fallen_captain_aldren.png",
+        "sha256": "f84a1251165652f13e2898a0fa99931758aa335b71738d309801e33fc4a1559e",
+        "bytes": 2890968
+      }
+    },
+    {
+      "id": "corrupted_priest_malric",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder portrait readable at 128px. Corrupted Priest Malric, undead skeletal priest, head and shoulders, tattered pale lavender ceremonial vestments and frayed prayer beads, shadow magic in a ritual crypt. Original painterly fantasy game illustration, strong centered silhouette, muted violet light. No text, letters, logos, border, watermark or interface; do not imitate existing games.",
+      "path": "public/ui/whetstorm/encounters/finder-corrupted_priest_malric.webp",
+      "sha256": "9c209c5ba515f2e2d33f4d0063f53482d8300da982e7f0b275fe56bd014811f0",
+      "bytes": 6080,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-corrupted_priest_malric.png",
+        "sha256": "b5116c932f98a7766d80f0428313f349cbfd84a01e396737245c89b11eaeebd8",
+        "bytes": 2913002
+      }
+    },
+    {
+      "id": "deathstalker_voss",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder portrait readable at 128px. Deathstalker Voss, undead skeletal royal assassin, head and shoulders, weathered dark leather hood and asymmetrical leather armor, a curved blade partly visible, sepia bone and shadows of an ancient crypt. Original painterly fantasy game illustration, strong centered silhouette, restrained warm ochre and charcoal palette. No text, letters, logos, border, watermark or interface; do not imitate existing games.",
+      "path": "public/ui/whetstorm/encounters/finder-deathstalker_voss.webp",
+      "sha256": "5bad253171f2fc344f2a78c6a89cc74c8e5544fefb3fa7d2c0455cb5a4c7245f",
+      "bytes": 4780,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-deathstalker_voss.png",
+        "sha256": "a133d7c37002980830f193c7413815d6835acc3da95c8210c5afb92c08e0ab39",
+        "bytes": 2586358
+      }
+    },
+    {
+      "id": "bound_guardian",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder portrait readable at 128px. The Bound Guardian, massive undead skeletal crypt guardian, close head and shoulders, ancient heavy iron armor wrapped with thick broken ritual chains and a subtle shadow seal, stone royal crypt behind. Original painterly fantasy game illustration, imposing centered silhouette, slate gray and spectral purple lighting. No text, letters, logos, border, watermark or interface; do not imitate existing games.",
+      "path": "public/ui/whetstorm/encounters/finder-bound_guardian.webp",
+      "sha256": "5ba13d779502c2ca9a0b7545ebfb44c58b21689719e41d879d66dde6d4140c11",
+      "bytes": 5534,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-bound_guardian.png",
+        "sha256": "554bbc7db624438cb113a77cbb28b2525eef8d9f89bfdd4f5090d5b20733b0f4",
+        "bytes": 3115017
+      }
+    }
+  ]
+}

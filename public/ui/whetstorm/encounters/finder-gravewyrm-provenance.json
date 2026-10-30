@@ -1,0 +1,47 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "korgath_the_bound",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder boss portrait, readable at 128px. Korgath the Bound: massive ogre champion, ochre earth-toned skin, grim exhausted face, heavy iron chains wrapped around broad shoulders, straining against captivity in an ancient stone sanctum. Centered head and shoulders, painterly high-detail dark fantasy game illustration, dramatic warm stone light. Distinct original design. No text, letters, logo, border, watermark or interface.",
+      "path": "public/ui/whetstorm/encounters/finder-korgath_the_bound.webp",
+      "sha256": "e3fb2c3bc869692097e92f26290015a2697e76b36310ae957bb2b66efbac4440",
+      "bytes": 5524,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-korgath_the_bound.png",
+        "sha256": "97aa31b50e5be611dbc6df81a968dc81495e5e3fa415bcb08974fff479f87519",
+        "bytes": 2797066
+      }
+    },
+    {
+      "id": "grand_necromancer_velkhar",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder boss portrait, readable at 128px. Grand Necromancer Velkhar: living humanoid ritual master in deep purple robes, severe face, ornate but original ritual collar, stolen souls glowing as wisps around him in an ancient vaulted crypt. Centered head and shoulders, painterly high-detail dark fantasy game illustration, violet and spectral light. Distinct original design. No text, letters, logo, border, watermark or interface.",
+      "path": "public/ui/whetstorm/encounters/finder-grand_necromancer_velkhar.webp",
+      "sha256": "d0101814eaa2c72bfdce161b3ab67b524b236d43d0d7f6bd3de535af79f79d93",
+      "bytes": 5668,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-grand_necromancer_velkhar.png",
+        "sha256": "665b58ba3b63da0650159312276c36a8abd595e613ff966cc7253308e3851d45",
+        "bytes": 2744705
+      }
+    },
+    {
+      "id": "korzul_the_gravewyrm",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square dungeon finder boss portrait, readable at 128px. Korzul the Gravewyrm: ancient dragon head and shoulders, dark weathered scales, distinctive swept horns, embers and grave fire flickering in a deep mountain hollow, awakened and imposing. Centered close-up, painterly high-detail dark fantasy game illustration, dramatic firelit silhouette. Distinct original design. No text, letters, logo, border, watermark or interface.",
+      "path": "public/ui/whetstorm/encounters/finder-korzul_the_gravewyrm.webp",
+      "sha256": "ef626b8fcbe540aa241643c4ce31cbee73bf40bfd31fbf3040dd6080aa9d0e85",
+      "bytes": 6206,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-korzul_the_gravewyrm.png",
+        "sha256": "2aef7f3fef24e1aa5e5a4926ebd0b18edecaad8f3886f2d8a655b0b314506e2b",
+        "bytes": 2867057
+      }
+    }
+  ]
+}

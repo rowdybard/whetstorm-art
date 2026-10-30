@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "nythraxis_scourge_of_thornpeak",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy game encounter portrait: an ancient undead grave lord wearing battered dark armor, bone motifs and violet magical light in a mountain tomb. Head and shoulders, centered, painterly illustration, readable at small sizes. No text, logos, borders or watermark.",
+      "path": "public/ui/whetstorm/encounters/finder-nythraxis_scourge_of_thornpeak.webp",
+      "sha256": "86149c740327a1f85b3d434f46b3f9817699b8ce2c9322c7f68c08a947cc421a",
+      "bytes": 5878,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-nythraxis_scourge_of_thornpeak.png",
+        "sha256": "fa76e96d95b4a57a1f93c46482a7f63ca9f211f21ab456d0a81f03985127d6e3",
+        "bytes": 3067464
+      }
+    },
+    {
+      "id": "varkhul_forgefather_of_the_last_flame",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy game encounter portrait: a mighty elemental forge father, face of charcoal iron with molten seams and ember eyes, heavy smith armor, furnace behind. Head and shoulders, centered, painterly illustration, readable at small sizes. No text, logos, borders or watermark.",
+      "path": "public/ui/whetstorm/encounters/finder-varkhul_forgefather_of_the_last_flame.webp",
+      "sha256": "d2892135545b2666e19f90f7e50f5cf19cb92c3e13469d90aa9e2157de9094bc",
+      "bytes": 7188,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-varkhul_forgefather_of_the_last_flame.png",
+        "sha256": "9d28d2195c8e4322a00522bb64c21831da359cdbcf1fb8ccd75be431373243a7",
+        "bytes": 2812297
+      }
+    },
+    {
+      "id": "wildheart_beastmaster",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy game portrait of a rugged green-skinned tusked hunter, wearing simple leather and carrying a wooden spear, lush green jungle setting. Centered head and shoulders, colorful painterly illustration suitable for a small game icon. No text, logos, borders or watermark.",
+      "path": "public/ui/whetstorm/encounters/finder-wildheart_beastmaster.webp",
+      "sha256": "555201e34b1a007628be5a29267ae35acdd161b1c5c8f61dd7b210b052921d2a",
+      "bytes": 6450,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-wildheart_beastmaster.png",
+        "sha256": "057b9be2199714d45cdd11d5c75999a80ff09ff4c7a150d09ae0414361dbac06",
+        "bytes": 2725611
+      }
+    },
+    {
+      "id": "wildheart_high_priest",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy game encounter portrait: a troll high priest with tusks and a ceremonial jaguar headdress, ancient stone jungle terrace and luminous nature magic. Head and shoulders, centered, painterly illustration, readable at small sizes. No text, logos, borders or watermark.",
+      "path": "public/ui/whetstorm/encounters/finder-wildheart_high_priest.webp",
+      "sha256": "9749bef22c219e953e96e4fdbb80c90ca84ded8380ac6d2820c38562cd24f405",
+      "bytes": 7816,
+      "master": {
+        "path": "docs/design/whetstorm-art/encounters/finder-wildheart_high_priest.png",
+        "sha256": "ac03587e26d74bd8edd6a0632129aca7aea3d59a160d25a20fd59ec58b151a6a",
+        "bytes": 3090039
+      }
+    }
+  ]
+}
