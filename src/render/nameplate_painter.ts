@@ -22,6 +22,7 @@ import { deedBorderSlug } from '../ui/deed_border_view';
 import { deedTitleText } from '../ui/deed_i18n';
 import { devTierBadgeDataUrl, devTierByIndex, devTierNameOutlineColor } from '../ui/dev_tier';
 import { discordRoleTagLabel } from '../ui/discord_role_tag';
+import { emoteIconUrl } from '../ui/emote_icons';
 import { tEntity } from '../ui/entity_i18n';
 import { hillBountyTagLabel } from '../ui/hill_bounty_tag';
 import { holderTierBadgeDataUrl, holderTierByIndex } from '../ui/holder_tier';
@@ -78,8 +79,6 @@ const NAMEPLATE_DOT_NUMBER_OPTIONS = [
 ] as const;
 const HOLDER_BADGE_URLS = new Map<number, string>();
 const DEV_BADGE_URLS = new Map<number, string>();
-
-const emoteIconUrl = (id: string): string => `/ui/emotes/emote-${id}.png`;
 
 // Nameplate dot artwork, keyed by the aura id. Static art wins; otherwise the
 // procedural icon, taken from the shared cache when it is already warm and minted

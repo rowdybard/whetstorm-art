@@ -81,6 +81,11 @@ The News and High Scores heading SVGs under `public/ui/whetstorm/` are original
 hand-authored artwork made for this fork without image references. The historical
 website feature image records below retain their restrictions.
 
+The thirteen emote SVGs under `public/ui/emotes/` are original hand-authored
+pictograms based on emote names, without image references. Their provenance is
+described in `docs/whetstorm/emote-icon-provenance.md`; this does not establish
+the rights for the earlier emote bitmaps.
+
 The silver-, gold-, and prismatic-tier Fiesta augment icons under
 `public/ui/whetstorm/fiesta/augments/` are original hand-authored SVGs based on
 the live augment mechanics. Paths and hashes are recorded in the
