@@ -1,0 +1,108 @@
+{
+  "assets": [
+    {
+      "itemId": "pattern_fenbloom_breeches",
+      "file": "docs/design/whetstorm-art/items/pattern_fenbloom_breeches.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one partly unfurled aged parchment sewing pattern, tied with olive cord, bearing a clear painted image of green-brown leather breeches with subtle marsh flower embroidery. Complete centered silhouette, ample margins; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment, premium hand-painted dark fantasy. No letters, writing, borders, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "a54261b7f793694a04d900c8adb73126686ec6c018367c050f5fa74d27667356",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_fenbloom_breeches.webp",
+        "sha256": "537c6201946d0d501da851fe4ccb8f342c2b20f84e41ae937948de3746f3ff93",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3852
+      }
+    },
+    {
+      "itemId": "pattern_barksong_handguards",
+      "file": "docs/design/whetstorm-art/items/pattern_barksong_handguards.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: a partly unfurled aged parchment sewing pattern tied with brown cord, bearing a clearly recognizable pair of five-finger leather gloves, bark-textured knuckle guards and leaf detailing. Show complete fingers and thumbs, not bracers. Complete centered silhouette, ample margins; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment, premium hand-painted dark fantasy. No letters, writing, borders, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "4d4752c58be589886f81e345d941cbaeb68c20c7d90b9c103faf0b2aedb7b1ce",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_barksong_handguards.webp",
+        "sha256": "728a1be7b5c1599bddab0b1e771e30bdce7f1271a0ab9f07e27e085ff3952ae0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4674
+      }
+    },
+    {
+      "itemId": "pattern_sunspun_vestments",
+      "file": "docs/design/whetstorm-art/items/pattern_sunspun_vestments.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one partly unfurled aged parchment sewing pattern, tied with gold cord, bearing a clear painted image of a cream cloth vestment with golden sunburst embroidery. Complete centered silhouette, ample margins; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment, premium hand-painted dark fantasy. No letters, writing, borders, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "f897f72a3e9809977da1fe7dd381972c17d1cef2d57a85f8573f68728e11e6cd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_sunspun_vestments.webp",
+        "sha256": "a92cf2d9479c9ea27ca97e4bc8982c4380fdb5dc844a8c96022d31ba3f3599cb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4094
+      }
+    },
+    {
+      "itemId": "pattern_sunspun_leggings",
+      "file": "docs/design/whetstorm-art/items/pattern_sunspun_leggings.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one partly unfurled aged parchment sewing pattern, tied with ochre cord, bearing a clear painted image of cream cloth leggings with golden sunburst embroidery. Complete centered silhouette, ample margins; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment, premium hand-painted dark fantasy. No letters, writing, borders, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "895c9d50b1700751d528e401838ad2c95092cba23d304c281172368b4df6d0d7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_sunspun_leggings.webp",
+        "sha256": "6f80c599c974f68b4a699fc3e82490715893c2f46fa640e987c041ecb506c113",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3938
+      }
+    }
+  ]
+}

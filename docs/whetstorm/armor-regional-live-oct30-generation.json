@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "monarch_crown_helm",
+      "file": "docs/design/whetstorm-art/items/monarch_crown_helm.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, broad shapes readable at 32 pixels. One complete Monarch's Crown: a soft dark plum woven cloth cap with a simple gold-thread crown motif and embroidered band, no metal, empty opening, centered with space. No head, person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "ebcb77169a9b9d887be0a16a06f46b8fa0dd03999261531fa3f16a6828c8c031",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/monarch_crown_helm.webp",
+        "sha256": "1b02a1868e6f68080164c4c6ec1fe4a2ede84e857dc9e51d827db4e36e08bccc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "wardens_oathband",
+      "file": "docs/design/whetstorm-art/items/wardens_oathband.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, broad shapes readable at 32 pixels. One complete pair of Warden's Oathband cloth gloves: soft tan woven gloves with dark green cloth wrist bands and subtle gold thread stitching, no metal or leather, both gloves centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "efe375d6baa6efdccbd34055dd35a29a6d614441b16430b124a2f6d005df43a8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wardens_oathband.webp",
+        "sha256": "1c84b283b4cc1c98590b8854fb7d0ba18244cdd19f00edac30e51466a0ed531e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "vineclaw_stalking_breeches",
+      "file": "docs/design/whetstorm-art/items/vineclaw_stalking_breeches.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, broad shapes readable at 32 pixels. One complete pair of Vineclaw Stalking Breeches: dark green and brown stitched leather pants from waist to ankle, two separate legs, overlapping leaf-shaped leather patches and thin vine embroidery, no feet, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "bb9ad61002e6454fdcca6a76c866755c45d58a47a95d7d3b277ca1f285100cdf",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vineclaw_stalking_breeches.webp",
+        "sha256": "48426034eb94b447f6a70fe9f5190fe2c817e91c6213b0eaf97906c488bffa6e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "sunken_idol_mantle",
+      "file": "docs/design/whetstorm-art/items/sunken_idol_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, broad shapes readable at 32 pixels. One complete Mantle of the Sunken Idol: sea-green woven cloth shoulder wraps with layered folds and pale gold geometric embroidered edging, no metal or leather, both shoulders centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "74854d8020115a2fd02141fcf21972934608279aca00acd07b94576845807501",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunken_idol_mantle.webp",
+        "sha256": "dc1d18fbfae8d6137b49ab59d5c49bcab977f10f6e4765b1903be1244bfabbfc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

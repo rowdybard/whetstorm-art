@@ -172,6 +172,7 @@ import { oathpyreArmorItemImageUrl } from './oathpyre_armor_item_art';
 import { oct30EighthArmorItemImageUrl } from './oct30_eighth_armor_item_art';
 import { oct30EleventhOriginalItemImageUrl } from './oct30_eleventh_original_item_art';
 import { oct30FifthOriginalItemImageUrl } from './oct30_fifth_original_item_art';
+import { oct30FourteenthOriginalItemImageUrl } from './oct30_fourteenth_original_item_art';
 import { oct30FourthOriginalItemImageUrl } from './oct30_fourth_original_item_art';
 import { oct30NinthOriginalItemImageUrl } from './oct30_ninth_original_item_art';
 import { oct30OriginalItemImageUrl } from './oct30_original_item_art';
@@ -267,6 +268,7 @@ export function paintedItemImageUrl(id: string): string | null {
     recipeScrollBatchItemImageUrl(id) ??
     recipeScrollProvisionsItemImageUrl(id) ??
     recipeScrollFishStationsItemImageUrl(id) ??
+    oct30FourteenthOriginalItemImageUrl(id) ??
     oct30ThirteenthOriginalItemImageUrl(id) ??
     oct30TwelfthOriginalItemImageUrl(id) ??
     oct30EleventhOriginalItemImageUrl(id) ??
