@@ -147,7 +147,7 @@ export const ITEM_WEAPON_VARIANTS: Record<string, string> = {
   gravewyrm_cleaver: 'adv_axe_1handed', // EPIC: Heroic Korzul axe
   // Nythraxis gap-fill one-handers (content/zone3.ts).
   courtiers_bonefang: 'adv_dagger',
-  thornpeak_wardblade: 'purple_sword',
+  thornpeak_wardblade: 'adv_sword_1handed',
   gravecourt_hewer: 'purple_axe',
   pitlords_cleaver: 'adv_axe_1handed', // rift rare cleaver (heroic clone rides heroicOf)
   tunnelkings_spade: 'adv_axe_2handed',
