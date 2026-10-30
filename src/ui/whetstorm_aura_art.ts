@@ -6,6 +6,7 @@ import { whetstormCombatProcAuraImageUrl } from './whetstorm_combat_proc_aura_ar
 import { whetstormElementalProcAuraImageUrl } from './whetstorm_elemental_proc_aura_art';
 import { whetstormEncounterAuraImageUrl } from './whetstorm_encounter_aura_art';
 import { whetstormEngineAuraImageUrl } from './whetstorm_engine_aura_art';
+import { whetstormFlaskAuraImageUrl } from './whetstorm_flask_aura_art';
 import { whetstormGeneralEffectAuraImageUrl } from './whetstorm_general_effect_aura_art';
 import { whetstormHunterAuraImageUrl } from './whetstorm_hunter_aura_art';
 import { whetstormHunterCooldownAuraImageUrl } from './whetstorm_hunter_cooldown_aura_art';
@@ -100,6 +101,7 @@ export function whetstormAuraImageUrl(id: string): string | null {
     whetstormBattlegroundAuraImageUrl(id) ??
     whetstormBloomWardAuraImageUrl(id) ??
     whetstormEngineAuraImageUrl(id) ??
+    whetstormFlaskAuraImageUrl(id) ??
     whetstormElementalProcAuraImageUrl(id) ??
     whetstormWarfareAuraImageUrl(id) ??
     whetstormLineageAuraImageUrl(id) ??

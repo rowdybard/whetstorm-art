@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "raised_guard",
+      "path": "public/ui/whetstorm/abilities/raised_guard.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy MMO warrior ability icon painting: Raised Guard, a rugged steel shield held upright against a glancing physical blow, clear impact sparks. Bold silhouette, warm bronze and steel, dark background, painterly, readable at 32px. Opaque, no text, numbers, border, watermark or UI.",
+      "sha256": "a616ef72c5cab8477f69576946d14001ef71bc20dae2af75b33a3eeadcb0825b",
+      "bytes": 6042,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/raised_guard.png",
+        "sha256": "f133065f660ddd687fedb229f7d207c90ba85f837ff5647cdbc49ff3b69f281e",
+        "bytes": 2804345
+      }
+    },
+    {
+      "id": "demoralizing_shout",
+      "path": "public/ui/whetstorm/abilities/demoralizing_shout.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy MMO warrior ability icon painting: Direhowl, a warrior helmet in profile with open mouth shouting, visible broad orange shockwaves driving away dark shapes. Bold silhouette, deep crimson background, painterly, readable at 32px. Opaque, no text, numbers, border, watermark or UI.",
+      "sha256": "647ab6a7a5d5ca5402e41024f4695af6500c9a5c6ad7df13cc826e1d2977c7f4",
+      "bytes": 5840,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/demoralizing_shout.png",
+        "sha256": "5128ca4bbd465b85700a729a8f9092e425860e0f1afb47c9e816b15e1aa87c5b",
+        "bytes": 2328371
+      }
+    },
+    {
+      "id": "taunt",
+      "path": "public/ui/whetstorm/abilities/taunt.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy MMO warrior ability icon painting: Goad, a heavy armored gauntlet beckoning a foe with one curled finger, dramatic warm light against dark crimson backdrop. Bold silhouette, painterly, readable at 32px. Opaque, no text, numbers, border, watermark or UI.",
+      "sha256": "b060f944299f624904326cfe10b714709838ea7038175791d116123e6a1985ff",
+      "bytes": 4366,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/taunt.png",
+        "sha256": "9bf73cb3c7f8dc8064de363891f5204657d75fb87b304d0576bff402ebcee294",
+        "bytes": 2216422
+      }
+    },
+    {
+      "id": "pummel",
+      "path": "public/ui/whetstorm/abilities/pummel.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy MMO warrior ability icon painting: an armored fist punches through a glowing violet orb which shatters into angular shards, representing interruption. Bold silhouette, bronze steel and violet, dark backdrop, readable at 32px. No symbols, glyphs, writing, numbers, border, watermark or UI. Opaque.",
+      "sha256": "abbb6a7e8d6ac81e5da3cc3a3f0f770616d8ec894df8283d13df2e4987d2ef15",
+      "bytes": 6520,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/pummel.png",
+        "sha256": "b9fc2d0ba81b93676c0a126e8bb7f99f7b48a90e63faea885fa3eefa542059a5",
+        "bytes": 2679242
+      }
+    }
+  ]
+}

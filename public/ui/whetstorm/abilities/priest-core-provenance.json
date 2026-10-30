@@ -1,0 +1,48 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputImages": [],
+  "processing": "sharp resize to 128x128, WebP quality 90",
+  "entries": [
+    {
+      "id": "heal",
+      "path": "public/ui/whetstorm/abilities/priest_core_heal.webp",
+      "sha256": "2d396cb54975ade73144f621c88acbe5a9c9d0d53ed2368e1cc02e64466866d1",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/priest-core/heal.png",
+        "sha256": "d1b9cc79f7dde358ebc659bd6cf4609b386aca9b355074c2b6d169f3920eb5c0"
+      },
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG ability icon painting, Solemn Prayer: two gently cupped hands cradling a warm golden radiant orb, calm sacred healing, soft ivory light. Single clear central silhouette, dramatic painterly rendering, rich contrast, dark unobtrusive background, readable at 32 pixels, edge-to-edge composition without frame. No letters, words, symbols resembling text, logos or watermark."
+    },
+    {
+      "id": "flash_heal",
+      "path": "public/ui/whetstorm/abilities/priest_core_flash_heal.webp",
+      "sha256": "dbd9ae90e6f3d8b4262f60a6dc54cede44145b4f48ea4b3e0f720d9201f6faee",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/priest-core/flash_heal.png",
+        "sha256": "b4f5b92d108e496e2eb029fd0fed8742b23650397bf8a7fd4d68b3afab4170ee"
+      },
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG ability icon painting, Urgent Prayer: a bright golden starburst of healing light emerging from an upraised hand, swift concentrated energy, ivory and amber. Single clear central silhouette, dramatic painterly rendering, rich contrast, dark unobtrusive background, readable at 32 pixels, edge-to-edge composition without frame. No letters, words, symbols resembling text, logos or watermark."
+    },
+    {
+      "id": "shadow_word_pain",
+      "path": "public/ui/whetstorm/abilities/priest_core_shadow_word_pain.webp",
+      "sha256": "d00622abdc07c191971d99d640298f891067020894395367879579c045dd9699",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/priest-core/shadow_word_pain.png",
+        "sha256": "29ebb73204c667642267719df702d934735779388cbbb37195936426b62ed326"
+      },
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG ability icon painting, Dirge of Decay: a dark violet thorn-entwined skull dissolving into shadowy wisps, ominous damage over time. Single clear central silhouette, dramatic painterly rendering, rich contrast, dark unobtrusive background, readable at 32 pixels, edge-to-edge composition without frame. No letters, words, symbols resembling text, logos or watermark."
+    },
+    {
+      "id": "mind_flay",
+      "path": "public/ui/whetstorm/abilities/priest_core_mind_flay.webp",
+      "sha256": "e19a06dab3758a91bdd8cbd77460858e2e019c21f4d889036c92fb2455e3bfe1",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/priest-core/mind_flay.png",
+        "sha256": "044f7d9c66176864d5719f7704d7ced65d83032f7342456a864013bf3f67ef48"
+      },
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG ability icon painting, Litany of Woe: a spectral violet head silhouette pierced by narrow streams of purple shadow energy, focused channeled mental attack. Single clear central silhouette, dramatic painterly rendering, rich contrast, dark unobtrusive background, readable at 32 pixels, edge-to-edge composition without frame. No letters, words, symbols resembling text, logos or watermark."
+    }
+  ]
+}

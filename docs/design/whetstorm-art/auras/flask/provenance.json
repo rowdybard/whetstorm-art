@@ -1,0 +1,31 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Distinct vessels and heart/fist/eye motifs checked at 28px; runtime integration and in-game review pending.",
+  "entries": [
+    {
+      "id": "flask_buff_sta",
+      "prompt": "Create one original opaque square fantasy MMO aura icon, premium hand-painted, centered complete broad sturdy glass flask containing deep red liquid, with a simple heart-shaped brass seal to suggest stamina. Corked flask, no text, dark umber vignette, top-left warm light, tactile glass, strong silhouette readable at 22 pixels. No border, letters, watermark, hands or extra objects.",
+      "source": "docs/design/whetstorm-art/auras/flask/flask_buff_sta.png",
+      "sourceSha256": "a52aade4e88fedb8156d791e2acbd2e86e5cfec585adf6f29cf352cebc597726",
+      "output": "public/ui/whetstorm/auras/flask_buff_sta.webp",
+      "outputSha256": "8f0587b9a13b926a9b578c67dd8c2817f6aae601d4a1c1a64da018a9f8b05abc"
+    },
+    {
+      "id": "flask_buff_ap",
+      "prompt": "Create one original opaque square fantasy MMO aura icon, premium hand-painted, centered complete squat angular glass flask containing amber liquid, with a simple clenched-fist brass seal to suggest attack power. Corked flask, no text, dark umber vignette, top-left warm light, tactile glass, strong silhouette readable at 22 pixels. No border, letters, watermark, hands or extra objects.",
+      "source": "docs/design/whetstorm-art/auras/flask/flask_buff_ap.png",
+      "sourceSha256": "85fedaaa067a642dd6b8b4e77adfb210bd816437c564444f4fda9bb1a9d4eaa3",
+      "output": "public/ui/whetstorm/auras/flask_buff_ap.webp",
+      "outputSha256": "7c6399d33603744dc109a0644a2b57bf05fa4aae18b0483be25280d6e9824de4"
+    },
+    {
+      "id": "flask_buff_int",
+      "prompt": "Create one original opaque square fantasy MMO aura icon, premium hand-painted, centered complete tall faceted glass flask containing violet-blue liquid, with a simple eye-shaped silver seal to suggest intellect. Corked flask, no text, dark navy vignette, top-left warm light, tactile glass, strong silhouette readable at 22 pixels. No border, letters, watermark, hands or extra objects.",
+      "source": "docs/design/whetstorm-art/auras/flask/flask_buff_int.png",
+      "sourceSha256": "a7a99deb1012450d9fd3d29200518efe84d42157346f0c5acd409c507fe86554",
+      "output": "public/ui/whetstorm/auras/flask_buff_int.webp",
+      "outputSha256": "fc18baa45178c5935f37432273dba76ad1a621a967635ade48c613e4580c20a6"
+    }
+  ]
+}

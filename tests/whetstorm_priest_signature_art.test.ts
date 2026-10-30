@@ -34,5 +34,5 @@ it('pins original Priest signature paintings and their full-resolution masters',
     expect((await sharp(original).metadata()).width).toBeGreaterThan(128);
   }
   expect(whetstormPriestSignatureImageUrl('../smite')).toBeNull();
-  expect(whetstormPriestSignatureImageUrl('heal')).toBeNull();
+  expect(whetstormPriestSignatureImageUrl('unknown_ability')).toBeNull();
 });
