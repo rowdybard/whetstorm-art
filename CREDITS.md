@@ -1115,6 +1115,15 @@ Four utility trinket paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/utility-trinket-generation.json`.
 
+Two additional trinket paintings and three farming milestone paintings were
+generated with OpenAI's built-in image generation. Prompts and hashes are
+recorded in `docs/whetstorm/final-trinket-generation.json` and
+`docs/design/whetstorm-art/deeds/farming-milestones/provenance.md`.
+
+Four Wildheart and rare-hunt deed paintings were generated with OpenAI's
+built-in image generation; prompts and hashes are recorded in
+`docs/whetstorm/deed-wildheart-rares-generation.json`.
+
 Original Shaman, Rogue, and Paladin ability paintings, Willowfen and Galecrest
 deed paintings, encounter aura paintings, and Ley and Confection puzzle art
 were created for Whetstorm using OpenAI's built-in image generation. Prompts

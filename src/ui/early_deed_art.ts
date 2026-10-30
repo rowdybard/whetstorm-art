@@ -25,6 +25,7 @@ import { earlyCollectionDeedImageUrl } from './early_collection_deed_art';
 import { earlySocialDeedImageUrl } from './early_social_deed_art';
 import { experienceDeedImageUrl } from './experience_deed_art';
 import { explorationDeedImageUrl } from './exploration_deed_art';
+import { farmingMilestoneDeedImageUrl } from './farming_milestone_deed_art';
 import { factionStandingDeedImageUrl } from './faction_standing_deed_art';
 import { floodedChallengeDeedImageUrl } from './flooded_challenge_deed_art';
 import { gatheringBookendDeedImageUrl } from './gathering_bookend_deed_art';
@@ -82,6 +83,7 @@ export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
     factionStandingDeedImageUrl(id) ??
+    farmingMilestoneDeedImageUrl(id) ??
     rareCraftDeedImageUrl(id) ??
     grandmasterCraftDeedImageUrl(id) ??
     palmreachFishingDeedImageUrl(id) ??

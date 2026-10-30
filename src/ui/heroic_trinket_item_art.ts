@@ -16,6 +16,8 @@ const ART = new Map<string, string>([
   ['sundered_prism', '/ui/whetstorm/items/sundered_prism.webp'],
   ['wayfarers_lodestone', '/ui/whetstorm/items/wayfarers_lodestone.webp'],
   ['medallion_of_defiance', '/ui/whetstorm/items/medallion_of_defiance.webp'],
+  ['duelists_brand', '/ui/whetstorm/items/duelists_brand.webp'],
+  ['heart_of_the_crucible', '/ui/whetstorm/items/heart_of_the_crucible.webp'],
 ]);
 
 export function heroicTrinketItemImageUrl(id: string): string | null {

@@ -20,6 +20,10 @@ const ACTIVITY_DEED_ART = new Map<string, string>([
   ['prog_crown_below', '/ui/whetstorm/deeds/prog_crown_below.webp'],
   ['prog_mere_at_rest', '/ui/whetstorm/deeds/prog_mere_at_rest.webp'],
   ['chr_peaks_chapter_iii', '/ui/whetstorm/deeds/chr_peaks_chapter_iii.webp'],
+  ['chr_peaks_rares_ii', '/ui/whetstorm/deeds/chr_peaks_rares_ii.webp'],
+  ['chr_hollow_rares', '/ui/whetstorm/deeds/chr_hollow_rares.webp'],
+  ['dgn_wildheart_basin', '/ui/whetstorm/deeds/dgn_wildheart_basin.webp'],
+  ['dgn_wildheart_basin_heroic', '/ui/whetstorm/deeds/dgn_wildheart_basin_heroic.webp'],
 ]);
 
 export function activityDeedImageUrl(id: string): string | null {

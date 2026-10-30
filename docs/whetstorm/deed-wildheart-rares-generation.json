@@ -1,0 +1,56 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputs": "No reference images",
+  "processing": "Sharp 128x128 opaque WebP quality 88 effort 6",
+  "entries": [
+    {
+      "id": "chr_peaks_rares_ii",
+      "path": "public/ui/whetstorm/deeds/chr_peaks_rares_ii.webp",
+      "bytes": 7964,
+      "sha256": "d9f273d80cc9c66e986a4404226e6b802387fa16f8fd494d16f634d4feae9665",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/wildheart-rares/chr_peaks_rares_ii.png",
+        "bytes": 2809952,
+        "sha256": "1f98011072caf8f76c67ce1621e8b783ffed6d99ae0fab841c757168671f9c3b"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A rugged mountain crest with a large claw mark beside a blue crystalline shard, both prominent against snowy dark rock, symbolizing two mountain foes. Hand-painted dark fantasy illustration, bold simple centered silhouette and high contrast, readable at 28 pixels. No lettering, numerals, words, border, logo or watermark."
+    },
+    {
+      "id": "chr_hollow_rares",
+      "path": "public/ui/whetstorm/deeds/chr_hollow_rares.webp",
+      "bytes": 7924,
+      "sha256": "af0804d6d42122bc9cd1a2201c681576905345fdae4670386b1ab69c3aae00ea",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/wildheart-rares/chr_hollow_rares.png",
+        "bytes": 2740715,
+        "sha256": "15b27179015acda7cf8c1e822f27ff2785c3d8f02c53354d4ed05c4f917fe4da"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A large crab shell and a golden curved horn side by side above a still green woodland pool, symbolizing two rare beasts. Hand-painted dark fantasy illustration, bold simple centered silhouette and high contrast, readable at 28 pixels. No lettering, numerals, words, border, logo or watermark."
+    },
+    {
+      "id": "dgn_wildheart_basin",
+      "path": "public/ui/whetstorm/deeds/dgn_wildheart_basin.webp",
+      "bytes": 8368,
+      "sha256": "7d5042acf0f073af9f29296fc0697bd9e113f72db998ca74cf10f5c5d872348d",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/wildheart-rares/dgn_wildheart_basin.png",
+        "bytes": 2881777,
+        "sha256": "329def2e73ccd6e9aa4f12a09fb27903a0c90e7c7e8da6ec83fe191e0f0fd2b0"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A carved wooden beast mask before a lush green basin, a simple bronze spear laid diagonally across it, warm earthy colors. Hand-painted dark fantasy illustration, bold simple centered silhouette and high contrast, readable at 28 pixels. No lettering, numerals, words, border, logo or watermark."
+    },
+    {
+      "id": "dgn_wildheart_basin_heroic",
+      "path": "public/ui/whetstorm/deeds/dgn_wildheart_basin_heroic.webp",
+      "bytes": 8056,
+      "sha256": "073eb04110ea586f736c19c4430fd0beef324313577f34b8790c011ea06a805c",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/wildheart-rares/dgn_wildheart_basin_heroic.png",
+        "bytes": 2499739,
+        "sha256": "7133241657edb49ad9a75acaa615631ce1cc2443b0cd9b370514c9c12cfc7b63"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A radiant golden beast mask before a deep violet forest basin, crossed silver spears and a bright gold star above it, conveying a heroic victory. Hand-painted dark fantasy illustration, bold simple centered silhouette and high contrast, readable at 28 pixels. No lettering, numerals, words, border, logo or watermark."
+    }
+  ]
+}

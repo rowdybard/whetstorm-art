@@ -1,0 +1,33 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected full source images; small-size and in-game review pending.",
+  "records": [
+    {
+      "id": "duelists_brand",
+      "prompt": "Square painted fantasy MMO inventory icon: Duelist's Brand, a compact iron branding stamp shown three-quarter face-on. Its oversized broad square stamp head fills most of the image and carries a bold simple raised crossed-swords emblem, with a short thick leather-wrapped handle visibly attached behind it. Center the entire single object with padding, warm top-left light, tactile forged iron, dark charcoal background. Designed for instant recognition at 28px. No hand, text, letters, numbers, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/duelists_brand.png",
+      "masterSha256": "07f668dee5a46d3e8ab913151a98c55dd1a7f5d9f755cdcea7c092c08a958bb4",
+      "shipping": "public/ui/whetstorm/items/duelists_brand.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "07f7393261c28280c099ee0b51fd4790bfd5a04c75faba6d9e7281ff6f404126",
+      "superseded": {
+        "prompt": "Square painted fantasy MMO inventory icon: Duelist's Brand, one narrow iron branding stamp with a small crossed-blades emblem at its working end and a wrapped leather grip. Center complete single object diagonally with generous margin; tactile forged metal, warm top-left light, dark charcoal backdrop. Bold silhouette readable at 22px, no hand, text, letters, numbers, border, watermark or UI.",
+        "masterSha256": "71f387f14612860dde8d3151f7097b69ded59dd394ec4b64feb0bcdbffc0867d",
+        "shippingSha256": "f9454ba5f9fe76e9a3ffcc12eb5a4f08661cf5324ca583608923c82d42bf4e50",
+        "reason": "Stamp head too small at 28px."
+      }
+    },
+    {
+      "id": "heart_of_the_crucible",
+      "prompt": "Square painted fantasy MMO inventory icon: Heart of the Crucible, one compact rough heart-shaped volcanic iron core with glowing molten fissures and restrained sparks inside, no container. Center complete single object with generous margin; tactile blackened metal and amber fire, warm top-left light, dark charcoal backdrop. Bold silhouette readable at 22px, no hand, text, letters, numbers, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/heart_of_the_crucible.png",
+      "masterSha256": "d877818266d8e61aa8ed72d7792e9a1437befd48be97725052b724a9a961fbd7",
+      "shipping": "public/ui/whetstorm/items/heart_of_the_crucible.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "71b34b50970d199ee6477e441c0ee1fb6d8fcb76462225bee0da840cb205612f"
+    }
+  ]
+}
