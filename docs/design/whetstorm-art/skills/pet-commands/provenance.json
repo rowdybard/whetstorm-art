@@ -1,0 +1,40 @@
+{
+  "generator": "OpenAI built-in image generation, four separate text-only prompts, no image references",
+  "purpose": "Visual upgrade from original procedural pet command icons.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Production icon lookup integrated and focused checks passed; in-game review pending.",
+  "entries": [
+    {
+      "id": "pet_attack",
+      "prompt": "Original opaque square fantasy MMO pet command icon, premium hand-painted: a single sharp ivory fang with three forward crimson claw streaks, symbolizing commanding any companion to attack. Compact centered silhouette, strong small-size readability, dark charcoal and red vignette, warm upper-left light. No animal face, text, border, UI, watermark or transparent background.",
+      "source": "docs/design/whetstorm-art/skills/pet-commands/pet_attack.png",
+      "sourceSha256": "3010b20ed50fdbd60b5ce1636c6aedb2a02ed4651b375ca38b6787e8e25c3fb8",
+      "output": "public/ui/whetstorm/abilities/pet_attack.webp",
+      "outputSha256": "03250aec8fb75b100a13c2cb9fc4559318346039b884e4eb883dbe288ceadbf8"
+    },
+    {
+      "id": "pet_growl",
+      "prompt": "Original opaque square fantasy MMO pet command icon, premium hand-painted: a stylized open wolf-like roaring muzzle with visible fangs and outward golden sound arcs, symbolizing a pet taunting an enemy. Compact centered silhouette, strong small-size readability, dark umber vignette, warm upper-left light. No whole body, text, border, UI, watermark or transparent background.",
+      "source": "docs/design/whetstorm-art/skills/pet-commands/pet_growl.png",
+      "sourceSha256": "a4bbe40678ad122c2a08f7cdf816285e6bc4f459a98104cd1e4b8251f4eb9765",
+      "output": "public/ui/whetstorm/abilities/pet_growl.webp",
+      "outputSha256": "846243e667f27d37ebf0fb9b7e14e20bf22077ba96d3f6b7ed3391f99f0843e2"
+    },
+    {
+      "id": "pet_mend",
+      "prompt": "Original opaque square fantasy MMO pet command icon, premium hand-painted: a single deep violet heart enclosed by a soft green healing glow and a small pair of curved demonic horns, symbolizing the warlock mending their demon companion. Compact centered silhouette, strong small-size readability, dark violet charcoal vignette, warm upper-left light. No person, text, border, UI, watermark or transparent background.",
+      "source": "docs/design/whetstorm-art/skills/pet-commands/pet_mend.png",
+      "sourceSha256": "00c9e75421ad56c1f8419cd64be7b9e2af61fb788bad3c4529b502b457832201",
+      "output": "public/ui/whetstorm/abilities/pet_mend.webp",
+      "outputSha256": "10b015380724b566656a6db06f9f3efde85898911bdf45439795ccb408c49988"
+    },
+    {
+      "id": "pet_passive",
+      "prompt": "Original opaque square fantasy MMO pet command icon, premium hand-painted: a single broad resting animal paw print over a quiet earth-brown ground with a small calm pale halo, symbolizing passive pet stance. Compact centered silhouette, strong small-size readability, dark umber vignette, warm upper-left light. No animal face, claws attacking, text, border, UI, watermark or transparent background.",
+      "source": "docs/design/whetstorm-art/skills/pet-commands/pet_passive.png",
+      "sourceSha256": "de72cedbfcc17367e2fdefe62b7d6717029ec45ddc2ad8e67a756dbe564ca5cf",
+      "output": "public/ui/whetstorm/abilities/pet_passive.webp",
+      "outputSha256": "ee0dfe4d5dfb5ce5279d03f7c859e982a0f6371dd19a7aaaf9285ebd334f94ef"
+    }
+  ]
+}

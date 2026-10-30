@@ -3,6 +3,7 @@ import { originalIconUrl, originalModifierRecipe, paintOriginalIcon } from './or
 import { whetstormDruidNatureImageUrl } from './whetstorm_druid_nature_art';
 import { whetstormMageSignatureImageUrl } from './whetstorm_mage_signature_art';
 import { whetstormPaladinSignatureImageUrl } from './whetstorm_paladin_signature_art';
+import { whetstormPetCommandImageUrl } from './whetstorm_pet_command_art';
 import { whetstormPriestSignatureImageUrl } from './whetstorm_priest_signature_art';
 import { whetstormRangerSignatureImageUrl } from './whetstorm_ranger_signature_art';
 import { whetstormRogueSignatureImageUrl } from './whetstorm_rogue_signature_art';
@@ -5734,6 +5735,7 @@ function originalArt(kind: IconKind, id: string, size = DEFAULT_ICON_SIZE): stri
     if (warriorSignature) return warriorSignature;
     const classSignature =
       whetstormDruidNatureImageUrl(id) ??
+      whetstormPetCommandImageUrl(id) ??
       whetstormMageSignatureImageUrl(id) ??
       whetstormPaladinSignatureImageUrl(id) ??
       whetstormPriestSignatureImageUrl(id) ??
