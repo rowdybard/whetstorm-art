@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "ogre_crusher",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait, Thornpeak Crusher: imposing earth-brown ogre with broad nose, small lower tusks, heavy brow and rough hide armor, mountain war camp background. Painterly, close head and shoulders, dramatic light, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/ogre_crusher.webp",
+      "sha256": "efbfa77c8c3b93d2f4c7936fc37ad72494115c272863363c6842403ad2cd54bc",
+      "bytes": 6546,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/ogre_crusher.png",
+        "sha256": "667e58eb49f9504fb94c137e20b37321cfb94765946d59015b8908376d7d99ea",
+        "bytes": 2929779
+      }
+    },
+    {
+      "id": "wyrmcult_zealot",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait, Broodsworn Zealot: human cult devotee with stern face in dark weathered hood and simple dark robes, dragon cult camp amid high rocky mountains behind. Painterly, close head and shoulders, dramatic light, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/wyrmcult_zealot.webp",
+      "sha256": "ef565223b9f23d1c71b94f206d399d4e9ae7fbbc13680791156a4ed8a70926a0",
+      "bytes": 5032,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/wyrmcult_zealot.png",
+        "sha256": "3f4f0c65be68cc1482b0f3e5d0cbf165ed60add8a4903d3888edd1df7b074ff0",
+        "bytes": 2841426
+      }
+    },
+    {
+      "id": "wyrmcult_necromancer",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait, Broodsworn Necromancer: sinister human dark caster in shadowy hooded robes, pale face lit by faint violet necromantic glow, rocky mountain cult camp behind. Painterly, close head and shoulders, dramatic light, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/wyrmcult_necromancer.webp",
+      "sha256": "696b1a731496b971741b485f9c7ab0cfe97f3ab9db55ab759ccbf813c9898ca1",
+      "bytes": 5208,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/wyrmcult_necromancer.png",
+        "sha256": "e383f617aedf6d486a8f7ac14255da2f28faa180f3963c09424775bcc23fab93",
+        "bytes": 2754701
+      }
+    },
+    {
+      "id": "boneclad_revenant",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait, Boneclad Revenant: undead skeletal warrior with exposed skull and weathered bone, battered dark armor, ancient battlefield under gloomy mountain sky. Painterly, close head and shoulders, dramatic light, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/boneclad_revenant.webp",
+      "sha256": "347055b53445303098e57b80a935f781b9346f30fa38cc090de6eeebe19a4aff",
+      "bytes": 5762,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/boneclad_revenant.png",
+        "sha256": "510eadc3a08ca7920c5b832aa1270dc40ad2a2c808e8a5eea17c3d7263401a13",
+        "bytes": 2997993
+      }
+    }
+  ]
+}

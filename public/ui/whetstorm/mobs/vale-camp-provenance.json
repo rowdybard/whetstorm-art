@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "tunnel_rat",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon: a tawny ochre rat-bodied humanoid burrower miner, long pointed rodent snout, rounded ears, coarse fur and humble worn miner clothing, head and shoulders facing viewer, dim copper mine background. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/tunnel_rat.webp",
+      "sha256": "d873e93edc5590a97797453af6a5ff562ed745be77ff869d0c49694798a0e573",
+      "bytes": 5762,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/tunnel_rat.png",
+        "sha256": "f1a67a38d209a3667992f9f007fe3b2e2f8ea1293a0bdd7fccf495d953ae1dfd",
+        "bytes": 2677344
+      }
+    },
+    {
+      "id": "vale_bandit",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon: a human Vale bandit in a weathered dark red bandana and practical worn leather clothing, stern face, head and shoulders facing viewer, muted woodland camp background. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/vale_bandit.webp",
+      "sha256": "290f97e897950091507f683b34378807cf2fa81129b7a8789fa40f291bd6a201",
+      "bytes": 5298,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/vale_bandit.png",
+        "sha256": "d15a06a9ee3d6b5cc5d3c8fc32903c42f38eb086958a0384f36a9259ae0f1109",
+        "bytes": 2595610
+      }
+    },
+    {
+      "id": "restless_bones",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon: an animated pale bone skeleton with bare skull and dark empty eye sockets, remnants of worn burial clothing, head and shoulders facing viewer, ruined chapel shadows behind. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/restless_bones.webp",
+      "sha256": "b426c44eeffe88357c5639922beac83d5de7d18776a26f38cc6da306fd4dbdb4",
+      "bytes": 5062,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/restless_bones.png",
+        "sha256": "05337782ccfee94f8c49fee3a26f0ea79f4c857089679569074f449b2b8aeb55",
+        "bytes": 2676842
+      }
+    },
+    {
+      "id": "old_greyjaw",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon: an old formidable gray wolf with dark slate fur, grizzled muzzle and subtle scars, alert ears and head and shoulders facing viewer, deep woodland shadows behind. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/old_greyjaw.webp",
+      "sha256": "a5a3e62c47eec03448897866c5767485243b9db4c5d181a6360b44d9606df2c8",
+      "bytes": 5110,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/old_greyjaw.png",
+        "sha256": "5e25a1c71133b5b58b48696d901db520516d6e8cace10d25470caf28be5a8454",
+        "bytes": 2996588
+      }
+    }
+  ]
+}

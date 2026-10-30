@@ -1,7 +1,8 @@
 // Pure target-portrait selection. Every catalogued mob template has committed,
 // prerendered portrait art; players use their live class portrait and NPCs keep
 // their crest. Short-lived guardians are not MOBS rows, so they deliberately
-// borrow the portrait of the exact existing creature body used in-world.
+// borrow an existing source for fallback metadata and, where no override exists,
+// portrait art.
 
 export const TRANSIENT_MOB_PORTRAIT_SOURCE_IDS: Readonly<Record<string, string>> = Object.freeze({
   guardian_tithefiend: 'rift_dread_stalker',
@@ -30,6 +31,27 @@ const ORIGINAL_MOB_PORTRAITS: ReadonlyMap<string, string> = new Map([
     'deeprock_kobold',
     'thornpeak_ogre',
     'stormcrag_elemental',
+    'tunnel_rat',
+    'vale_bandit',
+    'restless_bones',
+    'old_greyjaw',
+    'fen_troll',
+    'grubjaw',
+    'drowned_warlord',
+    'mirefen_broodmother',
+    'ogre_crusher',
+    'wyrmcult_zealot',
+    'wyrmcult_necromancer',
+    'boneclad_revenant',
+    'crypt_shambler',
+    'hollow_acolyte',
+    'bonechill_widow',
+    'bastion_revenant',
+    'hoard_coinsack_scurrier',
+    'ignivar_ember_sentinel',
+    'ignivar_crucible_warden',
+    'ignivar_cinder_artificer',
+    'guardian_tithefiend',
   ].map((id): [string, string] => [id, `/ui/whetstorm/mobs/${id}.webp`]),
   ...['morthen', 'vael_the_mistcaller', 'ysolei', 'varkhul_forgefather_of_the_last_flame'].map(
     (id): [string, string] => [id, `/ui/whetstorm/encounters/finder-${id}.webp`],
@@ -46,6 +68,9 @@ export function targetPortraitSourceId(templateId: string, isMobEntity: boolean)
 export function targetPortraitUrl(templateId: string, isMobEntity: boolean): string | null {
   if (isMobEntity && STATIC_MOB_PORTRAIT_URLS[templateId]) {
     return STATIC_MOB_PORTRAIT_URLS[templateId];
+  }
+  if (isMobEntity && ORIGINAL_MOB_PORTRAITS.has(templateId)) {
+    return ORIGINAL_MOB_PORTRAITS.get(templateId) ?? null;
   }
   const sourceId = targetPortraitSourceId(templateId, isMobEntity);
   return sourceId

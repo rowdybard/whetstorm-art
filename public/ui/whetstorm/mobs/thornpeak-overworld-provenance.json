@@ -7,14 +7,14 @@
     {
       "id": "ridge_stalker",
       "source": "OpenAI built-in image generation, text only",
-      "prompt": "Square original fantasy MMO target portrait: gray taupe mountain feline head, amber eyes, rocky backdrop, painterly, no text.",
+      "prompt": "Square original fantasy MMO target portrait: a rugged gray mountain wolf, intelligent amber eyes, thick fur, rocky highland backdrop. Painterly, close head and shoulders, dramatic natural light, no feline features, no frame, no text, no watermark.",
       "path": "public/ui/whetstorm/mobs/ridge_stalker.webp",
-      "sha256": "2a446a18a05db39d9579ba190ce57fdb776e8f08aa7516f0bc9d7c7411f12caa",
-      "bytes": 5514,
+      "sha256": "3428c9f3d36b600b4adc0b67e7d9b3cccb65098506b578fb40fe54d28e5be645",
+      "bytes": 6148,
       "master": {
         "path": "docs/design/whetstorm-art/mobs/ridge_stalker.png",
-        "sha256": "7af9aabeb338b8707a725f442e9efe4dd54da97a1b055f6c6e209a838a7839c0",
-        "bytes": 3057249
+        "sha256": "ea54713093e64b98b538841ec0894af58b9b2c8ac490a525deb688d61269ff2d",
+        "bytes": 3289589
       }
     },
     {

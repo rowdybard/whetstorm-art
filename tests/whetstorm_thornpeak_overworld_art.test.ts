@@ -8,11 +8,23 @@ import { targetPortraitUrl } from '../src/ui/target_portrait_view';
 const provenance = JSON.parse(
   readFileSync('public/ui/whetstorm/mobs/thornpeak-overworld-provenance.json', 'utf8'),
 ) as {
-  entries: { id: string; path: string; sha256: string; master: { path: string; sha256: string } }[];
+  entries: {
+    id: string;
+    prompt: string;
+    path: string;
+    sha256: string;
+    master: { path: string; sha256: string };
+  }[];
 };
 const digest = (path: string) => createHash('sha256').update(readFileSync(path)).digest('hex');
 
 describe('original Thornpeak overworld target portraits', () => {
+  it('records the Ridge Stalker as a wolf, matching its in-world beast model', () => {
+    expect(provenance.entries.find((entry) => entry.id === 'ridge_stalker')?.prompt).toContain(
+      'wolf',
+    );
+  });
+
   it('covers four active enemies with distinct full masters and 128px deliveries', async () => {
     expect(provenance.entries.map((entry) => entry.id)).toEqual([
       'ridge_stalker',

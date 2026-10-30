@@ -1066,3 +1066,12 @@ Prompts and hashes are in `public/ui/whetstorm/mobs/vale-early-provenance.json`,
 `public/ui/whetstorm/mobs/mirefen-overworld-provenance.json`,
 `public/ui/whetstorm/mobs/thornpeak-overworld-provenance.json`, and
 `docs/whetstorm/nythraxis-mob-portrait-generation.json`.
+
+Additional Vale, Mirefen, Thornpeak, dungeon, raid, and hoard target portraits
+were created for Whetstorm using OpenAI's built-in image generation. Prompts
+and hashes are recorded in `public/ui/whetstorm/mobs/vale-camp-provenance.json`,
+`public/ui/whetstorm/mobs/mirefen-bosses-provenance.json`,
+`public/ui/whetstorm/mobs/thornpeak-overworld-second-provenance.json`,
+`public/ui/whetstorm/mobs/early-dungeons-provenance.json`, and
+`docs/whetstorm/raid-hoard-target-portraits-generation.json`. The corrected
+Ridge Stalker painting is recorded in `thornpeak-overworld-provenance.json`.

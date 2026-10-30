@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "fen_troll",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy game portrait: green marsh troll with broad face, small lower tusks, pointed ears and rough moss-green skin, fierce expression. Head and shoulders fill square frame, misty swamp backdrop, readable at small size, painterly illustration, no text or border.",
+      "path": "public/ui/whetstorm/mobs/fen_troll.webp",
+      "sha256": "0728abb0ef2db257088bba4f7279ff1f41d9b3b4c86248efc8333a4d0cc98b65",
+      "bytes": 5474,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/fen_troll.png",
+        "sha256": "f75271cbd4248d0b75ad25860a9a3ab1fdb905e502c34cd6f8fe528d4de3a691",
+        "bytes": 2861978
+      }
+    },
+    {
+      "id": "grubjaw",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy game portrait: enormous dark green marsh troll with a massive heavy jaw and tusks, imposing expression. Head and shoulders fill square frame, misty fen background, readable at small size, painterly illustration, no text or border.",
+      "path": "public/ui/whetstorm/mobs/grubjaw.webp",
+      "sha256": "02e30de70b5bb94feb17a8769b264658eda42f8e3c405e7dd8fa13dabedb6f11",
+      "bytes": 5162,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/grubjaw.png",
+        "sha256": "c82779e53f897be37bc224a17af68d77a537c89d981735257ad5c6d4656272d1",
+        "bytes": 2938492
+      }
+    },
+    {
+      "id": "drowned_warlord",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy game portrait: a blue-gray skeletal undead warlord with glowing eyes and corroded ancient helmet, mysterious and haunted. Skull and shoulders fill square frame, misty marsh backdrop, readable at small size, painterly illustration, no text or border.",
+      "path": "public/ui/whetstorm/mobs/drowned_warlord.webp",
+      "sha256": "8ec6b77a1e0f9bfefc98d6a51093f31ed5473adfa9b884e6016ecc906f568e8e",
+      "bytes": 6126,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/drowned_warlord.png",
+        "sha256": "fd210a5a2f1df6d04c8f2403bb36dfbbac6a52ca7d8e835d02c6082938ad5861",
+        "bytes": 3050951
+      }
+    },
+    {
+      "id": "mirefen_broodmother",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy game portrait: a giant broodmother spider with dark burgundy red chitin, clustered eyes and prominent fangs. Front-facing close-up fills square frame, silk and misty marsh backdrop, readable at small size, painterly illustration, no text or border.",
+      "path": "public/ui/whetstorm/mobs/mirefen_broodmother.webp",
+      "sha256": "d397e05ffbb552b3e53e0fca50f5dff470d2d1a93c0a3fc8865a2cf4496d5a3c",
+      "bytes": 5488,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/mirefen_broodmother.png",
+        "sha256": "8a933aaa0c1417895c623f2215097030ceb380c63e235ea09779e7f47159235c",
+        "bytes": 2963242
+      }
+    }
+  ]
+}

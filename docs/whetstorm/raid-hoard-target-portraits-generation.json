@@ -1,0 +1,87 @@
+{
+  "source": "OpenAI built-in image generation",
+  "externalReferenceImages": [],
+  "processing": "Lanczos resize; Pillow WebP quality 84, method 6",
+  "assets": [
+    {
+      "id": "hoard_coinsack_scurrier",
+      "prompt": "Use case: stylized-concept. Square original hand-painted fantasy game target portrait. A small sneaky goblin with a huge bulging sack of stolen gold over its shoulder, pointed ears, alert expression, face and sack prominently visible. Dark warm vignette, painterly tactile detail, bold readable silhouette at 128 pixels, shoulders-up framing. No text, border, logo or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/hoard_coinsack_scurrier.png",
+      "masterSha256": "c7a80f2b888e0b8960e1d1f2c0b2532a5f3e16b84c4067f0e06458f2d259b170",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/hoard_coinsack_scurrier.webp",
+      "deliverySha256": "d048b9b8e0dffd5cbbf6599162198daefd15f93aaa402f0dd10b29a5312e92d1",
+      "deliveryDimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "ignivar_ember_sentinel",
+      "prompt": "Use case: stylized-concept. Square original hand-painted fantasy game target portrait. Ember Sentinel, an animated forge construct with heavy dark iron faceplate, molten orange light shining from eye slits and cracks, ember-lit shoulders. Face centered close up, forge-dark vignette, tactile forged metal, bold silhouette readable at 128 pixels. No text, border, logo or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/ignivar_ember_sentinel.png",
+      "masterSha256": "077576468f8d44e849c1b0c92142535ac5489a7b4d6a7598a1befeecc0c1c452",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/ignivar_ember_sentinel.webp",
+      "deliverySha256": "747bbea628408e8b85c8f16d20db5c93809dbcf031f6fbfa09cc9f4bf9dcbaae",
+      "deliveryDimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "ignivar_crucible_warden",
+      "prompt": "Use case: stylized-concept. Square original hand-painted fantasy game target portrait. Crucible Warden, a massive forge automaton with broad armored iron head, sturdy bronze-edged plates and a furnace glow behind its visor, soot and molten seams. Head and shoulders centered, forge-dark vignette, painterly tactile detail, readable at 128 pixels. No text, border, logo or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/ignivar_crucible_warden.png",
+      "masterSha256": "0054caf7a68165402a915ef392795849e57221caa4080e0b8314ecb11360997b",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/ignivar_crucible_warden.webp",
+      "deliverySha256": "c244e2c623f890e499ee132124c4c34d748c913d1842a90244a57356def70d86",
+      "deliveryDimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "ignivar_cinder_artificer",
+      "prompt": "Use case: stylized-concept. Square original hand-painted fantasy game target portrait. Cinder Artificer, an animated forge construct with a narrow sculpted iron mask, intricate brass mechanical fittings and glowing cinder eyes, soot and furnace warmth. Head and shoulders centered, forge-dark vignette, painterly tactile detail, readable at 128 pixels. No text, border, logo or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/ignivar_cinder_artificer.png",
+      "masterSha256": "8b7aa70b2273cbaeeb1778ee3a563c98f6d5da3f58151597245240a62ed6ebf4",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/ignivar_cinder_artificer.webp",
+      "deliverySha256": "9d3eae6e64f9eb34f1e4eacbd75f0b085d36d4b73c42fa525da06a7633989087",
+      "deliveryDimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "guardian_tithefiend",
+      "prompt": "Use case: stylized-concept. Square original hand-painted fantasy game target portrait of a bipedal demonic guardian: horned humanoid demon face, leathery dark red skin, glowing eyes, fierce expression and rugged armor across shoulders. Close centered face and shoulders, dark vignette, tactile painterly detail, bold readable silhouette at 128 pixels. No animals, text, border, logo or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/guardian_tithefiend.png",
+      "masterSha256": "c2cabbdf24e9ee1565f682a0219744eb0557aa8e8df1049ac99125f6546eadba",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/guardian_tithefiend.webp",
+      "deliverySha256": "543b8653cad79535731fbe07aacb17639226a03c0421fa36511dc2a0f68051ee",
+      "deliveryDimensions": [
+        128,
+        128
+      ]
+    }
+  ]
+}

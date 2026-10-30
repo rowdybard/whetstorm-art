@@ -16,6 +16,27 @@ it('routes original mob portraits while retaining non-mob, alias, and unknown be
     'deeprock_kobold',
     'thornpeak_ogre',
     'stormcrag_elemental',
+    'tunnel_rat',
+    'vale_bandit',
+    'restless_bones',
+    'old_greyjaw',
+    'fen_troll',
+    'grubjaw',
+    'drowned_warlord',
+    'mirefen_broodmother',
+    'ogre_crusher',
+    'wyrmcult_zealot',
+    'wyrmcult_necromancer',
+    'boneclad_revenant',
+    'crypt_shambler',
+    'hollow_acolyte',
+    'bonechill_widow',
+    'bastion_revenant',
+    'hoard_coinsack_scurrier',
+    'ignivar_ember_sentinel',
+    'ignivar_crucible_warden',
+    'ignivar_cinder_artificer',
+    'guardian_tithefiend',
     'morthen',
     'vael_the_mistcaller',
     'ysolei',
@@ -31,6 +52,12 @@ it('routes original mob portraits while retaining non-mob, alias, and unknown be
   }
   expect(targetPortraitSourceId('guardian_stampede_1', true)).toBe('wild_boar');
   expect(targetPortraitUrl('guardian_stampede_1', true)).toBe(targetPortraitUrl('wild_boar', true));
+  expect(targetPortraitUrl('guardian_stampede_0', true)).toBe(
+    targetPortraitUrl('old_greyjaw', true),
+  );
+  expect(targetPortraitUrl('guardian_tithefiend', true)).toBe(
+    '/ui/whetstorm/mobs/guardian_tithefiend.webp',
+  );
   expect(targetPortraitUrl('forest_wolf_extra', true)).toBe('/ui/mobs/forest_wolf_extra.webp');
   expect(targetPortraitUrl('unknown/creature', true)).toBe('/ui/mobs/unknown%2Fcreature.webp');
 });

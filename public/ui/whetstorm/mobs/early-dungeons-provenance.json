@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "crypt_shambler",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon: Crypt Shambler, an undead humanoid with pale gray-blue decayed skin, weathered bones and ragged burial wrappings, head and shoulders facing viewer in a dim crypt. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/crypt_shambler.webp",
+      "sha256": "401490326167b6553e567481c855fe4dd8351535ea088fccbb9b72f0a29119b2",
+      "bytes": 5174,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/crypt_shambler.png",
+        "sha256": "f2ef1907ad2fdbe038131cfa94995af10e301b1e4a67ef732a020e183aa672b5",
+        "bytes": 2894713
+      }
+    },
+    {
+      "id": "hollow_acolyte",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon: Hollow Acolyte, an undead humanoid in a deep purple ragged hood, ashen skeletal face and faint sinister eyes, head and shoulders facing viewer in a dim crypt. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/hollow_acolyte.webp",
+      "sha256": "05b64a2ec3bac053af59c4dc991974a175f281affffacce3e69bfe6c31e1b0f1",
+      "bytes": 3656,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/hollow_acolyte.png",
+        "sha256": "496282baf3b1c3042c419203bda38af9da568ef0cf3f7646e323c6bdca141f3c",
+        "bytes": 2487375
+      }
+    },
+    {
+      "id": "bonechill_widow",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon: Bonechill Widow, a pale icy blue spider with clustered eyes, articulated forelegs and mandibles, facing viewer in a dark frosty crypt. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/bonechill_widow.webp",
+      "sha256": "946e1d99f665c2492695cb72200de86dda74b51f8cb9414bbf509437e33aa2e9",
+      "bytes": 6664,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/bonechill_widow.png",
+        "sha256": "70436164d4e76c3519a97b60d399a75107d9131bbfb6d223e99063a28491dcd5",
+        "bytes": 2931357
+      }
+    },
+    {
+      "id": "bastion_revenant",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon: Bastion Revenant, an undead humanoid with weathered sea-green skin and corroded remnants of a drowned knight's armor, head and shoulders facing viewer in a flooded stone bastion. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/bastion_revenant.webp",
+      "sha256": "fab51d02c96670ff24933d768c3c25747abb8056cadc78b22cffc42679498176",
+      "bytes": 5932,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/bastion_revenant.png",
+        "sha256": "f54d1d14c816360c440d48222cde38ed3d5925800b2cbf0e4d3230267a80d7d8",
+        "bytes": 2913024
+      }
+    }
+  ]
+}
