@@ -1,4 +1,5 @@
 import { activityDeedImageUrl } from './activity_deed_art';
+import { amberfallEvergardenDeedImageUrl } from './amberfall_evergarden_deed_art';
 import { ascendantDeedImageUrl } from './ascendant_deed_art';
 import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
 import { civicBankDeedImageUrl } from './civic_bank_deed_art';
@@ -56,6 +57,7 @@ const EARLY_DEED_ART = new Map<string, string>([
 export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
+    amberfallEvergardenDeedImageUrl(id) ??
     earlyCollectionDeedImageUrl(id) ??
     earlySocialDeedImageUrl(id) ??
     civicBankDeedImageUrl(id) ??

@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "chr_amberfall_first_cast",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: An amber fish leaping from a golden lake beside autumn reeds, representing the first catch in Amberfall. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_amberfall_first_cast.png",
+      "masterSha256": "0d4bccdf473ab60d7c4daf6662edcd108b9499020f66fda8480d7ea089af456e",
+      "shipping": "public/ui/whetstorm/deeds/chr_amberfall_first_cast.webp",
+      "shippingSha256": "d4a5d0b3945afa6da6436efdaf2e2e8b068bc1ed44212dfedad3a6b112ccfd85",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_amberfall_gatherer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A copper ore chunk, cut log and fresh herb sprig arranged together before amber autumn leaves, representing gathering three resources in Amberfall. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_amberfall_gatherer.png",
+      "masterSha256": "a30d0e1595657fbe49fb7064b57c402b52b84e35f2ae8e10e4c5d5e0e39d83ef",
+      "shipping": "public/ui/whetstorm/deeds/chr_amberfall_gatherer.webp",
+      "shippingSha256": "65a64b4b5997043e754648d7873953eb9d622227fbd5555c9ae28688baf4a287",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_evergarden_first_cast",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A silver fish leaping from a pond surrounded by pink flower petals, representing a first catch in Evergarden. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_evergarden_first_cast.png",
+      "masterSha256": "18eddaaaecf7f4061491441f96dee624d98b521ababc92dac3e449ab0476ecd4",
+      "shipping": "public/ui/whetstorm/deeds/chr_evergarden_first_cast.webp",
+      "shippingSha256": "c1b1db58d38430358d252230400ef97eb4e40bd7adfd85fc2a4067d6574b323b",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_evergarden_first_harvest",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A ripe golden vegetable growing in a small garden bed beneath pink blossoms, representing a first garden harvest in Evergarden. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_evergarden_first_harvest.png",
+      "masterSha256": "aac1769ca3fda6f5db293365b5dbef8a2416187484b9dfe9f38c48c0d82ac848",
+      "shipping": "public/ui/whetstorm/deeds/chr_evergarden_first_harvest.webp",
+      "shippingSha256": "8e6c597a0e165503013f6dd1d247ae0a7c2dbc6e80eb35f5a127ee6b2b0a06a8",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}
