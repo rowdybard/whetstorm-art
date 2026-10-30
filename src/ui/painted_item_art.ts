@@ -197,6 +197,7 @@ import { slagbreakerArmorItemImageUrl } from './slagbreaker_armor_item_art';
 import { soulAndCoresItemImageUrl } from './soul_and_cores_item_art';
 import { springSpireItemImageUrl } from './spring_spire_item_art';
 import { starterItemImageUrl } from './starter_item_art';
+import { templeLootItemImageUrl } from './temple_loot_item_art';
 import { templeQuestWeaponsItemImageUrl } from './temple_quest_weapons_item_art';
 import { thornWeaponItemImageUrl } from './thorn_weapon_item_art';
 import { thornpeakTrophyMaterialItemImageUrl } from './thornpeak_trophy_material_item_art';
@@ -233,6 +234,7 @@ import { zealfireArmorItemImageUrl } from './zealfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    templeLootItemImageUrl(id) ??
     vanguardFangStaffItemImageUrl(id) ??
     guardianTrophiesItemImageUrl(id) ??
     inscriptionBooksItemImageUrl(id) ??

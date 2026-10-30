@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "pale_pearl",
+      "file": "docs/design/whetstorm-art/items/pale_pearl.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one small pale pearl, milky white and softly iridescent, resting in a simple open shell on dark blue stone. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, cool upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "3fa070071299509bc677b32badd29313f8406cb5b28bc6d8c869735d660ff2f2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pale_pearl.webp",
+        "sha256": "4cac39a3351b3c78e151e0b4a1818204fb5f17aad831c93da7a74a26d88e5f69",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "moonpale_scale",
+      "file": "docs/design/whetstorm-art/items/moonpale_scale.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one broad pale sea-serpent scale, pearly silver with soft blue-green edges and fine curved ridges, resting on dark blue stone. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, cool upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "c8680b6b13c37f6c64e4214b079db1a43ae9a0f15d91d9a372f28271b6eb834e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonpale_scale.webp",
+        "sha256": "dfe322eabdfd7efd6490519115ffb9221a124e2542434e7022c71cec891cb79c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "briny_idol",
+      "file": "docs/design/whetstorm-art/items/briny_idol.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a small weathered stone sea idol, a simple abstract fish-shaped carving with pale salt deposits and hints of verdigris, resting on dark blue stone. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, cool upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "0ed6945aa01ef0a9b522645d16b5d2d3d55376e40899ff022bfde707c95e2b91",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/briny_idol.webp",
+        "sha256": "e2d57653fb2722624155a55151fdb0509dd1df183c38e614f71d30e93cc9669d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
