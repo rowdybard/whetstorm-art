@@ -36,7 +36,7 @@ import { ITEMS } from '../sim/data';
 import { mountItemId } from '../sim/mounts';
 import { deedCrestHasPaintedArt, deedCrestId } from './deeds_view';
 import { MASTERWORK_SEAL_IMAGE_URL, professionImageUrl } from './hud/professions/profession_art';
-import { itemImageUrl, weaponIconUrl } from './icons';
+import { deedImageUrl, itemImageUrl, weaponIconUrl } from './icons';
 import { knownItemDef, ownEntry } from './known_item';
 import type { ReliquaryRelicNameKind } from './reliquary_view';
 import { targetPortraitUrl } from './target_portrait_view';
@@ -239,13 +239,13 @@ export function reliquaryCellArt(slot: ReliquaryArtSlot): ReliquaryCellArt | nul
 /**
  * True when this art paints its own BRIGHT background, so the missing-state
  * silhouette filter (brightness-darken) would render a solid dark tile
- * instead of a shape. Two catalog-reachable families qualify: the Armory
+ * instead of a shape. Catalog-reachable families include the Armory
  * store thumbnails (painted cards, no alpha) and every PROCEDURAL crest
  * (the deed_cat_* category fallbacks plus a bespoke crest whose art has not
- * landed; the compositor fills its whole tile with an opaque radial). The
- * other families stay legible under the darken without a carve-out: the
- * professions sheet, painted `deed_<id>` crests, and the specimen/slain
- * fallback glyphs carry a real alpha matte. Item art and mob portraits use
+ * landed; the compositor fills its whole tile with an opaque radial). Original
+ * Whetstorm deed paintings also fill their tiles and need the same treatment.
+ * The professions sheet, inherited painted `deed_<id>` crests, and the
+ * specimen/slain fallback glyphs carry a real alpha matte. Item art and mob portraits use
  * dark-card compositions: a bright subject on a near-black card that still
  * reads when darkened. tests/reliquary_cell_art.test.ts pins the per-family
  * premise off the shipped image files, including that every catalogued item
@@ -255,7 +255,12 @@ export function reliquaryCellArt(slot: ReliquaryArtSlot): ReliquaryCellArt | nul
  */
 export function reliquaryCellArtOpaque(art: ReliquaryCellArt): boolean {
   if (art.kind === 'url') return art.url.startsWith(`${ARMORY_SKIN_ART_DIR}/`);
-  if (art.kind === 'crest') return !deedCrestHasPaintedArt(art.crestId);
+  if (art.kind === 'crest') {
+    // Use the same winning URL as the icon painter: original art takes
+    // precedence even when an inherited painting exists for the same deed.
+    if (deedImageUrl(art.crestId)?.startsWith('/ui/whetstorm/deeds/')) return true;
+    return !deedCrestHasPaintedArt(art.crestId);
+  }
   // Ask the same dynamic question as the crest arm: is there committed painted
   // art behind this id? A /ui/items webp or rendered weapon card is already a
   // dark-card composition; an item with neither falls through to the opaque

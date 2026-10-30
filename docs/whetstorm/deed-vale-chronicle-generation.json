@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "chr_vale_chapter_i",
+      "master": "docs/design/whetstorm-art/deeds/chr_vale_chapter_i.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for the first chapter of a rural vale chronicle: a closed leather journal with a small golden sunrise and green valley behind it, enclosed in one simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "6b24505d77d2d0650286622bf005cdffe1c0eba9418eee261a1398f2cd8910fb",
+      "shipping": "public/ui/whetstorm/deeds/chr_vale_chapter_i.webp",
+      "shippingSha256": "32f7a974fc8d037e0fa1f5d5f68921ff96fd5796f8c82950aab7f953727815b2",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "chr_vale_chapter_ii",
+      "master": "docs/design/whetstorm-art/deeds/chr_vale_chapter_ii.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for the second chapter of a rural vale chronicle: a closed leather journal crossed by a sturdy wooden spear with a small mine entrance behind it, enclosed in one simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "2f3f89f558488c485a70dafa18367881b74691ea2333d9eb55d6e3c86c3d3d55",
+      "shipping": "public/ui/whetstorm/deeds/chr_vale_chapter_ii.webp",
+      "shippingSha256": "3793cea942cb564e693cb48aaec321320e51be2cda1ce2e2a669351a06bf43b5",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "chr_vale_chapter_iii",
+      "master": "docs/design/whetstorm-art/deeds/chr_vale_chapter_iii.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for a completed rural vale chronicle: an open leather journal beneath a glowing golden torch and distant stone crypt, enclosed in one simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "9f9b483ceb7c1a1d80328ffee3cc77a075835eefd967ab050d5ca417907a43d3",
+      "shipping": "public/ui/whetstorm/deeds/chr_vale_chapter_iii.webp",
+      "shippingSha256": "d8dd5387a9d83ba8472f79932b48cd6558abf587f6396e3a331612aa7e38d8cb",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "chr_vale_packbreaker",
+      "master": "docs/design/whetstorm-art/deeds/chr_vale_packbreaker.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for defeating a pack of forest wolves: a single silver wolf head silhouette above three small claw marks, enclosed in one simple circular brass medal, deep forest green background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "0bfa339bc96dd65b1fc0954e7b8f3dd25ac2debeb05c23938860f53c5fd0c115",
+      "shipping": "public/ui/whetstorm/deeds/chr_vale_packbreaker.webp",
+      "shippingSha256": "6e884dc72f5ff271d780cd683bd7453316c43db261300d24e2330f8ff5e6cb79",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}
