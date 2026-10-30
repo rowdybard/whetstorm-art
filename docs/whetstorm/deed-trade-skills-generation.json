@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "prog_fishing_100",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a well-used fishing rod and silvery fish beside a weathered boat cleat, representing a seasoned fisher. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_fishing_100.png",
+      "masterSha256": "b3acc23d241ea9d6567b892ed35690f9ccf1f00d59b7bfc1cb47071165ea569a",
+      "shipping": "public/ui/whetstorm/deeds/prog_fishing_100.webp",
+      "shippingSha256": "1829795423a15c9149b401ef0fff943f6fe88a78deef4717ab41a26b6411c829",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_alchemy_50",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a green glass flask bubbling with a little vapor beside herbs and a mortar, representing growing skill in alchemy. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_alchemy_50.png",
+      "masterSha256": "5de919363e64e936da1ed3f62e1b6f180e627b9bdb721fb790ffafb9d61ea3b3",
+      "shipping": "public/ui/whetstorm/deeds/prog_alchemy_50.webp",
+      "shippingSha256": "7106af4fea5b858a2c3139c98687f4d68610dc774d8cbcdf916457061f4378e1",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_cooking_50",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a cast-iron cooking pot, wooden spoon and fragrant herbs, representing growing skill in cooking. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_cooking_50.png",
+      "masterSha256": "4c9697815f5e2bbdb59af53f631176c3d53c5fbb9c5837ae3afa08b98b137bc8",
+      "shipping": "public/ui/whetstorm/deeds/prog_cooking_50.webp",
+      "shippingSha256": "b6b49512bc6ead8550bed51e85df0d4d6195927b2d15ae83d6ea5ad1a906507f",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_engineering_50",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: three interlocking brass cogs with a small wrench, representing growing skill in engineering. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_engineering_50.png",
+      "masterSha256": "00eec80b4521695ee4bedb1748e6e896d871cd24aa929bdd7557b0b0572ea4ed",
+      "shipping": "public/ui/whetstorm/deeds/prog_engineering_50.webp",
+      "shippingSha256": "13e753c36eebef9f982653224d386065cbde1480ea01c4573f9e96176ad27490",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    }
+  ]
+}

@@ -27,6 +27,7 @@ import { raidChallengeDeedImageUrl } from './raid_challenge_deed_art';
 import { sanctumChallengeDeedImageUrl } from './sanctum_challenge_deed_art';
 import { tradeFirstDeedImageUrl } from './trade_first_deed_art';
 import { tradeMasteryDeedImageUrl } from './trade_mastery_deed_art';
+import { tradeSkillDeedImageUrl } from './trade_skill_deed_art';
 
 // Original paintings for early deeds, shared by game and guide.
 const EARLY_DEED_ART = new Map<string, string>([
@@ -50,6 +51,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     milestoneDeedImageUrl(id) ??
     mountainBossDeedImageUrl(id) ??
     tradeMasteryDeedImageUrl(id) ??
+    tradeSkillDeedImageUrl(id) ??
     tradeFirstDeedImageUrl(id) ??
     combatMasteryDeedImageUrl(id) ??
     combatVictoryDeedImageUrl(id) ??
