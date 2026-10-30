@@ -1,7 +1,12 @@
 import { PROFESSION_IMAGE_IDS } from './profession_image_ids';
+import { whetstormArchetypeAImageUrl } from './whetstorm_archetype_a_art';
 import { whetstormCraftingAProfessionImageUrl } from './whetstorm_crafting_a_art';
 import { whetstormCraftingBProfessionImageUrl } from './whetstorm_crafting_b_art';
 import { whetstormGatheringProfessionImageUrl } from './whetstorm_gathering_art';
+import {
+  WHETSTORM_MASTERWORK_SEAL_IMAGE_URL,
+  whetstormMasterworkProfessionImageUrl,
+} from './whetstorm_masterwork_art';
 
 const PROFESSION_IMAGE_DIR = '/ui/professions';
 
@@ -27,6 +32,8 @@ export function professionImageUrl(id: string): string | null {
     whetstormGatheringProfessionImageUrl(id) ??
     whetstormCraftingAProfessionImageUrl(id) ??
     whetstormCraftingBProfessionImageUrl(id) ??
+    whetstormArchetypeAImageUrl(id) ??
+    whetstormMasterworkProfessionImageUrl(id) ??
     (PROFESSION_IMAGE_IDS.has(id) ? `${PROFESSION_IMAGE_DIR}/${id}.webp` : null)
   );
 }
@@ -38,4 +45,4 @@ export function archetypeImageUrl(pairId: string | null): string | null {
   return imageId ? professionImageUrl(imageId) : null;
 }
 
-export const MASTERWORK_SEAL_IMAGE_URL = `${PROFESSION_IMAGE_DIR}/masterwork_seal.webp`;
+export const MASTERWORK_SEAL_IMAGE_URL = WHETSTORM_MASTERWORK_SEAL_IMAGE_URL;

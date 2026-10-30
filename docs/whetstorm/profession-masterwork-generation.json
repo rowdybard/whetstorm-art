@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "masterwork_seal",
+      "runtimeIds": [
+        "masterwork_seal"
+      ],
+      "file": "docs/design/whetstorm-art/professions/masterwork_seal.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original masterwork seal: a single circular antique gold medallion embossed with a small silver hammer and a four-point star, conveying exceptional craftsmanship. Bold clear silhouette, gold and silver palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, readable letters, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "d5feb1d574070091ec6a5370d2bbd4afa60ff52dbb262093321df4e70680a98f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/masterwork_seal.webp",
+        "sha256": "653f466a56dd4bc521e14ac77037fb2a18b247e985e03e8d451aac5bf14003b9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/masterwork_seal.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    }
+  ]
+}

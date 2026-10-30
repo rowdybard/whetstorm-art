@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "archetype_apothecary",
+      "runtimeIds": [
+        "archetype_apothecary"
+      ],
+      "file": "docs/design/whetstorm-art/professions/archetype_apothecary.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: fantasy game profession archetype crest. Create an original painted circular brass medallion on a dark brown square background, with a centered bold subject and no text, letters, numbers, logos or watermark. Readable at 32 pixels. Independently designed, do not imitate existing game art. Combine alchemy and cooking: a glass potion flask filled with golden liquid beside a wooden spoon and sprigs of herbs, warm light, representing an apothecary.",
+      "sha256": "b115aeda482eb57b43a71d81ada6ac5af15834bf46615192ce11019c4a4cf4a7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/archetype_apothecary.webp",
+        "sha256": "35e1f1245f7d2b3b818d41de7b0509522b45f38bba27984812f29c33ea31aee2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/archetype_apothecary.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "archetype_cogsmith",
+      "runtimeIds": [
+        "archetype_cogsmith"
+      ],
+      "file": "docs/design/whetstorm-art/professions/archetype_cogsmith.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: fantasy game profession archetype crest. Create an original painted circular brass medallion on a dark brown square background, with a centered bold subject and no text, letters, numbers, logos or watermark. Readable at 32 pixels. Independently designed, do not imitate existing game art. Combine armorcrafting and engineering: a steel breastplate with a visible brass gear and smith hammer, warm forge light, representing a gearwright.",
+      "sha256": "0b844e2a23b7daebfc577495f02f6c2d8a3afee716644c737728894f37a687b4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/archetype_cogsmith.webp",
+        "sha256": "f45c856dbb4d663d2940e5bc0fc5f08c4e8dedf31b26e35fbe4eed2d7786a06d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/archetype_cogsmith.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "archetype_trapper",
+      "runtimeIds": [
+        "archetype_trapper"
+      ],
+      "file": "docs/design/whetstorm-art/professions/archetype_trapper.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: fantasy game profession archetype crest. Create an original painted circular brass medallion on a dark brown square background, with a centered bold subject and no text, letters, numbers, logos or watermark. Readable at 32 pixels. Independently designed, do not imitate existing game art. Combine cooking and leatherworking: a leather pouch and skillet with a small sprig of herbs, rugged camp setting, representing a trapper.",
+      "sha256": "dfd2d633791d6a2b42cedd118fa8d9fe08b41a0b88c73891f8bf7c46fddaceee",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/archetype_trapper.webp",
+        "sha256": "d6c9c95439c4e4a24e9479007b635115527f645f8bca511a03b50b863d150c36",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/archetype_trapper.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "archetype_gembinder",
+      "runtimeIds": [
+        "archetype_gembinder"
+      ],
+      "file": "docs/design/whetstorm-art/professions/archetype_gembinder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: fantasy game profession archetype crest. Create an original painted circular brass medallion on a dark brown square background, with a centered bold subject and no text, letters, numbers, logos or watermark. Readable at 32 pixels. Independently designed, do not imitate existing game art. Combine enchanting and jewelcrafting: a luminous purple faceted gemstone held in a gold setting, a small chisel and soft arcane glow, representing a gembinder.",
+      "sha256": "f38c49489855fbd9d4829eb6efb5a38a4f591b5da5fcd860616aa1c85fa2e5bc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/archetype_gembinder.webp",
+        "sha256": "97ede5578d754815fa413caef750beec39bd6b2bb3f2c3a135475f4d4298e743",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/archetype_gembinder.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "archetype_bombardier",
+      "runtimeIds": [
+        "archetype_bombardier"
+      ],
+      "file": "docs/design/whetstorm-art/professions/archetype_bombardier.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: fantasy game profession archetype crest. Create an original painted circular brass medallion on a dark brown square background, with a centered bold subject and no text, letters, numbers, logos or watermark. Readable at 32 pixels. Independently designed, do not imitate existing game art. Combine engineering and alchemy: a round copper mechanical flask with a pressure gauge, cork and blue bubbling liquid, representing a bombardier. No explosion or weapon.",
+      "sha256": "83330682155735d741c5819e1347aa6e8cc3524259a824bad615f6454917b995",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/archetype_bombardier.webp",
+        "sha256": "b4f401dd4a1b15bdf91a9250eef84118f42d432083fa5dcc0484777b91cfd66d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/archetype_bombardier.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    }
+  ]
+}
