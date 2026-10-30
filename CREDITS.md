@@ -97,7 +97,7 @@ original vector artwork made for this fork without image references. Its source,
 processing and hashes are recorded in `docs/whetstorm/confection-candy-atlas.md`.
 The earlier atlas retains its historical attribution.
 
-The four Guildmark thumbnail paintings under `public/ui/whetstorm/armory/`
+The seven Guildmark thumbnail paintings under `public/ui/whetstorm/armory/`
 were generated for this fork without image references. Their source prompts and
 hashes are recorded in `docs/whetstorm/armory-guildmark-original-generation.json`.
 These 2D replacements do not relicense the separate historical skin models.

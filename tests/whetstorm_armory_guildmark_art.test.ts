@@ -12,7 +12,15 @@ import { cosmeticsPanelHtml } from '../src/ui/hud/cosmetics/cosmetics_cards_view
 import { reliquaryCellArt, reliquaryCellArtOpaque } from '../src/ui/reliquary_cell_art';
 import { armorySkinArt } from '../src/ui/woc_store_view';
 
-const ids = ['guildmark_arming_sword', 'brasscap_axe', 'tempered_flanged_mace', 'guildmark_dirk'];
+const ids = [
+  'guildmark_arming_sword',
+  'brasscap_axe',
+  'tempered_flanged_mace',
+  'guildmark_dirk',
+  'brasscrown_staff',
+  'lacquered_wand',
+  'fletcher_s_guild_bow',
+];
 const hash = (path: string) => createHash('sha256').update(readFileSync(path)).digest('hex');
 
 describe('original Guildmark Armory thumbnails', () => {

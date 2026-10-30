@@ -96,6 +96,78 @@
         "format": "WebP RGB",
         "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
       }
+    },
+    {
+      "skinId": "brasscrown_staff",
+      "file": "docs/design/whetstorm-art/armory/brasscrown_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm light, whole object diagonally framed and legible at 32 pixels. Subject: one seasoned hardwood walking staff with a turned brass crown finial, brass ferrule at the bottom, and dyed leather band. Practical unenchanted craftsmanship. No border, words, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "a278dad8f623765e9e203e9e45b56727b9df11a7b261e8d2edba031c15c803ec",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-03f7b075-4554-414d-b6b1-5150f8ea4c2c.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/brasscrown_staff.webp",
+        "sha256": "4c1dc71b65b2b6cc767d5d4e1349136010484e7076cea2d0f5067362762ea1de",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "lacquered_wand",
+      "file": "docs/design/whetstorm-art/armory/lacquered_wand.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm light, whole object diagonally framed and legible at 32 pixels. Subject: one slender deep-red lacquered magic wand, two polished brass bands and a small rounded brass tip. Practical unenchanted craftsmanship. No border, words, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "a30f66d4ef0be77c0cf4bc8b7fdeb81273689b0ddb228768ab4ba16293181c82",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-6954a16c-345f-45ff-8577-dccb04a11c45.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/lacquered_wand.webp",
+        "sha256": "b512d4dad375c192b3aa136574ff2d42683b44d9de470763d92c5e610b8dba2a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "fletcher_s_guild_bow",
+      "file": "docs/design/whetstorm-art/armory/fletcher_s_guild_bow.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm light, whole object diagonally framed and legible at 32 pixels. Subject: one lacquered walnut recurve bow with brass limb tips, a taut waxed linen bowstring and a small abstract maker stamp on the riser. Practical unenchanted craftsmanship. No arrows. No border, words, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "a13b313c4fa35978efdd03ef84e295c95b66f8d56254b0cf8f62b6d66467aa0d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-5c195c05-74b3-4a1b-8930-39e64d6b6c30.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/fletcher_s_guild_bow.webp",
+        "sha256": "142a911939cc81deae69b82d6135faf7e4d0f426246584adcfb2b480d2d1c4b7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
     }
   ]
 }

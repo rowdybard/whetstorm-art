@@ -4,6 +4,9 @@ const ORIGINAL_SKINS = new Set([
   'brasscap_axe',
   'tempered_flanged_mace',
   'guildmark_dirk',
+  'brasscrown_staff',
+  'lacquered_wand',
+  'fletcher_s_guild_bow',
 ]);
 
 export const ORIGINAL_ARMORY_ART_DIR = '/ui/whetstorm/armory';
