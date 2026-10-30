@@ -59,6 +59,10 @@ candidate and verify the new texture there.
 The later `whetstorm_flame_6x6.webp` atlas was also added after that partial
 manifest was generated. The complete candidate must regenerate the manifest for
 both textures and verify all VFX consumers in the built package.
+The later Warrior pressure, blood-film and steel textures likewise require a
+fresh full-candidate media manifest and in-game review; see
+`docs/whetstorm/warrior-material-textures-provenance.md`. Do not use the
+partial worktree's generated manifest for those replacements.
 
 Later art-branch changes also replace direct UI art paths. The weekly quest
 scenes, medals and emissary portrait require the updated

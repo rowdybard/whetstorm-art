@@ -1154,6 +1154,10 @@ The original quest-escort and Yumi portraits were created for Whetstorm using
 OpenAI's built-in image generation. Their prompts and hashes are recorded in
 `docs/whetstorm/escort-yumi-portraits-generation.json`.
 
+The original procedural Warrior pressure, blood-film and forged-steel
+textures and their source generators are recorded in
+`docs/whetstorm/warrior-material-textures-provenance.md`.
+
 Original Glimmermere, Frostveil, Willowfen, Palmreach, Mirefen, hoard, and
 Gravewing portraits were created for Whetstorm using OpenAI's built-in image
 generation. Prompts and hashes are recorded under `public/ui/whetstorm/mobs/`
