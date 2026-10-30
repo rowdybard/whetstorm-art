@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "skinId": "guildmark_arming_sword",
+      "file": "docs/design/whetstorm-art/armory/guildmark_arming_sword.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm light, whole weapon diagonally framed and legible at 32 pixels. Subject: one arming sword with blued steel blade, bronze fishtail crossguard, teal leather grip and a small abstract maker stamp. Unenchanted practical smithwork. No border, words, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "0e7f7184f0f787c04cd8dbe74a6aea33f951e0c051e464168393c37bdd7582ce",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-91308f80-8607-4454-9f51-35352aa33af7.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/guildmark_arming_sword.webp",
+        "sha256": "098c8f8190ed3037d65bb0c635fa872a77dca877c9b4878aeae502aa8c03bbdf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "brasscap_axe",
+      "file": "docs/design/whetstorm-art/armory/brasscap_axe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm light, whole weapon diagonally framed and legible at 32 pixels. Subject: one compact hatchet with polished steel cutting bit, brass cap and reinforcing langets on a lacquered ash haft and tidy wrapped grip. Unenchanted practical smithwork. No border, words, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "c6053915d490a96c1fe39709f9d5a9990aaedb497811a6ff5f5f73dbbe4473c4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-5fa343d5-e24e-4180-87a3-a7a548a8a942.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/brasscap_axe.webp",
+        "sha256": "4a603678719889e084c9abe4956b6bf77b8283572d970e63cbfeee50be3a27ea",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "tempered_flanged_mace",
+      "file": "docs/design/whetstorm-art/armory/tempered_flanged_mace.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm light, whole weapon diagonally framed and legible at 32 pixels. Subject: one mace with six flanges on its tempered blue-steel head, brass collar and pommel, wine-red leather grip. Unenchanted practical smithwork. No border, words, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "09e60f5e0529303f49faa86b4cd2b8e859917810312c4a499a8a6aaf20840884",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-bd4dd655-9fc8-46b1-844e-4a933f7cdb62.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/tempered_flanged_mace.webp",
+        "sha256": "b83348e5a3d5aa40daaebb0d47ba3424115a08eabab1842b7bf0669a90770f60",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "guildmark_dirk",
+      "file": "docs/design/whetstorm-art/armory/guildmark_dirk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm light, whole weapon diagonally framed and legible at 32 pixels. Subject: one slim straight steel dirk, bronze guard and pommel nut, dark-green cord grip and small abstract maker stamp. Unenchanted practical smithwork. No border, words, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "d22b307da33ff0bef4052ba8f7f170366e7c2d84ff2fc6285fc2a4216939a584",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-c982c47a-7791-46a3-90fb-6002f5ef7118.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/guildmark_dirk.webp",
+        "sha256": "ad30cfb0c7da3a506453703b155ac07ce26031187341a0edf9378d7a604fd940",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

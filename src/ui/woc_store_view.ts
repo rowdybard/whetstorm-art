@@ -18,6 +18,7 @@ import {
 } from '../sim/content/weapon_skins';
 import type { PlayerClass, SkinCatalog, WeaponSkinType } from '../sim/types';
 import type { AccountCosmetics } from '../world_api/cosmetics';
+import { originalArmorySkinArt } from './armory_guildmark_art';
 
 export interface WocStoreItemInput {
   itemId: string;
@@ -75,7 +76,7 @@ export interface ArmoryContext {
 export const ARMORY_SKIN_ART_DIR = '/ui/store/armory';
 
 export function armorySkinArt(skinId: string): string {
-  return `${ARMORY_SKIN_ART_DIR}/${skinId}.webp`;
+  return originalArmorySkinArt(skinId) ?? `${ARMORY_SKIN_ART_DIR}/${skinId}.webp`;
 }
 
 /** Season 1 Armory sections, highest rarity first (the hero collection leads).

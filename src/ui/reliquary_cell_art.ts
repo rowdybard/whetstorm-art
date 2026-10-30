@@ -34,6 +34,7 @@ import { FIELD_NOTE_PROFESSIONS, RELIQUARY_MARK_IDS } from '../sim/content/reliq
 import { WEAPON_SKINS } from '../sim/content/weapon_skins';
 import { ITEMS } from '../sim/data';
 import { mountItemId } from '../sim/mounts';
+import { ORIGINAL_ARMORY_ART_DIR } from './armory_guildmark_art';
 import { deedCrestHasPaintedArt, deedCrestId } from './deeds_view';
 import { MASTERWORK_SEAL_IMAGE_URL, professionImageUrl } from './hud/professions/profession_art';
 import { deedImageUrl, itemImageUrl, weaponIconUrl } from './icons';
@@ -254,7 +255,11 @@ export function reliquaryCellArt(slot: ReliquaryArtSlot): ReliquaryCellArt | nul
  * silently landing on the wrong filter.
  */
 export function reliquaryCellArtOpaque(art: ReliquaryCellArt): boolean {
-  if (art.kind === 'url') return art.url.startsWith(`${ARMORY_SKIN_ART_DIR}/`);
+  if (art.kind === 'url')
+    return (
+      art.url.startsWith(`${ARMORY_SKIN_ART_DIR}/`) ||
+      art.url.startsWith(`${ORIGINAL_ARMORY_ART_DIR}/`)
+    );
   if (art.kind === 'crest') {
     // Use the same winning URL as the icon painter: original art takes
     // precedence even when an inherited painting exists for the same deed.
