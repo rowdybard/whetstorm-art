@@ -28,6 +28,7 @@ import { explorationDeedImageUrl } from './exploration_deed_art';
 import { factionStandingDeedImageUrl } from './faction_standing_deed_art';
 import { floodedChallengeDeedImageUrl } from './flooded_challenge_deed_art';
 import { gatheringBookendDeedImageUrl } from './gathering_bookend_deed_art';
+import { grandmasterCraftDeedImageUrl } from './grandmaster_craft_deed_art';
 import { heroicClearDeedImageUrl } from './heroic_clear_deed_art';
 import { heroicDepthsDeedImageUrl } from './heroic_depths_deed_art';
 import { journeyCraftDeedImageUrl } from './journey_craft_deed_art';
@@ -81,6 +82,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     EARLY_DEED_ART.get(id) ??
     factionStandingDeedImageUrl(id) ??
     rareCraftDeedImageUrl(id) ??
+    grandmasterCraftDeedImageUrl(id) ??
     adventureMilestoneDeedImageUrl(id) ??
     amberfallEvergardenDeedImageUrl(id) ??
     nightbloomWraithwoodDeedImageUrl(id) ??

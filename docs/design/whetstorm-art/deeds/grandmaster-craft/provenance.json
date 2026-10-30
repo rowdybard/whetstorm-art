@@ -1,0 +1,40 @@
+{
+  "generator": "OpenAI built-in image generation, four separate text-only prompts, no image references",
+  "purpose": "Visual upgrade from original procedural progression category crest.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Production deed lookup integrated and focused checks passed; in-game review pending.",
+  "entries": [
+    {
+      "id": "prog_grandmaster_alchemy",
+      "prompt": "Original opaque square fantasy MMO deed crest, master alchemy: an ornate copper alchemist retort containing luminous emerald liquid, with a small crystal stopper and subtle curling vapor. One compact centered subject, premium hand-painted, warm top-left light, dark umber vignette, readable at 28 pixels; no text, people, watermark, or border.",
+      "source": "docs/design/whetstorm-art/deeds/grandmaster-craft/prog_grandmaster_alchemy.png",
+      "sourceSha256": "95eab5881420d770fa7e8a0fbfe78f36d551e074b6c55e7a20d33c64ffc9f37e",
+      "output": "public/ui/whetstorm/deeds/prog_grandmaster_alchemy.webp",
+      "outputSha256": "7e38f95fe5d00adab3637ead39b385f5fa69412ec3c6f7a0993637f1acd107d0"
+    },
+    {
+      "id": "prog_grandmaster_cooking",
+      "prompt": "Original opaque square fantasy MMO deed crest, master cooking: a finely crafted bronze cooking pot with steaming savory golden stew and a wooden ladle tucked against it. One compact centered subject, premium hand-painted, warm top-left light, dark umber vignette, readable at 28 pixels; no text, people, watermark, or border.",
+      "source": "docs/design/whetstorm-art/deeds/grandmaster-craft/prog_grandmaster_cooking.png",
+      "sourceSha256": "f6bcce50179c954b67fd5e1d14f7dfc1a2028eb25c85810f5b44a86d2f869972",
+      "output": "public/ui/whetstorm/deeds/prog_grandmaster_cooking.webp",
+      "outputSha256": "e45616a7766bb2c157a665227fa0100d1c31af4dca61eed95e49b2d1ce3e0c2a"
+    },
+    {
+      "id": "prog_grandmaster_enchanting",
+      "prompt": "Original opaque square fantasy MMO deed crest, master enchanting: a short dark metal wand tipped with a bright violet crystal hovering over a simple gold circlet, controlled arcane sparks. Compact centered composition, premium hand-painted, warm top-left light, dark charcoal vignette, readable at 28 pixels; no text, runic writing, people, watermark, or border.",
+      "source": "docs/design/whetstorm-art/deeds/grandmaster-craft/prog_grandmaster_enchanting.png",
+      "sourceSha256": "0be11f7702872abab463214b9d33c470d0a0e228919f4189307ae9f7a3c22d34",
+      "output": "public/ui/whetstorm/deeds/prog_grandmaster_enchanting.webp",
+      "outputSha256": "bac97b7117e84f268b106e14979f652eecd696762a11609384419ba3fd6ca6d2"
+    },
+    {
+      "id": "prog_grandmaster_inscription",
+      "prompt": "Original opaque square fantasy MMO deed crest, master inscription: a large open blank parchment codex and a fine gold-nibbed quill with a small sealed ink bottle, suggesting mastery of crafted inscriptions. Compact centered composition, premium hand-painted, warm top-left light, dark umber vignette, readable at 28 pixels; no text, writing, people, watermark, or border.",
+      "source": "docs/design/whetstorm-art/deeds/grandmaster-craft/prog_grandmaster_inscription.png",
+      "sourceSha256": "88b373ab14c784b0c8047d4f8c49b897b6a15bc01a6407f380265e3d248df1e6",
+      "output": "public/ui/whetstorm/deeds/prog_grandmaster_inscription.webp",
+      "outputSha256": "ee59f4088bf5373b9ec1a36fdc5231d5902ba2dd9f42501613fbfffea8f14f52"
+    }
+  ]
+}

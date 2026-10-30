@@ -98,13 +98,15 @@ planning only and does not remove the restricted original from distribution.
 
 ### Environment dependencies requiring clearance
 
-The Eastbrook surface normal and roughness maps are generated from the
-project-restricted color atlas, not independent assets. Their bake is specified
-in `scripts/assets/specs/eastbrook_town_surface_pbr.json`; the town renderer
-uses the normal map. The Realm Builder distance impostor is baked from the
-project-restricted monument sculpt and has a renderer load path. Confirm their
-reachability in the intended world and replace or clear the underlying sources
-before relying on their derivatives.
+The Eastbrook surface normal and roughness maps are generated from the color
+atlas, not independent assets. Their bake is specified in
+`scripts/assets/specs/eastbrook_town_surface_pbr.json`; the town renderer uses
+the normal map. The Realm Builder distance impostor is baked from the monument
+sculpt and has a renderer load path. `CREDITS.md` marks the atlas and monument
+`With the project only`, and states that assets with that designation may be
+used within a fork under its stated conditions. Their source lineage, derivative
+terms and the owner's preference for original art still matter; these rows do
+not classify the assets as `No, permission required`.
 
 The active `palmreach_day`, `evergarden_day`, `galecrest_day`, and
 `farshore_day` sky variants have a traceable PNG → HDR → KTX2 file pipeline,
@@ -190,7 +192,7 @@ files remain to be audited.
 | Ferry, Wyrmwatch harbor, Wickharbor wharf and harbor | The transport and harbor content modules describe ferry routes, walkable decks, collision and the harbormaster house as coordinated with the rendered models. | Preserve pier surfaces, routes, collisions, interactions and visual alignment; a generic static mesh is not automatically a substitute. |
 | Harbormaster gear | `src/render/characters/manifest.ts` attaches the tricorne to `head` and spyglass to `hips`. | Fit replacements to those attachment frames and validate on the body. |
 | Harbor route marker | `src/sim/content/harbor_route_markers.ts` describes shared markers at ferry locations. | Preserve destinations and marker readability. |
-| `reeds.glb` | The credits register identifies it as restricted; this focused search did not establish its runtime consumer. | Trace placements and bundled/editor references before selecting a substitute or removal. |
+| `reeds.glb` | `src/render/props.ts` maps `marshReeds` to this GLB and instantiates the active world's placements. `src/sim/content/zone2.ts` supplies the preserved Fenbridge placements from `src/sim/fenbridge_layout.ts`. | This active model is already in the 16-file inventory. It is distinct from `fen_reeds.glb`, used by other foliage systems; do not count it twice. Check placement and visual density when substituting. |
 
 The Lanternback renderer uses idle, walk, run and death clips, an animated
 chair-bone rider attachment with a fixed-seat fallback, and two lantern-bone
@@ -246,6 +248,32 @@ Blender-authored swim clips. Their individual provenance is not established by
 the 1.0 pack link alone. The Druid bear and cat form model and animation rows in
 `CREDITS.md` are separately marked `With the project only`; that register states
 the fork may use such assets within the project, subject to its stated conditions.
+
+### Creature sample for provenance follow-up
+
+These active paths are a prioritized sample, not additional entries in the
+56-file permission-required count:
+
+- `public/models/creatures/wolf_basic.glb` is the `mob_wolf` visual and beast
+  fallback in `src/render/characters/manifest.ts`; `greyjaw.glb` is the separate
+  Old Greyjaw visual. The manifest describes both as custom Tripo wolf rigs.
+  The scoped credit search found no exact row for either file, so their precise
+  source terms and animation lineage remain unresolved.
+- `public/models/creatures/wild_boar.glb` is the active `mob_boar` visual for
+  wild and thicket boars. Its manifest describes a custom rig; the scoped search
+  found no exact credit or source-manifest row, so its terms remain unresolved.
+- `public/models/creatures/spider.glb` is the active spider-family visual.
+  `scripts/assets/specs/characters.json` identifies Quaternius's Spider source,
+  and `CREDITS.md` lists that spider family as CC0. The same spec identifies
+  Quaternius `wolf.glb`, also covered by the wolf family credit, and
+  `src/render/ability_vfx/spirits.ts` uses it. It is distinct from the active
+  `wolf_basic.glb` body. Verify each shipped derivative and embedded texture
+  against its source rather than extending the family credit by name alone.
+- The active Druid `bear_form.glb` and `druid_cat_form.glb` have individual
+  `With the project only` credit rows. The active `skeleton_minion.glb` is also
+  distinct from `skeleton_minion_free.glb`, whose free-tier rebuild has an
+  explicit CC0 row; that row alone does not establish the original minion's
+  exact merged source tier and animation terms.
 
 ## Character and equipment fit
 
