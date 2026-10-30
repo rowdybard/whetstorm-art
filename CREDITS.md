@@ -993,3 +993,14 @@ discovery deed crests and four encounter aura paintings are recorded in
 
 Four original exploration activity deed paintings are recorded in
 `docs/whetstorm/deed-activity-generation.json`.
+
+Original Dawnweave armor, hoard jewelry, quest ore, and battleground deed
+paintings were created for Whetstorm using OpenAI's built-in image generation.
+Their prompts and hashes are recorded in
+`docs/whetstorm/dawnweave-armor-generation.json`,
+`docs/whetstorm/hoard-jewelry-second-generation.json`,
+`docs/whetstorm/quest-ore-generation.json`, and
+`docs/whetstorm/deed-battleground-generation.json`.
+
+The original procedural Fightpit decals and their generator are documented in
+`docs/whetstorm/fightpit-decals-provenance.md`.

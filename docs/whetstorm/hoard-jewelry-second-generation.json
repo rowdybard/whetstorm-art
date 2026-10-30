@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "seal_of_the_cryptwalker",
+      "file": "docs/design/whetstorm-art/items/seal_of_the_cryptwalker.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO inventory icon. Create an original painted signet ring for the Seal of the Cryptwalker: dark antique silver ring, a stylized stone arch motif and a small pale amethyst, distinctive simple silhouette. Three-quarter view centered and large, dark muted painterly backdrop, luminous edge highlights, rich hand-painted materials, readable at 128 pixels. No text, lettering, borders, logos, characters, or reference to existing games.",
+      "status": "original art candidate",
+      "sha256": "05192c89efd6b3cd5d2b935583ee0cc6dda376d1b4c049c70dffd9c818eb403e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/seal_of_the_cryptwalker.webp",
+        "sha256": "55d4f671d43f4937e3a9659e89fa48863f6ee1c5db77a61673a126e254cc621a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "pendant_continuous_flow",
+      "file": "docs/design/whetstorm-art/items/pendant_continuous_flow.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO inventory icon. Create an original painted Pendant of Continuous Flow: a silver necklace with a single teardrop aqua gemstone cradled by two sweeping wave-shaped silver arms, fine chain visibly looped above. Three-quarter view centered and large, deep ocean blue painterly backdrop, luminous edge highlights, rich hand-painted materials, readable at 128 pixels. No text, lettering, borders, logos, characters, or reference to existing games.",
+      "status": "original art candidate",
+      "sha256": "5f364172dc11da31d4bc24237677022f7804a7293430a97a336bb8fb260b3cbd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pendant_continuous_flow.webp",
+        "sha256": "ae6032dbe2c669326cb67568b8db31fa052f90dc3f7442291a2e15c26fc153be",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

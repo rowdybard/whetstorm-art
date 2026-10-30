@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "benison_dawnweave_helmet",
+      "file": "docs/design/whetstorm-art/items/benison_dawnweave_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy inventory icon. One complete empty ivory cloth hood HEADPIECE only, no shoulders, no cape or mantle: a simple soft rounded hood with dark empty oval face opening and short lower hem, delicate gold stitched trim. Center the complete headpiece occupying about 72 percent of image, with ample margins. Dark slate-blue painted background, warm upper-left light, premium hand-painted fantasy, broad shapes legible at 22 pixels. No body, face, text, border, logo, watermark, or copied game designs.",
+      "status": "original armor painting; visual review pending",
+      "sha256": "e84027b46c7b20f4c3725ff740987e4806cea4eeb099b6a859e99fb601fe68ac",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/benison_dawnweave_helmet.webp",
+        "sha256": "993dacc2f529ab011a7c855e6bee278699722268ecfcd126e71d5d533f10c403",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "benison_dawnweave_shoulder",
+      "file": "docs/design/whetstorm-art/items/benison_dawnweave_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm fantasy inventory icon painting. One complete pair of pale ivory cloth shoulder mantles, symmetrical layered soft fabric with subtle warm golden stitching, no body. Square edge-to-edge dark slate blue painted background; warm upper-left light; centered complete silhouette, broad hand-painted forms legible at 32 pixels. No person, text, letters, border, logo, watermark, photorealism, or imitation of other games or artists.",
+      "status": "original armor painting; visual review pending",
+      "sha256": "20f3b95c8c35220480794d0474b604b88768a5d2eda1e6365921e7a2694e2034",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/benison_dawnweave_shoulder.webp",
+        "sha256": "79033c0feaf98256f9124ee71b1534223ca6bd665cd504c5ad8bd04c01a791ee",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "benison_dawnweave_chest",
+      "file": "docs/design/whetstorm-art/items/benison_dawnweave_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm fantasy inventory icon painting. One complete empty long sleeved ivory cloth robe with modest golden stitched edging and a simple sash. Square edge-to-edge dark slate blue painted background; warm upper-left light; centered complete silhouette, broad hand-painted forms legible at 32 pixels. No person, text, letters, border, logo, watermark, photorealism, or imitation of other games or artists.",
+      "status": "original armor painting; visual review pending",
+      "sha256": "e4642563b82a9340e8e142089fe53d010c5a38c05971c06e2cc3077d8b57487c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/benison_dawnweave_chest.webp",
+        "sha256": "23e43638cda2df6f149c448f7606e3a610454e8153c280ca31e3a004f7c381cb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "benison_dawnweave_gloves",
+      "file": "docs/design/whetstorm-art/items/benison_dawnweave_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original Whetstorm fantasy inventory icon painting. One complete pair of ivory cloth handwrap gloves with subtle golden stitched cuffs, empty with no hands. Square edge-to-edge dark slate blue painted background; warm upper-left light; centered complete silhouette, broad hand-painted forms legible at 32 pixels. No person, text, letters, border, logo, watermark, photorealism, or imitation of other games or artists.",
+      "status": "original armor painting; visual review pending",
+      "sha256": "1c36f45e61f2b76312965512ae3aec45b1c37651a195c861d0ed1ae96194d494",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/benison_dawnweave_gloves.webp",
+        "sha256": "61b2722f365cf763676c572f9494de46280746e186131573a2b51357acd0450e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

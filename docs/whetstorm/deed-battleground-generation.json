@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "pvp_bg_first_capture",
+      "master": "docs/design/whetstorm-art/deeds/pvp_bg_first_capture.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for capturing a battleground flag: a gauntleted hand firmly gripping a red cloth banner pole, grassy battlefield and distant wooden palisade filling every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "2c0d98878db29d840b754bfbac9c75c32f420da3c21319a0d6a0ae3f20351001",
+      "shipping": "public/ui/whetstorm/deeds/pvp_bg_first_capture.webp",
+      "shippingSha256": "6b875b65dd553e53993b0cd0373da869f72f05577a66c65ae24f800badcb22a9",
+      "processing": "Sharp Lanczos3 resize to 512x512 master, then 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "pvp_bg_first_win",
+      "master": "docs/design/whetstorm-art/deeds/pvp_bg_first_win.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for winning a battleground: a victorious blue banner planted atop a small grassy hill beside a steel shield, golden sunlight and distant field filling every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "90e0c238e4c54ed13cd7b9341eb3bd8be688d06cfcadebcb1e9f69b02f919710",
+      "shipping": "public/ui/whetstorm/deeds/pvp_bg_first_win.webp",
+      "shippingSha256": "cc0d0d1ef1e21faf43fb72edf50c989abad7a7a3da61a32425f8e8b700f40563",
+      "processing": "Sharp Lanczos3 resize to 512x512 master, then 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "pvp_bg_wins_25",
+      "master": "docs/design/whetstorm-art/deeds/pvp_bg_wins_25.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for a veteran battleground champion: a battered steel shield with a simple golden laurel emblem, planted spear and fluttering blue banner behind it, forest battlefield filling every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "e777c5e3b962dd6fc0f8dda8f27dec05785373634449129f8173f6fcf252087a",
+      "shipping": "public/ui/whetstorm/deeds/pvp_bg_wins_25.webp",
+      "shippingSha256": "01f0f7c78600b202b3bcdaf991b6a302b971215b135defca0a79effb38f8f639",
+      "processing": "Sharp Lanczos3 resize to 512x512 master, then 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "pvp_bg_captures_100",
+      "master": "docs/design/whetstorm-art/deeds/pvp_bg_captures_100.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for a lifetime of battleground flag captures: a cluster of colorful worn pennants held together by a sturdy gauntlet, blue sky and grassy battleground filling every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "018c448626db430c0dbc471d8d0ce4003a0aa2a7433cd376093674b0b12ec41e",
+      "shipping": "public/ui/whetstorm/deeds/pvp_bg_captures_100.webp",
+      "shippingSha256": "c71cdd5394594e8d79ec110dd9c926f169f8eab65774e5708fbefcfe096f1aa5",
+      "processing": "Sharp Lanczos3 resize to 512x512 master, then 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}

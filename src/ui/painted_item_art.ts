@@ -53,6 +53,7 @@ import { crozierSparksItemImageUrl } from './crozier_sparks_item_art';
 import { dawnForgeItemImageUrl } from './dawn_forge_item_art';
 import { dawnforgedArmorItemImageUrl } from './dawnforged_armor_item_art';
 import { dawnholdPosyItemImageUrl } from './dawnhold_posy_item_art';
+import { dawnweaveArmorItemImageUrl } from './dawnweave_armor_item_art';
 import { deathlessStormItemImageUrl } from './deathless_storm_item_art';
 import { direfangArmorItemImageUrl } from './direfang_armor_item_art';
 import { drogmarQuestWeaponsItemImageUrl } from './drogmar_quest_weapons_item_art';
@@ -116,6 +117,7 @@ import { heroicMailOriginalItemImageUrl } from './heroic_mail_original_item_art'
 import { highpineArgumentItemImageUrl } from './highpine_argument_item_art';
 import { highwatchWeaponItemImageUrl } from './highwatch_weapon_item_art';
 import { hoardJewelryItemImageUrl } from './hoard_jewelry_item_art';
+import { hoardJewelrySecondItemImageUrl } from './hoard_jewelry_second_item_art';
 import { inscriptionBooksItemImageUrl } from './inscription_books_item_art';
 import { jewelryAbyssRingsItemImageUrl } from './jewelry_abyss_rings_item_art';
 import { jewelryBatchApexItemImageUrl } from './jewelry_batch_apex_item_art';
@@ -206,6 +208,7 @@ import { questDropsScalesItemImageUrl } from './quest_drops_scales_item_art';
 import { questFiberDropsItemImageUrl } from './quest_fiber_drops_item_art';
 import { questGlowingDropsItemImageUrl } from './quest_glowing_drops_item_art';
 import { questHighwatchSecondItemImageUrl } from './quest_highwatch_second_item_art';
+import { questOreItemImageUrl } from './quest_ore_item_art';
 import { questRealmCollectionItemImageUrl } from './quest_realm_collection_item_art';
 import { questRegionalDropsItemImageUrl } from './quest_regional_drops_item_art';
 import { questRelicsItemImageUrl } from './quest_relics_item_art';
@@ -382,7 +385,9 @@ export function paintedItemImageUrl(id: string): string | null {
     questDropsScalesItemImageUrl(id) ??
     skullsplitterItemImageUrl(id) ??
     farmProduceFineItemImageUrl(id) ??
+    dawnweaveArmorItemImageUrl(id) ??
     hoardJewelryItemImageUrl(id) ??
+    hoardJewelrySecondItemImageUrl(id) ??
     vaelLeatherOriginalItemImageUrl(id) ??
     heroicMailOriginalItemImageUrl(id) ??
     farmProduceOriginalItemImageUrl(id) ??
@@ -534,6 +539,7 @@ export function paintedItemImageUrl(id: string): string | null {
     weaponBatchTwentyItemImageUrl(id) ??
     weaponBatchTwentyoneItemImageUrl(id) ??
     questBatchSixteenItemImageUrl(id) ??
+    questOreItemImageUrl(id) ??
     marshBatchSeventeenItemImageUrl(id) ??
     marshBatchEighteenItemImageUrl(id)
   );

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "chunk_of_ore",
+      "file": "docs/design/whetstorm-art/items/chunk_of_ore.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original opaque square fantasy MMORPG inventory painting for a retained quest item, Chunk of Ore. Subject: a single rough, angular chunk of dark iron-bearing stone with subtle metallic seams and naturally broken faces, no crystals or tools. Center the complete silhouette with generous margin, filling about 70% of the square and readable at 22px. Premium hand-painted classic dark fantasy style, tactile stone and metal, warm top-left light, cool deep shadow, subdued deep slate-blue painted vignette background. No text, symbols, frame, border, watermark, people, hands, transparency, photorealism, or copied game art.",
+      "status": "Original painting for a retired item retained for legacy saves",
+      "sha256": "3c874a914cc61ffd42e7d29fb7056bc3f92de63c2a71b43c6f75792370623c9e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/chunk_of_ore.webp",
+        "sha256": "d7e263851246328d24e3641012578af666f534d72c4dd1aa3ac34638c37b1281",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-5f6f84fe-9e08-4487-9be4-e28a814e1c97.png"
+    }
+  ]
+}
