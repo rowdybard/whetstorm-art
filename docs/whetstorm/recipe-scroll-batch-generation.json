@@ -1,0 +1,108 @@
+{
+  "assets": [
+    {
+      "itemId": "recipe_potion_of_invisibility",
+      "file": "docs/design/whetstorm-art/items/recipe_potion_of_invisibility.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: a single aged parchment formula scroll, partly rolled, secured with a dark violet wax seal bearing a simple eye silhouette, a small ghostly translucent blue potion bottle illustration on its parchment face, no writing or symbols. Complete centered silhouette, ample margin; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment and wax, premium hand-painted dark fantasy. No text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "f5d38be59e310c1d29b8c9d00d4acb3288df537050eec9a854c8b7fc5ff94227",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/recipe_potion_of_invisibility.webp",
+        "sha256": "5439529667e07e944a03519fec0dc2374e1e7baab97f0c160fb8fa2ef39e452e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 2850
+      }
+    },
+    {
+      "itemId": "recipe_elixir_of_mana_regeneration",
+      "file": "docs/design/whetstorm-art/items/recipe_elixir_of_mana_regeneration.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: a single aged parchment formula scroll, partly rolled, tied with deep blue cord and a blue wax seal, with a small cobalt glass potion bottle illustration and a single water droplet on its face, no writing. Complete centered silhouette, ample margin; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment and wax, premium hand-painted dark fantasy. No text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "28c285e2d0a19d2f7a22d375ae53002d6cc12fbc1a47b26dceff7b31fbef7a25",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/recipe_elixir_of_mana_regeneration.webp",
+        "sha256": "fc9081dde2d049940454df2a866b2edfac80793bf9bf4241811748af2d4db073",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 2506
+      }
+    },
+    {
+      "itemId": "pattern_highwatch_gourd_soup",
+      "file": "docs/design/whetstorm-art/items/pattern_highwatch_gourd_soup.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one rolled cooking recipe parchment, partially unfurled, tied with russet cord, bearing a small painted image of a golden gourd soup bowl and a gourd on the parchment, no writing. Complete centered silhouette, ample margin; warm top-left light, cool shadows, subdued umber vignette, tactile parchment, premium hand-painted dark fantasy. No text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "885e557629d586ea0a468c87a9a518997973682273b4df2ee6a78c8e256d8e41",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_highwatch_gourd_soup.webp",
+        "sha256": "9491ce414cc66a58dc13676b08a61de98c6e32a701136e1fe6f515da769c760e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3190
+      }
+    },
+    {
+      "itemId": "pattern_highwatch_barley_porridge",
+      "file": "docs/design/whetstorm-art/items/pattern_highwatch_barley_porridge.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one folded and partly rolled cooking recipe parchment, tied with green cord, bearing a small painted image of a bowl of barley porridge with a barley stalk on the parchment, no writing. Complete centered silhouette, ample margin; warm top-left light, cool shadows, subdued umber vignette, tactile parchment, premium hand-painted dark fantasy. No text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "ce0c519924331eee59c6e49d09996ef1ed0d48c2c03f949098968f7e1cd45ec8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_highwatch_barley_porridge.webp",
+        "sha256": "284b2f93761b2b7bf4d6f5089a6299d4741b386637b12ce4e85bf336a3f4fd4a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 2836
+      }
+    }
+  ]
+}

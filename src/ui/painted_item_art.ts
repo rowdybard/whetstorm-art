@@ -169,6 +169,7 @@ import { mountReinsHeroicItemImageUrl } from './mount_reins_heroic_item_art';
 import { mountReinsRemainingItemImageUrl } from './mount_reins_remaining_item_art';
 import { mournweaveArmorItemImageUrl } from './mournweave_armor_item_art';
 import { oathpyreArmorItemImageUrl } from './oathpyre_armor_item_art';
+import { oct30EighthArmorItemImageUrl } from './oct30_eighth_armor_item_art';
 import { oct30FifthOriginalItemImageUrl } from './oct30_fifth_original_item_art';
 import { oct30FourthOriginalItemImageUrl } from './oct30_fourth_original_item_art';
 import { oct30OriginalItemImageUrl } from './oct30_original_item_art';
@@ -205,6 +206,7 @@ import { questTreasureMapItemImageUrl } from './quest_treasure_map_item_art';
 import { razorEmberglassItemImageUrl } from './razor_emberglass_item_art';
 import { realmQuestDropItemImageUrl } from './realm_quest_drop_art';
 import { realmQuestWeaponsItemImageUrl } from './realm_quest_weapons_item_art';
+import { recipeScrollBatchItemImageUrl } from './recipe_scroll_batch_item_art';
 import { regionalClothRewardsItemImageUrl } from './regional_cloth_rewards_item_art';
 import { resonantMaterialItemImageUrl } from './resonant_material_item_art';
 import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
@@ -255,6 +257,8 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    recipeScrollBatchItemImageUrl(id) ??
+    oct30EighthArmorItemImageUrl(id) ??
     oct30SeventhOriginalItemImageUrl(id) ??
     oct30SixthOriginalItemImageUrl(id) ??
     oct30FifthOriginalItemImageUrl(id) ??

@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "stormvotive_hauberk",
+      "file": "docs/design/whetstorm-art/items/stormvotive_hauberk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, slate-blue painted backdrop, warm upper-left light and bold shapes readable at 32 pixels. One complete Stormvotive Hauberk: a blue-gray linked mail chest garment with silver overlapping shoulder and chest plates, modest gold lightning etching and empty neck opening, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "23e96dc82eaab7fe2ceee74e586a905b95524aa1209f6d3b0c5a53c1668d8f72",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormvotive_hauberk.webp",
+        "sha256": "a31b23ad50e4480f65a7715d2639e42f183715c934063a333956ee082857bae2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "vestments_of_the_waking_grove",
+      "file": "docs/design/whetstorm-art/items/vestments_of_the_waking_grove.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, slate-blue painted backdrop, warm upper-left light and bold shapes readable at 32 pixels. One complete Vestments of the Waking Grove: an earthy green and brown leather chest vest with overlapping leaf-shaped leather panels, visible stitching, a small branch motif and empty neck and arm openings, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "4f7b64d7c51315984bbb5ebd9f887032aaedbfb1c1b234e899a981e17c504d93",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vestments_of_the_waking_grove.webp",
+        "sha256": "55d020c3ae5ffcfbaa51b2c78f495bcd66edea2d58824ae22670c0e108c79066",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "bonelord_mantle",
+      "file": "docs/design/whetstorm-art/items/bonelord_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, slate-blue painted backdrop, warm upper-left light and bold shapes readable at 32 pixels. One complete Bonelord Mantle: a pair of deep charcoal cloth shoulder wraps with layered woven fabric folds and ivory bone-shaped embroidery, soft fabric construction, centered with space. No person, skeleton, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "61a871e406b103bf10ffe1de13c3896b01d3bf2aa71660720d1746932fe52bdd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bonelord_mantle.webp",
+        "sha256": "987f012adc62491468915c36216738b6e66429fc5b62256c0746eaeedd2043e7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "voidscar_handwraps",
+      "file": "docs/design/whetstorm-art/items/voidscar_handwraps.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, slate-blue painted backdrop, warm upper-left light and bold shapes readable at 32 pixels. One complete pair of Voidscar Handwraps: dark violet cloth gloves with layered woven wrist wraps and narrow pale lavender stitched lines, no metal or leather, both gloves centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "3d365c5df0d580f274e153d6aa7287e3ca985ae768205348488c4df5f9d5a423",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/voidscar_handwraps.webp",
+        "sha256": "66dc617a42c71d8ae649439852bbfadd739148b9231d0b750759dc6ef05a6c50",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}
