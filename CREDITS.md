@@ -102,6 +102,16 @@ were generated for this fork without image references. Their source prompts and
 hashes are recorded in `docs/whetstorm/armory-guildmark-original-generation.json`.
 These 2D replacements do not relicense the separate historical skin models.
 
+Four Emberwrought thumbnail paintings in the same directory were generated for
+this fork without image references. Their source prompts and hashes are recorded
+in `docs/whetstorm/armory-emberwrought-original-generation.json`. Their separate
+historical held models retain their restrictions.
+
+The fel meteor impact sprite at `public/vfx/fel_meteor_impact.png` is original
+vector-derived art made for this fork without image references. Its source and
+processing are recorded in `docs/whetstorm/fel-meteor-impact-provenance.md`; the
+historical impact art retains its existing attribution.
+
 The silver-, gold-, and prismatic-tier Fiesta augment icons under
 `public/ui/whetstorm/fiesta/augments/` are original hand-authored SVGs based on
 the live augment mechanics. Paths and hashes are recorded in the
