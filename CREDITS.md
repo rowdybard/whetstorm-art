@@ -1060,6 +1060,10 @@ OpenAI's built-in image generation. Prompts and hashes are recorded in
 `docs/whetstorm/deed-faction-standing-generation.json` and
 `docs/whetstorm/deed-activity-finish-generation.json`.
 
+Five rare-crafting deed paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/deeds/rare-craft/provenance.json`.
+
 Original Shaman, Rogue, and Paladin ability paintings, Willowfen and Galecrest
 deed paintings, encounter aura paintings, and Ley and Confection puzzle art
 were created for Whetstorm using OpenAI's built-in image generation. Prompts

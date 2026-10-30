@@ -1,0 +1,48 @@
+{
+  "generator": "OpenAI built-in image generation, five separate text-only prompts, no image references",
+  "purpose": "Visual upgrade from original procedural progression category crest.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Production deed lookup integrated and focused checks passed; in-game review pending.",
+  "entries": [
+    {
+      "id": "prog_engineering_rare",
+      "prompt": "Original opaque square fantasy MMO deed crest painting: an intricate brass precision gear assembly with a tiny sapphire lens and finely crafted calipers, signifying first rare engineering craft. Single compact centered silhouette, premium hand-painted, warm top-left light, dark charcoal vignette, readable 28px, no letters, text, border, people or watermark.",
+      "source": "docs/design/whetstorm-art/deeds/rare-craft/prog_engineering_rare.png",
+      "sourceSha256": "fc76e1d662d662d57970f5244be3729790d4a09b390de7ca715e0a785a5a9556",
+      "output": "public/ui/whetstorm/deeds/prog_engineering_rare.webp",
+      "outputSha256": "130622de37296211deb550391235f07aa40140e267751f72aa0857a6c307725f"
+    },
+    {
+      "id": "prog_leatherworking_rare",
+      "prompt": "Original opaque square fantasy MMO deed crest painting: a fine tooled leather bracer and an awl resting together as one compact crafted form, signifying first rare leatherworking craft. Premium hand-painted tactile leather, warm top-left light, dark charcoal vignette, readable 28px, no letters, text, border, people or watermark.",
+      "source": "docs/design/whetstorm-art/deeds/rare-craft/prog_leatherworking_rare.png",
+      "sourceSha256": "df0ff042e2f6c490b4d276243da3e2d4a05408f0051cf8174aa6b927807a1f87",
+      "output": "public/ui/whetstorm/deeds/prog_leatherworking_rare.webp",
+      "outputSha256": "d72e40744f7b25af624f9e37efabd856f02f8dd1257ac7e98110c9e849fbd261"
+    },
+    {
+      "id": "prog_tailoring_rare",
+      "prompt": "Original opaque square fantasy MMO deed crest painting: a neatly folded richly embroidered blue cloth with a silver needle and a visible single gold thread, signifying first rare tailoring craft. One compact centered composition, premium hand-painted tactile cloth, warm top-left light, dark charcoal vignette, readable 28px, no letters, text, border, people or watermark.",
+      "source": "docs/design/whetstorm-art/deeds/rare-craft/prog_tailoring_rare.png",
+      "sourceSha256": "e2b5737d575f2c2384ebe76f4f13afcba9f5605419c3f06b869d0858b47837c5",
+      "output": "public/ui/whetstorm/deeds/prog_tailoring_rare.webp",
+      "outputSha256": "a640f55ae2b1ed5c38a7ba730fe9928ac2b410c46b07ad7bccbf088aeaad6181"
+    },
+    {
+      "id": "prog_jewelcrafting_rare",
+      "prompt": "Original opaque square fantasy MMO deed crest painting: one faceted blue gemstone held in a refined gold jeweler setting, a small jeweler's loupe nearby, signifying first rare jewelcrafting craft. Compact centered composition, premium hand-painted, warm top-left light, dark charcoal vignette, readable 28px, no letters, text, border, people or watermark.",
+      "source": "docs/design/whetstorm-art/deeds/rare-craft/prog_jewelcrafting_rare.png",
+      "sourceSha256": "6295a0551256b19b3cd70201c90c188e61c83f9b3bcf12638bd458a85efbdf6d",
+      "output": "public/ui/whetstorm/deeds/prog_jewelcrafting_rare.webp",
+      "outputSha256": "5f0f86c9e393270f69e46fe1fc13da78252205e9ad94f6213b2ff55302681725"
+    },
+    {
+      "id": "prog_inscription_rare",
+      "prompt": "Original opaque square fantasy MMO deed crest painting: a tightly rolled cream parchment with a dark ink quill and small blue wax seal, signifying first rare inscription craft. Compact centered composition, premium hand-painted, warm top-left light, dark charcoal vignette, readable 28px, no writing, letters, text, border, people or watermark.",
+      "source": "docs/design/whetstorm-art/deeds/rare-craft/prog_inscription_rare.png",
+      "sourceSha256": "c5d8165f825705ffe91115185a5739f2c654f9baa4b2c5ceceb23beee6bcc23a",
+      "output": "public/ui/whetstorm/deeds/prog_inscription_rare.webp",
+      "outputSha256": "db6488fddabffcc905670c96723d9a22bec03084eb5f12e05ff62b44e263132f"
+    }
+  ]
+}
