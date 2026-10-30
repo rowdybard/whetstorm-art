@@ -23,6 +23,17 @@ then test grip and clipping in both hands and all relevant poses. Remapping
 alone does not remove restricted files from a distribution. These observations
 do not change the 56-file historical inventory or establish release clearance.
 
+Read-only geometry comparison against KayKit Adventures upstream commit
+`672074b73ba276876a19e8816ecdc5241817ab47` found the candidate's 340 vertices
+and 822 indices match the source glTF data within floating-point precision.
+The full-reference candidate GLB SHA-256 is
+`35658e3e8b4b2b3350bb8c2f1d7beac29653c99f47fc9090707ee700da6ce09a`.
+Both the candidate and restricted axe use the same `VAR_AXE` family attachment,
+but the embedded KTX2 image has not been compared with the source PNG. Verify
+that texture and review drawn and stowed positions, both hands, combat animation,
+heroic inheritance, preload, clipping, and enhancement effects before selecting
+the substitute. This evidence does not prove texture provenance or visual fit.
+
 For the four inscription tomes, `spellbook_open.glb` is a free candidate from
 the KayKit Adventure character pack, whose source and atlas are documented by
 the [upstream pack](https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0)

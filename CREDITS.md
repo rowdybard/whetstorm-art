@@ -1157,6 +1157,11 @@ in `glimmermere-frostveil-provenance.json`, `willowfen-palmreach-provenance.json
 `palmreach-forge-wildheart-provenance.json`, `mirefen-encounter-adds-provenance.json`,
 `hoard-cocoon-bonewalker-provenance.json`, and `necromancy-gravewing-provenance.json`.
 
+The original practice-target, Pyre Colossus, and world-quest caravan portraits
+were created for Whetstorm using OpenAI's built-in image generation. Prompts and
+hashes are in `practice-dummies-provenance.json`, `pyre-colossus-provenance.json`,
+and `world-quest-caravans-provenance.json` under `public/ui/whetstorm/mobs/`.
+
 Original Veiled Hollow, Vale, Drowned Litany, cave, and epic hoard portraits
 were created for Whetstorm using OpenAI's built-in image generation. Prompts
 and hashes are recorded in `docs/whetstorm/cave-ember-portraits-generation.json`

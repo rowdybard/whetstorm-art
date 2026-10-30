@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "processing": "sharp Lanczos3 resize to 128 x 128, WebP quality 84, effort 6",
+      "id": "pyre_colossus",
+      "bytes": 6678,
+      "source_output": "exec-6b4a6685-ff34-44a6-8bbc-8a726a400896.png",
+      "path": "public/ui/whetstorm/mobs/pyre_colossus.webp",
+      "sha256": "a3f4943f9f8d666fb3bf9ce0830dffe5fab20e6291185ffdc91aef4eb3c60819",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy MMO target portrait, readable in a small circular crop. A hulking summoned fire colossus, a massive red-orange stone juggernaut with glowing ember seams and a formidable rocky face; head and broad shoulders centered close-up, dark smoky backdrop, warm forge light. Painterly detailed fantasy game illustration with clear silhouette. Non-graphic. No text, letters, frame, logo, or watermark. Create an original design; do not imitate any existing game.",
+      "master": {
+        "bytes": 2778979,
+        "path": "docs/design/whetstorm-art/mobs/pyre_colossus.png",
+        "sha256": "1325ebee46bca21b5a28487fd8a027e6b8ed7dacd5400fc339061eade1389fb6"
+      }
+    }
+  ]
+}

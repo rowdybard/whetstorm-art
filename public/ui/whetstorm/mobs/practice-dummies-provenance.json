@@ -1,0 +1,47 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "friendly_player_dummy",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMO target portrait of a simple training dummy, centered close-up: round pale green cloth sack head with one dark button eye, green cloth torso and brown wooden crossbar behind head. Ally-green tinted body. Painterly handcrafted game art, subdued dark background, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/friendly_player_dummy.webp",
+      "sha256": "9d8e02220187eb221b1e15dc15ad7df1ad92d0175edee4e731a63aa66149b529",
+      "bytes": 2768,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/friendly_player_dummy.png",
+        "sha256": "061f46e5fbb9c138610c3df1e2334a3d140716af15976ed402b4f99960e03b09",
+        "bytes": 2464540
+      }
+    },
+    {
+      "id": "normal_boss_dummy",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMO target portrait of a simple training dummy, centered close-up: round violet cloth sack head with one dark button eye, violet cloth torso and brown wooden crossbar behind head. Raid-violet tinted body. Painterly handcrafted game art, subdued dark background, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/normal_boss_dummy.webp",
+      "sha256": "3d555e1a4330dce5498976462db55b24871a7c31dd30095f01d83fb59c49e3f1",
+      "bytes": 2464,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/normal_boss_dummy.png",
+        "sha256": "1df0c20fa4b068fba2d585d41f45112d0b241fdeedfbcd05d2959e9ed60fd7b1",
+        "bytes": 2207846
+      }
+    },
+    {
+      "id": "heroic_boss_dummy",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMO target portrait of a simple training dummy, centered close-up: round crimson cloth sack head with one dark button eye, crimson cloth torso and brown wooden crossbar behind head. Heroic-crimson tinted body. Painterly handcrafted game art, subdued dark background, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/heroic_boss_dummy.webp",
+      "sha256": "a4a0cd56cf01c490d17a7d8a8000681a7eb2f768fc28153ddc6e3c53b196f0dd",
+      "bytes": 2594,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/heroic_boss_dummy.png",
+        "sha256": "f77499973f6ef728d8740cce8c8fa8369b53682f8c7cda7ee322e19f69f36ed8",
+        "bytes": 2465513
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "eastbrook_freight_caravan",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMO target portrait, square. A humble wooden freight wagon with iron-rimmed wheels and a chest of wooden toys, an adult male driver in brown working clothes seated on the wagon, Eastbrook rural village setting. Wagon fills the frame in three-quarter view, clean readable silhouette. Painterly detailed fantasy game illustration, readable at 128 pixels, soft directional light. No text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/eastbrook_freight_caravan.webp",
+      "sha256": "4695755ee90572db6a27831318aff616cb8d65794445920347f6511072bd7626",
+      "bytes": 6772,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/eastbrook_freight_caravan.png",
+        "sha256": "d5ee8062c8f95ce90c7375da8d582b70276dc2ded482d1a8f25d7969dec0b9f3",
+        "bytes": 3016611
+      }
+    },
+    {
+      "id": "willowfen_remedy_caravan",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMO target portrait, square. A humble wooden remedy wagon with iron-rimmed wheels, visible medicine bottles and bundled herbs, an adult female driver in sage green robes seated on the wagon, misty willow marsh setting. Wagon fills the frame in three-quarter view, clean readable silhouette. Painterly detailed fantasy game illustration, readable at 128 pixels, soft directional light. No text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/willowfen_remedy_caravan.webp",
+      "sha256": "ccf853d06236a0126089c2713ad0db6fc41f901c8f2ec9819dd6628e754218ff",
+      "bytes": 6522,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/willowfen_remedy_caravan.png",
+        "sha256": "5c8259cdf37a497ecd912b0360b4e73ce10aeb2ec4c2c9d9e21a4b726dd8d4c8",
+        "bytes": 2887088
+      }
+    },
+    {
+      "id": "frostveil_supply_caravan",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMO target portrait, square. A humble wooden supply wagon with iron-rimmed wheels, bundled blankets and a glowing oil lantern, an adult male driver in blue-gray winter clothing seated on the wagon, snowy mountain setting. Wagon fills the frame in three-quarter view, clean readable silhouette. Painterly detailed fantasy game illustration, readable at 128 pixels, soft directional light. No text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/frostveil_supply_caravan.webp",
+      "sha256": "0d3bda23c4537f69c5e1acb04d8637fb763e7a64b6e40da241a9e3d8fff5abd3",
+      "bytes": 7028,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/frostveil_supply_caravan.png",
+        "sha256": "5fe2490de38685ba0ca51dd6182b1a7a742b8ff2c22f53f4f8bd94ec1b4c2fd2",
+        "bytes": 2898107
+      }
+    }
+  ]
+}
