@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "col_set_wyrmshadow",
+      "master": "docs/design/whetstorm-art/deeds/col_set_wyrmshadow.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for collecting Nightfang Vestments: a dark violet leather armor ensemble with a sleek hood and a subtle fang motif displayed on an armory stand, dim warm background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "eecee7ca80256daea0f27f892dc3b849a0559e96f9023837a6273473644f21bf",
+      "shipping": "public/ui/whetstorm/deeds/col_set_wyrmshadow.webp",
+      "shippingSha256": "58142e6351933c93a949dbb884e54fc251119557c5c958a56f9f27961740df1d",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_set_necromancers",
+      "master": "docs/design/whetstorm-art/deeds/col_set_necromancers.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for collecting Mournweave Raiment: a deep charcoal robe and hood with silver thread and pale spirit flame motif displayed on an armory stand, dim warm background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "38559b33004c192f067a6fdcd4ab436f408ef3093b46e36645c234b9614e4979",
+      "shipping": "public/ui/whetstorm/deeds/col_set_necromancers.webp",
+      "shippingSha256": "3c6687d5f28606d2d1338cf8613115dfa7d572c16e24840fdbc74ded8ced1bdd",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_set_crownforged",
+      "master": "docs/design/whetstorm-art/deeds/col_set_crownforged.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for collecting Bonewrought Regalia: a stately bone-white plate armor ensemble with dark steel and an understated crown motif displayed on an armory stand, dim warm background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "a1affbd8da062483b337e148dd7e0ed945848c84ff3144d2d937b9ab2a365f2b",
+      "shipping": "public/ui/whetstorm/deeds/col_set_crownforged.webp",
+      "shippingSha256": "e0a399edfd5c97805ffc1d86befd88e3e744cdf3de930f2e07f1bf5d7006ee17",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_set_nighttalon",
+      "master": "docs/design/whetstorm-art/deeds/col_set_nighttalon.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for collecting Direfang Pelt: a rugged fur and leather armor ensemble with wolf-fang accents displayed on an armory stand, dim warm background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "9c16ebf46d6f824c6934fbd352994a12f6f7743400f6944f2466db710d623cee",
+      "shipping": "public/ui/whetstorm/deeds/col_set_nighttalon.webp",
+      "shippingSha256": "b121f446a3da7cba51299bba1f4b789f57e08cd139cb806f99afff7ba41867a7",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}

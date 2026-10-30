@@ -1,5 +1,6 @@
 import { activityDeedImageUrl } from './activity_deed_art';
 import { amberfallEvergardenDeedImageUrl } from './amberfall_evergarden_deed_art';
+import { armorFamiliesDeedImageUrl } from './armor_families_deed_art';
 import { ascendantDeedImageUrl } from './ascendant_deed_art';
 import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
 import { civicBankDeedImageUrl } from './civic_bank_deed_art';
@@ -74,6 +75,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     marshChronicleDeedImageUrl(id) ??
     teamArenaRegaliaDeedImageUrl(id) ??
     thornpeakChronicleDeedImageUrl(id) ??
+    armorFamiliesDeedImageUrl(id) ??
     collectionSetsDeedImageUrl(id) ??
     collectionTreasuresDeedImageUrl(id) ??
     earlyCollectionDeedImageUrl(id) ??
