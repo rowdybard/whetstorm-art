@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "dlv_nhalia_bells",
+      "master": "docs/design/whetstorm-art/deeds/dlv_nhalia_bells.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for avoiding tolling bells in a drowned chapel battle: a suspended bronze bell encircled by a broken glowing blue sound wave, with a small shield beneath, misty flooded chapel background. Strong simple shapes readable at 32 pixels. Background fills every corner. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "5ecb87f20527fe2a686927aae85049d7093d1c563ab0030a2c71e0ec40892186",
+      "shipping": "public/ui/whetstorm/deeds/dlv_nhalia_bells.webp",
+      "shippingSha256": "762b8f0ea1cc2f195f72d9c5b9be743d59458035a0d8c0d6ae159fb472c001ed",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "soc_full_house",
+      "master": "docs/design/whetstorm-art/deeds/soc_full_house.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for clearing a dungeon with five players: five distinct adventurer silhouettes standing together at the mouth of a dungeon, warm golden light behind them, fantasy stone surroundings. Strong simple shapes readable at 32 pixels. Background fills every corner. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "c12b920cbf85f3b883bea691a9cabfea084164770a35cdcdbe2607bc3b711a54",
+      "shipping": "public/ui/whetstorm/deeds/soc_full_house.webp",
+      "shippingSha256": "5bcb4246e32b253291f1b7fb7fd5c9913f26314567b329de79459b83c48a1e46",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "feat_book_complete",
+      "master": "docs/design/whetstorm-art/deeds/feat_book_complete.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for completing a book of deeds: a richly bound open book filled with small symbolic illustrations, a golden laurel wreath and bright golden light, on a dark wooden desk. Strong simple shapes readable at 32 pixels. Background fills every corner. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "898509c5df36fbb6bfc67321f32664d93698437d91dae6dcb5ceba8174039ed7",
+      "shipping": "public/ui/whetstorm/deeds/feat_book_complete.webp",
+      "shippingSha256": "d30dea26dd0429e44b4792e71b6e61698f36b50e0a52c5448aa81700148c97d1",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "dgn_nythraxis_crypt",
+      "master": "docs/design/whetstorm-art/deeds/dgn_nythraxis_crypt.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for discovering two halves of a keystone and a diary in an ancient crypt: two matching stone fragments beside a weathered closed journal, lit by a blue lantern, ancient stone crypt background. Strong simple shapes readable at 32 pixels. Background fills every corner. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "599bdea5492eec65de8a00f629be13f56a9c7cbb2355dd456fc620d253afb173",
+      "shipping": "public/ui/whetstorm/deeds/dgn_nythraxis_crypt.webp",
+      "shippingSha256": "e8d962e476624992d50b755f3c6292f0a5f68a884dc8b85d04729ea06324689e",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}
