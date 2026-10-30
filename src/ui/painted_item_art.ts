@@ -39,6 +39,7 @@ import { clothBatchThreeItemImageUrl } from './cloth_batch_three_item_art';
 import { clothBatchTwoItemImageUrl } from './cloth_batch_two_item_art';
 import { clothBroodItemImageUrl } from './cloth_brood_item_art';
 import { clothDelveAmberfallItemImageUrl } from './cloth_delve_amberfall_item_art';
+import { coldsightArmorItemImageUrl } from './coldsight_armor_item_art';
 import { consumableBatchItemImageUrl } from './consumable_batch_item_art';
 import { courtierWardItemImageUrl } from './courtier_ward_item_art';
 import { craftReagentOriginalBatchItemImageUrl } from './craft_reagent_original_batch_item_art';
@@ -237,6 +238,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    coldsightArmorItemImageUrl(id) ??
     fenKeepLootItemImageUrl(id) ??
     feralRimeItemImageUrl(id) ??
     zone3TrophiesItemImageUrl(id) ??
