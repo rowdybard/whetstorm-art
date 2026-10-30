@@ -1,6 +1,7 @@
 import { activityDeedImageUrl } from './activity_deed_art';
 import { ascendantDeedImageUrl } from './ascendant_deed_art';
 import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
+import { civicBankDeedImageUrl } from './civic_bank_deed_art';
 import { combatMasteryDeedImageUrl } from './combat_mastery_deed_art';
 import { combatVictoryDeedImageUrl } from './combat_victory_deed_art';
 import { craftMasteryDeedImageUrl } from './craft_mastery_deed_art';
@@ -57,6 +58,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     EARLY_DEED_ART.get(id) ??
     earlyCollectionDeedImageUrl(id) ??
     earlySocialDeedImageUrl(id) ??
+    civicBankDeedImageUrl(id) ??
     socialMilestoneDeedImageUrl(id) ??
     valeChronicleDeedImageUrl(id) ??
     milestoneDeedImageUrl(id) ??

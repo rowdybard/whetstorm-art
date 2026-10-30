@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "soc_heavy_purse",
+      "master": "docs/design/whetstorm-art/deeds/soc_heavy_purse.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for looting ten gold over time: a bulging dark leather coin purse tied shut resting on a small stack of gold coins, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "4baf736851e16f8d9700a036a4eb520f3f3896fe57292563d5a2a1ab22cc539f",
+      "shipping": "public/ui/whetstorm/deeds/soc_heavy_purse.webp",
+      "shippingSha256": "ef30ea33398f6a935a032eaae56d5b3ca72d6857074518835d6f1b3c5619ab4a",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "soc_civic_duty",
+      "master": "docs/design/whetstorm-art/deeds/soc_civic_duty.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for allocating a first town focus point: a small stone town hall beneath a single glowing golden star, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "9a4c4ced9e2d32ec71b4700c999745225c9b7fcdf66ed681c592142aa58bca38",
+      "shipping": "public/ui/whetstorm/deeds/soc_civic_duty.webp",
+      "shippingSha256": "c7769f8fcbc6dbcecad958e3cd530dedc28d512cfff21fbbc084f84a6f63268a",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "soc_strongbox_outfitter",
+      "master": "docs/design/whetstorm-art/deeds/soc_strongbox_outfitter.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for unlocking the first bank bag socket: one leather satchel suspended beside a sturdy open brass strongbox, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "a80f9656c6ff3c41a61f5b7e8b9f3eb8d18765f8ddf8ccf4c8f657bfb4d68a14",
+      "shipping": "public/ui/whetstorm/deeds/soc_strongbox_outfitter.webp",
+      "shippingSha256": "72ca4fe06efd7e2174ac21f0b1fdab0492555b10436ec2069f334b7b159aff50",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "soc_four_bags_deep",
+      "master": "docs/design/whetstorm-art/deeds/soc_four_bags_deep.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for unlocking all four bank bag sockets: four distinct leather satchels arranged in a clear four-point cross around a central small brass strongbox, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "47e5f0d059dd6bd26d66a2dd8ae46cdac9e832164ab36a23c9f178ad46e33efb",
+      "shipping": "public/ui/whetstorm/deeds/soc_four_bags_deep.webp",
+      "shippingSha256": "66242ba3603d2bb5be304f84abc22adc0e99f94c16c72399d96dbb7e1ec0a1b9",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}
