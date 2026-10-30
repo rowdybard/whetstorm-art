@@ -8,6 +8,10 @@ const ACTIVITY_DEED_ART = new Map<string, string>([
   ['exp_last_barricade', '/ui/whetstorm/deeds/exp_last_barricade.webp'],
   ['exp_borrowed_face', '/ui/whetstorm/deeds/exp_borrowed_face.webp'],
   ['cmb_coinsack_caught', '/ui/whetstorm/deeds/cmb_coinsack_caught.webp'],
+  ['chr_marsh_rares_ii', '/ui/whetstorm/deeds/chr_marsh_rares_ii.webp'],
+  ['chr_gleamstag', '/ui/whetstorm/deeds/chr_gleamstag.webp'],
+  ['chr_drakemaw_broodlord', '/ui/whetstorm/deeds/chr_drakemaw_broodlord.webp'],
+  ['chr_maw_matriarch', '/ui/whetstorm/deeds/chr_maw_matriarch.webp'],
 ]);
 
 export function activityDeedImageUrl(id: string): string | null {

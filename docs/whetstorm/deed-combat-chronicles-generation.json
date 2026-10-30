@@ -1,0 +1,56 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputs": "No reference images",
+  "processing": "Sharp 128x128 opaque WebP quality 88 effort 6",
+  "entries": [
+    {
+      "id": "chr_marsh_rares_ii",
+      "path": "public/ui/whetstorm/deeds/chr_marsh_rares_ii.webp",
+      "bytes": 6778,
+      "sha256": "1a22c2b94dc961872ab43e89bcbac0cbfe45d8b9ef6ce8534a4c2086dbfd337b",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/combat-chronicles/chr_marsh_rares_ii.png",
+        "bytes": 2481743,
+        "sha256": "5ee72cbbb2a1070c808a7542bfa7cf3ae49d43cc286e7d4e621e4ce6f6d2266a"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy game achievement painting. A powerful tusked troll silhouette looming among marsh reeds, above still dark water, warm gold light in mist. Square composition, hand-painted dark fantasy illustration, bold and clear at small sizes, no lettering, numerals, frame, logo or watermark."
+    },
+    {
+      "id": "chr_gleamstag",
+      "path": "public/ui/whetstorm/deeds/chr_gleamstag.webp",
+      "bytes": 7778,
+      "sha256": "648aa3ad65cac4277c9d2ccd58089d8278e07e0804e759f361d46e1d64461421",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/combat-chronicles/chr_gleamstag.png",
+        "bytes": 2893821,
+        "sha256": "9decd7f4d3a2ac63628b8b982e07d518ba57a6310256db86cd5e201edee55e61"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy game achievement painting. A luminous stag silhouette with branching antlers standing in a forest glade, pale gold light against deep green. Square composition, hand-painted dark fantasy illustration, bold and clear at small sizes, no lettering, numerals, frame, logo or watermark."
+    },
+    {
+      "id": "chr_drakemaw_broodlord",
+      "path": "public/ui/whetstorm/deeds/chr_drakemaw_broodlord.webp",
+      "bytes": 6926,
+      "sha256": "f4934eec94008f2647e39985af675921da2e94c2f366c7157079b252cf1cd8a0",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/combat-chronicles/chr_drakemaw_broodlord.png",
+        "bytes": 2492186,
+        "sha256": "0016a69869b85691eb539f8cacd7a7846afe1a03ef4a1066fae5541272ab4ad4"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy achievement icon for defeating a dragonkin broodlord among its eggs. Close-up of one large dark slate-blue reptilian claw protectively curved around three pale ivory dragon eggs, on cool stone. The claw and eggs fill the composition with a clear bold silhouette; teal-blue shadow and pale gold highlights, dark background. Hand-painted fantasy illustration, legible at 28 pixels. No full figure, lava, fire, text, numbers, border, logo or watermark."
+    },
+    {
+      "id": "chr_maw_matriarch",
+      "path": "public/ui/whetstorm/deeds/chr_maw_matriarch.webp",
+      "bytes": 6086,
+      "sha256": "aa3e83669e96ed8f8dd07088a3625043d4d4c98bd7bb76626ec2f786e9f4a7e9",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/combat-chronicles/chr_maw_matriarch.png",
+        "bytes": 2373355,
+        "sha256": "5e27305361cd0fff4d8390a75e78494e5ed375a00c9b0989d4286fc1969ba122"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy game achievement painting. An imposing upright dragonkin matriarch with reptilian head and horned silhouette stands on the rim of a volcanic crater beneath a dusky sky, her wings folded behind her. Square composition, hand-painted dark fantasy illustration, bold and clear at small sizes, no lettering, numerals, frame, logo or watermark."
+    }
+  ]
+}

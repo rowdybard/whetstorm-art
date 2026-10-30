@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected full source images; small-size and in-game review pending.",
+  "records": [
+    {
+      "id": "bastion_sigil",
+      "prompt": "Square painted fantasy MMO inventory icon: Bastion Sigil, one compact steel shield-shaped medallion with an embossed protective shield and subtle reflected amber light. Center the complete single object with generous margin; tactile metal, warm top-left light, dark charcoal painted backdrop. Bold readable silhouette at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/bastion_sigil.png",
+      "masterSha256": "9fe9051a4c66df05eab140f0a72428c4c9dbe7f60c22ae1c4c4315492246a7b9",
+      "shipping": "public/ui/whetstorm/items/bastion_sigil.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "77c61174ce62e2188b634f264f5449c2843e4c1b28b0c734cf24348f8be074c0"
+    },
+    {
+      "id": "mooring_stone",
+      "prompt": "Square painted fantasy MMO inventory icon: Mooring Stone, one rugged dark stone pendant bound in an iron anchor-shaped clasp, conveying steadfast protection. Center complete single object with generous margin; tactile stone and iron, warm top-left light, dark charcoal painted backdrop. Bold readable silhouette at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/mooring_stone.png",
+      "masterSha256": "8c7f31f6263331ee3e14e71d073b9c8c442b777c33410a9598269c165da8a05e",
+      "shipping": "public/ui/whetstorm/items/mooring_stone.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "1620871e9730a032ad74d1f689c08f9b1af05cb333bbb7bd7f0ff2d10a09fdbd"
+    },
+    {
+      "id": "menders_hourglass",
+      "prompt": "Square painted fantasy MMO inventory icon: Mender's Hourglass, one compact glass hourglass in a worn bronze frame with pale blue luminous sand, suggesting healing held in time. Center complete single object with generous margin; tactile glass and metal, warm top-left light, dark charcoal painted backdrop. Bold readable silhouette at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/menders_hourglass.png",
+      "masterSha256": "89da05a065eb5fac09f61d2665ccef3be81c79a509ad64d368ca192849a5c3a1",
+      "shipping": "public/ui/whetstorm/items/menders_hourglass.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "9c069420208150b791c39e3b5b47dedf07c4a4dac95b78485a139448331a6d42"
+    },
+    {
+      "id": "wellspring_seed",
+      "prompt": "Square painted fantasy MMO inventory icon: Wellspring Seed, one large golden seed in a small silver setting, a delicate fresh green sprout emerging and a restrained aqua healing glow. Center complete single object with generous margin; tactile organic and metal detail, warm top-left light, dark charcoal painted backdrop. Bold readable silhouette at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/wellspring_seed.png",
+      "masterSha256": "9250259d0aa59c9db8ab467ba09814a7264aaf38c9d7b406d43dc4e09c2cec63",
+      "shipping": "public/ui/whetstorm/items/wellspring_seed.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "50653edb19875d5064a4620abc0b7b1954c58d39d84977602da58313ce4ee60e"
+    }
+  ]
+}

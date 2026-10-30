@@ -1072,6 +1072,14 @@ Four Grandmaster crafting deed paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/deeds/grandmaster-craft/provenance.json`.
 
+Four combat chronicle deed paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/deed-combat-chronicles-generation.json`.
+
+Four heroic trinket paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/heroic-trinket-generation.json`.
+
 Original Shaman, Rogue, and Paladin ability paintings, Willowfen and Galecrest
 deed paintings, encounter aura paintings, and Ley and Confection puzzle art
 were created for Whetstorm using OpenAI's built-in image generation. Prompts
