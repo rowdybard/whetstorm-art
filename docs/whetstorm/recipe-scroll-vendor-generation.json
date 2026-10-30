@@ -1,0 +1,108 @@
+{
+  "assets": [
+    {
+      "itemId": "formula_enchant_feet_shadowstride",
+      "file": "docs/design/whetstorm-art/items/formula_enchant_feet_shadowstride.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square hand-painted fantasy inventory icon: weathered parchment scroll partly unrolled, bearing a simple painted illustration of a dark leather boot with violet shadow wisp. Complete centered scroll, safe margins, warm light, dark umber background. No writing, text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "eed1953dfeed924debedc69c7124f6efe58f59271c1f61f72d82f0e4a9bb7ff7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/formula_enchant_feet_shadowstride.webp",
+        "sha256": "88c122f9e9559b6342969df4070804ddc4aafafc3b184558419c391c5e0a6de5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4492
+      }
+    },
+    {
+      "itemId": "formula_enchant_offhand_spirit",
+      "file": "docs/design/whetstorm-art/items/formula_enchant_offhand_spirit.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square hand-painted fantasy inventory icon: weathered parchment scroll partly unrolled, bearing a simple painted illustration of a glowing pale blue ritual orb and spirit flame. Complete centered scroll, safe margins, warm light, dark umber background. No writing, text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "029cb1d92eb28a9250c42f5e162039e3f85bafa47782193d2f329394a85d6c39",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/formula_enchant_offhand_spirit.webp",
+        "sha256": "071b9c43f6dec6288c45f72da8741139ddb761e51b05a45ecd3d596deae53652",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3952
+      }
+    },
+    {
+      "itemId": "schematic_clockwork_shock_bomb",
+      "file": "docs/design/whetstorm-art/items/schematic_clockwork_shock_bomb.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square hand-painted fantasy inventory icon: weathered parchment scroll partly unrolled, bearing a simple painted illustration of a brass clockwork device with gears and blue sparks. Complete centered scroll, safe margins, warm light, dark umber background. No writing, text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "392fd9cccfff361fe6840f1e910b65d042dfa4c5d3185e49e32a59fbf3072008",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/schematic_clockwork_shock_bomb.webp",
+        "sha256": "b126adf94c630869d1137b81f2697b875000a8a51fa90678ef03bca0b180d053",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4782
+      }
+    },
+    {
+      "itemId": "plans_dense_sharpening_stone",
+      "file": "docs/design/whetstorm-art/items/plans_dense_sharpening_stone.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square hand-painted fantasy inventory icon: weathered parchment scroll partly unrolled, bearing a simple painted illustration of a dark grey rectangular sharpening stone. Complete centered scroll, safe margins, warm light, dark umber background. No writing, text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "030841330770597e5329f2a944a0f7e2f779721bde424cebbe4aa02c2fc8b1cb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/plans_dense_sharpening_stone.webp",
+        "sha256": "98aa9a85e395590cb8b359f3999e0149bef62e608dc5fd2bbb19c04c24c1a622",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4476
+      }
+    }
+  ]
+}

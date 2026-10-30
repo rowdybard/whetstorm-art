@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "cinderfang_legs",
+      "file": "docs/design/whetstorm-art/items/cinderfang_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete pair of Cinderfang Breeches: blackened dark brown leather pants from waist to ankle with two separate legs, curved overlapping leather panels, warm copper stitching and small fang-shaped orange leather appliques, no metal, no feet, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "aa89410499e1c963b9dd5d7f217fc7520ad5785cd35103bfdbc303d9acb2f24e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cinderfang_legs.webp",
+        "sha256": "09c65b1a0b7e7894297f6fdc35445f77241dd75b42005a9d69fdd553c8715d89",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "smolderstrike_helmet",
+      "file": "docs/design/whetstorm-art/items/smolderstrike_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete Smolderstrike Cowl: an empty hood of deep russet leather with ember-orange stitched lines and small charcoal leather panels, no metal, centered with space. No face, person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "fbdf5a57c824556f0c18e40149e5b73ce683d463a6c100e004312f3135c51722",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/smolderstrike_helmet.webp",
+        "sha256": "bd7a1eed079a0e6631e740a80e2fb00a6e1c4adb2e3b6148af9c6a90a2315476",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "smolderstrike_shoulder",
+      "file": "docs/design/whetstorm-art/items/smolderstrike_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete pair of Smolderstrike Spaulders: deep russet leather shoulder guards with curved charcoal leather panels and ember-orange stitched lines, no metal, both shoulders centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "4f68222ef76cbfb05c08cc07f489320fc5562b6b3ac3c3d96a865c94897b5051",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/smolderstrike_shoulder.webp",
+        "sha256": "ac399e01743cb2c069251fdf7e6449d31e157ff496b123081fb490faa1a3357e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "smolderstrike_chest",
+      "file": "docs/design/whetstorm-art/items/smolderstrike_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete Smolderstrike Tunic: deep russet leather chest vest with curved charcoal leather panels and ember-orange stitched lines, no metal, empty neck and arm openings, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "0afdfa1f3f8a97cb85b0d00c98a75061d526492d4c63ad2a65ea9a950880bac0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/smolderstrike_chest.webp",
+        "sha256": "be0d02b780250684a353a7f69559d986f1606be3e02cc57a7c33ae2fec594dbc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}
