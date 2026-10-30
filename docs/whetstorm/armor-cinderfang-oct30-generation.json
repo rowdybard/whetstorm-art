@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "cinderfang_helmet",
+      "file": "docs/design/whetstorm-art/items/cinderfang_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete Cinderfang Cowl: an empty hood of blackened dark brown leather with warm copper stitching and a small curved fang-shaped orange leather applique, no metal, centered with space. No face, person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "84a35e3aa34e45e0566b97d4d9298c9cc05ddc4c5d750dff1204ef787de73654",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cinderfang_helmet.webp",
+        "sha256": "1691c53173a6ea85d86586ca7c2e08860a37df1d91b67df8e0ac5c6a799ebeb8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "cinderfang_shoulder",
+      "file": "docs/design/whetstorm-art/items/cinderfang_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete pair of Cinderfang Spaulders: blackened dark brown leather shoulder guards with curved overlapping leather panels, warm copper stitching and small fang-shaped orange leather appliques, no metal, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "a301cd17e2147efd48aff3ce1fed4db820baf14025485a0016aa7ac1c7495293",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cinderfang_shoulder.webp",
+        "sha256": "3df6e3bac0dcd3d8593a445d827d4d6c194d98ecfa55dbdcacc1da67a8384642",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "cinderfang_chest",
+      "file": "docs/design/whetstorm-art/items/cinderfang_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete Cinderfang Tunic: blackened dark brown stitched leather chest vest with curved overlapping panels, warm copper seam stitching and small fang-shaped orange leather applique, no metal, empty neck and arm openings, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "ed7222838c6c59eeb7cb00ebb4364b5ff7094d124e14832153cc29aba49083ec",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cinderfang_chest.webp",
+        "sha256": "2412350d5b2b1c9dbfe92acd3682546906dd5c0aeb1983013d69142d3209938d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "cinderfang_gloves",
+      "file": "docs/design/whetstorm-art/items/cinderfang_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete pair of Cinderfang Grips: blackened dark brown leather gloves with curved overlapping leather panels, warm copper stitching and small fang-shaped orange leather appliques, no metal, both gloves centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "f5cc1d0bd97306878be38cee4224e94764584b20aa1b2ff84a67ca649f6f7866",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cinderfang_gloves.webp",
+        "sha256": "b5a65c31be77fd85a0e1824304fcb870d8089a363de72676334b43fda2f7a3e3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

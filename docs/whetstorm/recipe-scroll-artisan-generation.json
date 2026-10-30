@@ -1,0 +1,108 @@
+{
+  "assets": [
+    {
+      "itemId": "pattern_sunspun_handwraps",
+      "file": "docs/design/whetstorm-art/items/pattern_sunspun_handwraps.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one partly unfurled aged parchment sewing pattern, tied with gold cord, bearing a clearly recognizable pair of cream cloth handwraps with gold sunburst embroidery. Complete centered silhouette, ample margins; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment, premium hand-painted dark fantasy. No letters, writing, borders, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "feeae4f50aef4b5296b277a54d6c69b7948f2429c3ca9fa75e485a587fa5696b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_sunspun_handwraps.webp",
+        "sha256": "ac46084c906e693f1924262855316f7eaa7f34f457cbe2da08da19996419d12e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4116
+      }
+    },
+    {
+      "itemId": "pattern_sunspun_haversack",
+      "file": "docs/design/whetstorm-art/items/pattern_sunspun_haversack.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one partly unfurled aged parchment sewing pattern, tied with golden cord, bearing a clear painted image of a cream cloth shoulder haversack with gold sunburst embroidery and a flap closure. Complete centered silhouette, ample margins; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment, premium hand-painted dark fantasy. No letters, writing, borders, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "b3041b918bb1b1562981510de8160a0e53fbe7376198704dacef12d280026350",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_sunspun_haversack.webp",
+        "sha256": "4c2e3f6d5d9c147c76af494d230b8e04e74e97d635ce5211b781454f974a870e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4128
+      }
+    },
+    {
+      "itemId": "pattern_duskforged_warblade",
+      "file": "docs/design/whetstorm-art/items/pattern_duskforged_warblade.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one partly unfurled aged parchment forge plan tied with dark violet cord, bearing a clear painted image of a complete one-handed dark steel warblade, with a sturdy guard and subtly purple metal. Complete centered silhouette, ample margins; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment, premium hand-painted dark fantasy. No letters, writing, borders, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "dcfcd24c90fb131fc9dab0db24e87b237b05ff735b4b074fdbdb6fd9f1139e49",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_duskforged_warblade.webp",
+        "sha256": "98b49e16c8cb9263782d4e3435c228e51c3f699d33e7e401f7e38c8379418309",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3620
+      }
+    },
+    {
+      "itemId": "pattern_ridgebreaker",
+      "file": "docs/design/whetstorm-art/items/pattern_ridgebreaker.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one partly unfurled aged parchment forge plan tied with slate grey cord, bearing a clear painted image of a complete heavy two-handed steel war hammer, long grip and rugged stone-breaking head. Complete centered silhouette, ample margins; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment, premium hand-painted dark fantasy. No letters, writing, borders, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "06138290adda36243ea756c31e8355c84a6fba143afc5f365408b3394b6a3e0d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_ridgebreaker.webp",
+        "sha256": "72cf85f321ced2880e715497a9607af8f0669ebd5857969c50a86838fc2827ae",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3962
+      }
+    }
+  ]
+}
