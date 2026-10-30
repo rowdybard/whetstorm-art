@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "soc_guild_joined",
+      "master": "docs/design/whetstorm-art/deeds/soc_guild_joined.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for joining a guild: a single rich green cloth banner bearing a simple golden diamond emblem, supported by a wooden pole, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "8ce5a2d3d3841e8dbb953e9df36f2cfea4e9389e25a062b6a9d159e5ec7f973d",
+      "shipping": "public/ui/whetstorm/deeds/soc_guild_joined.webp",
+      "shippingSha256": "70ca84908a1134d767f1f39027cc184bb088368ad19489bbd800ad4088b22df5",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "soc_first_sale",
+      "master": "docs/design/whetstorm-art/deeds/soc_first_sale.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for collecting payment from a first market sale: a small wooden market stall awning above a single gleaming gold coin, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "275d47705eba8784f1b8d9fa7aa5c8319db294250534c4d74ba4df861a062dc1",
+      "shipping": "public/ui/whetstorm/deeds/soc_first_sale.webp",
+      "shippingSha256": "1f7e258a7f1e5cb6536d7a1b6f5e194235500424053dc14c9ea536e289e0922c",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "soc_room_for_more",
+      "master": "docs/design/whetstorm-art/deeds/soc_room_for_more.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for buying a first bank storage expansion: a sturdy open wooden strongbox with an empty compartment and a small brass key, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "a0b000570d7d61aab0204af7f0e4b49aa62ee1469643283dc83b48e90b83f8ea",
+      "shipping": "public/ui/whetstorm/deeds/soc_room_for_more.webp",
+      "shippingSha256": "619959abc112849ce3e5a787de45b0eead2b5fee35764ee944159be3ecada2b6",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "soc_pocket_money",
+      "master": "docs/design/whetstorm-art/deeds/soc_pocket_money.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for looting a first gold coin milestone: a small leather coin purse with a few bright gold coins spilling out, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "770e936cfaa29c87bbaeabaef06776f0f33cfad09db6617de1d372d4f61e3a35",
+      "shipping": "public/ui/whetstorm/deeds/soc_pocket_money.webp",
+      "shippingSha256": "94bb6ef43b204361ec42b1b4b1a86d261a8e32ee14af8ba1e529b8c0c7ff5004",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}

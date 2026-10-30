@@ -30,6 +30,7 @@ import { placeDeedImageUrl } from './place_deed_art';
 import { prestigeDeedImageUrl } from './prestige_deed_art';
 import { raidChallengeDeedImageUrl } from './raid_challenge_deed_art';
 import { sanctumChallengeDeedImageUrl } from './sanctum_challenge_deed_art';
+import { socialMilestoneDeedImageUrl } from './social_milestone_deed_art';
 import { tradeFirstDeedImageUrl } from './trade_first_deed_art';
 import { tradeMasteryDeedImageUrl } from './trade_mastery_deed_art';
 import { tradeSkillDeedImageUrl } from './trade_skill_deed_art';
@@ -56,6 +57,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     EARLY_DEED_ART.get(id) ??
     earlyCollectionDeedImageUrl(id) ??
     earlySocialDeedImageUrl(id) ??
+    socialMilestoneDeedImageUrl(id) ??
     valeChronicleDeedImageUrl(id) ??
     milestoneDeedImageUrl(id) ??
     mountainBossDeedImageUrl(id) ??
