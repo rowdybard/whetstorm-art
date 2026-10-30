@@ -5728,6 +5728,11 @@ function originalArt(kind: IconKind, id: string, size = DEFAULT_ICON_SIZE): stri
   if (kind === 'item') {
     const itemArt = paintedItemImageUrl(id);
     if (itemArt) return itemArt;
+    const base = Object.hasOwn(ITEMS, id) ? ITEMS[id].heroicOf : undefined;
+    if (base && Object.hasOwn(ITEMS, base)) {
+      const baseArt = paintedItemImageUrl(base);
+      if (baseArt) return baseArt;
+    }
   }
   if (kind === 'ability' || kind === 'aura') {
     const launch = launchAbilityImageUrl(id);
