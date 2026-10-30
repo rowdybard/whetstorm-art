@@ -18,6 +18,7 @@ import { weeklyQuestRewardCopper } from '../sim/weekly_quests';
 import { npcDisplayName, npcDisplayTitle } from './entity_display_core';
 import { itemDisplayName } from './entity_i18n';
 import { formatDuration, formatMoney, formatNumber, t } from './i18n';
+import { iconDataUrl } from './icons';
 
 export type WeeklyQuestCardState = 'open' | 'active' | 'completed' | 'locked';
 
@@ -223,7 +224,7 @@ export function buildWeeklyQuestDialog(
       amount: whole(WEEKLY_QUEST_REWARD.commendationStanding),
     }),
     rewardItem: cache ? itemDisplayName(cache) : WEEKLY_QUEST_REWARD.cacheItemId,
-    rewardItemIcon: `ui/items/${WEEKLY_QUEST_REWARD.cacheItemId}.webp`,
+    rewardItemIcon: iconDataUrl('item', WEEKLY_QUEST_REWARD.cacheItemId),
     rewardItemDesc: t('hudChrome.weekly.cacheDesc', {
       count: marks,
       item: mark ? itemDisplayName(mark) : HEROIC_MARK_ITEM_ID,
