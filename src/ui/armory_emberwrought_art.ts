@@ -6,6 +6,9 @@ const ORIGINAL_SKINS = new Set([
   'emberbite_axe',
   'smoulderfall_mace',
   'ashspark_dagger',
+  'forgeheart_staff',
+  'emberwrought_wand',
+  'cinderlatch_crossbow',
 ]);
 
 export function emberwroughtArmorySkinArt(id: string): string | null {

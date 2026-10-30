@@ -102,7 +102,7 @@ were generated for this fork without image references. Their source prompts and
 hashes are recorded in `docs/whetstorm/armory-guildmark-original-generation.json`.
 These 2D replacements do not relicense the separate historical skin models.
 
-Four Emberwrought thumbnail paintings in the same directory were generated for
+Seven Emberwrought thumbnail paintings in the same directory were generated for
 this fork without image references. Their source prompts and hashes are recorded
 in `docs/whetstorm/armory-emberwrought-original-generation.json`. Their separate
 historical held models retain their restrictions.

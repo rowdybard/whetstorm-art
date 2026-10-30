@@ -96,6 +96,78 @@
         "format": "WebP RGB",
         "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
       }
+    },
+    {
+      "skinId": "forgeheart_staff",
+      "file": "docs/design/whetstorm-art/armory/forgeheart_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm forge light, whole weapon diagonally framed and legible at 32 pixels. Subject: one dark iron and charred wood staff crowned with a banked coal gem, glowing ember orange veins, restrained mountain fire. No border, words, letters, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "6d9766e20d4de23aca4fa17359795db504e9cd12cbe88ac36ae8ca45bdf49665",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-574009af-1293-497f-ad14-cd38d992f9af.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/forgeheart_staff.webp",
+        "sha256": "f00525df3ba6ffa5d7056f7e00960fe39956054984648d370b775bed7e9480c2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "emberwrought_wand",
+      "file": "docs/design/whetstorm-art/armory/emberwrought_wand.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm forge light, whole weapon diagonally framed and legible at 32 pixels. Subject: one short dark forged metal wand with an ember orange core and a small glowing coal at the tip, restrained mountain fire. No border, words, letters, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "449360570ac55b7933b7167c41190b7b655a71d60e018c438b1d249741375a14",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-f45dd5ce-39f6-4143-9efa-4d465bdeea69.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/emberwrought_wand.webp",
+        "sha256": "6ab9fdaffd7d40b5286546c231d88ddfcf3190f4d18a93fb7bf8b2daa2307fef",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "cinderlatch_crossbow",
+      "file": "docs/design/whetstorm-art/armory/cinderlatch_crossbow.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm forge light, whole weapon diagonally framed and legible at 32 pixels. Subject: one compact crossbow of blackened iron and dark wood, ember orange glowing cracks and a banked coal detail, restrained mountain fire. No border, words, letters, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "637c7b18c68ed2dce06ff61f5edc29af3a7cd06b43edbe8cbfc4586f6a747f62",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-43c24516-5c43-4e21-b2a6-fbb801d47ad5.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/cinderlatch_crossbow.webp",
+        "sha256": "796ccd8b9381fe816ed6ddbd3996325169ab85ae172df1eec0198e201e173579",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
     }
   ]
 }

@@ -12,7 +12,15 @@ import { cosmeticsPanelHtml } from '../src/ui/hud/cosmetics/cosmetics_cards_view
 import { reliquaryCellArt, reliquaryCellArtOpaque } from '../src/ui/reliquary_cell_art';
 import { armorySkinArt } from '../src/ui/woc_store_view';
 
-const ids = ['cinderbrand_sword', 'emberbite_axe', 'smoulderfall_mace', 'ashspark_dagger'];
+const ids = [
+  'cinderbrand_sword',
+  'emberbite_axe',
+  'smoulderfall_mace',
+  'ashspark_dagger',
+  'forgeheart_staff',
+  'emberwrought_wand',
+  'cinderlatch_crossbow',
+];
 const hash = (path: string) => createHash('sha256').update(readFileSync(path)).digest('hex');
 
 describe('original Emberwrought Armory thumbnails', () => {
@@ -44,7 +52,6 @@ describe('original Emberwrought Armory thumbnails', () => {
       expect(emberwroughtArmorySkinArt(id)).toBeNull();
       expect(reliquaryCellArt({ kind: 'weapon_skin', id })).toBeNull();
     }
-    expect(armorySkinArt('forgeheart_staff')).toBe('/ui/store/armory/forgeheart_staff.webp');
   });
   it('pins independent masters, deliveries and provenance', async () => {
     const { assets } = JSON.parse(
