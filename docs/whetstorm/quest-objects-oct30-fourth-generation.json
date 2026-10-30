@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "scorched_supply_crate",
+      "file": "docs/design/whetstorm-art/items/scorched_supply_crate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for scorched_supply_crate, a Scorched Supply Crate quest object. One complete closed sturdy wooden supply crate in three-quarter view, heavily charred dark corners and iron straps, faint ember-red cracks but no flames, centered on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold silhouette and broad forms, legible at 32 pixels. No text, letters, labels, border, logo, watermark, people, extra objects, photorealism, or copied game designs.",
+      "sha256": "3e4ff7b7eccb691bd4fb9479da45c5042c51c4eb5cf0fee1920c9fc50082e9ef",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/scorched_supply_crate.webp",
+        "sha256": "edd54af22ae0b66526fb6e4110e448c8a668799436fc9b2eb91fb70d46c57104",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wyrmwatch_warning_banner",
+      "file": "docs/design/whetstorm-art/items/wyrmwatch_warning_banner.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for wyrmwatch_warning_banner, a Wyrmwatch Warning Banner quest object. One complete short wooden banner pole bearing a broad plain ochre cloth pennant with a single large red diamond warning mark, planted upright, full pole visible with safe margins, centered against a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold silhouette, broad forms, legible at 32 pixels. No text, letters, logo, border, watermark, people, extra objects, photorealism, or copied game designs.",
+      "sha256": "b2379086bc1bacdd72af7d8bd8fc8849c271c52151394150e36d8fc7237fd4ed",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmwatch_warning_banner.webp",
+        "sha256": "7a1a80416471ac6f34dd1c67811fd0d68471eb5e3f0ad0a74c7158901bd6c164",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gullhaven_watchbell",
+      "file": "docs/design/whetstorm-art/items/gullhaven_watchbell.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for gullhaven_watchbell, a Coastal Watchbell quest object. One complete large weathered green-patina bronze bell with a visible clapper suspended from a short stout timber crossbeam, centered in three-quarter view on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No text, letters, symbols, border, logo, watermark, people, extra objects, photorealism, or copied game designs.",
+      "sha256": "ea5b75337a62e62c64309ca11369ae6f3b2a07d735cbae8cdf4bf4a6a8ed8737",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gullhaven_watchbell.webp",
+        "sha256": "da74de7a8d444b7b777a1b20d1e111eea0800af29b169e12d32edf35c283d808",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "hearth_ember_cache",
+      "file": "docs/design/whetstorm-art/items/hearth_ember_cache.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for hearth_ember_cache, an Ember Cache quest object. One complete squat black iron ember kettle, round lidded body with simple stout handle and a few subdued orange glimmers through small vent holes, no flame, centered against a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold silhouette, broad forms, legible at 32 pixels. No text, letters, symbols, border, logo, watermark, hands, extra objects, photorealism, or copied game designs.",
+      "sha256": "f23a97ae628ed1fce1aff3774c2aeb281e7ef37ee00232e6d2edf0f01136a969",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hearth_ember_cache.webp",
+        "sha256": "bc9fa74bd2a4e8d208e02f2d35510aa7dc7bc08b3f39f96a1d43b70213ce33d2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

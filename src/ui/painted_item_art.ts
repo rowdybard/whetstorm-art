@@ -109,6 +109,7 @@ import { gravecourtFangItemImageUrl } from './gravecourt_fang_item_art';
 import { gravewyrmWeaponItemImageUrl } from './gravewyrm_weapon_item_art';
 import { guardianTrophiesItemImageUrl } from './guardian_trophies_item_art';
 import { herbPlantNextItemImageUrl } from './herb_plant_next_item_art';
+import { heroicCourtHoardItemImageUrl } from './heroic_court_hoard_item_art';
 import { heroicLeatherOriginalItemImageUrl } from './heroic_leather_original_item_art';
 import { heroicMailOriginalItemImageUrl } from './heroic_mail_original_item_art';
 import { highpineArgumentItemImageUrl } from './highpine_argument_item_art';
@@ -248,6 +249,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    heroicCourtHoardItemImageUrl(id) ??
     oct30ThirdOriginalItemImageUrl(id) ??
     oct30SecondOriginalItemImageUrl(id) ??
     oct30OriginalItemImageUrl(id) ??

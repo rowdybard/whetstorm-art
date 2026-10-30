@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "sash_of_the_sunken_court",
+      "file": "docs/design/whetstorm-art/items/sash_of_the_sunken_court.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject with safe margins, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, mannequin, photorealism, or copied game designs. Subject: Sash of the Sunken Court: a single cloth waist sash folded into a clear loop with hanging ends, deep sea teal woven cloth with restrained pearl silver embroidery, underwater court ceremonial character.",
+      "status": "original armor painting; reviewed",
+      "sha256": "e03549ce4a88acfc299ab5c28329b264309ad9103fa5a2318ad18f61aca38844",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sash_of_the_sunken_court.webp",
+        "sha256": "7a3a719012b5df3ea4bf583ce3b8428a20d753c003fdcd5d06fb9943008bf526",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sunken_court_mantle",
+      "file": "docs/design/whetstorm-art/items/sunken_court_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject with safe margins, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, mannequin, photorealism, or copied game designs. Subject: Sunken Court Mantle: one symmetrical cloth shoulder mantle, layered deep sea teal woven fabric with restrained pearl silver trim, underwater court ceremonial character; empty neck opening, no torso.",
+      "status": "original armor painting; reviewed",
+      "sha256": "bd67b3cdf030f7268d74a3309a9252d3addedadf21c5751eb9d8669f0abebb69",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunken_court_mantle.webp",
+        "sha256": "2ce28d004c408e5aa57493a76b10797ca3209bda9fad42dd661f3bcfc7fb32a5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "tidewoven_trousers",
+      "file": "docs/design/whetstorm-art/items/tidewoven_trousers.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject with safe margins, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, mannequin, photorealism, or copied game designs. Subject: Tidewoven Trousers: one complete pair of leather trousers, supple dark teal tanned leather with subtle wave-shaped stitching and a simple belt, clearly distinct two legs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "cf0e37e689d201b8e04b4551a59317c511247ba5099df1fe18104bb8c2de5365",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/tidewoven_trousers.webp",
+        "sha256": "f6baf80a4d58fb9b0837791ba0cb5f278c56a2fa80d03528250dd9fcc0dfce6c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "choirmothers_casque",
+      "file": "docs/design/whetstorm-art/items/choirmothers_casque.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject with safe margins, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, mannequin, photorealism, or copied game designs. Subject: Choirmother's Casque: one complete mail helmet, silver steel and fine chainmail with restrained pearl and crescent ornament, an empty dark face opening, no face.",
+      "status": "original armor painting; reviewed",
+      "sha256": "44c3ec18c6a97357c6027a8222df75bc8bee4ddf4c0fc4ec57d3616d6fd6284e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/choirmothers_casque.webp",
+        "sha256": "8eebde49dcbdd72dd193e3fd2bdac31003b328055bc8a87d03f289b834724a21",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
