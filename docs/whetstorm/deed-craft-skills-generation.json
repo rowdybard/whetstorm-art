@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "prog_leatherworking_50",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a tanner's leather hide, awl and leatherworking knife on a wood table. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_leatherworking_50.png",
+      "masterSha256": "e3bdc11821b3ac0f9ebf6085532ec049d2863ba6f188330d9af63122a33acf1b",
+      "shipping": "public/ui/whetstorm/deeds/prog_leatherworking_50.webp",
+      "shippingSha256": "a8ba297e65222df3fefe9c1db620ee957b91a843c58f5375e388b4b32aeb3496",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_tailoring_50",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: folded rich cloth, thread spool, scissors and sewing needle on a workbench. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_tailoring_50.png",
+      "masterSha256": "069d47ff9a8dc84f7afccc279f3b8ada7616a5732460e6afefc9194dc26ce6fc",
+      "shipping": "public/ui/whetstorm/deeds/prog_tailoring_50.webp",
+      "shippingSha256": "19882379f1a9155841bc3de71af3cc6d0372f5ef2cc6c00265860555327669c8",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_enchanting_50",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a luminous arcane crystal and an engraved wand surrounded by soft runic light. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_enchanting_50.png",
+      "masterSha256": "8918c1780d1668937095e685bb61faa3972257b68327e0734ac13e8117e4eef2",
+      "shipping": "public/ui/whetstorm/deeds/prog_enchanting_50.webp",
+      "shippingSha256": "71e2ae2e96991ea3ec7a10088f59251d2ea7ce5defae86c3ea77401c56193e6a",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_weaponcrafting_50",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a freshly tempered sword blade, smith hammer and tongs over a small forge anvil. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_weaponcrafting_50.png",
+      "masterSha256": "125cccdc7aa6d3e618ce6fb3b940f877d825a98b5a2f902b92f65554ba2d541b",
+      "shipping": "public/ui/whetstorm/deeds/prog_weaponcrafting_50.webp",
+      "shippingSha256": "772e761d766f12cca71767d75a65ef3539260064bfd3c1d23b1b6bab1b65f168",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    }
+  ]
+}

@@ -4,6 +4,7 @@ import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
 import { combatMasteryDeedImageUrl } from './combat_mastery_deed_art';
 import { combatVictoryDeedImageUrl } from './combat_victory_deed_art';
 import { craftMasteryDeedImageUrl } from './craft_mastery_deed_art';
+import { craftSkillsDeedImageUrl } from './craft_skills_deed_art';
 import { cryptChallengeDeedImageUrl } from './crypt_challenge_deed_art';
 import { delveChallengeDeedImageUrl } from './delve_challenge_deed_art';
 import { delveCompanionDeedImageUrl } from './delve_companion_deed_art';
@@ -56,6 +57,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     combatMasteryDeedImageUrl(id) ??
     combatVictoryDeedImageUrl(id) ??
     craftMasteryDeedImageUrl(id) ??
+    craftSkillsDeedImageUrl(id) ??
     cryptChallengeDeedImageUrl(id) ??
     dungeonClearDeedImageUrl(id) ??
     dungeonJourneyDeedImageUrl(id) ??
