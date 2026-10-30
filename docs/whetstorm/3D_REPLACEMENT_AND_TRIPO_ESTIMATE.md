@@ -5,6 +5,25 @@ Checked 2026-10-29 against the clean `D:/whetstorm-deploy` checkout at
 planning inventory, not a release clearance or authorization to buy or generate
 models. The private art branch is a separate partial checkout.
 
+### Harbor route marker: free interim candidate
+
+A later read-only inspection found the CC0 KayKit `dungeon/sign_right.glb`
+has one right-pointing board, unlike the two-opposing-board Kenney
+`biome/camp_signpost.glb`. It is a possible interim substitute for the
+restricted harbor route marker, but it is not a drop-in replacement. The
+current renderer expects named parts and a text anchor; its vertex-color
+conversion would discard the candidate's atlas UVs and texture. An adapter
+must preserve the texture, localized two-sided labels, local +X direction,
+placement, collider and camera collision behavior.
+
+The candidate cannot preserve the current above-head board and camera-height
+contract by a single uniform scaling of the whole mesh. A shorter post puts
+part of the board below player head height; a taller post exceeds the current
+camera collision height. No change has been made or visually approved. Verify
+both faces, all berths and graphics tiers, character clearance and label
+readability in a complete candidate before selecting a compromise. This is
+planning only and does not remove the restricted original from distribution.
+
 ## What must be resolved
 
 The current credits register marks the following 16 named, tracked GLB files
