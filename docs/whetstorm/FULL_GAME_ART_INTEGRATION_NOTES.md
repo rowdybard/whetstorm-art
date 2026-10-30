@@ -102,3 +102,8 @@ counts, and catalog membership does not prove spawn reachability. The partial
 art checkout has no tracked `public/ui/mobs` directory, so missing legacy URLs
 fall back to family crests there. This does not establish the state of another
 deployment or distribution.
+
+At art-branch commit `9b45d7eb0d`, the same runtime census found 207 of 271
+catalogued mob IDs with original portrait overrides and 64 resolving to legacy
+URLs. This includes pets and dummies; catalog membership alone still does not
+prove a live spawn. Subsequent work changes these counts.

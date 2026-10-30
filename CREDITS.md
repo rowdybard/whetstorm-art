@@ -1143,6 +1143,13 @@ and `proving-shore-effigy-provenance.json` under `public/ui/whetstorm/mobs/`.
 The corrected Ironvein and Thunzharr portraits are recorded in
 `thornpeak-active-provenance.json` there.
 
+Original Drowned Temple, Frostveil, realm, necromancy-summon, and Thornpeak
+vision and stable portraits were created for Whetstorm using OpenAI's built-in
+image generation. Prompts and hashes are recorded in
+`drowned-temple-remaining-provenance.json`, `frostveil-quest-champions-provenance.json`,
+`realm-camps-provenance.json`, `necromancy-summons-provenance.json`, and
+`thornpeak-visions-stable-provenance.json` under `public/ui/whetstorm/mobs/`.
+
 Original Veiled Hollow, Vale, Drowned Litany, cave, and epic hoard portraits
 were created for Whetstorm using OpenAI's built-in image generation. Prompts
 and hashes are recorded in `docs/whetstorm/cave-ember-portraits-generation.json`

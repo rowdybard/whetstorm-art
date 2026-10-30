@@ -1,0 +1,47 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "graveguard",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square head and shoulders close-up of Graveguard, a skeletal warrior with weathered heavy armor, muted green-gray bones and guarded expression, dark graveyard background. Painterly polished game illustration, clear silhouette at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/graveguard.webp",
+      "sha256": "db5bd770c361fd76a22167e71a2f3f10ae1bf1648182d16c723f08b86b470193",
+      "bytes": 5282,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/graveguard.png",
+        "sha256": "c459d1d6e968ffdf18bd285e062476649cbdfde88d7dc1f239fad4ddad73ebbd",
+        "bytes": 2669598
+      }
+    },
+    {
+      "id": "necromancy_skeletal_warrior",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square head and shoulders close-up of a skeletal warrior minion, exposed pale bones and simple worn light armor, gloomy graveyard background. Painterly polished game illustration, clear silhouette at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/necromancy_skeletal_warrior.webp",
+      "sha256": "350b664ad735fdcdff96059035b733989177b47bbbd95b483356cbfee2ebe91c",
+      "bytes": 5556,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/necromancy_skeletal_warrior.png",
+        "sha256": "e3faefd1d8a036fd3afacd0529d0aad74234559b5e65c19c16f4389fc69e7f1a",
+        "bytes": 2656308
+      }
+    },
+    {
+      "id": "necromancy_bone_mage",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square head and shoulders close-up of a skeletal bone mage, pale green-tinted skull, dark mage robes and subtle shadow magic, gloomy graveyard background. Painterly polished game illustration, clear silhouette at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/necromancy_bone_mage.webp",
+      "sha256": "7d85ede3bf490e52e1a18267161f6496587c1a3dc1f2b533d1e16c117e33338e",
+      "bytes": 4678,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/necromancy_bone_mage.png",
+        "sha256": "68b79f269fe93c27ea10da0f524d3ac5618d39807883332ab0fccaa9a4632eee",
+        "bytes": 2204853
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "glimmerwisp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square close-up of one floating pink glimmerwisp: a small smooth teardrop-shaped spirit with pointed crown, tiny luminous eyes and a long curled tapering tail, matching a simple pink floating creature game model. Enchanted forest glade behind, softly luminous. Polished painterly game illustration, bold silhouette readable at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/glimmerwisp.webp",
+      "sha256": "6fa4a0ff1ef7f809cd283d11dbf5cab3f6a445431023765c527bf946cffe4a67",
+      "bytes": 6088,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/glimmerwisp.png",
+        "sha256": "8fbd037f03f0489522a467f7000061020f2bcb90435c1326314dc1ba6fea98b8",
+        "bytes": 1964594
+      }
+    },
+    {
+      "id": "duskwisp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square close-up of one floating deep violet duskwisp: a small smooth teardrop-shaped spirit with pointed crown, tiny pale glowing eyes and a long curled tapering tail, matching a simple purple floating creature game model. Dim enchanted forest backdrop with cold violet haze. Polished painterly game illustration, bold silhouette readable at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/duskwisp.webp",
+      "sha256": "0517aaef63efeba619aad30a04cd3a1c964dba1567f5638d0addb1745f33c2c9",
+      "bytes": 3946,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/duskwisp.png",
+        "sha256": "1378a176b3ae2952acdf47788252b878bdf446b07abef7f4c0f29071dbf96375",
+        "bytes": 1839035
+      }
+    },
+    {
+      "id": "aurelhorn",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square head and shoulders close-up of a majestic brown stag with a cream muzzle and throat and broad branching luminous golden antlers, matching the brown stag game model. Enchanted woodland glade backdrop. Polished painterly game illustration, clear face and silhouette readable at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/aurelhorn.webp",
+      "sha256": "37acea1856cc7b7ea46e13a110cc6810fc157d183d8c84ce7c177f35b44c6bc4",
+      "bytes": 6390,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/aurelhorn.png",
+        "sha256": "b5aba083e93b073f15bbc8d571b515776971aaf06e934da8d2708a90acde145a",
+        "bytes": 2584269
+      }
+    }
+  ]
+}

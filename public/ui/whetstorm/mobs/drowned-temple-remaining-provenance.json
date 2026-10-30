@@ -1,0 +1,34 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "path": "public/ui/whetstorm/mobs/choirmother_selthe.webp",
+      "sha256": "9c65e15f673210f3abcda7b626556cbc8ea511d45ffd95166c29b2d8bf926b90",
+      "bytes": 4110,
+      "id": "choirmother_selthe",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square target portrait for fantasy game, readable at 128 pixels. Depict Choirmother Selthe as her actual in-game hooded rogue model: a human-like hooded figure, face partly shadowed, simple dark rogue hood and leather armor tinted slate blue, in an ancient flooded temple. Center a close head and shoulders view, painterly dark fantasy game illustration, cool underwater moonlight. No headdress, no lettering, no logos, no border, no watermark.",
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/choirmother_selthe.png",
+        "sha256": "c78a193f3fb698f73fbfb3c4bb25a05043c8adc6a5ff4e3a84c63b54a5dddff5",
+        "bytes": 2510427
+      }
+    },
+    {
+      "path": "public/ui/whetstorm/mobs/moonspawn.webp",
+      "sha256": "e5fb2bec8f80a2c2b03b81cc1d36b077c059d6d86716088755b5387dbcba5d7f",
+      "bytes": 5216,
+      "id": "moonspawn",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy game target portrait readable at 128 pixels. Depict a moonspawn, a small bipedal frog creature with wide frog head, bulging eyes, broad mouth and pale icy blue skin, matching a frog model tinted moon-white. Center close-up of head and shoulders in a submerged moonlit temple, painterly detailed fantasy illustration, cold silver blue glow. Frog anatomy, not a fish, no humanoid human face, no text, no logos, no border or watermark.",
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/moonspawn.png",
+        "sha256": "e42943a6d9293522c4e1096cbd8e0ac0be691e920efda89850bc76b82eac9c0b",
+        "bytes": 2300921
+      }
+    }
+  ]
+}

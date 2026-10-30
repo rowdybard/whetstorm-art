@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "terrace_howler",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Create one original dark fantasy MMO target portrait, square painting: close head and shoulders of a large blue-grey winter wolf, thick pale fur, lupine muzzle and alert ears, cold mountain background, dramatic soft rim light. Framed tightly and readable at 128 pixels. No text, border, logo, watermark.",
+      "path": "public/ui/whetstorm/mobs/terrace_howler.webp",
+      "sha256": "c8ab1dc7b36091d9a564bb6638eba0685128f5e91d8755197f2b33474a484c6b",
+      "bytes": 5142,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/terrace_howler.png",
+        "sha256": "135c59b39ce5199a645df8a1259286a8721b73b7a101e46e80fcd0fc376d995b",
+        "bytes": 3085427
+      }
+    },
+    {
+      "id": "ice_wisp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Create one original dark fantasy MMO target portrait, square painting: an icy pale blue spectral ghost, hoodless ghostly humanoid head and shoulders, translucent flowing form and a cold glow, dim frosty backdrop. Match a ghost creature rather than an orb. Framed tightly and readable at 128 pixels. No text, border, logo, watermark.",
+      "path": "public/ui/whetstorm/mobs/ice_wisp.webp",
+      "sha256": "66e32e3d7c2d6a4a0955b81bd8bf9787f19cee2d32a86128cfe18e27353a83a2",
+      "bytes": 4712,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/ice_wisp.png",
+        "sha256": "25fb765c6dbdb53df617aab091303921cf2d5891838066d5b9158c1e714b1bae",
+        "bytes": 2342446
+      }
+    },
+    {
+      "id": "rime_elemental",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Create one original dark fantasy MMO target portrait, square painting: a blue-grey frost elemental, a bulky hovering golem-like creature made of icy stone, rugged craggy head and shoulders, icy ambient light and muted dark backdrop. Framed tightly and readable at 128 pixels. No text, border, logo, watermark.",
+      "path": "public/ui/whetstorm/mobs/rime_elemental.webp",
+      "sha256": "8194de6496d58c7576420318c88637338aa6123dadcd3dd980778e615ee6bb12",
+      "bytes": 5726,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rime_elemental.png",
+        "sha256": "d38c9a1b88ff32fb0702d9aa74c0a84d78fb299dd49fe65fdf525e4b1ac8067b",
+        "bytes": 2963682
+      }
+    },
+    {
+      "id": "fen_sprite",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Create one original dark fantasy MMO target portrait, square painting: a small pale grey-blue kobold-like burrowing creature, reptilian pointed muzzle and ears, humanoid head and shoulders, winter fen atmosphere and dark backdrop. Framed tightly and readable at 128 pixels. No text, border, logo, watermark.",
+      "path": "public/ui/whetstorm/mobs/fen_sprite.webp",
+      "sha256": "72ae2f7a949c4218867d48ff2e217102198cdcbb7466a8d43e236e1817412ad9",
+      "bytes": 4596,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/fen_sprite.png",
+        "sha256": "ad1c16dceb99757465c161f8aadf62172409bd08adf97fa579257b55bc1d49ea",
+        "bytes": 2527556
+      }
+    }
+  ]
+}

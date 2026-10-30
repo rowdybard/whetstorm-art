@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "stable_horse",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Create an original square fantasy RPG target portrait of a chestnut stable horse, head and shoulders, brown coat, dark mane, simple leather halter, calm expression, painterly detailed game illustration, soft mountain stable background, strong clear silhouette at 128 pixels. No text, border, logo, watermark.",
+      "path": "public/ui/whetstorm/mobs/stable_horse.webp",
+      "sha256": "8651cf49286e4ef8844c5a181b499c1f9f11b6ed4cee8b264dbe1742f9ed2f07",
+      "bytes": 4856,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/stable_horse.png",
+        "sha256": "4ee77fdc20fcc7a481e0a34b013b5015ec23865b662de1c2beba78ce02c5b358",
+        "bytes": 2427540
+      }
+    },
+    {
+      "id": "vision_aldren_warrior",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG target portrait: ghostly vision of a noble human warrior captain, head and shoulders, spectral pale blue glow, practical steel armor, stern face, translucent blue mist, dark crypt background. Painterly game illustration, bold readable composition at 128 pixels. No text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/vision_aldren_warrior.webp",
+      "sha256": "4d7995f4364ec2020a0c77ae2ae83e6d542ce09778a19eee55521f26e157561a",
+      "bytes": 5214,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/vision_aldren_warrior.png",
+        "sha256": "79ca69f58b67ad7639bad293dcab2d0acd3b844959ec4535c9b66eb83aad4c59",
+        "bytes": 2623527
+      }
+    },
+    {
+      "id": "vision_malric_mage",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG target portrait: spectral vision of a human high priest, head and shoulders, violet ethereal glow, simple priestly robes, dignified expression, translucent violet mist, dark ancient crypt background. Painterly game illustration, bold readable composition at 128 pixels. No text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/vision_malric_mage.webp",
+      "sha256": "2eccb72659bea0744abbe57cb7c88c352d76cdfb1a773de1085df7809aedb630",
+      "bytes": 4414,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/vision_malric_mage.png",
+        "sha256": "304eb28d085ee8f9add2cbd3faa854d05479e1363de08ee44f401a2d65f8bf0e",
+        "bytes": 2403044
+      }
+    },
+    {
+      "id": "vision_deathstalker_voss",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG target portrait: a spectral vision of a human royal assassin, head and shoulders, pale blue ghostly light, dark leather hood and cloak, sharp watchful face, translucent mist against a dark crypt. Painterly game illustration, bold readable composition at 128 pixels. No text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/vision_deathstalker_voss.webp",
+      "sha256": "53488507897f75fdfe15d27796ff118f6204eb193cff570aa9534e7cd9db03d4",
+      "bytes": 4894,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/vision_deathstalker_voss.png",
+        "sha256": "0628cdeee5d53517d5377d41569ca0da1fc868b0d061bec4d28de84e487f0c24",
+        "bytes": 2551193
+      }
+    }
+  ]
+}
