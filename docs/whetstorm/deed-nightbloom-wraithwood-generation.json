@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "chr_nightbloom_first_cast",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A silver fish leaping out of a moonlit spring surrounded by luminous blue flowers, representing a first catch in Nightbloom. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_nightbloom_first_cast.png",
+      "masterSha256": "27356af81f886c29eecbfaf26930af1ac377c406c3b8c081688f99c747ef062c",
+      "shipping": "public/ui/whetstorm/deeds/chr_nightbloom_first_cast.webp",
+      "shippingSha256": "887b1b7b2e7fd58ed3f71dbe85daa5c1719a8f98eca43b4dd1c84c94065a3f4b",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_nightbloom_gatherer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A violet ore chunk, cut log and glowing blue herb sprig arranged together beneath a crescent moon, representing gathering three resources in Nightbloom. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_nightbloom_gatherer.png",
+      "masterSha256": "882af24b29f58008a7895e50157ce22a06fcd082cc922f08c099f87dac808f7d",
+      "shipping": "public/ui/whetstorm/deeds/chr_nightbloom_gatherer.webp",
+      "shippingSha256": "ddabf7cdd76bcf4e4e8ece56c00ef9a0921cdc7471f4046e9deb8cd28e7f4dcf",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_wraithwood_first_cast",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A pale fish rising from a still forest pool with ghostly green light and dark trees, representing a first catch in Wraithwood. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_wraithwood_first_cast.png",
+      "masterSha256": "cc7c1796d649b340cfa2c36d4d18770db28963332beea3268da179cb49f3b464",
+      "shipping": "public/ui/whetstorm/deeds/chr_wraithwood_first_cast.webp",
+      "shippingSha256": "ce07d4c711e513bc32bd930561b8a30c6f846edead9f046af96f25bcd2832218",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_wraithwood_gatherer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A green mineral chunk, cut dark log and pale herb sprig arranged beneath a shadowy forest canopy, representing gathering three resources in Wraithwood. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_wraithwood_gatherer.png",
+      "masterSha256": "c7581b9d5d09ded71dd55895311773497a9bc3406899486a3ea7b2afe7913f0b",
+      "shipping": "public/ui/whetstorm/deeds/chr_wraithwood_gatherer.webp",
+      "shippingSha256": "80660429e058c4b2e5374eb1ccde6ce86c90e547ec9fa9e7aae7a1d8317af7a8",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

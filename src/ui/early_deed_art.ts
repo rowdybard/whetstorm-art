@@ -27,6 +27,7 @@ import { journeyCraftDeedImageUrl } from './journey_craft_deed_art';
 import { journeyDeedImageUrl } from './journey_deed_art';
 import { milestoneDeedImageUrl } from './milestone_deed_art';
 import { mountainBossDeedImageUrl } from './mountain_boss_deed_art';
+import { nightbloomWraithwoodDeedImageUrl } from './nightbloom_wraithwood_deed_art';
 import { peaksDiscoveryDeedImageUrl } from './peaks_discovery_deed_art';
 import { placeDeedImageUrl } from './place_deed_art';
 import { prestigeDeedImageUrl } from './prestige_deed_art';
@@ -58,6 +59,7 @@ export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
     amberfallEvergardenDeedImageUrl(id) ??
+    nightbloomWraithwoodDeedImageUrl(id) ??
     earlyCollectionDeedImageUrl(id) ??
     earlySocialDeedImageUrl(id) ??
     civicBankDeedImageUrl(id) ??
