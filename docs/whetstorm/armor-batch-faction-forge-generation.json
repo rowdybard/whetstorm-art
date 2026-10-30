@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "templar_dawn_shield",
+      "file": "docs/design/whetstorm-art/items/templar_dawn_shield.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Templar's Dawn Shield, an upright kite shield of pale steel with a restrained gold sunrise motif, solid broad silhouette. Show the complete item with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "68ccfef7eec6f3954b5e8db70b476b409b62733a55dcd64281311b141257c877",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/templar_dawn_shield.webp",
+        "sha256": "ac1175ac09d9772abd9df6e4dd51630c3523040e3b2273d2df7aa3baf18a3883",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow 13.0.0 Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "forgemasters_girdle",
+      "file": "docs/design/whetstorm-art/items/forgemasters_girdle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one Forgemaster's Girdle, a sturdy dark leather waist belt with linked steel plates, rivets and a simple bronze buckle, coiled to show whole belt. Show the complete item with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "a9bedd3cea8463ded9397387419358c9cdcedc444ceb3ac7adb5f44030f6b4d7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgemasters_girdle.webp",
+        "sha256": "55762fd2f583e3778f6c8583f79ddd1ae959a6e66f33d59c07fc0c7dc6685017",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow 13.0.0 Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "forgemasters_sabatons",
+      "file": "docs/design/whetstorm-art/items/forgemasters_sabatons.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one pair of Forgemaster's Sabatons, sturdy articulated steel armored boots with dark leather joints and warm bronze rivets, both complete. Show the complete item with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "e32253793d5849837426ef9285abf30862b128542b92dad9af51247c063009df",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forgemasters_sabatons.webp",
+        "sha256": "49d4a4590ee787a62c200e9a087ddeb0e91f29dd36dc0d90bbfcf288ad91bc04",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow 13.0.0 Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

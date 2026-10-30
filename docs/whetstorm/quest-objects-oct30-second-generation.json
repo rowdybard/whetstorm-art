@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "murloc_hut",
+      "file": "docs/design/whetstorm-art/items/murloc_hut.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for murloc_hut, a Mudfin Hut quest object. One complete small primitive marsh hut made of bundled reeds and mud, rounded low roof with an open dark doorway, no occupants, centered in three-quarter view on a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold silhouette and broad shapes, legible at 32 pixels. No words, letters, border, logo, watermark, hands, extra structures, photorealism, or copied game designs.",
+      "sha256": "8c1f43a53bcf027f4dde17f1a8a8dc919df5219b3ba6c274b883d7123508d3be",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/murloc_hut.webp",
+        "sha256": "4417055a7c6469313c1820a1456fce3cd93b10e3fd74e0d256d6ad97088ead39",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "hedgewick_tool_cart",
+      "file": "docs/design/whetstorm-art/items/hedgewick_tool_cart.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for hedgewick_tool_cart, a Spilled Tool Cart quest object. One complete small overturned wooden garden handcart with two chunky wheels, a few simple gardening tools spilling from its open bed, centered in three-quarter view against a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold silhouette, broad forms, restrained detail, legible at 32 pixels. No text, letters, border, logo, watermark, people, photorealism, or copied game designs.",
+      "sha256": "aa89de0e3c62f264d9b520233266767cd682a2806f282f276d1b456e03155073",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hedgewick_tool_cart.webp",
+        "sha256": "c46113c99873c0ef9ea015bead6aa83a31324c3edd41d9d99e035ab58d5bee85",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sprung_trap",
+      "file": "docs/design/whetstorm-art/items/sprung_trap.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for sprung_trap, a Sprung Fen Trap quest object. Show one complete small sprung iron jaw trap, closed teeth meeting, with a short coiled chain and a few reeds caught at its edge, centered large on a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold simple silhouette and broad shapes, legible at 32 pixels. No animal, blood, people, text, letters, border, logo, watermark, photorealism, or copied game designs.",
+      "sha256": "ed4c6a8f00ffa5f0fb0873296aa1d18e1ff707c80ed5bbd2972efad530783778",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sprung_trap.webp",
+        "sha256": "907f1f13b328e0110b591edb4ec007d6744dcc71536a162b276f8f6b17ce9610",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "shear_storm_lantern",
+      "file": "docs/design/whetstorm-art/items/shear_storm_lantern.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for shear_storm_lantern, a Doused Storm-Lantern quest object. One complete unlit sturdy storm lantern with dark iron hood, thick glass panes and a short loop of chain, no flame or glow, centered large against a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold simple silhouette, broad forms, restrained detail, legible at 32 pixels. No text, letters, border, logo, watermark, hands, extra objects, photorealism, or copied game designs.",
+      "sha256": "e531a74803cc3924b5c836b54fde87975cb380cd0edf28d27c1421695f671ffa",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/shear_storm_lantern.webp",
+        "sha256": "6c36a722efc7c900dff5ed7c917c96e21e1ddb0cb6e23a7cfdf7fe99539260cb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

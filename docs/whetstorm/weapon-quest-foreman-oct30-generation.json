@@ -1,0 +1,105 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "zealotsbane_blade",
+      "file": "docs/design/whetstorm-art/items/zealotsbane_blade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Premium hand-painted dark fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject diagonally with visible margin, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism or copied game designs. Subject: Zealotsbane Blade, one practical uncommon one-handed steel sword with a broad straight blade, simple bronze crossguard and worn brown leather grip. Complete weapon, tip to pommel.",
+      "status": "Original painting; size review at 128, 64, 32 and 22 pixels; integration pending.",
+      "sha256": "e5728b753f32b6d78ce5c102fd8d00c26f4e1c3b0dccc1b0980f5f27ced2ad97",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/zealotsbane_blade.webp",
+        "sha256": "f140b5f2d2bcec96d9bf94ab0382ae256aa7b53872897560105dbd32b9616169",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-2558dbb4-c2db-46e2-8d94-55881ec5fd52.png"
+    },
+    {
+      "itemId": "emberwood_staff",
+      "file": "docs/design/whetstorm-art/items/emberwood_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Premium hand-painted dark fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject diagonally with visible margin, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism or copied game designs. Subject: Emberwood Staff, one uncommon long wooden staff with dark reddish ember-colored grain, a modest forked top holding a small glowing amber stone, and simple leather binding. Complete weapon, top to base.",
+      "status": "Original painting; size review at 128, 64, 32 and 22 pixels; integration pending.",
+      "sha256": "18ba6ba123ba395d00000992b00a4ba752de211e29873d1d81d520073bd17285",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberwood_staff.webp",
+        "sha256": "a99b9e0341e810b4516ac93281ec33b622e4c0e46d1fb0d4983a134e8bbfee03",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-c4855622-5b0c-4911-9f55-758564ef3753.png"
+    },
+    {
+      "itemId": "cultist_flayer",
+      "file": "docs/design/whetstorm-art/items/cultist_flayer.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Premium hand-painted dark fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject diagonally with visible margin, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism or copied game designs. Subject: Cultist Flayer, one uncommon compact steel dagger with a hooked cutting edge, dark wrapped leather grip and restrained iron fittings. Complete weapon, tip to pommel.",
+      "status": "Original painting; size review at 128, 64, 32 and 22 pixels; integration pending.",
+      "sha256": "35f11000bce6d39c0c01766c152638012152ecf48643f234d510c493d89fa8f8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cultist_flayer.webp",
+        "sha256": "a5157e047cd219060ae0663c1b6a16c084d9b9f1e7c26ac23d58933c41b7a1a1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-a0288bd6-847e-4930-b238-659aed0f9270.png"
+    },
+    {
+      "itemId": "ironvein_pickblade",
+      "file": "docs/design/whetstorm-art/items/ironvein_pickblade.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Premium hand-painted dark fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject diagonally with visible margin, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism or copied game designs. Subject: Ironvein Pickblade, one uncommon dagger made as a compact miner's weapon: short pointed steel pick-like blade, rugged iron guard and brown wrapped grip, no extra tools. Complete weapon, tip to pommel.",
+      "status": "Original painting; size review at 128, 64, 32 and 22 pixels; integration pending.",
+      "sha256": "29a937ec537c6cd15c12c55b40dd5b5e06702092f63c910b5b4d57a531141a92",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ironvein_pickblade.webp",
+        "sha256": "2e0dfb66f83fb7cb32a553c589d37e0984135d614f5896a61c39b4f71b20fba2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-ffecf0b7-8228-4a33-84ad-7622af3de12d.png"
+    }
+  ]
+}
