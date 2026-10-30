@@ -36,11 +36,11 @@
       width: 68px;
       height: 68px;
       margin: 0 0 22px;
-      background: url("/website-feature-open-v1.webp") center / contain no-repeat;
+      background: url("/ui/whetstorm/website-news.svg") center / contain no-repeat;
       filter: none;
     }
     & #highscores-view .skeleton-icon-wrapper {
-      background-image: url("/website-feature-classes-v1.webp");
+      background-image: url("/ui/whetstorm/website-highscores.svg");
     }
     & #download-view .skeleton-icon-wrapper {
       background-image: url("/ui/whetstorm/mark.svg");

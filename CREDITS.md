@@ -77,6 +77,10 @@ hand-authored SVG geometry, with no image references. Their provenance and
 hashes are recorded in `docs/whetstorm/mage-proc-overlay-original-art.json`.
 This does not establish the rights for the earlier proc artwork.
 
+The News and High Scores heading SVGs under `public/ui/whetstorm/` are original
+hand-authored artwork made for this fork without image references. The historical
+website feature image records below retain their restrictions.
+
 The silver-, gold-, and prismatic-tier Fiesta augment icons under
 `public/ui/whetstorm/fiesta/augments/` are original hand-authored SVGs based on
 the live augment mechanics. Paths and hashes are recorded in the
