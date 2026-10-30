@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "thornpeak_moonhide_cowl",
+      "file": "docs/design/whetstorm-art/items/thornpeak_moonhide_cowl.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, deep slate-blue painted backdrop, warm upper-left light and bold shapes readable at 32 pixels. One complete Thornpeak Moonhide Cowl, a soft weathered gray leather hood with a dark empty opening, indigo leather edging and thorn-shaped stitched trim; entire hood centered with space. No face, person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "0a0a5bbf0a7ec3de843c692805bc0c1074cf67aad81ab50204b0a9609fb3f8c5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/thornpeak_moonhide_cowl.webp",
+        "sha256": "0ea490bd0bead42453524443e702bc9be8f9821c5ca2a1c0d5148a212303cb49",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "stormhymn_chain_grips",
+      "file": "docs/design/whetstorm-art/items/stormhymn_chain_grips.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, deep slate-blue painted backdrop, warm upper-left light and bold shapes readable at 32 pixels. One complete pair of Stormhymn Chain Grips, blue-gray interlinked mail gloves with small silver knuckle plates and subtle gold lightning-shaped inlays, both gloves centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "acdf23f5b92a49d241068d68628a858245454272be01691f27b68c638109feae",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormhymn_chain_grips.webp",
+        "sha256": "4d724118337917a1d2c630a466fe1bb81405cc056338537a2a691beac7ff59e5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "stormhymn_chain_treads",
+      "file": "docs/design/whetstorm-art/items/stormhymn_chain_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, deep slate-blue painted backdrop, warm upper-left light and bold shapes readable at 32 pixels. One complete pair of Stormhymn Chain Treads, blue-gray linked mail boots with silver toe plates and modest gold lightning-shaped inlays, both boots centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "7824c68b50de73ff8b351e066efad980a5233c6bf51f0a512b4ae8cad0b17219",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormhymn_chain_treads.webp",
+        "sha256": "39420ec31beb6fd9e3bb1ba6d1ce6a096cdc8af1c5e5150264cc1da49f00e998",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "wildgrowth_leggings",
+      "file": "docs/design/whetstorm-art/items/wildgrowth_leggings.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, deep slate-blue painted backdrop, warm upper-left light and bold shapes readable at 32 pixels. One complete pair of Wildgrowth Leggings, forest-green and brown stitched leather pants from waist to ankles with two separate legs and small leaf-shaped leather patches, no shoes, entire silhouette centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "8e92f4b1b03cec9b27fd2dcef86038bdbfe8d7206c75f794a7de32d58fb31b08",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wildgrowth_leggings.webp",
+        "sha256": "5f8713babb999c7c4d88cfe4d23a724b839335602c4cc2cdb77653f7001b85c8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}
