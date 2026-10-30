@@ -71,3 +71,4 @@ export * from './station_name_view';
 export * from './tool_effect_result_view';
 export * from './wellfed_stat_keys';
 export * from './wellfed_tooltip_view';
+export * from './whetstorm_gathering_art';

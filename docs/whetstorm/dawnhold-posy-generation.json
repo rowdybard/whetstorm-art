@@ -1,0 +1,28 @@
+{
+  "assets": [
+    {
+      "itemId": "dawnhold_posy",
+      "file": "docs/design/whetstorm-art/items/dawnhold_posy.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Dawnhold Garden Posy: a small pressed bouquet of pale pink and cream garden flowers with green leaves, tied with a faded golden ribbon, a delicate castle keepsake. Original hand-painted fantasy, tactile dried petals, warm upper-left light, centered complete silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original keepsake painting; reviewed",
+      "sha256": "97bb847b7d0ea9c3a8aa46eb7450a3626181ed57afb251fb4d9cbeb3966065a8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/dawnhold_posy.webp",
+        "sha256": "32ab3fb025623840736f35dcfe7c0f879612e69bdb4a3f59077b61c55d8979ff",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

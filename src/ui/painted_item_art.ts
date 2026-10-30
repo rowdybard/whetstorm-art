@@ -50,6 +50,7 @@ import { craghornIceveinItemImageUrl } from './craghorn_icevein_item_art';
 import { crozierSparksItemImageUrl } from './crozier_sparks_item_art';
 import { dawnForgeItemImageUrl } from './dawn_forge_item_art';
 import { dawnforgedArmorItemImageUrl } from './dawnforged_armor_item_art';
+import { dawnholdPosyItemImageUrl } from './dawnhold_posy_item_art';
 import { deathlessStormItemImageUrl } from './deathless_storm_item_art';
 import { direfangArmorItemImageUrl } from './direfang_armor_item_art';
 import { drogmarQuestWeaponsItemImageUrl } from './drogmar_quest_weapons_item_art';
@@ -238,6 +239,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    dawnholdPosyItemImageUrl(id) ??
     coldsightArmorItemImageUrl(id) ??
     fenKeepLootItemImageUrl(id) ??
     feralRimeItemImageUrl(id) ??

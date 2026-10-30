@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "gather_farming",
+      "runtimeIds": [
+        "gather_farming"
+      ],
+      "file": "docs/design/whetstorm-art/professions/gather_farming.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original farming profession: a small golden seedling with two bright green leaves emerging from rich dark soil, a single bronze hand trowel beside it. Bold clear silhouette, warm green and earth palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "c7235c7d89ea0d5afed354ff9ea4fc16f1ad93ce2607f44d3fd89ba6a533df44",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/gather_farming.webp",
+        "sha256": "02ac5e523aca0afa5f12114b8f4df71aab99c7877838b80422376f5742b4ebda",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/gather_farming.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Masterwrought art-completion wave"
+      }
+    },
+    {
+      "id": "gather_fishing",
+      "runtimeIds": [
+        "gather_fishing"
+      ],
+      "file": "docs/design/whetstorm-art/professions/gather_fishing.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original fishing profession: a silver-blue fish leaping above a single curved fishing hook and water ripple, clear graceful silhouette. Bold clear silhouette, cool blue and silver palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "b3158a7924c27dd741d1030cd08505e0d7b1a1cdec83e614d2ff8e0565c15ad6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/gather_fishing.webp",
+        "sha256": "2c3463db1fa334ae217cb2aafcb9f7dfb0116b32f35853a51d73d5812cdbf46f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/gather_fishing.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "gather_herbalism",
+      "runtimeIds": [
+        "gather_herbalism"
+      ],
+      "file": "docs/design/whetstorm-art/professions/gather_herbalism.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original herbalism profession: a small bundle of three fresh green medicinal leaves tied with twine, one pale flower, clear large silhouette. Bold clear silhouette, forest green and cream palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "53fefb0cb9104755f8fd9f322a0701fdbc6d48ca579a80f383e393e29e185c87",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/gather_herbalism.webp",
+        "sha256": "62b5f5577ec5eaebc561b70218c7b428377bbceb4837ca153dc72f7b7627320a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/gather_herbalism.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "gather_logging",
+      "runtimeIds": [
+        "gather_logging"
+      ],
+      "file": "docs/design/whetstorm-art/professions/gather_logging.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original logging profession: a sturdy steel woodsman's axe resting diagonally against one cut cedar log, visible annual rings. Bold clear silhouette, russet wood and steel palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "a759b2e7f053e4974f42d65128d4efdea95260ad66d26a214f7ef2ebb94ee4a8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/gather_logging.webp",
+        "sha256": "739e796ca92275b214d3467f273c46ddb022d2bf33d8f2666deff0abab771496",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/gather_logging.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "gather_mining",
+      "runtimeIds": [
+        "gather_mining"
+      ],
+      "file": "docs/design/whetstorm-art/professions/gather_mining.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original mining profession: a single steel pickaxe crossing a dark stone with a bright copper ore seam, a few golden sparks. Bold clear silhouette, iron gray and copper palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "456cacbd77eddff0637ee3c285582d8d88f517d83ccc58238744a81943542e29",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/gather_mining.webp",
+        "sha256": "36b7287ccb03063c79a2f4959c49efd52c65423f8ca04751624a3de72cbfa551",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/gather_mining.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    }
+  ]
+}

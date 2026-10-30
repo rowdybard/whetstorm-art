@@ -1,4 +1,5 @@
 import { PROFESSION_IMAGE_IDS } from './profession_image_ids';
+import { whetstormGatheringProfessionImageUrl } from './whetstorm_gathering_art';
 
 const PROFESSION_IMAGE_DIR = '/ui/professions';
 
@@ -20,7 +21,10 @@ export const ARCHETYPE_IMAGE_ID_BY_PAIR: Readonly<Record<string, string>> = {
 
 /** Resolve one known profession-side painted image to its public WebP URL. */
 export function professionImageUrl(id: string): string | null {
-  return PROFESSION_IMAGE_IDS.has(id) ? `${PROFESSION_IMAGE_DIR}/${id}.webp` : null;
+  return (
+    whetstormGatheringProfessionImageUrl(id) ??
+    (PROFESSION_IMAGE_IDS.has(id) ? `${PROFESSION_IMAGE_DIR}/${id}.webp` : null)
+  );
 }
 
 /** Resolve a canonical profession pair to its painted archetype crest. */

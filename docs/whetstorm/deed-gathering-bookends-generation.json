@@ -1,0 +1,27 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "prog_first_harvest",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a simple gloved hand gathering a sprig of green herbs beside a small ore stone and log on a sunlit hillside, representing a first gathering harvest. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_first_harvest.png",
+      "masterSha256": "e1ca32a26a25a8106034f95262f6ce9610be34bcfdcae79fc39c598f2eaa5d8b",
+      "shipping": "public/ui/whetstorm/deeds/prog_first_harvest.webp",
+      "shippingSha256": "afa4021ad9c91d797c2f39229a08430b4599056146fbfa82b8aef0b9341b68ec",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "prog_master_gatherer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a crossed pickaxe, woodsman's axe, and herbalist sickle surrounding a green leaf and small ore crystal, framed by golden laurels, representing mastery of gathering trades. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_master_gatherer.png",
+      "masterSha256": "29cb55c538d12b7efbd7fd77d17e42a93d309ee24255c376434d25cc20af82c5",
+      "shipping": "public/ui/whetstorm/deeds/prog_master_gatherer.webp",
+      "shippingSha256": "9e9f8bcb2512441d70eb1386ed673e57a163b020d7088f6cfde071f99fca4548",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}
