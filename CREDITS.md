@@ -68,6 +68,10 @@ art. Its hash and provenance are recorded in
 `docs/whetstorm/reliquary-specimen-original-art.json`; the historical specimen
 art record below retains its restrictions.
 
+The three weekly vault door SVGs under `public/ui/weekly-vault/` are original
+hand-authored art for this fork, described in `docs/whetstorm/weekly-vault-art.md`.
+The historical weekly vault bitmap record below retains its restriction.
+
 The silver-, gold-, and prismatic-tier Fiesta augment icons under
 `public/ui/whetstorm/fiesta/augments/` are original hand-authored SVGs based on
 the live augment mechanics. Paths and hashes are recorded in the

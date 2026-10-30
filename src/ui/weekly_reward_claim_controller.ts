@@ -298,7 +298,7 @@ export class WeeklyRewardClaimController {
           });
           const tile = document.createElement('div');
           tile.className = `weekly-milestone weekly-earned weekly-vault-${art} ui-card`;
-          tile.innerHTML = `<div class="weekly-milestone-heading"><span class="weekly-milestone-label">${esc(title)}</span>${category === 'raid' || category === 'dungeon' ? `<span class="weekly-difficulty weekly-difficulty-${art}">${esc(t(`hudChrome.weeklyRewards.${art}`))}</span>` : ''}</div><div class="weekly-vault-illustration"><img class="weekly-vault-art" src="/ui/weekly-vault/${art}.webp" alt="" draggable="false"></div><div class="weekly-milestone-footer">${esc(t(`hudChrome.weeklyRewards.pool.${choice.pool}`))}</div>`;
+          tile.innerHTML = `<div class="weekly-milestone-heading"><span class="weekly-milestone-label">${esc(title)}</span>${category === 'raid' || category === 'dungeon' ? `<span class="weekly-difficulty weekly-difficulty-${art}">${esc(t(`hudChrome.weeklyRewards.${art}`))}</span>` : ''}</div><div class="weekly-vault-illustration"><img class="weekly-vault-art" src="/ui/weekly-vault/${art}.svg" alt="" draggable="false"></div><div class="weekly-milestone-footer">${esc(t(`hudChrome.weeklyRewards.pool.${choice.pool}`))}</div>`;
           tiles.append(tile);
           const footer = tile.querySelector<HTMLElement>('.weekly-milestone-footer')!;
           if (availability[index].exhausted) {

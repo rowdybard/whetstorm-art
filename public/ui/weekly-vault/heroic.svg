@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+<defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#c49446"/><stop offset="1" stop-color="#604029"/></linearGradient><linearGradient id="door" x2="1" y2="1"><stop stop-color="#edb951"/><stop offset="1" stop-color="#604029"/></linearGradient></defs>
+<path d="M22 227V100C22 40 67 15 128 15s106 25 106 85v127z" fill="#604029" stroke="#ffe19a" stroke-width="5"/>
+<path d="M33 222V103c0-50 37-77 95-77s95 27 95 77v119z" fill="url(#wall)"/>
+<path d="M51 222V106c0-44 31-66 77-66s77 22 77 66v116z" fill="#171e27" stroke="#ffe19a" stroke-width="5"/>
+<path d="M62 218V107c0-35 24-56 66-56s66 21 66 56v111z" fill="url(#door)" stroke="#ffe19a" stroke-width="3"/>
+<path d="M128 53v165M72 111h112M72 195h112" fill="none" stroke="#604029" stroke-width="5"/>
+<path d="M76 100c5-24 24-37 44-39M180 100c-5-24-24-37-44-39" fill="none" stroke="#ffe19a" stroke-width="3" opacity=".7"/>
+<path d="M79 122h34v59H79zM143 122h34v59h-34z" fill="none" stroke="#ffe19a" stroke-width="3" opacity=".55"/>
+<path d="M128 109l6 17 17 3-13 11 3 17-13-9-13 9 3-17-13-11 17-3z" fill="#ffdc75" stroke="#fff1bf" stroke-width="3"/>
+<path d="M19 221h218v15H19z" fill="#604029" stroke="#ffe19a" stroke-width="4"/><path d="M32 94h15M209 94h15M32 151h15M209 151h15M32 195h15M209 195h15" stroke="#ffe19a" stroke-width="4" opacity=".65"/>
+</svg>
