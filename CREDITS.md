@@ -1120,6 +1120,22 @@ generated with OpenAI's built-in image generation. Prompts and hashes are
 recorded in `docs/whetstorm/final-trinket-generation.json` and
 `docs/design/whetstorm-art/deeds/farming-milestones/provenance.md`.
 
+Four Crucible helm and shoulder sigil paintings were generated with OpenAI's
+built-in image generation; prompts and hashes are recorded in
+`docs/whetstorm/crucible-sigil-helm-shoulder-generation.json`.
+
+Five Crucible encounter deed paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/deed-crucible-five-generation.json`.
+
+Three apex feast recipe paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/apex-feast-recipes/provenance.md`.
+
+Four Reliquary curator-rank deed paintings were generated with OpenAI's
+built-in image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/deeds/curator-ranks/provenance.json`.
+
 Four Wildheart and rare-hunt deed paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in
 `docs/whetstorm/deed-wildheart-rares-generation.json`.

@@ -1,0 +1,40 @@
+{
+  "generator": "OpenAI built-in image generation, four separate text-only prompts, no image references",
+  "purpose": "Visual upgrade from original procedural collection category crest.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Production deed lookup integrated and focused checks passed; in-game review pending.",
+  "entries": [
+    {
+      "id": "col_reliquary_rank_2",
+      "prompt": "Original opaque square fantasy MMO achievement crest: a single worn bronze reliquary key on a compact engraved keeper's seal, celebrating a collector's first meaningful collection. Centered readable silhouette, premium hand-painted, warm top-left light and deep charcoal vignette. No text, numbers, borders, people, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/deeds/curator-ranks/col_reliquary_rank_2.png",
+      "sourceSha256": "a7a3eb752a78821befb0d369477e9ffca6c66e0c04249d9f584f21997f508627",
+      "output": "public/ui/whetstorm/deeds/col_reliquary_rank_2.webp",
+      "outputSha256": "b4678431274cf63c28125539bd1482e9ec43a1da82db4c48a3c0136a2596e228"
+    },
+    {
+      "id": "col_reliquary_rank_3",
+      "prompt": "Original opaque square fantasy MMO achievement crest: a small open catalog book with a magnifying lens and one luminous blue gemstone, celebrating a practiced relic cataloguer. Compact centered silhouette, premium hand-painted, warm top-left light and deep charcoal vignette. Blank pages, no text, numbers, borders, people, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/deeds/curator-ranks/col_reliquary_rank_3.png",
+      "sourceSha256": "9f8c8a4fe5e9702704e5a7a2c6232936426432cd1e5205ff0ae886ef7f4886b4",
+      "output": "public/ui/whetstorm/deeds/col_reliquary_rank_3.webp",
+      "outputSha256": "d4dfa4eb6b5fd72f9e652038db72ee7f63b0f7d1d0df73db62251bd2f0345910"
+    },
+    {
+      "id": "col_reliquary_rank_4",
+      "prompt": "Original opaque square fantasy MMO achievement crest: an ornate gold reliquary chest opened to reveal several distinct jewels and artifacts, celebrating an accomplished curator's collection. Compact centered silhouette, premium hand-painted, warm top-left light and deep charcoal vignette. No text, numbers, borders, people, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/deeds/curator-ranks/col_reliquary_rank_4.png",
+      "sourceSha256": "2314adbf63f5bb103a87b8f519c4c1db8f0e8e3965f02c00475f10a32155820b",
+      "output": "public/ui/whetstorm/deeds/col_reliquary_rank_4.webp",
+      "outputSha256": "462cdc41c1eeb590904cf62ecd58cbcc6939a8c25e347736cb00ee03bca7ff86"
+    },
+    {
+      "id": "col_reliquary_rank_5",
+      "prompt": "Original opaque square fantasy MMO achievement crest: a majestic gold and silver reliquary crown surrounding a brilliant violet crystal, radiating restrained luminous rays, celebrating an eternal curator's extensive collection. Compact centered silhouette, premium hand-painted, warm top-left light and deep charcoal vignette. No text, numbers, borders, people, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/deeds/curator-ranks/col_reliquary_rank_5.png",
+      "sourceSha256": "cbb35b553ff2d758ab0c470f78082881b20e67ef6bb34a86266b12d1410e80a9",
+      "output": "public/ui/whetstorm/deeds/col_reliquary_rank_5.webp",
+      "outputSha256": "59a0909c653d2fcf118cbf67377f82940720267fb5708d52c0375225a53cc036"
+    }
+  ]
+}

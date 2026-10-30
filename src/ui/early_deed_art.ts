@@ -15,6 +15,7 @@ import { craftSkillFinishDeedImageUrl } from './craft_skill_finish_deed_art';
 import { craftSkillsDeedImageUrl } from './craft_skills_deed_art';
 import { creelArenaDeedImageUrl } from './creel_arena_deed_art';
 import { cryptChallengeDeedImageUrl } from './crypt_challenge_deed_art';
+import { curatorRankDeedImageUrl } from './curator_rank_deed_art';
 import { delveChallengeDeedImageUrl } from './delve_challenge_deed_art';
 import { delveCompanionDeedImageUrl } from './delve_companion_deed_art';
 import { delveDiscoveryDeedImageUrl } from './delve_discovery_deed_art';
@@ -82,6 +83,7 @@ const EARLY_DEED_ART = new Map<string, string>([
 export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
+    curatorRankDeedImageUrl(id) ??
     factionStandingDeedImageUrl(id) ??
     farmingMilestoneDeedImageUrl(id) ??
     rareCraftDeedImageUrl(id) ??

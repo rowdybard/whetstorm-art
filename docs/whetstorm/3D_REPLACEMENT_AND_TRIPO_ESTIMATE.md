@@ -115,6 +115,35 @@ credits records inspected. Obtain that evidence or use independently cleared
 skies; merely adding an attribution would not establish permission. The four
 sky families are not counted in the 56-file GLB inventory below.
 
+### Encounter model provenance
+
+The character manifest maps the Ignivar boss to
+`public/models/creatures/ignivar_herald.glb` and Heart of the End to
+`public/models/creatures/ignivar_ashcaller.glb`. `CREDITS.md` separately records
+both contributor-provided models as `With the project only`. The raid automata
+`crucible_warden.glb`, `ember_sentinel.glb`, and `cinder_artificer.glb` in the
+same directory have their own contributor-handoff row with the same category.
+These are not classified as permission-required by the separate restricted
+concept-art or voice-line credits.
+
+Varkhul maps to `public/models/creatures/varkhul_forgefather.glb`.
+`scripts/assets/specs/varkhul_forgefather.json` identifies a maintainer-local
+source and processing, but the inspected credit register does not establish
+that model's owner or terms. The Varkhul voice, concept, and
+`varkhul_grand_forge` prop records concern different assets. Resolve this
+model's provenance before selecting a disposition; do not assign a license by
+association.
+
+Nythraxis maps to `skel_golem`, which uses
+`public/models/enemies/skeleton_golem.glb` and the separate
+`public/models/enemies/skeleton_golem_anims.glb` donor. The credits list KayKit
+skeleton models and animations as CC0, but the custom animation donor's lineage
+needs separate verification. The separately credited Nythraxis bone spike is a
+project-only prop, not the boss body. The Ignivar, Ashcaller, and Varkhul GLBs
+were present in the reference checkout and absent from the partial art worktree;
+that absence does not establish downstream package contents. These observations
+do not add confirmed permission-required models to the counts below.
+
 ## What must be resolved
 
 The current credits register marks the following 16 named, tracked GLB files

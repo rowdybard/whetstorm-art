@@ -1,0 +1,68 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputs": "No reference images",
+  "processing": "Sharp 128x128 opaque WebP quality 88 effort 6",
+  "entries": [
+    {
+      "id": "dgn_ignivar",
+      "path": "public/ui/whetstorm/deeds/dgn_ignivar.webp",
+      "bytes": 4794,
+      "sha256": "00b9bbd30e6de6b12c4a43074d451c1c11135868f4f17f1acd32fdea17ebbb3e",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/crucible-five/dgn_ignivar.png",
+        "bytes": 2108664,
+        "sha256": "1e3339e376415bb02a800576b927165e20323d86b2ac6bfc62e0111465279883"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A single bright orange flame rising from a dark iron brazier, against deep charcoal, for a fire herald's defeat. Hand-painted dark fantasy illustration, simple bold centered silhouette, vivid contrast and readable at 28 pixels. No lettering, numerals, frame, logo or watermark."
+    },
+    {
+      "id": "dgn_ignivar_heroic",
+      "path": "public/ui/whetstorm/deeds/dgn_ignivar_heroic.webp",
+      "bytes": 6266,
+      "sha256": "ac9f68e5ac5afd9442f01f5b1f30f6e4547310582d0c0a88874815a0ce6453dc",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/crucible-five/dgn_ignivar_heroic.png",
+        "bytes": 2021176,
+        "sha256": "a457b41ceb6be896feff2d0093a32e80d5226b8c557618355218cd4f7e0d80eb"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A single bright white-gold flame rising from an ornate violet iron brazier, with a large gold star above it, for a heroic fire herald victory. Hand-painted dark fantasy illustration, simple bold centered silhouette, vivid contrast and readable at 28 pixels. No lettering, numerals, frame, logo or watermark."
+    },
+    {
+      "id": "dgn_varkhul",
+      "path": "public/ui/whetstorm/deeds/dgn_varkhul.webp",
+      "bytes": 7366,
+      "sha256": "7856b22b4ffc1f9512960b9e0b181057730243ff35b8e9395c2d44497ddafa37",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/crucible-five/dgn_varkhul.png",
+        "bytes": 2511538,
+        "sha256": "9d4bfc09b765b41ca42e49ad9542b85fcf0d7163c8bdbf4a6cfed1821d6bdbc2"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A heavy iron smith's hammer striking an anvil, scattering orange sparks, on a dark ember background. Hand-painted dark fantasy illustration, simple bold centered silhouette, vivid contrast and readable at 28 pixels. No lettering, numerals, frame, logo or watermark."
+    },
+    {
+      "id": "dgn_varkhul_heroic",
+      "path": "public/ui/whetstorm/deeds/dgn_varkhul_heroic.webp",
+      "bytes": 6584,
+      "sha256": "c55f68e9f4dc628a751610ab8f3e7de94a60d561b46d1d500242630a500b0a5f",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/crucible-five/dgn_varkhul_heroic.png",
+        "bytes": 2369395,
+        "sha256": "221e8dedc8854af7fe275dab1d0497cf359d0ebb37ae7eea31a19caf71606eda"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A golden smith's hammer striking an anvil with a bright four-point star above, against dark violet, for a heroic forge victory. Hand-painted dark fantasy illustration, simple bold centered silhouette, vivid contrast and readable at 28 pixels. No lettering, numerals, frame, logo or watermark."
+    },
+    {
+      "id": "dgn_varkhul_flawless",
+      "path": "public/ui/whetstorm/deeds/dgn_varkhul_flawless.webp",
+      "bytes": 6964,
+      "sha256": "bb4f4429bea70639270e52a4843a57c33794098dec3cc89e0757dea9a3d8876e",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/crucible-five/dgn_varkhul_flawless.png",
+        "bytes": 2576220,
+        "sha256": "4f21a218573c71b2643e4f3f7d04fa0c62fc1afe91a6eb3bcf84655ed5ff6a2f"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A bright silver shield with a gold smith's hammer emblem and a small complete ring of five gold stars around it, dark blue backdrop, conveying a flawless team victory. Hand-painted dark fantasy illustration, simple bold centered silhouette, vivid contrast and readable at 28 pixels. No lettering, numerals, frame, logo or watermark."
+    }
+  ]
+}

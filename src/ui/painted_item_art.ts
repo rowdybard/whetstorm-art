@@ -2,6 +2,7 @@ import { alchemyBottlesItemImageUrl } from './alchemy_bottles_item_art';
 import { anvilHeartItemImageUrl } from './anvil_heart_item_art';
 import { anvilSigilsItemImageUrl } from './anvil_sigils_item_art';
 import { apexFlasksItemImageUrl } from './apex_flasks_item_art';
+import { apexFeastRecipeItemImageUrl } from './apex_feast_recipe_item_art';
 import { armorBatchEightItemImageUrl } from './armor_batch_eight_item_art';
 import { armorBatchElevenItemImageUrl } from './armor_batch_eleven_item_art';
 import { armorBatchFifteenItemImageUrl } from './armor_batch_fifteen_item_art';
@@ -49,6 +50,7 @@ import { craftedGroupFeastsItemImageUrl } from './crafted_group_feasts_item_art'
 import { craftedReagentBagsItemImageUrl } from './crafted_reagent_bags_item_art';
 import { craftedScrollsItemImageUrl } from './crafted_scrolls_item_art';
 import { craghornIceveinItemImageUrl } from './craghorn_icevein_item_art';
+import { crucibleSigilItemImageUrl } from './crucible_sigil_item_art';
 import { crozierSparksItemImageUrl } from './crozier_sparks_item_art';
 import { dawnForgeItemImageUrl } from './dawn_forge_item_art';
 import { dawnforgedArmorItemImageUrl } from './dawnforged_armor_item_art';
@@ -273,6 +275,8 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    apexFeastRecipeItemImageUrl(id) ??
+    crucibleSigilItemImageUrl(id) ??
     heroicTrinketItemImageUrl(id) ??
     recipeScrollBatchItemImageUrl(id) ??
     recipeScrollProvisionsItemImageUrl(id) ??

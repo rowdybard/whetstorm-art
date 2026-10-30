@@ -5556,11 +5556,6 @@ export const DEED_ART_PENDING: ReadonlySet<string> = new Set([
   'soc_strongbox_outfitter',
   'soc_four_bags_deep',
   'prog_ready_for_an_adventure',
-  'dgn_ignivar',
-  'dgn_ignivar_heroic',
-  'dgn_varkhul',
-  'dgn_varkhul_heroic',
-  'dgn_varkhul_flawless',
   // Hidden self-craft celebration; 512px RGBA commission brief in docs/achievements/icon-brief.md.
   'hid_forgebreaker',
   // Arcane Calligraphy's completion deed uses the exploration category crest.

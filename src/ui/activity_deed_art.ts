@@ -24,6 +24,11 @@ const ACTIVITY_DEED_ART = new Map<string, string>([
   ['chr_hollow_rares', '/ui/whetstorm/deeds/chr_hollow_rares.webp'],
   ['dgn_wildheart_basin', '/ui/whetstorm/deeds/dgn_wildheart_basin.webp'],
   ['dgn_wildheart_basin_heroic', '/ui/whetstorm/deeds/dgn_wildheart_basin_heroic.webp'],
+  ['dgn_ignivar', '/ui/whetstorm/deeds/dgn_ignivar.webp'],
+  ['dgn_ignivar_heroic', '/ui/whetstorm/deeds/dgn_ignivar_heroic.webp'],
+  ['dgn_varkhul', '/ui/whetstorm/deeds/dgn_varkhul.webp'],
+  ['dgn_varkhul_heroic', '/ui/whetstorm/deeds/dgn_varkhul_heroic.webp'],
+  ['dgn_varkhul_flawless', '/ui/whetstorm/deeds/dgn_varkhul_flawless.webp'],
 ]);
 
 export function activityDeedImageUrl(id: string): string | null {
