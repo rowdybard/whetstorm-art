@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "chr_vale_rares",
+      "master": "docs/design/whetstorm-art/deeds/chr_vale_rares.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square full-bleed hand-painted fantasy MMORPG achievement icon for overcoming five named terrors of a forest valley: a weathered hunter's trophy board bearing five distinct small silhouettes, a wolf fang, goblin mask, skull, captain's hat and spectral lantern. Rich dark forest background fills every corner. Bold large shapes readable at 32 pixels. No text, letters, numerals, logos, watermark, border, or imitation of other games or artists.",
+      "masterSha256": "dc38fff1fc83a4f6e882c49286069eaf3755bf5c5cf13622baa4ebde7a5f53b0",
+      "shipping": "public/ui/whetstorm/deeds/chr_vale_rares.webp",
+      "shippingSha256": "9240ea3751e984bdf34f117a49f85e80732685762ab430172b4d80c3b626137b",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "chr_marsh_unburst",
+      "master": "docs/design/whetstorm-art/deeds/chr_marsh_unburst.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square full-bleed hand-painted fantasy MMORPG achievement icon for safely defeating poisonous bog creatures: a vivid green spore cloud behind a small stout wooden shield and a broken mushroom cap. Dark marsh background fills every corner, bold readable silhouette at 32 pixels. No text, letters, numerals, logos, watermark, border, or imitation of other games or artists.",
+      "masterSha256": "40086e0fec78cf1409997acaa9087523bc10f290dcae932c3252d427eca5fbdd",
+      "shipping": "public/ui/whetstorm/deeds/chr_marsh_unburst.webp",
+      "shippingSha256": "9827f0b94ca266e6ee1d6ab19bad6111748e8a7dd53783f8a478596588d8e3dc",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_true_colors",
+      "master": "docs/design/whetstorm-art/deeds/col_true_colors.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square full-bleed hand-painted fantasy MMORPG achievement icon for changing one's appearance: a colorful embroidered traveler cloak and hood displayed on a simple wooden stand with a small polished mirror. Dark warm background fills every corner, bold readable silhouette at 32 pixels. No text, letters, numerals, logos, watermark, border, or imitation of other games or artists.",
+      "masterSha256": "7a7c4796c8111362f512bf12ede62bcebd468f4d9818e630fcf029daf8b7f17b",
+      "shipping": "public/ui/whetstorm/deeds/col_true_colors.webp",
+      "shippingSha256": "b156e0fd33f83462b7da300c8c745fad323b31cbf5f17b2d6babeaa3ded2f2e4",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_junk_drawer",
+      "master": "docs/design/whetstorm-art/deeds/col_junk_drawer.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square full-bleed hand-painted fantasy MMORPG achievement icon for collecting unusual discarded objects: a wooden drawer overflowing with a bent spoon, cracked cup, rusty key and worn boot. Dark warm background fills every corner, bold readable silhouette at 32 pixels. No text, letters, numerals, logos, watermark, border, or imitation of other games or artists.",
+      "masterSha256": "aae4922a04fb6e648953825cbcbb7cd94d9ed0b7a47bf76c8454d5481c2fbd46",
+      "shipping": "public/ui/whetstorm/deeds/col_junk_drawer.webp",
+      "shippingSha256": "01c718daac83e7bab17eacf43c6e8e80507a482515fec34b3f8b9938fc36ac20",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}
