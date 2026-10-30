@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "pvp_arena_2v2_1600",
+      "master": "docs/design/whetstorm-art/deeds/pvp_arena_2v2_1600.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for a two-person arena rating milestone: two bronze gladiator helmets side by side over crossed swords in a sunlit sandy arena. Strong simple shapes readable at 32 pixels. Background fills every corner. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "553523278f4154d752fce65ae5382551d973ca8f863b088752564853dce1fd68",
+      "shipping": "public/ui/whetstorm/deeds/pvp_arena_2v2_1600.webp",
+      "shippingSha256": "b7ac2801560a3614594b043a0cc2cc075bf834455cc86e17d6224a3ea69a295d",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "pvp_arena_2v2_1750",
+      "master": "docs/design/whetstorm-art/deeds/pvp_arena_2v2_1750.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for an accomplished two-person arena team: two silver gladiator helmets side by side, one red plume and one blue plume, framed by a silver laurel in a sunlit sandy arena. Strong simple shapes readable at 32 pixels. Background fills every corner. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "3cdbf3959f43a44753442c647b5b7376cb5111253da24d80675a01ff98fb23ee",
+      "shipping": "public/ui/whetstorm/deeds/pvp_arena_2v2_1750.webp",
+      "shippingSha256": "379b34d5e417955e37b1a4d91acb3b397a075d07f0f0164550f9002b0e836694",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "pvp_arena_2v2_1900",
+      "master": "docs/design/whetstorm-art/deeds/pvp_arena_2v2_1900.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for the highest two-person arena rating: two gold gladiator helmets side by side, crimson and blue plumes, framed by a glowing gold laurel wreath against a sunlit arena. Strong simple shapes readable at 32 pixels. Background fills every corner. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "6ab98ef531ef2bb98ed7ec0383dd774c0657daada1bb5a83c70e0c5429ef52ed",
+      "shipping": "public/ui/whetstorm/deeds/pvp_arena_2v2_1900.webp",
+      "shippingSha256": "9e6f14914687962144e45b90683929b33852834860b20bbb5fd46c4abb21b1e3",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_seven_regalia",
+      "master": "docs/design/whetstorm-art/deeds/col_seven_regalia.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for discovering seven epic armor families: an open wooden wardrobe displaying seven distinct miniature armor silhouettes in different colors arranged in a clear row, with golden light in a dark armory. Strong simple shapes readable at 32 pixels. Background fills every corner. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "31440e1f471a6160140f4b4a41315eb793e0cb988dcc137acef669499a686c76",
+      "shipping": "public/ui/whetstorm/deeds/col_seven_regalia.webp",
+      "shippingSha256": "5bd5416d98106de71085e17d5b54564f2cea6e42a37c9ff734a9d0d273308b2f",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}
