@@ -259,11 +259,10 @@ const ICONS: Record<UiIconName, string> = {
   // chrome glyph so it tints with the error text token.
   alert:
     '<path d="M256 62 L472 438 H40 Z" fill="none" stroke="currentColor" stroke-width="40" stroke-linejoin="round"/><path d="M256 186v118" stroke="currentColor" stroke-width="44" stroke-linecap="round"/><circle cx="256" cy="374" r="28"/>',
-  // Whetstorm maker's mark: the exact project-owned calligraphic
-  // stroke used beside a crafted copy's provenance line. Unlike the filled
-  // chrome glyphs above, this mark is intentionally an open currentColor line.
+  // Original Whetstorm maker's mark: a broad pen nib and short signature
+  // stroke, kept distinct from the enchant spark and the bond links at 12px.
   'makers-mark':
-    '<path d="M82 390C126 341 151 273 157 204C162 156 213 139 249 168C284 196 274 247 236 262C204 274 177 253 178 220C204 276 258 326 323 340C364 349 397 329 426 296C393 365 315 400 231 382C171 369 122 363 82 390" fill="none" stroke="currentColor" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/>',
+    '<path fill-rule="evenodd" d="M116 318 282 88l142 142-230 166-96 20z M164 329l142-142 20 20-142 142z"/><path d="M236 420h192" fill="none" stroke="currentColor" stroke-width="42" stroke-linecap="round"/>',
   // hand-authored enchant rune (the bag grid's enchanted-copy corner glyph): a
   // four-point arcane spark with a small orbiting mote, so it reads as "magic
   // was worked on this" at the ~12px corner size and stays tellable apart from

@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "frost_armor",
+      "path": "public/ui/whetstorm/abilities/frost_armor.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy game ability icon painting, Hoarfrost Mantle: an empty dark steel mage chestplate encased in pale crystalline frost, snow crystals curling around shoulders. Bold central silhouette, painterly dramatic cyan light, dark deep-blue backdrop, readable at 32px. Edge-to-edge opaque image, no letters, numbers, borders, watermarks or UI.",
+      "sha256": "829fe5e17bdf82390c98d5f548b05105511769940bcf91c0571a231601f87ec8",
+      "bytes": 7854,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/frost_armor.png",
+        "sha256": "f6f79053408992764f083bcab1a6aa47686851a416c69816db5fbd337cb510ac",
+        "bytes": 3245144
+      }
+    },
+    {
+      "id": "arcane_intellect",
+      "path": "public/ui/whetstorm/abilities/arcane_intellect.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy game ability icon painting, Aether Insight: one luminous violet arcane eye formed from a ring of floating angular crystalline motes, symbolizing heightened intellect, against a deep indigo magical haze. Bold central silhouette, painterly fantasy style, readable at 32px. Edge-to-edge opaque image, no letters, numbers, borders, watermarks or UI.",
+      "sha256": "922caf100fb8f2088397ec97507f0df4ab08dd8f3d48fde6c688476afcc82754",
+      "bytes": 6182,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/arcane_intellect.png",
+        "sha256": "3aa70af3a7ec39e754091eb640e4c2737d98699560b7f19f570d87c9544803c0",
+        "bytes": 2636683
+      }
+    },
+    {
+      "id": "conjure_water",
+      "path": "public/ui/whetstorm/abilities/conjure_water.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy game ability icon painting, Waterbind: two clear glass bottles filled with bright blue water, hovering together as arcane light conjures them from mist, deep blue background. Bold central silhouettes, painterly fantasy style, readable at 32px. Edge-to-edge opaque image, no letters, numbers, borders, watermarks or UI.",
+      "sha256": "751f3ecb77edb6ae0087374228e4523bf81727a23dfa3fdc888cc0541342e712",
+      "bytes": 6346,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/conjure_water.png",
+        "sha256": "3ab8a584ea98704edaa517a967baa7839ee9669ef69a603ba7117586db6e1f6b",
+        "bytes": 2354312
+      }
+    },
+    {
+      "id": "ice_block",
+      "path": "public/ui/whetstorm/abilities/ice_block.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy game ability icon painting, Cold Coffin: a solitary anonymous mage silhouette suspended in a massive faceted translucent ice block, icy light and frost against deep blue. Bold central silhouette, painterly fantasy style, readable at 32px. Edge-to-edge opaque image, no letters, numbers, borders, watermarks or UI.",
+      "sha256": "9c04759098ba7029e0742c802083a63287f9c1118aa5c31141023187979378f9",
+      "bytes": 7652,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/ice_block.png",
+        "sha256": "5c2281417f6d9b5369d44df10184150a2877a76a600e3cbb685e0c81e5bacd3c",
+        "bytes": 3275148
+      }
+    }
+  ]
+}

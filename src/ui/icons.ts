@@ -5717,6 +5717,13 @@ export function cachedProceduralIconDataUrl(
   return urlCache.get(proceduralIconCacheKey(kind, id, size)) ?? null;
 }
 
+const HUNTER_CORE_ART = new Map<string, string>([
+  ['arcane_shot', '/ui/whetstorm/abilities/hunter_core_arcane_shot.webp'],
+  ['concussive_shot', '/ui/whetstorm/abilities/hunter_core_concussive_shot.webp'],
+  ['aimed_shot', '/ui/whetstorm/abilities/hunter_core_aimed_shot.webp'],
+  ['serpent_sting', '/ui/whetstorm/abilities/hunter_core_serpent_sting.webp'],
+]);
+
 function originalArt(kind: IconKind, id: string, size = DEFAULT_ICON_SIZE): string {
   if (kind === 'aura') {
     const auraArt = whetstormAuraImageUrl(id);
@@ -5732,6 +5739,8 @@ function originalArt(kind: IconKind, id: string, size = DEFAULT_ICON_SIZE): stri
     }
   }
   if (kind === 'ability' || kind === 'aura') {
+    const hunterCore = HUNTER_CORE_ART.get(id);
+    if (hunterCore) return hunterCore;
     const launch = launchAbilityImageUrl(id);
     if (launch) return launch;
     const warriorSignature = whetstormWarriorSignatureImageUrl(id);
