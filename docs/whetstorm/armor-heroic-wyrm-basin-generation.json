@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "wyrmchoir_handwraps",
+      "file": "docs/design/whetstorm-art/items/wyrmchoir_handwraps.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject with safe margins, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, mannequin, photorealism, or copied game designs. Subject: Wyrmchoir Handwraps: one compact natural pair of mail gloves, pale steel chainmail and dark violet cloth cuffs, with restrained bone-colored serpentine stitching, both complete.",
+      "status": "full-size and small-size visual review; in-game review pending",
+      "sha256": "1a60fccdd314d1778578585138c2ff03ebcc9853cce553fdb6a8f5bf59e421d2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmchoir_handwraps.webp",
+        "sha256": "62c4e68098931a8a833046bde51babdb28ba189e0b20c8e90dd5bfffad6468df",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "lunarward_cinch",
+      "file": "docs/design/whetstorm-art/items/lunarward_cinch.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject with safe margins, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, mannequin, photorealism, or copied game designs. Subject: Lunarward Cinch: one leather waist belt coiled in a clear oval, supple blue-gray tanned hide, a small crescent silver buckle and subtle stitching, complete and padded.",
+      "status": "full-size and small-size visual review; in-game review pending",
+      "sha256": "bfe604977580577f2fe4560174243600b9c9792a99b70bd0eccc917200091a60",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/lunarward_cinch.webp",
+        "sha256": "5f5726bb2cc8e19b0d946fbe14d882eec6a1e094987c88124a53d2e43641cb3d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "stormbark_mantle",
+      "file": "docs/design/whetstorm-art/items/stormbark_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject with safe margins, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, mannequin, photorealism, or copied game designs. Subject: Stormbark Mantle: one symmetrical pair of leather shoulder guards, textured dark brown bark-like tanned leather with restrained storm-blue stitching and simple bronze fittings, empty neck opening, no body.",
+      "status": "full-size and small-size visual review; in-game review pending",
+      "sha256": "b68bb97d3d32680a4a63edc6af1b6f7997ea1a8747799854946455fdbb6e8b75",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormbark_mantle.webp",
+        "sha256": "c36385a87995fb4b31ef074ed199eef13bf103fbd0630137f9febdccf7083e6f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "basin_stalkers_tunic",
+      "file": "docs/design/whetstorm-art/items/basin_stalkers_tunic.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject with safe margins, readable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, mannequin, photorealism, or copied game designs. Subject: Basin Stalker's Tunic: a complete front-facing leather chest tunic in weathered deep forest green and brown tanned hide, simple overlapping panels and leaf-shaped stitching, empty neck opening and no body.",
+      "status": "full-size and small-size visual review; in-game review pending",
+      "sha256": "42c5db873c198b46d4f9f71729fa1702bdf1634babab67834903a3c0392b3269",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/basin_stalkers_tunic.webp",
+        "sha256": "80482f3dc00bebb3a302ecce6bc2753aeaea2b24421fe90b3c12b6af9eb06bdf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

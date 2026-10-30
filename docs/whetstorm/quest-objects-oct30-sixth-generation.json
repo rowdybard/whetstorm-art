@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "monument_overlook",
+      "file": "docs/design/whetstorm-art/items/monument_overlook.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for monument_overlook, a Weathered Monument quest object. One complete upright broad weathered sandstone monument, gently rounded top, with shallow worn horizontal carved grooves and chipped edges, on a small rocky plinth, centered on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No readable text, letters, runes, border, logos, watermark, people, photorealism, or copied game designs.",
+      "sha256": "689373c89793963acf4f3812effffac00b63c9ed79b5e64a6d037858661a62df",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/monument_overlook.webp",
+        "sha256": "4d77ce1586a81458912a438fe5e61f8c634ff9574de767c7f4ddd7923f4ad152",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "monument_court",
+      "file": "docs/design/whetstorm-art/items/monument_court.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for monument_court, a Sunken Monument quest object. One complete short teal-gray stone monument partly submerged in a shallow pool, broad square top and a simple carved circular relief, a little water and moss at its base, centered on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No readable text, letters, runes, border, logos, watermark, people, photorealism, or copied game designs.",
+      "sha256": "2d1323076c9b53996149790558c2ee16a2993f5051b428329b8432d7dfd0cbd5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/monument_court.webp",
+        "sha256": "80490e4d2c30c4c3acc0e0713ecf5319c6af73aa6e30e5951a4d1486ff3f82e2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "monument_north",
+      "file": "docs/design/whetstorm-art/items/monument_north.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for monument_north, a Forgotten Monument quest object. One complete narrow dark gray ancient stone obelisk with a broken angled tip, a single large pale diamond-shaped inset and a few vines at its base, centered on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No readable text, letters, runes, border, logos, watermark, people, photorealism, or copied game designs.",
+      "sha256": "4d890512b96771224062646725d8e9b4e3de4a82b275328270d9776d17a5d6ec",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/monument_north.webp",
+        "sha256": "0b66539185a13a7df4668ce3c37dfb7d9036852cd65899d2a52c87c7ddd0b701",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "leyline_cache",
+      "file": "docs/design/whetstorm-art/items/leyline_cache.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for leyline_cache, a Miniature Ley Cache quest object. One complete small round blue-gray stone coffer with a fitted lid and a single luminous cyan crystal inset in the top, broad bronze bands and a simple clasp, shown in three-quarter view centered on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No text, letters, runes, border, logos, watermark, people, extra objects, photorealism, or copied game designs.",
+      "sha256": "fdf54a51439089f443a254d35e591155511da07a0fe5ce1a3655eff502b021be",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/leyline_cache.webp",
+        "sha256": "cbfb8127ea72d6579e175ec15f0a9b44dc5eb79587a0fa28bc7137432cb6f29b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -244,12 +244,14 @@ import { weaponBatchTwentythreeItemImageUrl } from './weapon_batch_twentythree_i
 import { wildsWeaponItemImageUrl } from './wilds_weapon_item_art';
 import { wovenBagsItemImageUrl } from './woven_bags_item_art';
 import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
+import { wyrmBasinMonumentsItemImageUrl } from './wyrm_basin_monuments_item_art';
 import { zealfireArmorItemImageUrl } from './zealfire_armor_item_art';
 import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    wyrmBasinMonumentsItemImageUrl(id) ??
     choirGraveIgnivarItemImageUrl(id) ??
     heroicCourtHoardItemImageUrl(id) ??
     oct30ThirdOriginalItemImageUrl(id) ??
