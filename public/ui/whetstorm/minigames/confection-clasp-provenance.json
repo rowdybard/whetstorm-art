@@ -1,0 +1,16 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "source": "OpenAI built-in image generation, text only",
+  "prompt": "Use case: stylized-concept. Asset: original fantasy confectioner's coffer clasp artwork for a game UI, seen in a wide oval crop at 224 by 98 pixels. Create a centered horizontal antique brass lock plate with a bold dark keyhole in the middle, subtle embossed curling sugar-vine ornament and a small candy-diamond motif on each side, warm gold highlights and dark aged bronze recesses. Straight-on orthographic view, painterly handcrafted game art, crisp silhouette readable at small size. Fill the frame with textured aged bronze behind the plate so the center oval crop has no blank areas. No text, letters, logos, watermark or interface.",
+  "processing": "768px wide WebP, sharp quality 82, effort 6",
+  "path": "public/ui/whetstorm/minigames/confection-clasp.webp",
+  "sha256": "6d17d0047994492bf826bffcb4bd67ed56e56bc623378b74c03eaed319857874",
+  "bytes": 66302,
+  "master": {
+    "path": "docs/design/whetstorm-art/minigames/confection-clasp.png",
+    "sha256": "fa1f455958bceab350a3a76af74a2601b212efe280987521876255898ba1c90e",
+    "bytes": 2813599
+  }
+}

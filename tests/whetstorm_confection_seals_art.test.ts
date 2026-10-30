@@ -50,3 +50,17 @@ it('uses the matching seals with the existing responsive and forced-colors behav
     /@media \(forced-colors: active\)[\s\S]*?\.wqm-result-emblem svg\s*\{\s*visibility: visible;/,
   );
 });
+
+it('routes each remaining Confection decorative image to original artwork', () => {
+  const ui = readFileSync('src/ui/world_quest_confection_window.ts', 'utf8');
+  for (const [property, file] of [
+    ['--wqm-wood-texture', 'confection-walnut-original.webp'],
+    ['--wqm-frame-art', 'confection-frame-original.webp'],
+    ['--wqm-clasp-art', 'confection-clasp.webp'],
+    ['--wqm-crest-art', 'confection-jewel-crest.webp'],
+    ['--wqm-hinge-art', 'confection-hinge-original.webp'],
+  ]) {
+    expect(ui).toContain(`'${property}': '/ui/whetstorm/minigames/${file}'`);
+    expect(readFileSync(`public/ui/whetstorm/minigames/${file}`).length).toBeGreaterThan(0);
+  }
+});

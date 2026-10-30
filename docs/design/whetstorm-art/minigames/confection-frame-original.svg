@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffe3a0"/><stop offset=".28" stop-color="#d99c4f"/><stop offset=".6" stop-color="#8c4d22"/><stop offset="1" stop-color="#f3c778"/></linearGradient>
+    <g id="corner">
+      <path d="M20 220V94Q20 20 94 20H220V48H96Q48 48 48 96V220Z" fill="#542910"/>
+      <path d="M33 220V95Q33 33 95 33H220M60 220V105Q60 60 105 60H220" fill="none" stroke="url(#gold)" stroke-width="10"/>
+      <path d="M76 175V111Q76 76 111 76H175" fill="none" stroke="#ffd79a" stroke-width="4"/>
+      <path d="M55 113Q65 70 112 55L99 83L125 99L97 99L83 125L82 99Z" fill="#e7ad60" stroke="#71391c" stroke-width="4"/>
+      <path d="M65 65L84 48L103 65L84 83Z" fill="#f5cc84" stroke="#8a4b26" stroke-width="5"/>
+      <circle cx="84" cy="65" r="5" fill="#fff0c4"/>
+      <path d="M112 28L128 19L144 28L128 37ZM28 112L19 128L28 144L37 128Z" fill="#f8d38c"/>
+    </g>
+  </defs>
+  <rect width="1024" height="1024" fill="#000"/>
+  <path d="M220 20H804V60H220ZM220 964H804V1004H220ZM20 220H60V804H20ZM964 220H1004V804H964Z" fill="#542910"/>
+  <path d="M220 33H804M220 60H804M220 964H804M220 991H804M33 220V804M60 220V804M964 220V804M991 220V804" fill="none" stroke="url(#gold)" stroke-width="9"/>
+  <path d="M220 42H804M220 982H804M42 220V804M982 220V804" fill="none" stroke="#ffd996" stroke-width="2"/>
+  <use href="#corner"/><use href="#corner" transform="translate(1024 0) scale(-1 1)"/><use href="#corner" transform="translate(0 1024) scale(1 -1)"/><use href="#corner" transform="translate(1024 1024) scale(-1 -1)"/>
+</svg>

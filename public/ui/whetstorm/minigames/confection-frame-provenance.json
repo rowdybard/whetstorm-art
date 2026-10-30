@@ -1,0 +1,16 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "source": "Original hand-authored SVG geometry, created for Whetstorm",
+  "processing": "1024x1024 WebP, sharp quality 90, effort 6",
+  "path": "public/ui/whetstorm/minigames/confection-frame-original.webp",
+  "sha256": "2d3e480bf0fc7535e88f2f1a291c1ed0c86913555a3a6be4743d886cadb67859",
+  "bytes": 18878,
+  "master": {
+    "path": "docs/design/whetstorm-art/minigames/confection-frame-original.svg",
+    "sha256": "7f6039951363b281fa8292369dfda68ca8bc34426ddedc28f95ee06f76f9bd51",
+    "bytes": 1671
+  }
+}
+

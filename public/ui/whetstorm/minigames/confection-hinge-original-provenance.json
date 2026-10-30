@@ -1,0 +1,14 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "source": "OpenAI built-in image generation, text only",
+  "prompt": "Use case: stylized-concept. Asset type: small decorative game UI image, displayed as a 70 by 44 pixel box hinge with screen blend. Create an original ornate antique brass confectionery box hinge, front view, a single horizontal symmetrical hinge with a strong central barrel and two broad rounded mounting plates, small visible rivets and simple embossed curls. Rich warm golden highlights, deep bronze shadows, crisp silhouette, hand-painted dark fantasy game art. Center it with generous margins on a pure solid black background. The subject should occupy the central two thirds of the image and remain recognizable at tiny size. No text, no logo, no frame, no surrounding objects.",
+  "processing": "384x256 lossless WebP, sharp resize and effort 6",
+  "path": "public/ui/whetstorm/minigames/confection-hinge-original.webp",
+  "sha256": "2751b4df3e53c5fe38b24cf7fab4a7d65a2161972282b8f1cbaee0f586ddb109",
+  "master": {
+    "path": "docs/design/whetstorm-art/minigames/confection-hinge-original.png",
+    "sha256": "f6eb4cb83cc2750bf77777e4c1cf710707d291a062eab64afc3c329120452373"
+  }
+}

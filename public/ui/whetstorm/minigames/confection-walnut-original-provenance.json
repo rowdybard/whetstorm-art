@@ -1,0 +1,22 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "source": "Original deterministic procedural periodic grain, authored for Whetstorm without reference images",
+  "processing": "1024x1024 RGB PNG master; 512x512 WebP at quality 90, effort 6, using sharp",
+  "runtime": {
+    "path": "public/ui/whetstorm/minigames/confection-walnut-original.webp",
+    "sha256": "a6917746553cc141d401c88a507576bb8021ba68a9078a5884f3f2df61da7db3",
+    "bytes": 18606
+  },
+  "master": {
+    "path": "docs/design/whetstorm-art/minigames/confection-walnut-original.png",
+    "sha256": "63945edc45f68bef9b6e1523b979d7b5009cf33228f54aa4f86f34de6f77f3eb",
+    "bytes": 295041
+  },
+  "generator": {
+    "path": "docs/design/whetstorm-art/minigames/confection-walnut-original.mjs",
+    "sha256": "8c129bfa8b2c69f2c4c8217fe0c45e4605092d605cecfdbee2df9a80b463396a",
+    "bytes": 1539
+  }
+}

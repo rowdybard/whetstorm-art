@@ -238,11 +238,11 @@ export class WorldQuestConfectionWindow {
 
   private loadArt(): void {
     for (const [property, path] of Object.entries({
-      '--wqm-wood-texture': '/ui/minigames/confection-walnut.webp',
-      '--wqm-frame-art': '/ui/minigames/confection-frame-v4.webp',
-      '--wqm-clasp-art': '/ui/minigames/confection-lock-v7.webp',
-      '--wqm-crest-art': '/ui/minigames/confection-jewels-v7.webp',
-      '--wqm-hinge-art': '/ui/minigames/confection-hinge-v4.webp',
+      '--wqm-wood-texture': '/ui/whetstorm/minigames/confection-walnut-original.webp',
+      '--wqm-frame-art': '/ui/whetstorm/minigames/confection-frame-original.webp',
+      '--wqm-clasp-art': '/ui/whetstorm/minigames/confection-clasp.webp',
+      '--wqm-crest-art': '/ui/whetstorm/minigames/confection-jewel-crest.webp',
+      '--wqm-hinge-art': '/ui/whetstorm/minigames/confection-hinge-original.webp',
       '--wqm-victory-seal-art': '/ui/whetstorm/minigames/confection-victory-seal.webp',
       '--wqm-defeat-seal-art': '/ui/whetstorm/minigames/confection-defeat-seal.webp',
     })) {

@@ -1,0 +1,18 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "source": "OpenAI built-in image generation, text only",
+  "prompt": "Use case: stylized-concept. Asset type: fantasy game UI jewel crest, a wide shallow decorative horizontal inlay for an oval brass mount. Create an original symmetrical arrangement of five large faceted confection-like jewels: central emerald green diamond, flanked by ruby red, violet and amber gemstones with delicate antique gold filigree. Rich polished dark fantasy game illustration, warm highlights, deep dark jewel facets. Composition: all meaningful decoration in a very wide narrow central horizontal band, centered; no surrounding frame, text, letters, logos, watermark, characters, or interface. Dark warm brown background fills the canvas. The central band must read clearly at 240 by 74 pixels.",
+  "processing": "960px wide WebP, sharp quality 82, effort 6",
+  "asset": {
+    "path": "public/ui/whetstorm/minigames/confection-jewel-crest.webp",
+    "sha256": "ca447df40b3b04abb5d7a9c6653036fd019908e2940d18683c2fb28329b5781e",
+    "bytes": 39934
+  },
+  "master": {
+    "path": "docs/design/whetstorm-art/minigames/confection-jewel-crest.png",
+    "sha256": "917a13038b26caeca0b88f29a30888fa3706fe41d2e11ce9a5d11f7349d5ad46",
+    "bytes": 1947648
+  }
+}

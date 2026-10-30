@@ -1029,3 +1029,9 @@ and hashes are recorded in
 `docs/whetstorm/aura-encounter-oct30-generation.json`,
 `docs/whetstorm/ley-puzzle-art-generation.md`, and
 `public/ui/whetstorm/minigames/confection-seals-provenance.json`.
+
+The Confection Cascade clasp, jewel crest, and hinge were created for
+Whetstorm using OpenAI's built-in image generation. The walnut texture and
+frame are independently authored procedural and SVG artwork. Their sources
+and hashes are recorded in the corresponding `confection-*-provenance.json`
+files under `public/ui/whetstorm/minigames/`.
