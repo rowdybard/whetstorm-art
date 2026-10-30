@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "col_full_creel",
+      "master": "docs/design/whetstorm-art/deeds/col_full_creel.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for collecting six common fish: an open wicker fishing creel containing six distinct small freshwater fish with varied silver, brown and blue coloring, riverbank background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "4b01e9696877e6269be6e1cb88db9e809dced4566ea9a8ac591c2741e3abf1e6",
+      "shipping": "public/ui/whetstorm/deeds/col_full_creel.webp",
+      "shippingSha256": "e13803c57c5f4e019f5b2f79f7e91a091be1afdb178fcf90f4d1c9b16029a91f",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "pvp_arena_first_match",
+      "master": "docs/design/whetstorm-art/deeds/pvp_arena_first_match.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for entering a first arena match: a pair of worn leather boots stepping onto sandy arena ground beneath an open iron gate, warm sunlight, stone coliseum background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "015f036626dc0960aee7172555ff078bf6c3dce3f5812675ee371123bf5c3ad8",
+      "shipping": "public/ui/whetstorm/deeds/pvp_arena_first_match.webp",
+      "shippingSha256": "18c744a738055dc2f5da599de7c2e0344e1230954edb7ac174ad4375e164ca77",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "pvp_arena_first_win",
+      "master": "docs/design/whetstorm-art/deeds/pvp_arena_first_win.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for a first arena victory: a raised steel sword before a simple bronze laurel wreath, a glowing sunlit coliseum and cheering silhouettes behind, background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "030da2f88e1537bd55a33dd3f720aa21555639121e572ae647f80f1f0376ac77",
+      "shipping": "public/ui/whetstorm/deeds/pvp_arena_first_win.webp",
+      "shippingSha256": "54c4301380e102c8ce841faf9af6b44f457cae80504795c9a3c4fa67bd9fdf8e",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "pvp_duel_first_win",
+      "master": "docs/design/whetstorm-art/deeds/pvp_duel_first_win.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for winning a duel: two crossed practice swords, one pressed down toward the earth by the other, on a grassy clearing at sunset, background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "bef0bcbe29638394f1659d5d9ccd829776bc2dcb015f4b0a6e35ee498a340c5d",
+      "shipping": "public/ui/whetstorm/deeds/pvp_duel_first_win.webp",
+      "shippingSha256": "550417f6983111245bf02ecfc0292009f87f7acb2c8dbf3ad31884680168d16b",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}
