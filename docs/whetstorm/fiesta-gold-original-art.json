@@ -1,0 +1,42 @@
+{
+  "author": "Codex",
+  "method": "Original hand-authored SVG geometry based on live gold augment mechanics; no reference images or inherited artwork used.",
+  "review": "Compare the 18px and 40px renderings in fiesta-gold-original-review.png.",
+  "records": [
+    {
+      "id": "aug_warlords_might",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_warlords_might.svg",
+      "sha256": "061cc7471db348bc934486d3023ede3dbc2b2aa2454b48aae731b0c69c1a78c3"
+    },
+    {
+      "id": "aug_arcane_surge",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_arcane_surge.svg",
+      "sha256": "385ffe90b676d310c6b7f7619237670e9ca1753b0a0d6c72c8a82d65305ae0b7"
+    },
+    {
+      "id": "aug_vampirism",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_vampirism.svg",
+      "sha256": "fbf780266116ae0b0f6ac4956af060499887c455ec6498a1f239fab44e0ff338"
+    },
+    {
+      "id": "aug_juggernaut",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_juggernaut.svg",
+      "sha256": "727b76a20a1edc371a8cb1d014677131f28ee3d1b1e2708874a93adca8836b1a"
+    },
+    {
+      "id": "aug_bloodhunter",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_bloodhunter.svg",
+      "sha256": "b022ea094215d63686cc6cfee97c143b5dcc45f9d665ce959583652856066793"
+    },
+    {
+      "id": "aug_lightwell",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_lightwell.svg",
+      "sha256": "d155be8a172df78984f9c39866fe55663abb05daa036ea46fc29419a72aa3740"
+    },
+    {
+      "id": "aug_bounty_hunter",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_bounty_hunter.svg",
+      "sha256": "44dd129e232704725cfb0d19f63a624fef783728ca7313f4b0175c9c3ed5699e"
+    }
+  ]
+}

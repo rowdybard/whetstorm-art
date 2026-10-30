@@ -43,7 +43,7 @@ describe('original Fiesta silver augment art', () => {
       hashes.add(record.sha256);
     }
     expect(hashes.size).toBe(ids.length);
-    expect(fiestaAugmentImageUrl('aug_vampirism')).toBe('/ui/fiesta/augments/aug_vampirism.webp');
+    expect(fiestaAugmentImageUrl('aug_archmage')).toBe('/ui/fiesta/augments/aug_archmage.webp');
     expect(fiestaAugmentImageUrl('../aug_brutality')).toBeNull();
     expect(fiestaAugmentImageUrl('unknown')).toBeNull();
   });
