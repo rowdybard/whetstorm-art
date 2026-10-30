@@ -1,0 +1,47 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "charge",
+      "path": "public/ui/whetstorm/abilities/charge.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Square fantasy MMO ability icon for Charge: a rugged steel armored boot driving forward with a sharp burst of ochre dust and speed streaks, conveying an aggressive rush. Premium hand-painted dark fantasy game art, strong simple silhouette readable at 28px, warm directional light, opaque charcoal backdrop. One icon, no text, frame, watermark, or references to other games.",
+      "sha256": "a2b03c5db002bc8a5650eb1b97ec0bf9b16bf9f91f7dfd53f42b25f174d4e708",
+      "bytes": 5770,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/charge.png",
+        "sha256": "fce96accadc92013be28efa797ad6e23aa8149a0f4618098ecc7eee38bdac6de",
+        "bytes": 2512991
+      }
+    },
+    {
+      "id": "heroic_strike",
+      "path": "public/ui/whetstorm/abilities/heroic_strike.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Square fantasy MMO ability icon for Heroic Strike: a broad steel sword sweeping diagonally through a powerful golden impact flare, decisive heavy melee strike. Premium hand-painted dark fantasy game art, strong simple silhouette readable at 28px, warm directional light, opaque charcoal backdrop. One icon, no text, frame, watermark, or references to other games.",
+      "sha256": "78e64ae24733c444fd69d26cb3b18d099533a692386100b03d7c01847e399858",
+      "bytes": 6184,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/heroic_strike.png",
+        "sha256": "9c4c69eb4df2a21e30b5ff9692d65df1b769b1d3df123e4c2c02874107cdd5fe",
+        "bytes": 2497346
+      }
+    },
+    {
+      "id": "execute",
+      "path": "public/ui/whetstorm/abilities/execute.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Square fantasy MMO ability icon for Execute: a single heavy dark steel axe descending through a crimson decisive impact, conveying a finishing blow. Premium hand-painted dark fantasy game art, strong simple silhouette readable at 28px, warm directional light, opaque charcoal backdrop. One icon, no text, frame, watermark, gore, or references to other games.",
+      "sha256": "e4334fb02c6872cca2d04533098170952de6502ba08dba5de34973a569b15f20",
+      "bytes": 5278,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/execute.png",
+        "sha256": "8d220699b69a84372578989084caf4f39354fb47901a90d6026ab10e9796382d",
+        "bytes": 2441090
+      }
+    }
+  ]
+}

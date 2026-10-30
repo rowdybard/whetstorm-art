@@ -1,5 +1,6 @@
 import { launchAbilityImageUrl } from './launch_art';
 import { originalIconUrl, originalModifierRecipe, paintOriginalIcon } from './original_icon_art';
+import { whetstormWarriorSignatureImageUrl } from './whetstorm_warrior_signature_art';
 // Procedural painted icons for abilities, items and auras.
 //
 // Every icon is composed on a small canvas from layered parts: a rounded
@@ -5727,6 +5728,8 @@ function originalArt(kind: IconKind, id: string, size = DEFAULT_ICON_SIZE): stri
   if (kind === 'ability' || kind === 'aura') {
     const launch = launchAbilityImageUrl(id);
     if (launch) return launch;
+    const warriorSignature = whetstormWarriorSignatureImageUrl(id);
+    if (warriorSignature) return warriorSignature;
   }
   // Exact trinket aura identity shares its originating item's own original art.
   const historical = kind === 'aura' ? EXTERNAL_AURA_IMAGE_URLS.get(id) : undefined;

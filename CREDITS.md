@@ -1004,3 +1004,7 @@ Their prompts and hashes are recorded in
 
 The original procedural Fightpit decals and their generator are documented in
 `docs/whetstorm/fightpit-decals-provenance.md`.
+
+Three original Warrior signature ability paintings were created for Whetstorm
+using OpenAI's built-in image generation; their prompts and hashes are recorded
+in `public/ui/whetstorm/abilities/warrior-signatures-provenance.json`.
