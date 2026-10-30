@@ -30,7 +30,18 @@ export const FIESTA_POWERUP_IMAGE_IDS: ReadonlySet<string> = new Set([
   'pow_berserker',
 ]);
 
+const ORIGINAL_SILVER_AUGMENT_IDS: ReadonlySet<string> = new Set([
+  'aug_brutality',
+  'aug_spellfire',
+  'aug_toughness',
+  'aug_keen_eye',
+  'aug_fleetfoot',
+  'aug_ironhide',
+  'aug_mending',
+]);
+
 export function fiestaAugmentImageUrl(id: string): string | null {
+  if (ORIGINAL_SILVER_AUGMENT_IDS.has(id)) return `/ui/whetstorm/fiesta/augments/${id}.svg`;
   return FIESTA_AUGMENT_IMAGE_IDS.has(id) ? `/ui/fiesta/augments/${id}.webp` : null;
 }
 

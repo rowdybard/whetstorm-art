@@ -1,0 +1,42 @@
+{
+  "author": "Codex",
+  "method": "Original hand-authored SVG geometry based on live silver augment mechanics; no reference images or inherited artwork used.",
+  "review": "Compare the 18px and 40px renderings in fiesta-silver-original-review.png.",
+  "records": [
+    {
+      "id": "aug_brutality",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_brutality.svg",
+      "sha256": "a077851d4edb33254187b7ae063943f0d63ddcafe85baba5db885dc1c7136969"
+    },
+    {
+      "id": "aug_spellfire",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_spellfire.svg",
+      "sha256": "534cdb1897db1f2f0bee5cdc98749bbcb4dba1a5c83a1ba10998c0d7ed40f25f"
+    },
+    {
+      "id": "aug_toughness",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_toughness.svg",
+      "sha256": "e1bc14325a83c6d529132b8005cb36f5440dfbc882ce05b2694cf5c4b6c35862"
+    },
+    {
+      "id": "aug_keen_eye",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_keen_eye.svg",
+      "sha256": "bde7ccdb89da345879d7396d55d8ebdc1dce5a8afea61e8b7e76def6c128a534"
+    },
+    {
+      "id": "aug_fleetfoot",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_fleetfoot.svg",
+      "sha256": "b0519f38063c131bc01fd6919feb67c492109356fdbf34a442cfec58263d7fc0"
+    },
+    {
+      "id": "aug_ironhide",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_ironhide.svg",
+      "sha256": "072a827f30808b6474a30574f9c39fa13b6aa719d97494d469414aa5aec86997"
+    },
+    {
+      "id": "aug_mending",
+      "path": "public/ui/whetstorm/fiesta/augments/aug_mending.svg",
+      "sha256": "fa7941460d8c943bd8e841f63fb2f686e47c16de237b61a24daac47ef9ab0b74"
+    }
+  ]
+}
