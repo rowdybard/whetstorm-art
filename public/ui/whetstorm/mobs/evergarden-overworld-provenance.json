@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "topiary_stag",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMO target portrait icon: a natural stag with branching antlers, brown fur with a subtle green tint, alert head and neck, formal garden foliage behind. Painterly semi-realistic illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/topiary_stag.webp",
+      "sha256": "53e036b6124ee41e4939512c675feca60e1b548a27c9c340296b52d54cb0310c",
+      "bytes": 6708,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/topiary_stag.png",
+        "sha256": "b9fed554f567124bfddbe1f22c98b431e32f04f4ff09f8ffffbbae65eee1ba98",
+        "bytes": 2792681
+      }
+    },
+    {
+      "id": "topiary_wolf",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMO target portrait icon: a natural wolf with thick fur subtly tinted green, alert pointed ears, head and shoulders, formal garden hedges behind. Painterly semi-realistic illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/topiary_wolf.webp",
+      "sha256": "e45fcf28f3b2eebb1608b4c30f81532d1ef623d5573e810848dc4efd973a88a1",
+      "bytes": 6232,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/topiary_wolf.png",
+        "sha256": "194f65712cd9b0d9fe6ab3a585ca3a93fde43a0a6465c22416e3d2d650b34394",
+        "bytes": 2959825
+      }
+    },
+    {
+      "id": "hedge_gnome",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMO target portrait icon: a small green goblin-like burrower with pointed ears, expressive face and simple rustic clothing, garden hedges behind. Painterly semi-realistic illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/hedge_gnome.webp",
+      "sha256": "4a6a4efe467de2535b8bdd3bc8f1bcc424361fdb56484c03b2ea4b0cb960059a",
+      "bytes": 6712,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/hedge_gnome.png",
+        "sha256": "4a3c08629c8ea7548e6158f3f5fd8a79fc4cdf5908a57a67f28bfc23c2b02693",
+        "bytes": 2549482
+      }
+    },
+    {
+      "id": "hedge_knight",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMO target portrait icon: human knight in burnished silver plate armor, closed steel knight helmet and cape, head and shoulders, formal garden castle behind. Painterly semi-realistic illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/hedge_knight.webp",
+      "sha256": "c6e47e9b16e7c0e50c4fdf9b4347beb43ba392db7d0a6f4ab4852806e67f228a",
+      "bytes": 6936,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/hedge_knight.png",
+        "sha256": "ca26be3e86d617c7c80100c284114dd8f6dd46944913b7cea6d5979a4b466353",
+        "bytes": 2905113
+      }
+    }
+  ]
+}

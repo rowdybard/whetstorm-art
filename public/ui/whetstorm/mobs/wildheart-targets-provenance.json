@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "wildheart_stalker",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait, head and shoulders, centered. A blue-gray green-skinned troll hunter with long pointed ears, prominent upward ivory tusks, dark narrow topknot, and simple leather shoulder gear; tropical jungle shadow background. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square, no border, text, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/wildheart_stalker.webp",
+      "sha256": "70873ddb3c865cba76d9d3063170fa64143d09dea327e973dda6e9db172a7662",
+      "bytes": 5482,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/wildheart_stalker.png",
+        "sha256": "984965ea24b261af2fab28341844ad2e89e88d7c76005ebbdda519afb731de18",
+        "bytes": 2693538
+      }
+    },
+    {
+      "id": "wildheart_ravager",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait, head and shoulders, centered. A stocky olive-green tusked troll warrior with a large vivid red swept-back mane, bone ornament and rugged fur and leather armor; tropical jungle shadow background. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square, no border, text, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/wildheart_ravager.webp",
+      "sha256": "0f332ae201017e9b9151365fc654e9995dc0c3f7f497b42f415caeac17fe1108",
+      "bytes": 6260,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/wildheart_ravager.png",
+        "sha256": "c98cc02a48b90d096bdc8b408e50aca8b6fb8d52ce334aa030378d6abe645ab6",
+        "bytes": 2962004
+      }
+    },
+    {
+      "id": "wildheart_hexcaller",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait, head and shoulders, centered. A turquoise-green tusked troll shaman wearing a large pale elongated animal skull headdress with red-brown feathers; tropical jungle shadow background. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square, no border, text, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/wildheart_hexcaller.webp",
+      "sha256": "8417fcb44648233fd372068fd87bcb85d15755e849d22bf046497bd118b2285f",
+      "bytes": 6370,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/wildheart_hexcaller.png",
+        "sha256": "9bd2ee4c3c14045e6bf81c5a2adbf71fe862c21a241cb0805ecfbe99ef3a42a1",
+        "bytes": 2916027
+      }
+    },
+    {
+      "id": "wildheart_beastmaster",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait, head and shoulders, centered. A dark blue-green tusked troll beastmaster wearing a spotted tawny jaguar pelt draped over one shoulder and rugged bone and leather armor; tropical jungle shadow background. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square, no border, text, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/wildheart_beastmaster.webp",
+      "sha256": "08cbe82f1089684cd4b32b1a927378786b5ded14f6522f4e2e9fedcfb2e2b985",
+      "bytes": 6680,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/wildheart_beastmaster.png",
+        "sha256": "5102b8b98d1fff9977f9fe37b7b3e052de01859ba6b6692aee631fbb91ee1e27",
+        "bytes": 2906537
+      }
+    }
+  ]
+}

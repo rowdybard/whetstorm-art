@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "dragonkin_egg",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait, a single closed deep green dragon egg with angular faceted scales and large tan rocky spikes protruding from the shell, resting in volcanic soil. Painterly dramatic close-up, dark muted background, no creature, no frame, no text, no watermark.",
+      "path": "public/ui/whetstorm/mobs/dragonkin_egg.webp",
+      "sha256": "a0ce5445ab3146a14c9c25960f1d47297281bcdf261707929c50569f269f8083",
+      "bytes": 5254,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/dragonkin_egg.png",
+        "sha256": "f5c04349037a7a9c9f1eb2535c1e0140406b8b47fd735d44b81a113c48237dd1",
+        "bytes": 2575853
+      }
+    },
+    {
+      "id": "dragonkin_whelp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait, a young green dragonkin hatchling with stout lizard snout, glowing yellow eyes and pale short horns, green scales, fierce expression. Head and shoulders close-up, volcanic backdrop, painterly dramatic light, no frame, no text, no watermark.",
+      "path": "public/ui/whetstorm/mobs/dragonkin_whelp.webp",
+      "sha256": "c7d5b1924dc70a3ad3c65e333ba9ac4d9bf821532b9222001b1795df11cf433f",
+      "bytes": 6570,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/dragonkin_whelp.png",
+        "sha256": "dd536e187c69e8abcb53c5134cf940e3eef14b73218f1a77f4de62bce5faaa4b",
+        "bytes": 2567298
+      }
+    },
+    {
+      "id": "dragonkin_broodguard",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait, a muscular dark forest-green dragonkin guard with reptilian snout, pale horns and heavy scaly hide, yellow eyes, wearing simple dark leather bracers. Head and shoulders close-up, volcanic backdrop, painterly dramatic light, no frame, no text, no watermark.",
+      "path": "public/ui/whetstorm/mobs/dragonkin_broodguard.webp",
+      "sha256": "96d8584fda2f024675d5a80838c3a412436b02111f2a145aadca41452d34ae86",
+      "bytes": 5160,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/dragonkin_broodguard.png",
+        "sha256": "ee8f478ef83b3ecda8d40a16a71f9a319b4c7358f5bfcbf860164df287c30791",
+        "bytes": 2597094
+      }
+    },
+    {
+      "id": "drakemaw_broodlord",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait, a formidable dark charcoal and brown dragonkin broodlord with broad reptilian snout, black spiked horns and heavy jagged black armor, imposing muscular silhouette. Head and shoulders close-up, volcanic backdrop, painterly dramatic light, no frame, no text, no watermark.",
+      "path": "public/ui/whetstorm/mobs/drakemaw_broodlord.webp",
+      "sha256": "9a635cf764be2ae11a8b44fc7d84c502ea706746c46e7f5d5b55840100ab68aa",
+      "bytes": 6192,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/drakemaw_broodlord.png",
+        "sha256": "d0ffe15c849a01a3432d613ddb61914ed9c65650b6fbf5cdbf82e8ac2040cdcf",
+        "bytes": 2886503
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "nythraxis_skeleton_warrior",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square tightly framed head and shoulders of a risen royal guard skeleton warrior, aged ivory skull, empty dark eye sockets, weathered simple iron warrior armor, crypt shadows, bone-colored palette. Painterly detailed game icon, centered face, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/nythraxis_skeleton_warrior.webp",
+      "sha256": "203c535a6e9b92aa6345c0ada3f96dcf63daa92e9a961695148a2592d80b6e84",
+      "bytes": 5164,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/nythraxis_skeleton_warrior.png",
+        "sha256": "f12f00de1198340beff6959c939041760f73958b6d570a773b660ebde9387742",
+        "bytes": 2696083
+      }
+    },
+    {
+      "id": "nythraxis_heroic_warrior_add",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square tightly framed head and shoulders of Spirit of Aldren, skeletal warrior with aged ivory skull and weathered iron warrior armor, faint spectral haze, distinct solemn expression, crypt shadows. Painterly detailed game icon, centered face, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/nythraxis_heroic_warrior_add.webp",
+      "sha256": "a13c1433b16dd518bae69c8dfa1de8d7dca7920345cfb3d8eb74889d6b4b3d09",
+      "bytes": 5750,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/nythraxis_heroic_warrior_add.png",
+        "sha256": "9d0d9c41355c88553e3e743240e24260cdd78aa64d1dc7120e7fcd5cfe41a7e0",
+        "bytes": 2807071
+      }
+    },
+    {
+      "id": "nythraxis_heroic_priest_add",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square tightly framed head and shoulders of Spirit of Malric, skeletal necromancer, aged skull, dark purple hood and robes, subtle violet spectral illumination, crypt shadows. Painterly detailed game icon, centered face, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/nythraxis_heroic_priest_add.webp",
+      "sha256": "feb21c1179eca2d4efdf738ea141cbd350d8bf8cc8975fac60159eb0d3cef4e5",
+      "bytes": 4910,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/nythraxis_heroic_priest_add.png",
+        "sha256": "a77fdf4c6aa388263eaada5e9b95622b9d32bd925137d599181f93c0b742801d",
+        "bytes": 2863277
+      }
+    },
+    {
+      "id": "nythraxis_heroic_rogue_add",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square tightly framed head and shoulders of Spirit of Voss, skeletal rogue, aged skull, muted gray-violet hood and leather armor, shadowy crypt, subtle spectral light. Painterly detailed game icon, centered face, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/nythraxis_heroic_rogue_add.webp",
+      "sha256": "9e1f42ef87ac0b6e519de4125ab683e120beb32b3321cc852c15ff1a88b1646a",
+      "bytes": 4868,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/nythraxis_heroic_rogue_add.png",
+        "sha256": "8315efa4189be5ac822261cfee9cfea86574d3016340aa54f28df51f84341e15",
+        "bytes": 2876946
+      }
+    }
+  ]
+}

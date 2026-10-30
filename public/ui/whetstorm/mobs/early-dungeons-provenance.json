@@ -7,14 +7,14 @@
     {
       "id": "crypt_shambler",
       "source": "OpenAI built-in image generation, text only",
-      "prompt": "Original fantasy RPG target portrait icon: Crypt Shambler, an undead humanoid with pale gray-blue decayed skin, weathered bones and ragged burial wrappings, head and shoulders facing viewer in a dim crypt. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "prompt": "Original fantasy RPG target portrait icon: Crypt Shambler, an undead skeletal rogue with clearly exposed bare skull and bones, simple worn dark leather and ragged burial cloth, no flesh or skin, head and shoulders facing viewer in a dim crypt. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
       "path": "public/ui/whetstorm/mobs/crypt_shambler.webp",
-      "sha256": "401490326167b6553e567481c855fe4dd8351535ea088fccbb9b72f0a29119b2",
-      "bytes": 5174,
+      "sha256": "ef20cbb32ac9b266aec28030a079c7cae63fbd2cb529007b2b4ea9da467e4dbb",
+      "bytes": 4968,
       "master": {
         "path": "docs/design/whetstorm-art/mobs/crypt_shambler.png",
-        "sha256": "f2ef1907ad2fdbe038131cfa94995af10e301b1e4a67ef732a020e183aa672b5",
-        "bytes": 2894713
+        "sha256": "88e1f1d4baab6b3f7c4d251f88b42148e1e1b685c806972b99cda0f2efcefc9f",
+        "bytes": 2572106
       }
     },
     {

@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "drowned_templeguard",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon, Drowned Templeguard: a skeletal minion with exposed skull and bones, muted sea-green tint, worn simple armor, head and shoulders facing viewer inside a flooded stone temple. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/drowned_templeguard.webp",
+      "sha256": "bb1f89fc94f702434bc1ce5788e8fd704197fb6cfddbb4805bee33867aee0f5c",
+      "bytes": 5670,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/drowned_templeguard.png",
+        "sha256": "9285059a076fb366ce0c9ea7e5eb198496c84a14904463494f0727d1cb0b58ff",
+        "bytes": 2755737
+      }
+    },
+    {
+      "id": "pale_choir_acolyte",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon, Pale Choir Acolyte: a human bandit-like humanoid with pale blue-gray clothing and simple hood, visible human face, head and shoulders facing viewer inside a flooded stone temple. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/pale_choir_acolyte.webp",
+      "sha256": "1c770600018eece69a6ed6f217730ec755139d411ae7108621d426eab7697879",
+      "bytes": 4822,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/pale_choir_acolyte.png",
+        "sha256": "c3f1abfb7ce2d642a25f01f38b2b1cb501ea1a081596e8bd53ec7fb6ca881c38",
+        "bytes": 2741093
+      }
+    },
+    {
+      "id": "glimmerscale_lurker",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon, Glimmerscale Lurker: a pale icy blue spider with eight articulated legs, clustered eyes and mandibles, facing viewer inside a flooded stone temple. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/glimmerscale_lurker.webp",
+      "sha256": "c1aa6c6e978246413f11c04d96ee02ea4d08eec5eb5a13a6d86ea5893bcb057c",
+      "bytes": 6578,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/glimmerscale_lurker.png",
+        "sha256": "e5377a9f39af4a8256657e89bae1c4498a58a8614c8f3ebd19e793db13e90a5c",
+        "bytes": 2738715
+      }
+    },
+    {
+      "id": "pearlguard_sentinel",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon, Pearlguard Sentinel: a floating stone golem-like elemental with a stout rocky humanoid upper body and cool pearlescent blue stone, facing viewer inside a flooded stone temple. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/pearlguard_sentinel.webp",
+      "sha256": "a11db364031b75c350bef90f81640de91cc865366e04a6e9e74d66f39a3e96bb",
+      "bytes": 7160,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/pearlguard_sentinel.png",
+        "sha256": "70cb7ff81eec4584f305a17f7b13e70b66367ffd93e3fbc2a688238e8f46480c",
+        "bytes": 2706972
+      }
+    }
+  ]
+}

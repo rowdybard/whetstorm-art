@@ -1075,3 +1075,12 @@ and hashes are recorded in `public/ui/whetstorm/mobs/vale-camp-provenance.json`,
 `public/ui/whetstorm/mobs/early-dungeons-provenance.json`, and
 `docs/whetstorm/raid-hoard-target-portraits-generation.json`. The corrected
 Ridge Stalker painting is recorded in `thornpeak-overworld-provenance.json`.
+
+The Wildheart, Drakelands, Evergarden, Drowned Temple, and Nythraxis-add
+portraits were created for Whetstorm using OpenAI's built-in image generation.
+Their prompts and hashes are recorded in the corresponding
+`wildheart-targets-provenance.json`, `drakelands-brood-provenance.json`,
+`evergarden-overworld-provenance.json`, `drowned-temple-provenance.json`, and
+`nythraxis-adds-provenance.json` files under `public/ui/whetstorm/mobs/`.
+The corrected Crypt Shambler painting is recorded in
+`public/ui/whetstorm/mobs/early-dungeons-provenance.json`.
