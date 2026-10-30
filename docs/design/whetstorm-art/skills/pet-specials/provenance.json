@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Visual upgrade from original procedural pet special command icons.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "In-game review pending.",
+  "entries": [
+    {
+      "id": "pet_water_jet",
+      "prompt": "Original opaque square fantasy MMO pet action icon, premium hand-painted: a concentrated bright cyan stream of water surging diagonally with fine droplets and a restrained frost edge, symbolizing a water elemental's directed Water Jet. Strong centered silhouette readable at 28px, deep navy vignette, upper-left light. No character, text, border, UI, watermark, or transparency.",
+      "source": "docs/design/whetstorm-art/skills/pet-specials/pet_water_jet.png",
+      "sourceSha256": "3a07f0474740a5016f819b2968d8878162ef9e3ac8c0f4b0ef6f29b29e755889",
+      "output": "public/ui/whetstorm/abilities/pet_water_jet.webp",
+      "outputSha256": "f07ac1a2fd71043f81c3e7977638356fe13b3a81fb53ec085e5b8fc67063e211"
+    },
+    {
+      "id": "emberkin_felbolt",
+      "prompt": "Original opaque square fantasy MMO pet action icon, premium hand-painted: one compact blazing orange-red demonic firebolt with a sharp forward point and a faint green ember core, symbolizing the Emberkin demon's ranged Felbolt. Strong centered silhouette readable at 28px, dark charcoal vignette, upper-left light. No character, text, border, UI, watermark, or transparency.",
+      "source": "docs/design/whetstorm-art/skills/pet-specials/emberkin_felbolt.png",
+      "sourceSha256": "ab5ee11f0085c974f511699d0c747c698b549da73727f04352b028cf1713c437",
+      "output": "public/ui/whetstorm/abilities/emberkin_felbolt.webp",
+      "outputSha256": "28448b41681a35cfae037f744e4f3c9e58ddd9d1d34fa33b05a9d9c55d3352ad"
+    },
+    {
+      "id": "gloomshade_abyssal_chain",
+      "prompt": "Original opaque square fantasy MMO pet action icon, premium hand-painted: a single heavy dark iron chain ending in an open hooked link being pulled taut toward the viewer, with restrained violet abyssal wisps, symbolizing a demon pulling an enemy closer. Strong centered silhouette readable at 28px, dark charcoal vignette, upper-left light. No characters, text, border, UI, watermark, or transparency.",
+      "source": "docs/design/whetstorm-art/skills/pet-specials/gloomshade_abyssal_chain.png",
+      "sourceSha256": "e414152d4dbebc2244f05cc63c586a72d1b0757e6f330ef41de023fd4e3fc5a9",
+      "output": "public/ui/whetstorm/abilities/gloomshade_abyssal_chain.webp",
+      "outputSha256": "797da00068b0f7555cf9f7c04053c6b2ead0a09cb2003fb068ca8811c95a7a8a"
+    }
+  ]
+}

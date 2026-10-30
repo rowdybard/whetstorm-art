@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected full source images; small-size and in-game review pending.",
+  "records": [
+    {
+      "id": "forgefathers_temper",
+      "prompt": "Square painted fantasy MMO inventory icon: Forgefather's Temper, one compact heavy blackened forge hammer charm with orange heat glowing in the head seams, on a bronze loop. Center complete single object with generous margin; tactile forged steel, warm top-left light, dark charcoal backdrop. Bold silhouette readable at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/forgefathers_temper.png",
+      "masterSha256": "d6d16ceb5d5b54500d0695413b1b6896e3424ce2c79cf1e0815a212751b58817",
+      "shipping": "public/ui/whetstorm/items/forgefathers_temper.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "3d3e5d08fec67b8a420ebcf84b429e5614c077d7363d81a527248550b03a4ab9"
+    },
+    {
+      "id": "kindling_orb",
+      "prompt": "Square painted fantasy MMO inventory icon: Kindling Orb, one spherical molten ember contained in delicate dark iron bands, tiny restrained sparks inside. Center complete single object with generous margin; tactile iron and fire, warm top-left light, dark charcoal backdrop. Bold silhouette readable at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/kindling_orb.png",
+      "masterSha256": "f0916f47ac8d69abd960d07336963ec0d8d8ffd8d3f9c4e9dd3b9f8152df2745",
+      "shipping": "public/ui/whetstorm/items/kindling_orb.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "570b1a2189ee3501438bd6597bcf9e9785e1e2947a98260e7004c54a7026351a"
+    },
+    {
+      "id": "molten_fletching",
+      "prompt": "Square painted fantasy MMO inventory icon: Molten Fletching, one complete short metal arrowhead charm with red-hot feather-shaped fletching and a small bronze hanging loop. Center complete single object with generous margin; tactile metal, warm top-left light, dark charcoal backdrop. Bold silhouette readable at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/molten_fletching.png",
+      "masterSha256": "58051e4c2ee6b94516767da8d4990f244ecc53e90e7280c0957891d0a01dcff9",
+      "shipping": "public/ui/whetstorm/items/molten_fletching.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "16e182d5f2b75a6079ec56f81fe1893459ddd5920c7408ba8671f0f85fc6b15a"
+    },
+    {
+      "id": "last_flame_lantern",
+      "prompt": "Square painted fantasy MMO inventory icon: Last Flame Lantern, one compact antique iron lantern with a single warm flame behind glass, complete handle and base. Center complete single object with generous margin; tactile metal and glass, warm top-left light, dark charcoal backdrop. Bold silhouette readable at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/last_flame_lantern.png",
+      "masterSha256": "8d5fc8271319aa584f6fc6632305571aab281716bc1cd4c66fee3d88adb046ea",
+      "shipping": "public/ui/whetstorm/items/last_flame_lantern.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "10d0044dbc5c4d3f96c873bc25481850b46cc88f42499e17893bc071f5a29309"
+    }
+  ]
+}

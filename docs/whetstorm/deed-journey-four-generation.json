@@ -1,0 +1,56 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputs": "No reference images",
+  "processing": "Sharp 128x128 opaque WebP quality 88 effort 6",
+  "entries": [
+    {
+      "id": "chr_evergarden_gatherer",
+      "path": "public/ui/whetstorm/deeds/chr_evergarden_gatherer.webp",
+      "bytes": 9510,
+      "sha256": "7c3029f11bd00e35f544e9ebd3e085ccd418a624f66272ef1dbc273bb7dc9ca2",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/journey-four/chr_evergarden_gatherer.png",
+        "bytes": 3056245,
+        "sha256": "d21472440f9993ec3608188337bdd9fa63f6870a1425fade8a9089235c4de88e"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A bundle of flowering garden herbs, a small ore crystal and a cut wooden branch on a stone terrace, with carefully trimmed garden hedges and blossoms behind. Hand-painted dark fantasy illustration, one bold centered silhouette with strong contrast, readable at 28 pixels. No letters, numerals, text, border, logo or watermark."
+    },
+    {
+      "id": "prog_crown_below",
+      "path": "public/ui/whetstorm/deeds/prog_crown_below.webp",
+      "bytes": 6904,
+      "sha256": "83f8537807c62fbbdd4b82f391423af82fe1dc532ec8c8e52dded7d4cd57eece",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/journey-four/prog_crown_below.png",
+        "bytes": 2762138,
+        "sha256": "67f06212f7b2ffa21008d6637182dd77d707df834263d24f59460b52869e4e83"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A weathered golden crown above a winding path through pale bonefields toward a distant shadowed tomb, deep violet and bronze palette. Hand-painted dark fantasy illustration, one bold centered silhouette with strong contrast, readable at 28 pixels. No letters, numerals, text, border, logo or watermark."
+    },
+    {
+      "id": "prog_mere_at_rest",
+      "path": "public/ui/whetstorm/deeds/prog_mere_at_rest.webp",
+      "bytes": 6330,
+      "sha256": "859bda31cf11d714eb7d5f72dbbb523855909e832d458c4b30ec6922724b2baf",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/journey-four/prog_mere_at_rest.png",
+        "bytes": 2590108,
+        "sha256": "9635ee6efe7f0cbc307cb67457f4d371b6b1cfe77cec5d527c8024c0165ef40f"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A silver bell above calm teal water, a coiled serpent-shaped ripple and pale moon reflection, conveying a completed lakeside watch. Hand-painted dark fantasy illustration, one bold centered silhouette with strong contrast, readable at 28 pixels. No letters, numerals, text, border, logo or watermark."
+    },
+    {
+      "id": "chr_peaks_chapter_iii",
+      "path": "public/ui/whetstorm/deeds/chr_peaks_chapter_iii.webp",
+      "bytes": 6554,
+      "sha256": "2edf81c40d3119a2ea0a3ac00b1538302a59d50a022c2c6e0524a8e5ad1ee1a4",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/journey-four/chr_peaks_chapter_iii.png",
+        "bytes": 2602077,
+        "sha256": "b34fec9f4a078dc5e47b2ad750894025d1210432442d93f2a0807fd0f281b902"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A golden scroll unfurled before a tall snowy mountain silhouette, three small symbolic marks of a dragon, a fortress and a peak on the scroll without writing. Hand-painted dark fantasy illustration, one bold centered silhouette with strong contrast, readable at 28 pixels. No letters, numerals, text, border, logo or watermark."
+    }
+  ]
+}

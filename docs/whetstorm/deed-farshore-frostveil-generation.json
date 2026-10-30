@@ -1,0 +1,56 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputs": "No reference images",
+  "processing": "Sharp 128x128 opaque WebP quality 88 effort 6",
+  "entries": [
+    {
+      "id": "chr_farshore_gatherer",
+      "path": "public/ui/whetstorm/deeds/chr_farshore_gatherer.webp",
+      "bytes": 9050,
+      "sha256": "852da9c01447cd292d4196e48f8dada9416d9741b58a6cb1d86c9eaa12cbda10",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/farshore-frostveil/chr_farshore_gatherer.png",
+        "bytes": 2853402,
+        "sha256": "c32c0555ddd02472c66fcc5b68fdc566d38721fa511cb2f2226936ba0c706350"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game exploration deed icon. A bundle of coastal herbs, a small ore crystal and a cut branch arranged on pale sand beside turquoise sea and distant rocky islands. Hand-painted dark fantasy illustration, clear centered subject, rich color, readable at small sizes. No writing, numerals, border, logo, watermark or UI."
+    },
+    {
+      "id": "chr_farshore_first_cast",
+      "path": "public/ui/whetstorm/deeds/chr_farshore_first_cast.webp",
+      "bytes": 8834,
+      "sha256": "6d4c947b7c743b84457aff43eb6fc9c44c5135e46c79bb1f03fb82698fd67d95",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/farshore-frostveil/chr_farshore_first_cast.png",
+        "bytes": 2635043,
+        "sha256": "e4ed832ce1a55f50b61b9c1b4bc91b6e2e40d9ad54e1b4c0b1f7e51d3125e77f"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy achievement icon, fishing on a coastal island. One huge silver fish leaping diagonally upward on the right, a clearly visible curved fishing hook and short taut line on the left. Simplified turquoise sea and one small white gull silhouette behind it, pale sandy gold accents. The fish and hook occupy most of the square and are unmistakable at 28 pixels. Hand-painted, bold high contrast, no text, frame, logo, watermark or UI."
+    },
+    {
+      "id": "chr_frostveil_gatherer",
+      "path": "public/ui/whetstorm/deeds/chr_frostveil_gatherer.webp",
+      "bytes": 8642,
+      "sha256": "41b35de9200fb0ed29274caa53c56dccd035e4baa3f1c0715e34d754b7f10fc7",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/farshore-frostveil/chr_frostveil_gatherer.png",
+        "bytes": 3163192,
+        "sha256": "465286a556e7971a2a97ba9e19cf98a3aa2f3679041acb98a03b685dec3e82f1"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game exploration deed icon. A bundle of mountain herbs, a small ore crystal and a cut branch resting on a frosty stone terrace, snow-covered peaks behind. Hand-painted dark fantasy illustration, clear centered subject, rich color, readable at small sizes. No writing, numerals, border, logo, watermark or UI."
+    },
+    {
+      "id": "chr_frostveil_first_cast",
+      "path": "public/ui/whetstorm/deeds/chr_frostveil_first_cast.webp",
+      "bytes": 7998,
+      "sha256": "277224573227bcc241ad0f9a7980abc0b54f13f5704b2122c8550ebea9a5182c",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/farshore-frostveil/chr_frostveil_first_cast.png",
+        "bytes": 2558560,
+        "sha256": "fccf3d9a05f0b46172c1d88c3ffc9ec69195c206cc7091dcb32f30543cab642e"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy fishing achievement icon for a snowy mountain tarn. A single large upright antique fishing rod with a bold gold reel, its curved line ending in a small silver fish at lower right. Behind it a broad white snowflake-shaped decorative emblem and a dark navy silhouette of snowy peaks. Simple emblem composition with the rod as dominant vertical silhouette, high contrast and readable at 28 pixels. Hand-painted game illustration. No large fish, text, border, logo or watermark."
+    }
+  ]
+}

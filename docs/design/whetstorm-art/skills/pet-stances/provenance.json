@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Visual upgrade from original procedural pet command icons.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "In-game review pending.",
+  "entries": [
+    {
+      "id": "pet_feed",
+      "prompt": "Original opaque square fantasy MMO pet command icon, premium hand-painted: one appetizing roasted meat haunch on a bone, warm browned surface and gentle steam, symbolizing feeding food to heal a companion. One centered compact subject, dark umber vignette, upper-left warm light, clearly readable 28px. No people, text, border, UI, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/skills/pet-stances/pet_feed.png",
+      "sourceSha256": "907ee732e186f6094dd54615d83f2565bc261e6722f582a622ca642e1b4b743d",
+      "output": "public/ui/whetstorm/abilities/pet_feed.webp",
+      "outputSha256": "74120aae6a72bfe927c41cc75915e4cf9733eefd2e3feab1068cb8a6c00a31a2"
+    },
+    {
+      "id": "pet_defensive",
+      "prompt": "Original opaque square fantasy MMO pet command icon, premium hand-painted: a sturdy blue-gray iron shield with a single gold paw emblem, suggesting a companion defending its owner when threatened. One centered compact subject, dark blue-charcoal vignette, upper-left warm light, clearly readable 28px. No animal face, weapons, text, border, UI, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/skills/pet-stances/pet_defensive.png",
+      "sourceSha256": "888569946a93be069f48bc720f4a63eb7bdada350eaf56c14e46a89633b97408",
+      "output": "public/ui/whetstorm/abilities/pet_defensive.webp",
+      "outputSha256": "4a458b62fc187fa261984c9990a7bcce85ce1edbff48c9c5083f3d475c477e64"
+    },
+    {
+      "id": "pet_aggressive",
+      "prompt": "Original opaque square fantasy MMO pet command icon, premium hand-painted: three sharp crimson claw slashes tearing diagonally through a dark iron surface with fiery forward motion, suggesting a companion aggressively engaging nearby enemies. One centered compact subject, dark charcoal vignette, upper-left warm light, clearly readable 28px. No animal face, shield, text, border, UI, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/skills/pet-stances/pet_aggressive.png",
+      "sourceSha256": "a8481f35cdb14908ee5bace765132f321855940a4613e9218911ec4e3711abf6",
+      "output": "public/ui/whetstorm/abilities/pet_aggressive.webp",
+      "outputSha256": "ea6ee34b87feb1bcf7eee4777cbf7efd6a7caca0d4f9c77b6e521b13ba2639e5"
+    }
+  ]
+}

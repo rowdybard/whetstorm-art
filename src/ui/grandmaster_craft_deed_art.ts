@@ -8,6 +8,8 @@ const ART: ReadonlyMap<string, string> = new Map([
   ['prog_grandmaster_leatherworking', '/ui/whetstorm/deeds/prog_grandmaster_leatherworking.webp'],
   ['prog_grandmaster_tailoring', '/ui/whetstorm/deeds/prog_grandmaster_tailoring.webp'],
   ['prog_grandmaster_jewelcrafting', '/ui/whetstorm/deeds/prog_grandmaster_jewelcrafting.webp'],
+  ['prog_grandmaster_weaponcrafting', '/ui/whetstorm/deeds/prog_grandmaster_weaponcrafting.webp'],
+  ['prog_grandmaster_armorcrafting', '/ui/whetstorm/deeds/prog_grandmaster_armorcrafting.webp'],
 ]);
 export function grandmasterCraftDeedImageUrl(id: string): string | null {
   return ART.get(id) ?? null;

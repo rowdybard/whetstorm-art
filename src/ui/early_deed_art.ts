@@ -38,6 +38,7 @@ import { marshPeaksFishingDeedImageUrl } from './marsh_peaks_fishing_deed_art';
 import { milestoneDeedImageUrl } from './milestone_deed_art';
 import { mountainBossDeedImageUrl } from './mountain_boss_deed_art';
 import { nightbloomWraithwoodDeedImageUrl } from './nightbloom_wraithwood_deed_art';
+import { palmreachFishingDeedImageUrl } from './palmreach_fishing_deed_art';
 import { peaksDiscoveryDeedImageUrl } from './peaks_discovery_deed_art';
 import { peatfireDeedImageUrl } from './peatfire_deed_art';
 import { placeDeedImageUrl } from './place_deed_art';
@@ -83,6 +84,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     factionStandingDeedImageUrl(id) ??
     rareCraftDeedImageUrl(id) ??
     grandmasterCraftDeedImageUrl(id) ??
+    palmreachFishingDeedImageUrl(id) ??
     adventureMilestoneDeedImageUrl(id) ??
     amberfallEvergardenDeedImageUrl(id) ??
     nightbloomWraithwoodDeedImageUrl(id) ??

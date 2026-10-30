@@ -12,6 +12,14 @@ const ACTIVITY_DEED_ART = new Map<string, string>([
   ['chr_gleamstag', '/ui/whetstorm/deeds/chr_gleamstag.webp'],
   ['chr_drakemaw_broodlord', '/ui/whetstorm/deeds/chr_drakemaw_broodlord.webp'],
   ['chr_maw_matriarch', '/ui/whetstorm/deeds/chr_maw_matriarch.webp'],
+  ['chr_farshore_gatherer', '/ui/whetstorm/deeds/chr_farshore_gatherer.webp'],
+  ['chr_farshore_first_cast', '/ui/whetstorm/deeds/chr_farshore_first_cast.webp'],
+  ['chr_frostveil_gatherer', '/ui/whetstorm/deeds/chr_frostveil_gatherer.webp'],
+  ['chr_frostveil_first_cast', '/ui/whetstorm/deeds/chr_frostveil_first_cast.webp'],
+  ['chr_evergarden_gatherer', '/ui/whetstorm/deeds/chr_evergarden_gatherer.webp'],
+  ['prog_crown_below', '/ui/whetstorm/deeds/prog_crown_below.webp'],
+  ['prog_mere_at_rest', '/ui/whetstorm/deeds/prog_mere_at_rest.webp'],
+  ['chr_peaks_chapter_iii', '/ui/whetstorm/deeds/chr_peaks_chapter_iii.webp'],
 ]);
 
 export function activityDeedImageUrl(id: string): string | null {

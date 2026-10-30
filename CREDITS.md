@@ -1085,6 +1085,36 @@ generated with OpenAI's built-in image generation. Prompts and hashes are in
 `docs/design/whetstorm-art/skills/pet-commands/provenance.json` and
 `docs/design/whetstorm-art/deeds/grandmaster-craft-second/provenance.md`.
 
+Three pet feed and stance paintings and two Grandmaster smithing paintings
+were generated with OpenAI's built-in image generation. Prompts and hashes
+are in `docs/design/whetstorm-art/skills/pet-stances/provenance.json` and
+`docs/design/whetstorm-art/deeds/grandmaster-smithing/provenance.md`.
+
+Four additional heroic trinket and four Farshore/Frostveil deed paintings
+were generated with OpenAI's built-in image generation. Prompts and hashes
+are recorded in `docs/whetstorm/heroic-trinket-second-generation.json` and
+`docs/whetstorm/deed-farshore-frostveil-generation.json`.
+
+Four Crucible trinket paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/crucible-trinket-generation.json`.
+
+Four Palmreach and fishing milestone paintings were generated with OpenAI's
+built-in image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/deeds/palmreach-fishing/provenance.md`.
+
+Three pet special-command paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/skills/pet-specials/provenance.json`.
+
+Four journey deed paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/deed-journey-four-generation.json`.
+
+Four utility trinket paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/utility-trinket-generation.json`.
+
 Original Shaman, Rogue, and Paladin ability paintings, Willowfen and Galecrest
 deed paintings, encounter aura paintings, and Ley and Confection puzzle art
 were created for Whetstorm using OpenAI's built-in image generation. Prompts

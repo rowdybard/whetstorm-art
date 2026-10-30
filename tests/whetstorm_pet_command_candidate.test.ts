@@ -21,7 +21,7 @@ describe('pet command painting candidates', () => {
       expect(abilityImageUrl(id)).toBe(url);
       expect(iconDataUrl('ability', id)).toBe(url);
     }
-    expect(whetstormPetCommandImageUrl('pet_feed')).toBeNull();
+    expect(whetstormPetCommandImageUrl('unknown_pet_command')).toBeNull();
   });
   it('pins four distinct opaque 128px WebPs and their source images', async () => {
     const provenance = JSON.parse(

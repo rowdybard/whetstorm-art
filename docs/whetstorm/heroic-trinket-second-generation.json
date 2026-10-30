@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected full source images; small-size and in-game review pending.",
+  "records": [
+    {
+      "id": "paired_talons",
+      "prompt": "Square painted fantasy MMO inventory icon: Paired Talons, one compact pendant made of two hooked ivory talons crossing in a dark metal setting, a subtle deep red accent. Center complete object with generous margin; tactile bone and steel, warm top-left light, dark charcoal painted background. Bold silhouette at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/paired_talons.png",
+      "masterSha256": "a3abc850101cbbe8036536f34a40dfabebd255bff96fad492a2dfa556296bfad",
+      "shipping": "public/ui/whetstorm/items/paired_talons.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "8827c526cd172e31a499025a02cf1386eeef3a7c1d3e43a1277b0861fb774ef2"
+    },
+    {
+      "id": "hunters_tally",
+      "prompt": "Square painted fantasy MMO inventory icon: Hunter's Tally, one worn leather-and-bronze hunter's counting charm with small unlabeled bone beads and a tiny arrowhead, a single compact pendant. Center complete object with generous margin; tactile leather and metal, warm top-left light, dark charcoal painted background. Bold silhouette at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/hunters_tally.png",
+      "masterSha256": "05ac15f74a68cb8d833fb947e838571a356bc6ed8de790213926b372fc52d441",
+      "shipping": "public/ui/whetstorm/items/hunters_tally.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "f11e6d9f2aee4dcc80ea2bf8f449ec4dffa5572ea4868045e5fffb04fd92a379"
+    },
+    {
+      "id": "stormjar",
+      "prompt": "Square painted fantasy MMO inventory icon: Stormjar, one sealed squat glass jar containing a small captured blue lightning bolt, bronze cap and restrained glow. Center complete object with generous margin; tactile glass and metal, warm top-left light, dark charcoal painted background. Bold silhouette at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/stormjar.png",
+      "masterSha256": "fdd6887d7d960c61efcba5cee700715e5394aa8f135246855c3ba5ff2f1b58a9",
+      "shipping": "public/ui/whetstorm/items/stormjar.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "f2b16fbcdd06e7c211ed0e0126a674713525b6615b76a415a88321ba2b12dbc5"
+    },
+    {
+      "id": "echoing_lens",
+      "prompt": "Square painted fantasy MMO inventory icon: Echoing Lens, one circular violet crystal lens in an antique silver mount, with a subtle double reflection inside the glass. Center complete object with generous margin; tactile glass and metal, warm top-left light, dark charcoal painted background. Bold silhouette at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/echoing_lens.png",
+      "masterSha256": "187773c4b90b1f40f36d673c99190dda7eb81f58433d81d14e2709afcb2d3c2b",
+      "shipping": "public/ui/whetstorm/items/echoing_lens.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "95226d8f8d94988d5fa768a38c3e417b2331b257f18585007211522f8ce50d38"
+    }
+  ]
+}

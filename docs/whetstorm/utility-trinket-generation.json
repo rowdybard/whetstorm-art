@@ -1,0 +1,53 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected full source images; small-size and in-game review pending.",
+  "records": [
+    {
+      "id": "gamblers_die",
+      "prompt": "Square painted fantasy MMO inventory icon: Gambler's Die, one worn ivory six-sided die with ordinary dark circular pips, slightly tilted, gold edges from use. Center complete single object with generous margin; tactile ivory, warm top-left light, dark charcoal backdrop. Bold silhouette readable at 22px, no letters, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/gamblers_die.png",
+      "masterSha256": "cb1b3890bb03d9c8081e4b5c0777c76bed1014bd19c713c3a59297baa8efc6e5",
+      "shipping": "public/ui/whetstorm/items/gamblers_die.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "9240d9fed66fde5e251747cae0ba1fe2cf8406c8323bf3fa162b06141b19fda8"
+    },
+    {
+      "id": "sundered_prism",
+      "prompt": "Square painted fantasy MMO inventory icon: Sundered Prism, one cracked translucent violet crystal prism, its separated facets held together by subtle arcane light. Center complete single object with generous margin; tactile crystal, warm top-left light, dark charcoal backdrop. Bold silhouette readable at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/sundered_prism.png",
+      "masterSha256": "4fe3aa419fb01292431cda643021db8d85c08c421f00a88177d2dabf91b3e89e",
+      "shipping": "public/ui/whetstorm/items/sundered_prism.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "2549e8bb528d100863aad6d18c1cc0c48a9e43412a56dd80ef3c2e40042baeac"
+    },
+    {
+      "id": "wayfarers_lodestone",
+      "prompt": "Square painted fantasy MMO inventory icon: Wayfarer's Lodestone, a single rough irregular dark blue-gray magnetic rock, asymmetric and uncut, with a tan leather strap wrapped around it and one small brass buckle. The rock has a squat uneven silhouette, no crystal points, no facets, no disc, shield, compass or medallion. Cool blue-gray stone, warm top-left light, dark charcoal background. Center complete object with padding, readable at 22px. No text, letters, numbers, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/wayfarers_lodestone.png",
+      "masterSha256": "331e79304380eae66948967c300c8fb4f2097e48d94f51ae67c5d261ddb8ce53",
+      "shipping": "public/ui/whetstorm/items/wayfarers_lodestone.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "24c0b6ba541481bbffd4f5e2b2b16230691e979891c07d5fe5323ffd7a72441c",
+      "superseded": {
+        "prompt": "Square painted fantasy MMO inventory icon: Wayfarer's Lodestone, one rugged magnetite stone in a worn brass compass-like pendant setting with a small directional needle. Center complete single object with generous margin; tactile stone and metal, warm top-left light, dark charcoal backdrop. Bold silhouette readable at 22px, no hand, text, letters, numbers, border, watermark or UI.",
+        "masterSha256": "252c3b7a4922f15e335e4932ea533936eefa0873d42c44a76066448510fd091d",
+        "shippingSha256": "5a3808d719cd8ff78c69b3ba16a42827996382a0c290dd8f3480db5c6f18ab87",
+        "reason": "Too similar to Medallion of Defiance at small size."
+      }
+    },
+    {
+      "id": "medallion_of_defiance",
+      "prompt": "Square painted fantasy MMO inventory icon: Medallion of Defiance, one sturdy round iron medallion with an embossed raised shield and broken chain motif, bronze rim. Center complete single object with generous margin; tactile forged metal, warm top-left light, dark charcoal backdrop. Bold silhouette readable at 22px, no hand, text, writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/medallion_of_defiance.png",
+      "masterSha256": "05a17ec965faa4162794e966b5682dc7a9b0d724d10ac81d7249004ae2b355af",
+      "shipping": "public/ui/whetstorm/items/medallion_of_defiance.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "8f8f136fbf64e1a9cc549c082256bc4b1baa7132af09df1f87f5bb9c95b3c93f"
+    }
+  ]
+}

@@ -2,7 +2,7 @@ import { createHash } from 'node:crypto';
 import { readFileSync } from 'node:fs';
 import sharp from 'sharp';
 import { describe, expect, it } from 'vitest';
-import { resolveAuraIconId } from '../src/ui/aura_icon_view';
+import { resolveHudAuraIconId } from '../src/ui/aura_icon_runtime';
 import { auraImageUrl, iconDataUrl } from '../src/ui/icons';
 import { whetstormFlaskAuraImageUrl } from '../src/ui/whetstorm_flask_aura_art';
 
@@ -15,23 +15,13 @@ const rows = [
 describe('flask aura candidate art', () => {
   it('resolves flask-marked buffs to distinct flask identities before the shared elixir identity', () => {
     for (const [kind, icon] of rows) {
-      const hasRecipe = (id: string) => id === icon;
-      expect(
-        resolveAuraIconId(
-          { id: `elixir_${kind}`, kind, flask: true },
-          () => true,
-          hasRecipe,
-          () => false,
-        ),
-      ).toBe(icon);
-      expect(
-        resolveAuraIconId(
-          { id: `elixir_${kind}`, kind },
-          () => true,
-          hasRecipe,
-          () => false,
-        ),
-      ).toBe(`elixir_${kind}`);
+      const aura = { id: `elixir_${kind}`, kind };
+      expect(resolveHudAuraIconId({ ...aura, flask: true })).toBe(icon);
+      expect(resolveHudAuraIconId(aura)).toBe(
+        kind === 'buff_sta' ? 'elixir_buff_sta' : `aura_${kind}`,
+      );
+      // Revisit the same id in both orders to pin the flask-aware cache key.
+      expect(resolveHudAuraIconId({ ...aura, flask: true })).toBe(icon);
       const expected = `/ui/whetstorm/auras/${icon}.webp`;
       expect(whetstormFlaskAuraImageUrl(icon)).toBe(expected);
       expect(auraImageUrl(icon)).toBe(expected);
