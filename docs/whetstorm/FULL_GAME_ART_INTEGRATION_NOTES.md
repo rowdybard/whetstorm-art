@@ -10,7 +10,10 @@ histories wholesale.
 
 At the snapshot the art delta had 4,289 changed paths: 4,251 additions and 38
 modifications. None of the additions was tracked at the inspected full-game
-HEAD. These counts are historical, not a current inventory. Preserve unrelated
+HEAD at that snapshot. Later work deliberately adds a replacement at
+`public/vfx/fel_meteor_impact.png`, a path already present in the full checkout;
+review it as a replacement rather than assuming all additions are collision-free.
+These counts are historical, not a current inventory. Preserve unrelated
 uncommitted and untracked work in both repositories, including the independent
 temporal-clock audio worktree.
 
@@ -47,3 +50,9 @@ release task. Compare physical files and hashes across each actual distribution,
 reconcile attribution, regenerate owning manifests, and verify no restricted or
 unclassified media ships. The art branch's focused checks do not establish those
 conditions, authorize deployment, or verify subjective visual fit.
+
+The fel meteor work produced an untracked partial
+`src/render/assets/manifest.generated.ts` in the art worktree. It reflects only
+the media present in that incomplete snapshot and must not be transplanted as a
+full-game manifest. Regenerate the owning media manifest in the complete
+candidate and verify the new texture there.
