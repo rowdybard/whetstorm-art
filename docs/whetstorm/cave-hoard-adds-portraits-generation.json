@@ -1,0 +1,55 @@
+{
+  "source": "OpenAI built-in image generation",
+  "externalReferenceImages": [],
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "assets": [
+    {
+      "id": "hoard_bloat_cap",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait of a stationary bloated mushroom cap, bulbous swollen yellow-green fungus with stout pale stalk, ominous underground cave, centered close-up. Painterly detailed game icon, square, no text, no border, no watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/hoard_bloat_cap.png",
+      "masterSha256": "1518601aeecaac57dc94768906cc311f14afe60aee0b7578e9572d3696b1342b",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/hoard_bloat_cap.webp",
+      "deliverySha256": "3a433dde18b9ffc48c4bbe87e4a6853b0d1c22e3a565e3e5e2ead64240ab555e"
+    },
+    {
+      "id": "hoard_sporeling",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait of a small living mushroom sporeling, a pale sickly yellow-green washed mushroom creature with broad cap and stem-like face, matching a miniature mushroom mother, cave spores, centered close-up. Painterly detailed game icon, square, no text, no border, no watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/hoard_sporeling.png",
+      "masterSha256": "d25074d92e4be9a091037c310a7e6cfa57800f55acc9762ffd18c9bfc9a9111c",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/hoard_sporeling.webp",
+      "deliverySha256": "1a6c0e3f78fb016e273dd40b04764b5f31c1429c9e346cde445007fa06eec6b8"
+    },
+    {
+      "id": "hoard_bat_swarmling",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait of a small cave bat swarmer, dusky reddish brown fur, large pointed ears, fanged muzzle and leathery wings behind its head, cave shadows, centered close-up. Painterly detailed game icon, square, no text, no border, no watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/hoard_bat_swarmling.png",
+      "masterSha256": "71ee52292d72713196f10833fdc82178b736101620583eba7d60ee28f764664b",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/hoard_bat_swarmling.webp",
+      "deliverySha256": "f1757ae813eac5e64e1c92b08a736b15476dac9e137e65728dc41e3308025ecf"
+    },
+    {
+      "id": "rift_stone_ogre",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait of a stone ogre, hulking broad-faced humanoid ogre with earthy brown hide washed gray ochre, heavy brow, blunt tusks, rough cave shadows, centered close-up. Painterly detailed game icon, square, no text, no border, no watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/rift_stone_ogre.png",
+      "masterSha256": "d424f3c57736655a151336589b0a6961d1448dfa03011f4995fb23b4d6284044",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/rift_stone_ogre.webp",
+      "deliverySha256": "cb0542b4eaae241a20f825c51d421ac07b1f467663edc5f7a03f7a3ed43a0845"
+    }
+  ]
+}

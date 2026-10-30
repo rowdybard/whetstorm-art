@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "emberkin",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait of Emberkin, a small orange-red ember demon caster, fiery skin and an impish face, inspired by a game creature model. Head and shoulders close-up, painterly dramatic lighting, dark background. No frame, lettering, logos or watermark.",
+      "path": "public/ui/whetstorm/mobs/emberkin.webp",
+      "sha256": "cbbd55fd2a4d94cc8e8afa9500c36ea1489334ca2b0739c527194262245eabe2",
+      "bytes": 5626,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/emberkin.png",
+        "sha256": "2dc9b4aa197cfc4499b0ac2a125b8065759947884fac7cb01654c8992b5f3b23",
+        "bytes": 2327262
+      }
+    },
+    {
+      "id": "gloomshade",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait of Duskmurk, a hulking deep indigo and purple abyssal demon guardian, formidable broad face and muscular silhouette, magical shadow highlights. Head and shoulders close-up, painterly dramatic lighting, dark background. No frame, lettering, logos or watermark.",
+      "path": "public/ui/whetstorm/mobs/gloomshade.webp",
+      "sha256": "57de20bfcd322d31c0d2a2d7cfdc6b52016c353257d56388b3bc3b0a7968b85f",
+      "bytes": 4088,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/gloomshade.png",
+        "sha256": "66cc685aedf71eb8399c144dda51e97b2cc764e8b0acb809013b788252ad1de9",
+        "bytes": 2452100
+      }
+    },
+    {
+      "id": "water_elemental",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait of a water elemental, a hovering humanoid figure made of translucent blue water and frost, luminous watery face and cresting waves. Head and shoulders close-up, painterly dramatic lighting, dark background. No frame, lettering, logos or watermark.",
+      "path": "public/ui/whetstorm/mobs/water_elemental.webp",
+      "sha256": "ad0eef650dee49ba6341ba57c5436cf37f48162021eae2aa5a294dd7705f71fc",
+      "bytes": 6866,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/water_elemental.png",
+        "sha256": "74a06620b862fa2f97649840ec7140cf1d2a4ef1ee7daab5e238a473f8999721",
+        "bytes": 3001134
+      }
+    },
+    {
+      "id": "edda_reedhand",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait of Edda Reedhand, a traveling marsh herbalist healer, a human woman druid in practical natural-colored adventuring attire with a wooden staff and backpack. Head and shoulders close-up, painterly dramatic lighting, dark marsh backdrop. No frame, lettering, logos or watermark.",
+      "path": "public/ui/whetstorm/mobs/edda_reedhand.webp",
+      "sha256": "452ba362f32fd688cc3373110b86d3cbb64f253c457b06227029c9280f9ea279",
+      "bytes": 4574,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/edda_reedhand.png",
+        "sha256": "1b694ad92d98e80196fb5f013ca1cb4d1a6f1ef2f150a3f037c781b23727d249",
+        "bytes": 2710433
+      }
+    }
+  ]
+}

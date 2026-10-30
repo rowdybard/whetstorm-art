@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "rift_ember_fiend",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a small wiry forge imp demon, orange-red skin, long claws and a fierce face, ember-lit dark forge backdrop. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_ember_fiend.webp",
+      "sha256": "a146ccce9bb25981441be20da6f86c9a1c70e2f9ad8f752495cd2b3763abb1b0",
+      "bytes": 6924,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_ember_fiend.png",
+        "sha256": "49ec4d9f2e65a7f82628b7a35519051dad47661c01efd5585675f0c833608ecb",
+        "bytes": 2504941
+      }
+    },
+    {
+      "id": "rift_magma_brute",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a hulking magma brute, a massive humanoid elemental made of dark volcanic rock with glowing orange lava fissures and huge stone fists, dim fiery forge backdrop. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_magma_brute.webp",
+      "sha256": "7cdc6a8c327c6f208982096e7401595fe5cd4c77fbeb07bd79e943b0851b967d",
+      "bytes": 7482,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_magma_brute.png",
+        "sha256": "1621c40460af7d9181a34fdaa7ac9b4c795916c18b6ee0942b3573bf79e2ab0f",
+        "bytes": 2763884
+      }
+    },
+    {
+      "id": "rift_boneclad",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of an undead skeleton warrior wearing rugged bone armor and carrying a shield on its arm, bone-white and grey, gloomy ossuary backdrop. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_boneclad.webp",
+      "sha256": "d652689bedeed06e7627b45e68c0d025ded74ed673ba4dd08988dbc7e8f4dc5b",
+      "bytes": 6246,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_boneclad.png",
+        "sha256": "0e3dcd03f9f346c7d9ee1aaa709fd3f52047c7cb81e8b9333572e5fed67c946e",
+        "bytes": 2942666
+      }
+    },
+    {
+      "id": "rift_marrow_golem",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of an enormous skeletal golem, a hulking humanoid construct assembled from bound pale bones and skulls, massive skeletal arms, dark ancient ossuary backdrop. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_marrow_golem.webp",
+      "sha256": "accb0455ee60fdb2e58be5a933cb91c9b78bc8ed65ee956f6080d41d024d924b",
+      "bytes": 6568,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_marrow_golem.png",
+        "sha256": "b555b35c7ce95fbc55fbf25653e15fcaea0915c741711c274b5a77f2fb662961",
+        "bytes": 2948549
+      }
+    }
+  ]
+}

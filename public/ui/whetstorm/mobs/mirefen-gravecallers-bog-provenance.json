@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "gravecaller_cultist",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original Whetstorm fantasy game target portrait, square. A humanoid gravecaller cultist, wearing a mage's pointed hat and dark purple robes, matching a simple game character model, stern face, head and shoulders fill frame, murky fen backdrop. Painterly, clearly readable at 128 pixels, no lettering, border, symbols or watermark.",
+      "path": "public/ui/whetstorm/mobs/gravecaller_cultist.webp",
+      "sha256": "3ed2b9b1b2956be1d40dd4840021bb600b65de21c5f7ffd3ea9cd66e4d5fdce1",
+      "bytes": 3464,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/gravecaller_cultist.png",
+        "sha256": "46d2e87762b0dfab798856217050da62df339c854b3fd3b03fa638b75d28780c",
+        "bytes": 2199263
+      }
+    },
+    {
+      "id": "gravecaller_summoner",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original Whetstorm fantasy game target portrait, square. A humanoid gravecaller summoner with pointed mage hat and violet robes, matching a simple game character model, grave intent expression, head and shoulders fill frame, murky fen backdrop. Painterly, clearly readable at 128 pixels, no lettering, border, symbols or watermark.",
+      "path": "public/ui/whetstorm/mobs/gravecaller_summoner.webp",
+      "sha256": "36e52c18cb4014adda2c7499994257425992cdad08ca0f017f01186cb4aac4ea",
+      "bytes": 4520,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/gravecaller_summoner.png",
+        "sha256": "0baa04d53f68772a5df9ae85db95954b985a30ce664d5861c5c4782f290f4e93",
+        "bytes": 2420838
+      }
+    },
+    {
+      "id": "gravecaller_mender",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original Whetstorm fantasy game target portrait, square. Humanoid gravecaller mender, matching a simple bandit game character model, rugged human face, dark practical hood and muted purple clothing, head and shoulders fill frame, misty marsh backdrop. Painterly, clearly readable at 128 pixels, no lettering, border, symbols or watermark.",
+      "path": "public/ui/whetstorm/mobs/gravecaller_mender.webp",
+      "sha256": "f7387c1a643aab0c3f274e300eb64e3a1cbb8e56b0d2de1f2914b376b8947530",
+      "bytes": 3306,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/gravecaller_mender.png",
+        "sha256": "3efb5af789dabf38256870124695bbd28f78a350f00d5ee58736dd37d8842885",
+        "bytes": 2271532
+      }
+    },
+    {
+      "id": "bog_bloat",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original Whetstorm fantasy game target portrait, square. Bog Bloat, a squat swollen olive-green frog-like creature with wide amphibian mouth and large eyes, matching a frog game model, face and shoulders fill frame, misty bog backdrop. Painterly, clearly readable at 128 pixels, no lettering, border, symbols or watermark.",
+      "path": "public/ui/whetstorm/mobs/bog_bloat.webp",
+      "sha256": "4f21064ccd8ba22eed66493125cd5d44dc2beee0182f15c62a14621d4692a57d",
+      "bytes": 4886,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/bog_bloat.png",
+        "sha256": "4ac99f8a4da51104d9644c2d00973043a415ab1710d118cbac5d68a91a2a3736",
+        "bytes": 2534419
+      }
+    }
+  ]
+}

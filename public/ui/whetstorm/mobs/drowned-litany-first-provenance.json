@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "deepfen_spearjaw",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized fantasy RPG target portrait, square close-up of a toothy velociraptor-like marsh predator, olive green hide, elongated reptile jaw and alert eyes. Dark flooded ruin backdrop. Painterly polished game art, readable at 128px, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/deepfen_spearjaw.webp",
+      "sha256": "02c82eabdbecf12856a20c33a5cfca81e3da69e1720164bb42d61e6dbc5f370a",
+      "bytes": 5814,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/deepfen_spearjaw.png",
+        "sha256": "a0df5cd0466cfdbfcf5fbc1ba53c7e047fb3291a4d98c8149ecb3e54942f322a",
+        "bytes": 2708935
+      }
+    },
+    {
+      "id": "mirefen_widowling",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized fantasy RPG target portrait, square close-up of a dark charcoal violet spider, eight eyes and prominent mandibles, a hint of legs and webbing. Dark flooded ruin backdrop. Painterly polished game art, readable at 128px, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/mirefen_widowling.webp",
+      "sha256": "b71cb372d361b42323cc7c2e4afbdb8ca2ed8f24033829ad8f4565a8d83c1af2",
+      "bytes": 6068,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/mirefen_widowling.png",
+        "sha256": "b3f3e7a2da15d7438a428f94fe313567b0f0867b19c915c29d7b99974d92060b",
+        "bytes": 2880743
+      }
+    },
+    {
+      "id": "drowned_cantor",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized fantasy RPG target portrait, square close-up of an eerie drowned human mage, blue gray teal washed skin, deep hood and pointed mage hat, a staff partly visible. Dark flooded ruin backdrop. Painterly polished game art, readable at 128px, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/drowned_cantor.webp",
+      "sha256": "f626082f8b24514436781987ef9365c4eedbf93a9ccfd21a68b3bd89dcc3a612",
+      "bytes": 5384,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/drowned_cantor.png",
+        "sha256": "250e36b855ecd620dbfa82b5de9e1379dc7d055e0ac8d45384a79a13ee3545d8",
+        "bytes": 2832186
+      }
+    },
+    {
+      "id": "grave_silt_bulwark",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized fantasy RPG target portrait, square close-up of a massive brown ogre with broad heavy face and muted silt brown hide, hulking shoulders. Dark flooded ruin backdrop. Painterly polished game art, readable at 128px, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/grave_silt_bulwark.webp",
+      "sha256": "71c4252b76c84769394a19dc484faf037d709dd82c329914ec8caaf9a67974ea",
+      "bytes": 4406,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/grave_silt_bulwark.png",
+        "sha256": "530ba7114a77988b2c48c4c9bbcf80a97da5b5578b640950f1dadbb2d9eccbb5",
+        "bytes": 2602578
+      }
+    }
+  ]
+}

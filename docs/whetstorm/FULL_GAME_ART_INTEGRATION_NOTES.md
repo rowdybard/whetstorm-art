@@ -88,3 +88,8 @@ banner and raid-guide fallback posters. Many other mobs still use the separate
 legacy `ui/mobs` paths. The older images are model-rendered portraits; the new
 ones are independent illustrations. Review identity, circular cropping and the
 larger guide poster in game, and audit remaining runtime and packaged assets.
+
+One source inconsistency needs a design decision during visual review: Old
+Cragmaw uses the `mob_bear` renderer mapping and the new portrait depicts a
+bear, but a Thornpeak quest describes the creature as a cat. Verify which species
+is intended before changing either the art or the gameplay content.

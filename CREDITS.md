@@ -1109,3 +1109,10 @@ image generation. Prompts and hashes are recorded under
 `public/ui/whetstorm/mobs/` in `nightbloom-wraithwood-provenance.json`,
 `collapsed-reliquary-provenance.json`, `thornpeak-overworld-rares-provenance.json`,
 `hoard-trash-provenance.json`, and `varkas-boneguard-provenance.json`.
+
+Original Rift, cave-hoard, Drowned Litany, companion, and Mirefen portraits
+were created for Whetstorm using OpenAI's built-in image generation. Prompts
+and hashes are recorded in `docs/whetstorm/cave-hoard-adds-portraits-generation.json`
+and the `rift-ember-bone-provenance.json`, `drowned-litany-first-provenance.json`,
+`player-companions-provenance.json`, and `mirefen-gravecallers-bog-provenance.json`
+files under `public/ui/whetstorm/mobs/`.
