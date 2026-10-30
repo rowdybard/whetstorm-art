@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "moor_ram",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG target portrait, square painterly polished 3D illustration. A cream fleece alpaca with long upright ears, soft short muzzle and dark eyes, no horns, matching an alpaca model despite its ram name. Head centered against wind-swept coastal moorland. Tight circular-crop-safe framing, no text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/moor_ram.webp",
+      "sha256": "345cf103edf2482349a42f4c028a989dd2c46039de7b58e65edb3a7e17054b95",
+      "bytes": 5224,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/moor_ram.png",
+        "sha256": "58c8c512c95264f27a2a05090ae2844e9f8629c55e7fe6e47bf8dce9b77ba119",
+        "bytes": 2630441
+      }
+    },
+    {
+      "id": "shoal_scuttler",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG target portrait, square painterly polished 3D illustration. A formidable blue-gray storm-shelled crab with broad carapace, stalk eyes and two strong claws, centered on a rocky coastal shoal in wind and spray. Strong face readable in circular crop. No text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/shoal_scuttler.webp",
+      "sha256": "52fb8fc010a670ad887170d639072c80e3841794c52e40bf2678bdf623b0cef3",
+      "bytes": 7238,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/shoal_scuttler.png",
+        "sha256": "cb14ef756c81b18fa4c696cc38af4c3ecfd76dae9b42328490bb4f7165260365",
+        "bytes": 3147093
+      }
+    },
+    {
+      "id": "the_wreck_warden",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG target portrait, square painterly polished 3D illustration. A hulking human bruiser with broad muscular shoulders, weathered gray-green tint, heavy brow, beard and animal-hide hood, matching a barbarian bruiser model, standing amid broken coastal wrecks. Not a skeleton, no armor helmet. Head and shoulders centered for circular crop. No text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/the_wreck_warden.webp",
+      "sha256": "85b2f51be0fba83deeda6db9130d50e949e68dd3f01b5f09f063ac78a0554af4",
+      "bytes": 5480,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/the_wreck_warden.png",
+        "sha256": "bbb041e6cf084e78785397c6aee55676e84dd83e1149a274431708e1e564d654",
+        "bytes": 3049586
+      }
+    },
+    {
+      "id": "drowned_deckhand",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG target portrait, square painterly polished 3D illustration. A drowned skeletal sailor, bare skull and exposed bone, sea-green weathering and scraps of salt-soaked clothing, on a gloomy wreck-strewn shore. Head and shoulders centered for circular crop. No fleshy zombie face, no text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/drowned_deckhand.webp",
+      "sha256": "250c277254bffc79b09e82f8de26d60057e95cb538392b0e0ed42f62d2eb86d7",
+      "bytes": 6314,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/drowned_deckhand.png",
+        "sha256": "bd7b9308962c31474e0cd9e9d5a086cf4001119e082107fbe19343a08363aba3",
+        "bytes": 2999997
+      }
+    }
+  ]
+}

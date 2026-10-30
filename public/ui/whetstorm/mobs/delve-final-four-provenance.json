@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "reliquary_bonewalker",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized original fantasy RPG target portrait, square close-up. A bare unarmed skeleton minion with weathered ivory bones and exposed skull, no armor or hood, in a dark crypt. Painterly polished game art, readable face at 128px, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/reliquary_bonewalker.webp",
+      "sha256": "f94e45b80e0f6a9c49453224329fe9f0a35d31954ec4a41d9cdefc33c1e7b20d",
+      "bytes": 5558,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/reliquary_bonewalker.png",
+        "sha256": "69e4ac0c166caf1a0dde3c34411bccbabb97030d5df8f405a486cc8b4c5bbbba",
+        "bytes": 2539536
+      }
+    },
+    {
+      "id": "deacon_varric",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized original fantasy RPG target portrait, square close-up. An undead skeleton mage deacon with bare skull, muted grey robes and a partially visible wooden staff, in a dark collapsed crypt. Painterly polished game art, readable face at 128px, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/deacon_varric.webp",
+      "sha256": "2f506980ca3dc7a37ecf1549940775f4b0a842135b9b958b8b7f62f4e106a6fd",
+      "bytes": 5976,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/deacon_varric.png",
+        "sha256": "0f249a0ec4874e6ded0d237866c85349752f41c869e8fea3e7f6a169bd46c988",
+        "bytes": 2846640
+      }
+    },
+    {
+      "id": "sister_nhalia_drowned_canticle",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized original fantasy RPG target portrait, square close-up. A human dark mage wearing a pointed mage hat and blue-grey robes, a staff partially visible, in a flooded marsh shrine. Painterly polished game art, readable face at 128px, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/sister_nhalia_drowned_canticle.webp",
+      "sha256": "64cca54799ffd2eba0efbdcce5d7b74250a940f1ee1f76c9634982db17ebe537",
+      "bytes": 5702,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/sister_nhalia_drowned_canticle.png",
+        "sha256": "b0fe5574ff152430edd0be66be6a0371982cd3416a58a3b3d0e489772dd280e9",
+        "bytes": 2896513
+      }
+    },
+    {
+      "id": "acolyte_tessa",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized original fantasy RPG target portrait, square close-up. A human acolyte healer wearing a dark red-brown rogue hood, face mask and leather garments, a hooded adventurer in a crypt. Painterly polished game art, readable face at 128px, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/acolyte_tessa.webp",
+      "sha256": "029b5ac6029136d38d5d83044c3b8c6f47bf0743f5ded3fd119c7540217444af",
+      "bytes": 4776,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/acolyte_tessa.png",
+        "sha256": "9d49e6122d30f719a8aa3d1c979c93dc711df989e7e23a691d2713fae796a71e",
+        "bytes": 2593361
+      }
+    }
+  ]
+}

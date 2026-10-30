@@ -4,16 +4,26 @@
     {
       "processing": "sharp Lanczos3 resize to 128 x 128, WebP quality 84, effort 6",
       "id": "shardlord_kazzix",
-      "bytes": 7520,
+      "bytes": 6558,
       "source_output": "exec-1cdf4775-9109-4a18-9396-a9d2e317e503.png",
       "path": "public/ui/whetstorm/mobs/shardlord_kazzix.webp",
-      "sha256": "0758ddaf6664d99ad8224e1e85d9749c590473f73112154d8dafef4e552edcb1",
+      "sha256": "80985330b462bb36ffea62dd3637afc018f7fb1b70116141448981c8245536b3",
       "source": "OpenAI built-in image generation, text only",
-      "prompt": "Square fantasy MMORPG portrait of Shardlord Kazzix, a sentient frost elemental with a face of pale blue crystals and a glowing core, snowy mountain backdrop. Painterly game art, centered head and shoulders, bold readable forms. No text or frame.",
+      "prompt": "Use case: stylized-concept. Original fantasy RPG target portrait of a small rounded stone elemental, compact rotund rocky body, simple glowing eyes and stubby rocky limbs, surrounded by mineral dust in a mountain cavern. Creature is a round elemental, not a humanoid or crystalline person. Square painterly game illustration, centered close composition, readable at 128 pixels. No text, border, logo or watermark.",
       "master": {
-        "bytes": 2917735,
         "path": "docs/design/whetstorm-art/mobs/shardlord_kazzix.png",
-        "sha256": "26b97449a28d3e002a56aa5e0a574076b909f5614d5b5091e2eac943faaa4018"
+        "sha256": "239634e558d98f33226449a1baa7a048649b012172a82b4bd06e0d29bcc78b6e",
+        "bytes": 2607272
+      },
+      "superseded": {
+        "prompt": "Square fantasy MMORPG portrait of Shardlord Kazzix, a sentient frost elemental with a face of pale blue crystals and a glowing core, snowy mountain backdrop. Painterly game art, centered head and shoulders, bold readable forms. No text or frame.",
+        "sha256": "0758ddaf6664d99ad8224e1e85d9749c590473f73112154d8dafef4e552edcb1",
+        "bytes": 7520,
+        "master": {
+          "bytes": 2917735,
+          "path": "docs/design/whetstorm-art/mobs/shardlord_kazzix.png",
+          "sha256": "26b97449a28d3e002a56aa5e0a574076b909f5614d5b5091e2eac943faaa4018"
+        }
       }
     },
     {

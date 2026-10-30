@@ -1125,6 +1125,16 @@ recorded in the `vale-shore-grave-provenance.json`,
 files under `public/ui/whetstorm/mobs/`. The corrected corrupted sporeling is
 recorded in `veiled-hollow-fungal-provenance.json` there.
 
+Original Mirefen, Nightbloom, Wraithwood, delve, Thornpeak, and Galecrest
+portraits were created for Whetstorm using OpenAI's built-in image generation.
+Prompts and hashes are recorded under `public/ui/whetstorm/mobs/` in
+`mirefen-camp-remaining-provenance.json`,
+`nightbloom-wraithwood-second-provenance.json`, `delve-final-four-provenance.json`,
+`thornpeak-active-provenance.json`, and `galecrest-overworld-provenance.json`.
+Corrections to Storm Caller, Deep Lurker, and Shardlord Kazzix are recorded in
+their existing `rift-storm-sunken-provenance.json` and
+`thornpeak-named-three-provenance.json` records.
+
 Original Veiled Hollow, Vale, Drowned Litany, cave, and epic hoard portraits
 were created for Whetstorm using OpenAI's built-in image generation. Prompts
 and hashes are recorded in `docs/whetstorm/cave-ember-portraits-generation.json`

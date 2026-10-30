@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "barrow_wight",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original dark fantasy MMORPG target portrait, square close-up of a bare skeletal minion with ivory skull and empty sockets, lightly blue-grey tinted bones, simple worn grave remnants, in a moonlit burial mound. Painterly polished game illustration, skull fills frame, dark vignette, no border, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/barrow_wight.webp",
+      "sha256": "457b3a0f2b8261d3c07681d06b0d565328f32b8e4f0c4f6f025bfc52f5e01739",
+      "bytes": 5156,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/barrow_wight.png",
+        "sha256": "55fde09b3dfd058594e66029e8f59ce942621557ee1add4769b909890094233f",
+        "bytes": 2671080
+      }
+    },
+    {
+      "id": "widowsilk_spinner",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original dark fantasy MMORPG target portrait, square close-up of a menacing dark charcoal and dusky purple spider with multiple eyes, chelicerae and hairy legs framing its face in a gloomy forest. Painterly polished game illustration, face fills frame, dark vignette, no border, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/widowsilk_spinner.webp",
+      "sha256": "9d538326c155bad95c12ac5fcd099dd9a21539eebeca995b17c7f0300a2d304b",
+      "bytes": 4600,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/widowsilk_spinner.png",
+        "sha256": "bb4d0375699826591f4a9b5c30fbd746217ca1ff8c89ab373d14542a6e531ff3",
+        "bytes": 2541803
+      }
+    },
+    {
+      "id": "gravenbark_shambler",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original dark fantasy MMORPG target portrait, square close-up of a hulking yeti-like creature with broad simian face and thick mossy dark brown and olive fur, matching a furred beast rather than a tree, gloomy forest backdrop. Painterly polished game illustration, face fills frame, dark vignette, no border, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/gravenbark_shambler.webp",
+      "sha256": "a7afc748906919082d218d60546a57c706edf2463b11e03c88ff1682df83b817",
+      "bytes": 3266,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/gravenbark_shambler.png",
+        "sha256": "f1a8a1dbdfd154a932b93df32c90d1ff5cb9cdd77f3c8e1fd698603a04ba0939",
+        "bytes": 2554521
+      }
+    },
+    {
+      "id": "pale_huntsman",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original dark fantasy MMORPG target portrait, square close-up of an undead skeletal rogue with exposed ivory skull and worn dark rogue hood and armor, subtly pale green-grey tint, in a haunted woodland. Painterly polished game illustration, skull fills frame, dark vignette, no border, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/pale_huntsman.webp",
+      "sha256": "563f213dd5a2717c8295909cca36e1661829baa84b52c2be96f1e4ab9dfe6925",
+      "bytes": 4912,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/pale_huntsman.png",
+        "sha256": "7384a44bfbc148c97e4a36f0b202a0d27185b5ead48099db262c3c11aec8ffbc",
+        "bytes": 2651772
+      }
+    }
+  ]
+}

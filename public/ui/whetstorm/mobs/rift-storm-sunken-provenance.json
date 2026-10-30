@@ -7,14 +7,24 @@
     {
       "id": "rift_storm_caller",
       "source": "OpenAI built-in image generation, text only",
-      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a turquoise storm elemental formed from dark swirling clouds and luminous cyan lightning, stern elemental face, stormy spire backdrop. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "prompt": "Use case: stylized-concept. Original dark fantasy RPG target portrait, humanoid armored storm shaman, rugged face visible beneath dark armor and weathered helm, lightning and storm clouds behind. Square painterly game illustration, centered head and shoulders, readable at 128 pixels. No text, border, logo, or watermark.",
       "path": "public/ui/whetstorm/mobs/rift_storm_caller.webp",
-      "sha256": "456c5e2581e1ade83045a98d031b21fa753a566677661990e027c0e18b101e33",
-      "bytes": 6634,
+      "sha256": "9597530be698a59ee151cb6f4ad814c5b4d69f76804d7b27bf6e654adb169f6a",
+      "bytes": 5880,
       "master": {
         "path": "docs/design/whetstorm-art/mobs/rift_storm_caller.png",
-        "sha256": "8c7f14fc99761f345322df542cc797de2de541d66686bc8510f5ef2114661730",
-        "bytes": 2677629
+        "sha256": "c6c0bbfdd11b57e12f3d883f2cc869d7e3612450773c09c3efaa99566b2c30e9",
+        "bytes": 2989583
+      },
+      "superseded": {
+        "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a turquoise storm elemental formed from dark swirling clouds and luminous cyan lightning, stern elemental face, stormy spire backdrop. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+        "sha256": "456c5e2581e1ade83045a98d031b21fa753a566677661990e027c0e18b101e33",
+        "bytes": 6634,
+        "master": {
+          "path": "docs/design/whetstorm-art/mobs/rift_storm_caller.png",
+          "sha256": "8c7f14fc99761f345322df542cc797de2de541d66686bc8510f5ef2114661730",
+          "bytes": 2677629
+        }
       }
     },
     {
@@ -46,14 +56,24 @@
     {
       "id": "rift_deep_lurker",
       "source": "OpenAI built-in image generation, text only",
-      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a teal subterranean burrowing creature with a chitinous insectoid head and mandibles, damp sunken cavern behind. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "prompt": "Use case: stylized-concept. Original dark fantasy RPG target portrait of a single deep-sea fish-like creature with a very broad toothed mouth and a glowing angler lure above its head, shadowy aquatic background. Square painterly game illustration, centered close composition, readable at 128 pixels. No text, border, logo, or watermark.",
       "path": "public/ui/whetstorm/mobs/rift_deep_lurker.webp",
-      "sha256": "d76b0182b3e6b32d15db220f0bf626c23b00431c3432c899708c7c41524af11d",
-      "bytes": 6256,
+      "sha256": "fa7cf687c125936b2d1ca2c5db335545c1327e092be255de8d47708369462d9a",
+      "bytes": 3704,
       "master": {
         "path": "docs/design/whetstorm-art/mobs/rift_deep_lurker.png",
-        "sha256": "3e8df68a2d75d261a5503e0af9ac585af3f45d139790b2dd5acc36d6e484e26f",
-        "bytes": 2627038
+        "sha256": "89fcabd8d396d2bf1ebd2b82986b5d39ccdd51e2d658ab9be212e6b7b559f5ff",
+        "bytes": 2398322
+      },
+      "superseded": {
+        "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a teal subterranean burrowing creature with a chitinous insectoid head and mandibles, damp sunken cavern behind. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+        "sha256": "d76b0182b3e6b32d15db220f0bf626c23b00431c3432c899708c7c41524af11d",
+        "bytes": 6256,
+        "master": {
+          "path": "docs/design/whetstorm-art/mobs/rift_deep_lurker.png",
+          "sha256": "3e8df68a2d75d261a5503e0af9ac585af3f45d139790b2dd5acc36d6e484e26f",
+          "bytes": 2627038
+        }
       }
     }
   ]

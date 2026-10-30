@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "training_dummy",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMO target portrait, centered close-up of a simple wooden training dummy: round pale beige sack head with one dark round button eye, plain tan cloth torso and brown wooden crossbar behind its head. Painterly handcrafted game art, subdued dark background, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/training_dummy.webp",
+      "sha256": "3de762a810cefe35f2fec60ef319c873690f346261b5a88b7fe2e33008d63770",
+      "bytes": 2112,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/training_dummy.png",
+        "sha256": "b4f8f5fc3d27b9d8bac8b64f17a96dd6b51680e97a7d8132f46bf1482fdfcb27",
+        "bytes": 2482344
+      }
+    },
+    {
+      "id": "ironvein_sapper",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMO target portrait of a blocky angular gray-brown stone goblin miner, square heavy head, broad squared nose, recessed eyes, short ears, matching a low-poly game creature. Dark mine atmosphere, painterly and dramatic but retain geometric silhouette, head and shoulders centered, no frame text or watermark.",
+      "path": "public/ui/whetstorm/mobs/ironvein_sapper.webp",
+      "sha256": "bca342c8328daa6b0d5a0138a68151f28a90d914193275ec656bb46b776b9ec7",
+      "bytes": 4078,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/ironvein_sapper.png",
+        "sha256": "f10096184a8eaa1586844e62f61a13df53b66d4792bd3650033979e79d2ef277",
+        "bytes": 2217348
+      }
+    },
+    {
+      "id": "thunzharr_waking_peak",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMO target portrait of a winged gray-green stone elemental: rounded goblin-like head, two short brown horns, luminous pale eyes, broad gray muzzle and pointed bat wings rising behind the head. Massive ancient mountain boss, muted slate-gray tint, stormy dark background, painterly, centered head close-up, no frame text or watermark.",
+      "path": "public/ui/whetstorm/mobs/thunzharr_waking_peak.webp",
+      "sha256": "721f732dc851c603535bcfd93c36daf74517b139b7e9ea6ca6aa5a6bb6014b06",
+      "bytes": 4734,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/thunzharr_waking_peak.png",
+        "sha256": "bd6a918943afaf1e16ecc74730eaf5d8ffa213d94ba017bf599ead20e7da423a",
+        "bytes": 3056618
+      }
+    },
+    {
+      "id": "thunzharr_stormling",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMO target portrait of a small winged gray-green stone elemental: rounded goblin-like head, two short brown horns, luminous pale eyes, broad gray muzzle and pointed bat wings behind its head, pale blue-gray storm tint. Dark storm background, painterly, centered head close-up, no frame text or watermark.",
+      "path": "public/ui/whetstorm/mobs/thunzharr_stormling.webp",
+      "sha256": "dabfb93f1314cc0a37f1afa02ed9d574dcfcf2442ab3a60ddb17cbb4764e7279",
+      "bytes": 4460,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/thunzharr_stormling.png",
+        "sha256": "d8cfa8966b72d950298655b8f210ed21d1ddab4570e69919f1f8a8aa850a349e",
+        "bytes": 2383838
+      }
+    }
+  ]
+}
