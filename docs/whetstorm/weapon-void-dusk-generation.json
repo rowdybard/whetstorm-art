@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "voidsong_dirk",
+      "file": "docs/design/whetstorm-art/items/voidsong_dirk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Voidsong, Dirk of the Sundered Veil, complete epic one-handed dagger with a long narrow dark steel blade split by a subtle violet seam, angular silver guard and black leather grip. Restrained void glow. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "d9bea9a5c17e6a7a406cf6b09e2b1306cfb529600332b9183e771f1de20489e9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/voidsong_dirk.webp",
+        "sha256": "b2de0b7a4538e70616f176dc1d3cd7b71b98faff3ddc1716623ed9024aba39fc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-2b9779af-746c-429d-a226-1f827087b731.png"
+    },
+    {
+      "itemId": "duskwhisper",
+      "file": "docs/design/whetstorm-art/items/duskwhisper.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Duskwhisper, complete one-handed dagger with a curved dark steel blade, bronze guard shaped like a subtle animal fang, dark brown leather grip and a small muted purple stone. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "5e7b1c36401c862f8a190e1cfa35904079239a307d5d911d35265ad9b6794a32",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/duskwhisper.webp",
+        "sha256": "3785294980f169c5a554bd1c2f1fc2c5fec7d0d2d9efe78e084783e8b5555078",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-02f081b2-a7a3-4467-9963-3407bde4df42.png"
+    }
+  ]
+}

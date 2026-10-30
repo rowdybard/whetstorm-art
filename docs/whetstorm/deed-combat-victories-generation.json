@@ -1,0 +1,27 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "cmb_legion_of_one",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a lone armored adventurer standing on a rocky ridge before a distant field of many discarded helmets and banners, representing countless victories. No bodies or gore. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/cmb_legion_of_one.png",
+      "masterSha256": "4eaf35bc6ecdfd6e2e4e8c1f6d45e23d15a3687673bbfbb74799d4ca2eff3a13",
+      "shipping": "public/ui/whetstorm/deeds/cmb_legion_of_one.webp",
+      "shippingSha256": "237aa6a2ac0f19f58b4de5953791e2844133d9431a28a34c6a7e200a07c053fa",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "cmb_giantslayer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a small armored adventurer raising a sword beside the fallen enormous stone gauntlet of a giant, emphasizing scale and victory. No bodies or gore. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/cmb_giantslayer.png",
+      "masterSha256": "66147c85790a5dc578a5c6408f5491b527b8beadb948d59ef611724eec45098d",
+      "shipping": "public/ui/whetstorm/deeds/cmb_giantslayer.webp",
+      "shippingSha256": "e0d2846f5a82d51b251d4a62ed196279419882bbc79da3a72c3f43d5950166b2",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "prof_inscription",
+      "runtimeIds": [
+        "prof_inscription"
+      ],
+      "file": "docs/design/whetstorm-art/professions/prof_inscription.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original inscription profession: a feather quill resting against a rolled blank parchment and a small ink bottle, centered large. Bold clear silhouette, parchment cream and dark indigo palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, writing, letters, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "78984d36ff72d0b9f234d28292f99bc655384910601fb00c7a4ded31380171b7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/prof_inscription.webp",
+        "sha256": "e6d767071027d4209f92dbedd2f830046773cf64f61b00c9d5d770a900fec0ff",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/prof_inscription.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "prof_jewelcrafting",
+      "runtimeIds": [
+        "prof_jewelcrafting"
+      ],
+      "file": "docs/design/whetstorm-art/professions/prof_jewelcrafting.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original jewelcrafting profession: a faceted ruby held in a simple gold setting with a small jeweler's tool beside it, centered large. Bold clear silhouette, ruby red and gold palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "9d7997225dca637e2b629a2b2650227f577851c94265c998abd9ae72f957a82f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/prof_jewelcrafting.webp",
+        "sha256": "ac2a3e761be0d414cd7ed78a081feef12a23b4617bf64bb127a1be1520ad1897",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/prof_jewelcrafting.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "prof_leatherworking",
+      "runtimeIds": [
+        "prof_leatherworking"
+      ],
+      "file": "docs/design/whetstorm-art/professions/prof_leatherworking.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original leatherworking profession: a rolled brown leather hide with a brass awl and a few neat stitch marks, centered large. Bold clear silhouette, warm brown and brass palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "5237eff94ecae728fc8fadb4ca2cc9ac722f62e837d2418f466e73bcd0fe9cc7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/prof_leatherworking.webp",
+        "sha256": "781763413338cac9b303753d2ff1ff12d88caec7d651b3913fcba8c55c500847",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/prof_leatherworking.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "prof_tailoring",
+      "runtimeIds": [
+        "prof_tailoring"
+      ],
+      "file": "docs/design/whetstorm-art/professions/prof_tailoring.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original tailoring profession: a spool of deep blue thread with a silver needle crossing a folded piece of cloth, centered large. Bold clear silhouette, blue and silver palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "5ede40521c024bb0da3eb113afd66f41a672b91dbc2fd814f69347205aaf6a93",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/prof_tailoring.webp",
+        "sha256": "dae4f0019ff13f33a4bb087de2629fe0b33d3827119f305ec892dea5577747d0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/prof_tailoring.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "prof_weaponcrafting",
+      "runtimeIds": [
+        "prof_weaponcrafting"
+      ],
+      "file": "docs/design/whetstorm-art/professions/prof_weaponcrafting.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original weaponcrafting profession: a steel sword blade lying diagonally over a compact anvil with a few warm forge sparks, centered large. Bold clear silhouette, steel gray and amber palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "077c3683eea96f635c7e5594950884f2f1ab7d178e245a003edbe48d673121c6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/prof_weaponcrafting.webp",
+        "sha256": "cdd13be133cd02c29e27fc06e26c714c095f46c15d831c7785e50633e34124ae",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/prof_weaponcrafting.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    }
+  ]
+}

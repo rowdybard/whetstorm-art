@@ -1,0 +1,124 @@
+{
+  "assets": [
+    {
+      "itemId": "sigil_anvil_helmet",
+      "file": "docs/design/whetstorm-art/items/sigil_anvil_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint a redemption token: a stout dark iron medallion with bronze rim and a raised golden anvil emblem at center, with a small embossed silhouette of a helmet above it to identify the helmet slot. It is a single portable token, not the armor itself. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete silhouette on dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original raid sigil painting; reviewed",
+      "sha256": "cd62f1ecaf401ddbd313bff4070a9b3039889e11f871571c36e48066eeed400a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sigil_anvil_helmet.webp",
+        "sha256": "bdd9cb92161721433aa54b6d08847dda9d765acc5d934e156977b5fa644e0305",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sigil_anvil_shoulder",
+      "file": "docs/design/whetstorm-art/items/sigil_anvil_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint a redemption token: a stout dark iron medallion with bronze rim and a raised golden anvil emblem at center. Above the anvil is a clearly recognizable single curved shoulder armor plate viewed from front, with layered plates, no helmet or face. It is a single portable token, not the armor itself. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete silhouette on dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original raid sigil painting; reviewed",
+      "sha256": "6707a0a0909489cea5e519d07c56c329db8329738452705c918766b5f7bbc530",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sigil_anvil_shoulder.webp",
+        "sha256": "8ad306e5ae9447a87b095d4945c3686019186a0df01065ac5ec337dd9c57caaf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sigil_anvil_chest",
+      "file": "docs/design/whetstorm-art/items/sigil_anvil_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint a redemption token: a stout dark iron medallion with bronze rim and a raised golden anvil emblem at center, with a small embossed silhouette of a chest cuirass above it to identify the chest slot. It is a single portable token, not the armor itself. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete silhouette on dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original raid sigil painting; reviewed",
+      "sha256": "4760b1ade64c3e59f542f5e660b617c0925eb139a18ca53e8901dc303128705e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sigil_anvil_chest.webp",
+        "sha256": "ebed7d25751d7c5c0ba6c37af42e86b00d190f8fba7c341a8754f1568ff72a38",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sigil_anvil_gloves",
+      "file": "docs/design/whetstorm-art/items/sigil_anvil_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint a redemption token: a stout dark iron medallion with bronze rim and a raised golden anvil emblem at center, with a small embossed silhouette of a gauntlet above it to identify the gloves slot. It is a single portable token, not the armor itself. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete silhouette on dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original raid sigil painting; reviewed",
+      "sha256": "594455544965c13665c2e9974966e8dea26eedf2e2d874328cc80554ffa215d7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sigil_anvil_gloves.webp",
+        "sha256": "0835136a0426ac914f60fdca46b2535d4fbdd9ecc6f248221668548393c1fe9c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "sigil_anvil_legs",
+      "file": "docs/design/whetstorm-art/items/sigil_anvil_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint a redemption token: a stout dark iron medallion with bronze rim and a raised golden anvil emblem at center, with a small embossed silhouette of a pair of leggings above it to identify the legs slot. It is a single portable token, not the armor itself. Original hand-painted fantasy, tactile metal, warm upper-left light, centered complete silhouette on dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original raid sigil painting; reviewed",
+      "sha256": "6ed6b73524e997ebc82dfed36bde6723cb772fffdf625a10faf5c30b14a8bf84",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sigil_anvil_legs.webp",
+        "sha256": "d2d9a18cb67d428962804f9e482249ffd927cd3e6aaa0b3c6db9f74562e83f77",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "slagsnare_helmet",
+      "file": "docs/design/whetstorm-art/items/slagsnare_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Slagsnare Cowl: one empty soot-black leather hood with rust-red hide panels, copper clasps and practical cord lacing. No face, mannequin or body. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Slagsnare armor painting; reviewed",
+      "sha256": "5fc66e5c61794b309b0b1be0119fef9253adb1d8a0e75e661d28f56cb1562674",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/slagsnare_helmet.webp",
+        "sha256": "cd485dc4ad4e813d1d010d86905dfa9f2198648b7890acfcd3e75addaf3469bc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "slagsnare_shoulder",
+      "file": "docs/design/whetstorm-art/items/slagsnare_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Slagsnare Spaulders: a compact symmetric pair of empty soot-black leather shoulder guards with rust-red hide panels, copper clasps and practical cord lacing. No wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Slagsnare armor painting; reviewed",
+      "sha256": "8a6dafb3a1465333563a4cbea792014a2f655981403c2dcddbe288d7154f09d4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/slagsnare_shoulder.webp",
+        "sha256": "1c4f0b3dc20d5a4e9086adead203dabec6893a9b8a0c0d8371a8167d55c7c716",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "slagsnare_chest",
+      "file": "docs/design/whetstorm-art/items/slagsnare_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Slagsnare Tunic: one empty front-facing soot-black leather tunic with rust-red hide panels, copper clasps and practical cord lacing. No wearer, head, hands or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Slagsnare armor painting; reviewed",
+      "sha256": "a809fcc81a48144e63b33ff57a3dfe3190822dc38f3694a37bab625af14e5889",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/slagsnare_chest.webp",
+        "sha256": "a2b08854da81c4007ffec8353b01b1ea3054b7bc7a0e808ff449333155155a4a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "slagsnare_gloves",
+      "file": "docs/design/whetstorm-art/items/slagsnare_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Slagsnare Grips: a compact natural pair of empty soot-black leather gloves with rust-red hide panels, copper clasps and practical cord lacing. No wearer. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Slagsnare armor painting; reviewed",
+      "sha256": "f837bbfd9b49e2c58cfc168eb9cbe1c79fc0e013c5ac53f16f79df173871334d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/slagsnare_gloves.webp",
+        "sha256": "ce986559842f5c4565cb01e88f5317c15a951b296fbc752d38caa8bdb4e7de96",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "slagsnare_legs",
+      "file": "docs/design/whetstorm-art/items/slagsnare_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square fantasy MMORPG inventory painting of Slagsnare Breeches: one complete empty front-facing pair of soot-black leather trousers ending at open ankle cuffs, with rust-red hide panels, copper clasps and practical cord lacing. Legs clearly separated, no footwear, boots, wearer or mannequin. Dark navy painted vignette, warm top-left light, tactile hand-painted leather, complete centered silhouette with safe margin. Reference image controls style only, do not copy its subject. No writing, border, frame, watermark, or transparency.",
+      "status": "original Slagsnare armor painting; reviewed",
+      "sha256": "facee860519722fe90ca0f6ddd88e21af02c107e22774c97d193c775c639de06",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/slagsnare_legs.webp",
+        "sha256": "75b4594191bc9cd6d84388a2bcdb130b59665c3304da8a44368ccb1b169761a6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

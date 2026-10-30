@@ -1,5 +1,6 @@
 import { alchemyBottlesItemImageUrl } from './alchemy_bottles_item_art';
 import { anvilHeartItemImageUrl } from './anvil_heart_item_art';
+import { anvilSigilsItemImageUrl } from './anvil_sigils_item_art';
 import { apexFlasksItemImageUrl } from './apex_flasks_item_art';
 import { armorBatchEightItemImageUrl } from './armor_batch_eight_item_art';
 import { armorBatchElevenItemImageUrl } from './armor_batch_eleven_item_art';
@@ -162,6 +163,7 @@ import { materialHighpineNextItemImageUrl } from './material_highpine_next_item_
 import { materialOrewoodBatchItemImageUrl } from './material_orewood_batch_item_art';
 import { materialProvisioningItemImageUrl } from './material_provisioning_item_art';
 import { mistLunarItemImageUrl } from './mist_lunar_item_art';
+import { mountReinsHeroicItemImageUrl } from './mount_reins_heroic_item_art';
 import { mournweaveArmorItemImageUrl } from './mournweave_armor_item_art';
 import { oathpyreArmorItemImageUrl } from './oathpyre_armor_item_art';
 import { osmiumGlyphsteelItemImageUrl } from './osmium_glyphsteel_item_art';
@@ -199,6 +201,7 @@ import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
 import { shadowpulseItemImageUrl } from './shadowpulse_item_art';
 import { skullsplitterItemImageUrl } from './skullsplitter_item_art';
 import { slagbreakerArmorItemImageUrl } from './slagbreaker_armor_item_art';
+import { slagsnareArmorItemImageUrl } from './slagsnare_armor_item_art';
 import { soulAndCoresItemImageUrl } from './soul_and_cores_item_art';
 import { springSpireItemImageUrl } from './spring_spire_item_art';
 import { starterItemImageUrl } from './starter_item_art';
@@ -216,6 +219,7 @@ import { vanguardBladeItemImageUrl } from './vanguard_blade_item_art';
 import { vanguardFangStaffItemImageUrl } from './vanguard_fang_staff_item_art';
 import { velkharQuestWeaponItemImageUrl } from './velkhar_quest_weapon_item_art';
 import { vendorChestItemImageUrl } from './vendor_chest_item_art';
+import { voidDuskItemImageUrl } from './void_dusk_item_art';
 import { weaponBatchEightItemImageUrl } from './weapon_batch_eight_item_art';
 import { weaponBatchElevenItemImageUrl } from './weapon_batch_eleven_item_art';
 import { weaponBatchFifteenItemImageUrl } from './weapon_batch_fifteen_item_art';
@@ -240,6 +244,10 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    slagsnareArmorItemImageUrl(id) ??
+    anvilSigilsItemImageUrl(id) ??
+    voidDuskItemImageUrl(id) ??
+    mountReinsHeroicItemImageUrl(id) ??
     frostPitItemImageUrl(id) ??
     dawnholdPosyItemImageUrl(id) ??
     coldsightArmorItemImageUrl(id) ??

@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "reins_grag_bear",
+      "file": "docs/design/whetstorm-art/items/reins_grag_bear.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a portrait of a massive shaggy grag-bear mount, russet brown fur, broad muzzle and a simple leather bridle, on a dark mountain slate painted background. Square painted edge to edge, centered head and shoulders, bold silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No rider, text, letters, numbers, border, logo, watermark, or imitation of another game.",
+      "sha256": "4ccce30f350c90343ef6ab8a164ef9156fa54127c64d3d873e123be11751c2cc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_grag_bear.webp",
+        "sha256": "2387c2ce6f2389110a5a75bcd38e07b72e9f426a5121c779c4f8e25c4d2df34a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reins_stalkglider_snail",
+      "file": "docs/design/whetstorm-art/items/reins_stalkglider_snail.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a portrait of a moss-shell stalk-glider snail mount, expressive eye stalks, mossy green spiral shell and a simple leather harness, on a dark forest green painted background. Square painted edge to edge, centered whole head and shell, bold silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No rider, text, letters, numbers, border, logo, watermark, or imitation of another game.",
+      "sha256": "a785fad7f9bdf3ea600fa463376de88115b74c9990dee80a62b8ea2e59721b67",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_stalkglider_snail.webp",
+        "sha256": "0572959ff062c7ed02a9e7faf1544ca13149bb7474eec2eef03f49ce3acc08cb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reins_shadowjump_toad",
+      "file": "docs/design/whetstorm-art/items/reins_shadowjump_toad.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: a portrait of a shadow-jump toad mount, broad friendly toad face, dark violet skin, bright amber eyes and a simple leather harness, on a dark violet painted background. Square painted edge to edge, centered head and shoulders, bold silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No rider, text, letters, numbers, border, logo, watermark, or imitation of another game.",
+      "sha256": "b028d0c9b9d67002fde80a63f530e4b4ea493ad44c0e6b5d1f67dc9c851b09c8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_shadowjump_toad.webp",
+        "sha256": "9f953977e77b57b4608a815942c828a23e97f61873e153993a0c7e250f603a35",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

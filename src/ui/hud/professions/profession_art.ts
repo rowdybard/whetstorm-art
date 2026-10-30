@@ -1,5 +1,6 @@
 import { PROFESSION_IMAGE_IDS } from './profession_image_ids';
 import { whetstormCraftingAProfessionImageUrl } from './whetstorm_crafting_a_art';
+import { whetstormCraftingBProfessionImageUrl } from './whetstorm_crafting_b_art';
 import { whetstormGatheringProfessionImageUrl } from './whetstorm_gathering_art';
 
 const PROFESSION_IMAGE_DIR = '/ui/professions';
@@ -25,6 +26,7 @@ export function professionImageUrl(id: string): string | null {
   return (
     whetstormGatheringProfessionImageUrl(id) ??
     whetstormCraftingAProfessionImageUrl(id) ??
+    whetstormCraftingBProfessionImageUrl(id) ??
     (PROFESSION_IMAGE_IDS.has(id) ? `${PROFESSION_IMAGE_DIR}/${id}.webp` : null)
   );
 }
