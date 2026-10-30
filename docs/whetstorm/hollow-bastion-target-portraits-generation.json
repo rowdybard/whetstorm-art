@@ -1,0 +1,71 @@
+{
+  "source": "OpenAI built-in image generation",
+  "externalReferenceImages": [],
+  "processing": "Lanczos resize; Pillow WebP quality 84, method 6",
+  "assets": [
+    {
+      "id": "sexton_marrow",
+      "prompt": "Original fantasy game target portrait, square close-up of Sexton Marrow: skeletal undead mage gravekeeper, weathered bone skull, muted gray-green bone, tattered dark funerary mage robes, somber blue crypt light, head and shoulders centered, painterly grounded fantasy illustration, rich readable shapes at tiny size. No text, border, logo or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/sexton_marrow.png",
+      "masterSha256": "c98f32c0c4f0fbfc1c333c5c5983601c709e6d6507df4122a56f5d083c0d3562",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/sexton_marrow.webp",
+      "deliverySha256": "9dfe835d186ba3a8d8a7377cc71b69f11af048c95411e3a2bbc3dda3cb810360",
+      "deliveryDimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "tidebound_acolyte",
+      "prompt": "Original fantasy game target portrait, square close-up of Tidebound Acolyte: human cult acolyte in deep blue hood and simple blue robes, living human face, damp sunken fortress mist, restrained teal light, head and shoulders centered, painterly grounded fantasy illustration, rich readable shapes at tiny size. No text, border, logo or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/tidebound_acolyte.png",
+      "masterSha256": "f92b75a4519d78a4f268a4eeeb6753222524bda5511494abdf95236e84f30c68",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/tidebound_acolyte.webp",
+      "deliverySha256": "f09d48518ca0c4efd6f6510469ef973fb9ce0a2f1265d44f5fb433e12479c5b8",
+      "deliveryDimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "drowned_thrall",
+      "prompt": "Original fantasy game target portrait, square close-up of Drowned Thrall: generic undead skeleton minion, exposed skull and bones, tarnished sea-green coloration, ragged scraps of clothing, wet sunken fortress mist, head and shoulders centered, painterly grounded fantasy illustration, rich readable shapes at tiny size. No text, border, logo or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/drowned_thrall.png",
+      "masterSha256": "3da122204cb0ba8a9c7d88b45a7328741948ab65e4d6ef0ad2f640b8c4d99bc4",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/drowned_thrall.webp",
+      "deliverySha256": "b3b245b7f2db724c3cc28b644b13846f4cb1fdbbe33d656f51e1fb366b95c6dc",
+      "deliveryDimensions": [
+        128,
+        128
+      ]
+    },
+    {
+      "id": "knight_commander_olen",
+      "prompt": "Original fantasy game target portrait, square close-up of Knight-Commander Olen: skeletal undead warrior, exposed skull with worn iron helmet and battered gray steel armor, pale gray-green bone, drowned fortress backdrop and teal mist, head and shoulders centered, painterly grounded fantasy illustration, rich readable shapes at tiny size. No text, border, logo or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/knight_commander_olen.png",
+      "masterSha256": "55e703174fdbc936c00500e050af450461646e50a71683754612f3b96edbfe2d",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/knight_commander_olen.webp",
+      "deliverySha256": "59151d557c83a6b3239ff4412485bf049f47b945caf62e5c4e35e34d08f5a58a",
+      "deliveryDimensions": [
+        128,
+        128
+      ]
+    }
+  ]
+}

@@ -1084,3 +1084,13 @@ Their prompts and hashes are recorded in the corresponding
 `nythraxis-adds-provenance.json` files under `public/ui/whetstorm/mobs/`.
 The corrected Crypt Shambler painting is recorded in
 `public/ui/whetstorm/mobs/early-dungeons-provenance.json`.
+
+Additional Hollow Crypt, Bastion, Drakelands, Sanctum, Evergarden, Amberfall,
+raid, and hoard portraits were created for Whetstorm using OpenAI's built-in
+image generation. Prompts and hashes are recorded in
+`docs/whetstorm/hollow-bastion-target-portraits-generation.json`,
+`docs/whetstorm/cave-hoard-boss-portraits-generation.json`, and the
+`drakelands-overworld-provenance.json`, `raid-sanctum-targets-provenance.json`,
+and `evergarden-amberfall-additional-provenance.json` files in
+`public/ui/whetstorm/mobs/`. The corrected topiary portraits are recorded in
+`public/ui/whetstorm/mobs/evergarden-overworld-provenance.json`.

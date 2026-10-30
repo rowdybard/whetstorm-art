@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "ignivar_heart_of_the_end",
+      "path": "public/ui/whetstorm/mobs/ignivar_heart_of_the_end.webp",
+      "sha256": "470dbecef3722d692338b8eafc4b41fe87dd937afdc317c5401927bc8310f9ae",
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/ignivar_heart_of_the_end.png",
+        "sha256": "37f9bf8c3b550dfb9cec4ba3a378deedd14caa80791afeb61447590951131db2"
+      },
+      "source": "OpenAI built-in image generation",
+      "source_output": "exec-9be81145-8512-4437-8b81-d085e4c2ce98.png",
+      "prompt": "Use case: stylized-concept. Create original square fantasy MMO target portrait, tightly framed head and shoulders, ash-robed elemental caster called Ashcaller, dark charred metal mask and hood, molten orange glow in cracks, mysterious forge chamber backdrop, painterly detailed game illustration, strong silhouette readable at 128 pixels. No lettering, no frame, no watermark.",
+      "processing": "sharp Lanczos3 resize to 128 x 128, WebP quality 84, effort 6"
+    },
+    {
+      "id": "nythraxis_bone_spike",
+      "path": "public/ui/whetstorm/mobs/nythraxis_bone_spike.webp",
+      "sha256": "aa05f11cf56d2ac5d8cf7d052785bcbad677c39c695798eb58a286dcc2bcc810",
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/nythraxis_bone_spike.png",
+        "sha256": "19155c6a9babbabb2ebfbf459c3382ea88627cfbfed84b9e83f5dbb626b2ee67"
+      },
+      "source": "OpenAI built-in image generation",
+      "source_output": "exec-ac71f59d-f6d6-4e4a-a68a-3acaf09b0147.png",
+      "prompt": "Use case: stylized-concept. Create original square fantasy MMO target portrait of a threatening stationary bone spike: single jagged ivory skeletal spire with glowing ember-orange fissures, dark crypt background, painterly detailed game illustration, close centered composition readable at 128 pixels. No creature face, no lettering, no frame, no watermark.",
+      "processing": "sharp Lanczos3 resize to 128 x 128, WebP quality 84, effort 6"
+    },
+    {
+      "id": "sanctum_boneguard",
+      "path": "public/ui/whetstorm/mobs/sanctum_boneguard.webp",
+      "sha256": "d253e7a881671b798da869f6845b5181233027e4c413321a29f752bb58634998",
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/sanctum_boneguard.png",
+        "sha256": "a2071305b1233b9b0f8702e27fc4198535b45bc8bc8d68302b85963b93f37e37"
+      },
+      "source": "OpenAI built-in image generation",
+      "source_output": "exec-ae476619-1ef7-4060-8cc1-88ed8d76b007.png",
+      "prompt": "Use case: stylized-concept. Create original square fantasy MMO target portrait of an undead boneguard, skeletal warrior skull in weathered iron helmet and bone armor, pale ivory bones, shadowed ancient crypt background, painterly detailed game illustration, head and shoulders, strong silhouette readable at 128 pixels. No lettering, no frame, no watermark.",
+      "processing": "sharp Lanczos3 resize to 128 x 128, WebP quality 84, effort 6"
+    },
+    {
+      "id": "sanctum_drakonid",
+      "path": "public/ui/whetstorm/mobs/sanctum_drakonid.webp",
+      "sha256": "1cea8877df07421ecc1693971e4d7f244f205c35971cc1a18b619462402ee019",
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/sanctum_drakonid.png",
+        "sha256": "ebd930e053dc183db36dd25f1a6d7cc3fa769510b4e24d03dbc6c0e432344138"
+      },
+      "source": "OpenAI built-in image generation",
+      "source_output": "exec-fe6e37c3-b99c-4c48-895f-c30b4e4d8f0c.png",
+      "prompt": "Use case: stylized-concept. Create original square fantasy MMO target portrait of a green-scaled dragonkin scaleguard, broad reptilian snout and horned head, worn dark armor, ancient crypt background, painterly detailed game illustration, head and shoulders, strong silhouette readable at 128 pixels. No lettering, no frame, no watermark.",
+      "processing": "sharp Lanczos3 resize to 128 x 128, WebP quality 84, effort 6"
+    }
+  ]
+}

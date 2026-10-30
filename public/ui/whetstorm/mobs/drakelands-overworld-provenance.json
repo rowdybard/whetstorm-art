@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "ashbone_raider",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait of an Ashbone Raider: a menacing undead skeleton with aged ivory bone skull, hollow eye sockets, simple battered dark leather and iron warrior armor. Head and shoulders close-up, ash-strewn desolate background, painterly dramatic lighting, clear silhouette, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/ashbone_raider.webp",
+      "sha256": "04f95ba283292830532db917f37acdb1da27c8023bfb5d7ebadb62d08c255f12",
+      "bytes": 5136,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/ashbone_raider.png",
+        "sha256": "294f32d4f5f86307ddb9cda2b3eb3c9e5d72513156649b7a0965464806883549",
+        "bytes": 2813397
+      }
+    },
+    {
+      "id": "ashbone_warcaller",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait of an Ashbone Warcaller: undead skeleton with weathered tan bone skull, hollow eye sockets and ragged dark ritual war gear, an imposing battle caller. Head and shoulders close-up, ash-strewn desolate background, painterly dramatic lighting, clear silhouette, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/ashbone_warcaller.webp",
+      "sha256": "bcb486cebc5eb08908aad386e5caa26ff6507d0650f4fd844587ad887a44d8b9",
+      "bytes": 6720,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/ashbone_warcaller.png",
+        "sha256": "1d87dca7468f25cd2079cc93cfc9354cb667768de4da654288cc145ca2e954b8",
+        "bytes": 2907124
+      }
+    },
+    {
+      "id": "dune_troll",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait of a Dune Troll: broad humanoid troll with earthy orange-brown skin, long pointed ears and prominent lower tusks, rugged primitive clothing. Head and shoulders close-up, dry dunes background, painterly dramatic lighting, clear silhouette, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/dune_troll.webp",
+      "sha256": "b4e7559e86950f91959d81e1672f5ba525106bd87ea04af0b90176a543282083",
+      "bytes": 6032,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/dune_troll.png",
+        "sha256": "baec7b3e5ee1602840f898826e41eb17029eef1a4239807e96903e96b272524f",
+        "bytes": 2949619
+      }
+    },
+    {
+      "id": "cindraleth_maw_matriarch",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Square original fantasy MMO target portrait of Cindraleth the Maw Matriarch: massive formidable dragonkin with golden amber scales, broad reptilian snout, pale horns and glowing yellow eyes, imposing mature brood mother. Head and shoulders close-up, volcanic crater background, painterly dramatic lighting, clear silhouette, no frame, text or watermark.",
+      "path": "public/ui/whetstorm/mobs/cindraleth_maw_matriarch.webp",
+      "sha256": "5063a073086de4917013f11cbf7c0d7b731ef60ffa9adc9b80ece1ed328de0fa",
+      "bytes": 6500,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/cindraleth_maw_matriarch.png",
+        "sha256": "06b479456b04cbddb526bc058dbe656cf1b5fc5d8797ff96b645780a07f86ec9",
+        "bytes": 2776042
+      }
+    }
+  ]
+}

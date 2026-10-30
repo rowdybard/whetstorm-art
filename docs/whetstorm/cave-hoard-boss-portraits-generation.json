@@ -1,0 +1,55 @@
+{
+  "source": "OpenAI built-in image generation",
+  "externalReferenceImages": [],
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "assets": [
+    {
+      "id": "hoard_boss_mushroom",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait of Mother of Mushrooms, a formidable living fungus with a broad deep red mushroom cap and pale stem-like face, cave spores, centered close-up. Painterly detailed game icon, square, no text, no border, no watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/hoard_boss_mushroom.png",
+      "masterSha256": "ec7898d1fdd8bc09fceb3f3c62341ff734c97f4805a86740277776764306343d",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/hoard_boss_mushroom.webp",
+      "deliverySha256": "6a52736bcc7c0655b0f472fc0f733d1ed21334d381ea47d971243d16792938d9"
+    },
+    {
+      "id": "hoard_boss_mole",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait of Deeprake, a formidable giant burrowing mole beast with dark earthy brown fur, broad pinkish snout and powerful digging claws, cave shadows, centered close-up. Painterly detailed game icon, square, no text, no border, no watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/hoard_boss_mole.png",
+      "masterSha256": "8b3e9227784a1ba4df25a1ea0103aaa46cfe8758c443958e02135cb821051849",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/hoard_boss_mole.webp",
+      "deliverySha256": "c4ecc3f8f10a06126d098b74657f51faf29bdf04ac3a7117cda72223112a0938"
+    },
+    {
+      "id": "hoard_boss_bat",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait of a colossal cave bat, dark reddish brown fur, large pointed ears, fanged muzzle and leathery wings visible behind its head, cave shadows, centered close-up. Painterly detailed game icon, square, no text, no border, no watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/hoard_boss_bat.png",
+      "masterSha256": "4214d487ce08aec8bebbe2edd5cea58f54f49cf0389cca3989d7b3a23a23877f",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/hoard_boss_bat.webp",
+      "deliverySha256": "eac8b949c12d14a350888a4c3b753d9d20fd7aa62184a5d2fac88d58c27c49f2"
+    },
+    {
+      "id": "hoard_boss_mimic",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait of a voracious treasure chest mimic, weathered brown wood and metal bands, open lid reveals tooth-lined dark maw and pink tongue, cave shadows, centered close-up. Painterly detailed game icon, square, no text, no border, no watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/hoard_boss_mimic.png",
+      "masterSha256": "ef695b957a2c22ca082636ca53afb3a9c124c2bf69368cd015ef9cfb0ea2b4ea",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "deliveryPath": "public/ui/whetstorm/mobs/hoard_boss_mimic.webp",
+      "deliverySha256": "b4419f059194f1346ec72b4a4ac3e4245ec71ed8f6d9f82aadbe66e2332e354f"
+    }
+  ]
+}

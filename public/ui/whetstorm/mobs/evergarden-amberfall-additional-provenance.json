@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "the_topiary_bull",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMO target portrait, square. A formidable topiary bull: unmistakable bull head with broad muzzle and stout curving horns, formed from dense clipped dark green hedge foliage and hardened green wood, not a flesh animal. Close head and shoulders filling the frame, three-quarter view, readable small silhouette. Subtle deep garden backdrop and warm dramatic light, polished painterly fantasy game illustration, no border, no text, no watermark.",
+      "path": "public/ui/whetstorm/mobs/the_topiary_bull.webp",
+      "sha256": "23be74b6ff9f31699689c782331fc750aaebcdc789aaa081043a9ca8dbf1553f",
+      "bytes": 6938,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/the_topiary_bull.png",
+        "sha256": "9622143e208adc6de792dfa017d014c6d39ef9611ec905861884c27ee7ff8770",
+        "bytes": 2902962
+      }
+    },
+    {
+      "id": "gilded_stag",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square: gilded stag, a real majestic male deer with branching antlers and golden amber coat, close head and shoulders, autumn meadow background, polished painterly game illustration, readable at small size, no text, frame or watermark.",
+      "path": "public/ui/whetstorm/mobs/gilded_stag.webp",
+      "sha256": "14d76c19baae9f235fd47dc2cafa6e38a4e60ceb70edab2dc3fa3d5f512e843f",
+      "bytes": 7104,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/gilded_stag.png",
+        "sha256": "3a1591550c3b784a3e1c1e31f46745cf3eb54ec450946bbab1641d57c9346b7e",
+        "bytes": 2727349
+      }
+    },
+    {
+      "id": "gloam_fox",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square: a living red orange fox with pointed ears, slender muzzle, cream cheeks and vivid fur. Head and shoulders in three-quarter view, autumn woodland backdrop, polished painterly fantasy game illustration, readable at small size, no text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/gloam_fox.webp",
+      "sha256": "73d3286ce73cb4d76f3409430610f37bc099b6b9c8dd37e10e3fdf3fe06e5b6c",
+      "bytes": 6616,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/gloam_fox.png",
+        "sha256": "5cf72d1d55b75b25596a44e723c8a5b582a11966b1ae362a657fe62a3109626a",
+        "bytes": 2633155
+      }
+    },
+    {
+      "id": "orchard_treant",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square: ancient orchard treant, a living humanoid tree of gnarled golden brown bark with a rugged wood face and autumn amber foliage, head and shoulders close-up, orchard backdrop. Polished painterly fantasy game illustration, readable at small size, no text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/orchard_treant.webp",
+      "sha256": "c0b28125f5664732de1f257337130315ba2b0fa3e8f4fee5b6d52963644dbf07",
+      "bytes": 7872,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/orchard_treant.png",
+        "sha256": "960f016b86b49ad2c247cc5e1edd6a567c4d02f8f6b3d55c31f40c82acdf25d2",
+        "bytes": 3111252
+      }
+    }
+  ]
+}

@@ -7,27 +7,27 @@
     {
       "id": "topiary_stag",
       "source": "OpenAI built-in image generation, text only",
-      "prompt": "Original fantasy MMO target portrait icon: a natural stag with branching antlers, brown fur with a subtle green tint, alert head and neck, formal garden foliage behind. Painterly semi-realistic illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square: living topiary stag, its head and branching antlers constructed entirely from dense neatly clipped green hedge leaves and green wood, clearly a shaped garden shrub, no fur or flesh. Head and shoulders close-up against a formal garden backdrop. Polished painterly fantasy game illustration, readable small, no text, border or watermark.",
       "path": "public/ui/whetstorm/mobs/topiary_stag.webp",
-      "sha256": "53e036b6124ee41e4939512c675feca60e1b548a27c9c340296b52d54cb0310c",
-      "bytes": 6708,
+      "sha256": "d053aea05c1e45e069967cf40baae2351436343d9d21f248febd73ffb0f097ca",
+      "bytes": 7606,
       "master": {
         "path": "docs/design/whetstorm-art/mobs/topiary_stag.png",
-        "sha256": "b9fed554f567124bfddbe1f22c98b431e32f04f4ff09f8ffffbbae65eee1ba98",
-        "bytes": 2792681
+        "sha256": "d5259b9d653c42d3ea63717283ed136dc196e6b98bb01df4c625215e531d3090",
+        "bytes": 2684975
       }
     },
     {
       "id": "topiary_wolf",
       "source": "OpenAI built-in image generation, text only",
-      "prompt": "Original fantasy MMO target portrait icon: a natural wolf with thick fur subtly tinted green, alert pointed ears, head and shoulders, formal garden hedges behind. Painterly semi-realistic illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square: living topiary wolf, recognizable wolf head, pointed ears and muzzle constructed entirely from dense clipped green hedge leaves and woody twigs, clearly a shaped garden shrub, no fur or flesh. Head and shoulders close-up against a shadowy formal garden. Polished painterly fantasy game illustration, readable small, no text, border or watermark.",
       "path": "public/ui/whetstorm/mobs/topiary_wolf.webp",
-      "sha256": "e45fcf28f3b2eebb1608b4c30f81532d1ef623d5573e810848dc4efd973a88a1",
-      "bytes": 6232,
+      "sha256": "dbdddfb9f7c9e96443e7c960a25643b803f8e1567c8eb214aa8692c02cefa56f",
+      "bytes": 6208,
       "master": {
         "path": "docs/design/whetstorm-art/mobs/topiary_wolf.png",
-        "sha256": "194f65712cd9b0d9fe6ab3a585ca3a93fde43a0a6465c22416e3d2d650b34394",
-        "bytes": 2959825
+        "sha256": "72df7d08391e226483e60275527a8bb824ba9ca380d5c8dbd9c2bd9004f6c5b6",
+        "bytes": 2453956
       }
     },
     {
