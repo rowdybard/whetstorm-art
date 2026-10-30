@@ -1,0 +1,40 @@
+{
+  "generator": "OpenAI built-in image generation, four separate text-only prompts, no image references",
+  "purpose": "Visual upgrade to original procedural aura icons, not replacement of active inherited bitmap art.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Pending in-game review and production aggregator integration.",
+  "entries": [
+    {
+      "id": "pow_berserker",
+      "prompt": "Original opaque square fantasy MMO aura icon, premium hand-painted, one powerful clenched armored fist in deep red with restrained crimson battle energy, suggesting increased attack power and speed. Strong centered compact silhouette, top-left warm light, dark umber vignette, readable at 22px. No writing, people, UI frame, watermark, transparency or extra objects.",
+      "source": "docs/design/whetstorm-art/auras/powerups/pow_berserker.png",
+      "sourceSha256": "a6fb9c5cd9cef3a0880525cb725898382d5baf821026a1e7f7f8142909940b75",
+      "output": "public/ui/whetstorm/auras/pow_berserker.webp",
+      "outputSha256": "3e7a07c365c3011d6309680ce579c671e8eb55239dfeaf42b63f1f0349691e92"
+    },
+    {
+      "id": "pow_colossus",
+      "prompt": "Original opaque square fantasy MMO aura icon, premium hand-painted, one immense stone-and-bronze gauntlet rising from cracked earth, suggesting increased size and slower movement. Strong centered compact silhouette, top-left warm light, dark umber vignette, readable at 22px. No writing, people, UI frame, watermark, transparency or extra objects.",
+      "source": "docs/design/whetstorm-art/auras/powerups/pow_colossus.png",
+      "sourceSha256": "b0c4bfc4c93e8ddcb3a71c73e97689416eebf47d9860dd7c6af48f61c3309c42",
+      "output": "public/ui/whetstorm/auras/pow_colossus.webp",
+      "outputSha256": "8245b1a1c11e0ea49426de11e35740a96839dcba209fc855a6951c71b638435c"
+    },
+    {
+      "id": "pow_moon_boots",
+      "prompt": "Original opaque square fantasy MMO aura icon, premium hand-painted, one complete sturdy leather boot with a small crescent moon emblem and upward violet wisps, suggesting enhanced jumping and speed. Strong centered compact silhouette, top-left warm light, dark navy vignette, readable at 22px. No writing, people, UI frame, watermark, transparency or extra objects.",
+      "source": "docs/design/whetstorm-art/auras/powerups/pow_moon_boots.png",
+      "sourceSha256": "7eaf9ede6f408de6542e377a45aae62a57d1ad0e7eaf1c7ba5fa8bc9ef97dba9",
+      "output": "public/ui/whetstorm/auras/pow_moon_boots.webp",
+      "outputSha256": "6a453544db7990b6fdf2d0d41aa537fd3398ef1ea6063527a885c1d3af17d69f"
+    },
+    {
+      "id": "pow_speed_demon",
+      "prompt": "Original opaque square fantasy MMO aura icon, premium hand-painted, one complete sleek leather running boot angled forward with cyan wind trails, suggesting increased speed and reduced size. Strong centered compact silhouette, top-left warm light, dark navy vignette, readable at 22px. No writing, people, UI frame, watermark, transparency or extra objects.",
+      "source": "docs/design/whetstorm-art/auras/powerups/pow_speed_demon.png",
+      "sourceSha256": "0ec66b84f2de2ef14cb94dd2b92de9f336acf2295ceef51b4226d6328f95da64",
+      "output": "public/ui/whetstorm/auras/pow_speed_demon.webp",
+      "outputSha256": "aa3b975f15dec87b7d8bfcc9380b4447e38ed45945bb6028803dfebf9ba3a495"
+    }
+  ]
+}

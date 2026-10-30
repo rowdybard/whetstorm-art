@@ -1,0 +1,56 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputs": "No reference images",
+  "processing": "Sharp 128x128, opaque WebP quality 88 effort 6",
+  "entries": [
+    {
+      "id": "chain_lightning",
+      "path": "public/ui/whetstorm/abilities/shaman_core_chain_lightning.webp",
+      "bytes": 3284,
+      "sha256": "5da13ee0bc0838277fe77ba35a84713bba88d25a9d5b4f5e7b0ee572b9d02fbd",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/shaman-core/chain_lightning.png",
+        "bytes": 1766812,
+        "sha256": "2bfcd2634c418cc5644536d059c7a097e89790a77be4fc6529909f1199349b2a"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game ability icon for chain lightning. Three distinct round luminous blue spirit orbs spaced left to right, linked sequentially by two thick jagged white-blue electrical arcs in a horizontal zigzag. The three targets and connecting links are the main focal shapes, large and clearly separated, against a very dark indigo background. Hand-painted dark fantasy illustration, simple high-contrast composition legible at 32 pixels. No vertical lightning bolt, clouds, text, frame, logo, watermark or UI."
+    },
+    {
+      "id": "flame_shock",
+      "path": "public/ui/whetstorm/abilities/shaman_core_flame_shock.webp",
+      "bytes": 5494,
+      "sha256": "7e54bc9a180bbaa2eede33027f2c9e4a19834bcb14ec13ae53d39fa8ca31a037",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/shaman-core/flame_shock.png",
+        "bytes": 2065799,
+        "sha256": "d7535d938acb45d230b40b0ee98565479dd9045c181a321df60aecad5351be8f"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game ability icon. A single burning orange-red flame burst, a vivid ember core with curling tongues of fire against dark charcoal. Hand-painted dark fantasy game illustration, bold simple silhouette, high contrast, centered subject, readable at 32 pixels. No frame, lettering, logo, watermark, or UI."
+    },
+    {
+      "id": "frost_shock",
+      "path": "public/ui/whetstorm/abilities/shaman_core_frost_shock.webp",
+      "bytes": 9626,
+      "sha256": "f7b6f61fc9c3d886a849b47a6068706b134dcd0c595c6842269ce7b891ff7331",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/shaman-core/frost_shock.png",
+        "bytes": 2898813,
+        "sha256": "56d3b2df5a61d33f0cca77de63e66590e2c35202659e7230691cf73620302d9d"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game ability icon. A sharp icy blue frost burst with a central crystalline snowflake and radiating frozen shards against deep midnight blue. Hand-painted dark fantasy game illustration, bold simple silhouette, high contrast, centered subject, readable at 32 pixels. No frame, lettering, logo, watermark, or UI."
+    },
+    {
+      "id": "ghost_wolf",
+      "path": "public/ui/whetstorm/abilities/shaman_core_ghost_wolf.webp",
+      "bytes": 5946,
+      "sha256": "dc3ce380feae7b30021c8861e6805212fd8702da9bb02776dccb0909e5150144",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/shaman-core/ghost_wolf.png",
+        "bytes": 2437577,
+        "sha256": "445fec0f2b95dd8a375dc8d52ff9cd77d5c51b80c8abdac698f85c6510c3529d"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game ability icon. A spectral wolf head in profile, luminous pale teal spirit fur, wind streaming back from its silhouette against deep forest darkness. Hand-painted dark fantasy game illustration, bold simple silhouette, high contrast, centered subject, readable at 32 pixels. No frame, lettering, logo, watermark, or UI."
+    }
+  ]
+}

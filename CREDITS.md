@@ -1037,6 +1037,19 @@ Three flask aura paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/auras/flask/provenance.json`.
 
+Four Paladin utility and four Shaman core ability paintings were generated
+with OpenAI's built-in image generation. Their prompts and hashes are recorded
+in `docs/design/whetstorm-art/skills/paladin-utility/provenance.md` and
+`public/ui/whetstorm/abilities/shaman-core-provenance.json`.
+
+Four Rogue utility paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`public/ui/whetstorm/abilities/rogue-utilities-provenance.json`.
+
+Four powerup aura paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/auras/powerups/provenance.json`.
+
 Original Shaman, Rogue, and Paladin ability paintings, Willowfen and Galecrest
 deed paintings, encounter aura paintings, and Ley and Confection puzzle art
 were created for Whetstorm using OpenAI's built-in image generation. Prompts

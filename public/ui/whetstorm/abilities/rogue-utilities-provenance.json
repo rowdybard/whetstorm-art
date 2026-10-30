@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "evasion",
+      "path": "public/ui/whetstorm/abilities/evasion.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy MMO rogue ability icon painting: Ghostfoot, a leather-booted rogue twisting aside from an incoming blade, the blade misses in a clear arc. Bold silhouette, muted teal and amber on dark background, readable at 32px. Opaque; no text, symbols, numbers, borders, watermark or UI.",
+      "sha256": "a06a9ce5aed32aaf8e5ee5aff7cdbe3ddb5071b36204e8e8c0fdcb228072afd0",
+      "bytes": 5790,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/evasion.png",
+        "sha256": "8f3b7f11c6377a49ca089cab73081be723b92f8c2fb80ab107574536ab7f8de1",
+        "bytes": 2353337
+      }
+    },
+    {
+      "id": "sprint",
+      "path": "public/ui/whetstorm/abilities/sprint.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy MMO rogue ability icon painting: Swift Heels, a single leather boot in a running stride with long wind streaks behind it. Bold central silhouette, warm amber on dark teal background, readable at 32px, painterly. Opaque; no text, symbols, numbers, borders, watermark or UI.",
+      "sha256": "9c0e5f2311cf991bc7b4526f5db5373af95332cc99f793872ac5bacab9abe3db",
+      "bytes": 5452,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/sprint.png",
+        "sha256": "89739dfd48b106633b15eadd1de464943b3b2c1ab5a4b964259986afe886cba7",
+        "bytes": 2234891
+      }
+    },
+    {
+      "id": "vanish",
+      "path": "public/ui/whetstorm/abilities/vanish.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy MMO rogue ability icon painting: Smokefade, a cloaked rogue silhouette dissolving into curling smoke from the feet upward, dark teal with pale silver mist. Bold central silhouette, readable at 32px, painterly. Opaque; no text, symbols, numbers, borders, watermark or UI.",
+      "sha256": "b3962f8b1676b555f349fbe2458adca55db586cc55ddc2168426565bf8eb1c33",
+      "bytes": 3860,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/vanish.png",
+        "sha256": "730c1b49f796f07e47e01cd7aecf86a86bb5b71d98f739d99a2d755d494c32b6",
+        "bytes": 2455551
+      }
+    },
+    {
+      "id": "kick",
+      "path": "public/ui/whetstorm/abilities/kick.webp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original square fantasy MMO rogue ability icon painting: Boot, a leather boot forcefully kicking through a glowing violet orb, the orb shattering into shards to show a spell interrupted. Bold central silhouette, teal, bronze and violet on dark background, readable at 32px, painterly. Opaque; no text, symbols, glyphs, numbers, borders, watermark or UI.",
+      "sha256": "c53234844d6bbd435ef97be150c312263481583a4c9a2ff46f31929f666f0044",
+      "bytes": 6808,
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/kick.png",
+        "sha256": "37bc774fe4d34c40366bbc95d6d5f29d99c8c84df0256ade0034024bb3542a1d",
+        "bytes": 2698191
+      }
+    }
+  ]
+}
