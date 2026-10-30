@@ -1245,7 +1245,7 @@ export const ITEM_OFFHAND_MODELS: Readonly<Record<string, string>> = {
   ember_wardens_barrier: 'shield_round',
   votive_ward_of_the_deathless_court: 'shield_round', // Nythraxis gap-fill healer shield
   templar_dawn_shield: 'shield_square', // Church Order quartermaster's mail shield (faction_vendors.ts)
-  varkhul_emberward: 'varkhul_emberward', // Ignivar raid legendary (Varkhul drop)
+  varkhul_emberward: 'shield_round', // Ignivar raid legendary (Varkhul drop)
 };
 
 /** Held-model GLBs whose materials are AUTHORED surfaces: a Tripo or Blender
@@ -1262,7 +1262,6 @@ export const ITEM_OFFHAND_MODELS: Readonly<Record<string, string>> = {
  *  ITEM_OFFHAND_MODELS values). */
 export const AUTHORED_HELD_MODELS: ReadonlySet<string> = new Set([
   'hammer_varkhul', // Varkhul Forgebreaker (Ignivar raid legendary)
-  'varkhul_emberward', // Varkhul Emberward (Ignivar raid legendary)
   // Harbormaster Tamsin's worn gear (scripts/assets/harbormaster_gear/): felt, brass and
   // leather authored per material, which the weapon polish would glaze to one sheen
   'harbormaster_tricorne',
