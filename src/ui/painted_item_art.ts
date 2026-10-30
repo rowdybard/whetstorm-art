@@ -207,6 +207,7 @@ import { toolBatchThreeItemImageUrl } from './tool_batch_three_item_art';
 import { utilitySuppliesItemImageUrl } from './utility_supplies_item_art';
 import { vaelLeatherOriginalItemImageUrl } from './vael_leather_original_item_art';
 import { vanguardBladeItemImageUrl } from './vanguard_blade_item_art';
+import { vanguardFangStaffItemImageUrl } from './vanguard_fang_staff_item_art';
 import { velkharQuestWeaponItemImageUrl } from './velkhar_quest_weapon_item_art';
 import { vendorChestItemImageUrl } from './vendor_chest_item_art';
 import { weaponBatchEightItemImageUrl } from './weapon_batch_eight_item_art';
@@ -232,6 +233,7 @@ import { zealfireArmorItemImageUrl } from './zealfire_armor_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    vanguardFangStaffItemImageUrl(id) ??
     guardianTrophiesItemImageUrl(id) ??
     inscriptionBooksItemImageUrl(id) ??
     packlordArmorItemImageUrl(id) ??

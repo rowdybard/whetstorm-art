@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_fang_dagger",
+      "file": "docs/design/whetstorm-art/items/vanguard_fang_dagger.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Vanguard's Fang, complete one-handed military dagger with a narrow slightly curved steel blade, angular bronze guard and deep red leather grip, restrained geometric fittings. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "8d7e1a167544e667d49b51e986ff7677d70a7bd4866648c7de79f7d8dedf309b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_fang_dagger.webp",
+        "sha256": "c224b2461fa157d1e3699bf73544db0bae854dc3e9dc93f488017e1721ca8c9c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-6a4eaea0-d2b6-4213-b25b-d2cd2395b39a.png"
+    },
+    {
+      "itemId": "vanguard_warstaff",
+      "file": "docs/design/whetstorm-art/items/vanguard_warstaff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Vanguard's Warstaff, complete long military caster staff with dark wood shaft, angular bronze crown around a small red crystal, deep red leather wrappings and restrained geometric fittings. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "13f1c50fc63d60b13210229b08a52ab0a69c6b3a03684af4d97911ea8c6a6d9d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warstaff.webp",
+        "sha256": "9092deeaad0832de51c10e390e7d4b4deef0f3813500a217eb951a25c9e65818",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-2e22ab74-6c86-4701-9fb5-9565e3e54a23.png"
+    }
+  ]
+}

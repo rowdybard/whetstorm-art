@@ -20,6 +20,7 @@ import { milestoneDeedImageUrl } from './milestone_deed_art';
 import { peaksDiscoveryDeedImageUrl } from './peaks_discovery_deed_art';
 import { placeDeedImageUrl } from './place_deed_art';
 import { prestigeDeedImageUrl } from './prestige_deed_art';
+import { raidChallengeDeedImageUrl } from './raid_challenge_deed_art';
 import { sanctumChallengeDeedImageUrl } from './sanctum_challenge_deed_art';
 import { tradeMasteryDeedImageUrl } from './trade_mastery_deed_art';
 
@@ -58,6 +59,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     heroicClearDeedImageUrl(id) ??
     heroicDepthsDeedImageUrl(id) ??
     prestigeDeedImageUrl(id) ??
+    raidChallengeDeedImageUrl(id) ??
     sanctumChallengeDeedImageUrl(id) ??
     ascendantDeedImageUrl(id) ??
     explorationDeedImageUrl(id) ??

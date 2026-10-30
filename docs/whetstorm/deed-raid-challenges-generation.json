@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "dgn_nythraxis_gravebreaker",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a dragon's claw striking a single raised silver shield amid broken stone, with distant companions standing safely aside, representing careful target positioning. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_nythraxis_gravebreaker.png",
+      "masterSha256": "45d1664ed61beffa3076924811eaf98c371f68ae11b1be54c2cd567c7e4579a6",
+      "shipping": "public/ui/whetstorm/deeds/dgn_nythraxis_gravebreaker.webp",
+      "shippingSha256": "f7de550b34680384fc831985d9fba8e8df7c393cc903e6d3252e684795e55723",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_nythraxis_wardens",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a glowing blue wardstone breaking a descending red wave of energy into harmless sparks, beneath a shadowy dragon silhouette, representing a stopped attack. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_nythraxis_wardens.png",
+      "masterSha256": "b4c8ab5ef24dd823d67f673c884fd96de28bd285c987552c0cd93dc56f9278bc",
+      "shipping": "public/ui/whetstorm/deeds/dgn_nythraxis_wardens.webp",
+      "shippingSha256": "f5e1afbd28b0446bc822fc00cfb7722308ce68c4bb89429bb661dfe2564e3744",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "dgn_nythraxis_deathless",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing an unbroken silver shield beneath a dragon silhouette over a jagged mountain, framed by a gold laurel wreath, representing a flawless heroic raid victory. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/dgn_nythraxis_deathless.png",
+      "masterSha256": "edad81e05f409c0ff10af64aa479e03b7a89c3799b23d738c4e41c126455c097",
+      "shipping": "public/ui/whetstorm/deeds/dgn_nythraxis_deathless.webp",
+      "shippingSha256": "20b9f02eb79576b7d4763c2ab9bc8d5df0ae2e250518928d36ada7d3ecabd8f8",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "hunter_enduring_courser_icd",
+      "runtimeIds": [
+        "hunter_enduring_courser_icd"
+      ],
+      "file": "docs/design/whetstorm-art/auras/hunter_enduring_courser_icd.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original enduring courser cooldown status: a tawny spotted wildcat leaping through pale green wind, with a small dark hourglass below, conveying a speed ability recovering. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "869fcb68f94bc4657bad0fe9211deb1fe9fee85719e5bbf50284f3d3fe657f3e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/hunter_enduring_courser_icd.webp",
+        "sha256": "6cb1ce9843a95949fa6f57b20a9fa3c596302baec914dda16b2114a1b41ebda4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/hunter_enduring_courser_icd.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    },
+    {
+      "auraId": "hunter_predators_pace_icd",
+      "runtimeIds": [
+        "hunter_predators_pace_icd"
+      ],
+      "file": "docs/design/whetstorm-art/auras/hunter_predators_pace_icd.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game aura icon readable at 32 pixels. Original predator's pace cooldown status: an amber feline eye over a dark paw print and a small dark hourglass, subtle gold motion trails, conveying a speed ability recovering. Bold simple silhouette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "be607cfa8b16c43ad09de727acf3bb41a93183a1fb857691fe5711ec90459949",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/hunter_predators_pace_icd.webp",
+        "sha256": "078bad8c63aea13e78a51993f3acf7624fc7f4cb6a325845c704c2403e0d2085",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/auras/hunter_predators_pace_icd.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Exact runtime aura paintings"
+      }
+    }
+  ]
+}
