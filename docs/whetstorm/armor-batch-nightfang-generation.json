@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "wyrmshadow_legguards",
+      "file": "docs/design/whetstorm-art/items/wyrmshadow_legguards.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one pair of Nightfang Legguards, complete dark charcoal leather trousers with segmented violet-black hide knee guards and modest silver stitching, no wearer. Show the complete item with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "54f7701a350cb38c75720731d4ee770b09636df2cb4eecf71d5721459f9088be",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmshadow_legguards.webp",
+        "sha256": "8969274beea2e0bf6dcd9ae6214c2a526627de15505a76b98dbc28746703afd5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow 13.0.0 Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "wyrmshadow_talongrips",
+      "file": "docs/design/whetstorm-art/items/wyrmshadow_talongrips.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one pair of Nightfang Talongrips, complete dark charcoal leather gloves with subtle hooked pale claw-shaped knuckle accents and violet-black cuffs, no hands. Show the complete item with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "bacc0d0b1e16a09b40acb163383d7d4ae380927752081f4a66e2a8c8911372f5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wyrmshadow_talongrips.webp",
+        "sha256": "20625e6a81eb12b4d45b1f16c8e2049c634e918ce831f7af3523a93d61ad9222",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow 13.0.0 Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "shardfang_grips",
+      "file": "docs/design/whetstorm-art/items/shardfang_grips.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one pair of Shardfang Grips, complete rugged russet leather gloves with small pale angular crystal shard reinforcements across the knuckles, no hands. Show the complete item with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "160f6363bcf6b18217a4b1d7cea834a124d9bcaa7028ac4291e69aa3c8e9a9f1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/shardfang_grips.webp",
+        "sha256": "2ba1dc05857a27ad546540fe98512db63c52c7aec39b6e829c923ff3c196474d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow 13.0.0 Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "thornpeak_wildwraps",
+      "file": "docs/design/whetstorm-art/items/thornpeak_wildwraps.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/worn_sword.png",
+          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
+        }
+      ],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one pair of Thornpeak Wildwraps, complete olive-brown leather trousers with woven wraps at the knees and modest thorn-like stitched edging, no wearer. Show the complete item with clear space around it.",
+      "status": "original armor painting; reviewed",
+      "sha256": "f217f4b5c48d42f37c83f2eeb0eb8f873a556070c3cbf63f1e6a8771ee88bda7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/thornpeak_wildwraps.webp",
+        "sha256": "cb319872a727fea0a45835357b3ca41a3e83e47a4d852ad04659066e03d531cb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow 13.0.0 Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

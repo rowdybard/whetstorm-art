@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gallowmere_grave_candle",
+      "file": "docs/design/whetstorm-art/items/gallowmere_grave_candle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for gallowmere_grave_candle, a Grave-Candle quest object. One complete tall ivory tallow candle with heavy irregular wax drips and an unlit black wick in a simple dark iron holder, centered against a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold silhouette, broad forms, legible at 32 pixels. No flame, text, letters, border, logo, watermark, hands, extra objects, photorealism, or copied game designs.",
+      "sha256": "001f28ec0119e8a1b0d5cdc157a6a4699eafb662ecf0650e1ce180ce04321ed5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gallowmere_grave_candle.webp",
+        "sha256": "91c9809fde0c21f677a1690c970376f19842deedd856a34cb57ea548dffc5509",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "silkbound_remains",
+      "file": "docs/design/whetstorm-art/items/silkbound_remains.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for silkbound_remains, a Silkbound Remains quest object. One complete pale oval cocoon wrapped densely in layered silvery spider silk, with a short ragged strand at its top. The whole cocoon and strand must fit inside the image with a generous clear margin on every side, no body visible. Center on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold silhouette, broad forms, legible at 32 pixels. No gore, spider, text, letters, border, logo, watermark, hands, photorealism, or copied game designs.",
+      "sha256": "20bff5384c0b6ce1053d9d2adb1bcb369db94616786d8993d0cff0358ff7cbdd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/silkbound_remains.webp",
+        "sha256": "7a59a5ec181fd431cf6e2abef9a0e780db7267e8dd621c1df0a79d6460ec4d45",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ancient_crypt_door",
+      "file": "docs/design/whetstorm-art/items/ancient_crypt_door.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for ancient_crypt_door, an Ancient Crypt Door quest object. One complete small arched weathered gray stone doorway with a closed dark wooden door and broad aged iron hinges, centered in three-quarter view on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No text, letters, symbols, border, logo, watermark, people, extra buildings, photorealism, or copied game designs.",
+      "sha256": "2aed68919946b7397250308bb8ea8096bf242ed2808f7d97ea131d24e8864c7e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ancient_crypt_door.webp",
+        "sha256": "5b0ca23874600579502aac7a9ab39cd2602e7a32e03e555ad51484732e0e90e4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "crypt_ritual_circle",
+      "file": "docs/design/whetstorm-art/items/crypt_ritual_circle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for crypt_ritual_circle, a Ritual Circle quest object. Show one complete round weathered stone disk viewed from above at three quarters, carved with three concentric rings and four small simple inset blue stones, centered on a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No letters, runes, religious symbols, text, border, logo, watermark, hands, extra objects, photorealism, or copied game designs.",
+      "sha256": "b4f7b5b9954e71f9a5cdb583d99694cd96b165181da28dc339fde212b8258f7c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/crypt_ritual_circle.webp",
+        "sha256": "54be14c4ecadd1084981b169637d40a09f17f0f56dac6e6993fe83f6194aacae",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

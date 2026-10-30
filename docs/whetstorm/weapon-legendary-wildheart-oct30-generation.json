@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "fanglords_beastspear",
+      "file": "docs/design/whetstorm-art/items/fanglords_beastspear.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Premium hand-painted dark fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject diagonally with visible margin, recognizable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism or copied game designs. Subject: Fanglord's Beastspear, one rare two-handed hunting spear, long wooden shaft with a broad forged iron spearhead and restrained tooth and hide bindings near its head. Complete weapon, tip to butt.",
+      "status": "Original painting; size review at 128, 64, 32 and 22 pixels; integration pending.",
+      "sha256": "5633e29937702a094edc93c01a0d66beaaa1a47e427bf4fc838f3e2c3615d3fb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/fanglords_beastspear.webp",
+        "sha256": "13478feb51c4c70d8fd394ed11a3c44bfaba62e1a6dbb3ddaf7b2945bea4d1ca",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-e6c1ae14-71aa-4d15-8b85-58c46c54c9d3.png"
+    },
+    {
+      "itemId": "deathless_heartwood",
+      "file": "docs/design/whetstorm-art/items/deathless_heartwood.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Premium hand-painted dark fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject diagonally with visible margin, recognizable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism or copied game designs. Subject: Heartwood of the Deathless Crown, one legendary druid staff of ancient gnarled heartwood, a crownlike branching head with a small green living bud among weathered roots, subtle nature glow suggesting life and decay. Complete staff, tip to base.",
+      "status": "Original painting; size review at 128, 64, 32 and 22 pixels; integration pending.",
+      "sha256": "704550ac525f232702d8a6ae7a0b476e83d45123787d2770c5bb9ba078a664b2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/deathless_heartwood.webp",
+        "sha256": "9b10a79315b9bf3224312f6ee4ecedb3cae1c6e9b28109a26b63dea4c3c19ec3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-d04e4de0-0c75-474e-b463-630eccc5b0e3.png"
+    },
+    {
+      "itemId": "kingsbane_last_oath",
+      "file": "docs/design/whetstorm-art/items/kingsbane_last_oath.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. Premium hand-painted dark fantasy, warm upper-left light, broad clear shapes, deep slate-blue painted background. Center the complete subject diagonally with visible margin, recognizable at 22 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism or copied game designs. Subject: Thronebane, Last Oath of Thornpeak, one legendary one-handed sword with a wide steel blade, angular mountain-like bronze guard, dark wrapped grip, and a restrained blue-white electric arc hugging the blade. Complete weapon, tip to pommel.",
+      "status": "Original painting; size review at 128, 64, 32 and 22 pixels; integration pending.",
+      "sha256": "2a357c57d34455f7e9a9f6163a800a5cbe5f0a641ecdce35a874398418ef4fdb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "srgb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/kingsbane_last_oath.webp",
+        "sha256": "af655f93c888cb18a71ab5cd1c895d361b9836b190d6d8d1c1cc4104c5dd2b66",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-659871de-13c8-4e3b-8f1c-6eea96678a4a.png"
+    }
+  ]
+}
