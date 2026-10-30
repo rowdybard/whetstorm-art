@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "pearlward_aegis",
+      "file": "docs/design/whetstorm-art/items/pearlward_aegis.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on slate-blue painted background, warm upper-left light, bold shapes readable at 32 pixels. One complete Pearlward Aegis, a rounded sea-green steel shield with a pale iridescent pearl centerpiece, simple concentric silver rim and modest flowing wave engraving, front three-quarter view, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "adff8b2ba8f872f6cc394737aaf49bf01375ceafed5d38b4f03fea3c45298512",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pearlward_aegis.webp",
+        "sha256": "beea97e083957ac162f86a0ceb694bf0e88515c64e3060d45ad86f1205a4386a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "bonewrought_bulwark",
+      "file": "docs/design/whetstorm-art/items/bonewrought_bulwark.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on slate-blue painted background, warm upper-left light, bold shapes readable at 32 pixels. One complete Bonewrought Bulwark, a broad dark iron kite shield with pale bone-colored bands across its face, weathered rivets and a simple angular boss, front three-quarter view, centered with space. No person, skull, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "f1fd9548ceef9b0b2753ff0accdcaae848a1df79295dcad314160f6eebfdaec6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bonewrought_bulwark.webp",
+        "sha256": "68d13f6e62b56ccd765176bc07c72ccb0ccca1df5940349a4bf8cd4db92e5b9d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "votive_ward_of_the_deathless_court",
+      "file": "docs/design/whetstorm-art/items/votive_ward_of_the_deathless_court.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on slate-blue painted background, warm upper-left light, bold shapes readable at 32 pixels. One complete Votive Ward of the Deathless Court, a dark steel oval shield with restrained antique gold rim, a small candle-flame shaped gold relief and geometric engraved lines, front three-quarter view, centered with space. No person, skull, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "9f979f7f50f59564469f6708dec837faa76349aa9fe34f5755511aa37f5f7e4f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/votive_ward_of_the_deathless_court.webp",
+        "sha256": "d2c8d60161fc9399f2caf4c79eed083cc3b01cbbb3b0c38580a2d5f8e34db5c8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "sunbone_ritual_hauberk",
+      "file": "docs/design/whetstorm-art/items/sunbone_ritual_hauberk.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on slate-blue painted background, warm upper-left light, bold shapes readable at 32 pixels. One complete Sunbone Ritual Hauberk, a linked silver mail chest garment with ivory bone-colored overlapping plates and a subtle golden sun motif, empty neck opening and hem, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "677209214a7d1907c9365d2a3c4635744de8df472837ab2e310681d58a504c8d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunbone_ritual_hauberk.webp",
+        "sha256": "b8cae01e82308ad434b1780cb582936522c00f91ffd2c918629576f8b6ff3817",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

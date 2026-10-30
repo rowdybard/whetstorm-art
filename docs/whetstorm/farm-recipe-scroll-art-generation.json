@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "pattern_evergarden_sunmelon_tart",
+      "file": "docs/design/whetstorm-art/items/pattern_evergarden_sunmelon_tart.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO inventory painting: recipe scroll for Evergarden Sunmelon Tart. One partially unrolled warm parchment, tied with amber ribbon and sealed with a small embossed golden sunmelon fruit emblem, subtle orange fruit illustration without writing. Centered complete silhouette, tactile hand-painted, warm upper-left light, deep navy vignette, legible tiny. No letters, numbers, pseudo-writing, border, frame, watermark or copied designs.",
+      "status": "original art candidate; visually reviewed, awaiting resolver integration",
+      "sha256": "6c4359ec683badc6b8307a2fe5e46db865029e7e5f1d93f41937e32d1b9f47f0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_evergarden_sunmelon_tart.webp",
+        "sha256": "0e140c0fa0434c516a03039c9dcd90f02e4005aea615c7953374eb0edd8c2ae7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "pattern_evergarden_harvest_platter",
+      "file": "docs/design/whetstorm-art/items/pattern_evergarden_harvest_platter.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO inventory painting: recipe scroll for Evergarden Harvest Platter. One compact rolled parchment bound with a dark russet cord and a small embossed harvest sheaf wax seal, warm ochre and russet palette. Centered complete silhouette, tactile hand-painted, warm upper-left light, deep navy vignette, legible tiny. No letters, numbers, pseudo-writing, border, frame, watermark or copied designs.",
+      "status": "original art candidate; visually reviewed, awaiting resolver integration",
+      "sha256": "cbef1b945e91ce86323b5ebaf5ad9958ba148c8bf184e14e6fbd16f7afb07de9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_evergarden_harvest_platter.webp",
+        "sha256": "d741653188c62d99fd8e5bfa7d4f934b2cc512e4ac6a5880c11f624bd0a55ca8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "pattern_evergarden_braised_greens",
+      "file": "docs/design/whetstorm-art/items/pattern_evergarden_braised_greens.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO inventory painting: recipe scroll for Evergarden Braised Greens. One partially unrolled cream parchment with a deep green ribbon and an embossed leaf wax seal, delicate green leaf illustration without writing. Centered complete silhouette, tactile hand-painted, warm upper-left light, deep navy vignette, legible tiny. No letters, numbers, pseudo-writing, border, frame, watermark or copied designs.",
+      "status": "original art candidate; visually reviewed, awaiting resolver integration",
+      "sha256": "41831240f9c4fbe12d45ab87abae8cd92fea3596c4f00cdd371c4f2c9dc5ad12",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_evergarden_braised_greens.webp",
+        "sha256": "cf38d0341c28c7d51aeef2730636f961ef8f13d6cb98a0a35be912613ef0eaa3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "pattern_harvest_feast",
+      "file": "docs/design/whetstorm-art/items/pattern_harvest_feast.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO inventory painting: recipe scroll for Harvest Feast. One broad rolled ivory parchment secured by a burgundy ribbon and a bronze medallion embossed with a simple serving bowl, regal autumn palette. Centered complete silhouette, tactile hand-painted, warm upper-left light, deep navy vignette, legible tiny. No letters, numbers, pseudo-writing, border, frame, watermark or copied designs.",
+      "status": "original art candidate; visually reviewed, awaiting resolver integration",
+      "sha256": "7d5ebe07b4037804c76b9fd1e5e4221d9c781409507bfb76a82e59513ce2c687",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_harvest_feast.webp",
+        "sha256": "fc7e0b7703c5c0dc12623ff225f5805f14290f33a988cedf27b999d8acbc97a2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}
