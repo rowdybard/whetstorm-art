@@ -5569,10 +5569,6 @@ export const DEED_ART_PENDING: ReadonlySet<string> = new Set([
   'exp_windrider_slalom',
   'exp_duskweave_dispatches',
   'exp_wisp_maze',
-  // Faction standing deeds use the progression category crest pending art.
-  'prog_rift_watch_champion',
-  'prog_church_order_champion',
-  'prog_automatons_champion',
   // Clue Scroll casket deeds use the exploration category crest pending art.
   'exp_clue_first_casket',
   'exp_clue_ten_caskets',

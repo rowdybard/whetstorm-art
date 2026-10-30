@@ -4,6 +4,9 @@ const ART = new Map<string, string>([
   ['prog_church_order_trusted', '/ui/whetstorm/deeds/prog_church_order_trusted.webp'],
   ['prog_automatons_trusted', '/ui/whetstorm/deeds/prog_automatons_trusted.webp'],
   ['prog_faction_champion_all', '/ui/whetstorm/deeds/prog_faction_champion_all.webp'],
+  ['prog_rift_watch_champion', '/ui/whetstorm/deeds/prog_rift_watch_champion.webp'],
+  ['prog_church_order_champion', '/ui/whetstorm/deeds/prog_church_order_champion.webp'],
+  ['prog_automatons_champion', '/ui/whetstorm/deeds/prog_automatons_champion.webp'],
 ]);
 
 export function factionStandingDeedImageUrl(id: string): string | null {

@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected full source images; small-size and in-game review pending.",
+  "records": [
+    {
+      "id": "prog_rift_watch_champion",
+      "prompt": "Square fantasy MMO achievement painting: champion of the Rift Watch, a luminous cyan shield before a dark swirling rift, surrounded by a prominent ornate gold laurel and a small crown above. Premium hand-painted dark fantasy art, bold central silhouette readable at 28px, dramatic light, opaque dark backdrop. One icon, no text, frame, watermark or references to other games.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_rift_watch_champion.png",
+      "masterSha256": "7773efa9739e22b3f58bee803696cd652760629bcf0d5bdef5abc125b831b134",
+      "shipping": "public/ui/whetstorm/deeds/prog_rift_watch_champion.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90",
+      "shippingSha256": "8c9b28571f7549e74aabf81d0dc4ccd07e376fc5a863868d04f660cbcd3fcdb3"
+    },
+    {
+      "id": "prog_church_order_champion",
+      "prompt": "Square fantasy MMO achievement painting: champion of the Church Order, a luminous ivory-gold cross and shield surrounded by a prominent ornate gold laurel and a small crown above. Premium hand-painted dark fantasy art, bold central silhouette readable at 28px, dramatic light, opaque dark backdrop. One icon, no text, frame, watermark or references to other games.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_church_order_champion.png",
+      "masterSha256": "391ca746ce55869941c3673f308d3d8c5f985999867e5879eb2520fced32a70d",
+      "shipping": "public/ui/whetstorm/deeds/prog_church_order_champion.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90",
+      "shippingSha256": "8c4d8be6e6cc7415df2b2c0b56661e41bbb7588af71165a60321b424495d2ae7"
+    },
+    {
+      "id": "prog_automatons_champion",
+      "prompt": "Square fantasy MMO achievement painting: champion of the Automatons, a silver steel cog with glowing amber core, surrounded by a prominent ornate gold laurel and a small crown above. Premium hand-painted dark fantasy art, bold central silhouette readable at 28px, dramatic light, opaque dark backdrop. One icon, no text, frame, watermark or references to other games.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_automatons_champion.png",
+      "masterSha256": "e588afc0d66c0ac8e49aa99abd776f959318420aef398bd0689bb1b3de37ec2e",
+      "shipping": "public/ui/whetstorm/deeds/prog_automatons_champion.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90",
+      "shippingSha256": "0d6e811d9c31d7f13b30549a75475bb3c663b7fadd64322247cc4be629b6b6c0"
+    }
+  ]
+}
