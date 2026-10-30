@@ -1,0 +1,108 @@
+{
+  "assets": [
+    {
+      "itemId": "pattern_reinforced_armor_kit",
+      "file": "docs/design/whetstorm-art/items/pattern_reinforced_armor_kit.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: a single weathered parchment pattern scroll partly unrolled, secured with leather tie; on parchment a clear painted schematic of a reinforced leather armor patch with rivets. No writing. Complete centered silhouette with safe margins; warm top-left light, deep cool shadows, dark umber vignette, tactile materials, premium hand-painted dark fantasy. No border, frame, watermark, collage or text.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "a4935e8159328f99c8a3c6c76843ef01ffe8d72600427d3a7ece19308515ae79",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_reinforced_armor_kit.webp",
+        "sha256": "2d0dfc4086f2efac9d0c68e6b6c5944f832373f35b31fbfd0dbc7d5bebfd60b5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3792
+      }
+    },
+    {
+      "itemId": "pattern_stonepot_stew",
+      "file": "docs/design/whetstorm-art/items/pattern_stonepot_stew.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: a single weathered parchment recipe scroll partly unrolled, secured with brown cord; on parchment a clear painted diagram of a rustic stone cooking pot containing hearty stew. No writing. Complete centered silhouette with safe margins; warm top-left light, deep cool shadows, dark umber vignette, tactile materials, premium hand-painted dark fantasy. No border, frame, watermark, collage or text.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "08adce1ab4fe891fc9ca578d7fdcf4a6ae3cf04ef2344c424807140887d94fa7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_stonepot_stew.webp",
+        "sha256": "80835b74e9a82ed043d7c8246434742e9c59f33e6350a577f6b60e0f75f7cb3d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3810
+      }
+    },
+    {
+      "itemId": "pattern_warspice_skewers",
+      "file": "docs/design/whetstorm-art/items/pattern_warspice_skewers.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: a single weathered parchment recipe scroll partly unrolled, secured with red cord; on parchment a clear painted diagram of two spice-red cooked meat skewers. No writing. Complete centered silhouette with safe margins; warm top-left light, deep cool shadows, dark umber vignette, tactile materials, premium hand-painted dark fantasy. No border, frame, watermark, collage or text.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "d823d0a93ee1d838c386fd8aba04130c36794f10483e2df36d6d97c911ee0b85",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_warspice_skewers.webp",
+        "sha256": "a09496c30bdd6cf1f9dd6702bc1f967681ae8408f354a4c819790d51d646e3e0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4440
+      }
+    },
+    {
+      "itemId": "pattern_sageleaf_chowder",
+      "file": "docs/design/whetstorm-art/items/pattern_sageleaf_chowder.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: a single weathered parchment recipe scroll partly unrolled, secured with green cord; on parchment a clear painted diagram of a bowl of creamy chowder with a green sage leaf. No writing. Complete centered silhouette with safe margins; warm top-left light, deep cool shadows, dark umber vignette, tactile materials, premium hand-painted dark fantasy. No border, frame, watermark, collage or text.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "271b4f2cb75f02b7ac7c00f1c5a55d12f7a071f5048114f43c7b11d2cbf15327",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_sageleaf_chowder.webp",
+        "sha256": "5b6dcf1fb86de9ac203da59820758f73d16fa2009d503d9b0f3f9d9de32c2d10",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3770
+      }
+    }
+  ]
+}

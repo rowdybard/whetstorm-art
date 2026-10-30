@@ -170,6 +170,7 @@ import { mountReinsRemainingItemImageUrl } from './mount_reins_remaining_item_ar
 import { mournweaveArmorItemImageUrl } from './mournweave_armor_item_art';
 import { oathpyreArmorItemImageUrl } from './oathpyre_armor_item_art';
 import { oct30EighthArmorItemImageUrl } from './oct30_eighth_armor_item_art';
+import { oct30EleventhOriginalItemImageUrl } from './oct30_eleventh_original_item_art';
 import { oct30FifthOriginalItemImageUrl } from './oct30_fifth_original_item_art';
 import { oct30FourthOriginalItemImageUrl } from './oct30_fourth_original_item_art';
 import { oct30NinthOriginalItemImageUrl } from './oct30_ninth_original_item_art';
@@ -209,6 +210,7 @@ import { razorEmberglassItemImageUrl } from './razor_emberglass_item_art';
 import { realmQuestDropItemImageUrl } from './realm_quest_drop_art';
 import { realmQuestWeaponsItemImageUrl } from './realm_quest_weapons_item_art';
 import { recipeScrollBatchItemImageUrl } from './recipe_scroll_batch_item_art';
+import { recipeScrollProvisionsItemImageUrl } from './recipe_scroll_provisions_item_art';
 import { regionalClothRewardsItemImageUrl } from './regional_cloth_rewards_item_art';
 import { resonantMaterialItemImageUrl } from './resonant_material_item_art';
 import { sanctumMailItemImageUrl } from './sanctum_mail_item_art';
@@ -260,6 +262,8 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 export function paintedItemImageUrl(id: string): string | null {
   return (
     recipeScrollBatchItemImageUrl(id) ??
+    recipeScrollProvisionsItemImageUrl(id) ??
+    oct30EleventhOriginalItemImageUrl(id) ??
     oct30TenthOriginalItemImageUrl(id) ??
     oct30NinthOriginalItemImageUrl(id) ??
     oct30EighthArmorItemImageUrl(id) ??

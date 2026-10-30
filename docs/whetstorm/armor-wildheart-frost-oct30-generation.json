@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "verdant_heart_vestment",
+      "file": "docs/design/whetstorm-art/items/verdant_heart_vestment.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, slate-blue painted background, warm upper-left light and broad shapes readable at 32 pixels. One complete Verdant-Heart Vestment: a forest-green leather chest vest with layered leaf-shaped leather panels, visible stitching and a modest heart-shaped green stone clasp, empty neck and arm openings, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "e4009fb583f9af5e0012df6187060a98881523d3909ed6d90da708cefe3df63e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/verdant_heart_vestment.webp",
+        "sha256": "7384bb1f9b7207ff5c8bcdc0a1016727920cfdcfa71a6870c679a50f1e33bc5a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "sunbone_oracles_crown",
+      "file": "docs/design/whetstorm-art/items/sunbone_oracles_crown.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, slate-blue painted background, warm upper-left light and broad shapes readable at 32 pixels. One complete Sunbone Oracle's Crown: a soft ivory woven cloth cap with a narrow gold-thread sunburst embroidery and pale stitched bands, no metal crown, empty opening, centered with space. No head, person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "1e9c6a0fa659475359739ea6866e75d45654e41da5736ca58b4aabece71f1a2f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunbone_oracles_crown.webp",
+        "sha256": "5335774c0d141c5df2f377b95df988e291bdf3910d6875fde1a9d571a44a433d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "bloodmane_war_legguards",
+      "file": "docs/design/whetstorm-art/items/bloodmane_war_legguards.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, slate-blue painted background, warm upper-left light and broad shapes readable at 32 pixels. One complete pair of Bloodmane War-Legguards: dark steel linked mail armored pants from waist to ankle with two separate legs, overlapping reddish bronze thigh plates and dark red leather straps, no feet, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "7c61e8f3ef05203770fbc70685cffc2abe1d3e517618c40c071dee0ea6424a3b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/bloodmane_war_legguards.webp",
+        "sha256": "9710a766dcb3e07deb15da5b334a74458abbaff8b8b013dd4edf218782f02529",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "frostmane_mantle",
+      "file": "docs/design/whetstorm-art/items/frostmane_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, slate-blue painted background, warm upper-left light and broad shapes readable at 32 pixels. One complete Mantle of the Rimemane: a pair of soft pale blue-gray woven cloth shoulder wraps with frosty white embroidered edges and layered folds, no metal, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "3d5a895fdf738efa6908ef35cb7bbf5193df104e87078934c52d8e8291164aeb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/frostmane_mantle.webp",
+        "sha256": "8fa7859bb5f5fc69f872225bebb7b7e7582c55c1b1f913eb7d781442711ce4ca",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}
