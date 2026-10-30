@@ -52,7 +52,7 @@ describe('original Guildmark Armory thumbnails', () => {
       expect(originalArmorySkinArt(id)).toBeNull();
       expect(reliquaryCellArt({ kind: 'weapon_skin', id })).toBeNull();
     }
-    expect(armorySkinArt('cinderbrand_sword')).toBe('/ui/store/armory/cinderbrand_sword.webp');
+    expect(armorySkinArt('forgeheart_staff')).toBe('/ui/store/armory/forgeheart_staff.webp');
   });
   it('pins independent masters, deliveries and provenance', async () => {
     const { assets } = JSON.parse(

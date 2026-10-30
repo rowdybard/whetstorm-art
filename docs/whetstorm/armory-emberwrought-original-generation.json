@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "skinId": "cinderbrand_sword",
+      "file": "docs/design/whetstorm-art/armory/cinderbrand_sword.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm forge light, whole weapon diagonally framed and legible at 32 pixels. Subject: one dark forged steel sword with glowing ember orange marks in its central fuller, heat cracks and a smouldering gem in the guard. Restrained mountain fire. No border, words, letters, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "bdc30bc25157eca95beac3414b4785397963a27d445f209c016fed258b0acbf5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-31696880-1044-4bf6-b7df-8a16e5b79246.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/cinderbrand_sword.webp",
+        "sha256": "ea3e6f9bfd6c094e540f9f5831086752f498fe56ab603755a3e9313f2161ebec",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "emberbite_axe",
+      "file": "docs/design/whetstorm-art/armory/emberbite_axe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm forge light, whole weapon diagonally framed and legible at 32 pixels. Subject: one blackened iron axe with orange glowing cracks in the cutting bit and a small banked coal gem. Restrained mountain fire. No border, words, letters, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "5707464f0d8f19c4c6a06b1c70b492258ecbc51125accbfea79af31dbec802cd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-79e050b3-f3ea-468c-bbee-ee21694be3e4.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/emberbite_axe.webp",
+        "sha256": "f458913b14b2ea8f7300b0d003497c97a64e354d416f3905b1aacb48308eb7dd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "smoulderfall_mace",
+      "file": "docs/design/whetstorm-art/armory/smoulderfall_mace.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm forge light, whole weapon diagonally framed and legible at 32 pixels. Subject: one dark iron flanged mace with ember orange light in the inner cracks and a molten cored gem in its head. Restrained mountain fire. No border, words, letters, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "85126ffc6335614991d6ff6d7e8066b92ee9a9591145cc8ce39f1c931cc4c92e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-d5a36933-69ff-41d3-b590-f3dba066f674.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/smoulderfall_mace.webp",
+        "sha256": "9c82e58b499567c7ff85c52ce7bbbec5fb10940383bb2226e2c2ab8e542c2916",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "ashspark_dagger",
+      "file": "docs/design/whetstorm-art/armory/ashspark_dagger.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an independently designed square hand-painted fantasy game inventory thumbnail, edge-to-edge deep slate blue backdrop, warm forge light, whole weapon diagonally framed and legible at 32 pixels. Subject: one short blackened dagger with glowing ember orange veins in its blade and a tiny smouldering gem in its pommel. Restrained mountain fire. No border, words, letters, people, hands, logos, watermark, or copied game designs.",
+      "status": "Original 2D thumbnail only; the separate held 3D skin remains restricted.",
+      "sha256": "685fa26859656958b454d68d66a5bd2b8ca6f456f07ec4242af1a3631d309e6e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "source_output": "exec-60b2ca91-ee0e-4fea-9c99-651957326b78.png",
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/ashspark_dagger.webp",
+        "sha256": "246dc5e000107bfde0d3beebe99792f03f65bc1ed8b26dbb87198624578eb4ba",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
