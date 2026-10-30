@@ -5562,31 +5562,20 @@ export const DEED_ART_PENDING: ReadonlySet<string> = new Set([
   'dgn_varkhul_flawless',
   // Hidden self-craft celebration; 512px RGBA commission brief in docs/achievements/icon-brief.md.
   'hid_forgebreaker',
-  // Arcane Calligraphy's completion and Gold-rating deeds are both
-  // 'exploration'. They use the category crest until their commissioned
-  // paintings land (docs/achievements/icon-brief.md).
+  // Arcane Calligraphy's completion deed uses the exploration category crest.
   'exp_arcane_calligraphy',
-  'exp_arcane_calligraphy_gold',
   // World-quest completion deeds use the exploration category crest pending art.
   'exp_forge_helper',
-  'exp_last_barricade',
-  'exp_borrowed_face',
   'exp_windrider_slalom',
   'exp_duskweave_dispatches',
   'exp_wisp_maze',
   // Faction standing deeds use the progression category crest pending art.
-  'prog_rift_watch_trusted',
-  'prog_church_order_trusted',
-  'prog_automatons_trusted',
   'prog_rift_watch_champion',
   'prog_church_order_champion',
   'prog_automatons_champion',
-  'prog_faction_champion_all',
   // Clue Scroll casket deeds use the exploration category crest pending art.
   'exp_clue_first_casket',
   'exp_clue_ten_caskets',
-  // The Buried Hoard goblin catch uses the combat category crest pending art.
-  'cmb_coinsack_caught',
   // The ferry round trip (exp_harbor_to_harbor): procedural exploration crest until commissioned.
   'exp_harbor_to_harbor',
   // Opt-in played-time titles use the PvP category crest pending commissioned art.

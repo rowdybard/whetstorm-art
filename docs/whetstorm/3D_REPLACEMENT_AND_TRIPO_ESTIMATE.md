@@ -211,6 +211,42 @@ or every component has the same permission. Some assets marked `With the
 project only` can remain in the fork under the register's stated conditions;
 they are not automatically mandatory replacement candidates.
 
+### Player rig and animation evidence (2026-10-30)
+
+The active class mappings in `src/render/characters/manifest.ts` point to
+`public/models/chars/players/` bodies: knight, paladin, ranger, rogue, mage,
+barbarian and druid. `scripts/assets/specs/characters_v2.json` identifies their
+sources as the paid full KayKit Adventurers 2.0 pack, with the paladin from a
+separate `KayKit/Paladin` source. It merges clips from six Character Animations
+1.1 Rig_Medium libraries into those bodies. These are the exact versions and
+sources that need terms checked, rather than an assumption based on the pack name.
+
+`CREDITS.md` broadly asserts that KayKit packs are CC0 and separately labels
+the Rig_Medium animation library CC0. Its character-specific row links the
+[KayKit Adventurers 1.0 repository](https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0),
+which independently states CC0 for that repository. That 1.0 statement does
+not establish the exact archive terms of Adventurers 2.0, Character Animations
+1.1, or the separately sourced paladin. The creator's product pages could not
+be fetched during this check. Obtain and retain the relevant archive license or
+other version-specific source evidence before treating those files as cleared;
+this gap does not establish that they are prohibited.
+
+The checked-in `third_party/licenses/kaykit-cc0.txt` is additional evidence: it
+identifies The Complete KayKit Collection v5, dated 2026-04-28, and states CC0
+with personal, educational and commercial use permitted. It does not list the
+exact collection contents or prove that the files used by the v2 manifest match
+that collection. The original archive licenses and source-file match therefore
+remain to be verified. The asset-source folders named in the manifest were not
+present in the project checkouts inspected.
+
+Additional player clips also need a source-by-source inventory. For example,
+`scripts/build_kaykit_hit_variety_anims.mjs` synthesizes hit reactions from
+poses in the shipping rigs, while `scripts/build_swim_anims.mjs` retargets
+Blender-authored swim clips. Their individual provenance is not established by
+the 1.0 pack link alone. The Druid bear and cat form model and animation rows in
+`CREDITS.md` are separately marked `With the project only`; that register states
+the fork may use such assets within the project, subject to its stated conditions.
+
 ## Character and equipment fit
 
 Keep an approved character body as the scale and pose reference when authoring

@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected full source images; small-size and in-game review pending.",
+  "records": [
+    {
+      "id": "prog_rift_watch_trusted",
+      "prompt": "Square fantasy MMO achievement painting: a luminous cyan shield before a small swirling rift, signifying trusted standing with the Rift Watch. Premium hand-painted dark fantasy art, strong simple central silhouette readable at 28px, dramatic light, opaque dark backdrop. One icon, no text, frame, watermark or references to other games.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_rift_watch_trusted.png",
+      "masterSha256": "3d0edc38fe8d2a07f80e44509f71a4aedd8d39179237fec5d66e8b5fc9235e47",
+      "shipping": "public/ui/whetstorm/deeds/prog_rift_watch_trusted.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90",
+      "shippingSha256": "88923c424edeede4d1cb4cdc6bc135b1daeba3b2929382a5fe81867de447f00d"
+    },
+    {
+      "id": "prog_church_order_trusted",
+      "prompt": "Square fantasy MMO achievement painting: a luminous ivory-gold cross of the Church Order resting against a modest shield, signifying trusted standing. Premium hand-painted dark fantasy art, strong simple central silhouette readable at 28px, dramatic light, opaque dark backdrop. One icon, no text, frame, watermark or references to other games.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_church_order_trusted.png",
+      "masterSha256": "9a6a4efc0ad0a76dafa96334bfafdf50ad5c739f59a2a6ddd32175c50906bad8",
+      "shipping": "public/ui/whetstorm/deeds/prog_church_order_trusted.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90",
+      "shippingSha256": "ae37c84abc8b4a9027b6e4b0a6ca9d5936816d5c0a4cd3f80fc3fbc7d5160777"
+    },
+    {
+      "id": "prog_automatons_trusted",
+      "prompt": "Square fantasy MMO achievement painting: a silver steel automaton cog with a warm glowing core and carefully worked teeth, signifying trusted standing with the Automatons. Premium hand-painted dark fantasy art, strong simple central silhouette readable at 28px, dramatic light, opaque dark backdrop. One icon, no text, frame, watermark or references to other games.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_automatons_trusted.png",
+      "masterSha256": "2c4b5b03b36f8c9b62065b9a6a22505fe832d5851fef3b071020af17138cbfae",
+      "shipping": "public/ui/whetstorm/deeds/prog_automatons_trusted.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90",
+      "shippingSha256": "e0b9f64229ca49baaeaffb30c564964895f89179abd3f0da6db6919b0864a5be"
+    },
+    {
+      "id": "prog_faction_champion_all",
+      "prompt": "Square fantasy MMO achievement painting: three distinct small heraldic emblems joined in a gold laurel: a cyan shield, an ivory cross, and a silver cog, signifying champion standing with all three factions. Premium hand-painted dark fantasy art, bold readable composition at 28px, dramatic light, opaque dark backdrop. One icon, no text, frame, watermark or references to other games.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/prog_faction_champion_all.png",
+      "masterSha256": "b176b92b29ece4f13fcd7bda91dba47793c8c2ea8377388c7c084e722246fbaf",
+      "shipping": "public/ui/whetstorm/deeds/prog_faction_champion_all.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90",
+      "shippingSha256": "a2984deae38853a3c709d7121bcfac1fce193434a664917f4e5ba3df9465843d"
+    }
+  ]
+}

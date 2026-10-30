@@ -25,6 +25,7 @@ import { earlyCollectionDeedImageUrl } from './early_collection_deed_art';
 import { earlySocialDeedImageUrl } from './early_social_deed_art';
 import { experienceDeedImageUrl } from './experience_deed_art';
 import { explorationDeedImageUrl } from './exploration_deed_art';
+import { factionStandingDeedImageUrl } from './faction_standing_deed_art';
 import { floodedChallengeDeedImageUrl } from './flooded_challenge_deed_art';
 import { gatheringBookendDeedImageUrl } from './gathering_bookend_deed_art';
 import { heroicClearDeedImageUrl } from './heroic_clear_deed_art';
@@ -77,6 +78,7 @@ const EARLY_DEED_ART = new Map<string, string>([
 export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
+    factionStandingDeedImageUrl(id) ??
     adventureMilestoneDeedImageUrl(id) ??
     amberfallEvergardenDeedImageUrl(id) ??
     nightbloomWraithwoodDeedImageUrl(id) ??

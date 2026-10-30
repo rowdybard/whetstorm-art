@@ -4,6 +4,10 @@ const ACTIVITY_DEED_ART = new Map<string, string>([
   ['exp_forge_helper', '/ui/whetstorm/deeds/exp_forge_helper.webp'],
   ['exp_duskweave_dispatches', '/ui/whetstorm/deeds/exp_duskweave_dispatches.webp'],
   ['exp_wisp_maze', '/ui/whetstorm/deeds/exp_wisp_maze.webp'],
+  ['exp_arcane_calligraphy_gold', '/ui/whetstorm/deeds/exp_arcane_calligraphy_gold.webp'],
+  ['exp_last_barricade', '/ui/whetstorm/deeds/exp_last_barricade.webp'],
+  ['exp_borrowed_face', '/ui/whetstorm/deeds/exp_borrowed_face.webp'],
+  ['cmb_coinsack_caught', '/ui/whetstorm/deeds/cmb_coinsack_caught.webp'],
 ]);
 
 export function activityDeedImageUrl(id: string): string | null {
