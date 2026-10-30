@@ -18,7 +18,7 @@ describe('original gathering checkpoint routing', () => {
       expect(professionIconUrl(id)).toBe(url);
     }
     expect(professionImageUrl('archetype_arcanist')).toBe(
-      '/ui/professions/archetype_arcanist.webp',
+      '/ui/whetstorm/professions/archetype_arcanist.webp',
     );
     expect(professionImageUrl('../gather_mining')).toBeNull();
   });

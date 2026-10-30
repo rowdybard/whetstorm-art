@@ -72,6 +72,7 @@ export * from './tool_effect_result_view';
 export * from './wellfed_stat_keys';
 export * from './wellfed_tooltip_view';
 export * from './whetstorm_archetype_a_art';
+export * from './whetstorm_archetype_b_art';
 export * from './whetstorm_crafting_a_art';
 export * from './whetstorm_crafting_b_art';
 export * from './whetstorm_gathering_art';

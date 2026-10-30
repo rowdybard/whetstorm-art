@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "archetype_arcanist",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy MMORPG profession archetype crest. Subject: an arcane quill writing on a glowing rune scroll beside an enchanted crystal, symbolizing inscription and enchanting. Original hand-painted fantasy style, centered and readable at 32 pixels, detailed circular antique-gold medallion with dark painted vignette outside, warm lighting, tactile materials. No text, letters, logos, watermark, or references to existing games.",
+      "master": "docs/design/whetstorm-art/professions/archetype_arcanist.png",
+      "masterSha256": "e5e98c97df7385b02f9fa21ff8c7689c849e97561a155760037c77124f3f3e8e",
+      "shipping": "public/ui/whetstorm/professions/archetype_arcanist.webp",
+      "shippingSha256": "53ddcd81fd0eb231df7a1d7d1f5c1d8ffa553c27f76064931f5f62c09be49565",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "archetype_bladewright",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy MMORPG profession archetype crest. Subject: a forged sword crossed with a jeweler's faceted ruby and fine setting tools, symbolizing weaponcrafting and jewelcrafting. Original hand-painted fantasy style, centered and readable at 32 pixels, detailed circular antique-gold medallion with dark painted vignette outside, warm lighting, tactile materials. No text, letters, logos, watermark, or references to existing games.",
+      "master": "docs/design/whetstorm-art/professions/archetype_bladewright.png",
+      "masterSha256": "ae6341c2871c9e75558d690affbf6abd00527bc26d81de301cb014020c59cad0",
+      "shipping": "public/ui/whetstorm/professions/archetype_bladewright.webp",
+      "shippingSha256": "901c686afd49dcf39961eb4149c36fda0962587b2bfc56ccf3ec6b4040cdf102",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "archetype_outfitter",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy MMORPG profession archetype crest. Subject: a leather hide, sewing needle and a folded cloth garment, symbolizing leatherworking and tailoring. Original hand-painted fantasy style, centered and readable at 32 pixels, detailed circular antique-gold medallion with dark painted vignette outside, warm lighting, tactile materials. No text, letters, logos, watermark, or references to existing games.",
+      "master": "docs/design/whetstorm-art/professions/archetype_outfitter.png",
+      "masterSha256": "6820eea99b40b84984f06724de5e4e0264d1639437b08fd25fb1b03729289e04",
+      "shipping": "public/ui/whetstorm/professions/archetype_outfitter.webp",
+      "shippingSha256": "5c233bef8c0a1440a08fa092af23f56e6074e423c3c932c4e3651a4a6a1a85c5",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "archetype_mageweaver",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy MMORPG profession archetype crest. Subject: a weaving shuttle, thread and a luminous arcane inscription scroll, symbolizing tailoring and inscription. Original hand-painted fantasy style, centered and readable at 32 pixels, detailed circular antique-gold medallion with dark painted vignette outside, warm lighting, tactile materials. No text, letters, logos, watermark, or references to existing games.",
+      "master": "docs/design/whetstorm-art/professions/archetype_mageweaver.png",
+      "masterSha256": "b9d4ac50e4aa1c0fa31a1ca0c93953b7d175622affd3d39eb5fb19b80947aba9",
+      "shipping": "public/ui/whetstorm/professions/archetype_mageweaver.webp",
+      "shippingSha256": "d33e9359c45ed332f31cbb5d46eb16a4bbe80fef12e2c1a2f7e32240ceb917ff",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    }
+  ]
+}

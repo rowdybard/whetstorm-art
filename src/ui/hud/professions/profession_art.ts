@@ -1,5 +1,6 @@
 import { PROFESSION_IMAGE_IDS } from './profession_image_ids';
 import { whetstormArchetypeAImageUrl } from './whetstorm_archetype_a_art';
+import { whetstormArchetypeBImageUrl } from './whetstorm_archetype_b_art';
 import { whetstormCraftingAProfessionImageUrl } from './whetstorm_crafting_a_art';
 import { whetstormCraftingBProfessionImageUrl } from './whetstorm_crafting_b_art';
 import { whetstormGatheringProfessionImageUrl } from './whetstorm_gathering_art';
@@ -34,6 +35,7 @@ export function professionImageUrl(id: string): string | null {
     whetstormCraftingAProfessionImageUrl(id) ??
     whetstormCraftingBProfessionImageUrl(id) ??
     whetstormArchetypeAImageUrl(id) ??
+    whetstormArchetypeBImageUrl(id) ??
     whetstormSmithImageUrl(id) ??
     whetstormMasterworkProfessionImageUrl(id) ??
     (PROFESSION_IMAGE_IDS.has(id) ? `${PROFESSION_IMAGE_DIR}/${id}.webp` : null)
