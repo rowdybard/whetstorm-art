@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "moonshroud_tunic",
+      "file": "docs/design/whetstorm-art/items/moonshroud_tunic.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, deep slate-blue painted backdrop, warm upper-left light, bold shapes readable at 32 pixels. One complete Moonwrack Tunic, a fitted silver-gray leather vest with dark blue leather edging, sewn seams and a small crescent-shaped stitched motif, empty neck and arm openings, entire silhouette centered with space. No person, text, border, logo, watermark, photorealism, or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "6d77c683ffecc7ea556a7f37fa35128071cf57e31e77e6715a3930ab0a59d29f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonshroud_tunic.webp",
+        "sha256": "c4c4edb512ebf6ad71fe495768d892c647f86dcb2c5dacc0cfc95b9201961cb7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "selthes_seastriders",
+      "file": "docs/design/whetstorm-art/items/selthes_seastriders.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, deep slate-blue painted backdrop, warm upper-left light, bold shapes readable at 32 pixels. One complete pair of Selthe's Sea-Striders, teal leather ankle boots with curved wave-shaped stitched panels, pale sand-colored soles and tied leather cuffs, both complete boots centered with space. No person, text, border, logo, watermark, photorealism, or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "6053a1b33e526a566c0906923a538732e0b677010e998c647345e34cb1fcc478",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/selthes_seastriders.webp",
+        "sha256": "e605780a3cac52a3f29868d1eff423553434ba6709d84de4861bf6ad79a4a0aa",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "stormscale_treads",
+      "file": "docs/design/whetstorm-art/items/stormscale_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, deep slate-blue painted backdrop, warm upper-left light, bold shapes readable at 32 pixels. One complete pair of Stormscale Treads, dark indigo leather boots with overlapping blue-gray leather scale panels, pale lightning-like stitching and sturdy soles, both complete boots centered with space. No person, text, border, logo, watermark, photorealism, or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "9741eeb9094d46239832546895e18e62473603a3f730907b5d9e8a2389115139",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stormscale_treads.webp",
+        "sha256": "b0bf2ca9d1395c95d20e5dcd2d107f0b719d8b96cc10126df9ff91ad053ef9aa",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "verdant_walkers",
+      "file": "docs/design/whetstorm-art/items/verdant_walkers.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon, deep slate-blue painted backdrop, warm upper-left light, bold shapes readable at 32 pixels. One complete pair of Verdant Walkers, forest-green and brown leather boots with layered leaf-shaped leather panels, visible stitching and simple tan soles, both complete boots centered with space. No person, text, border, logo, watermark, photorealism, or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "7eda12f6ff759cb17e54cd8d3f8c9141f4811d1924c91f97fbd050c1f665d3b4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/verdant_walkers.webp",
+        "sha256": "1bf1c815de76a5d908f4680b5bfc799ae8e2a7432f7f8b76d0b137abbaa1f9c8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

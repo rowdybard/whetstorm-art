@@ -173,6 +173,7 @@ import { oct30FifthOriginalItemImageUrl } from './oct30_fifth_original_item_art'
 import { oct30FourthOriginalItemImageUrl } from './oct30_fourth_original_item_art';
 import { oct30OriginalItemImageUrl } from './oct30_original_item_art';
 import { oct30SecondOriginalItemImageUrl } from './oct30_second_original_item_art';
+import { oct30SixthOriginalItemImageUrl } from './oct30_sixth_original_item_art';
 import { oct30ThirdOriginalItemImageUrl } from './oct30_third_original_item_art';
 import { osmiumGlyphsteelItemImageUrl } from './osmium_glyphsteel_item_art';
 import { packlordArmorItemImageUrl } from './packlord_armor_item_art';
@@ -253,6 +254,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    oct30SixthOriginalItemImageUrl(id) ??
     oct30FifthOriginalItemImageUrl(id) ??
     oct30FourthOriginalItemImageUrl(id) ??
     wyrmBasinMonumentsItemImageUrl(id) ??

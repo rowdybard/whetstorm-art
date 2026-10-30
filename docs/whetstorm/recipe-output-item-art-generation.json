@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "sunspun_vestments",
+      "file": "docs/design/whetstorm-art/items/sunspun_vestments.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "One original square fantasy MMO inventory painting: Sunspun Vestments, an ornate ivory cloth chest vestment with warm golden woven sun motifs, subtle amber trim, short sleeves, no body or mannequin. Complete centered garment, premium hand-painted, tactile folds, warm upper-left light, deep slate-blue painted vignette, safe padding, legible at tiny size. No text, symbols resembling writing, border, frame, watermark, extra objects, or copied game designs.",
+      "status": "original art candidate; visually reviewed, awaiting resolver integration",
+      "sha256": "7f413869c8bb212bab1608efd2cf40065f099a96e7179e9829d9e959277aa3d2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunspun_vestments.webp",
+        "sha256": "fd93b436a991c165dffe2a0d5f42230853ce7125c1bbce8c4a2994c0f03dc6df",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "sunspun_leggings",
+      "file": "docs/design/whetstorm-art/items/sunspun_leggings.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "One original square fantasy MMO inventory painting: Sunspun Leggings, a complete pair of ivory cloth trousers with warm golden woven sun motifs and subtle amber trim, matching an ornate sunspun vestment set, no body or mannequin. Centered full silhouette, premium hand-painted, tactile folds, warm upper-left light, deep slate-blue painted vignette, safe padding, legible at tiny size. No text, symbols resembling writing, border, frame, watermark, extra objects, or copied game designs.",
+      "status": "original art candidate; visually reviewed, awaiting resolver integration",
+      "sha256": "385af73c788a5721d406ea804bc0c173bee4a03c136eab7814a6f2a02bca3192",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunspun_leggings.webp",
+        "sha256": "1513165c9f1431f8397c427615f421feffd799ea85455bc874ea04756e99501b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "reinforced_armor_kit",
+      "file": "docs/design/whetstorm-art/items/reinforced_armor_kit.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "One original square fantasy MMO inventory painting: Reinforced Armor Kit, a compact folded thick brown leather armor patch with visible reinforced metal riveted edging and a few strong stitches, one coherent complete object. Centered three-quarter view, premium hand-painted tactile leather and metal, warm upper-left light, deep slate-blue painted vignette, safe padding, legible at tiny size. No text, border, frame, watermark, tools, extra objects, or copied game designs.",
+      "status": "original art candidate; visually reviewed, awaiting resolver integration",
+      "sha256": "0db5aa8cd6f25fa1441ca2adb7ce58c5b149ab5e28832adf2ef42cc30f3d7118",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reinforced_armor_kit.webp",
+        "sha256": "0e510b779210737c73704a504b72111168dce4f14714861968954d9987a47bb8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "dense_sharpening_stone",
+      "file": "docs/design/whetstorm-art/items/dense_sharpening_stone.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "One original square fantasy MMO inventory painting: Dense Sharpening Stone, one solid dark gray rectangular whetstone with beveled worn edges and a light diagonal abrasion groove, no weapon, one coherent complete object. Centered three-quarter view, premium hand-painted tactile gritty stone, warm upper-left light, deep slate-blue painted vignette, safe padding, legible at tiny size. No text, border, frame, watermark, extra objects, or copied game designs.",
+      "status": "original art candidate; visually reviewed, awaiting resolver integration",
+      "sha256": "4c5aca47b73f84f2b0719321840ca04891d157a381f43a1edfb57abc544fc45d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/dense_sharpening_stone.webp",
+        "sha256": "1d47eb965c6d443b8b7dae180e8015cd26094fa4d507dabaace4d29e2ae38452",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}
