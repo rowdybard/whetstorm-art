@@ -49,7 +49,6 @@ const entrySource = `
   export { DELVE_SHOPS } from './src/sim/content/delves/shop.ts';
   export { DEEDS, DEED_ORDER } from './src/sim/content/deeds.ts';
   export { FINAL_BOSS_DUNGEONS, FLAWLESS_TASKS } from './src/sim/deeds.ts';
-  export { DEED_IMAGE_IDS } from './src/ui/deed_image_ids.ts';
   export { RELIQUARY_PAGES } from './src/sim/content/reliquary.ts';
   export { MOUNTS } from './src/sim/content/mounts.ts';
   export { WEAPON_SKINS } from './src/sim/content/weapon_skins.ts';
@@ -146,7 +145,6 @@ const {
   DELVE_SHOPS,
   DEEDS,
   DEED_ORDER,
-  DEED_IMAGE_IDS,
   RELIQUARY_PAGES,
   FINAL_BOSS_DUNGEONS,
   FLAWLESS_TASKS,
@@ -563,9 +561,7 @@ const delves = DELVE_LIST.map((d) => {
 // player-facing `desc`: deed descriptions name instanced bosses and per-encounter mechanics
 // that the wiki withholds by policy (the same reason the raid boss and elite creatures stay
 // out of the bestiary), so the criteria live only in the in-game Book of Deeds.
-// The crest URL points at art the game client already ships publicly under /ui/deeds
-// (the id doubles as the filename), and it is only ever computed AFTER the hidden filter,
-// so no hidden deed's id can ride out through a crest path.
+// The guide resolves deed crests at render time through the shared icon fallback.
 // The guideVisible gate reaches the deed and reliquary catalogs too: a
 // development-gated encounter room (guideVisible false, the dungeons filter
 // above) must not leak its boss names, deed prose, or relic lists through
@@ -595,7 +591,6 @@ const deeds = DEED_ORDER.map((id) => DEEDS[id])
     feat: !!d.feat,
     ...(d.reward?.kind === 'title' ? { rewardTitle: d.reward.text } : {}),
     ...(d.reward?.kind === 'border' ? { rewardBorder: true } : {}),
-    ...(DEED_IMAGE_IDS.has(d.id) ? { crest: `/ui/deeds/${d.id}.webp` } : {}),
   }));
 
 // The Reliquary catalog, spoiler-safe: page names, shelf, and relic display
@@ -1499,7 +1494,7 @@ export interface GuideDeed {
   rewardTitle?: string;
   /** True when the deed grants a cosmetic nameplate border. */
   rewardBorder?: true;
-  /** Painted crest URL under /ui/deeds, present only when committed art backs this deed. */
+  /** Optional legacy crest field retained for compatibility; new catalogs omit it. */
   crest?: string;
 }
 
