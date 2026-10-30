@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "scan_note": "A targeted textual scan of literal quest-kind definitions under src/sim/content found these two live entries and retired chunk_of_ore without matching individual PNG masters. This does not prove coverage of dynamically defined or differently structured entries.",
+  "assets": [
+    {
+      "itemId": "the_codfather",
+      "file": "docs/design/whetstorm-art/items/the_codfather.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for the_codfather, a large legendary marsh fish quest catch. Show one complete stout dark olive catfish with a broad flat head, long whiskers and a pale belly, horizontally curved gently across the frame, with ample margins, centered against a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No hook, fishing gear, water, people, text, letters, border, logos, watermark, photorealism, or copied game designs.",
+      "sha256": "b24c7f225d7724309cf6be64ba003e91027337d6cd3a8741a6957e8f6ea6c2f8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/the_codfather.webp",
+        "sha256": "f2ff1c1d7dd079d7087d8e6b7098378ebe084d8a58eecae74ca3cccfbee0f997",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "unknown_alien_weaponry",
+      "file": "docs/design/whetstorm-art/items/unknown_alien_weaponry.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for unknown_alien_weaponry, a quest object recovered from smoldering meteor debris. One complete mysterious compact folded metallic fragment, overlapping curved dark silver plates with a small warm orange seam, no recognizable weapon, centered on a dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No text, letters, runes, border, logos, watermark, people, extra objects, photorealism, or copied game designs.",
+      "sha256": "66c39f5cbcf62ba1ceead8c1f3cd4fef34be8cec331dcd952b8240cdc6c64e03",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/unknown_alien_weaponry.webp",
+        "sha256": "1d208d6e408e43c161c9218ddc0db9377c60b8b63800efe680f55656dbcb599b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

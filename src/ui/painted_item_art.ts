@@ -169,6 +169,7 @@ import { mountReinsHeroicItemImageUrl } from './mount_reins_heroic_item_art';
 import { mountReinsRemainingItemImageUrl } from './mount_reins_remaining_item_art';
 import { mournweaveArmorItemImageUrl } from './mournweave_armor_item_art';
 import { oathpyreArmorItemImageUrl } from './oathpyre_armor_item_art';
+import { oct30FifthOriginalItemImageUrl } from './oct30_fifth_original_item_art';
 import { oct30FourthOriginalItemImageUrl } from './oct30_fourth_original_item_art';
 import { oct30OriginalItemImageUrl } from './oct30_original_item_art';
 import { oct30SecondOriginalItemImageUrl } from './oct30_second_original_item_art';
@@ -252,6 +253,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    oct30FifthOriginalItemImageUrl(id) ??
     oct30FourthOriginalItemImageUrl(id) ??
     wyrmBasinMonumentsItemImageUrl(id) ??
     choirGraveIgnivarItemImageUrl(id) ??

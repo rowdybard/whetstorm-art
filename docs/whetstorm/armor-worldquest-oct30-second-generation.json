@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "moonshroud_breastplate",
+      "file": "docs/design/whetstorm-art/items/moonshroud_breastplate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on a dark slate blue painted background, warm upper-left light and bold shapes legible at 32 pixels. One complete Moonwrack Breastplate: a silver-blue linked mail chest piece with overlapping moonlit steel plates and a subtle crescent etched on the chest, complete shoulder openings and hem, centered with space around it. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "b72140cfd77037a4e63bbf327514edac34e187a9d3b5226a9a9b267e80bb5be5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonshroud_breastplate.webp",
+        "sha256": "19bf41e0af62fefd3ce22e4f6af74b8257bb2b145572826b2a5784be60f59fe3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "broodmother_carapace",
+      "file": "docs/design/whetstorm-art/items/broodmother_carapace.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on a dark slate blue painted background, warm upper-left light and bold shapes legible at 32 pixels. One complete Broodmother Carapace: a leather chest armor vest with dark reddish brown overlapping chitin-like leather scales, tan stitching and straps, empty neck and arm openings, complete silhouette centered with space around it. No person, spider, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "b6881b407702c4fe2cdcd16a27040f078716b734402c8e3766a824104fc2f7f0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/broodmother_carapace.webp",
+        "sha256": "a43d6a7ea1a7d286c36c132a69fb15cc934e77ce44416d72b74222aa9ab2caba",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "cryptbloom_shoulderguards",
+      "file": "docs/design/whetstorm-art/items/cryptbloom_shoulderguards.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on a dark slate blue painted background, warm upper-left light and bold shapes legible at 32 pixels. One complete pair of Tombpetal Shoulderguards: layered deep plum leather pauldrons shaped like curling petals, pale stitched edges and restrained antique brass rivets, both pieces centered with space around them. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "216be319954a62753ebb9682069043cfa4f18ee5494e84f29960fccec07d775c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cryptbloom_shoulderguards.webp",
+        "sha256": "67bbb06501e021cbb4bc2875ab1d9d327aa8f89af9628f6f653033e312e829a5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "grovewardens_grips",
+      "file": "docs/design/whetstorm-art/items/grovewardens_grips.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on a dark slate blue painted background, warm upper-left light and bold shapes legible at 32 pixels. One complete pair of Grovewarden's Grips: supple moss-green and earthy brown leather gloves with leaf-shaped overlapping leather panels, visible stitched seams and simple wrapped cuffs, both gloves centered with space around them. No hands, person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "687f68b79498b329fa893fb1ca783af39e50139f91969baf3e9e7ffd3b049b36",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/grovewardens_grips.webp",
+        "sha256": "cdb07030c8b6bbe10c03ac9e7d829fbeb6955659fb53b48a9b55be8ef217247e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}
