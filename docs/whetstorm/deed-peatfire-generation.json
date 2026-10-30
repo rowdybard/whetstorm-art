@@ -1,0 +1,15 @@
+{
+  "records": [
+    {
+      "id": "chr_old_peatfire",
+      "master": "docs/design/whetstorm-art/deeds/chr_old_peatfire.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square full-bleed fantasy MMORPG achievement icon commemorating slaying Old Peatfire: close-up head of a hulking ancient dragon-kin with bark-brown peat scales, moss patches, and glowing ember-orange fissures, smoke from its jaws, against a dark marsh. Dark background fills the entire square to every corner. Bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, medal, border, white background, or imitation of other games or artists.",
+      "masterSha256": "50853a58c91f12cc9e0dc6e73478b2ab5080bf1df69cdf1b51439316c21b9b96",
+      "shipping": "public/ui/whetstorm/deeds/chr_old_peatfire.webp",
+      "shippingSha256": "7d4ed63d35811cd36336b690c74512f63ee1fb648de2fe50b0cd2d7c0303856e",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}
