@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "col_discovery_150",
+      "master": "docs/design/whetstorm-art/deeds/col_discovery_150.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for discovering 150 different items: an open wooden curio cabinet holding a handful of distinct mysterious relics, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame, or imitation of other games or artists.",
+      "masterSha256": "7d9e91f5dea1b9906e9674f1e257979adafa1555b3082089c43067063c1fac8e",
+      "shipping": "public/ui/whetstorm/deeds/col_discovery_150.webp",
+      "shippingSha256": "cd9a7289b7814c19a8265aa9b285143ea0076ada4695887b79e8ea88b0771b0d",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_discovery_250",
+      "master": "docs/design/whetstorm-art/deeds/col_discovery_250.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for discovering 250 different items: a richly stocked treasure chest with an ornate magnifying glass and glowing assorted artifacts, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame, or imitation of other games or artists.",
+      "masterSha256": "60aef8186f8193df956283d5715c45eef832193815a19ecc9ec83a2502db8074",
+      "shipping": "public/ui/whetstorm/deeds/col_discovery_250.webp",
+      "shippingSha256": "ab414335d0e629f97a6549f8b4b7818beb3088f00d0002b194868729abeb30ff",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_first_epic",
+      "master": "docs/design/whetstorm-art/deeds/col_first_epic.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for acquiring a first epic item: a single faceted violet gemstone set into a silver pendant, radiating purple light, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame, or imitation of other games or artists.",
+      "masterSha256": "fbb843e1fb8a3327d4e76e4a0a73d6558e844bc661ffb9f9a3ad6ada62abddf4",
+      "shipping": "public/ui/whetstorm/deeds/col_first_epic.webp",
+      "shippingSha256": "b5e91d733d3569436bf94d806b3fdbf4cb61f0768152c1d3b9aba166aaaa2d53",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_first_legendary",
+      "master": "docs/design/whetstorm-art/deeds/col_first_legendary.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for acquiring a first legendary item: a radiant amber golden crown jewel held in a forged gold setting, emitting warm orange light, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame, or imitation of other games or artists.",
+      "masterSha256": "8f8953d7edd1d020f3645f20ca072b48a6bdfa1d4f83494ef445ca74fcde0d54",
+      "shipping": "public/ui/whetstorm/deeds/col_first_legendary.webp",
+      "shippingSha256": "5039521c340059befdd39b7174f4ab1e63724b97e9cb815f59967d72fc2bf698",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}

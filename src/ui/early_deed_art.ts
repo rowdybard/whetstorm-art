@@ -3,6 +3,7 @@ import { amberfallEvergardenDeedImageUrl } from './amberfall_evergarden_deed_art
 import { ascendantDeedImageUrl } from './ascendant_deed_art';
 import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
 import { civicBankDeedImageUrl } from './civic_bank_deed_art';
+import { collectionTreasuresDeedImageUrl } from './collection_treasures_deed_art';
 import { combatMasteryDeedImageUrl } from './combat_mastery_deed_art';
 import { combatVictoryDeedImageUrl } from './combat_victory_deed_art';
 import { craftMasteryDeedImageUrl } from './craft_mastery_deed_art';
@@ -64,6 +65,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     nightbloomWraithwoodDeedImageUrl(id) ??
     marshChronicleDeedImageUrl(id) ??
     thornpeakChronicleDeedImageUrl(id) ??
+    collectionTreasuresDeedImageUrl(id) ??
     earlyCollectionDeedImageUrl(id) ??
     earlySocialDeedImageUrl(id) ??
     civicBankDeedImageUrl(id) ??
