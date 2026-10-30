@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "col_set_vale_arcanist",
+      "master": "docs/design/whetstorm-art/deeds/col_set_vale_arcanist.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for collecting a rural arcanist's regalia: a woven blue robe and circlet with a glowing rune, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame, or imitation of other games or artists.",
+      "masterSha256": "7a3926cab80dc64304ba421d533e50e46a3ffaed64018b9b26d7d64fb48278fb",
+      "shipping": "public/ui/whetstorm/deeds/col_set_vale_arcanist.webp",
+      "shippingSha256": "29fa5394955ce5c3485bfb6b00d322e17eb447fb2ea3b8f491b42687a3e171da",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_set_boundstone_vanguard",
+      "master": "docs/design/whetstorm-art/deeds/col_set_boundstone_vanguard.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for collecting a stonebound vanguard armor set: a sturdy stone-inlaid steel helmet and gauntlet with cool blue glow, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame, or imitation of other games or artists.",
+      "masterSha256": "7f8a95b160f0dcf5415e51d5e40f1920d356cd5556854aa7f1c77cc5088009a8",
+      "shipping": "public/ui/whetstorm/deeds/col_set_boundstone_vanguard.webp",
+      "shippingSha256": "62a2ce9aba86cb25488187580df21ca7f26bfec402365e3c38d5cdda8705c441",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_set_greyjaw_stalker",
+      "master": "docs/design/whetstorm-art/deeds/col_set_greyjaw_stalker.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for collecting a wolf stalker's outfit: rugged leather boots and a hood with a grey wolf motif, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame, or imitation of other games or artists.",
+      "masterSha256": "53abe95023bc3892ad15c9856a3a002248e28110a93862f0aae1bd9e97b67348",
+      "shipping": "public/ui/whetstorm/deeds/col_set_greyjaw_stalker.webp",
+      "shippingSha256": "4b076383e65747f34dceed1c1beed7961100e111fe222d24218ff504934b72b0",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_set_deathlord",
+      "master": "docs/design/whetstorm-art/deeds/col_set_deathlord.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for collecting ancient barrow lord battle armor: a dark iron breastplate with bone accents and a dim green ghostly glow, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame, or imitation of other games or artists.",
+      "masterSha256": "815698f6168712b154470ea544e731d88bfd835c4e979d4c33c997fdaeb54b32",
+      "shipping": "public/ui/whetstorm/deeds/col_set_deathlord.webp",
+      "shippingSha256": "692927fc4ed2549744a47f3b2e0f2a0fa2d2411341ba5ef2ffc57b90f42a191c",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}
