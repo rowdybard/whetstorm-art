@@ -1,0 +1,54 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputImages": [],
+  "processing": "sharp resize to 128x128, WebP quality 90",
+  "entries": [
+    {
+      "id": "evil_eye",
+      "path": "public/ui/whetstorm/abilities/warlock_utility_evil_eye.webp",
+      "sha256": "72446307b82efc0fc7ec6d3e2d19007a56fc6bc367d88d259eeb6306f8d90db4",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warlock-utility/evil_eye.png",
+        "sha256": "83c3e63b63d5cc86ef5537693d95c513f4a765e4922a8cb0ecd96dc1afe03c9a"
+      },
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG Warlock ability icon painting. Evil Eye: a single hovering ominous violet eye in a shadowy halo, marking an enemy with occult attention. Single clear central composition, dramatic painterly detail, rich contrast, dark unobtrusive background, readable at small icon size, edge-to-edge without frame. No lettering, text, logos, watermark."
+    },
+    {
+      "id": "cursed_accomplice",
+      "path": "public/ui/whetstorm/abilities/warlock_utility_cursed_accomplice.webp",
+      "sha256": "aa0a8479358849e4e22030dde4a56649e9f6140c4df834253562d76512066127",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warlock-utility/cursed_accomplice.png",
+        "sha256": "5d9d861e3ec298d6b50cafc56ac858936ae41110734f2b36fe383a019d3bac1d"
+      },
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG Warlock ability icon painting. Cursed Accomplice: two silhouetted figures connected by a luminous violet thread of shadow, representing a pact linking allies. Single clear central composition, dramatic painterly detail, rich contrast, dark unobtrusive background, readable at small icon size, edge-to-edge without frame. No lettering, text, logos, watermark."
+    },
+    {
+      "id": "cruel_pact",
+      "path": "public/ui/whetstorm/abilities/warlock_utility_cruel_pact.webp",
+      "sha256": "8b8b403d4dfbafa4c3addd89c005bffb52e45c8502a4f754d3266c84d4bd1b23",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warlock-utility/cruel_pact.png",
+        "sha256": "4f4a8372147e97c5a41e23e9c0500a66dd1b17bc315f6d80637d473416775d47"
+      },
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG Warlock ability icon painting. Cruel Pact: a cracked crimson heart offering a stream of red vitality into a small violet mana crystal, dark ritual of sacrifice. Single clear central composition, dramatic painterly detail, rich contrast, dark unobtrusive background, readable at small icon size, edge-to-edge without frame. No lettering, text, logos, watermark."
+    },
+    {
+      "id": "vicarious_suffering",
+      "path": "public/ui/whetstorm/abilities/warlock_utility_vicarious_suffering.webp",
+      "sha256": "63feace3c66939c7d1414d4efd45bb3c14c247ea90281a2564ab50907f9a31fa",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warlock-utility/vicarious_suffering.png",
+        "sha256": "640f0351bfb14b765d8a4d4c21464f0e8b5ee4578ff275110fce6d91f397ce20"
+      },
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG Warlock ability icon painting for Vicarious Suffering, a defensive ability that shields a target while sharing harm. Dominant single large ornate shield silhouette centered and occupying most of the frame, cracked dark iron with a brilliant violet protective barrier and small shadowy tendrils striking its front; a tiny glowing heart emblem at its center. Strong unmistakable shield shape, no human figures or faces. Dark background, painterly detail, readable at 32 pixels, edge-to-edge without border. No text, lettering, logo, or watermark.",
+      "superseded": {
+        "masterSha256": "63aba7995f250ffac9ab863fa8f7211ae6af75f0a7dbd1b94315c133da3dbd4b",
+        "webpSha256": "7e208815501700301050094c91a0da377271b2eafc267182a0a429d0a9990f97",
+        "prompt": "Use case: stylized-concept. Original square fantasy RPG Warlock ability icon painting. Vicarious Suffering: a translucent violet shield linking two silhouettes with a shadow ribbon, protecting one by sharing harm. Single clear central composition, dramatic painterly detail, rich contrast, dark unobtrusive background, readable at small icon size, edge-to-edge without frame. No lettering, text, logos, watermark.",
+        "reason": "At 32 pixels, the two figures resembled Cursed Accomplice."
+      }
+    }
+  ]
+}

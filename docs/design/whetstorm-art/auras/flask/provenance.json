@@ -1,7 +1,7 @@
 {
   "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
   "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
-  "review": "Distinct vessels and heart/fist/eye motifs checked at 28px; runtime integration and in-game review pending.",
+  "review": "Distinct vessels and heart/fist/eye motifs checked at 28px; production aura aggregator integrated and focused lookup checks passed; in-game review pending.",
   "entries": [
     {
       "id": "flask_buff_sta",
