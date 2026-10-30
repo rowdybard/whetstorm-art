@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "forest_wolf",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon: a gray forest wolf, alert ears and thick gray fur, head and shoulders facing viewer, forest shadow background. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/forest_wolf.webp",
+      "sha256": "16b8f4f5525e8c13ff98420fe20d7ef992827f53532cee5f0fe95a0e0c91e3ce",
+      "bytes": 4734,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/forest_wolf.png",
+        "sha256": "d1dc1cd28bf1bb5b6f88d0fe5aaf6c74183d311eb7304c3a2618b0159274533b",
+        "bytes": 2686830
+      }
+    },
+    {
+      "id": "wild_boar",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon: a russet brown wild boar with coarse upright bristles, broad snout and curved tusks, head and shoulders facing viewer, muted meadow background. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/wild_boar.webp",
+      "sha256": "0aca308cd782512fa63e9d815e96d056b39e1597f1e6526a6b81307307a3d46c",
+      "bytes": 5184,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/wild_boar.png",
+        "sha256": "397503064dbd679bafe964f04fe6d73b600cd31ecdba35eac4f29d0c46117adf",
+        "bytes": 2847962
+      }
+    },
+    {
+      "id": "webwood_spider",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon: a dark plum purple woodland spider, clustered eyes, articulated legs and mandibles, head and forelegs facing viewer, shadowy webbed forest backdrop. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/webwood_spider.webp",
+      "sha256": "4f8900157f4e669d3164ee4f783e295f3ee251c6fac4cad2c4095e9136f69df9",
+      "bytes": 5900,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/webwood_spider.png",
+        "sha256": "0592087c35f881c7585d7bbc9a5cc3e06cdf8a6e90fd8537aa16615bb2fb7362",
+        "bytes": 2751103
+      }
+    },
+    {
+      "id": "mudfin_murloc",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon: an original green amphibious mudfin skulker, fishlike humanoid with gills and modest fin crest, head and shoulders facing viewer, marsh background. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark; avoid recognizable franchise designs.",
+      "path": "public/ui/whetstorm/mobs/mudfin_murloc.webp",
+      "sha256": "c08bd0a5ea3a6c3d161d607c92d0f21f5896550e9aaa0d90c3ca843de6fe5dbd",
+      "bytes": 5492,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/mudfin_murloc.png",
+        "sha256": "d2f6ff5d499e84dd01bda9a3efd8615a283ca2903f04e2147260ff334819be6a",
+        "bytes": 2535392
+      }
+    }
+  ]
+}

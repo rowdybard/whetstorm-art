@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "mire_prowler",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMO target portrait, square. A gray charcoal wolf-like marsh prowler, pointed ears, long muzzle, wet coarse fur, alert predatory expression. Head and shoulders fill the image, three-quarter view, muted misty marsh background. Painterly detailed fantasy game illustration, readable at 128 pixels, strong silhouette and soft directional light. No text, border, logo, watermark or other creatures.",
+      "path": "public/ui/whetstorm/mobs/mire_prowler.webp",
+      "sha256": "76c9234abe0831d966c2b81d9dc709cb9aa3e276504ee45cb827f31ea1bb6788",
+      "bytes": 4910,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/mire_prowler.png",
+        "sha256": "4a34fe77602625eb63a63de6e243d68364e0115c506d6ce8c74128cef188000b",
+        "bytes": 2801856
+      }
+    },
+    {
+      "id": "deepfen_murloc",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMO target portrait, square. A teal-green amphibious mudfin snapper, broad frog-like head, large dark eyes and smooth wet skin, fierce expression. Head and shoulders fill the image, three-quarter view, muted misty marsh background. Painterly detailed fantasy game illustration, readable at 128 pixels, strong silhouette and soft directional light. No text, border, logo, watermark or other creatures.",
+      "path": "public/ui/whetstorm/mobs/deepfen_murloc.webp",
+      "sha256": "efc69b3e2381fc6814db292098e19404b4261c10f7c1673a1f9faaa91c7186d2",
+      "bytes": 5572,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/deepfen_murloc.png",
+        "sha256": "5836a2a82fcdb8c5ea27bf8f62b6cd882a1df8e10b3f0a89fd3fba16b08a6d46",
+        "bytes": 2507110
+      }
+    },
+    {
+      "id": "mire_widow",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMO target portrait, square. A dark blue-black marsh widow spider with small red eyes and articulated legs, seen from the front at a slight angle. Face and front legs fill the image, muted misty marsh background. Painterly detailed fantasy game illustration, readable at 128 pixels, strong silhouette and soft directional light. No text, border, logo, watermark or other creatures.",
+      "path": "public/ui/whetstorm/mobs/mire_widow.webp",
+      "sha256": "8cc69e442f65f0640aeda8e6187b4c93d364add6c91f607f63569fe4b16675e6",
+      "bytes": 5774,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/mire_widow.png",
+        "sha256": "469765b8006fbede146bba167e0ed53f45fe4673eb21d93621bc2021625f0ea6",
+        "bytes": 2404887
+      }
+    },
+    {
+      "id": "drowned_dead",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMO target portrait, square. A drowned undead skeleton with pale bone skull, glowing yellow eyes and tattered rust-brown clothing, subtle blue-green water staining. Skull and shoulders fill the image, three-quarter view, muted misty marsh background. Painterly detailed fantasy game illustration, readable at 128 pixels, strong silhouette and soft directional light. No text, border, logo, watermark or other creatures.",
+      "path": "public/ui/whetstorm/mobs/drowned_dead.webp",
+      "sha256": "c77035c3536f79ba18c3c9d15d4543b82bf23584d8188521c43c4da1bf3e2cff",
+      "bytes": 5562,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/drowned_dead.png",
+        "sha256": "bff43de5db4b316fcbfd3e62e2627e6286c2fb8d32aa656ab26f0e1647dbebe5",
+        "bytes": 2636437
+      }
+    }
+  ]
+}

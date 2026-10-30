@@ -1059,3 +1059,10 @@ using OpenAI's built-in image generation. Prompts and hashes are in the
 `finder-thornpeak-provenance.json`, `finder-wildheart-provenance.json`, and
 `finder-raid-wildheart-provenance.json` records under
 `public/ui/whetstorm/encounters/`.
+
+Original Vale, Mirefen, and Thornpeak creature portraits and a Nythraxis
+portrait were created for Whetstorm using OpenAI's built-in image generation.
+Prompts and hashes are in `public/ui/whetstorm/mobs/vale-early-provenance.json`,
+`public/ui/whetstorm/mobs/mirefen-overworld-provenance.json`,
+`public/ui/whetstorm/mobs/thornpeak-overworld-provenance.json`, and
+`docs/whetstorm/nythraxis-mob-portrait-generation.json`.

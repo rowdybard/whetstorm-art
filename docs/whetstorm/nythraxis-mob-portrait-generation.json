@@ -1,0 +1,19 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "id": "nythraxis_scourge_of_thornpeak",
+  "source": "OpenAI built-in image generation, text only",
+  "prompt": "Use case: stylized-concept. Asset type: original square fantasy MMORPG boss portrait for a guide and 54px round target frame. Create Nythraxis, an imposing giant skeleton golem: a bare pale bone skull with hollow dark eye sockets and a few short jagged bone spikes around the head, a massive broad torso with layered weathered slate-gray plate armor and oversized angular pauldrons. The skull and armor must be the focal point, facing forward in a tight head-and-shoulders crop. A subtle violet grave magic glow against a dark mountain crypt background. Painterly fantasy illustration, strong simple shapes and clear contrast readable at small size. No hair, beard, jeweled crown, royal robes, text, logos, border, watermark, or interface. Original design, do not imitate existing game artwork.",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "delivery": {
+    "path": "public/ui/whetstorm/mobs/nythraxis_scourge_of_thornpeak.webp",
+    "sha256": "806be00904ae3cea4ad8ef8bb3eddc9c1aea874c900bae10e4132ab23f28da9d",
+    "bytes": 4850
+  },
+  "master": {
+    "path": "docs/design/whetstorm-art/mobs/nythraxis_scourge_of_thornpeak.png",
+    "sha256": "e245a6fa3b87635b32c2b39d15ec04bd7952c7d44d86f3bb114299f3ce46f5ba",
+    "bytes": 2717970
+  }
+}
