@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "hoarfrost_edge",
+      "file": "docs/design/whetstorm-art/items/hoarfrost_edge.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Hoarfrost Edge, complete rare one-handed straight steel sword with subtle white frost on its cutting edges, cool blue gemstone in a simple iron guard and dark leather grip. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "13faaa09fb1c93c67bb74f4f7be79d0d44218f078496f21d6f4281f2217937e6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hoarfrost_edge.webp",
+        "sha256": "c34c166edc78bb11c7e318e50e633560ba688392d3947ae2d6c4b0b6e8fdbb4f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-c93ddec5-33a7-4ca8-b46c-1b2a72e9e9af.png"
+    },
+    {
+      "itemId": "pitlords_cleaver",
+      "file": "docs/design/whetstorm-art/items/pitlords_cleaver.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Pit Lord's Cleaver, complete rare one-handed hooked iron axe, narrow elongated crescent cutting head with a backward hook and heavy dark iron socket, rough black leather grip and dull red binding. Distinct silhouette, no molten cracks or glowing runes. Full diagonal silhouette with margins; readable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "7853142c76f2989f85b022ad58affa765a301c2e548745f721e0365d394ea521",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pitlords_cleaver.webp",
+        "sha256": "84f39a178772d9c5ea70e68f7533f75b1cd69a212ba8d115a17523abfe14f37e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-d4284c26-94f0-41a7-bc0c-8627d289db68.png"
+    }
+  ]
+}

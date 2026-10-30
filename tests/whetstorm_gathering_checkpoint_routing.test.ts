@@ -17,7 +17,7 @@ describe('original gathering checkpoint routing', () => {
       expect(professionImageUrl(id)).toBe(url);
       expect(professionIconUrl(id)).toBe(url);
     }
-    expect(professionImageUrl('prof_alchemy')).toBe('/ui/professions/prof_alchemy.webp');
+    expect(professionImageUrl('prof_inscription')).toBe('/ui/professions/prof_inscription.webp');
     expect(professionImageUrl('../gather_mining')).toBeNull();
   });
   it('routes gathering deeds and the collectible keepsake', () => {

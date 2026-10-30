@@ -101,6 +101,7 @@ import { forgeArmorItemImageUrl } from './forge_armor_item_art';
 import { forgeArmorSecondItemImageUrl } from './forge_armor_second_item_art';
 import { forgeHammerItemImageUrl } from './forge_hammer_item_art';
 import { forgewallArmorItemImageUrl } from './forgewall_armor_item_art';
+import { frostPitItemImageUrl } from './frost_pit_item_art';
 import { galecallArmorItemImageUrl } from './galecall_armor_item_art';
 import { gatheringToolsItemImageUrl } from './gathering_tools_item_art';
 import { gravecourtFangItemImageUrl } from './gravecourt_fang_item_art';
@@ -239,6 +240,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    frostPitItemImageUrl(id) ??
     dawnholdPosyItemImageUrl(id) ??
     coldsightArmorItemImageUrl(id) ??
     fenKeepLootItemImageUrl(id) ??

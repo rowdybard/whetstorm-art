@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "prof_alchemy",
+      "runtimeIds": [
+        "prof_alchemy"
+      ],
+      "file": "docs/design/whetstorm-art/professions/prof_alchemy.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original alchemy profession: a rounded glass flask filled with glowing emerald potion, a small curling vapor plume, centered large. Bold clear silhouette, emerald and warm brass palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "3f1d3072ab885ffae126809e1b1d1b856332c51d992d15a8d5730415ad07f0b1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/prof_alchemy.webp",
+        "sha256": "c548ed318120f7ef01449c8eaae626990e9946cfa77f2c9043548874393fd030",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/prof_alchemy.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "prof_armorcrafting",
+      "runtimeIds": [
+        "prof_armorcrafting"
+      ],
+      "file": "docs/design/whetstorm-art/professions/prof_armorcrafting.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original armorcrafting profession: a stout iron breastplate beside a small smithing hammer, centered large. Bold clear silhouette, steel gray and warm amber palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "3f6150e0562eb141eb5283894c2042239df0b99abab20634e0b357a567a66f99",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/prof_armorcrafting.webp",
+        "sha256": "6381241b1e973a88503af5d1375388f0ae1ae3127abb83b94c6ad98df16d7ef8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/prof_armorcrafting.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "prof_cooking",
+      "runtimeIds": [
+        "prof_cooking"
+      ],
+      "file": "docs/design/whetstorm-art/professions/prof_cooking.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original cooking profession: a rustic iron cooking pot with a wooden spoon and a curl of fragrant steam, centered large. Bold clear silhouette, warm copper and cream palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "ecde366bbdf9b4430cea6341c74802f50f5df82a3c931e76607fb20ad8dde27f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/prof_cooking.webp",
+        "sha256": "1e929338ff52c98f3a0f26cc10a450cbcfd7eaaa6f7e06f2bffbba4972f4ff4b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/prof_cooking.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "prof_enchanting",
+      "runtimeIds": [
+        "prof_enchanting"
+      ],
+      "file": "docs/design/whetstorm-art/professions/prof_enchanting.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original enchanting profession: an upright silver wand above a glowing violet crystal with delicate magical sparks, centered large. Bold clear silhouette, violet and silver palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "6fbd5ff28d9beb663375ceb52916a4e283843f9d2685ac32d7176937ce38b7db",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/prof_enchanting.webp",
+        "sha256": "bb64082db95c7455b7c38640ec8ef7b0eff27aff99ea9042d8af6f2dbc17181e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/prof_enchanting.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    },
+    {
+      "id": "prof_engineering",
+      "runtimeIds": [
+        "prof_engineering"
+      ],
+      "file": "docs/design/whetstorm-art/professions/prof_engineering.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: square painted fantasy game profession icon readable at 32 pixels. Original engineering profession: a large brass cog with a small steel wrench laid diagonally across it, subtle warm glow. Bold clear silhouette, brass and steel palette, dark slate background, hand-painted fantasy, soft upper-left light. Edge-to-edge painting; no border, text, logo, watermark. Do not copy existing games or artists.",
+      "sha256": "e71f15b9a335ae06a5b5dab1b05bd240463deda2ac3aec41e1f434de4af2b03d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/professions/prof_engineering.webp",
+        "sha256": "f706155095c3d20d2ee5d4002c68e1356bec41700724a6a6a6114aa9bffa192c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "priorArt": {
+        "path": "public/ui/professions/prof_engineering.webp",
+        "owner": "World of ClaudeCraft",
+        "rights": "Project asset, rights reserved; permission required",
+        "evidence": "CREDITS.md, Professions 2.0 commissioned art set"
+      }
+    }
+  ]
+}
