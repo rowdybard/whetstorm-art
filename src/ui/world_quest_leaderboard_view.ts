@@ -121,14 +121,14 @@ export function resolveWorldQuestBoard(id: string): WorldQuestScoreboard {
  *  property resolves against the stylesheet that consumes it. In a built client
  *  that is /assets/main-*.css, so a relative path asks for /assets/ui/... (404);
  *  the dev server injects CSS inline, which is why it only broke once deployed. */
-export const WORLD_QUEST_LADDER_ART_DIR = '/ui/world-quests/leaderboard';
+export const WORLD_QUEST_LADDER_ART_DIR = '/ui/whetstorm/world-quest-leaderboard';
 
 export function worldQuestBoardArt(boardId: string): string {
-  return `${WORLD_QUEST_LADDER_ART_DIR}/${gliderScoreboardInfo(boardId) ? 'slalom' : boardId}.webp`;
+  return `${WORLD_QUEST_LADDER_ART_DIR}/${gliderScoreboardInfo(boardId) ? 'glider' : boardId}.svg`;
 }
 
 export function worldQuestMedalArt(medal: WorldQuestMedal): string {
-  return `${WORLD_QUEST_LADDER_ART_DIR}/medal_${medal}.webp`;
+  return `/ui/whetstorm/leaderboard/medal_${medal}.svg`;
 }
 
 export interface WorldQuestLadderCardView {

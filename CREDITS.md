@@ -57,6 +57,12 @@ hand-authored SVG geometry made for Whetstorm, without image inputs or
 third-party artwork. Both leaderboard podiums use this shared gold, silver
 and bronze family. The historical medal records below retain their restrictions.
 
+The world-quest leaderboard illustrations under
+`public/ui/whetstorm/world-quest-leaderboard/` are original hand-authored SVGs
+without image references. Their provenance and hashes are recorded in
+`docs/whetstorm/world-quest-leaderboard-art.json`; its earned medals reuse the
+original podium family above. Earlier art retains its existing attribution.
+
 The six active Delve affix icons under `public/ui/whetstorm/delve-affixes/`
 are original hand-authored SVGs based on the gameplay mechanics. Their paths
 and hashes are recorded in `docs/whetstorm/delve-affix-original-art.json`;

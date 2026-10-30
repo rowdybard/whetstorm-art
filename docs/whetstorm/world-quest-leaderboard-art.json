@@ -1,0 +1,40 @@
+{
+  "author": "Whetstorm, authored by Codex on 2026-10-30",
+  "method": "Original hand-authored vector shapes; no inherited pixels, external assets, or paid generation.",
+  "license": "Project-owned original artwork",
+  "subjects": {
+    "north_watch_cannon": "watchtower and cannon",
+    "last_keep_cannon": "keep and cannon",
+    "calligraphy": "brush and parchment",
+    "slalom": "glider course gates",
+    "forge": "forge and hammer",
+    "glider": "glider and course gate"
+  },
+  "medals": "The existing original Whetstorm podium medals are reused for matching earned medal tiers.",
+  "assets": [
+    {
+      "path": "public/ui/whetstorm/world-quest-leaderboard/calligraphy.svg",
+      "sha256": "41085ca653af9488f375efa64090d9dca5ec31166fb3c40b2439bdc6e42f3f72"
+    },
+    {
+      "path": "public/ui/whetstorm/world-quest-leaderboard/forge.svg",
+      "sha256": "0324d7d872408a371bae4ba1af571ced69448d882708d5744c346f944ce0be51"
+    },
+    {
+      "path": "public/ui/whetstorm/world-quest-leaderboard/glider.svg",
+      "sha256": "de366114aa110411744ac146f412d5c6cd64de8fb666e15364c17cd45d16d217"
+    },
+    {
+      "path": "public/ui/whetstorm/world-quest-leaderboard/last_keep_cannon.svg",
+      "sha256": "e4d61f613c9c8f451453eec4f0b257c1695f6ed488faca22783bb85be39c44b6"
+    },
+    {
+      "path": "public/ui/whetstorm/world-quest-leaderboard/north_watch_cannon.svg",
+      "sha256": "9d6f7cd102d1b79539e9c222985a793a3698362c92aee532ad1cad396b15c1d3"
+    },
+    {
+      "path": "public/ui/whetstorm/world-quest-leaderboard/slalom.svg",
+      "sha256": "ecc7377e40704af5f46ff1a07785f289894b469f6dbbc5c11490ed6df230aa8a"
+    }
+  ]
+}
