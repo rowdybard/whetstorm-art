@@ -28,6 +28,7 @@ import { heroicDepthsDeedImageUrl } from './heroic_depths_deed_art';
 import { journeyCraftDeedImageUrl } from './journey_craft_deed_art';
 import { journeyDeedImageUrl } from './journey_deed_art';
 import { marshChronicleDeedImageUrl } from './marsh_chronicle_deed_art';
+import { marshPeaksFishingDeedImageUrl } from './marsh_peaks_fishing_deed_art';
 import { milestoneDeedImageUrl } from './milestone_deed_art';
 import { mountainBossDeedImageUrl } from './mountain_boss_deed_art';
 import { nightbloomWraithwoodDeedImageUrl } from './nightbloom_wraithwood_deed_art';
@@ -66,6 +67,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     EARLY_DEED_ART.get(id) ??
     amberfallEvergardenDeedImageUrl(id) ??
     nightbloomWraithwoodDeedImageUrl(id) ??
+    marshPeaksFishingDeedImageUrl(id) ??
     marshChronicleDeedImageUrl(id) ??
     thornpeakChronicleDeedImageUrl(id) ??
     collectionSetsDeedImageUrl(id) ??

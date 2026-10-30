@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "chr_marsh_hush_the_mending",
+      "master": "docs/design/whetstorm-art/deeds/chr_marsh_hush_the_mending.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for interrupting a marsh healer: a dark robed cultist's healing staff snapped across a luminous green healing sigil, misty bog background fills every corner. Strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "eb0b1b9881be20e902d28682873725ea472571c54d0e93640c71c30f14078897",
+      "shipping": "public/ui/whetstorm/deeds/chr_marsh_hush_the_mending.webp",
+      "shippingSha256": "09823a000a6baabfac4b44b789c1dd75860f33273ec8c26d3a9c8bd8905058a6",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "chr_marsh_rares",
+      "master": "docs/design/whetstorm-art/deeds/chr_marsh_rares.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for defeating three named marsh terrors: three distinct trophies, a crocodilian tooth, drowned monster skull, and tarnished bell, arranged together in dark green fen mist. Background fills every corner, strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "1007689b5b90f4943fcd30027a70bceea298a8b0336931a1609011af5029edae",
+      "shipping": "public/ui/whetstorm/deeds/chr_marsh_rares.webp",
+      "shippingSha256": "874066216729365a450a9c2af853e20dfa70880d9ed6738d2300c2ad3244eafb",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "chr_peaks_sparring",
+      "master": "docs/design/whetstorm-art/deeds/chr_peaks_sparring.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for dealing damage to a training dummy: a battered straw practice dummy with a wooden shield and a sword impact, in a mountain training yard. Background fills every corner, strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "fd4368125a9515dbb8759d1ef8c0ca59041d1006e87498cf42c4f0a2662f7abf",
+      "shipping": "public/ui/whetstorm/deeds/chr_peaks_sparring.webp",
+      "shippingSha256": "3e9682b158aee9f639181716d04cc10a51d1dc11399337a7033e39042ebd39fd",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_glimmerfin",
+      "master": "docs/design/whetstorm-art/deeds/col_glimmerfin.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon for catching a rare Sunglint Koi: one luminous golden koi arcing over rippling blue water, a small fishing hook nearby, sunlight glinting on scales. Background fills every corner, strong simple shapes readable at 32 pixels. No text, letters, numerals, logos, watermarks, borders, or imitation of other games or artists.",
+      "masterSha256": "273d091640c3daa00a66e5b3adab0bc5f1ccd5e54aa10826ea9091ac7d1d5ef4",
+      "shipping": "public/ui/whetstorm/deeds/col_glimmerfin.webp",
+      "shippingSha256": "5e6a05bba74acd7ccf7f1afc244b8cca05140d215e01c214aa09904b8bf8bcf4",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}
