@@ -22,6 +22,9 @@ focused Node test into the normal test gate and run the applicable QA gate.
 The full task checkout generated the MP3 with the existing conform pipeline. Its
 focused Node test passed reproducibility, cue-key and per-file conformance checks:
 mono MP3, 44.1 kHz, 192 kbps, -6.2 dB true peak. A subjective listening review
-was not performed. The broader gate had not completed at handoff; its dependency
-sync preflight could not verify npm. The test assumes its intended destination
-paths and is not directly runnable from this proposal directory.
+was not performed. The broader gate exited with code 1 at the artifact step:
+pnpm rejected the worktree's `node_modules` junction with
+`ERR_PNPM_UNSAFE_MODULES_DIR`, so later gate steps did not run. Its dependency
+sync preflight also could not verify npm. The test assumes its intended
+destination paths and is not directly runnable from this proposal directory;
+its byte-for-byte MP3 assertion also depends on the encoder version.
