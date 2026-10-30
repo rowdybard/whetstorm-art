@@ -1116,3 +1116,10 @@ and hashes are recorded in `docs/whetstorm/cave-hoard-adds-portraits-generation.
 and the `rift-ember-bone-provenance.json`, `drowned-litany-first-provenance.json`,
 `player-companions-provenance.json`, and `mirefen-gravecallers-bog-provenance.json`
 files under `public/ui/whetstorm/mobs/`.
+
+Original Veiled Hollow, Vale, Drowned Litany, cave, and epic hoard portraits
+were created for Whetstorm using OpenAI's built-in image generation. Prompts
+and hashes are recorded in `docs/whetstorm/cave-ember-portraits-generation.json`
+and the `veiled-hollow-fungal-provenance.json`, `vale-rares-provenance.json`,
+`drowned-litany-extra-provenance.json`, and `hoard-epic-bosses-provenance.json`
+files under `public/ui/whetstorm/mobs/`.

@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "reedbound_acolyte",
+      "path": "public/ui/whetstorm/mobs/reedbound_acolyte.webp",
+      "sha256": "02f08187ac6ecaf0460d54e9c27378a39c80fbd1a587dd14972d11e98517aca0",
+      "bytes": 4982,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/reedbound_acolyte.png",
+        "sha256": "0bcebf8090588b34723b834aba9a699bbe38e3865f72349d5dc4b8fb31664595",
+        "bytes": 2759851
+      },
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original dark fantasy game target portrait, square painted illustration, close-up head and shoulders of a sinister marsh cult acolyte in a heavy stone-like hood and layered olive-green robes, holding a small rotwater vial, rugged stylized proportions, moody dim marsh background, clear face silhouette readable at 128px, rich painterly detail. No text, border, watermark or existing game character."
+    },
+    {
+      "id": "spider_egg_sac",
+      "path": "public/ui/whetstorm/mobs/spider_egg_sac.webp",
+      "sha256": "7574c390086c207e8a1eadd3f2b815d270696c1545e6cfd7338c32e9ef6e782a",
+      "bytes": 4532,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/spider_egg_sac.png",
+        "sha256": "6c6b4d64c87a3df6cf9a8ba4fdc9e18fb3bdb08933c3ddff47f59b89f4b8ba70",
+        "bytes": 2737677
+      },
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original dark fantasy game target portrait, square painted illustration, a single pale sage green spider egg sac with taut fibrous silk and a few subtle dark seams, ominous marsh cavern backdrop, centered close composition, recognizable at 128px, rich painterly texture. No spider, text, border, watermark or existing game imagery."
+    },
+    {
+      "id": "sump_troll_devourer",
+      "path": "public/ui/whetstorm/mobs/sump_troll_devourer.webp",
+      "sha256": "17a49bce59df9a742db219033919621bb02e2364ea8524deacd78a26854eefcb",
+      "bytes": 5134,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/sump_troll_devourer.png",
+        "sha256": "53e39f8ad1732ac0a82c2798f13845cf84b4ba1afd833b71bc0ad6b77157529b",
+        "bytes": 2787255
+      },
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original dark fantasy game target portrait, square painted illustration, head and shoulders of a hulking swamp troll with olive green skin, broad heavy face, protruding lower tusks, matted swamp debris and thick muscular shoulders, shadowy mire background, rugged stylized proportions, clear silhouette at 128px. No text, border, watermark or existing game character."
+    },
+    {
+      "id": "choir_thrall",
+      "path": "public/ui/whetstorm/mobs/choir_thrall.webp",
+      "sha256": "a3d859eb271b6b092e5fb5c67beda02f91a745965dfb85577021b6191c33e4a2",
+      "bytes": 3730,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/choir_thrall.png",
+        "sha256": "a2f4be0d7edaaf7449d66684734c0a615ad40625c0e9ca14f23da3730eec3c30",
+        "bytes": 2418730
+      },
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original dark fantasy game target portrait, square painted illustration, a single floating spectral bog thrall, pale sage translucent undead face, sunken eyes and ragged hood, eerie marsh darkness behind, close head and shoulders, rugged stylized shapes, clear silhouette at 128px. No text, border, watermark or existing game character."
+    }
+  ]
+}

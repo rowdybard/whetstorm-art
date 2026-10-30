@@ -93,3 +93,12 @@ One source inconsistency needs a design decision during visual review: Old
 Cragmaw uses the `mob_bear` renderer mapping and the new portrait depicts a
 bear, but a Thornpeak quest describes the creature as a cat. Verify which species
 is intended before changing either the art or the gameplay content.
+
+At art-branch commit `29b2619587`, a runtime census found 271 catalogued mob
+IDs: 138 resolved to original portrait overrides and 133 to legacy `ui/mobs`
+URLs. The overworld `CAMPS` subset contained 123 distinct IDs: 58 overridden
+and 65 on legacy URLs. This is a historical snapshot; later batches change the
+counts, and catalog membership does not prove spawn reachability. The partial
+art checkout has no tracked `public/ui/mobs` directory, so missing legacy URLs
+fall back to family crests there. This does not establish the state of another
+deployment or distribution.

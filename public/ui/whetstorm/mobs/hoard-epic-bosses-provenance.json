@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "rift_boss_frost",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Create an original square fantasy MMO target portrait, painterly richly textured illustration: a massive ice-armored frost warden, hulking biped with oversized frozen gauntlets and shoulders, glacial blue and white crystalline armor, stern face, dark icy cavern backdrop. Tight head and shoulders composition, readable silhouette at 128 pixels, dramatic cold rim light. No text, letters, border, logos, or watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_boss_frost.webp",
+      "sha256": "fecdd6ccfd4e40671aae60279ec33960f9f59398427b3848497962a898c9c95c",
+      "bytes": 7334,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_boss_frost.png",
+        "sha256": "198b1943ff806617e05077e38aa74caf891f61ed52041f0e108c705c77e65196",
+        "bytes": 3127330
+      }
+    },
+    {
+      "id": "rift_boss_arcane",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Create an original square fantasy MMO target portrait, painterly richly textured illustration: a hovering arcane archon, enigmatic robed humanoid caster with a shadowed face, violet energy and dark purple magical ornaments, against a dim void cavern. Tight head and shoulders composition, readable silhouette at 128 pixels, luminous violet rim light. No text, letters, border, logos, or watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_boss_arcane.webp",
+      "sha256": "dc9c7dcd3c8bed3dba45e288c3aabc9ddfd9eecf10e5ecf826d6540b363cd47a",
+      "bytes": 5284,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_boss_arcane.png",
+        "sha256": "5b3543ad607959aec11b2e12e9f0899e79af4456a34a779dd42c635e4f904e11",
+        "bytes": 2673389
+      }
+    },
+    {
+      "id": "rift_boss_storm",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Create an original square fantasy MMO target portrait, painterly richly textured illustration: a fierce storm lord, monstrous humanoid with long clawed arms, storm-blue skin and crackling lightning, against a dark thundercloud cavern. Tight head and shoulders composition, readable silhouette at 128 pixels, electric blue rim light. No text, letters, border, logos, or watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_boss_storm.webp",
+      "sha256": "c1ee3614d075c4929aef67e1d0859bc8d4754f09b16b9cbc458f43e8965615e9",
+      "bytes": 6774,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_boss_storm.png",
+        "sha256": "f6866dfd693ec247b19a3eef24d39e810b0837091ffa12667c880d6ca054d192",
+        "bytes": 2903915
+      }
+    },
+    {
+      "id": "rift_boss_tide",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Create an original square fantasy MMO target portrait, painterly richly textured illustration: an abyssal angler beast, massive four-legged deep-sea creature with a broad fanged mouth, chin tentacles and glowing lure, deep teal skin, against dark underwater cavern. Tight head and shoulders composition, readable silhouette at 128 pixels, bioluminescent turquoise rim light. No text, letters, border, logos, or watermark.",
+      "path": "public/ui/whetstorm/mobs/rift_boss_tide.webp",
+      "sha256": "fa250f7094fefd3a65bc920faffb54064a90f3c2c000f8887ff79d8973aace8b",
+      "bytes": 5386,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/rift_boss_tide.png",
+        "sha256": "3da54187d3784f572f743059698f086e888c3c5404cdf1bb0b6f97d9733795a6",
+        "bytes": 2700208
+      }
+    }
+  ]
+}

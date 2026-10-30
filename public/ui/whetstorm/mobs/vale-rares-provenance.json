@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "mogger",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon of Mogger: a broad intimidating human barbarian with brown bear-fur hat and rough brown garments, head and shoulders, strong silhouette, meadow background. Painterly semi-realistic game illustration, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/mogger.webp",
+      "sha256": "9dc18ae68572897dcfae915295bd21609053d1da7fc36835d168e4752a9ef2b1",
+      "bytes": 5658,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/mogger.png",
+        "sha256": "0c052fcf44d26554cb5ba542b445e75236c90fd42ff44810e8d7a5ff0c739678",
+        "bytes": 2973769
+      }
+    },
+    {
+      "id": "mogger_lackey",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon of Mogger's lackey: a rough human bandit in simple weathered brown leather clothes, head and shoulders facing viewer, meadow camp background. Painterly semi-realistic game illustration, strong readable silhouette, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/mogger_lackey.webp",
+      "sha256": "bcfd361134f1646dd7dae34e16888fd250c7b93b41ac45ce7ba92fb9b74c58ea",
+      "bytes": 5640,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/mogger_lackey.png",
+        "sha256": "6fd83e849aa77465b90540a459ab99f35fa2a9e9b63c33fc5f73fd5bb5fd7844",
+        "bytes": 2681616
+      }
+    },
+    {
+      "id": "grix_the_tunnelking",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon of Grix the Tunnelking: formidable anthropomorphic rat miner with long rodent muzzle, tawny ochre fur, a crude crown and worn robes, head and shoulders facing viewer, copper mine background. Painterly semi-realistic game illustration, strong readable silhouette, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/grix_the_tunnelking.webp",
+      "sha256": "c33333a61054003d091b33ccf0c5fbd3548b09544b225d52afa7e8f939431157",
+      "bytes": 6590,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/grix_the_tunnelking.png",
+        "sha256": "ea446c152ae71f1b99ce497ffa2d603f1a57d1560db72c5c1ecbe8ff36d2c47e",
+        "bytes": 3088842
+      }
+    },
+    {
+      "id": "gorrak",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy RPG target portrait icon of Gorrak: imposing human barbarian bandit leader wearing a bear-fur hat and muted purple clothing, head and shoulders facing viewer, woodland camp background. Painterly semi-realistic game illustration, strong readable silhouette, square crop, no border, lettering, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/gorrak.webp",
+      "sha256": "a6fa77b02ed43bc788c04aaf5cdea1fa9f82099f33b71715fb09b407fda8420f",
+      "bytes": 6148,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/gorrak.png",
+        "sha256": "eef3b0aa5212dc19ad4f98648e9a7bbc6069684b7b4edb118cb9dfaa5d9c4eac",
+        "bytes": 2945604
+      }
+    }
+  ]
+}

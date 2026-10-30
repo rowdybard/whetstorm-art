@@ -1,0 +1,39 @@
+{
+  "source": "OpenAI built-in image generation",
+  "externalReferenceImages": [],
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "assets": [
+    {
+      "id": "rift_marrow_troll",
+      "prompt": "Original fantasy game target portrait: moss-green troll with tusks and a heavy brow in an earthen burrow. Painterly square close-up, centered and readable at small size, no lettering or frame.",
+      "masterPath": "docs/design/whetstorm-art/mobs/rift_marrow_troll.png",
+      "masterSha256": "589fdb94e8f93525175a1b141ef2c845a1a30a4ee06a969ee62bdf034c177977",
+      "deliveryPath": "public/ui/whetstorm/mobs/rift_marrow_troll.webp",
+      "deliverySha256": "4315bf9027e563b637752ef5112a0fc736c272b1ddf63684b42475144b8f6a05"
+    },
+    {
+      "id": "rift_void_acolyte",
+      "prompt": "Original fantasy game target portrait: violet-robed humanoid astronomer with a shadowed face and celestial motifs, in a dim cavern. Painterly square close-up, centered and readable at small size, no lettering or frame.",
+      "masterPath": "docs/design/whetstorm-art/mobs/rift_void_acolyte.png",
+      "masterSha256": "a2ea3f6708867b50d7dce4b4c455661f050256d48b30d8abc10c9286c3cf6ea6",
+      "deliveryPath": "public/ui/whetstorm/mobs/rift_void_acolyte.webp",
+      "deliverySha256": "83e9f48f063b88fdbbe9ab6f797011e5fda72e1eaf0278285d8ed3d409f6e69d"
+    },
+    {
+      "id": "rift_dread_stalker",
+      "prompt": "Original fantasy game target portrait: eyeless violet fantasy hound with strong jaws and sleek hide in a shadowed cavern. Painterly square close-up, centered and readable at small size, no lettering or frame.",
+      "masterPath": "docs/design/whetstorm-art/mobs/rift_dread_stalker.png",
+      "masterSha256": "50e9a3e66268332c55635c92b12818abe26f9aff05a86f9734feb5d0bb855670",
+      "deliveryPath": "public/ui/whetstorm/mobs/rift_dread_stalker.webp",
+      "deliverySha256": "fef9390d61388f5d30fa463e5e2421f59a89e5ad4f85ac398add5f62637243fb"
+    },
+    {
+      "id": "rift_boss_ember",
+      "prompt": "Original fantasy game target portrait: towering forge tyrant wearing a black iron helmet with a molten glowing visor and furnace-grate faceplate, massive dark iron armor lit from within by orange heat, in a dim forge. Painterly square close-up, centered head readable at small size, no lettering or frame.",
+      "masterPath": "docs/design/whetstorm-art/mobs/rift_boss_ember.png",
+      "masterSha256": "f753f16eac24c2d9ecd0f163b0729eff52e56e9a3ee6f6b116f80a968d475106",
+      "deliveryPath": "public/ui/whetstorm/mobs/rift_boss_ember.webp",
+      "deliverySha256": "4f96b62de89806d1c7e010b697e78759bc51604fd241f43e2f3d4b9ea5de9071"
+    }
+  ]
+}

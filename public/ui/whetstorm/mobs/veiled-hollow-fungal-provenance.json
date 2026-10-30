@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "mushroom_pixie",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Create an original fantasy game target portrait, square painterly polished 3D illustration. A gentle small humanoid mushroom pixie with a lavender mushroom cap, pale lilac skin and large expressive eyes, head and shoulders centered against a dim glowing woodland backdrop. Strong readable silhouette, tight circular-crop-safe framing, no text, no border, no watermark.",
+      "path": "public/ui/whetstorm/mobs/mushroom_pixie.webp",
+      "sha256": "50af22bca46cf8bda4293ff5642b6f1a8aa866b925bbe36b03392db7938c422a",
+      "bytes": 6108,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/mushroom_pixie.png",
+        "sha256": "90e9ab4120b803eeeb322f0297394ecf2f5135c61eb816259e04d9c0eed80437",
+        "bytes": 2390564
+      }
+    },
+    {
+      "id": "sporeling_gatherer",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Create an original fantasy game target portrait, square painterly polished 3D illustration. A peaceful sporeling gatherer, a squat hovering glub-like mushroom folk blob with a warm tan cap and soft beige body, simple kind face, centered against a dim glowing fungal grove backdrop. Strong readable silhouette, tight circular-crop-safe framing, no text, no border, no watermark.",
+      "path": "public/ui/whetstorm/mobs/sporeling_gatherer.webp",
+      "sha256": "6552cbaed11ae0fe3d16da43cef582ec7489c2695b3f50580194295bd3b079df",
+      "bytes": 5884,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/sporeling_gatherer.png",
+        "sha256": "fadeaf10a0e3b11a25df8a339bfdd20f54668114be68a7c34de1e460d3add36a",
+        "bytes": 2321250
+      }
+    },
+    {
+      "id": "corrupted_sporeling",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Create an original fantasy game target portrait, square painterly polished 3D illustration. A hostile corrupted sporeling, a hovering glub-like mushroom folk blob with dark purple bruised fungal flesh and a sinister expressive face, centered against a dim cavern with faint violet spores. Strong readable silhouette, tight circular-crop-safe framing, no text, no border, no watermark.",
+      "path": "public/ui/whetstorm/mobs/corrupted_sporeling.webp",
+      "sha256": "bac358542d00e7f09f1b357a38d354b8f406dc3314a136a9a71c8a45dd4ef402",
+      "bytes": 5790,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/corrupted_sporeling.png",
+        "sha256": "d9c1a165ac12801edd0fd1e46dcee573bfb603f3159ae929e8e92ce6e33a05b5",
+        "bytes": 2612062
+      }
+    },
+    {
+      "id": "treant_elder",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG target portrait, square painterly polished 3D illustration. A mossy treant elder whose body is a shaggy broad-shouldered yeti creature, NOT a tree: thick fur textured in bark-green and mossy olive, a prominent ape-like yeti face, heavy brow, round muzzle and small tusks, green moss draped through fur. Head and shoulders centered in a dim overgrown forest. Strong readable silhouette and face for circular crop. No wooden face, no branches, no text, no border, no watermark.",
+      "path": "public/ui/whetstorm/mobs/treant_elder.webp",
+      "sha256": "4bcac59db14ae04626d309fc67f243bac2c67a115c88c27a1778cd01a0186f1b",
+      "bytes": 6012,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/treant_elder.png",
+        "sha256": "67411653ba111f3c17c5d9f561c2c56acfa08cf7655d179d933af5ab40695775",
+        "bytes": 3252851
+      }
+    }
+  ]
+}
