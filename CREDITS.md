@@ -1158,6 +1158,10 @@ The original procedural Warrior pressure, blood-film and forged-steel
 textures and their source generators are recorded in
 `docs/whetstorm/warrior-material-textures-provenance.md`.
 
+Independent procedural Warrior contact-sheet source candidates and their
+generators are recorded in `docs/whetstorm/contact-vfx-candidates.md`. These
+are unshipped candidates, not replacements for the currently loaded sheets.
+
 Original Glimmermere, Frostveil, Willowfen, Palmreach, Mirefen, hoard, and
 Gravewing portraits were created for Whetstorm using OpenAI's built-in image
 generation. Prompts and hashes are recorded under `public/ui/whetstorm/mobs/`

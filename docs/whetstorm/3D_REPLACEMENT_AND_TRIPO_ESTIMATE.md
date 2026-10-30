@@ -68,6 +68,23 @@ both faces, all berths and graphics tiers, character clearance and label
 readability in a complete candidate before selecting a compromise. This is
 planning only and does not remove the restricted original from distribution.
 
+### Environment dependencies requiring clearance
+
+The Eastbrook surface normal and roughness maps are generated from the
+project-restricted color atlas, not independent assets. Their bake is specified
+in `scripts/assets/specs/eastbrook_town_surface_pbr.json`; the town renderer
+uses the normal map. The Realm Builder distance impostor is baked from the
+project-restricted monument sculpt and has a renderer load path. Confirm their
+reachability in the intended world and replace or clear the underlying sources
+before relying on their derivatives.
+
+The active `palmreach_day`, `evergarden_day`, `galecrest_day`, and
+`farshore_day` sky variants have a traceable PNG → HDR → KTX2 file pipeline,
+but their source-image creator, inputs and terms are not established by the
+credits records inspected. Obtain that evidence or use independently cleared
+skies; merely adding an attribution would not establish permission. The four
+sky families are not counted in the 56-file GLB inventory below.
+
 ## What must be resolved
 
 The current credits register marks the following 16 named, tracked GLB files
