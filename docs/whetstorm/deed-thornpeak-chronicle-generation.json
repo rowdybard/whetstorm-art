@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "chr_peaks_chapter_i",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A winding mountain ridge road leading to a watchtower above dark rocky burrows, representing clearing the high paths. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_peaks_chapter_i.png",
+      "masterSha256": "f02ca2bb0629fac200b12659986fed7556832727005c256a525b50bbd2957b7a",
+      "shipping": "public/ui/whetstorm/deeds/chr_peaks_chapter_i.webp",
+      "shippingSha256": "63419688142db95d464f53f369db609377de5c53a788361e2affd3c22bb4a4d1",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_peaks_chapter_ii",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A glowing turquoise mountain lake beneath storm clouds with a broken war banner in the foreground, representing a storm and a defeated camp. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_peaks_chapter_ii.png",
+      "masterSha256": "9177f84f443e1660e98f40d9e71030dd3e3058bf3d408feeee399862227d7bcb",
+      "shipping": "public/ui/whetstorm/deeds/chr_peaks_chapter_ii.webp",
+      "shippingSha256": "26e4884251a4ea7b0c59290e6c2af49e159d25d2334ec21971b279105c70d4d7",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_peaks_gatherer",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A silver ore chunk, cut pine log and alpine herb sprig arranged before snowy mountain peaks, representing gathering three resources in the heights. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_peaks_gatherer.png",
+      "masterSha256": "e8a3f578d65778ffacdf8d1b0158f9153a68208d7a79576a068db718eac4bb17",
+      "shipping": "public/ui/whetstorm/deeds/chr_peaks_gatherer.webp",
+      "shippingSha256": "4f3367e4d93735d039a1c48ece7a868b37312315963949eb2311073f3db50e2f",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "chr_peaks_rares",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original hand-painted medal: A crossed sword and shield standing before four distinct dark mountain silhouettes, representing victory over four named mountain foes. Centered circular brass frame, dark warm backdrop filling square corners, simple large silhouette readable at 32 pixels, rich color and painterly detail. No text, letters, numbers, logos, watermark or imitation of existing game artwork.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/chr_peaks_rares.png",
+      "masterSha256": "9caf38e6bc69088f8f62e4d11b761fd7c8a9d10a0925d44e2c5ccaa32999fa90",
+      "shipping": "public/ui/whetstorm/deeds/chr_peaks_rares.webp",
+      "shippingSha256": "2ff55dafe9d96142418a51a8ece889fbb090518149cb4d5a0b53495ef4da23e0",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}
