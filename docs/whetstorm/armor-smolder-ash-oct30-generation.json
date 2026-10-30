@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "smolderstrike_gloves",
+      "file": "docs/design/whetstorm-art/items/smolderstrike_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete pair of Smolderstrike Grips: deep russet leather gloves with curved charcoal leather panels and ember-orange stitched lines, no metal, both gloves centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "0273e03be008af1d870fd3352e99e650d1e5f1bd287590b1542b861d2fc74296",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/smolderstrike_gloves.webp",
+        "sha256": "5b4f8a51fef1d29ad54d58c28b8b46b8382c6e26d252102977918fa2ce3cd334",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "smolderstrike_legs",
+      "file": "docs/design/whetstorm-art/items/smolderstrike_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete pair of Smolderstrike Breeches: deep russet leather pants from waist to ankle with two separate legs, curved charcoal leather panels and ember-orange stitched lines, no metal, no feet, centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "40f1fc57b917c0c2635e1c88b45320c9fefc10c99cafcef7571ce05db5d7dda5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/smolderstrike_legs.webp",
+        "sha256": "dcabd091c1d5340c16ccb8f78b6a5221bde12b19b47f86bea38d21977ce840e6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "ashveil_helmet",
+      "file": "docs/design/whetstorm-art/items/ashveil_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete Ashveil Cowl: an empty hood of weathered ash-gray leather with dark violet stitched edging and subtle ember-colored stitching, no metal, centered with space. No face, person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "0a01f4dbfdaccccbc80a23e76a20fcfc6b81a59a8e2b5cfb3299dcb1cdd3fe90",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ashveil_helmet.webp",
+        "sha256": "4824c510b4ffa2ae54253c516773e00bfa21dce2f58fd2d18359d789af3ff490",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "ashveil_shoulder",
+      "file": "docs/design/whetstorm-art/items/ashveil_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, bold shapes readable at 32 pixels. One complete pair of Ashveil Spaulders: ash-gray leather shoulder guards with layered dark violet leather panels and subtle ember-colored stitching, no metal, both shoulders centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "3444b9c09f400ce65a5f31fe2d324cfd3a75c8b0727e1670cc16457f9bc8fa1c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ashveil_shoulder.webp",
+        "sha256": "aac048d4be4f02360ff2cb2be5887f0625651a2f6655e2fd5a76c7c974b76623",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

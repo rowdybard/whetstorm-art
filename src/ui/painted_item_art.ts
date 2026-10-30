@@ -178,6 +178,7 @@ import { oct30FourthOriginalItemImageUrl } from './oct30_fourth_original_item_ar
 import { oct30NinthOriginalItemImageUrl } from './oct30_ninth_original_item_art';
 import { oct30OriginalItemImageUrl } from './oct30_original_item_art';
 import { oct30SecondOriginalItemImageUrl } from './oct30_second_original_item_art';
+import { oct30SeventeenthOriginalItemImageUrl } from './oct30_seventeenth_original_item_art';
 import { oct30SeventhOriginalItemImageUrl } from './oct30_seventh_original_item_art';
 import { oct30SixteenthOriginalItemImageUrl } from './oct30_sixteenth_original_item_art';
 import { oct30SixthOriginalItemImageUrl } from './oct30_sixth_original_item_art';
@@ -270,6 +271,7 @@ export function paintedItemImageUrl(id: string): string | null {
     recipeScrollBatchItemImageUrl(id) ??
     recipeScrollProvisionsItemImageUrl(id) ??
     recipeScrollFishStationsItemImageUrl(id) ??
+    oct30SeventeenthOriginalItemImageUrl(id) ??
     oct30SixteenthOriginalItemImageUrl(id) ??
     oct30FifteenthOriginalItemImageUrl(id) ??
     oct30FourteenthOriginalItemImageUrl(id) ??

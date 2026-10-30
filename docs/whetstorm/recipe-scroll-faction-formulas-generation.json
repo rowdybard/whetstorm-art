@@ -1,0 +1,108 @@
+{
+  "assets": [
+    {
+      "itemId": "formula_enchant_gloves_forged_might",
+      "file": "docs/design/whetstorm-art/items/formula_enchant_gloves_forged_might.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square hand-painted fantasy inventory icon: weathered parchment scroll partly unrolled, bearing a simple painted illustration of a rugged metal gauntlet glowing warm amber, identifying forged might. Complete centered scroll, safe margins, warm light, dark umber background. No writing, text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "d105e3d33b9443c329f0ac6ffe54cc4aebd5949912ba2fcc1e49bda80e5899ae",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/formula_enchant_gloves_forged_might.webp",
+        "sha256": "15cde9b8903ddacac4f09a1a86eea6964f6ec6e3ae8b33fa1b248c6c818c6dff",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4430
+      }
+    },
+    {
+      "itemId": "formula_piston_drive",
+      "file": "docs/design/whetstorm-art/items/formula_piston_drive.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square hand-painted fantasy inventory icon: weathered parchment scroll partly unrolled, bearing a simple painted illustration of a metallic piston with a bronze gear, identifying piston drive. Complete centered scroll, safe margins, warm light, dark umber background. No writing, text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "b1713219d1d6256cb104fb3303ef9cc23957b69f35a25cd4821a0d63047823c9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/formula_piston_drive.webp",
+        "sha256": "1f69c7978ce07eca96c91a7cc9fbec203f9547c0fbc456dc2162a5dacd6b8c4c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4458
+      }
+    },
+    {
+      "itemId": "formula_dawnfire_etching",
+      "file": "docs/design/whetstorm-art/items/formula_dawnfire_etching.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square hand-painted fantasy inventory icon: weathered parchment scroll partly unrolled, bearing a simple painted illustration of a small blade etched with golden flame, identifying dawnfire etching. Complete centered scroll, safe margins, warm light, dark umber background. No writing, text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "d671cf1691e88709267600d9717132cccc10c06ac352011949f9013077a670e8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/formula_dawnfire_etching.webp",
+        "sha256": "9856b183eac7294deeba4112abbdcaca9b75f5cc8fe3a9518d2ae4e7cd7f985a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3836
+      }
+    },
+    {
+      "itemId": "formula_dawns_benediction",
+      "file": "docs/design/whetstorm-art/items/formula_dawns_benediction.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square hand-painted fantasy inventory icon: weathered parchment scroll partly unrolled, bearing a simple painted illustration of a small blade with a gentle golden sunrise glow, identifying dawn's benediction. Complete centered scroll, safe margins, warm light, dark umber background. No writing, text, border, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "76aa6712cde86fd73f40c1a315e74e8376d595df5ffa6d49c2c481a4956e5c7d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/formula_dawns_benediction.webp",
+        "sha256": "421bd978f0ae5e4c229bb18bcff1ed8a97fd17c604ba9c3692357861c656f336",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3970
+      }
+    }
+  ]
+}
