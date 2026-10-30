@@ -1,0 +1,37 @@
+{
+  "records": [
+    {
+      "id": "prog_armorcrafting_50",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a sturdy steel cuirass on an anvil beside a smith hammer, representing armorcrafting. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_armorcrafting_50.png",
+      "masterSha256": "25753a5c9c357faba63dc41b181239764577ae065ec640d11bc002a55e63a98d",
+      "shipping": "public/ui/whetstorm/deeds/prog_armorcrafting_50.webp",
+      "shippingSha256": "0d0255e7080612f0dd401d86af158c00ced903b0f3ab8896de77a6f5381f86ed",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_jewelcrafting_50",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a faceted amber gemstone, artisan jewelers pliers and delicate gold filigree, representing jewelcrafting. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_jewelcrafting_50.png",
+      "masterSha256": "9f1c748ea480c4449fea4e4f20961a50c6ba890088a63f702f0e685ddb7a35cd",
+      "shipping": "public/ui/whetstorm/deeds/prog_jewelcrafting_50.webp",
+      "shippingSha256": "e67da60b1ea87e1375dfdcd24557e865eb3cb9f512c543c950433d58ed99da72",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_inscription_50",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a feather quill and ink pot beside a parchment with abstract decorative flourishes, representing inscription. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_inscription_50.png",
+      "masterSha256": "58af1eb51a73fafde7a2339d6c1d84ebf8d1f5cdaf6da9cc429e4c1847276856",
+      "shipping": "public/ui/whetstorm/deeds/prog_inscription_50.webp",
+      "shippingSha256": "697251571161b9607df5cdf45b1217272f2354615af89c55cd102f81c9b187d7",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    }
+  ]
+}
