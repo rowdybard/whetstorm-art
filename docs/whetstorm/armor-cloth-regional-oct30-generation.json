@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "barrowshade_mantle",
+      "file": "docs/design/whetstorm-art/items/barrowshade_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, broad shapes readable at 32 pixels. One complete Barrowshade Mantle: soft charcoal and muted violet woven cloth shoulder wraps with layered folds and pale stitched moonlike edging, no metal or leather, both shoulders centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "5ee824ecc023cc8240a5da01e6b9c4e2dfdc119ca065935552bbc50e85fa5d73",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/barrowshade_mantle.webp",
+        "sha256": "e1a056f3030ced13abf3551918bc5bb85f8858fad5506bba9dba4416eaa2f7a2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "mantle_of_the_unhorsed",
+      "file": "docs/design/whetstorm-art/items/mantle_of_the_unhorsed.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, broad shapes readable at 32 pixels. One complete Mantle of the Unhorsed: weathered deep brown cloth shoulder wraps with layered woven folds and a small silver horseshoe embroidered on each, no metal or leather, both shoulders centered with space. No person, horse, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "3127020ddf54e5d2ed6d01a78b866e2b4bba895923f64137075e2ae6b15e87d7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/mantle_of_the_unhorsed.webp",
+        "sha256": "c75b4f30b75e87d335b7622e344cbe2ebb4aea83d24c9fd5c17f3f3627ddf9e7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "sunbone_ritual_sarong",
+      "file": "docs/design/whetstorm-art/items/sunbone_ritual_sarong.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, broad shapes readable at 32 pixels. One complete Sunbone Ritual Sarong: ivory woven cloth leg wrap hanging from a tied gold-thread waist sash to the ankle, subtle warm yellow sun embroidery, no metal or leather, entire garment centered with space. No person, feet, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "d6f1400d68d6a59457c80ffdf063c40f53f3100263494230d9089f46374612e0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/sunbone_ritual_sarong.webp",
+        "sha256": "6be83e9d3ac59952d3c30d90f5650803117a7c11583d7169215f883308888c06",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "lilybed_mantle",
+      "file": "docs/design/whetstorm-art/items/lilybed_mantle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory icon on deep slate-blue background, warm upper-left light, broad shapes readable at 32 pixels. One complete Mantle of the Lily-Bed: soft pale green woven cloth shoulder wraps with white lily-petal embroidery and layered folds, no metal or leather, both shoulders centered with space. No person, text, border, logo, watermark, photorealism or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "a3868968765a7a7697b881fc50eb4c53b6404a94f40e01e5c5d78aad9fd928c7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/lilybed_mantle.webp",
+        "sha256": "4b276d7897573f41cdec69267e7d0067582e9d2a6bec37cc24963fc22a72535e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}

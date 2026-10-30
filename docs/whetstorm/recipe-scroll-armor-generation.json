@@ -1,0 +1,108 @@
+{
+  "assets": [
+    {
+      "itemId": "pattern_spiritweld_girdle",
+      "file": "docs/design/whetstorm-art/items/pattern_spiritweld_girdle.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one partly unfurled aged parchment armor plan, tied with muted violet cord, bearing a clear painted image of an ornate steel girdle with a pale spirit-blue gem. Complete centered silhouette, ample margins; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment, premium hand-painted dark fantasy. No letters, writing, borders, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "7f105ec8f06d3979d92d9595de441e22c5694211d579e90085823838af60d0a5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_spiritweld_girdle.webp",
+        "sha256": "f2db0633330c54194b3abdf40789a99f417ca05ebea1625924df97d96f779b41",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3846
+      }
+    },
+    {
+      "itemId": "pattern_forgefold_legguards",
+      "file": "docs/design/whetstorm-art/items/pattern_forgefold_legguards.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one partly unfurled aged parchment armor plan, tied with russet cord, bearing a clear painted image of articulated forged iron legguards with warm copper rivets. Complete centered silhouette, ample margins; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment, premium hand-painted dark fantasy. No letters, writing, borders, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "49df1e670eb8b966d24b39d4bf925950d3cbe1f2ed227c774269aaa94921dfac",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_forgefold_legguards.webp",
+        "sha256": "1c7ab99b9178bc7f47db19c34042f6f566e41d49da3da483c3121114d0ab29a4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4196
+      }
+    },
+    {
+      "itemId": "pattern_wardspeaker_sabatons",
+      "file": "docs/design/whetstorm-art/items/pattern_wardspeaker_sabatons.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one partly unfurled aged parchment armor plan, tied with muted blue cord, bearing a clear painted image of a pair of steel armored sabatons with small teal ward gems. Complete centered silhouette, ample margins; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment, premium hand-painted dark fantasy. No letters, writing, borders, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "d44ebf72922f1d0b66362d882749c950e158acdaacab6a1e1a4272c2f35cf817",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_wardspeaker_sabatons.webp",
+        "sha256": "68a3dcd48137ee3ca2533fbd10d38da28525ad69f72441ddc1ced20f5501bdd7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 4326
+      }
+    },
+    {
+      "itemId": "pattern_briarstep_jerkin",
+      "file": "docs/design/whetstorm-art/items/pattern_briarstep_jerkin.png",
+      "source": "OpenAI built-in image generation",
+      "license": "Whetstorm original art (project-owned)",
+      "reference_images": [],
+      "prompt": "Opaque square painted fantasy MMO inventory icon: one partly unfurled aged parchment sewing pattern, tied with green cord, bearing a clear painted image of a brown leather jerkin with a subtle thorn-leaf motif. Complete centered silhouette, ample margins; warm top-left light, cool shadows, subdued charcoal vignette, tactile parchment, premium hand-painted dark fantasy. No letters, writing, borders, frame, watermark or collage.",
+      "status": "original recipe scroll painting; reviewed",
+      "sha256": "e59c757bfe30238c8fdfb7186b21e68f8031f7441d16406e375db6596d1c7152",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pattern_briarstep_jerkin.webp",
+        "sha256": "f195764bc025fbbc8bab1bca3f6fdee7bd0f8d1a4bf0aacdd72b82ef7fed7cb5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 82, effort 6, smart subsampling",
+        "bytes": 3774
+      }
+    }
+  ]
+}

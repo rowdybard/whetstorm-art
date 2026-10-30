@@ -180,6 +180,7 @@ import { oct30SeventhOriginalItemImageUrl } from './oct30_seventh_original_item_
 import { oct30SixthOriginalItemImageUrl } from './oct30_sixth_original_item_art';
 import { oct30TenthOriginalItemImageUrl } from './oct30_tenth_original_item_art';
 import { oct30ThirdOriginalItemImageUrl } from './oct30_third_original_item_art';
+import { oct30ThirteenthOriginalItemImageUrl } from './oct30_thirteenth_original_item_art';
 import { oct30TwelfthOriginalItemImageUrl } from './oct30_twelfth_original_item_art';
 import { osmiumGlyphsteelItemImageUrl } from './osmium_glyphsteel_item_art';
 import { packlordArmorItemImageUrl } from './packlord_armor_item_art';
@@ -266,6 +267,7 @@ export function paintedItemImageUrl(id: string): string | null {
     recipeScrollBatchItemImageUrl(id) ??
     recipeScrollProvisionsItemImageUrl(id) ??
     recipeScrollFishStationsItemImageUrl(id) ??
+    oct30ThirteenthOriginalItemImageUrl(id) ??
     oct30TwelfthOriginalItemImageUrl(id) ??
     oct30EleventhOriginalItemImageUrl(id) ??
     oct30TenthOriginalItemImageUrl(id) ??
