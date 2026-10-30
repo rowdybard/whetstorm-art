@@ -1,0 +1,11 @@
+{
+  "author": "Codex for Whetstorm",
+  "method": "Original hand-authored vector geometry and gradients. No reference images, inherited artwork, or third-party assets were used.",
+  "purpose": "Transparent layered mage HUD overlays; the fire, chrono, and frost variants share the same independently authored geometry and use distinct palettes.",
+  "historical_source": "The full game contains fire-phoenix-v2.webp, chronomancy-phoenix-v2.webp, and frost-phoenix-v1.webp under public/ui/procs. Their licence was not found in CREDITS.md; these replacements do not alter their attribution or rights.",
+  "records": [
+    {"path":"public/ui/whetstorm/procs/fire.svg","sha256":"1db392b229587928e5b1debf773769e5bda20d4a97d3f30f781f8a0c021d4272"},
+    {"path":"public/ui/whetstorm/procs/chrono.svg","sha256":"695cb5fc4f3f0275fd2a9ba75a2ebd6399438412a843dba0088e0cd6b2f0d63a"},
+    {"path":"public/ui/whetstorm/procs/frost.svg","sha256":"195a175e806445bc523527ab2749115f78cec28d055fdc46c51afb4078b9dca8"}
+  ]
+}

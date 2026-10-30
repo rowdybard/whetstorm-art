@@ -72,6 +72,11 @@ The three weekly vault door SVGs under `public/ui/weekly-vault/` are original
 hand-authored art for this fork, described in `docs/whetstorm/weekly-vault-art.md`.
 The historical weekly vault bitmap record below retains its restriction.
 
+The mage proc overlays under `public/ui/whetstorm/procs/` are original
+hand-authored SVG geometry, with no image references. Their provenance and
+hashes are recorded in `docs/whetstorm/mage-proc-overlay-original-art.json`.
+This does not establish the rights for the earlier proc artwork.
+
 The silver-, gold-, and prismatic-tier Fiesta augment icons under
 `public/ui/whetstorm/fiesta/augments/` are original hand-authored SVGs based on
 the live augment mechanics. Paths and hashes are recorded in the

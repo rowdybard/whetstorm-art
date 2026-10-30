@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+<defs><linearGradient id="wing" x1="0" y1="0" x2="0.7" y2="1"><stop stop-color="#dcfaff"/><stop offset=".45" stop-color="#a78bfa"/><stop offset="1" stop-color="#5041a1"/></linearGradient></defs>
+<g fill="url(#wing)" stroke="#dcfaff" stroke-width="2" stroke-linejoin="round">
+<path d="M122 103 C96 75 61 57 16 45 L30 78 16 72 45 111 30 106 62 140 48 139 83 165 68 162 111 188 122 160Z"/>
+<path d="M134 103 C160 75 195 57 240 45 L226 78 240 72 211 111 226 106 194 140 208 139 173 165 188 162 145 188 134 160Z"/>
+<path d="M119 153 L91 209 111 199 101 238 128 216 155 238 145 199 165 209 137 153Z"/>
+<path d="M128 18 L140 43 L128 38 L116 43 Z"/><path d="M128 37 L145 66 139 100 150 136 128 179 106 136 117 100 111 66Z"/>
+</g><g fill="none" stroke="#dcfaff" stroke-width="2" opacity=".85"><path d="M35 66 Q81 91 108 133 M45 96 Q82 111 101 147 M221 66 Q175 91 148 133 M211 96 Q174 111 155 147"/><path d="M128 58 L128 155 M118 116 L128 127 138 116"/></g><path fill="#dcfaff" d="M128 72 L135 88 128 98 121 88Z"/></svg>
