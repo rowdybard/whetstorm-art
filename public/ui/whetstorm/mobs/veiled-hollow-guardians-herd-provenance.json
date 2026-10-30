@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "veiled_stag",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG portrait: a natural wild stag with lavender-gray fur and branching antlers, head and shoulders centered in a dusk meadow, polished painterly 3D game illustration, circular crop safe. No clothing, jewelry, cloth, veils, text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/veiled_stag.webp",
+      "sha256": "ee1cb6eeecedee6e3d6fc5ed2b4cf95602ca7628b1677e7d488ac09f2fb2e47b",
+      "bytes": 4722,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/veiled_stag.png",
+        "sha256": "ad6fda9ba10ab967cd1592c10f7922b6983cf2266c06a5928e2c77e59cf316cc",
+        "bytes": 2707204
+      }
+    },
+    {
+      "id": "veiled_doe",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG portrait: a natural wild antlerless doe with pale lavender-gray fur, large ears, head and shoulders centered in a dusk meadow, polished painterly 3D game illustration, circular crop safe. No clothing, jewelry, cloth, veils, text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/veiled_doe.webp",
+      "sha256": "4b9146f87ca1e7c1abca058fb89e1bdc603147abcc3f8e9d099d7688a43f96e2",
+      "bytes": 4306,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/veiled_doe.png",
+        "sha256": "93469ce02d87fa86f3381d944f43e7da851c63d5dbc7b355e4b18b4cd8cd7bf8",
+        "bytes": 2514221
+      }
+    },
+    {
+      "id": "ancient_guardian",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG target portrait, square polished painterly 3D illustration. An ancient humanoid stone golem guardian with broad shoulders and weathered gray-lilac stone, a heavy carved rock face and dim eyes, centered in overgrown ancient ruins at dusk. Strong readable silhouette and face for circular crop. No text, border, or watermark.",
+      "path": "public/ui/whetstorm/mobs/ancient_guardian.webp",
+      "sha256": "7c2d071400147d73655eb5778fa043d953f19b726cae126d1e5b08419807a2ac",
+      "bytes": 6158,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/ancient_guardian.png",
+        "sha256": "770f8f4b141d65f02b6877c84747c7a30a57d73e5d05ea377f0623c315c68797",
+        "bytes": 3166086
+      }
+    },
+    {
+      "id": "waking_warden",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG target portrait, square polished painterly 3D illustration. The Waking Warden, a massive humanoid stone golem with broad shoulders, weathered violet stone and a stern carved rock face, subtle purple magic glowing between stones, centered against ruined court at dusk. Strong readable silhouette and face for circular crop. No text, border, or watermark.",
+      "path": "public/ui/whetstorm/mobs/waking_warden.webp",
+      "sha256": "f83a1f7b7ab675e99467c7a33275f503a762da03bc411ac849c4c036be238a6a",
+      "bytes": 6374,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/waking_warden.png",
+        "sha256": "1098b913f9d6e837eec7c6e7786d2f5e3e47f0644d7c98fa149c11afab221758",
+        "bytes": 3124840
+      }
+    }
+  ]
+}

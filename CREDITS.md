@@ -1135,6 +1135,14 @@ Corrections to Storm Caller, Deep Lurker, and Shardlord Kazzix are recorded in
 their existing `rift-storm-sunken-provenance.json` and
 `thornpeak-named-three-provenance.json` records.
 
+Original Galecrest, Veiled Hollow, world-quest, and training-effigy portraits
+were created for Whetstorm using OpenAI's built-in image generation. Prompts
+and hashes are in `galecrest-remaining-provenance.json`,
+`veiled-hollow-guardians-herd-provenance.json`, `world-quest-event-provenance.json`,
+and `proving-shore-effigy-provenance.json` under `public/ui/whetstorm/mobs/`.
+The corrected Ironvein and Thunzharr portraits are recorded in
+`thornpeak-active-provenance.json` there.
+
 Original Veiled Hollow, Vale, Drowned Litany, cave, and epic hoard portraits
 were created for Whetstorm using OpenAI's built-in image generation. Prompts
 and hashes are recorded in `docs/whetstorm/cave-ember-portraits-generation.json`

@@ -1,0 +1,47 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6, center crop",
+  "entries": [
+    {
+      "id": "gale_wisp",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG target portrait, square painterly polished 3D illustration. A hovering small golem-like wind elemental with a solid pale blue-gray rocky face and shoulders, floating stone pieces encircled by wisps of wind, matching an evolved golem creature model. Stormy high coastal downs background. Head and shoulders centered for circular crop. No text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/gale_wisp.webp",
+      "sha256": "f76069bf99941a89a5fe02437cfcb68817b4f7dca9e08e0dc73321a26d3dd5b3",
+      "bytes": 5658,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/gale_wisp.png",
+        "sha256": "ffcc43d2edcf3354ae3fc23e3a20875cbdc1e1ab5dcb693024ee5f56f938c4bc",
+        "bytes": 2615490
+      }
+    },
+    {
+      "id": "downs_bandit",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG target portrait, square painterly polished 3D illustration. A green-skinned goblin raider with large pointed ears, sharp nose and rough leather bandit gear, matching a goblin creature model. Windswept grassy downs and hide tents behind him. Head and shoulders centered, expressive face readable in circular crop. No text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/downs_bandit.webp",
+      "sha256": "b5e76fceaab78044bd3df42a24521ec0ddf49faca534ad54a32f9da45715cf4e",
+      "bytes": 6248,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/downs_bandit.png",
+        "sha256": "c5a9d878b42b5dc724f3559f1e5a6bd83cbe4198f96265bca4503997f8ae5015",
+        "bytes": 2909148
+      }
+    },
+    {
+      "id": "wreck_thief",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy MMORPG square target portrait, polished painterly 3D illustration, full bleed rectangular image with scenery filling all corners. A green goblin wreck thief with pointed ears and sharp nose wearing salt-weathered leather and faded cloth bandana; stormy wreck-strewn shoreline. Center head and shoulders, face readable at small sizes. No circular frame, no white corners, no border, no text, no watermark.",
+      "path": "public/ui/whetstorm/mobs/wreck_thief.webp",
+      "sha256": "f2ac5c64e26cbb7d9ff048fc3f6d0c40e3a6cd48fcdda551723cf5d152bfd67f",
+      "bytes": 5834,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/wreck_thief.png",
+        "sha256": "223e91a6f9135f454865bff4379f4941a244d70274f2bd397accd88082202250",
+        "bytes": 3110633
+      }
+    }
+  ]
+}

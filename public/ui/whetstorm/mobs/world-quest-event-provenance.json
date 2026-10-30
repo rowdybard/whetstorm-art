@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "fenbridge_infiltrator",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMO target portrait, square. A sinister drowned undead skeleton revealed beneath a stolen soldier's face, weathered pale blue-gray bone, gaunt skull and dark empty eye sockets, remnants of a marsh watchman's battered collar. Head and shoulders fill the image, three-quarter view, misty marsh backdrop. Painterly detailed fantasy game illustration, readable at 128 pixels, strong silhouette and soft directional light. No text, border, logo, watermark or other creatures.",
+      "path": "public/ui/whetstorm/mobs/fenbridge_infiltrator.webp",
+      "sha256": "74c7c29596331d6676799b69f6ceba1e9caf3f3e35b2fff2c1028de344bdfb9c",
+      "bytes": 5116,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/fenbridge_infiltrator.png",
+        "sha256": "5502e4aae848b1d60796cf2fae3f297da5f6fb3182c584b7628e4da8f78dec65",
+        "bytes": 2750070
+      }
+    },
+    {
+      "id": "bogtoad",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMO target portrait, square. A moss green amphibious mudfin, frog-like broad face, gills and large eyes, poisonous bogtoad from a willow marsh. Head and shoulders fill the image, three-quarter view, misty marsh background. Painterly detailed fantasy illustration, readable at 128 pixels, strong silhouette, soft directional light. No text, border, logo, watermark or other creatures.",
+      "path": "public/ui/whetstorm/mobs/bogtoad.webp",
+      "sha256": "c6ea66651a9c99f9f756ab8a2a91b1407051e8c4104c639e76f01b4401ccf6b5",
+      "bytes": 5810,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/bogtoad.png",
+        "sha256": "377a6d5df2f3ae2d96749f9c993ed0ed86954fd221ce07d9c7a22b896011c412",
+        "bytes": 2721663
+      }
+    },
+    {
+      "id": "willow_sprite",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMO target portrait, square. A pale green willow sprite, small kobold-like burrowing creature with long pointed ears, short snout and pale green skin, marsh dweller. Head and shoulders fill the image, three-quarter view, misty willow marsh background. Painterly detailed fantasy illustration, readable at 128 pixels, strong silhouette, soft directional light. No text, border, logo, watermark or other creatures.",
+      "path": "public/ui/whetstorm/mobs/willow_sprite.webp",
+      "sha256": "b4d15d3a4a32e9879f664622c2251678ca919eb69b5ecbe9af8e1cbae20e92ff",
+      "bytes": 6388,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/willow_sprite.png",
+        "sha256": "c761da3de0702afdc54579c7a8c3791f4ebc7060811f07086ebd25b6772adbba",
+        "bytes": 2768485
+      }
+    },
+    {
+      "id": "snowdrift_wolf",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMO target portrait, square. A snowdrift wolf with thick near-white winter fur, pointed ears and long muzzle, alert predatory expression. Head and shoulders fill the image, three-quarter view, snowy frostveil background. Painterly detailed fantasy illustration, readable at 128 pixels, strong silhouette, soft directional light. No text, border, logo, watermark or other creatures.",
+      "path": "public/ui/whetstorm/mobs/snowdrift_wolf.webp",
+      "sha256": "baef5ec000ab0855fe7a64eaf29c33016719233996c1d90dc275de5d77f47d35",
+      "bytes": 4998,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/snowdrift_wolf.png",
+        "sha256": "9e9bdfccb2b89231f15bb9c1f9604f5fda04e84b027056128194d05df9b0133b",
+        "bytes": 2653148
+      }
+    }
+  ]
+}

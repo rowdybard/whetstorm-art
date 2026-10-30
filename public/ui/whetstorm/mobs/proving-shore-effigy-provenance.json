@@ -1,0 +1,21 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "training_effigy",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait: close-up of a simple straw-stuffed training effigy built from rough timber, burlap and rope, weathered tan brown colors, practice yard on a windswept coast softly blurred behind it. Painterly polished game illustration, square composition, readable at 128 pixels. No text, border, logo, watermark or living face.",
+      "path": "public/ui/whetstorm/mobs/training_effigy.webp",
+      "sha256": "ca7e6feaedabf07fc391dd986bcf6102d3b7e7dad5908ef57760ccf6a688a3eb",
+      "bytes": 6440,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/training_effigy.png",
+        "sha256": "c4a6616305ccf47bfeb51b1fa91da87f15ef2ca09d6e7b7eac285314e53fa277",
+        "bytes": 2913337
+      }
+    }
+  ]
+}
