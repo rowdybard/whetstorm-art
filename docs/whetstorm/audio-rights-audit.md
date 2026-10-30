@@ -20,3 +20,11 @@ Changing the runtime-pack URL alone does not remove the compiled fallback. A rep
 ## Non-commercial with attribution
 
 The Audio section of `CREDITS.md` credits selected @jamiecypher recordings under CC BY-NC 4.0 with attribution. Its separate commercial grant is to Levy Street and does not transfer with a fork. The affected families include quest, lockpick, wand, combat, movement, creature, and selected UI sounds. This is a different category from the explicit **No, permission required** rows above. The recordings are absent in this partial worktree; inspect a complete package and the individual credit rows before drawing conclusions about its contents or usage.
+
+The following catalog paths have active UI call sites and are explicitly covered by those non-commercial credit rows:
+
+- `public/audio/sfx/quest_accept_1.mp3`, `quest_ready_1.mp3`, and `quest_complete_1.mp3`: `public/audio/sfx/runtime-pack.json` maps the quest keys to these files; `src/ui/quest_event_view.ts` selects the keys and `src/ui/hud/quest/quest_event_router.ts` plays them. `src/ui/hud.ts` also plays `quest_ready`.
+- `public/audio/sfx/ui_level_up.mp3` and `public/audio/sfx/ui_achievement.mp3`: the runtime pack maps the keys to these files, `src/game/audio.ts` exposes them, and `src/ui/hud.ts` uses them for level and achievement feedback. `src/ui/combat_sfx.ts` also uses the achievement cue.
+- `public/audio/sfx/lockpick_advanced_1.mp3` through `lockpick_advanced_4.mp3`, and `lockpick_begin.mp3`, `lockpick_bind.mp3`, `lockpick_bonus.mp3`, `lockpick_end.mp3`, `lockpick_fail.mp3`, `lockpick_page_cleared.mp3`, `lockpick_retry.mp3`, `lockpick_slip.mp3`, `lockpick_success.mp3`, and `lockpick_trap.mp3` in the same directory: the runtime pack catalogs these paths and `src/ui/hud.ts` dispatches the corresponding keys for lockpick events.
+
+These are runtime references, not evidence that the missing MP3s exist in this checkout or are absent from another package. Replacing a cue requires accounting for both the runtime pack and compiled-manifest fallback described above.
