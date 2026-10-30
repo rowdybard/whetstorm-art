@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "prog_first_planting",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a hand placing a small seed into a freshly prepared garden bed with a tiny green sprout. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_first_planting.png",
+      "masterSha256": "d422dd932d02d55be2f567d305199645e79f260c60c334e70cb02e0a165c0dce",
+      "shipping": "public/ui/whetstorm/deeds/prog_first_planting.webp",
+      "shippingSha256": "f76f0d67ea04018969874487c9177d45b7764f799c4badc08c1a39512c364ac3",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_ready_for_an_adventure",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a simple travel pack beside a small bronze ferry bell and a distant coastal sunrise, representing finishing an island tutorial. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_ready_for_an_adventure.png",
+      "masterSha256": "c0714788331eb534c2edf49a3d62aa97c873844c9de1fe30f7b0d69213745db7",
+      "shipping": "public/ui/whetstorm/deeds/prog_ready_for_an_adventure.webp",
+      "shippingSha256": "c7e7ff0a727ef7a3350ae35e97a3c358c80bc41eabec088a90d1d6f810366791",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_alchemy_rare",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a rare glowing violet elixir in an ornate glass vial with small herbal accents. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_alchemy_rare.png",
+      "masterSha256": "0a72beddeb1137305b646d3850b6828d8c97c605ce3dcfdea28d178fbeb18cef",
+      "shipping": "public/ui/whetstorm/deeds/prog_alchemy_rare.webp",
+      "shippingSha256": "b74792812f38ec95251ea2ec3f2fde1eca6a8f2af2207bf02866dfa5bcb2e530",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    },
+    {
+      "id": "prog_cooking_rare",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy MMORPG progression achievement crest. Subject: a carefully prepared steaming fantasy feast dish on a rustic plate with garnish. A centered circular antique-gold medallion with dark painted vignette outside, handcrafted dark-fantasy illustration, bold distinctive silhouette readable at 32 pixels, warm light. No text, numbers, letters, watermark, logos or existing game references.",
+      "master": "docs/design/whetstorm-art/deeds/prog_cooking_rare.png",
+      "masterSha256": "d050026aca31a8c1bc0940da6857230f29fbb76cf3cda134f2db7d9eb9cf5c68",
+      "shipping": "public/ui/whetstorm/deeds/prog_cooking_rare.webp",
+      "shippingSha256": "3286c27cbe47ba22576ff3d2fe5394ca758ef004104186c46eb886458dfa2177",
+      "processing": "sharp Lanczos3 resize to 128x128, WebP quality 84 effort 6"
+    }
+  ]
+}

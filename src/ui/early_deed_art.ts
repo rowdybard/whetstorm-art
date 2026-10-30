@@ -19,6 +19,7 @@ import { floodedChallengeDeedImageUrl } from './flooded_challenge_deed_art';
 import { gatheringBookendDeedImageUrl } from './gathering_bookend_deed_art';
 import { heroicClearDeedImageUrl } from './heroic_clear_deed_art';
 import { heroicDepthsDeedImageUrl } from './heroic_depths_deed_art';
+import { journeyCraftDeedImageUrl } from './journey_craft_deed_art';
 import { journeyDeedImageUrl } from './journey_deed_art';
 import { milestoneDeedImageUrl } from './milestone_deed_art';
 import { mountainBossDeedImageUrl } from './mountain_boss_deed_art';
@@ -79,6 +80,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     explorationDeedImageUrl(id) ??
     chronicleGatheringDeedImageUrl(id) ??
     journeyDeedImageUrl(id) ??
+    journeyCraftDeedImageUrl(id) ??
     placeDeedImageUrl(id) ??
     peaksDiscoveryDeedImageUrl(id) ??
     activityDeedImageUrl(id)
