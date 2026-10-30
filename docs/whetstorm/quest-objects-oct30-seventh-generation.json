@@ -1,0 +1,93 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "wreckfield_flotsam_crate",
+      "file": "docs/design/whetstorm-art/items/wreckfield_flotsam_crate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for wreckfield_flotsam_crate, a Flotsam Crate quest object. One complete weathered dark brown wooden shipping crate in three-quarter view, loosely bound with thick frayed rope and a few strands of seaweed, centered on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No readable text, labels, letters, border, logos, watermark, people, extra objects, photorealism, or copied game designs.",
+      "sha256": "fc5bfb3639d90457189791a2096ce8cb6ade633007c96e1c53858f6da51674e5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wreckfield_flotsam_crate.webp",
+        "sha256": "54038f318bce86a066f270c92aade1ea6cb708d43101faa099855a0d6859bd8a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "pearlwake_cargo_crate",
+      "file": "docs/design/whetstorm-art/items/pearlwake_cargo_crate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for pearlwake_cargo_crate, a Pearlwake Cargo Crate quest object. One complete salt-stained pale driftwood cargo crate in three-quarter view, broad turquoise iron corner straps and a small blank pale shell-shaped inset on its lid, centered on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No readable text, labels, letters, border, logos, watermark, people, photorealism, or copied game designs.",
+      "sha256": "49a139545a6d491fbe10718091704a7cbf91fbd00a676d5e840e1104ee54cb1e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pearlwake_cargo_crate.webp",
+        "sha256": "57a9ff3b2febcf9607968b553980ee4433bb086e32bd146e654bcc6e8a3f3231",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "confection_game_box",
+      "file": "docs/design/whetstorm-art/items/confection_game_box.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for confection_game_box, a Confectioner's Game Box quest object. One complete small open wooden tabletop game box in three-quarter view, its interior divided into a simple grid holding large colorful round candy pieces, centered against dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light, bold clear silhouette, broad forms, legible at 32 pixels. No readable text, letters, border, logos, watermark, people, photorealism, or copied game designs.",
+      "sha256": "6b419d902b701620c269efa7876a58f662f0d59a44d6e33ed16a6642679cc111",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/confection_game_box.webp",
+        "sha256": "7a86c7f4c26a0eac3d6e919040df43070a7752f484859876f7c87da404e1ac0a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gloamfield_nightbloom",
+      "file": "docs/design/whetstorm-art/items/gloamfield_nightbloom.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm square inventory painting for gloamfield_nightbloom, a Nightbloom Blossom quest object. One complete single glowing ivory-blue five-petaled flower with a curved dark green stem and two broad leaves, centered on dark slate-blue painted background. Hand-painted stylized fantasy, warm upper-left light plus subdued cool petal glow, bold clear silhouette, broad forms, legible at 32 pixels. No text, letters, border, logos, watermark, people, extra flowers, photorealism, or copied game designs.",
+      "sha256": "0470e69db2e42589acbd3987ee7915a4af07347b051fe458526c7f428121af59",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gloamfield_nightbloom.webp",
+        "sha256": "80dbb0f7fe79f2ec02b41ae14d5865ab14edb91067b4130791da94ab25f8b054",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

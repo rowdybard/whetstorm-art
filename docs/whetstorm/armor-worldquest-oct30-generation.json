@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "drownstep_sabatons",
+      "file": "docs/design/whetstorm-art/items/drownstep_sabatons.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy inventory icon painting, edge to edge slate blue background, warm upper left light, broad hand-painted shapes readable at 32 pixels. One complete pair of Drownstep Sabatons: weathered blue-green mail armored boots, linked metal mesh and layered dull steel toe and shin plates with subtle aquatic patina. Center both boots with room around them. No person, text, border, logo, watermark, or copied designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "076ceeef3503bc42163526c31eb2d16fae8a9502aee983f04631dfb51f05bdca",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/drownstep_sabatons.webp",
+        "sha256": "36787ff9cd37b102d6f952e41be63db9676f80827f3657581aae8d954c6c473c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "emberforge_gauntlets",
+      "file": "docs/design/whetstorm-art/items/emberforge_gauntlets.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy inventory icon painting, edge to edge slate blue background, warm upper left light, broad hand-painted shapes readable at 32 pixels. One complete pair of Emberforge Gauntlets: interlocking dark iron mail gloves with copper-edged plates and faint ember-orange seams, distinctive smith-forged surface. Center both gloves with room around them. No person, text, border, logo, watermark, or copied designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "04e691db6e1f341c887515378d813b3510b79e0264b6b58f44ff6a64aaa4d657",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/emberforge_gauntlets.webp",
+        "sha256": "8bbdb59a7ead50d54edeb2ccdb5764e773e5ab8138a88b2e65f5e881affb7f6e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "graskbreaker_girdle",
+      "file": "docs/design/whetstorm-art/items/graskbreaker_girdle.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy inventory icon painting, edge to edge slate blue background, warm upper left light, broad hand-painted shapes readable at 32 pixels. One complete Graskbreaker Girdle: sturdy dark steel linked mail waist belt with a broad geometric iron buckle, riveted copper fittings and worn leather backing. Center the whole belt with room around them. No person, text, border, logo, watermark, or copied designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "92200dae613df038d0cc1a26eff5714d317c8bcdc0f18be4bd05cf84f84f3182",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/graskbreaker_girdle.webp",
+        "sha256": "6aad1d37f06fd85b4360fe120425a0cea4169c8426e6a51d9efbb2ba9a640f1f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    },
+    {
+      "itemId": "ysols_pearl_greaves",
+      "file": "docs/design/whetstorm-art/items/ysols_pearl_greaves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy inventory item icon on a deep slate blue painted background. Depict one complete pair of armored pants for the legs slot: thigh to ankle leg armor, with a visible waist opening and two long separate legs, no feet, no shoes. Silver chainmail under overlapping pearlescent white thigh and shin plates with small round pearl accents and sea-green edging. Center the entire pants silhouette with space around it, warm upper-left light, bold readable shapes at 32 pixels. No body, person, text, border, logo, watermark, or copied game designs.",
+      "status": "original armor painting; reviewed",
+      "sha256": "73a4751b8d749de448631336871096e756cf7d9c6b88eadffca9cd2fba4f5e7f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ysols_pearl_greaves.webp",
+        "sha256": "fe17223df613568eaa9b83a18b486a18d5338388eb33c89f8a25dbe39533a2d0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "Pillow Lanczos resize to 128 x 128; WebP quality 84, method 6"
+      }
+    }
+  ]
+}
