@@ -1,0 +1,39 @@
+{
+  "source": "OpenAI built-in image generation",
+  "externalReferenceImages": [],
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "assets": [
+    {
+      "id": "rift_boss_ritualist",
+      "prompt": "Use case: stylized-concept. Original fantasy RPG target portrait, Magus Vel'Kor: skeletal necromancer, exposed skull and bone, deep blood-red tinted worn robes, ominous undead mage. Head and shoulders facing viewer in a dim infernal citadel. Painterly semi-realistic game illustration, bold readable silhouette at 128 pixels, square crop, no border, text, logo, or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/rift_boss_ritualist.png",
+      "masterSha256": "c06830dfb36f2647607038422e5376ed731f969b81a308b10be5bf30a6b00d81",
+      "deliveryPath": "public/ui/whetstorm/mobs/rift_boss_ritualist.webp",
+      "deliverySha256": "e7eeac71f31005147f4643f0ba95f7374f3dd00b9a4ca7cb809514a7310f2f65"
+    },
+    {
+      "id": "rift_boss_pitlord",
+      "prompt": "Use case: stylized-concept. Original fantasy RPG target portrait of a pit lord: a massive red-skinned horned demon with broad bestial face and muscular shoulders, in a dark fiery citadel. Head and shoulders face viewer, menacing. Painterly semi-realistic game illustration, bold readable silhouette at 128 pixels, square crop, no border, text, logo or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/rift_boss_pitlord.png",
+      "masterSha256": "f4a23f38e977e22b761190f96cd91fedb5fb5ac5c20f0ed8ce05dc8be9535ff6",
+      "deliveryPath": "public/ui/whetstorm/mobs/rift_boss_pitlord.webp",
+      "deliverySha256": "f6794cac041fc0611146f00938dded6a9f1ecfb594777f913114e38b63c74d48"
+    },
+    {
+      "id": "rift_hellguard",
+      "prompt": "Use case: stylized-concept. Original fantasy RPG target portrait of a hellguard, a red-skinned horned demon soldier with broad bestial face and muscular shoulders in a dark infernal stone hall. Head and shoulders facing viewer. Painterly semi-realistic game illustration, strong readable silhouette at 128 pixels, square crop, no border, lettering, logo or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/rift_hellguard.png",
+      "masterSha256": "b8a21518ee4b7318b3eb9e206ac2c3e85fbd17cb90598aa288bf9f4d47b5a04a",
+      "deliveryPath": "public/ui/whetstorm/mobs/rift_hellguard.webp",
+      "deliverySha256": "fa4619b9d80af7bbc18a031f5d1e660947e3abfa6f7437e85c2d4c56a135a574"
+    },
+    {
+      "id": "rift_pact_acolyte",
+      "prompt": "Use case: stylized-concept. Original fantasy RPG target portrait of a Pact Acolyte: sinister humanlike mage wearing a prominent pointed wizard hat and dark blood-red robes, holding a staff, in a dim infernal citadel. Head and shoulders face viewer. Painterly semi-realistic game illustration, bold readable silhouette at 128 pixels, square crop, no border, text, logo or watermark.",
+      "masterPath": "docs/design/whetstorm-art/mobs/rift_pact_acolyte.png",
+      "masterSha256": "2318de47c32ef90f83afcc32c55955a9182f67c6c068020eb578166f34a0a998",
+      "deliveryPath": "public/ui/whetstorm/mobs/rift_pact_acolyte.webp",
+      "deliverySha256": "966a6e50d5d44fd8351221bfdc7040f983089ec0b24eb341dc978684fb37b36d"
+    }
+  ]
+}

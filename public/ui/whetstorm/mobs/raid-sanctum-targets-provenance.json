@@ -43,15 +43,21 @@
     {
       "id": "sanctum_drakonid",
       "path": "public/ui/whetstorm/mobs/sanctum_drakonid.webp",
-      "sha256": "1cea8877df07421ecc1693971e4d7f244f205c35971cc1a18b619462402ee019",
+      "sha256": "85a18d07c76c78b4594818a18312e5294647c025aa4f5716752c67f62f8c1d6f",
       "master": {
         "path": "docs/design/whetstorm-art/mobs/sanctum_drakonid.png",
-        "sha256": "ebd930e053dc183db36dd25f1a6d7cc3fa769510b4e24d03dbc6c0e432344138"
+        "sha256": "6510a6a47d81d1806abeef726042a81ded4a34a37d1f870c23484a808cfde139"
       },
       "source": "OpenAI built-in image generation",
-      "source_output": "exec-fe6e37c3-b99c-4c48-895f-c30b4e4d8f0c.png",
-      "prompt": "Use case: stylized-concept. Create original square fantasy MMO target portrait of a green-scaled dragonkin scaleguard, broad reptilian snout and horned head, worn dark armor, ancient crypt background, painterly detailed game illustration, head and shoulders, strong silhouette readable at 128 pixels. No lettering, no frame, no watermark.",
-      "processing": "sharp Lanczos3 resize to 128 x 128, WebP quality 84, effort 6"
+      "source_output": "exec-6828a49f-e9a2-450d-9509-3bc5600d0e50.png",
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy RPG target portrait, legible in a 54px circular frame. Sanctum Scaleguard is a flying dragon wyrm, not a humanoid: green scaled reptilian dragon head with broad snout, horns and batlike wings partially visible behind it, no clothing or armor. Ancient stone necromantic sanctum in subdued green firelight. Centered close-up head and neck, painterly detailed fantasy game illustration, strong silhouette. No humanoid body, no armor, no text, letters, frame, logo or watermark.",
+      "processing": "sharp Lanczos3 resize to 128 x 128, WebP quality 84, effort 6",
+      "previous": {
+        "sha256": "1cea8877df07421ecc1693971e4d7f244f205c35971cc1a18b619462402ee019",
+        "masterSha256": "ebd930e053dc183db36dd25f1a6d7cc3fa769510b4e24d03dbc6c0e432344138",
+        "source_output": "exec-fe6e37c3-b99c-4c48-895f-c30b4e4d8f0c.png",
+        "prompt": "Use case: stylized-concept. Create original square fantasy MMO target portrait of a green-scaled dragonkin scaleguard, broad reptilian snout and horned head, worn dark armor, ancient crypt background, painterly detailed game illustration, head and shoulders, strong silhouette readable at 128 pixels. No lettering, no frame, no watermark."
+      }
     }
   ]
 }

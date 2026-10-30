@@ -1094,3 +1094,11 @@ image generation. Prompts and hashes are recorded in
 and `evergarden-amberfall-additional-provenance.json` files in
 `public/ui/whetstorm/mobs/`. The corrected topiary portraits are recorded in
 `public/ui/whetstorm/mobs/evergarden-overworld-provenance.json`.
+
+Additional Amberfall, Farshore, Rift, hoard, and Gravewyrm portraits were
+created for Whetstorm using OpenAI's built-in image generation. Prompts and
+hashes are recorded in `docs/whetstorm/infernal-citadel-portraits-generation.json`
+and the `amberfall-remaining-provenance.json`, `farshore-overworld-provenance.json`,
+`hoard-actors-provenance.json`, and `gravewyrm-bonewalker-provenance.json`
+files in `public/ui/whetstorm/mobs/`. The corrected Sanctum Scaleguard
+painting is recorded in `raid-sanctum-targets-provenance.json` there.

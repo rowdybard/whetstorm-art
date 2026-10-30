@@ -1,0 +1,21 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "raised_bonewalker",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy RPG target portrait, readable in a 54px circular frame. Raised Bonewalker: an animated skeletal minion with exposed pale grey-green skull and bones, simple worn armor, the skel_minion family model, facing forward in an ancient stone necromantic sanctum. Center the skull and shoulders, closely framed, painterly semi-realistic game illustration, clear silhouette. No other characters, text, letters, logo, border, watermark, or interface.",
+      "path": "public/ui/whetstorm/mobs/raised_bonewalker.webp",
+      "sha256": "4c94fdca3d25c264d6f41be34d12b899148dc9293bcb8b3b3ac34a3319285453",
+      "bytes": 5440,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/raised_bonewalker.png",
+        "sha256": "2b395ba4ae8e7e2e84cd66eb02b79f64aaeb40c5c195adc9a5176310a7170861",
+        "bytes": 2706500
+      }
+    }
+  ]
+}

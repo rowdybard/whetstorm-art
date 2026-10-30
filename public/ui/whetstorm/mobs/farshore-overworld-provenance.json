@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "riftspawn",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square, close-up head and shoulders of a bipedal demonic creature with horns, purple-tinged hide, consistent with a compact demon game model. Shadowy coastal rift behind. Painterly polished game illustration, clear face and silhouette at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/riftspawn.webp",
+      "sha256": "e85cafc987f554cc8df240c1fe1bdd17fce75b4fbb26b8db896f1f0a0c5215a6",
+      "bytes": 5010,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/riftspawn.png",
+        "sha256": "d9d0ad3b04ef8401154ddffd6d417cc52a0d508b457e893a368a048f6ec03edc",
+        "bytes": 2494677
+      }
+    },
+    {
+      "id": "breach_wretch",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square, close-up head and shoulders of a small green goblin-like creature with pointed ears, squat face, muted violet wash on green skin and simple rough clothing. Shadowy coastal rift behind. Painterly polished game illustration, clear face and silhouette at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/breach_wretch.webp",
+      "sha256": "5cbec5427384a38c05914adf8c66503cdb0132660719f36f9c90835dfae3f6d6",
+      "bytes": 4158,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/breach_wretch.png",
+        "sha256": "1ac0072de53a2946ba07241499864abc9fde0a6c7a82465052ce4919bd385a14",
+        "bytes": 2495835
+      }
+    },
+    {
+      "id": "void_stalker",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square, close-up head and shoulders of a natural wolf with pointed ears, long muzzle and dark charcoal fur subtly tinted deep violet. Shadowy coastal rift behind. Painterly polished game illustration, clear face and silhouette at 128 pixels, no text, border, logo or watermark.",
+      "path": "public/ui/whetstorm/mobs/void_stalker.webp",
+      "sha256": "6be85d9340eb9d72e78355fc9c2f06552ab00a92d8d36384834a9d14e01b18b5",
+      "bytes": 3438,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/void_stalker.png",
+        "sha256": "7864b5afa7bcbba0f8af3af1fb4ccc746d7f6bed043ac397fea57fcbe85e2790",
+        "bytes": 2567426
+      }
+    },
+    {
+      "id": "sundered_horror",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Original fantasy game target portrait: large brown ogre with subtle magenta hue, broad face and lower tusks, rugged clothing, head and shoulders, coastal cliffs. Painterly illustration, square, no words, logos or border.",
+      "path": "public/ui/whetstorm/mobs/sundered_horror.webp",
+      "sha256": "d6a0bc9a97654ba2d5681f2d35b195efc523631e3de56b9f0c2119d2e71f4ac9",
+      "bytes": 5068,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/sundered_horror.png",
+        "sha256": "765f64def61fe447f2001f9d8d95b0671e450253ed085f2096b60a65185cfc54",
+        "bytes": 2800398
+      }
+    }
+  ]
+}

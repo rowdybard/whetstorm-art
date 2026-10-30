@@ -1,0 +1,47 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "harvest_sprite",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square: a small green goblin-like Gleaning Sprite with pointed ears and yellow-ochre autumn accents, an orchard thief. Close head and shoulders, three-quarter view, expressive face, autumn orchard background. Polished painterly fantasy game illustration, readable at small size, no text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/harvest_sprite.webp",
+      "sha256": "871a2d2ec8779974b86d1e67db9f93d784507c7db3934ae2ee77dacbfa9f2a44",
+      "bytes": 6894,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/harvest_sprite.png",
+        "sha256": "e448e1d976dd86f3ca420ec0ae866d7192d2f98d91067a7104c47ba708c2b0f3",
+        "bytes": 2426888
+      }
+    },
+    {
+      "id": "mere_lurker",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square: Mere Lurker, a stocky humanoid frog creature with broad amphibian face, large eyes and olive-yellow green skin. Head and shoulders in three-quarter view beside a quiet autumn lake, polished painterly fantasy game illustration, readable at small size, no text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/mere_lurker.webp",
+      "sha256": "d164c2d2b58bcb62e58124db7acf69d8225f9b2272eaf308403277800e22a47e",
+      "bytes": 6518,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/mere_lurker.png",
+        "sha256": "59d41e4c81ca91b31eb3e5c1384e357fc10fdcbe3bbc5c8fba09189372064132",
+        "bytes": 2695786
+      }
+    },
+    {
+      "id": "the_meredark",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Use case: stylized-concept. Original fantasy MMO target portrait, square: The Meredark, a formidable ancient humanoid frog creature, broad amphibian face, large eyes, dark moss-green skin and powerful shoulders. Close head and shoulders, three-quarter view, shadowy autumn lake backdrop, polished painterly fantasy game illustration, readable at small size, no text, border or watermark.",
+      "path": "public/ui/whetstorm/mobs/the_meredark.webp",
+      "sha256": "fdd7a7070d791202d3043a3a09236ab375bfd0049af04742108b3386cfd9fc47",
+      "bytes": 5362,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/the_meredark.png",
+        "sha256": "704ac2aee3ce9a419af8409b8ad0a9190a08f671aa1946ae0468218f0634a5de",
+        "bytes": 2641710
+      }
+    }
+  ]
+}

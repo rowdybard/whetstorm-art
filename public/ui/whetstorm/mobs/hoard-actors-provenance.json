@@ -1,0 +1,60 @@
+{
+  "project": "Whetstorm",
+  "owner": "Whetstorm",
+  "license": "Whetstorm original art",
+  "processing": "128x128 WebP, sharp quality 82, effort 6",
+  "entries": [
+    {
+      "id": "hoard_brood_hatchling",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a small green spider hatchling, rounded green abdomen and chitin, clustered dark eyes and short mandibles, cave shadows. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/hoard_brood_hatchling.webp",
+      "sha256": "c3c2b1ddf264ead86cfa80125ba6e8e35276d578386bc5909e558749886cd7c8",
+      "bytes": 5324,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/hoard_brood_hatchling.png",
+        "sha256": "2df9e69a26e3b9a175adb3579be352ed93f1507bcc74d8c28c2d294d542d94e9",
+        "bytes": 2377674
+      }
+    },
+    {
+      "id": "hoard_healing_tide_totem",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a chunky carved wooden ogre war totem, stylized stacked carved face with broad features, weathered wood tinted turquoise by gentle healing tide magic, dark cave backdrop. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/hoard_healing_tide_totem.webp",
+      "sha256": "bc2958a3d01b3e9082461a794feaae38cf870b0385180455ca3b2008e9de27ff",
+      "bytes": 6224,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/hoard_healing_tide_totem.png",
+        "sha256": "75a53ae5fdf09179282fa06a3eda1e94d552acf0334e7fb450bd0bec5f5550c6",
+        "bytes": 2672105
+      }
+    },
+    {
+      "id": "hoard_bound_pulsar",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a floating bright blue magical pulsar nucleus orb surrounded by metallic arcane rings and armor, cyan and violet glow against a dark cave. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/hoard_bound_pulsar.webp",
+      "sha256": "87da531e59fd04eb9e5875c9b9a9be06e92539cf4bd9e0f8031dd05a3f35bd2c",
+      "bytes": 7042,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/hoard_bound_pulsar.png",
+        "sha256": "57c9a709c9ae44dbdda35ebc5c4f12fb8bdaae7383fd8823e22007b6a88ad815",
+        "bytes": 2696345
+      }
+    },
+    {
+      "id": "hoard_abyssal_tentacle",
+      "source": "OpenAI built-in image generation, text only",
+      "prompt": "Stylized-concept: original fantasy MMO target portrait, square close-up of a single living abyssal tentacle rising and curling from a fleshy root collar, deep teal blue skin and pale suckers, dark cavern background. Painterly detailed game icon, centered subject readable at tiny size, no text, no frame, no watermark.",
+      "path": "public/ui/whetstorm/mobs/hoard_abyssal_tentacle.webp",
+      "sha256": "430730370adf7be75c5852c4fae5adeae44b858df5af3134c499504d1670c62b",
+      "bytes": 4734,
+      "master": {
+        "path": "docs/design/whetstorm-art/mobs/hoard_abyssal_tentacle.png",
+        "sha256": "ad3f93176ea9ef56ededf44ce0f5c332d5e65585afaf5bbba8dfa76549410e48",
+        "bytes": 2377444
+      }
+    }
+  ]
+}
