@@ -16,6 +16,34 @@ These mappings also feed model preloading; heroic variants inherit their base
 item's mapping. See `src/ui/weapon_variants.ts` and
 `src/render/characters/manifest.ts` in the art branch.
 
+### Active held-model follow-up (2026-10-30)
+
+The art branch also maps the Rift dagger `rimefang` to `ice_fang` in
+`src/ui/weapon_variants.ts`. That same model is the Hoarfrost skin in
+`src/sim/content/weapon_skins.ts`, and the Season 1 Armory collection is marked
+permission required in `CREDITS.md`. This ordinary item mapping remains relevant
+even with the commerce UI switched off. `gravecourt_hewer` maps to the restricted
+legacy `purple_axe` and appears in `src/sim/content/nythraxis_loot.ts`.
+
+Together with the four inscription tome keys `tome_silverleaf`, `tome_goldleaf`,
+`tome_sunpetal` and `tome_voidbound`, mapped to equipped offhands in
+`src/render/characters/manifest.ts` and backed by recipes in
+`src/sim/content/recipes.ts`, these are six distinct restricted model keys with
+equipment paths. Prioritize clearance, exclusion or replacement for these paths;
+the existing 40-weapon and 16-named-file inventories already include them, so
+this does not add six to the historical 56-file count. The resolver also follows
+`heroicOf`, so audit inherited items before choosing substitutes. The partial art
+worktree lacks these GLBs: this follow-up verifies source mappings, not geometry,
+embedded textures, grip, distribution contents or actual in-game availability.
+Candidate substitutes need independent provenance and visual fit checks.
+
+The restricted Guildmark model `brasscrown_walking_staff` also has an NPC-held
+consumer: `NPC_MODULAR_PROP_ATTACH` in `src/render/characters/manifest.ts` maps
+`walking_staff` to it, and `src/render/characters/npc_looks.ts` uses that prop
+set. It is already included among the 40 collection files, and is a separate
+NPC attachment path rather than another player equipment mapping. Preserve its
+hand attachment and check NPC poses when selecting a replacement.
+
 `adv_axe_1handed` is a candidate for the remaining axe: the game already uses
 it for other one-handed axes and it follows the existing axe attachment path.
 Before substituting it, verify the exact model's source and embedded assets,
@@ -158,6 +186,12 @@ files remain to be audited.
 | `terrorspark_groundshaker` | `src/sim/content/items.ts` describes its reins as developer-only with no ordinary acquisition; `mounts.ts` lists it as a developer mount. | Review developer and saved-state handling separately; do not assume a player-facing replacement is needed. |
 | `chimeglass_tortoise`, `goblin_rocket_sled` | `mount_skins.ts` registers both as cosmetic skins; their legacy reins are inert junk in `items.ts`. | Audit actual entitlement, acquisition and saved ownership before removing or replacing the skins. |
 
+| Four inscription tomes | `src/render/characters/manifest.ts` maps `silverleaf_primer`, `goldleaf_folio`, `sunpetal_grimoire` and `voidbound_grimoire` to the corresponding held models. | Preserve item-to-hand attachment and grip when remapping. |
+| Ferry, Wyrmwatch harbor, Wickharbor wharf and harbor | The transport and harbor content modules describe ferry routes, walkable decks, collision and the harbormaster house as coordinated with the rendered models. | Preserve pier surfaces, routes, collisions, interactions and visual alignment; a generic static mesh is not automatically a substitute. |
+| Harbormaster gear | `src/render/characters/manifest.ts` attaches the tricorne to `head` and spyglass to `hips`. | Fit replacements to those attachment frames and validate on the body. |
+| Harbor route marker | `src/sim/content/harbor_route_markers.ts` describes shared markers at ferry locations. | Preserve destinations and marker readability. |
+| `reeds.glb` | The credits register identifies it as restricted; this focused search did not establish its runtime consumer. | Trace placements and bundled/editor references before selecting a substitute or removal. |
+
 The Lanternback renderer uses idle, walk, run and death clips, an animated
 chair-bone rider attachment with a fixed-seat fallback, and two lantern-bone
 attachments. Any candidate needs its own measured seat position and gait,
@@ -165,11 +199,6 @@ including rider stability through transitions and LODs; silently falling back
 from a missing chair bone does not prove a good fit. Free animated monster
 packs are possible sources to investigate, but no specific replacement's
 license, model, animation coverage, seating, or proportions has been verified.
-| Four inscription tomes | `src/render/characters/manifest.ts` maps `silverleaf_primer`, `goldleaf_folio`, `sunpetal_grimoire` and `voidbound_grimoire` to the corresponding held models. | Preserve item-to-hand attachment and grip when remapping. |
-| Ferry, Wyrmwatch harbor, Wickharbor wharf and harbor | The transport and harbor content modules describe ferry routes, walkable decks, collision and the harbormaster house as coordinated with the rendered models. | Preserve pier surfaces, routes, collisions, interactions and visual alignment; a generic static mesh is not automatically a substitute. |
-| Harbormaster gear | `src/render/characters/manifest.ts` attaches the tricorne to `head` and spyglass to `hips`. | Fit replacements to those attachment frames and validate on the body. |
-| Harbor route marker | `src/sim/content/harbor_route_markers.ts` describes shared markers at ferry locations. | Preserve destinations and marker readability. |
-| `reeds.glb` | The credits register identifies it as restricted; this focused search did not establish its runtime consumer. | Trace placements and bundled/editor references before selecting a substitute or removal. |
 
 These are source-level findings, not evidence that every route or asset was
 observed in a running game. Recheck against the actual release candidate.
@@ -195,6 +224,26 @@ rig type, weight paint, animations, rider socket and scale; auto-rigging is a
 starting point, not proof of compatibility. For harbors, preserve navigable
 layout and collisions rather than treating one generated mesh as a complete
 drop-in replacement.
+
+### Weapon grip and rig compatibility
+
+Player attachments use `handslot.r` and `handslot.l`; drawn bows move to the
+left hand, while crossbow handling keeps the authored right-hand attachment
+(`src/render/characters/manifest.ts`, `assets.ts`, and `skin_attack.ts` in that
+directory). The `assets.ts` single-child flattening clears the child's position
+and rotation, so bake required mesh transforms into the geometry before export.
+For a variant weapon, put the origin at the handle grip and orient the shaft
+along +Y. Register the model basename with the appropriate grip family in
+`assets.ts`; a missing registration falls back to the raw bone transform.
+`weapon_grip.ts` adds optional per-model adjustments, including offhand fit.
+
+Inspect each candidate in both relevant hands and in idle, locomotion and
+combat poses, including drawn bow and crossbow handling where applicable. Also
+inspect the stowed position: `assets.ts` reparents held props to the chest and
+uses the family transforms in `back_grips.ts`. Check clipping, scale and the
+weapon enhancement effects. These code contracts do not establish a candidate's
+visual fit or its mesh, texture, skeleton and animation provenance; both remain
+to be verified for each proposed replacement.
 
 ## Illustrative Tripo costs, not a purchasing plan
 
