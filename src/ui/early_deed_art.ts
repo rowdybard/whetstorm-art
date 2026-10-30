@@ -13,6 +13,7 @@ import { delveDiscoveryDeedImageUrl } from './delve_discovery_deed_art';
 import { dungeonClearDeedImageUrl } from './dungeon_clear_deed_art';
 import { dungeonJourneyDeedImageUrl } from './dungeon_journey_deed_art';
 import { dungeonMetaDeedImageUrl } from './dungeon_meta_deed_art';
+import { earlyCollectionDeedImageUrl } from './early_collection_deed_art';
 import { experienceDeedImageUrl } from './experience_deed_art';
 import { explorationDeedImageUrl } from './exploration_deed_art';
 import { floodedChallengeDeedImageUrl } from './flooded_challenge_deed_art';
@@ -52,6 +53,7 @@ const EARLY_DEED_ART = new Map<string, string>([
 export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
+    earlyCollectionDeedImageUrl(id) ??
     valeChronicleDeedImageUrl(id) ??
     milestoneDeedImageUrl(id) ??
     mountainBossDeedImageUrl(id) ??

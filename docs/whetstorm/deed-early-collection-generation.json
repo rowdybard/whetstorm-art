@@ -1,0 +1,48 @@
+{
+  "records": [
+    {
+      "id": "col_discovery_25",
+      "master": "docs/design/whetstorm-art/deeds/col_discovery_25.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for discovering 25 different items: a weathered leather travel satchel overflowing with a few distinct small treasures, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "6b68589f290fb2f7cd3f05de861c7ba2f3e0e5a4ff5feeb792504f08797dab95",
+      "shipping": "public/ui/whetstorm/deeds/col_discovery_25.webp",
+      "shippingSha256": "cb627041c3b8408fdf2c115b153ff7e1223c64fdb51217926f89f8d7d2fb8b34",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_discovery_75",
+      "master": "docs/design/whetstorm-art/deeds/col_discovery_75.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for discovering 75 different items: a black-and-white magpie holding a bright golden trinket over a small open treasure chest, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "f46ef91db2fefd8bba55bb3bda2dee13c885b02be5d2f128b502e240b8a12eef",
+      "shipping": "public/ui/whetstorm/deeds/col_discovery_75.webp",
+      "shippingSha256": "deb11071dd7af9ebb91de89e83c82dd6eaa8a9c78b4b0379cafc1a478461d9c0",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_first_rare",
+      "master": "docs/design/whetstorm-art/deeds/col_first_rare.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for acquiring a first rare item: a single vivid sapphire blue faceted gemstone held in a simple silver setting, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "d6f2e731f98a8c8a70dd8df718d8acc6a88d6591b0a4a3684784be7da29a6402",
+      "shipping": "public/ui/whetstorm/deeds/col_first_rare.webp",
+      "shippingSha256": "e60bd9e69aef4c73875df9726290ec87876e8a293989962bdd2b6a632b12c3f6",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    },
+    {
+      "id": "col_all_slots",
+      "master": "docs/design/whetstorm-art/deeds/col_all_slots.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square fantasy MMORPG achievement crest for equipping every gear slot: a complete simple suit of steel armor displayed on a wooden stand, with helm, chestpiece, gloves and boots clearly visible, enclosed in a simple circular brass medal, dark warm background, bold readable silhouette at 32 pixels, hand-painted fantasy. No text, letters, numerals, logos, watermarks, outer frame or imitation of other games or artists.",
+      "masterSha256": "857a4b7e6e0ce3f86cfa4efd2289882d6dceb7c48718f0370dd59fb3bbe4aeed",
+      "shipping": "public/ui/whetstorm/deeds/col_all_slots.webp",
+      "shippingSha256": "a3ce19fa3e772330f73f9e31c90583ad9bfe04e5d2e2feceb67f74340ceb54aa",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}
