@@ -78,7 +78,9 @@ import { farmProduceFineItemImageUrl } from './farm_produce_fine_item_art';
 import { farmProduceOriginalItemImageUrl } from './farm_produce_original_item_art';
 import { farmingHoesItemImageUrl } from './farming_hoes_item_art';
 import { farmingThornpeakItemImageUrl } from './farming_thornpeak_item_art';
+import { fenKeepLootItemImageUrl } from './fen_keep_loot_item_art';
 import { fenbloomItemImageUrl } from './fenbloom_item_art';
+import { feralRimeItemImageUrl } from './feral_rime_item_art';
 import { fineProduceStockItemImageUrl } from './fine_produce_stock_item_art';
 import { fishingLaterCatchItemImageUrl } from './fishing_later_catch_item_art';
 import { fishingRawCatchItemImageUrl } from './fishing_raw_catch_item_art';
@@ -230,10 +232,14 @@ import { wildsWeaponItemImageUrl } from './wilds_weapon_item_art';
 import { wovenBagsItemImageUrl } from './woven_bags_item_art';
 import { wraithfireArmorItemImageUrl } from './wraithfire_armor_item_art';
 import { zealfireArmorItemImageUrl } from './zealfire_armor_item_art';
+import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    fenKeepLootItemImageUrl(id) ??
+    feralRimeItemImageUrl(id) ??
+    zone3TrophiesItemImageUrl(id) ??
     templeLootItemImageUrl(id) ??
     vanguardFangStaffItemImageUrl(id) ??
     guardianTrophiesItemImageUrl(id) ??

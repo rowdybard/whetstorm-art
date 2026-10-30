@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_feral_staff",
+      "file": "docs/design/whetstorm-art/items/vanguard_feral_staff.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Vanguard's Feral Staff, complete long battle staff with rugged dark wood shaft, a bronze crown with two pale animal fangs, deep red leather wrappings and restrained geometric metal fittings. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "b83f92fab85791d50596bf3d972460d5c436329c51f1cbede606f463f4453a77",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_feral_staff.webp",
+        "sha256": "1b7acfadeb543e23fe0f858fd126ce2e1d4016daa0af5cc6fe11c38ae755d769",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-ed0a87e0-547d-4945-a836-a6175894f9b5.png"
+    },
+    {
+      "itemId": "rimefang",
+      "file": "docs/design/whetstorm-art/items/rimefang.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy game inventory painting. One Rimefang, complete epic one-handed dagger with a curved silver-steel fang blade, pale blue frost along its edge, dark steel guard and blue leather grip. Restrained frost glow. Full diagonal silhouette with safe margins; recognizable at small icon size. Opaque deep navy painted background, warm upper-left light, tactile hand-painted materials. No person, hands, letters, frame, watermark or copied game designs.",
+      "status": "original painting; reviewed full size and 128 pixels",
+      "sha256": "a83815d67abc54ac4ab6c21bfa4082cb548f3c46ee2e45dd2bda632947d63502",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/rimefang.webp",
+        "sha256": "f477275b05c99cbd67cec68981d4656dc2b575f920691d7a0af17c1320663392",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "source_output": "exec-5be0aa80-c92e-4408-9876-620290e9bf99.png"
+    }
+  ]
+}

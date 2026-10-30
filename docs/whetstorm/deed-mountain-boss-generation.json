@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected contact sheet at 32, 48, and 64 pixels.",
+  "records": [
+    {
+      "id": "cmb_thunzharr",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a gigantic rocky mountain creature collapsing into rubble beneath a stormy sky, with a small triumphant adventurer silhouette, representing a boss defeat. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/cmb_thunzharr.png",
+      "masterSha256": "d5966220628e998761da6fdf4bfad0929d832515d86b19b4b4e499ce16d116fe",
+      "shipping": "public/ui/whetstorm/deeds/cmb_thunzharr.webp",
+      "shippingSha256": "eb225168a6d06fef5dfbfc325a17631d86771654a3ba19a830b8130421500ace",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "cmb_thunzharr_unbroken",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing an unbroken silver shield framed by golden laurels before a towering rocky mountain creature and storm clouds, representing survival through a boss fight. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/cmb_thunzharr_unbroken.png",
+      "masterSha256": "9787ad07aa22aa78d857f732bbc6821071292dde70128761e3d47b193f397672",
+      "shipping": "public/ui/whetstorm/deeds/cmb_thunzharr_unbroken.webp",
+      "shippingSha256": "3d1059049cb0de4316aad94a4dace8c9487742e86882304e81a4e3c17f431c30",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    },
+    {
+      "id": "cmb_thunzharr_ten",
+      "prompt": "Use case: stylized-concept. Asset type: small fantasy game achievement crest. Create an original painted medal showing a weathered sword planted among a row of fallen rocky peaks beneath a stormy sky, with a circular laurel wreath, representing repeated victories over a mountain boss. Centered in a circular brass frame, dark warm background extending to image corners, bold silhouette readable at 32 pixels. No text, letters, numbers, logos or watermark. Independently designed, do not imitate existing game art.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/deeds/cmb_thunzharr_ten.png",
+      "masterSha256": "43039605ec29a2ae69bb62604e2fede354feb12052f36b79747c7706f30577b3",
+      "shipping": "public/ui/whetstorm/deeds/cmb_thunzharr_ten.webp",
+      "shippingSha256": "c511699d5fcfe8c3614ab36771931c6a8cc956fde21f25beabea71b5cca46320",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 90"
+    }
+  ]
+}

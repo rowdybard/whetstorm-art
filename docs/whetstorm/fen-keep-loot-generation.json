@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "soggy_moccasin",
+      "file": "docs/design/whetstorm-art/items/soggy_moccasin.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one worn soggy leather moccasin, dark brown, water-stained and slightly misshapen, with visible simple stitching, on a muted marsh green painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, soft upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "d5726a03aa9d6f0c2b52610e82ed07ea7949f6a46cbd50a4213bb181a058d8f8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/soggy_moccasin.webp",
+        "sha256": "710930563a6c0d1438b34ae760a4a2f1a43659b7bd7593d2843bd5eafcb251f8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "deepfen_pearl",
+      "file": "docs/design/whetstorm-art/items/deepfen_pearl.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one deepfen pearl, a dark blue-green iridescent pearl resting on a small wet river stone, against a dark fen-blue painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, cool upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "4adcbf891db4b192ab2aa97212eb3e88da8e31250b89bb693b481e0bcef0cbc7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/deepfen_pearl.webp",
+        "sha256": "ed6d940503d1bf3ece5d8ef9aaad2602612affc0512b5cf82cb8b09163931d0b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "last_keep_signet",
+      "file": "docs/design/whetstorm-art/items/last_keep_signet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original Whetstorm fantasy inventory item painting: one weathered bronze signet ring from a fallen keep garrison, thick band with a plain engraved shield emblem on its face, resting on a dark stone painted background. Square painted edge to edge, bold centered silhouette, stylized fantasy hand painting, warm upper-left light, readable at 32 pixels. No writing, letters, numbers, border, logo, watermark, person, or imitation of another game.",
+      "sha256": "8d8cbdde63adf290fd7fb5d8a3af2718d0d3135194df255219c17e8155789d95",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/last_keep_signet.webp",
+        "sha256": "84bf7ebd9ad5257bd3d802ab44181aff6bbfde7c55a2b68f69261f7533399d23",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

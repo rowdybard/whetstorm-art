@@ -17,6 +17,7 @@ import { heroicClearDeedImageUrl } from './heroic_clear_deed_art';
 import { heroicDepthsDeedImageUrl } from './heroic_depths_deed_art';
 import { journeyDeedImageUrl } from './journey_deed_art';
 import { milestoneDeedImageUrl } from './milestone_deed_art';
+import { mountainBossDeedImageUrl } from './mountain_boss_deed_art';
 import { peaksDiscoveryDeedImageUrl } from './peaks_discovery_deed_art';
 import { placeDeedImageUrl } from './place_deed_art';
 import { prestigeDeedImageUrl } from './prestige_deed_art';
@@ -44,6 +45,7 @@ export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
     milestoneDeedImageUrl(id) ??
+    mountainBossDeedImageUrl(id) ??
     tradeMasteryDeedImageUrl(id) ??
     combatMasteryDeedImageUrl(id) ??
     craftMasteryDeedImageUrl(id) ??

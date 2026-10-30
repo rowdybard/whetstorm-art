@@ -1,0 +1,76 @@
+{
+  "assets": [
+    {
+      "itemId": "ogre_toe_ring",
+      "file": "docs/design/whetstorm-art/items/ogre_toe_ring.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Ogre Toe Ring: an oversized crude hammered bronze ring with a chunky uneven band and small scratched geometric marks, a recovered ogre trophy. Original hand-painted fantasy, tactile weathered metal, warm upper-left light, centered complete ring in three-quarter view on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original zone loot painting; reviewed",
+      "sha256": "74e2cca0100a63c6410984c1e2f803e239fb987f57c7119a94173c822133db28",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ogre_toe_ring.webp",
+        "sha256": "00816a110d70d4b6da3a288b312747dc03a6b6ae5fea8b7e669aa940fe46128b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "inert_storm_shard",
+      "file": "docs/design/whetstorm-art/items/inert_storm_shard.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Inert Storm Shard: a single jagged dull blue-gray crystal fragment with fine pale lightning-like veins but no glow, a recovered storm material. Original hand-painted fantasy, tactile crystal, warm upper-left light, centered complete silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original zone loot painting; reviewed",
+      "sha256": "7404275732d2ddc1483cb287d09c3d788778723a8f04d385f614688959e5d130",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/inert_storm_shard.webp",
+        "sha256": "bbeb83f1f1009a432ad2b2a1bb76ee27078753c62c3db1e5ebeb23ff6583d42a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "frayed_prayer_beads",
+      "file": "docs/design/whetstorm-art/items/frayed_prayer_beads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Opaque square fantasy game inventory icon. Paint Frayed Prayer Beads: a loop of worn wooden beads on a frayed brown cord with a small plain bronze pendant, a recovered devotional object. Original hand-painted fantasy, tactile wood and fiber, warm upper-left light, centered complete silhouette on a dark painted vignette, readable at small size. No text, letters, frame, logo, or watermark.",
+      "status": "original zone loot painting; reviewed",
+      "sha256": "d6b661a460cae37c78b2a1ca05333060330fc02f05f917658e05163af4973704",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/frayed_prayer_beads.webp",
+        "sha256": "9c7132b2e7fe31e7c1d0021b8d27a5592946799d8262ff76a619ac9c29b99933",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
