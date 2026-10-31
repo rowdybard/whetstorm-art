@@ -1,0 +1,40 @@
+{
+  "generator": "OpenAI built-in image generation, four separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for legendary-map Sovereign Vysska hoard armor, which has epic item quality.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "In-game review pending.",
+  "entries": [
+    {
+      "id": "legendary_silkstalker_woven_vest",
+      "prompt": "Original square opaque fantasy game item inventory painting, a royal leather vest only, no wearer, no creatures. Dramatic near-black leather with one huge pale ivory V-shaped chest panel and high flared collar, jewel-purple narrow edging, broad angular silhouette, high contrast. Ornate but simple visual pattern clearly readable at 22px. Dark charcoal background and warm light. No text, border or watermark.",
+      "source": "docs/design/whetstorm-art/items/vysska-sovereign/legendary_silkstalker_woven_vest.png",
+      "sourceSha256": "72442998a28941a1ed25bb4103811a03cd5905eb6707806321247508112aaf2d",
+      "output": "public/ui/whetstorm/items/legendary_silkstalker_woven_vest.webp",
+      "outputSha256": "abe6d4b282f0aed274a637416ef4162aee2171e3b7d49ac20bdaba50ae7c309d"
+    },
+    {
+      "id": "legendary_spun_venom_spaulders",
+      "prompt": "Original square opaque fantasy game item inventory painting, one separated pair of royal leather shoulder guards only, no wearer, no creatures. Each has a large pale ivory crescent blade sweeping upward, dark plum leather base and silver trim, very tall horn-like outer silhouette, high contrast. Ornate but simple visual pattern clearly readable at 22px. Dark charcoal background and warm light. No text, border or watermark.",
+      "source": "docs/design/whetstorm-art/items/vysska-sovereign/legendary_spun_venom_spaulders.png",
+      "sourceSha256": "e639b993d62f92b3f4850a89c888df434fb08f331e891e328cf4751eb467f5c5",
+      "output": "public/ui/whetstorm/items/legendary_spun_venom_spaulders.webp",
+      "outputSha256": "2cfff9f2af9289fc814d95ff7beef942b82d2ceaa64fefba0bf664f4934bd902"
+    },
+    {
+      "id": "legendary_broodmother_chitin_cowl",
+      "prompt": "Original square opaque fantasy game item inventory painting, a royal leather hood only with dark empty opening, no wearer, no face, no creatures. Bold pale ivory layered chitin-like armored crest arching high over black and dark plum leather hood, bright silver edging, broad high silhouette, high contrast. Ornate but simple visual pattern clearly readable at 22px. Dark charcoal background and warm light. No text, border or watermark.",
+      "source": "docs/design/whetstorm-art/items/vysska-sovereign/legendary_broodmother_chitin_cowl.png",
+      "sourceSha256": "3c7d31b268ba1bc5b4d9fcb1079969e6fc0b0e24c554c3a5d0bd659e1098792b",
+      "output": "public/ui/whetstorm/items/legendary_broodmother_chitin_cowl.webp",
+      "outputSha256": "140bcda30ced5ff4a95c4023886b48e3c2ff659c0aef5d85cd02b4b67d73b289"
+    },
+    {
+      "id": "legendary_venom_etched_waistcord",
+      "prompt": "Original square opaque fantasy game item inventory painting, a royal woven cloth waist sash and cord only, no wearer, no creatures. Very broad pale ivory cloth belt with a huge purple diamond buckle, two long pointed dark-purple hanging tails, silver trim, large simple high-contrast shapes. Clearly readable at 22px, dark charcoal background and warm light. No text, border or watermark.",
+      "source": "docs/design/whetstorm-art/items/vysska-sovereign/legendary_venom_etched_waistcord.png",
+      "sourceSha256": "cae03677d323935e7356d37c1dfc3440f508a8bd7b7d5d08cc2f4cbbf8e5b031",
+      "output": "public/ui/whetstorm/items/legendary_venom_etched_waistcord.webp",
+      "outputSha256": "ff04b46d7b3a9139cf3a6c6e6e4e8aef1c83d5989c3fcb1bb108601b191d2db9"
+    }
+  ]
+}

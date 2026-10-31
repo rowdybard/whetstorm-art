@@ -1,4 +1,4 @@
-// Original Whetstorm paintings for epic and Tarnished Vysska hoard armor.
+// Original Whetstorm paintings for all three Vysska hoard armor tiers.
 const ART: ReadonlyMap<string, string> = new Map([
   ['silkstalker_woven_vest', '/ui/whetstorm/items/silkstalker_woven_vest.webp'],
   ['spun_venom_spaulders', '/ui/whetstorm/items/spun_venom_spaulders.webp'],
@@ -8,6 +8,13 @@ const ART: ReadonlyMap<string, string> = new Map([
   ['rare_spun_venom_spaulders', '/ui/whetstorm/items/rare_spun_venom_spaulders.webp'],
   ['rare_broodmother_chitin_cowl', '/ui/whetstorm/items/rare_broodmother_chitin_cowl.webp'],
   ['rare_venom_etched_waistcord', '/ui/whetstorm/items/rare_venom_etched_waistcord.webp'],
+  ['legendary_silkstalker_woven_vest', '/ui/whetstorm/items/legendary_silkstalker_woven_vest.webp'],
+  ['legendary_spun_venom_spaulders', '/ui/whetstorm/items/legendary_spun_venom_spaulders.webp'],
+  [
+    'legendary_broodmother_chitin_cowl',
+    '/ui/whetstorm/items/legendary_broodmother_chitin_cowl.webp',
+  ],
+  ['legendary_venom_etched_waistcord', '/ui/whetstorm/items/legendary_venom_etched_waistcord.webp'],
 ]);
 export function vysskaEpicItemImageUrl(id: string): string | null {
   return ART.get(id) ?? null;
