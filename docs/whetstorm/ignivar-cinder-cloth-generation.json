@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "cord_of_the_last_flame",
+      "file": "docs/design/whetstorm-art/ignivar-cord-of-the-last-flame-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory item painting, square composition: a single mage's cloth waist cord, thick woven charcoal textile wrapped as a clear oval loop with glowing ember-orange threads and a modest bronze clasp shaped like a flame. Dark warm background, centered large isolated object, painterly hand-painted realistic materials, strong silhouette readable at 32 pixels. No text, letters, frame, logo, watermark, characters, or reference to existing games.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "bd1b0ec8d315c87caee8dd9909d92e1658b7f76acf0aaad744357b267dc91d4e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cord_of_the_last_flame.webp",
+        "sha256": "255078f1f206b7bbda19c853addfbda1cdc6c0eee8d53010483eefa703e65092",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "cindersoaked_slippers",
+      "file": "docs/design/whetstorm-art/ignivar-cindersoaked-slippers-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory item painting, square composition: a matched pair of soft charcoal cloth mage slippers, toes clearly visible, ember-red stitching and a few cinder flecks, with subtle bronze accents. Dark warm background, centered large isolated footwear, painterly hand-painted realistic materials, strong silhouette readable at 32 pixels. No text, letters, frame, logo, watermark, characters, or reference to existing games.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "cf77eac1b9355274b6b785355439ee96a79806ca0d2e23119ced17508cf89ca6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cindersoaked_slippers.webp",
+        "sha256": "a4396b87d54c26f85afb6f8083079acf3b10b8415fffa17bda4e2cec1207a012",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

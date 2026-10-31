@@ -1,0 +1,33 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "conversion": "sharp resize 128x128, WebP quality 82, effort 6",
+  "records": [
+    {
+      "id": "legendary_ember_wrought_crown",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Sovereign Ember-Wrought Crown, a majestic forge-born MAIL helmet with a bold open face silhouette, blackened steel, molten orange seams and ornate gold crown-like crest. Sovereign treasure tier, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/sovereign-emberforge-original/legendary_ember_wrought_crown.png",
+      "masterSha256": "f4ba7bf844510eaec3be34954a3ff8f388dfc54d62976d7a8f93754f7bf43f9a",
+      "shipping": "public/ui/whetstorm/items/legendary_ember_wrought_crown.webp",
+      "shippingSha256": "8d0b0b82c1488769fcffc5f35ccfbbe6dd15ea071785c5f2b6c86cf8f8ab9fa9"
+    },
+    {
+      "id": "legendary_cinder_stitched_robes",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Sovereign Cinder-Stitched Robes, majestic flowing dark CLOTH robes with a bold torso-and-skirt silhouette, ember-red fabric, gold stitching and molten orange embroidery. Sovereign treasure tier, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/sovereign-emberforge-original/legendary_cinder_stitched_robes.png",
+      "masterSha256": "e7cbd90326214d08d5b29ece7e9c41bb17a917dc433769df89c1d81a93f82aa4",
+      "shipping": "public/ui/whetstorm/items/legendary_cinder_stitched_robes.webp",
+      "shippingSha256": "da1ec924285f73a1cc6ee72ceb99d453d71d0cb9900024901cdf2281701d448a"
+    },
+    {
+      "id": "legendary_molten_clinker_girdle",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Sovereign Molten Clinker Girdle, a broad forged MAIL belt with a bold central glowing molten clinker buckle, blackened steel and ornate gold accents. Sovereign treasure tier, unmistakable horizontal belt silhouette, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/sovereign-emberforge-original/legendary_molten_clinker_girdle.png",
+      "masterSha256": "ba62f2110101df442570b046c5e9b5d47aaf7742772fcbbdbacd74d73e3d2343",
+      "shipping": "public/ui/whetstorm/items/legendary_molten_clinker_girdle.webp",
+      "shippingSha256": "562fae2f7a02ef77d86ef55996f8fe062db7fe59b8824de055cb5c8a7934d52f"
+    }
+  ]
+}

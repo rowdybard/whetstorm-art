@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "springbinder_sash",
+      "file": "docs/design/whetstorm-art/ignivar-springbinder-sash-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory item painting, square composition: a single soft cloth healer's sash, broad pale aqua and ivory woven fabric folded into a clear oval loop, elegant hanging ends with small water-drop embroidery, silver clasp. Deep slate teal background, centered complete subject, painterly fantasy illustration, readable at 32 pixels. No text, letters, frame, logo, watermark, characters, or designs from existing games.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "5e5e1efed385cfd506cfb2bf8014b3da2fae163e9e25474e4f6a31ea7afaf481",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/springbinder_sash.webp",
+        "sha256": "26696bda3b0cce49aaea0ffb57f21c0894e2f2f7859b83558e6f81920f5962c4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "steps_of_quiet_water",
+      "file": "docs/design/whetstorm-art/ignivar-steps-of-quiet-water-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory item painting, square composition: a pair of soft cloth healer's ankle slippers, pale aqua and ivory woven fabric with silver trim and delicate water-drop embroidery. Deep slate teal background, centered complete footwear, painterly fantasy illustration, readable at 32 pixels. No text, letters, frame, logo, watermark, characters, or designs from existing games.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "31ad98b10e2d43b03fb59d7c6d12ec1fcd834f1b7c8f75b01ab525d682383c7e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/steps_of_quiet_water.webp",
+        "sha256": "17f033cbeeecf9be99e7e007d640b1959d7b007dd0eb66379ba668f0541f5a43",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

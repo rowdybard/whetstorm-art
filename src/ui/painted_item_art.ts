@@ -50,6 +50,11 @@ import { stormkindledUpperItemImageUrl } from './stormkindled_upper_item_art';
 import { stormkindledLowerItemImageUrl } from './stormkindled_lower_item_art';
 import { eventHorizonCowlItemImageUrl } from './event_horizon_cowl_item_art';
 import { singularityMantleTierItemImageUrl } from './singularity_mantle_tier_item_art';
+import { ignivarCinderClothItemImageUrl } from './ignivar_cinder_cloth_item_art';
+import { ignivarSpringClothItemImageUrl } from './ignivar_spring_cloth_item_art';
+import { stonehearthUpperItemImageUrl } from './stonehearth_upper_item_art';
+import { sovereignEmberforgeItemImageUrl } from './sovereign_emberforge_item_art';
+import { rimewardenUpperItemImageUrl } from './rimewarden_upper_item_art';
 import { cleaverWildsoulItemImageUrl } from './cleaver_wildsoul_item_art';
 import { clothBatchFiveItemImageUrl } from './cloth_batch_five_item_art';
 import { clothBatchFourItemImageUrl } from './cloth_batch_four_item_art';
@@ -435,6 +440,11 @@ export function paintedItemImageUrl(id: string): string | null {
     stormkindledLowerItemImageUrl(id) ??
     eventHorizonCowlItemImageUrl(id) ??
     singularityMantleTierItemImageUrl(id) ??
+    ignivarCinderClothItemImageUrl(id) ??
+    ignivarSpringClothItemImageUrl(id) ??
+    stonehearthUpperItemImageUrl(id) ??
+    sovereignEmberforgeItemImageUrl(id) ??
+    rimewardenUpperItemImageUrl(id) ??
     wovenBagsItemImageUrl(id) ??
     craftedGroupFeastsItemImageUrl(id) ??
     factionBagsItemImageUrl(id) ??

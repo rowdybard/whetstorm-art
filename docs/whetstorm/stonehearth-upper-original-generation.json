@@ -1,0 +1,30 @@
+{
+  "generator": "Built-in imagegen; three independent generations; no source references",
+  "processing": "sharp resize 128x128, WebP quality 88 effort 6",
+  "images": [
+    {
+      "id": "stonehearth_helmet",
+      "master": "docs/design/whetstorm-art/items/stonehearth-upper-original/stonehearth_helmet.png",
+      "output": "public/ui/whetstorm/items/stonehearth_helmet.webp",
+      "masterSha256": "e47faca0c051f0c4e4cff1ddfc949cc6283d447026fca4231fdc30953aefcb38",
+      "outputSha256": "761d6c0a551d5ade89c4db916cbe85601c635d5c36c3161c222774e45f973e7b",
+      "prompt": "Original square painted fantasy RPG inventory icon for Stonehearth Bastion, an epic shaman mail armor set: rugged dark bronze metal and clearly visible iron chainmail, rounded slate-gray stone inlays, small warm amber accents, dark charcoal backdrop. Unworn item, large centered distinct silhouette readable at 28px, painterly. No person, words, letters, numbers, logo, frame or watermark. A single mail HELM, stout rounded dome and open face with thick chainmail coif, a broad flat stone-like brow crest; recognizable headwear."
+    },
+    {
+      "id": "stonehearth_shoulder",
+      "master": "docs/design/whetstorm-art/items/stonehearth-upper-original/stonehearth_shoulder.png",
+      "output": "public/ui/whetstorm/items/stonehearth_shoulder.webp",
+      "masterSha256": "15cdea21e2420430318edd9c67a0818d7235b0a976b1075959d63bcfd26757cb",
+      "outputSha256": "eac8fa9057c5d12d247811ae025c729579c1294177227472778dc0c08dc3bb4a",
+      "prompt": "Original square painted fantasy RPG inventory icon for Stonehearth Bastion, an epic shaman mail armor set: rugged dark bronze metal and clearly visible iron chainmail, rounded slate-gray stone inlays, small warm amber accents, dark charcoal backdrop. Unworn item, large centered distinct silhouette readable at 28px, painterly. No person, words, letters, numbers, logo, frame or watermark. A matching pair of broad rounded mail PAULDRONS, two separate heavy shoulder guards with stone-like inlays and visible hanging chainmail fringe; no torso, no head."
+    },
+    {
+      "id": "stonehearth_chest",
+      "master": "docs/design/whetstorm-art/items/stonehearth-upper-original/stonehearth_chest.png",
+      "output": "public/ui/whetstorm/items/stonehearth_chest.webp",
+      "masterSha256": "6298fe18e6837a61a277eb454656148402e517e5de73cc9c9d26452eddf80cfb",
+      "outputSha256": "92969affe7da0e1c13bfe4bf7a73d1062a90365fc2b8971721970df8af6ceaa3",
+      "prompt": "Original square painted fantasy RPG inventory icon for Stonehearth Bastion, an epic shaman mail armor set: rugged dark bronze metal and clearly visible iron chainmail, rounded slate-gray stone inlays, small warm amber accents, dark charcoal backdrop. Unworn item, large centered distinct silhouette readable at 28px, painterly. No person, words, letters, numbers, logo, frame or watermark. A mail HAUBERK torso, clearly visible interlocking links, thick rounded overlapping shoulder plates, and a large circular amber hearthstone chest ornament; no head or legs."
+    }
+  ]
+}

@@ -1337,6 +1337,26 @@ Three Singularity mantle tier paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/singularity-mantle-tiers/tier-provenance.md`.
 
+Two Ignivar cinder cloth paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/ignivar-cinder-cloth-generation.json`.
+
+Two Ignivar spring cloth paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/ignivar-spring-cloth-generation.json`.
+
+Three Stonehearth armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/stonehearth-upper-original-generation.json`.
+
+Three Sovereign Emberforge armor paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/sovereign-emberforge-original/sovereign-emberforge-provenance.json`.
+
+Three Rimewarden armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/rimewarden-upper-equipment/upper-provenance.md`.
+
 Three epic Ember armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/emberforge-epic/provenance.json`.
