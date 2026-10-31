@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for legendary-map Sovereign bone legion hoard armor, which has epic item quality.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "In-game review pending.",
+  "entries": [
+    {
+      "id": "legendary_bone_studded_pauldrons",
+      "prompt": "Original square opaque fantasy game inventory item painting: a matched pair of regal mail shoulder pauldrons, each with huge bright ivory crescent-shaped bone inlay curving upward over near-black metal and chainmail, bright gold trim. Bold tall pointed silhouette and striking light-dark pattern readable at 22px. No person, body, face, character, animal or creature. Hand-painted dark fantasy, charcoal background, warm light, no writing, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/bone-legion-sovereign/legendary_bone_studded_pauldrons.png",
+      "sourceSha256": "70b7e011d382cfb7aed13a33dbad705d497f2df67a8329a57f5bd17e80efac76",
+      "output": "public/ui/whetstorm/items/legendary_bone_studded_pauldrons.webp",
+      "outputSha256": "6678c82498dbb5acf322cb1c01875de6dff20dcacdbd3b087127635d1c8ce998"
+    },
+    {
+      "id": "legendary_legguards_of_the_ossuary",
+      "prompt": "Original square opaque fantasy game inventory item painting: one pair of regal leather legguards, near-black leather trousers with huge bright ivory bone-shaped panels running vertically down outer thighs and shins, pointed gold trim, cropped at ankles without shoes. Bold full pants silhouette and striking light-dark pattern readable at 22px. No person, body, face, character, animal or creature. Hand-painted dark fantasy, charcoal background, warm light, no writing, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/bone-legion-sovereign/legendary_legguards_of_the_ossuary.png",
+      "sourceSha256": "fd51917149c5e3d960931c015ba2ce9f49be0ba1ffa772202e554dc767445549",
+      "output": "public/ui/whetstorm/items/legendary_legguards_of_the_ossuary.webp",
+      "outputSha256": "3140cb77d19de44a53c508deacff684a23637d47ee72ce12de26fa9ce79c4723"
+    },
+    {
+      "id": "legendary_ossuary_bone_crown",
+      "prompt": "Original square opaque fantasy game inventory item painting: one regal cloth crown cap, very tall wide bright ivory bone-shaped triangular peaks on a near-black woven fabric band, bold central gold diamond and dark empty interior. Strong tall crown silhouette and striking light-dark pattern readable at 22px. No head, face, person, character, animal or creature. Hand-painted dark fantasy, charcoal background, warm light, no writing, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/bone-legion-sovereign/legendary_ossuary_bone_crown.png",
+      "sourceSha256": "ca6893d885767fb62739214d2a959ec2e670805e3c00b01355034391872b9848",
+      "output": "public/ui/whetstorm/items/legendary_ossuary_bone_crown.webp",
+      "outputSha256": "3b8b19920cd8a6f3088eb7795e479ecd0344173590c3bf17dd9f2bfeef34e567"
+    }
+  ]
+}

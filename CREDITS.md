@@ -1271,6 +1271,10 @@ Three Tarnished bone armor paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/bone-legion-tarnished/provenance.json`.
 
+Three Sovereign bone armor paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/bone-legion-sovereign/provenance.json`.
+
 Three Crucible healer cloth item paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded separately from the manuals in
 `docs/design/whetstorm-art/items/crucible-healer-cloth/armor-provenance.md`.
