@@ -53,3 +53,13 @@ permission-required. These paths and the legacy coin and Armory bitmap examples
 exist in the separate `D:/action-mmo` reference checkout but are absent from
 this partial art worktree. The code and file checks were static: runtime
 visibility and downstream package contents were not inspected.
+
+`src/ui/store_mount_purchase.ts` builds catalog-first mount rows, and
+`src/ui/store_mount_card_view.ts` renders each thumbnail in the Machine Stable
+card, including a row with no service price marked unavailable. The reference
+checkout also contains `/ui/store/mount_skins/rallycart_rxt.webp`, but that ID
+is not in the current four-entry `MOUNT_SKINS` catalog; no active selection of
+that fifth file was established. `mountSkinArt` currently has no Whetstorm
+original override, and a search found no existing mount-specific Whetstorm
+thumbnail for these four. Separate model and reins-image credits do not by
+themselves establish the thumbnail images' provenance or terms.

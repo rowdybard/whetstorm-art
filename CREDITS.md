@@ -1261,6 +1261,12 @@ recorded in `docs/whetstorm/crucible-spellcaster-mail-original-generation.json`,
 `docs/design/whetstorm-art/items/crucible-caster-cloth-equipment/equipment-provenance.md`,
 and `docs/design/whetstorm-art/items/stormbound-s1-original/stormbound-provenance.json`.
 
+Four additional Stormbound, three Healer Mail and three Guardian leather
+paintings were generated with OpenAI's built-in image generation. Prompts and
+hashes are recorded in `docs/design/whetstorm-art/items/stormbound-s1-second-original/stormbound-second-provenance.json`,
+`docs/whetstorm/crucible-healer-mail-original-generation.json`, and
+`docs/design/whetstorm-art/items/crucible-guardian-leather-equipment/equipment-provenance.md`.
+
 Three Tarnished bone armor paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/bone-legion-tarnished/provenance.json`.

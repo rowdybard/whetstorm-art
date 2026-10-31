@@ -1,0 +1,42 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "conversion": "sharp resize 128x128, WebP quality 82, effort 6",
+  "records": [
+    {
+      "id": "stormbound_waistguard",
+      "prompt": "Original hand-painted fantasy RPG item icon: Stormbound Waistguard, a single broad caster mail belt with a bold central clasp and clear belt silhouette. Silver-blue forged metal, chainmail accents, lightning-blue inlays and restrained pale gold trim. Storm-inspired, battle-worn, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/stormbound-s1-second-original/stormbound_waistguard.png",
+      "masterSha256": "c836c27906b2dbd6ed399429a3d6b16201f59dfaf79b3fceaa7425cd12e14e5b",
+      "shipping": "public/ui/whetstorm/items/stormbound_waistguard.webp",
+      "shippingSha256": "374c890b3cdf0aee2147d165b6a1a550a4496a986c3baa18c45713f9578ba3ff"
+    },
+    {
+      "id": "stormbound_legmail",
+      "prompt": "Original hand-painted fantasy RPG item icon: Stormbound Legmail, a pair of caster mail leggings with two distinct armored legs and clear leg silhouette. Silver-blue forged metal, chainmail accents, lightning-blue inlays and restrained pale gold trim. Storm-inspired, battle-worn, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/stormbound-s1-second-original/stormbound_legmail.png",
+      "masterSha256": "9225937adc093c3fd6fb1ba56c682d927e58b0227a2adc394385b82e1933e2b5",
+      "shipping": "public/ui/whetstorm/items/stormbound_legmail.webp",
+      "shippingSha256": "82d2bf703dd5c37d3d5fe458c52f742633ce565370808a687ec420a686f8c68e"
+    },
+    {
+      "id": "stormbound_handguards",
+      "prompt": "Original hand-painted fantasy RPG item icon: Stormbound Handguards, a pair of caster mail gauntlets with visible fingers and clear glove silhouette. Silver-blue forged metal, chainmail accents, lightning-blue inlays and restrained pale gold trim. Storm-inspired, battle-worn, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/stormbound-s1-second-original/stormbound_handguards.png",
+      "masterSha256": "073d7bb8bc5717c546d0005b3e668491b5cc443f91bb8f6e2011001e5230980a",
+      "shipping": "public/ui/whetstorm/items/stormbound_handguards.webp",
+      "shippingSha256": "57e57ff03973fd89b7e901e8ed6e48cadc27433d0b8662303ccea067da19c30c"
+    },
+    {
+      "id": "stormbound_greaves",
+      "prompt": "Original hand-painted fantasy RPG item icon: Stormbound Greaves, a pair of caster mail armored boots with clearly visible feet and bold boot silhouette. Silver-blue forged metal, chainmail accents, lightning-blue inlays and restrained pale gold trim. Storm-inspired, battle-worn, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/stormbound-s1-second-original/stormbound_greaves.png",
+      "masterSha256": "85ac0214b2744f824238e772f9b7ca949ad2ec647c389d8fb1c9ba3544f692ab",
+      "shipping": "public/ui/whetstorm/items/stormbound_greaves.webp",
+      "shippingSha256": "90273c50b2f47a29eeb28ca4d73a81bacb98b54afe5b26ee419cffa6cff94c2c"
+    }
+  ]
+}

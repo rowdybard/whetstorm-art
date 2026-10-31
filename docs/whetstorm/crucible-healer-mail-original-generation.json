@@ -1,0 +1,30 @@
+{
+  "generator": "Built-in imagegen; three independent generations; no source references",
+  "processing": "sharp resize 128x128, WebP quality 88 effort 6",
+  "images": [
+    {
+      "id": "crucible_healer_mail_chest",
+      "master": "docs/design/whetstorm-art/items/crucible-healer-mail-original/crucible_healer_mail_chest.png",
+      "output": "public/ui/whetstorm/items/crucible_healer_mail_chest.webp",
+      "masterSha256": "e0b42d174040fc0b5495df1f99e9707220a80237244ffde35e458f0051c2fcee",
+      "outputSha256": "14774e8fca258c2de34dc30ffcea5d239fd1827d2918766ed0d581ff55c9703d",
+      "prompt": "Original square painted fantasy RPG inventory icon, unworn healer's chainmail chest armor for a paladin and shaman. A short sleeveless bright silver chainmail vest under a broad white draped capelet that spreads far out left and right into two unmistakable rounded wing-shaped shoulders; a large simple pale gold sun medallion at chest. Clear chainmail, strongly horizontal white capelet silhouette, full object on dark background, painterly, readable at 28px. No wearer, text, letters, numbers, logo, border or watermark."
+    },
+    {
+      "id": "crucible_healer_mail_waist",
+      "master": "docs/design/whetstorm-art/items/crucible-healer-mail-original/crucible_healer_mail_waist.png",
+      "output": "public/ui/whetstorm/items/crucible_healer_mail_waist.webp",
+      "masterSha256": "62e8e5f3c9016fc6d070f8499e3cac81152e0567571a1b5e8b2fece993b07032",
+      "outputSha256": "def82e112fb1a85827603c9910106e10f46e6429ccacd7402ebbc31f2d9d4d0d",
+      "prompt": "Original square painted fantasy RPG inventory icon, unworn healer's chainmail waist belt for a paladin and shaman. A broad white cloth sash over visible silver chain links, tied into a huge unmistakable bow on the left side with two long white tails hanging down, small gold sun buckle. Strong asymmetric bow-and-tails silhouette, full object on dark background, painterly, readable at 28px. No wearer, text, letters, numbers, logo, border or watermark."
+    },
+    {
+      "id": "crucible_healer_mail_feet",
+      "master": "docs/design/whetstorm-art/items/crucible-healer-mail-original/crucible_healer_mail_feet.png",
+      "output": "public/ui/whetstorm/items/crucible_healer_mail_feet.webp",
+      "masterSha256": "f1c6b9cf71a9a2ca77424b4b4fb5934c073b0c479e12f76d4335b5a956850c36",
+      "outputSha256": "aa161f50cfb391fe77ee0227fa50851eee3a967e689be9527ab9de5eb4540e64",
+      "prompt": "Original square painted fantasy RPG inventory icon, an unworn healer's chainmail sabaton boot for a paladin and shaman, one side-profile boot pointing LEFT, with a huge unmistakable white feathered WING rising vertically from its heel like a sail, rounded silver armored toe, chainmail at ankle and soft pale gold edging. Strong wing-and-boot silhouette, full object on dark background, painterly, readable at 28px. No wearer, text, letters, numbers, logo, border or watermark."
+    }
+  ]
+}
