@@ -1,0 +1,11 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "referenceImages": [],
+  "prompt": "Use case: stylized-concept. Original wide landscape fantasy game armory promotional background, approximately 1000:590. On the RIGHT side arrange a few distinct forged fantasy weapons, a sword, axe and spear, displayed against dark wood and stone with warm amber workshop light. The LEFT half must be dark, simple and empty of prominent objects so white interface text can be overlaid at top left. Polished hand-painted fantasy RPG illustration. Entirely original design with no reference images. No people, words, letters, numerals, logos, borders, interface or embedded typography.",
+  "master": "docs/design/whetstorm-art/ui/armory-promo-original.png",
+  "masterSha256": "ce24324d743917e3ea765128826661f9f1b5506de588ec254bba90e140f73db1",
+  "status": "Unapproved generic illustration; does not match current catalog items. Draft candidate only, not for shipping.",
+  "candidate": "docs/design/whetstorm-art/ui/armory-promo-candidate.webp",
+  "candidateSha256": "5f49b3d34b01062e31238bbad3c6abfba6de8ba92db01f2423a459594b9b20f3",
+  "conversion": "sharp resize 1000x590 cover, WebP quality 85, effort 6"
+}
