@@ -1,0 +1,30 @@
+{
+  "generator": "Built-in imagegen; three independent generations; no source references",
+  "processing": "sharp resize 128x128, WebP quality 88 effort 6",
+  "images": [
+    {
+      "id": "crucible_str_mail_chest",
+      "master": "docs/design/whetstorm-art/items/crucible-striker-mail-original/crucible_str_mail_chest.png",
+      "output": "public/ui/whetstorm/items/crucible_str_mail_chest.webp",
+      "masterSha256": "b6c89ef94b44f9ac73f7e4772b060c6a7384adbf7c5e030f9d31a0f47e31b859",
+      "outputSha256": "5d678c158e0bdf3923f64ae3a98400461f84abc755b47814e841ce5519371897",
+      "prompt": "Original square painted fantasy RPG inventory icon: a single Crucible Striker's Mail hauberk, front-facing torso armor made of interlocking dark steel chainmail with sturdy forged shoulder guards and warm bronze trim, an angular ember-orange chest accent. Unworn, fully visible large centered silhouette, deep charcoal background, painterly detailed but readable at 32 pixels. No words, letters, numbers, logos, frame, or watermark."
+    },
+    {
+      "id": "crucible_str_mail_waist",
+      "master": "docs/design/whetstorm-art/items/crucible-striker-mail-original/crucible_str_mail_waist.png",
+      "output": "public/ui/whetstorm/items/crucible_str_mail_waist.webp",
+      "masterSha256": "4a19dbb843900505f18fe2dec26e8ccfcb5d8c2735888829bd4699ee00300373",
+      "outputSha256": "4da953b17be05a1d1971cc5f9296a8f32879f3901fc7fc11ee7fe92873c2fdbb",
+      "prompt": "Original square painted fantasy RPG inventory icon: a single Crucible Striker's Mail girdle, broad forged dark steel and chainmail waist belt with bronze trim and a prominent angular ember-orange central buckle. Unworn, fully visible large centered silhouette, deep charcoal background, painterly detailed but readable at 32 pixels. No words, letters, numbers, logos, frame, or watermark."
+    },
+    {
+      "id": "crucible_str_mail_feet",
+      "master": "docs/design/whetstorm-art/items/crucible-striker-mail-original/crucible_str_mail_feet.png",
+      "output": "public/ui/whetstorm/items/crucible_str_mail_feet.webp",
+      "masterSha256": "d180bfc40a98bcf91a8193f5865852ddd6cebd0dc8a6962defaca311ea49ba28",
+      "outputSha256": "03be6518b0236947ff1cc251686f8270712db9e084b8dd8c9600e7566aee2835",
+      "prompt": "Original square painted fantasy RPG inventory icon: a pair of Crucible Striker's Mail sabatons, sturdy dark steel armored boots with chainmail joints, bronze trim and ember-orange accents. Unworn, fully visible large centered silhouettes, deep charcoal background, painterly detailed but readable at 32 pixels. No words, letters, numbers, logos, frame, or watermark."
+    }
+  ]
+}

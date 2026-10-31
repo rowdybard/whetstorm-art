@@ -55,6 +55,8 @@ import { crucibleMailPatternItemImageUrl } from './crucible_mail_pattern_item_ar
 import { crucibleLeatherPatternItemImageUrl } from './crucible_leather_pattern_item_art';
 import { crucibleHealerClothPatternItemImageUrl } from './crucible_healer_cloth_pattern_item_art';
 import { crucibleHealerClothItemImageUrl } from './crucible_healer_cloth_item_art';
+import { crucibleCasterLeatherEquipmentImageUrl } from './crucible_caster_leather_equipment_art';
+import { crucibleStrikerMailItemImageUrl } from './crucible_striker_mail_item_art';
 import { crozierSparksItemImageUrl } from './crozier_sparks_item_art';
 import { dawnForgeItemImageUrl } from './dawn_forge_item_art';
 import { dawnforgedArmorItemImageUrl } from './dawnforged_armor_item_art';
@@ -68,10 +70,12 @@ import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { emberscreedItemImageUrl } from './emberscreed_item_art';
 import { springmenderItemImageUrl } from './springmender_item_art';
 import { tempestEpicItemImageUrl } from './tempest_epic_item_art';
+import { stormBucklerTierItemImageUrl } from './storm_buckler_tier_item_art';
 import { vysskaEpicItemImageUrl } from './vysska_epic_item_art';
 import { progressionRewardItemImageUrl } from './progression_reward_item_art';
 import { heroicTrinketItemImageUrl } from './heroic_trinket_item_art';
 import { graskEpicItemImageUrl } from './grask_epic_item_art';
+import { furyforgedS1ItemImageUrl } from './furyforged_s1_item_art';
 import { hoarfrostEpicItemImageUrl } from './hoarfrost_epic_item_art';
 import { nythraxisApexPatternItemImageUrl } from './nythraxis_apex_pattern_item_art';
 import { nythraxisJewelPatternItemImageUrl } from './nythraxis_jewel_pattern_item_art';
@@ -289,6 +293,10 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    crucibleStrikerMailItemImageUrl(id) ??
+    furyforgedS1ItemImageUrl(id) ??
+    crucibleCasterLeatherEquipmentImageUrl(id) ??
+    stormBucklerTierItemImageUrl(id) ??
     crucibleHealerClothItemImageUrl(id) ??
     tempestEpicItemImageUrl(id) ??
     springmenderItemImageUrl(id) ??

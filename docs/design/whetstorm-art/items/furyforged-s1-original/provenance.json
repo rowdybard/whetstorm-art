@@ -1,0 +1,33 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "conversion": "sharp resize 128x128, WebP quality 82, effort 6",
+  "records": [
+    {
+      "id": "furyforged_warhelm",
+      "prompt": "Original hand-painted fantasy RPG inventory icon, a single Furyforged Warhelm: heavy warlike forged dark steel MAIL helmet with a broad angular brow, bold face opening and restrained ember-red accents; unmistakable helmet silhouette filling the square. Battle-worn but finely forged. Warm highlights against simple very dark background. No character, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/furyforged-s1-original/furyforged_warhelm.png",
+      "masterSha256": "0cb7015b91e1eb169a6885fa7b8b2abb338fca69c30c3e0b5c1061ccba0be87c",
+      "shipping": "public/ui/whetstorm/items/furyforged_warhelm.webp",
+      "shippingSha256": "35f2129eca63286f2a3e7151beb90f0acd594233d1000ecedba5af31812afca1"
+    },
+    {
+      "id": "furyforged_warspaulders",
+      "prompt": "Original hand-painted fantasy RPG inventory icon, a single matched pair of Furyforged Warspaulders: broad symmetrical heavy dark forged steel MAIL shoulder guards, angular layered plates with restrained ember-red accents; unmistakable shoulder silhouette filling the square. Battle-worn but finely forged. Warm highlights against simple very dark background. No character, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/furyforged-s1-original/furyforged_warspaulders.png",
+      "masterSha256": "022fc5bd6b5041df09181b398ed94e58ab62c7dd095898170152be123646a3b7",
+      "shipping": "public/ui/whetstorm/items/furyforged_warspaulders.webp",
+      "shippingSha256": "809357e772811b58f8abd41b0501b48c6be5b15ed6a9d51be8e5440b075faf21"
+    },
+    {
+      "id": "furyforged_warplate",
+      "prompt": "Original hand-painted fantasy RPG inventory icon, a single Furyforged Warplate: heavy dark forged steel MAIL chest armor with strong torso shape, segmented overlapping plates and restrained ember-red accents; unmistakable chestplate silhouette filling the square. Battle-worn but finely forged. Warm highlights against simple very dark background. No character, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/furyforged-s1-original/furyforged_warplate.png",
+      "masterSha256": "290353a7a83a4d3ab5288d5fff7d792cace47ecbc1897c70ed0ae5ee53a05800",
+      "shipping": "public/ui/whetstorm/items/furyforged_warplate.webp",
+      "shippingSha256": "121934a20ce02a5ccef4bd6dae82962335f60348d455dad3de62f9ad6f0dcdeb"
+    }
+  ]
+}

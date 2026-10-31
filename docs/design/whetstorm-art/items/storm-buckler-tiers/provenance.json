@@ -1,0 +1,24 @@
+{
+  "generator": "OpenAI built-in image generation, two selected independent text-only prompts, no image references",
+  "purpose": "Original visual upgrades for Tarnished and Sovereign Storm-Tuned Buckler; Sovereign has epic item quality. Existing unprefixed epic painting remains separate.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Production item lookup integrated and focused checks passed; in-game review pending.",
+  "entries": [
+    {
+      "id": "rare_storm_tuned_buckler",
+      "prompt": "Original square opaque fantasy MMO inventory painting of exactly one single round worn buckler shield seen straight on, all front face, isolated alone. Dull scratched blue-gray steel with chipped rim and one simple faded silver wind swirl. Do not show the back, straps, or any second shield. Modest practical worn dark fantasy item, no hands, body, creatures or person. Dark charcoal background, warm upper-left light. No text, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/storm-buckler-tiers/rare_storm_tuned_buckler.png",
+      "sourceSha256": "589f4414766a8f7bb9a45dfd0809a9cc3287dac51a036cc924e8625417567ee6",
+      "output": "public/ui/whetstorm/items/rare_storm_tuned_buckler.webp",
+      "outputSha256": "1b06d90a83f53cac737c4229af6b35e74c82f2356996deba177ce5fbbe541840"
+    },
+    {
+      "id": "legendary_storm_tuned_buckler",
+      "prompt": "Original square opaque fantasy MMO inventory painting of one Sovereign Storm-Tuned Buckler: compact ornate shield with distinctly pointed diamond-shaped silhouette, huge bright ivory-silver lightning bolt across a near-black dark navy face, broad silver rim and outward flared tips; bold simple high-contrast value pattern. Royal storm theme, no hands, body, creatures or person. Dark charcoal background, warm upper-left light, readable 22px. No text, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/storm-buckler-tiers/legendary_storm_tuned_buckler.png",
+      "sourceSha256": "63e7ebe77813ed205de509fc79e1e59af4f01c08257f72d7ad2a3ed0660f8e61",
+      "output": "public/ui/whetstorm/items/legendary_storm_tuned_buckler.webp",
+      "outputSha256": "37a1b6c1c78d63fd5a0d2f86132aecb93d59f2a12b31a5f722e55d3f7fc752e6"
+    }
+  ]
+}
