@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Visual upgrade from original procedural epic-tier hoard item icons; rare and legendary variants are separate and unmapped.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Production item lookup integrated and focused checks passed; in-game review pending.",
+  "entries": [
+    {
+      "id": "permafrost_legguards",
+      "prompt": "Original opaque square fantasy MMO inventory icon of Permafrost Legguards: one complete pair of heavy mail legguards, dark steel chain and articulated frost-blue plates with a fine pale rime along edges, practical heavy armor, no body. Centered full silhouette with margins, hand-painted dark fantasy, warm upper-left light and cool shadows, opaque dark charcoal vignette, readable 22px. No text, numbers, UI border, watermark, person or transparency.",
+      "source": "docs/design/whetstorm-art/items/hoarfrost-epic/permafrost_legguards.png",
+      "sourceSha256": "cecdbfbc43356e2c0d1cf940f9d13d8f15cef6ce6fd191d508fcf7fa414a8347",
+      "output": "public/ui/whetstorm/items/permafrost_legguards.webp",
+      "outputSha256": "1a4c214d689775b1652a6b044b7ffdd44605bf720b42455aa498ecd8ab0c5756"
+    },
+    {
+      "id": "frostbitten_rime_slippers",
+      "prompt": "Original opaque square fantasy MMO inventory icon of Frostbitten Rime Slippers: one complete matching pair of soft cloth slippers with pale blue-gray woven fabric and delicate frost crystals at the toes, light caster footwear, no legs or body. Centered full silhouette with margins, hand-painted dark fantasy, warm upper-left light and cool shadows, opaque dark charcoal vignette, readable 22px. No text, numbers, UI border, watermark, person or transparency.",
+      "source": "docs/design/whetstorm-art/items/hoarfrost-epic/frostbitten_rime_slippers.png",
+      "sourceSha256": "aec4e7a6d6c9a6e4f052b01b59be0e075baf95b649973a0fa4aa7ffc24230804",
+      "output": "public/ui/whetstorm/items/frostbitten_rime_slippers.webp",
+      "outputSha256": "242910aa69d328504f490a1883fe70bcd738771b88da6a631057edf5d5327612"
+    },
+    {
+      "id": "rime_crusted_grips",
+      "prompt": "Original opaque square fantasy MMO inventory icon of Rime-Crusted Grips: one complete matching pair of rugged brown leather gloves with pale frost crust across knuckles and icy stitching, agile practical gear, no arms or body. Centered full silhouette with margins, hand-painted dark fantasy, warm upper-left light and cool shadows, opaque dark charcoal vignette, readable 22px. No text, numbers, UI border, watermark, person or transparency.",
+      "source": "docs/design/whetstorm-art/items/hoarfrost-epic/rime_crusted_grips.png",
+      "sourceSha256": "e7ab3891a8e56eb44337d0737c73637535e9c94a5cfe75a503cc9adbb757e912",
+      "output": "public/ui/whetstorm/items/rime_crusted_grips.webp",
+      "outputSha256": "299afec8d589fcf40349b5b44ec99a457b12aca6eae729eb5be05127a05629c3"
+    }
+  ]
+}

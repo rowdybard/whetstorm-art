@@ -1143,6 +1143,19 @@ hashes are recorded in `docs/whetstorm/crucible-sigil-chest-gloves-generation.js
 `docs/design/whetstorm-art/deeds/collection-milestones/provenance.md`, and
 `docs/design/whetstorm-art/items/rift-gems/provenance.json`.
 
+The Reliquary Conquerors deed painting was generated with OpenAI's built-in
+image generation; its prompt and hashes are recorded in
+`docs/design/whetstorm-art/deeds/collection-milestones/conquerors-provenance.md`.
+
+Two Crucible leg sigils and three epic Hoarfrost armor paintings were generated
+with OpenAI's built-in image generation. Prompts and hashes are recorded in
+`docs/whetstorm/crucible-sigil-legs-generation.json` and
+`docs/design/whetstorm-art/items/hoarfrost-epic/provenance.json`.
+
+Five World PvP time deed paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/deed-pvp-flag-time-generation.json`.
+
 Four Wildheart and rare-hunt deed paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in
 `docs/whetstorm/deed-wildheart-rares-generation.json`.

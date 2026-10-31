@@ -8,6 +8,8 @@ const ART = new Map<string, string>([
   ['sigil_tempest_chest', '/ui/whetstorm/items/sigil_tempest_chest.webp'],
   ['sigil_ember_gloves', '/ui/whetstorm/items/sigil_ember_gloves.webp'],
   ['sigil_tempest_gloves', '/ui/whetstorm/items/sigil_tempest_gloves.webp'],
+  ['sigil_ember_legs', '/ui/whetstorm/items/sigil_ember_legs.webp'],
+  ['sigil_tempest_legs', '/ui/whetstorm/items/sigil_tempest_legs.webp'],
 ]);
 
 export function crucibleSigilItemImageUrl(id: string): string | null {

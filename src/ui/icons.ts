@@ -5570,12 +5570,6 @@ export const DEED_ART_PENDING: ReadonlySet<string> = new Set([
   'exp_clue_ten_caskets',
   // The ferry round trip (exp_harbor_to_harbor): procedural exploration crest until commissioned.
   'exp_harbor_to_harbor',
-  // Opt-in played-time titles use the PvP category crest pending commissioned art.
-  'pvp_flag_1h',
-  'pvp_flag_3h',
-  'pvp_flag_6h',
-  'pvp_flag_24h',
-  'pvp_flag_168h',
   // Old Peatfire's slain-mark deed (W5) uses the chronicle category crest
   // pending commissioned art (Whetstorm A1 asset list).
   'chr_old_peatfire',

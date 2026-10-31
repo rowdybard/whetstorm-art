@@ -62,6 +62,7 @@ import { drogmarQuestWeaponsItemImageUrl } from './drogmar_quest_weapons_item_ar
 import { dungeonBagsItemImageUrl } from './dungeon_bags_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { heroicTrinketItemImageUrl } from './heroic_trinket_item_art';
+import { hoarfrostEpicItemImageUrl } from './hoarfrost_epic_item_art';
 import { riftGemItemImageUrl } from './rift_gem_item_art';
 import { earlyMaterialEightItemImageUrl } from './early_material_eight_item_art';
 import { earlyMaterialElevenItemImageUrl } from './early_material_eleven_item_art';
@@ -276,6 +277,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    hoarfrostEpicItemImageUrl(id) ??
     riftGemItemImageUrl(id) ??
     apexFeastRecipeItemImageUrl(id) ??
     crucibleSigilItemImageUrl(id) ??

@@ -134,6 +134,30 @@ that model's owner or terms. The Varkhul voice, concept, and
 model's provenance before selecting a disposition; do not assign a license by
 association.
 
+#### Varkhul replacement compatibility
+
+The character manifest normalizes the posed body to height 3 and the mob
+template applies scale 3.2, for a nominal 9.6-unit visual. The loader derives
+normalization and ground offset from posed bounds; preserve orientation, feet,
+and coherent bounds. The current death offset and walk/run reference speeds
+are measurements of the existing model and need recalibration for a new rig.
+
+Preserve the mapped idle, walk, run, slash, forging, power-up, casting, slam,
+jump, and death semantics. Casting holds at 0.72 seconds; frontal slam and
+forging have ability-specific rates, and forging is aligned with the two-second
+strike cadence. `src/render/varkhul_forge_hammer.ts` derives spark timing and
+height from the old hammer's measured contact and body dimensions. Re-measure
+contact, delay, height, and anvil alignment for the replacement and keep the
+visual strike synchronized with encounter events.
+
+The model has no explicit click-radius override: its presentation click capsule
+is computed from normalized footprint, with a 0.5 to 2.2 radius clamp. Verify
+selection and nearby-target access with the new silhouette. This is separate
+from simulation geometry and the boss's scale-based melee reach and 4.5-unit
+desired range; retain gameplay geometry and check visual contact and room
+clearance against the authoritative encounter. No replacement fit or in-game
+behavior has been verified.
+
 Nythraxis maps to `skel_golem`, which uses
 `public/models/chars/enemies/skeleton_golem.glb` and the separate
 `public/models/chars/enemies/skeleton_golem_anims.glb` donor. The credits list KayKit

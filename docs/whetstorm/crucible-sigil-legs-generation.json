@@ -1,0 +1,27 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected full source images; small-size and in-game review pending.",
+  "records": [
+    {
+      "id": "sigil_ember_legs",
+      "prompt": "Square painted fantasy MMO inventory icon: Legging Sigil of the Ember, one compact black iron token shaped unmistakably like a pair of armored leggings, a waist band and two separate straight legs with a visible dark gap, orange glowing ember on the belt. No body or torso. Complete centered object with generous margin, tactile metal, warm top-left light, dark charcoal background. Bold pants silhouette readable at 22px. No text, letters, numbers, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/sigil_ember_legs.png",
+      "masterSha256": "47f73f5300899d93ca6cc78db83079e580f7b29e11b1f65683016e5564fddc71",
+      "shipping": "public/ui/whetstorm/items/sigil_ember_legs.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "409a29ed6931d5e935ea19e957d5df518f58873c0ce10659acc64bbe0ba29b3a"
+    },
+    {
+      "id": "sigil_tempest_legs",
+      "prompt": "Square painted fantasy MMO inventory icon: Legging Sigil of the Tempest, one compact silver-blue steel token shaped unmistakably like a pair of armored leggings, a waist band and two separate straight legs with a visible dark gap, cyan lightning emblem on the belt. No body or torso. Complete centered object with generous margin, tactile metal, warm top-left light, dark charcoal background. Bold pants silhouette readable at 22px. No text, letters, numbers, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/sigil_tempest_legs.png",
+      "masterSha256": "2170204f218abe26b56f333472ba353ce08f54340937048d8846f40522fd725f",
+      "shipping": "public/ui/whetstorm/items/sigil_tempest_legs.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "ae6c549132b00bae992528f7e9442c8a4cb89217e3c1eb5534291fa49bceb63b"
+    }
+  ]
+}

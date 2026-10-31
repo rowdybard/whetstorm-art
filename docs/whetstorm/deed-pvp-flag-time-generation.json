@@ -1,0 +1,68 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputs": "No reference images",
+  "processing": "Sharp 128x128 opaque WebP quality 88 effort 6",
+  "entries": [
+    {
+      "id": "pvp_flag_1h",
+      "path": "public/ui/whetstorm/deeds/pvp_flag_1h.webp",
+      "bytes": 5964,
+      "sha256": "d6aa3e5bd403941f874c5f3ecd1a11a5b0118d50ad9e10e4013d0ebfe57c1b65",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/pvp-flag-time/pvp_flag_1h.png",
+        "bytes": 2163971,
+        "sha256": "b154c37f46e556bd8b8294945b0ab3c311d274165f7690c099ab7f7ee0346e07"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game World PvP time milestone icon. A simple red pennant on a wooden pole, planted in open green hills beneath a pale dawn, with one small bronze diamond-shaped ornament. Hand-painted fantasy illustration, one large distinctive flag silhouette, high contrast and readable at 28 pixels. No writing, numerals, border, logo or watermark."
+    },
+    {
+      "id": "pvp_flag_3h",
+      "path": "public/ui/whetstorm/deeds/pvp_flag_3h.webp",
+      "bytes": 8514,
+      "sha256": "85877782229fd953307c5a62b2d98f2f65e0cec11c32622ef2a11ff8ecb6bdca",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/pvp-flag-time/pvp_flag_3h.png",
+        "bytes": 3052791,
+        "sha256": "6a673bacfe3966190f541fc99f7a2dd10badb9a722080a191f6208c00c9134b4"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game World PvP time milestone icon. A blue battle pennant on an iron pole over a mountain pass at daylight, with a large silver compass rose. Hand-painted fantasy illustration, one large distinctive flag silhouette, high contrast and readable at 28 pixels. No writing, numerals, border, logo or watermark."
+    },
+    {
+      "id": "pvp_flag_6h",
+      "path": "public/ui/whetstorm/deeds/pvp_flag_6h.webp",
+      "bytes": 6172,
+      "sha256": "ccf9ca1bc4b83d9a417863e5cc51815937a984258df26fbf1fcfb29f4eb85b4a",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/pvp-flag-time/pvp_flag_6h.png",
+        "bytes": 2535964,
+        "sha256": "59eee3d5fe40d6637d9560c0777b2f40b8f3dcd13e4cb32c1054f9619e4d0108"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game World PvP time achievement icon. A long vertical deep violet hanging banner with a large bright gold crescent moon emblem, suspended from a horizontal crossbar on a dark pole above windswept open moorland. Tall narrow rectangular banner with a split lower tail, not a waving horizontal flag. Bold silhouette and strongly contrasting simple emblem readable at 28 pixels in grayscale. Hand-painted fantasy illustration. No text, numerals, border, logo, watermark or compass rose."
+    },
+    {
+      "id": "pvp_flag_24h",
+      "path": "public/ui/whetstorm/deeds/pvp_flag_24h.webp",
+      "bytes": 6848,
+      "sha256": "8ce696aa5bf321d480dc79d7b668fa024aa7b78473e30c78f32498944a3d2985",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/pvp-flag-time/pvp_flag_24h.png",
+        "bytes": 2392770,
+        "sha256": "6ec147763af3c0c1fe0c8e2c72ad037eba004f17398820b4073d151342993a21"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game World PvP time milestone icon. A crimson and gold war standard with a large white star emblem, standing above a dark open landscape under a bright full moon and scattered stars. Hand-painted fantasy illustration, one large distinctive flag silhouette, high contrast and readable at 28 pixels. No writing, numerals, border, logo or watermark."
+    },
+    {
+      "id": "pvp_flag_168h",
+      "path": "public/ui/whetstorm/deeds/pvp_flag_168h.webp",
+      "bytes": 8440,
+      "sha256": "486659ae31815f256457b531400c363841c324d0d180be5d7a0e703e5ab672dd",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/pvp-flag-time/pvp_flag_168h.png",
+        "bytes": 2808073,
+        "sha256": "9b88fbcccb2f255cde4a2b5395efe0f2fb81283cd13f3da4555a6d0dd831b445"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game World PvP time milestone icon. A majestic gold and black war standard, with a large silver laurel wreath surrounding a gold crown emblem, above a windswept open landscape under a luminous dawn. Hand-painted fantasy illustration, one large distinctive flag silhouette, high contrast and readable at 28 pixels. No writing, numerals, border, logo or watermark."
+    }
+  ]
+}
