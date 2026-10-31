@@ -64,6 +64,7 @@ import { direfangArmorItemImageUrl } from './direfang_armor_item_art';
 import { drogmarQuestWeaponsItemImageUrl } from './drogmar_quest_weapons_item_art';
 import { dungeonBagsItemImageUrl } from './dungeon_bags_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
+import { emberscreedItemImageUrl } from './emberscreed_item_art';
 import { heroicTrinketItemImageUrl } from './heroic_trinket_item_art';
 import { graskEpicItemImageUrl } from './grask_epic_item_art';
 import { hoarfrostEpicItemImageUrl } from './hoarfrost_epic_item_art';
@@ -283,6 +284,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    emberscreedItemImageUrl(id) ??
     graskEpicItemImageUrl(id) ??
     crucibleHealerClothPatternItemImageUrl(id) ??
     crucibleLeatherPatternItemImageUrl(id) ??

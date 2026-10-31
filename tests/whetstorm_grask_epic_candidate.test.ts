@@ -16,7 +16,7 @@ const pieces = [
   ['earthshaker_warboots', 'feet', 'mail'],
 ] as const;
 describe('Grask hoard paintings', () => {
-  it('maps epic and Tarnished IDs in the live brute table without mapping Sovereign', () => {
+  it('maps all three tiers in the live brute table', () => {
     expect(hoardLootTierForMap('epic')).toBe('epic');
     for (const [id, slot, armorType] of pieces) {
       expect(HOARD_BOSS_LOOT_TABLES.rift_boss_brute).toContain(id);
@@ -33,12 +33,52 @@ describe('Grask hoard paintings', () => {
       expect(iconDataUrl('item', rare)).toBe(rareUrl);
       expect(rareUrl).not.toBe(url);
       const sovereign = `legendary_${id}`;
-      expect(graskEpicItemImageUrl(sovereign)).toBeNull();
-      expect(itemImageUrl(sovereign)).not.toBe(url);
-      expect(itemImageUrl(sovereign)).not.toBe(rareUrl);
-      expect(iconDataUrl('item', sovereign)).not.toBe(url);
-      expect(iconDataUrl('item', sovereign)).not.toBe(rareUrl);
+      const sovereignUrl = `/ui/whetstorm/items/${sovereign}.webp`;
+      expect(HOARD_ITEMS[sovereign]).toMatchObject({ slot, armorType, quality: 'epic' });
+      expect(graskEpicItemImageUrl(sovereign)).toBe(sovereignUrl);
+      expect(itemImageUrl(sovereign)).toBe(sovereignUrl);
+      expect(iconDataUrl('item', sovereign)).toBe(sovereignUrl);
+      expect(new Set([url, rareUrl, sovereignUrl]).size).toBe(3);
     }
+  });
+  it('pins Sovereign sources and outputs as distinct 128px WebPs', async () => {
+    const provenance = JSON.parse(
+      readFileSync('docs/design/whetstorm-art/items/grask-sovereign/provenance.json', 'utf8'),
+    ) as {
+      entries: {
+        id: string;
+        source: string;
+        sourceSha256: string;
+        output: string;
+        outputSha256: string;
+      }[];
+    };
+    expect(provenance.entries.map((entry) => entry.id)).toEqual(
+      pieces.map(([id]) => `legendary_${id}`),
+    );
+    const sha = (bytes: Buffer) => createHash('sha256').update(bytes).digest('hex');
+    const hashes = new Set<string>();
+    for (const entry of provenance.entries) {
+      expect(entry.source).toBe(`docs/design/whetstorm-art/items/grask-sovereign/${entry.id}.png`);
+      expect(entry.output).toBe(`public/ui/whetstorm/items/${entry.id}.webp`);
+      const output = readFileSync(entry.output);
+      expect(sha(readFileSync(entry.source))).toBe(entry.sourceSha256);
+      expect(sha(output)).toBe(entry.outputSha256);
+      const meta = await sharp(output).metadata();
+      expect([meta.format, meta.width, meta.height, meta.hasAlpha]).toEqual([
+        'webp',
+        128,
+        128,
+        false,
+      ]);
+      const base = entry.id.slice('legendary_'.length);
+      for (const prefix of ['', 'rare_'])
+        expect(sha(output)).not.toBe(
+          sha(readFileSync(`public/ui/whetstorm/items/${prefix}${base}.webp`)),
+        );
+      hashes.add(sha(output));
+    }
+    expect(hashes.size).toBe(3);
   });
   it('pins all Tarnished source and output hashes and distinct 128px WebPs', async () => {
     const provenance = JSON.parse(

@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for legendary-map Sovereign Grask hoard pieces, which have epic item quality.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "In-game review pending.",
+  "entries": [
+    {
+      "id": "legendary_breastplate_tectonic_might",
+      "prompt": "Original opaque square hand-painted fantasy MMO inventory icon: Sovereign Breastplate of Tectonic Might. A royal earth-forged mail cuirass, very bright pale ivory-stone central diamond shield plate with a huge dark angular crack, wide black iron waist and pronounced towering gold-edged stone collar. Bold large simple light-dark pattern, clear isolated chest silhouette; no head or body. Regal ornamental earth theme, strongly readable at 22px, dark charcoal background, warm light. No text, border, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/items/grask-sovereign/legendary_breastplate_tectonic_might.png",
+      "sourceSha256": "c3ebd030bf024de637e40a9969cf2b649fa718777682fac81cd0cffdd771be4c",
+      "output": "public/ui/whetstorm/items/legendary_breastplate_tectonic_might.webp",
+      "outputSha256": "ed9d3f9a6fe128e5ed7d84423994c203112b7a709f90583378461511104aca58"
+    },
+    {
+      "id": "legendary_monolithic_shoulderguards",
+      "prompt": "Original opaque square hand-painted fantasy MMO inventory icon: Sovereign Monolithic Shoulderguards. A pair of regal earth-forged leather shoulder guards, each with a very large upward-pointing bright ivory stone horn and dark obsidian base, broad horizontal golden crossbar and small bronze ornaments; imposing high V-shaped silhouette with clearly separated shoulders. Bold simple light-dark pattern readable at 22px; no torso or person. Dark charcoal background, warm light. No text, border, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/items/grask-sovereign/legendary_monolithic_shoulderguards.png",
+      "sourceSha256": "411620526ffa8b87b5722f274510718d4792af41031a24642a287676e795b9eb",
+      "output": "public/ui/whetstorm/items/legendary_monolithic_shoulderguards.webp",
+      "outputSha256": "5531ca3d1bcd12f48194867d8d1cbc36b6e4bc158c0e5c98aed3de650982d506"
+    },
+    {
+      "id": "legendary_earthshaker_warboots",
+      "prompt": "Original opaque square hand-painted fantasy MMO inventory icon: Sovereign Earthshaker Warboots. One pair of regal mail warboots with oversized sharply upturned ivory stone toe caps, tall flared black cuffs, bold diagonal gold straps and pronounced dark soles. Bold high-contrast pale toe versus dark leg pattern, distinctive curved boot silhouette readable at 22px, ornate earth theme, no legs or person. Dark charcoal background, warm light. No text, border, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/items/grask-sovereign/legendary_earthshaker_warboots.png",
+      "sourceSha256": "4a13cd5d7bc5dbcaeb98e4d279884065745981a1fdbc90520a33f9b71404cc90",
+      "output": "public/ui/whetstorm/items/legendary_earthshaker_warboots.webp",
+      "outputSha256": "fefa12a688e0d800c780f83409b5d1b4f603fd9edd039f71ceb431e9e4f38e3a"
+    }
+  ]
+}
