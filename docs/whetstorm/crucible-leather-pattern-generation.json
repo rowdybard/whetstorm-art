@@ -1,0 +1,53 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected full source images; small-size and in-game review pending.",
+  "records": [
+    {
+      "id": "pattern_crucible_agi_leather",
+      "prompt": "Square painted fantasy MMO inventory icon: Pattern for Crucible Skirmisher's Leather, one closed dark hide recipe manual with a large raised bronze arrowhead emblem on its cover, visible stitched leather edging. Complete centered book with generous margin, tactile leather and metal, warm top-left light, dark charcoal backdrop. Bold arrowhead shape readable at 28px. No lettering, numbers, pseudo-writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/pattern_crucible_agi_leather.png",
+      "masterSha256": "9278f5efffed0422ffe9c74fcd43094ee663835d0224ca3dde4cca35d390d36b",
+      "shipping": "public/ui/whetstorm/items/pattern_crucible_agi_leather.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "3cee803c923b6382ef1516f3d617e3d0fafc9c6bd2f9efb4458bae9e134e7d88"
+    },
+    {
+      "id": "pattern_crucible_str_leather",
+      "prompt": "Square painted fantasy MMO inventory icon: Pattern for Crucible Prowler's Leather, one closed dark hide recipe manual with a large raised bronze claw emblem of three curved talons on its cover, visible stitched leather edging. Complete centered book with generous margin, tactile leather and metal, warm top-left light, dark charcoal backdrop. Bold claw shape readable at 28px. No lettering, numbers, pseudo-writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/pattern_crucible_str_leather.png",
+      "masterSha256": "489b509eba28405246e3ecc0482d8d9c93fbce82df62040b553b160f572981db",
+      "shipping": "public/ui/whetstorm/items/pattern_crucible_str_leather.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "1149535f4fa621006460b9ad61fc68fbc41a96349467c2cd620dff786d92ffc1"
+    },
+    {
+      "id": "pattern_crucible_tank_leather",
+      "prompt": "Square painted fantasy MMO inventory icon: a closed recipe manual for a leather guardian, with a clearly book-shaped rectangular page block and a very large ragged animal-hide cover extending outward beyond the pages in four irregular broad points. One thick diagonal leather strap crosses the cover, with a bold bronze shield emblem fixed on the strap. Distinctive hide silhouette, centered complete object with padding, tactile hide and pages, warm top-left light, dark charcoal background. Readable at 28px even in grayscale. No lettering, numbers, pseudo-writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/pattern_crucible_tank_leather.png",
+      "masterSha256": "982c738c9114005e3d284cfcd208224384183336ff5b4d989d6fc2dba74f16df",
+      "shipping": "public/ui/whetstorm/items/pattern_crucible_tank_leather.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "cd886ac75a89cd35ed82e91acb996dd4fe7ba4d5ba4cc208dcd3f6fa77f4ee5d",
+      "superseded": {
+        "prompt": "Square painted fantasy MMO inventory icon: Pattern for Crucible Guardian's Leather, one closed dark hide recipe manual with a large raised bronze shield emblem on its cover, visible stitched leather edging. Complete centered book with generous margin, tactile leather and metal, warm top-left light, dark charcoal backdrop. Bold shield shape readable at 28px. No lettering, numbers, pseudo-writing, border, watermark or UI.",
+        "masterSha256": "27a39fec135117318bed633968c319643cb591a17b15827efd3a18a7a83dbbda",
+        "shippingSha256": "63e9704cf5e6043c66916d0bb7b99da254234d0f30215dd4ec5dc15962dd9121",
+        "reason": "Too similar to Guardian mail manual at small size."
+      }
+    },
+    {
+      "id": "pattern_crucible_caster_leather",
+      "prompt": "Square painted fantasy MMO inventory icon: Pattern for Crucible Spellcaster's Leather, one closed dark hide recipe manual with a large raised bronze crescent moon emblem on its cover, visible stitched leather edging. Complete centered book with generous margin, tactile leather and metal, warm top-left light, dark charcoal backdrop. Bold crescent shape readable at 28px. No lettering, numbers, pseudo-writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/pattern_crucible_caster_leather.png",
+      "masterSha256": "3538ded65fb281304938394707bfeb0b180cdea577e78507c738b5465a93d58d",
+      "shipping": "public/ui/whetstorm/items/pattern_crucible_caster_leather.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "52ff3916a789ffad5d76666ad75cb5ed7558251c1cc6858b977b36f6ef2a403e"
+    }
+  ]
+}

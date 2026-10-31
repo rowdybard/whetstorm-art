@@ -25,6 +25,7 @@ import { dungeonJourneyDeedImageUrl } from './dungeon_journey_deed_art';
 import { dungeonMetaDeedImageUrl } from './dungeon_meta_deed_art';
 import { earlyCollectionDeedImageUrl } from './early_collection_deed_art';
 import { earlySocialDeedImageUrl } from './early_social_deed_art';
+import { eraBrambleDeedImageUrl } from './era_bramble_deed_art';
 import { experienceDeedImageUrl } from './experience_deed_art';
 import { explorationDeedImageUrl } from './exploration_deed_art';
 import { farmingMilestoneDeedImageUrl } from './farming_milestone_deed_art';
@@ -86,6 +87,7 @@ const EARLY_DEED_ART = new Map<string, string>([
 export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
+    eraBrambleDeedImageUrl(id) ??
     socialHiddenFourDeedImageUrl(id) ??
     collectionMilestoneDeedImageUrl(id) ??
     pvpHonorCardsDeedImageUrl(id) ??

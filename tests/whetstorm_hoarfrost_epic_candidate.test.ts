@@ -16,7 +16,7 @@ const pieces = [
   ['rime_crusted_grips', 'gloves', 'leather'],
 ] as const;
 describe('epic Hoarfrost hoard paintings', () => {
-  it('maps only the epic IDs in the live frost keeper table', () => {
+  it('maps epic IDs separately from other tiers in the live frost keeper table', () => {
     expect(hoardLootTierForMap('epic')).toBe('epic');
     for (const [id, slot, armorType] of pieces) {
       expect(HOARD_BOSS_LOOT_TABLES.rift_boss_frost).toContain(id);
@@ -31,7 +31,9 @@ describe('epic Hoarfrost hoard paintings', () => {
         expect(iconDataUrl('item', variant)).not.toBe(url);
       }
       expect(hoarfrostEpicItemImageUrl(`rare_${id}`)).toBe(`/ui/whetstorm/items/rare_${id}.webp`);
-      expect(hoarfrostEpicItemImageUrl(`legendary_${id}`)).toBeNull();
+      expect(hoarfrostEpicItemImageUrl(`legendary_${id}`)).toBe(
+        `/ui/whetstorm/items/legendary_${id}.webp`,
+      );
     }
   });
   it('pins three distinct opaque 128px WebPs and their source images', async () => {

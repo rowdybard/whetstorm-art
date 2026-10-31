@@ -1166,6 +1166,19 @@ generated with OpenAI's built-in image generation. Prompts and hashes are
 recorded in `docs/whetstorm/crucible-mail-pattern-generation.json` and
 `docs/whetstorm/deed-social-hidden-four-generation.json`.
 
+Three Nythraxis jewel recipe paintings and three Sovereign Hoarfrost armor
+paintings were generated with OpenAI's built-in image generation. Prompts and
+hashes are recorded in `docs/design/whetstorm-art/items/nythraxis-jewel-patterns/provenance.md`
+and `docs/design/whetstorm-art/items/hoarfrost-sovereign/provenance.json`.
+
+Four Crucible leather pattern paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/crucible-leather-pattern-generation.json`.
+
+Two era and collection deed paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/deed-era-bramble-generation.json`.
+
 Four Wildheart and rare-hunt deed paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in
 `docs/whetstorm/deed-wildheart-rares-generation.json`.

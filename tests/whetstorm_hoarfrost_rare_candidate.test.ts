@@ -16,7 +16,7 @@ const pieces = [
   ['rime_crusted_grips', 'gloves', 'leather'],
 ] as const;
 describe('Tarnished Hoarfrost hoard paintings', () => {
-  it('routes distinct rare-tier paintings and leaves Sovereign unmapped', () => {
+  it('routes distinct rare-tier paintings separately from Sovereign', () => {
     expect(hoardLootTierForMap('rare')).toBe('rare');
     expect(hoardLootTierForMap('common')).toBe('rare');
     for (const [base, slot, armorType] of pieces) {
@@ -28,7 +28,9 @@ describe('Tarnished Hoarfrost hoard paintings', () => {
       expect(itemImageUrl(id)).toBe(url);
       expect(iconDataUrl('item', id)).toBe(url);
       expect(itemImageUrl(base)).not.toBe(url);
-      expect(hoarfrostEpicItemImageUrl(`legendary_${base}`)).toBeNull();
+      expect(hoarfrostEpicItemImageUrl(`legendary_${base}`)).toBe(
+        `/ui/whetstorm/items/legendary_${base}.webp`,
+      );
       expect(itemImageUrl(`legendary_${base}`)).not.toBe(url);
     }
   });

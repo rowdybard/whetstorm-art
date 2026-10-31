@@ -1,0 +1,38 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Visual upgrade from original procedural Sovereign-map hoard item icons; other tiers retain separate paintings.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Revised Sovereign slippers compared against rare and epic at 22px in grayscale; in-game review pending.",
+  "entries": [
+    {
+      "id": "legendary_permafrost_legguards",
+      "prompt": "Original opaque square fantasy MMO inventory icon: Sovereign Permafrost Legguards, one complete pair of regal heavy mail legguards with polished silver-blue ice plates, fine gold inlay, bright frost-crystal knee guards and a jeweled belt, clearly noble and finely made, no body. Centered full leg silhouette, hand-painted dark fantasy, warm upper-left light, cool shadows, dark charcoal vignette, readable at 22px. No letters, text, border, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/items/hoarfrost-sovereign/legendary_permafrost_legguards.png",
+      "sourceSha256": "18f50e107c383b0940673fbf161ec267107d0392f77eda3309915ac2dd0d60cb",
+      "output": "public/ui/whetstorm/items/legendary_permafrost_legguards.webp",
+      "outputSha256": "c76a26eed62aa521027ed0a5aa1b9592e83892e991c21da142a806155fcf419f"
+    },
+    {
+      "id": "legendary_frostbitten_rime_slippers",
+      "prompt": "Original opaque square fantasy MMO inventory icon of Sovereign Frostbitten Rime Slippers: exactly one matching pair of elegant soft cloth footwear, both shown in side profile pointing outward, long distinctly upturned pointed toes, wide bright white fur cuffs, pale icy blue velvet with ornate silver frost embroidery and tiny blue crystal trim. The pointed profile and white cuffs must dominate the silhouette, clearly different from ordinary rounded flat slippers. No legs or body. Centered complete pair with margins, hand-painted dark fantasy, warm upper-left light and cool shadows, opaque dark charcoal vignette, readable at 22px. No text, numbers, UI border, watermark, person or transparency.",
+      "source": "docs/design/whetstorm-art/items/hoarfrost-sovereign/legendary_frostbitten_rime_slippers.png",
+      "sourceSha256": "01aaba8d27ef435c7f13dd93cd8d82f2ab78066ee7ee0c6af30f2c39492f0125",
+      "output": "public/ui/whetstorm/items/legendary_frostbitten_rime_slippers.webp",
+      "outputSha256": "0e61b258a291907f579b47d59ecac69b9696aef64810b63a6f208f2b7a35cc47",
+      "superseded": {
+        "prompt": "Original opaque square fantasy MMO inventory icon: Sovereign Frostbitten Rime Slippers, one matching pair of elegant caster cloth slippers in pale icy blue velvet, bright silver embroidery and small luminous frost crystals, clearly regal and finely made, no legs. Centered full footwear silhouette, hand-painted dark fantasy, warm upper-left light, cool shadows, dark charcoal vignette, readable at 22px. No letters, text, border, watermark or transparency.",
+        "sourceSha256": "cc6902cf4e470d2dc424e1a2a168879e31dc769f488ae3a6ed54d7c00d9c4b1d",
+        "outputSha256": "b2594652109f7dd922ea0af844efed73f46d90482d09f67cae6d565b752503f3",
+        "reason": "Epic and Sovereign slippers looked too similar at 22px."
+      }
+    },
+    {
+      "id": "legendary_rime_crusted_grips",
+      "prompt": "Original opaque square fantasy MMO inventory icon: Sovereign Rime-Crusted Grips, one matching pair of regal dark teal leather gloves with silver-gold trim, luminous blue crystal knuckle settings and delicate frost embroidery, clearly finely made, no arms. Centered full glove silhouette, hand-painted dark fantasy, warm upper-left light, cool shadows, dark charcoal vignette, readable at 22px. No letters, text, border, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/items/hoarfrost-sovereign/legendary_rime_crusted_grips.png",
+      "sourceSha256": "e9689c139d9fa7fdce8bdcb22ef8dc4db92c6dba4a6f3a6b2f4dbb4c5710230d",
+      "output": "public/ui/whetstorm/items/legendary_rime_crusted_grips.webp",
+      "outputSha256": "e44c6d499fa22fdda0b21b4d47e4c099e4b3d53e465ab7317d4794cf99ed5fc8"
+    }
+  ]
+}
