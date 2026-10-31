@@ -44,6 +44,9 @@ import { vesperashUpperItemImageUrl } from './vesperash_upper_item_art';
 import { vesperashLowerItemImageUrl } from './vesperash_lower_item_art';
 import { tideCoralGirdleItemImageUrl } from './tide_coral_girdle_item_art';
 import { gracewingUpperItemImageUrl } from './gracewing_upper_item_art';
+import { gracewingLowerItemImageUrl } from './gracewing_lower_item_art';
+import { riptideHandwrapsTierItemImageUrl } from './riptide_handwraps_tier_item_art';
+import { stormkindledUpperItemImageUrl } from './stormkindled_upper_item_art';
 import { cleaverWildsoulItemImageUrl } from './cleaver_wildsoul_item_art';
 import { clothBatchFiveItemImageUrl } from './cloth_batch_five_item_art';
 import { clothBatchFourItemImageUrl } from './cloth_batch_four_item_art';
@@ -423,6 +426,9 @@ export function paintedItemImageUrl(id: string): string | null {
     vesperashLowerItemImageUrl(id) ??
     tideCoralGirdleItemImageUrl(id) ??
     gracewingUpperItemImageUrl(id) ??
+    gracewingLowerItemImageUrl(id) ??
+    riptideHandwrapsTierItemImageUrl(id) ??
+    stormkindledUpperItemImageUrl(id) ??
     wovenBagsItemImageUrl(id) ??
     craftedGroupFeastsItemImageUrl(id) ??
     factionBagsItemImageUrl(id) ??

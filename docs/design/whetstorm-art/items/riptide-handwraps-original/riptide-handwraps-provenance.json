@@ -1,0 +1,33 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "conversion": "sharp resize 128x128, WebP quality 82, effort 6",
+  "records": [
+    {
+      "id": "riptide_handwraps",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Riptide Handwraps, a pair of agile sea-worn leather gloves with wrapped fingers, deep teal leather, silver wave accents and subtle seafoam, epic quality. Distinct glove silhouette, centered large on dark ocean background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/riptide-handwraps-original/riptide_handwraps.png",
+      "masterSha256": "36911df7c8051c39d8c2bdd7e9cfaa01d0f5ecc02aae12ecf45473ff5860d900",
+      "shipping": "public/ui/whetstorm/items/riptide_handwraps.webp",
+      "shippingSha256": "26dd66463c9bb9bbcf934ec8795f967b8dad6796c2ee46539e065f1966d60d92"
+    },
+    {
+      "id": "rare_riptide_handwraps",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Tarnished Riptide Handwraps, ONE clearly wearable blue-gray leather glove in side profile, held diagonally with fingers curled into a compact fist, thumb visible, long wrapped cuff trailing downward. Worn bronze wave clasp and frayed pale cloth. A single bold fist silhouette fills square and reads instantly at 28px. Weathered ocean theme, simple dark blue background. No person, no text, labels, border or other objects.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/riptide-handwraps-original/rare_riptide_handwraps.png",
+      "masterSha256": "dabf574a2993c3d2ac3b7e0288d5b1b25e7b7ed38930cfe5928efc64f98e076e",
+      "shipping": "public/ui/whetstorm/items/rare_riptide_handwraps.webp",
+      "shippingSha256": "11a8facdf39d807a740c405d18e9defa6175994af4f255658ae0a4a92607cd42"
+    },
+    {
+      "id": "legendary_riptide_handwraps",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Sovereign Riptide Handwraps, a pair of ornate deep turquoise leather gloves with wrapped fingers, bold luminous pearl and sweeping gold wave accents, legendary quality. Distinct glove silhouette, centered large on dark ocean background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/riptide-handwraps-original/legendary_riptide_handwraps.png",
+      "masterSha256": "f6cb57dfc4c735c727007ac27fa1629ad3c5d233d500cfd1d046f9fba98974c4",
+      "shipping": "public/ui/whetstorm/items/legendary_riptide_handwraps.webp",
+      "shippingSha256": "84cd5d000e7a4fd89ea96fb6249c081ce5d4b80b3b0646703233aa5bb461af72"
+    }
+  ]
+}

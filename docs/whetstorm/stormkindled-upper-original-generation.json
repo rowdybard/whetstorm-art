@@ -1,0 +1,30 @@
+{
+  "generator": "Built-in imagegen; three independent generations; no source references",
+  "processing": "sharp resize 128x128, WebP quality 88 effort 6",
+  "images": [
+    {
+      "id": "stormkindled_helmet",
+      "master": "docs/design/whetstorm-art/items/stormkindled-upper-original/stormkindled_helmet.png",
+      "output": "public/ui/whetstorm/items/stormkindled_helmet.webp",
+      "masterSha256": "4aa1d7171b19f8b9abac5d2d1e2c10efc57ce89024c2f439db65c404882d6a56",
+      "outputSha256": "d8f564e026b34c46ebbc6c4be75eeff61bb1b0f3f33788af5805521d8c5aaa59",
+      "prompt": "Original square painted fantasy RPG inventory icon for Stormkindled Regalia, an epic shaman mail set: storm-dark blue steel scale and clearly visible interlocking chainmail, turquoise lightning motifs, restrained weathered copper edging, deep charcoal backdrop. Unworn item, large centered distinct silhouette readable at 28px, painterly. No person, words, letters, numbers, logo, frame or watermark. A single mail HELM with a pointed open-face steel brow, chainmail coif and two wide swept-back winglike side fins; recognizable headwear."
+    },
+    {
+      "id": "stormkindled_shoulder",
+      "master": "docs/design/whetstorm-art/items/stormkindled-upper-original/stormkindled_shoulder.png",
+      "output": "public/ui/whetstorm/items/stormkindled_shoulder.webp",
+      "masterSha256": "1dfdf7bf14e89c993a3730182cbbc24ea66e3a9680331415c475413586259ca5",
+      "outputSha256": "9434e3849b7589810c53a8fa1bb1533f5c2091e354cc10a12d1d7f2a9b000176",
+      "prompt": "Original square painted fantasy RPG inventory icon for Stormkindled Regalia, an epic shaman mail set: storm-dark blue steel scale and clearly visible interlocking chainmail, turquoise lightning motifs, restrained weathered copper edging, deep charcoal backdrop. Unworn item, large centered distinct silhouette readable at 28px, painterly. No person, words, letters, numbers, logo, frame or watermark. A matching pair of broad mail PAULDRONS, two separate curved shoulder guards with visible hanging chainmail fringe and lightning motifs; no torso, no head."
+    },
+    {
+      "id": "stormkindled_chest",
+      "master": "docs/design/whetstorm-art/items/stormkindled-upper-original/stormkindled_chest.png",
+      "output": "public/ui/whetstorm/items/stormkindled_chest.webp",
+      "masterSha256": "2428ca1c61523e23c20c2541d47342a149f2e9776cccff5f5031c7a3a75b707c",
+      "outputSha256": "a5b21c81f6b085f6c739106be1f993a328a4c58a1df17a76b407f6e12687b788",
+      "prompt": "Original square painted fantasy RPG inventory icon for Stormkindled Regalia, an epic shaman mail set: storm-dark blue steel scale and clearly visible interlocking chainmail, turquoise lightning motifs, restrained weathered copper edging, deep charcoal backdrop. Unworn item, large centered distinct silhouette readable at 28px, painterly. No person, words, letters, numbers, logo, frame or watermark. A mail HAUBERK torso with clearly visible interlocking links, sleeveless broad torso shape and layered shoulder scales, a large turquoise lightning-shaped chest ornament, no head or legs."
+    }
+  ]
+}

@@ -1313,6 +1313,18 @@ Three Gracewing armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/gracewing-upper-equipment/upper-provenance.md`.
 
+Two additional Gracewing armor paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/gracewing-lower-equipment/lower-provenance.md`.
+
+Three Riptide Handwraps tier paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/riptide-handwraps-original/riptide-handwraps-provenance.json`.
+
+Three Stormkindled armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/stormkindled-upper-original-generation.json`.
+
 Three epic Ember armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/emberforge-epic/provenance.json`.
