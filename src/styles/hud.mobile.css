@@ -2850,7 +2850,7 @@
     padding: 0;
     border: 0;
     border-radius: 0;
-    background: url("/ui/daily-rewards/treasure_chest.webp") center / 48px 48px no-repeat;
+    background: url("/ui/whetstorm/hud/daily-reward-chest.webp") center / 48px 48px no-repeat;
     box-shadow: none;
     -webkit-backdrop-filter: none;
     backdrop-filter: none;

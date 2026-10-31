@@ -66,6 +66,7 @@ import { dungeonBagsItemImageUrl } from './dungeon_bags_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { emberscreedItemImageUrl } from './emberscreed_item_art';
 import { springmenderItemImageUrl } from './springmender_item_art';
+import { tempestEpicItemImageUrl } from './tempest_epic_item_art';
 import { vysskaEpicItemImageUrl } from './vysska_epic_item_art';
 import { progressionRewardItemImageUrl } from './progression_reward_item_art';
 import { heroicTrinketItemImageUrl } from './heroic_trinket_item_art';
@@ -287,6 +288,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    tempestEpicItemImageUrl(id) ??
     springmenderItemImageUrl(id) ??
     vysskaEpicItemImageUrl(id) ??
     progressionRewardItemImageUrl(id) ??

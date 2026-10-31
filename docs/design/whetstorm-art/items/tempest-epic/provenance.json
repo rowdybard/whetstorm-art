@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for epic Tempest Vharok hoard armor; rare and Sovereign variants remain unmapped.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Production item lookup integrated and focused checks passed; in-game review pending.",
+  "entries": [
+    {
+      "id": "hauberk_tempest_gale",
+      "prompt": "Original opaque square fantasy game inventory item painting: one mail hauberk chest armor, visible interlinked dark steel mail and articulated blue-gray plates, swept silver wind motifs and restrained electric blue trim. Clear single torso silhouette, no body or person, no creature. Hand-painted premium dark fantasy, dark charcoal background, warm upper-left light, legible at 22px. No text, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/tempest-epic/hauberk_tempest_gale.png",
+      "sourceSha256": "5311d835abd6ebec555c42b884f58e2f9bb492a1068c9bf3d4908ab156754d05",
+      "output": "public/ui/whetstorm/items/hauberk_tempest_gale.webp",
+      "outputSha256": "a0f460301dc67bf11b98d8f9e7b2f344799899a4badf4d79b7dc25e749eec0fc"
+    },
+    {
+      "id": "gale_strider_boots",
+      "prompt": "Original opaque square fantasy game inventory item painting: one matching pair of supple leather boots, dark blue leather with swept silver wing-shaped stitching, practical ankle straps and pale storm-blue trim, no legs, body, person or creature. Clear distinct boot pair silhouette. Hand-painted premium dark fantasy, dark charcoal background, warm upper-left light, legible at 22px. No text, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/tempest-epic/gale_strider_boots.png",
+      "sourceSha256": "9c4a03fa01da4109fb1a9aef092192120615697ff00dc61c79bc9d095dae5a13",
+      "output": "public/ui/whetstorm/items/gale_strider_boots.webp",
+      "outputSha256": "228b4a0ba52b42ce1d03883e3e0d88d02a0171bf946ae20cbc3785b8a303a326"
+    },
+    {
+      "id": "tempest_strike_grips",
+      "prompt": "Original opaque square fantasy game inventory item painting: one matching pair of articulated mail gloves, linked steel mesh and blue-gray metal knuckle plates with bright jagged silver lightning motifs, no arms, body, person or creature. Clear distinct glove pair silhouette. Hand-painted premium dark fantasy, dark charcoal background, warm upper-left light, legible at 22px. No text, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/tempest-epic/tempest_strike_grips.png",
+      "sourceSha256": "92eebc003de5f161eef8812cde9bec02576c4f5c46ab681398f3683cd0a7929a",
+      "output": "public/ui/whetstorm/items/tempest_strike_grips.webp",
+      "outputSha256": "563dba4ce404a7a9094d2684fb388b81419c46a4869d07084c11ec010e632582"
+    }
+  ]
+}

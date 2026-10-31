@@ -1,0 +1,10 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "referenceImages": [],
+  "prompt": "Use case: stylized-concept. Create one original hand-painted fantasy game HUD icon: a closed sturdy treasure chest with rich reddish oak planks, broad weathered gold metal straps, a prominent central keyhole clasp and a few warm magical glints. Three-quarter view, clear bold silhouette, chest fills most of the square with a little breathing room on every edge. Painterly polished fantasy RPG style, legible when displayed at 48 pixels. Isolated object on genuinely transparent background. No text, numerals, labels, logos, coins, characters, interface, border, or other objects.",
+  "master": "docs/design/whetstorm-art/ui/daily-reward-chest.png",
+  "masterSha256": "baf22430a37e2ae0332a1512bbfb69494944bf8dde99cf42a55c322f8e74db43",
+  "shipping": "public/ui/whetstorm/hud/daily-reward-chest.webp",
+  "shippingSha256": "e938035c5c9f3969727016e414ffbe5811f14266876b92132c3e594cfd3d174f",
+  "conversion": "sharp resize 256x256, WebP quality 85, effort 6; preserve alpha"
+}

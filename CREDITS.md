@@ -1217,6 +1217,13 @@ Four Sovereign armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/vysska-sovereign/provenance.json`.
 
+Three epic Tempest armor paintings, two raid-set leg paintings and a daily
+reward chest were generated with OpenAI's built-in image generation. Prompts
+and hashes are recorded in `docs/design/whetstorm-art/items/tempest-epic/provenance.json`,
+`docs/design/whetstorm-art/items/dawnweave-legs/provenance.md`,
+`docs/design/whetstorm-art/items/emberscreed-legs/provenance.md`, and
+`docs/whetstorm/daily-reward-chest-generation.json`.
+
 Three Crucible healer and cloth pattern paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/crucible-healer-cloth/provenance.md`.
