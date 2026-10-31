@@ -28,6 +28,7 @@ import { barksongItemImageUrl } from './barksong_item_art';
 import { basinCourtItemImageUrl } from './basin_court_item_art';
 import { bonewroughtArmorItemImageUrl } from './bonewrought_armor_item_art';
 import { bonewroughtDirefangItemImageUrl } from './bonewrought_direfang_item_art';
+import { boneLegionEpicItemImageUrl } from './bone_legion_epic_item_art';
 import { bramblehideArmorItemImageUrl } from './bramblehide_armor_item_art';
 import { bramblehideArmorSecondItemImageUrl } from './bramblehide_armor_second_item_art';
 import { choirGraveIgnivarItemImageUrl } from './choir_grave_ignivar_item_art';
@@ -57,6 +58,8 @@ import { crucibleHealerClothPatternItemImageUrl } from './crucible_healer_cloth_
 import { crucibleHealerClothItemImageUrl } from './crucible_healer_cloth_item_art';
 import { crucibleCasterLeatherEquipmentImageUrl } from './crucible_caster_leather_equipment_art';
 import { crucibleStrikerMailItemImageUrl } from './crucible_striker_mail_item_art';
+import { crucibleGuardianMailItemImageUrl } from './crucible_guardian_mail_item_art';
+import { crucibleHealerLeatherEquipmentImageUrl } from './crucible_healer_leather_equipment_art';
 import { crozierSparksItemImageUrl } from './crozier_sparks_item_art';
 import { dawnForgeItemImageUrl } from './dawn_forge_item_art';
 import { dawnforgedArmorItemImageUrl } from './dawnforged_armor_item_art';
@@ -293,6 +296,9 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    crucibleGuardianMailItemImageUrl(id) ??
+    crucibleHealerLeatherEquipmentImageUrl(id) ??
+    boneLegionEpicItemImageUrl(id) ??
     crucibleStrikerMailItemImageUrl(id) ??
     furyforgedS1ItemImageUrl(id) ??
     crucibleCasterLeatherEquipmentImageUrl(id) ??

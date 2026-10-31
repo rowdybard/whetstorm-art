@@ -1242,6 +1242,19 @@ with OpenAI's built-in image generation. Prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/furyforged-s1-original/provenance.json` and
 `docs/whetstorm/crucible-striker-mail-original-generation.json`.
 
+Three epic bone armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/bone-legion-epic/provenance.json`.
+
+Four additional Furyforged armor paintings were generated with OpenAI's
+built-in image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/furyforged-s1-second-original/furyforged-second-provenance.json`.
+
+Three Guardian Mail and three healer leather paintings were generated with
+OpenAI's built-in image generation. Prompts and hashes are recorded in
+`docs/whetstorm/crucible-guardian-mail-original-generation.json` and
+`docs/design/whetstorm-art/items/crucible-healer-leather-equipment/equipment-provenance.md`.
+
 Three Crucible healer cloth item paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded separately from the manuals in
 `docs/design/whetstorm-art/items/crucible-healer-cloth/armor-provenance.md`.

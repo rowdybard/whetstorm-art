@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for epic bone legion hoard armor; rare and Sovereign variants remain unmapped.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Production integration and in-game review pending.",
+  "entries": [
+    {
+      "id": "bone_studded_pauldrons",
+      "prompt": "Original square opaque fantasy game inventory item painting of one matched pair of mail shoulder pauldrons: articulated dark iron and visible linked steel mail, rounded ivory bone studs and restrained engraved bone trim. Clear separated shoulder armor silhouettes, no person, body, character, face, animal or creature. Premium hand-painted dark fantasy, charcoal backdrop and warm top-left light, readable at 22px. No text, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/bone-legion-epic/bone_studded_pauldrons.png",
+      "sourceSha256": "012d1995fecea38d8108ef02c24ac5a944da62ce283f7f58a3a1a7c8a2d99d8b",
+      "output": "public/ui/whetstorm/items/bone_studded_pauldrons.webp",
+      "outputSha256": "2a9188c47db1fd8dad2d1d6d67bf84ca38b424bef1d67be711fed8d1d94d2862"
+    },
+    {
+      "id": "legguards_of_the_ossuary",
+      "prompt": "Original square opaque fantasy game inventory item painting of one complete pair of leather legguards: rugged dark brown leather leggings with pale ivory bone-shaped reinforcement plates and stitched straps, practical flexible leg armor. Clear full pair legguard silhouette, no wearer, body, character, face, animal or creature. Premium hand-painted dark fantasy, charcoal backdrop and warm top-left light, readable at 22px. No text, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/bone-legion-epic/legguards_of_the_ossuary.png",
+      "sourceSha256": "c05bd9d0c946e2a14c133e00ea9092a3bd6820ae74b136f0a46fdd96442cf1a9",
+      "output": "public/ui/whetstorm/items/legguards_of_the_ossuary.webp",
+      "outputSha256": "18b192fa52b1bc406281df1127d0d603a8196ee611cb39befb6b6f91ac8f66cc"
+    },
+    {
+      "id": "ossuary_bone_crown",
+      "prompt": "Original square opaque fantasy game inventory item painting of one cloth crown-like headpiece: a soft dark cloth circlet cap supporting upright pale ivory bone-shaped ornamental slats, visible folded textile and stitching, open empty interior. Clear helmet or crown silhouette, no head, face, person, character, animal or creature. Premium hand-painted dark fantasy, charcoal backdrop and warm top-left light, readable at 22px. No text, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/bone-legion-epic/ossuary_bone_crown.png",
+      "sourceSha256": "7d34275a705e3f6c9d906d9a171df953e340e057e1fa9c3d4cb7293cc43f3dbd",
+      "output": "public/ui/whetstorm/items/ossuary_bone_crown.webp",
+      "outputSha256": "a65f0ae0bea6927f1507eba15e91113dcbdc17052666fcc39f4efef26770b8ba"
+    }
+  ]
+}

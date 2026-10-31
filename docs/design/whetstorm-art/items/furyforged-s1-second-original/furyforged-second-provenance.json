@@ -1,0 +1,42 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "conversion": "sharp resize 128x128, WebP quality 82, effort 6",
+  "records": [
+    {
+      "id": "furyforged_girdle",
+      "prompt": "Original hand-painted fantasy RPG item icon: Furyforged Girdle, one broad dark forged steel mail belt, large bold angular clasp, layered metal and subtle ember-red accents. Centered unmistakable belt silhouette, matching battle-worn steel fantasy gear, warm highlights, dark background. No wearer, words, labels, border or extra objects. Legible at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/furyforged-s1-second-original/furyforged_girdle.png",
+      "masterSha256": "0795439c1b908403506dcc6dd4bca081545934300d52ffadf7ec614583262c62",
+      "shipping": "public/ui/whetstorm/items/furyforged_girdle.webp",
+      "shippingSha256": "23fb0ccd953c43119ce81cb8c4396147d2970d4039b917a8a79755c4e47030f5"
+    },
+    {
+      "id": "furyforged_legguards",
+      "prompt": "Original hand-painted fantasy RPG item icon: Furyforged Legguards, one pair of dark forged steel mail armored leggings with distinct two leg silhouette, overlapping angular plates and subtle ember-red accents. Centered, matching battle-worn steel fantasy gear, warm highlights, dark background. No wearer, words, labels, border or extra objects. Legible at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/furyforged-s1-second-original/furyforged_legguards.png",
+      "masterSha256": "5974ce53b22bfec4658ca6868510108c81d1cc94837b65046d9729d4e38663a3",
+      "shipping": "public/ui/whetstorm/items/furyforged_legguards.webp",
+      "shippingSha256": "e9951f1fd1177ef35e329be55739309d13f4bce527bf8a2d35c9a9cb8514f5e5"
+    },
+    {
+      "id": "furyforged_gauntlets",
+      "prompt": "Original hand-painted fantasy RPG item icon: Furyforged Gauntlets, one pair of dark forged steel mail armored gloves with clearly visible fingers and strong glove silhouette, angular overlapping plates and subtle ember-red accents. Centered, matching battle-worn steel fantasy gear, warm highlights, dark background. No wearer, words, labels, border or extra objects. Legible at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/furyforged-s1-second-original/furyforged_gauntlets.png",
+      "masterSha256": "546a7674acda8d33859f99c05c8f91dff45eba995bf5a81796d847adc0eeefa6",
+      "shipping": "public/ui/whetstorm/items/furyforged_gauntlets.webp",
+      "shippingSha256": "cbd9e1c2dada5de0dc5f58aa92e2742b23d9cd4efef2634670da0cb411387ae8"
+    },
+    {
+      "id": "furyforged_sabatons",
+      "prompt": "Original hand-painted fantasy RPG item icon: Furyforged Sabatons, one pair of dark forged steel mail armored boots with clearly visible feet and bold boot silhouette, angular overlapping plates and subtle ember-red accents. Centered, matching battle-worn steel fantasy gear, warm highlights, dark background. No wearer, words, labels, border or extra objects. Legible at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/furyforged-s1-second-original/furyforged_sabatons.png",
+      "masterSha256": "a49415f2ee57337e311a2cdd29ba67163a8de10303ad07e09ea16e2533044919",
+      "shipping": "public/ui/whetstorm/items/furyforged_sabatons.webp",
+      "shippingSha256": "99806f76077de0a050ad27fc6050deb279c56438160e8542e2939a1c26e85311"
+    }
+  ]
+}

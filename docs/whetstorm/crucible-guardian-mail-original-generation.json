@@ -1,0 +1,35 @@
+{
+  "generator": "Built-in imagegen; three independent generations; no source references",
+  "processing": "sharp resize 128x128, WebP quality 88 effort 6",
+  "images": [
+    {
+      "id": "crucible_tank_mail_chest",
+      "master": "docs/design/whetstorm-art/items/crucible-guardian-mail-original/crucible_tank_mail_chest.png",
+      "output": "public/ui/whetstorm/items/crucible_tank_mail_chest.webp",
+      "masterSha256": "378c36080c049f3d45f3c2671ac686310f444dc0ee72cf5d64e97dc34dcdc4c9",
+      "outputSha256": "2bf79d1c7811c60e28bb3076073e6c75c9e537401eab6dc700eae91bb54618c4",
+      "prompt": "Original square painted fantasy RPG inventory icon, a single unworn Guardian's mail hauberk, broad rounded shield-shaped overlapping steel plates over clearly visible chainmail, protective high gorget, stout rounded shoulders, cool silver steel with restrained blue highlights. Fully visible centered front view, dark backdrop, distinct simple silhouette readable at 32 pixels, painterly. No person, text, letters, numbers, logo, frame, or watermark."
+    },
+    {
+      "id": "crucible_tank_mail_waist",
+      "master": "docs/design/whetstorm-art/items/crucible-guardian-mail-original/crucible_tank_mail_waist.png",
+      "output": "public/ui/whetstorm/items/crucible_tank_mail_waist.webp",
+      "masterSha256": "e914347722bf62f1d18ab0e03b0d70c01dcd4f837e28ceed48450d4d842da327",
+      "outputSha256": "27aa9afe5b5828a422b1dac46decd7dcf5151fea2cbb9b94cbec758ca4e1e9b7",
+      "prompt": "Original square painted fantasy RPG inventory icon, a single unworn Guardian's mail waist girdle, broad horizontal oval belt of overlapping rounded silver steel scales and clearly visible chain links, an enormous round shield-shaped central buckle with concentric rings and restrained blue highlights. Fully visible centered view, dark backdrop, simple silhouette readable at 32 pixels, painterly. No person, text, letters, numbers, logo, frame, or watermark."
+    },
+    {
+      "id": "crucible_tank_mail_feet",
+      "master": "docs/design/whetstorm-art/items/crucible-guardian-mail-original/crucible_tank_mail_feet.png",
+      "output": "public/ui/whetstorm/items/crucible_tank_mail_feet.webp",
+      "masterSha256": "6181a126196a759e10d03c25b0f9576dcdb8f134a699daa2065fcc3ed41d5e9c",
+      "outputSha256": "9cf759775a5f805a9a6bd96c87d27a0c37355c5f012632e2891bf17c66ab10e1",
+      "prompt": "Original square painted fantasy RPG inventory icon: ONE single side-profile Guardian mail sabaton boot, pointed toward the left. Its defining silhouette is an oversized ROUND SHIELD-SHAPED ankle cuff, a broad circular silver plate with concentric raised rings rising above and extending well beyond the narrow rounded boot; chainmail at the joint and curved overlapping toe plates. Strong unmistakable circular cuff silhouette, cool silver steel, dark background, large centered subject, painterly, readable at 28 pixels. Only ONE boot, no pair, no person, no words, letters, numbers, logos, border, or watermark.",
+      "previousVersion": {
+        "masterSha256": "476ec20ee0c2e3bb449394a0e14b5259ad5abb748554cf2c5d5d8c5a397fc1f6",
+        "outputSha256": "726d96341678fe69ad56a9a5936714dbfa15572324eee07e350d539be17eda1b",
+        "prompt": "Original square painted fantasy RPG inventory icon, a pair of unworn Guardian's mail sabatons, sturdy rounded silver steel boots with overlapping curved toe plates and clearly visible chainmail at ankle, restrained blue highlights. Fully visible centered view, dark backdrop, simple distinct silhouettes readable at 32 pixels, painterly. No person, text, letters, numbers, logo, frame, or watermark."
+      }
+    }
+  ]
+}
