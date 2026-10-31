@@ -1,0 +1,41 @@
+{
+  "generator": "Built-in imagegen; four independent selected generations; no source references",
+  "images": [
+    {
+      "id": "cinderweave_cord",
+      "master": "docs/design/whetstorm-art/items/cinderweave-accessories-original/cinderweave_cord.png",
+      "output": "public/ui/whetstorm/items/cinderweave_cord.webp",
+      "masterSha256": "71fb99c49c50ec85f92701323e5f1bd850b6fa3abca891e8ae7f0472b7c69ced",
+      "outputSha256": "87e69109171d83b22286daed83f3856009cc7e3ef56b4d84ba2a41f7d017674f",
+      "prompt": "Original fantasy game inventory icon: ONLY an isolated cloth waist sash belt lying flat horizontally, no clothing attached. One short broad strip of charcoal fabric with ember-red inner layer and orange glowing stitching, tied in a large central knot with two short loose ends hanging below, small aged-gold clasp. Entire belt centered and fully visible on dark navy background; wide, strongly horizontal belt silhouette, clear at 28px. Absolutely no robe, torso, body, mannequin, armor, words, text, letters, logos, frame or watermark.",
+      "processing": "sharp resize 128x128 fit contain background #071123, WebP quality 88 effort 6"
+    },
+    {
+      "id": "cinderweave_legwraps",
+      "master": "docs/design/whetstorm-art/items/cinderweave-accessories-original/cinderweave_legwraps.png",
+      "output": "public/ui/whetstorm/items/cinderweave_legwraps.webp",
+      "masterSha256": "e0052164b874999c9627f56cf1fa85c1ea03795062662b8b4c086ea079388b26",
+      "outputSha256": "a0fa9fec2e292b5298c1f52ecc30119ce9767e0d6cceef489229ed30827216c0",
+      "prompt": "Original square painted fantasy RPG inventory icon for Cinderweave Regalia: dark charcoal cloth, ember-red lining, glowing orange ember stitching and restrained aged gold trim on dark navy background. Unworn, one large centered object, painterly, clear at 28px, no armor plates, text, letters, numbers, logo, border or watermark. A pair of long cloth legwraps, front view with two distinct full-length trouser legs and diagonal fabric wrappings.",
+      "processing": "sharp resize 128x128, WebP quality 88 effort 6"
+    },
+    {
+      "id": "cinderweave_handwraps",
+      "master": "docs/design/whetstorm-art/items/cinderweave-accessories-original/cinderweave_handwraps.png",
+      "output": "public/ui/whetstorm/items/cinderweave_handwraps.webp",
+      "masterSha256": "8c19f5ea4c19ed65894856d539e8b56007de1ff3689df05dddc88c3b80c3fa51",
+      "outputSha256": "0b3a7f4bd9bd96db4391bffbac57d12ac6ef413078d0c38a817eef0170221b0b",
+      "prompt": "Original square painted fantasy RPG inventory icon for Cinderweave Regalia: dark charcoal cloth, ember-red lining, glowing orange ember stitching and restrained aged gold trim on dark navy background. Unworn, one large centered object, painterly, clear at 28px, no armor plates, text, letters, numbers, logo, border or watermark. A pair of soft cloth handwraps, palms facing forward, clearly showing fingers wrapped in fabric, no metal gauntlets.",
+      "processing": "sharp resize 128x128, WebP quality 88 effort 6"
+    },
+    {
+      "id": "cinderweave_slippers",
+      "master": "docs/design/whetstorm-art/items/cinderweave-accessories-original/cinderweave_slippers.png",
+      "output": "public/ui/whetstorm/items/cinderweave_slippers.webp",
+      "masterSha256": "65421149b0e683caac99593f9d8af840fc4dddd84ad69408576a980c09573ef4",
+      "outputSha256": "5d46516cfff858b98c7fd4293cae910d0bbe164ca71b49b37813a30ca44e23a4",
+      "prompt": "Original square painted fantasy RPG inventory icon for Cinderweave Regalia: dark charcoal cloth, ember-red lining, glowing orange ember stitching and restrained aged gold trim on dark navy background. Unworn, one large centered object, painterly, clear at 28px, no armor plates, text, letters, numbers, logo, border or watermark. A pair of soft cloth slippers, viewed from above at slight angle, clearly showing rounded cloth toes and fabric wrappings, no leather boots.",
+      "processing": "sharp resize 128x128, WebP quality 88 effort 6"
+    }
+  ]
+}

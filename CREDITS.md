@@ -1289,6 +1289,12 @@ Three Tarnished Emberforge armor paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/emberforge-tarnished/provenance.json`.
 
+Seven Cinderweave armor paintings and two Glacier-Hewn shield paintings were
+generated with OpenAI's built-in image generation; prompts and hashes are in
+`docs/design/whetstorm-art/items/cinderweave-upper-equipment/upper-provenance.md`,
+`docs/whetstorm/cinderweave-accessories-original-generation.json`, and
+`docs/design/whetstorm-art/items/glacier-bulwark-tiers/provenance.json`.
+
 Three epic Ember armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/emberforge-epic/provenance.json`.

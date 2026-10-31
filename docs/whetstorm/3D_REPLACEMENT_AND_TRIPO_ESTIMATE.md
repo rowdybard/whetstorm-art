@@ -386,6 +386,26 @@ weapon enhancement effects. These code contracts do not establish a candidate's
 visual fit or its mesh, texture, skeleton and animation provenance; both remain
 to be verified for each proposed replacement.
 
+### Equipped shield example
+
+Varkhul Emberward currently resolves through `itemOffhandModelUrl` to
+`public/models/weapons/shield_round.glb`; the live resolver, weapon-skin, heroic
+inheritance, and preload expectations are pinned in
+`tests/whetstorm_emberward_held_model.test.ts`. The asset specification maps
+that GLB to a KayKit Adventurers 1.0 `shield_round.gltf` source, and
+`CREDITS.md` credits that pack's weapons and shields as CC0. This is recorded
+source evidence, not a byte-identity proof for the shipped GLB.
+
+The `shield_round` accessory maps to `Round_Shield` in
+`src/render/characters/held_item_grips.ts`; its left-hand grip has position
+`[0, 0.017, 0.1771]`, quaternion `[0, 0, 0, 1]`, and scale `0.4413`, on the
+`handslot.l` attachment. Check back-sheathing separately through
+`back_grips.ts`. The nearby `Varkhul_Bulwark` grip entry is not evidence that
+the old named model is currently selected: the current Emberward resolver
+chooses `shield_round`. A proposed replacement needs actual hand and back fit,
+origin and clipping checks across supported bodies and animations, preview
+tiers, and the resolver/preload tests; no candidate fit has been verified.
+
 ## Illustrative Tripo costs, not a purchasing plan
 
 Tripo [Studio pricing](https://www.tripo3d.ai/product-doc/getting-started/pricing-credits)
