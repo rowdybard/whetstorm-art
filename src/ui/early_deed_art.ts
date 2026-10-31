@@ -35,6 +35,7 @@ import { gatheringBookendDeedImageUrl } from './gathering_bookend_deed_art';
 import { grandmasterCraftDeedImageUrl } from './grandmaster_craft_deed_art';
 import { heroicClearDeedImageUrl } from './heroic_clear_deed_art';
 import { heroicDepthsDeedImageUrl } from './heroic_depths_deed_art';
+import { hiddenAbstractFourDeedImageUrl } from './hidden_abstract_four_deed_art';
 import { journeyCraftDeedImageUrl } from './journey_craft_deed_art';
 import { journeyDeedImageUrl } from './journey_deed_art';
 import { marshChronicleDeedImageUrl } from './marsh_chronicle_deed_art';
@@ -87,6 +88,7 @@ const EARLY_DEED_ART = new Map<string, string>([
 export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
+    hiddenAbstractFourDeedImageUrl(id) ??
     eraBrambleDeedImageUrl(id) ??
     socialHiddenFourDeedImageUrl(id) ??
     collectionMilestoneDeedImageUrl(id) ??

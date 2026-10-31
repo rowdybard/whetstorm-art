@@ -1,0 +1,56 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputs": "No reference images",
+  "processing": "Sharp 128x128 opaque WebP quality 88 effort 6",
+  "entries": [
+    {
+      "id": "hid_saul_footnote",
+      "path": "public/ui/whetstorm/deeds/hid_saul_footnote.webp",
+      "bytes": 4608,
+      "sha256": "b7c29b9e9c11970ca75c49f9732f7db66e989b855d772e805ba07febb3aabb31",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/hidden-abstract-four/hid_saul_footnote.png",
+        "bytes": 2124084,
+        "sha256": "b363a4163687ea97e1de0f5faf2ec8da810607bb81718a0d17d6945d4f77e776"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game hidden achievement icon. A luminous blue crystal suspended inside a simple silver ring against a dark navy background. Abstract decorative motif only, no narrative clues. Hand-painted dark fantasy illustration, centered bold silhouette, high contrast and readable at 28 pixels. No words, letters, numerals, border, logo or watermark."
+    },
+    {
+      "id": "hid_fall_death",
+      "path": "public/ui/whetstorm/deeds/hid_fall_death.webp",
+      "bytes": 5102,
+      "sha256": "fb399772f5e056fbfe896ea2a990255f1c6c3e26c7fb65fdd2d2df60d78bc0d3",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/hidden-abstract-four/hid_fall_death.png",
+        "bytes": 2300766,
+        "sha256": "5a427aad76b21822c5ef77c2d8157c43aa7646a15b7828f7226464c9678ddb10"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game hidden achievement icon. A single gold five-point star surrounded by a soft violet halo against a dark plum background. Abstract decorative motif only, no narrative clues. Hand-painted dark fantasy illustration, centered bold silhouette, high contrast and readable at 28 pixels. No words, letters, numerals, border, logo or watermark."
+    },
+    {
+      "id": "hid_roll_hundred",
+      "path": "public/ui/whetstorm/deeds/hid_roll_hundred.webp",
+      "bytes": 6532,
+      "sha256": "cca1e3120ea4998564ecb4f89a34e640a6dabb733259f0c150ed736008776c39",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/hidden-abstract-four/hid_roll_hundred.png",
+        "bytes": 2487825,
+        "sha256": "fae5751cda1cf80f60e7d55165d8e398cf7aa1ed783035dc2a11bea3c6d98db3"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game hidden achievement icon. A green leaf-shaped jewel set in a bronze circle against deep forest green. Abstract decorative motif only, no narrative clues. Hand-painted dark fantasy illustration, centered bold silhouette, high contrast and readable at 28 pixels. No words, letters, numerals, border, logo or watermark."
+    },
+    {
+      "id": "hid_bountiful_coffer",
+      "path": "public/ui/whetstorm/deeds/hid_bountiful_coffer.webp",
+      "bytes": 5512,
+      "sha256": "cb5d564242ac425bfc33666fb120d8781ebd363ac08ad8ea78a239b1147703be",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/hidden-abstract-four/hid_bountiful_coffer.png",
+        "bytes": 2505898,
+        "sha256": "0ad2bbcd426411877c25bccfd55e3e84864ecbadff2e6cc55e30dc26ca444c8b"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game hidden achievement icon. A glowing amber spiral within a dark copper medallion against a midnight blue background. Abstract decorative motif only, no narrative clues. Hand-painted dark fantasy illustration, centered bold silhouette, high contrast and readable at 28 pixels. No words, letters, numerals, border, logo or watermark."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for rare Tarnished Grask hoard pieces; Sovereign variants remain unmapped.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "In-game review pending.",
+  "entries": [
+    {
+      "id": "rare_breastplate_tectonic_might",
+      "prompt": "Original square opaque fantasy MMO inventory painting: Tarnished Breastplate of Tectonic Might. A single worn mail chest cuirass, rough dull iron and chipped earthy slate plates, asymmetrical leather repair strap, modest rust, dents and scratches; readable broad torso silhouette without head or arms. Distinctly humble and weathered, not ornate. Hand-painted dark fantasy, dark charcoal background, warm top-left light, clear silhouette at 22px. No text, frame, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/items/grask-tarnished/rare_breastplate_tectonic_might.png",
+      "sourceSha256": "c60af653b088a4a34705908d727ba3928b7c1a67c445cd20c049a946d957c2e2",
+      "output": "public/ui/whetstorm/items/rare_breastplate_tectonic_might.webp",
+      "outputSha256": "4cb2671f81807572ba4c1947e4890cb39ad09479ba4e9109b6d32c15c4a888bb"
+    },
+    {
+      "id": "rare_monolithic_shoulderguards",
+      "prompt": "Original square opaque fantasy MMO inventory painting: Tarnished Monolithic Shoulderguards. One pair of worn rugged brown leather shoulder guards with chipped slate wedges, leather repairs and frayed edges, asymmetrical one large triangular stone peak, practical modest construction; no person or torso. Readable broad separated shoulder-pair silhouette at 22px. Hand-painted dark fantasy, dark charcoal background, warm top-left light. No text, frame, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/items/grask-tarnished/rare_monolithic_shoulderguards.png",
+      "sourceSha256": "7e5298f8928a46c6e0fd4a83b2da2491a981fc14f0a74a6b304b72e49719b67d",
+      "output": "public/ui/whetstorm/items/rare_monolithic_shoulderguards.webp",
+      "outputSha256": "90a01b413fc416e816d039f614655e9bc05c549317501b17b2e73850e3276c52"
+    },
+    {
+      "id": "rare_earthshaker_warboots",
+      "prompt": "Original square opaque fantasy MMO inventory painting: Tarnished Earthshaker Warboots. One pair of worn heavy mail boots, dull iron and cracked earthy slate toe caps, brown leather straps, scuffed heels and rugged soles, practical and unornate; no legs or body. Strong clearly readable boot-pair silhouette at 22px. Hand-painted dark fantasy, dark charcoal background, warm top-left light. No text, frame, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/items/grask-tarnished/rare_earthshaker_warboots.png",
+      "sourceSha256": "ab92b84daa7c4e668667862075813bfc514adb973068190c886dc5c75882c4a3",
+      "output": "public/ui/whetstorm/items/rare_earthshaker_warboots.webp",
+      "outputSha256": "1dc0bfce33690b81096121ca3f58c50b174ee820acc52a3582ded1109c9e0067"
+    }
+  ]
+}

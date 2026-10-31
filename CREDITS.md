@@ -1183,6 +1183,14 @@ Three epic Grask armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/grask-epic/provenance.json`.
 
+Four abstract hidden-deed paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/deed-hidden-abstract-four-generation.json`.
+
+Three Tarnished Grask armor paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/grask-tarnished/provenance.json`.
+
 Three Crucible healer and cloth pattern paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/crucible-healer-cloth/provenance.md`.
