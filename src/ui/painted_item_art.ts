@@ -47,6 +47,9 @@ import { gracewingUpperItemImageUrl } from './gracewing_upper_item_art';
 import { gracewingLowerItemImageUrl } from './gracewing_lower_item_art';
 import { riptideHandwrapsTierItemImageUrl } from './riptide_handwraps_tier_item_art';
 import { stormkindledUpperItemImageUrl } from './stormkindled_upper_item_art';
+import { stormkindledLowerItemImageUrl } from './stormkindled_lower_item_art';
+import { eventHorizonCowlItemImageUrl } from './event_horizon_cowl_item_art';
+import { singularityMantleTierItemImageUrl } from './singularity_mantle_tier_item_art';
 import { cleaverWildsoulItemImageUrl } from './cleaver_wildsoul_item_art';
 import { clothBatchFiveItemImageUrl } from './cloth_batch_five_item_art';
 import { clothBatchFourItemImageUrl } from './cloth_batch_four_item_art';
@@ -429,6 +432,9 @@ export function paintedItemImageUrl(id: string): string | null {
     gracewingLowerItemImageUrl(id) ??
     riptideHandwrapsTierItemImageUrl(id) ??
     stormkindledUpperItemImageUrl(id) ??
+    stormkindledLowerItemImageUrl(id) ??
+    eventHorizonCowlItemImageUrl(id) ??
+    singularityMantleTierItemImageUrl(id) ??
     wovenBagsItemImageUrl(id) ??
     craftedGroupFeastsItemImageUrl(id) ??
     factionBagsItemImageUrl(id) ??

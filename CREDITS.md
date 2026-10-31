@@ -1325,6 +1325,18 @@ Three Stormkindled armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/stormkindled-upper-original-generation.json`.
 
+Two additional Stormkindled armor paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/stormkindled-lower-original-generation.json`.
+
+Three Event Horizon cowl tier paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/event-horizon-cowl-tiers/provenance.json`.
+
+Three Singularity mantle tier paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/singularity-mantle-tiers/tier-provenance.md`.
+
 Three epic Ember armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/emberforge-epic/provenance.json`.

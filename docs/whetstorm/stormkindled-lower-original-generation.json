@@ -1,0 +1,22 @@
+{
+  "generator": "Built-in imagegen; two independent generations; no source references",
+  "processing": "sharp resize 128x128, WebP quality 88 effort 6",
+  "images": [
+    {
+      "id": "stormkindled_gloves",
+      "master": "docs/design/whetstorm-art/items/stormkindled-lower-original/stormkindled_gloves.png",
+      "output": "public/ui/whetstorm/items/stormkindled_gloves.webp",
+      "masterSha256": "1d465e403e194bb7df8cc5ee92b5ddcc29be6f59ffae5a827f65fd524ef3726d",
+      "outputSha256": "22ddd39837d555674ea9fc2a95dc49af392765495e6fd7ef4501ec967462e299",
+      "prompt": "Original square painted fantasy RPG inventory icon for Stormkindled Regalia, an epic shaman mail set: storm-dark blue steel scale and clearly visible interlocking chainmail, turquoise lightning motifs, restrained weathered copper edging, deep charcoal backdrop. Unworn item, large centered distinct silhouette readable at 28px, painterly. No person, words, letters, numbers, logo, frame or watermark. A matching pair of mail GAUNTLETS, upright palms facing forward with five separate fingers, blue scales on backs and chainmail at joints, no shoulders or torso."
+    },
+    {
+      "id": "stormkindled_legs",
+      "master": "docs/design/whetstorm-art/items/stormkindled-lower-original/stormkindled_legs.png",
+      "output": "public/ui/whetstorm/items/stormkindled_legs.webp",
+      "masterSha256": "1352274e59d9e67985deb40a66e349a4663c36c1857d9f0472639bfa9d5b10e9",
+      "outputSha256": "1c98ab579610e95c838e9f28f95153fa4e86cb810836d27e225956947e60b76e",
+      "prompt": "Original square painted fantasy RPG inventory icon for Stormkindled Regalia, an epic shaman mail set: storm-dark blue steel scale and clearly visible interlocking chainmail, turquoise lightning motifs, restrained weathered copper edging, deep charcoal backdrop. Unworn item, large centered distinct silhouette readable at 28px, painterly. No person, words, letters, numbers, logo, frame or watermark. A matching pair of mail LEGGUARDS, front view with two separate long trouser legs, visible chainmail and overlapping blue steel scales on shins, no boots or torso."
+    }
+  ]
+}
