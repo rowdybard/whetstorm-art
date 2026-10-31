@@ -1179,6 +1179,14 @@ Two era and collection deed paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/whetstorm/deed-era-bramble-generation.json`.
 
+Three epic Grask armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/grask-epic/provenance.json`.
+
+Three Crucible healer and cloth pattern paintings were generated with OpenAI's
+built-in image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/crucible-healer-cloth/provenance.md`.
+
 Four Wildheart and rare-hunt deed paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in
 `docs/whetstorm/deed-wildheart-rares-generation.json`.

@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Visual upgrade from original procedural epic-tier Grask hoard icons; rare and legendary variants remain unmapped.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Production item lookup integrated and focused checks passed; in-game review pending.",
+  "entries": [
+    {
+      "id": "breastplate_tectonic_might",
+      "prompt": "Original opaque square fantasy MMO inventory icon: Breastplate of Tectonic Might, one complete heavy mail chest breastplate with dark iron links, broad weathered stone-gray plates, angular earth-toned rock motifs and restrained bronze trim; no head, arms, body or mannequin. Centered full chest silhouette with margins, premium hand-painted dark fantasy, upper-left warm light, dark charcoal vignette, readable at 22px. No text, numbers, UI border, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/items/grask-epic/breastplate_tectonic_might.png",
+      "sourceSha256": "4b92ba17d5072b78c502e928594d5c389ab35e6b288aa3b1d09a3a2a0f257720",
+      "output": "public/ui/whetstorm/items/breastplate_tectonic_might.webp",
+      "outputSha256": "edd8fe74c40b2ade410bf45724bafccb1b84cf10a3101a45b8cbcb21ae8917cb"
+    },
+    {
+      "id": "monolithic_shoulderguards",
+      "prompt": "Original opaque square fantasy MMO inventory icon: Monolithic Shoulderguards, one matching pair of rugged leather shoulder guards with layered dark brown hide, rough stone-like scales and bold angular rock motifs, appropriate agile armor; no body or mannequin. Centered compact shoulder-pair silhouette with margins, premium hand-painted dark fantasy, upper-left warm light, dark charcoal vignette, readable at 22px. No text, numbers, UI border, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/items/grask-epic/monolithic_shoulderguards.png",
+      "sourceSha256": "31dca21d044be1ae8a067c9bc60ec96fad548b6724b6acaa8a24f8798a02c495",
+      "output": "public/ui/whetstorm/items/monolithic_shoulderguards.webp",
+      "outputSha256": "54f2caa85bd01849d5eb3c8340d4e7efce03c7a2605933328d576e1b8b1bcce4"
+    },
+    {
+      "id": "earthshaker_warboots",
+      "prompt": "Original opaque square fantasy MMO inventory icon: Earthshaker Warboots, one matching pair of heavy mail warboots with dark steel and earthy stone-gray plates, sturdy soles and restrained bronze angular earth motifs; no legs, body or mannequin. Centered full boot-pair silhouette with margins, premium hand-painted dark fantasy, upper-left warm light, dark charcoal vignette, readable at 22px. No text, numbers, UI border, watermark or transparency.",
+      "source": "docs/design/whetstorm-art/items/grask-epic/earthshaker_warboots.png",
+      "sourceSha256": "9a73c7025609d1bf9af36416b7793c31ba9af6824f0f1f8c68aad8c0b9114744",
+      "output": "public/ui/whetstorm/items/earthshaker_warboots.webp",
+      "outputSha256": "f0838e51fff0b071e169691e1b5073549589edf57422c6dadcb84fdeea8a1de2"
+    }
+  ]
+}

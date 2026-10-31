@@ -53,6 +53,7 @@ import { craghornIceveinItemImageUrl } from './craghorn_icevein_item_art';
 import { crucibleSigilItemImageUrl } from './crucible_sigil_item_art';
 import { crucibleMailPatternItemImageUrl } from './crucible_mail_pattern_item_art';
 import { crucibleLeatherPatternItemImageUrl } from './crucible_leather_pattern_item_art';
+import { crucibleHealerClothPatternItemImageUrl } from './crucible_healer_cloth_pattern_item_art';
 import { crozierSparksItemImageUrl } from './crozier_sparks_item_art';
 import { dawnForgeItemImageUrl } from './dawn_forge_item_art';
 import { dawnforgedArmorItemImageUrl } from './dawnforged_armor_item_art';
@@ -64,6 +65,7 @@ import { drogmarQuestWeaponsItemImageUrl } from './drogmar_quest_weapons_item_ar
 import { dungeonBagsItemImageUrl } from './dungeon_bags_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { heroicTrinketItemImageUrl } from './heroic_trinket_item_art';
+import { graskEpicItemImageUrl } from './grask_epic_item_art';
 import { hoarfrostEpicItemImageUrl } from './hoarfrost_epic_item_art';
 import { nythraxisApexPatternItemImageUrl } from './nythraxis_apex_pattern_item_art';
 import { nythraxisJewelPatternItemImageUrl } from './nythraxis_jewel_pattern_item_art';
@@ -281,6 +283,8 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    graskEpicItemImageUrl(id) ??
+    crucibleHealerClothPatternItemImageUrl(id) ??
     crucibleLeatherPatternItemImageUrl(id) ??
     nythraxisJewelPatternItemImageUrl(id) ??
     crucibleMailPatternItemImageUrl(id) ??
