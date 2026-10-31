@@ -1228,6 +1228,10 @@ Three Tarnished Tempest armor paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/tempest-tarnished/provenance.json`.
 
+Three Sovereign Tempest armor paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/tempest-sovereign/provenance.json`.
+
 Three Crucible healer and cloth pattern paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/crucible-healer-cloth/provenance.md`.

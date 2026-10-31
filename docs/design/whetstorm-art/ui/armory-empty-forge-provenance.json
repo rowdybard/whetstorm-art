@@ -1,0 +1,11 @@
+{
+  "status": "Unapproved draft candidate; not integrated or shipped.",
+  "generator": "OpenAI built-in imagegen",
+  "referenceImages": [],
+  "prompt": "Use case: stylized-concept. Create an original text-free wide landscape fantasy blacksmith workshop background for a small game UI promotional card, approximately 1000:590. An empty atmospheric stone forge with a simple anvil, bellows, glowing coals and indistinct smithing tools; no people. Keep the upper-left 60 percent dark and uncluttered for white text overlaid later; keep lower-right calm and dark enough for a button. Warm amber light and painterly fantasy game illustration. No weapons, blades, armor, merchandise, products, shields, signs, lettering, numbers, logos, borders or interface. Entirely original, no reference images.",
+  "master": "docs/design/whetstorm-art/ui/armory-empty-forge-master.png",
+  "masterSha256": "971144242dd27505919af9ce6fd817d3ed77b37b47ea89f1daf88da89faf6d9d",
+  "candidate": "docs/design/whetstorm-art/ui/armory-empty-forge-candidate.webp",
+  "candidateSha256": "281d9e6fbf1992e21577f3ba24798ae3f32fe022f23b7e8a7d1f8b1b744d557f",
+  "conversion": "sharp resize 1000x590 cover, WebP quality 85, effort 6"
+}

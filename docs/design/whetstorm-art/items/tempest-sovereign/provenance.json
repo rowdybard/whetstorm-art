@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for legendary-map Sovereign Tempest Vharok hoard armor, which has epic item quality.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "In-game review pending.",
+  "entries": [
+    {
+      "id": "legendary_hauberk_tempest_gale",
+      "prompt": "Original opaque square fantasy game inventory item painting: a royal mail hauberk chest armor, bright ivory-silver huge central V-shaped breastplate over near-black linked mail, tall flared dark collar, bold electric blue edging and simple swept wind motif. Strong high contrast silhouette, no wearer or creature. Hand-painted dark fantasy, dark charcoal backdrop, warm upper-left light, readable at 22px. No words, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/tempest-sovereign/legendary_hauberk_tempest_gale.png",
+      "sourceSha256": "5ff7297a4a4dd99a530b883acae878190652cadf547933459963ff991ec6d21b",
+      "output": "public/ui/whetstorm/items/legendary_hauberk_tempest_gale.webp",
+      "outputSha256": "c9214aa5697ecb625e60fde8e75305def35a29a76a87a38294d9929b25beda2a"
+    },
+    {
+      "id": "legendary_gale_strider_boots",
+      "prompt": "Original opaque square fantasy game inventory item painting: a matching pair of royal leather boots with tall sharply flared dark blue cuffs and very bright ivory-silver upturned pointed toes, huge silver wing-shaped side bands, dark soles. Strong high contrast boot pair silhouette, no legs, wearer or creature. Hand-painted dark fantasy, dark charcoal backdrop, warm upper-left light, readable at 22px. No words, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/tempest-sovereign/legendary_gale_strider_boots.png",
+      "sourceSha256": "232dcad23edb78501ce63dae4005cda80263061901faeb0c175b00c380f9ac88",
+      "output": "public/ui/whetstorm/items/legendary_gale_strider_boots.webp",
+      "outputSha256": "becc5fe37ccd93fab767a6a606ad4909939b99eef28320faf6f782f40fa0013a"
+    },
+    {
+      "id": "legendary_tempest_strike_grips",
+      "prompt": "Original opaque square fantasy game inventory item painting: a matching pair of royal articulated mail gloves, near-black chain mesh with huge bright ivory-silver lightning bolt shaped plates crossing the backs, tall flared cuffs, bold high contrast glove silhouette, no arms, wearer or creature. Hand-painted dark fantasy, dark charcoal backdrop, warm upper-left light, readable at 22px. No words, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/tempest-sovereign/legendary_tempest_strike_grips.png",
+      "sourceSha256": "2536e96d8de019bdb5982cb8c69be954e9d3f6bd402c6776e9b9dcb5ec9e3837",
+      "output": "public/ui/whetstorm/items/legendary_tempest_strike_grips.webp",
+      "outputSha256": "3e20119568c03212e74a2fd3f62924467af00a5829748b1af24a48c7022197e3"
+    }
+  ]
+}
