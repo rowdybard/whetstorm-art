@@ -1277,6 +1277,18 @@ Four additional Ashstalker armor paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/ashstalker-s1-second-original/ashstalker-second-provenance.json`.
 
+The Cinder of the First Design painting was generated with OpenAI's built-in
+image generation; its prompt and hashes are recorded in
+`docs/whetstorm/cinder-first-design-original-generation.json`.
+
+Four Void and Tides hoard offhand tier paintings were generated with OpenAI's
+built-in image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/void-tides-hoard-tiers/tier-provenance.md`.
+
+Three Tarnished Emberforge armor paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/emberforge-tarnished/provenance.json`.
+
 Three epic Ember armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/emberforge-epic/provenance.json`.

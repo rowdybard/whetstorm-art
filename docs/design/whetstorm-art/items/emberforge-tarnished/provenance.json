@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for rare Tarnished Emberforge hoard armor; Sovereign variants remain unmapped.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "In-game review pending.",
+  "entries": [
+    {
+      "id": "rare_ember_wrought_crown",
+      "prompt": "Original opaque square fantasy game inventory item painting: one worn empty mail crown helmet, dull weathered black iron circlet with linked steel mesh, short uneven chipped metal points and a faint ember-red seam, rough leather repairs. Clear humble crown helmet silhouette, no head, face, character, body, animal or creature. Premium hand-painted dark fantasy, charcoal background, warm light, legible at 22px. No words, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/emberforge-tarnished/rare_ember_wrought_crown.png",
+      "sourceSha256": "9c080286af8c5d8705d414c676ed6d49f7468b5888711714dd6013450c69444d",
+      "output": "public/ui/whetstorm/items/rare_ember_wrought_crown.webp",
+      "outputSha256": "c81f2e41e582c9127ee8757d5a1b2ecef1686a70158311a5ef0ec3b277f525ca"
+    },
+    {
+      "id": "rare_cinder_stitched_robes",
+      "prompt": "Original opaque square fantasy game inventory item painting: one empty worn full-length cloth robe, faded soot-brown fabric with frayed rust-red hem, rough repair stitches and patched sleeves, simple practical cut. Clear robe silhouette, no person, head, face, character, animal or creature. Premium hand-painted dark fantasy, charcoal background, warm light, legible at 22px. No words, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/emberforge-tarnished/rare_cinder_stitched_robes.png",
+      "sourceSha256": "dbdde24fcaad769111d3166f5f4ca46f7c554436201c07fa2aa2203798ea54cc",
+      "output": "public/ui/whetstorm/items/rare_cinder_stitched_robes.webp",
+      "outputSha256": "1bb3c10ccc80e846d9ba26fb68f14a91ee5762a5fdca773626f917da72108e00"
+    },
+    {
+      "id": "rare_molten_clinker_girdle",
+      "prompt": "Original opaque square fantasy game inventory item painting: one worn mail armor girdle, broad dull dark iron linked belt with chipped forged plates, soot stains, rough leather repairs and a simple dark orange buckle. Clear horizontal belt silhouette, no body, character, animal or creature. Premium hand-painted dark fantasy, charcoal background, warm light, legible at 22px. No words, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/emberforge-tarnished/rare_molten_clinker_girdle.png",
+      "sourceSha256": "a570ab5fa4c30f1421d3ecfebd5b7ca1cf8862caf60e84ecc0c7ab2dbbbe200b",
+      "output": "public/ui/whetstorm/items/rare_molten_clinker_girdle.webp",
+      "outputSha256": "6087aa12fc2c951bd013bf2f9666ae4afbe73c437e89f094a77ecb066fac893f"
+    }
+  ]
+}

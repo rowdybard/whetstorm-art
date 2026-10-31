@@ -1,0 +1,14 @@
+{
+  "generator": "Built-in imagegen; independent generation; no source references",
+  "processing": "sharp resize 128x128, WebP quality 88 effort 6",
+  "images": [
+    {
+      "id": "cinder_of_the_first_design",
+      "master": "docs/design/whetstorm-art/items/cinder-first-design-original/cinder_of_the_first_design.png",
+      "output": "public/ui/whetstorm/items/cinder_of_the_first_design.webp",
+      "masterSha256": "072e5260113b768cd1b7d2c9fcb1bab6acf9da7c79b6a99b681e33fc584bfc93",
+      "outputSha256": "e21d7453a02984e46d2d5e5c788b3a9f1ee7ed17aa1bbb8d29f4daf32bf24e1c",
+      "prompt": "Original square painted fantasy RPG inventory icon for Cinder of the First Design, a heroic caster's held offhand. A single jagged glowing ember shaped like a bright triangular shard, held inside an open dark forged-metal three-pronged cradle with a short visible handgrip beneath it. Bold triangular flame and three-pronged silhouette dominate the square, centered, dark charcoal background, legible at 28 pixels, rich painterly brushwork. No person, text, letters, numbers, logos, frame or watermark."
+    }
+  ]
+}

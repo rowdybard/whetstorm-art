@@ -34,6 +34,7 @@ import { bramblehideArmorSecondItemImageUrl } from './bramblehide_armor_second_i
 import { choirGraveIgnivarItemImageUrl } from './choir_grave_ignivar_item_art';
 import { churchClothOriginalItemImageUrl } from './church_cloth_original_item_art';
 import { cinderSlagItemImageUrl } from './cinder_slag_item_art';
+import { cinderFirstDesignItemImageUrl } from './cinder_first_design_item_art';
 import { cleaverWildsoulItemImageUrl } from './cleaver_wildsoul_item_art';
 import { clothBatchFiveItemImageUrl } from './cloth_batch_five_item_art';
 import { clothBatchFourItemImageUrl } from './cloth_batch_four_item_art';
@@ -151,6 +152,7 @@ import { highpineArgumentItemImageUrl } from './highpine_argument_item_art';
 import { highwatchWeaponItemImageUrl } from './highwatch_weapon_item_art';
 import { hoardJewelryItemImageUrl } from './hoard_jewelry_item_art';
 import { hoardJewelrySecondItemImageUrl } from './hoard_jewelry_second_item_art';
+import { voidTidesHoardTierItemImageUrl } from './void_tides_hoard_tier_item_art';
 import { inscriptionBooksItemImageUrl } from './inscription_books_item_art';
 import { jewelryAbyssRingsItemImageUrl } from './jewelry_abyss_rings_item_art';
 import { jewelryBatchApexItemImageUrl } from './jewelry_batch_apex_item_art';
@@ -402,6 +404,7 @@ export function paintedItemImageUrl(id: string): string | null {
     craftedReagentBagsItemImageUrl(id) ??
     apexFlasksItemImageUrl(id) ??
     cinderSlagItemImageUrl(id) ??
+    cinderFirstDesignItemImageUrl(id) ??
     wovenBagsItemImageUrl(id) ??
     craftedGroupFeastsItemImageUrl(id) ??
     factionBagsItemImageUrl(id) ??
@@ -454,6 +457,7 @@ export function paintedItemImageUrl(id: string): string | null {
     dawnweaveArmorItemImageUrl(id) ??
     hoardJewelryItemImageUrl(id) ??
     hoardJewelrySecondItemImageUrl(id) ??
+    voidTidesHoardTierItemImageUrl(id) ??
     vaelLeatherOriginalItemImageUrl(id) ??
     heroicMailOriginalItemImageUrl(id) ??
     farmProduceOriginalItemImageUrl(id) ??
