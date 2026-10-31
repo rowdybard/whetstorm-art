@@ -22,3 +22,16 @@ Prompt: Original painted dark fantasy RPG inventory icon, square opaque, text-on
 
 Master SHA-256: `20e091e5e86e3178f0a6e9331d22c747f8da977b74a56ae7b4f3f96f46a2372e`
 WebP SHA-256: `e61a24f4ffd4f4bb46c2bd48735f99396fc9ca80627ab779ca932418eae847c1`
+## springmender_gloves
+
+Prompt: Original painted dark fantasy RPG inventory icon, square opaque, text-only no references. A pair of shaman healer mail gauntlets with teal patinated metal, silver chainmail and flowing spring-water motifs, warm pearl highlights. Large clear five-finger glove silhouettes centered, readable at 28px, dark blue background, painterly dramatic lighting. No text, letters, numbers, frame, watermark or UI.
+
+Master SHA-256: `cf68b8cf3a2ad8a3e5e5a919171493ab45292439a4d67ff5aff2ff87266b67d0`
+WebP SHA-256: `7af737f359a75829e4790e0b565c1a9d0cd4de1e074f6c649ff19f3194026bb2`
+
+## springmender_legs
+
+Prompt: Original painted dark fantasy RPG inventory icon, square opaque, text-only no references. A pair of shaman healer mail legguards with teal patinated metal, silver chainmail and flowing spring-water motifs, warm pearl highlights. Large clear paired leg silhouettes centered, readable at 28px, dark blue background, painterly dramatic lighting. No text, letters, numbers, frame, watermark or UI.
+
+Master SHA-256: `30d8e57653d0aaca656d6ea2baf0eca53eafec5a608e522296a0f175ad053ac9`
+WebP SHA-256: `5f7aa74c517f8fd3a4d63f6b605e23200f998daef8700cfa1f2d7e140e5f1682`

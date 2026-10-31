@@ -1203,7 +1203,7 @@ Three Emberscreed armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/emberscreed/provenance.md`.
 
-Four epic armor, three Springmender armor, and three progression reward
+Four epic armor, five Springmender armor, and three progression reward
 paintings were generated with OpenAI's built-in image generation. Prompts and
 hashes are recorded in `docs/design/whetstorm-art/items/vysska-epic/provenance.json`,
 `docs/design/whetstorm-art/items/springmender/provenance.md`, and
