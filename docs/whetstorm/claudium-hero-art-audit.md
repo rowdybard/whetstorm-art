@@ -43,7 +43,11 @@ other catalog skins. For example, the Hoarfrost `ice_fang_sword.webp` and
 Fallen Star `solheim_sword.webp` thumbnails are covered by the Season 1 Armory
 storefront-render credit marked permission-required. The Store builds its
 catalog rows even when a service price is absent, subject to the Store surface
-being enabled and opened.
+being enabled and opened. That Store gate does not govern every consumer of
+these thumbnails: `src/ui/hud/cosmetics/cosmetics_cards_view.ts` also uses
+`armorySkinArt` for weapon cosmetics, and `src/ui/reliquary_cell_art.ts` uses it
+for weapon-skin relics. Their own visibility and ownership conditions must be
+checked separately.
 
 The same view constructs `/ui/store/mount_skins/<skinId>.webp` for the active
 `mech_bird`, `chimeglass_tortoise`, `rickshaw_mount`, and
@@ -62,4 +66,6 @@ is not in the current four-entry `MOUNT_SKINS` catalog; no active selection of
 that fifth file was established. `mountSkinArt` currently has no Whetstorm
 original override, and a search found no existing mount-specific Whetstorm
 thumbnail for these four. Separate model and reins-image credits do not by
-themselves establish the thumbnail images' provenance or terms.
+themselves establish the thumbnail images' provenance or terms. The Cosmetics
+card view also calls `mountSkinArt` for mount cosmetics; its visibility and
+ownership conditions are separate from the Machine Stable Store gate.

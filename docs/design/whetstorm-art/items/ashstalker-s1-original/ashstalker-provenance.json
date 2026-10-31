@@ -1,0 +1,33 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "conversion": "sharp resize 128x128, WebP quality 82, effort 6",
+  "records": [
+    {
+      "id": "ashstalker_cowl",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Ashstalker Cowl, a single agile ranger's charcoal-gray leather hood with a bold open face silhouette, layered stitched hide and subdued burnt-amber accents. Worn but expertly crafted PvP leather armor, centered large on dark background. No wearer, face, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/ashstalker-s1-original/ashstalker_cowl.png",
+      "masterSha256": "1ff86616ed5f4ca4d5012edd59713daa1c455a5e05e18839332550acae1fde9b",
+      "shipping": "public/ui/whetstorm/items/ashstalker_cowl.webp",
+      "shippingSha256": "d966b7d41fcc39becc8fd8b84b9f89bfec1826b15cec84d2a8c3b807e8111572"
+    },
+    {
+      "id": "ashstalker_shoulderguards",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Ashstalker Shoulderguards, a pair of agile ranger's charcoal-gray leather shoulder guards with clear separated shoulder silhouette, layered stitched hide and subdued burnt-amber accents. Worn but expertly crafted PvP leather armor, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/ashstalker-s1-original/ashstalker_shoulderguards.png",
+      "masterSha256": "316b4cef5cbcce3d118cb3a1383c7695cc92370a670365445a8d95127bf03ea8",
+      "shipping": "public/ui/whetstorm/items/ashstalker_shoulderguards.webp",
+      "shippingSha256": "c66472f4d54b384e7f73ea6f959b7dd5d76d37f996cfbf6d883a78321184532f"
+    },
+    {
+      "id": "ashstalker_harness",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Ashstalker Harness, a single agile ranger's charcoal-gray leather chest armor with bold unmistakable torso silhouette, layered stitched hide, crossed straps and subdued burnt-amber accents. Worn but expertly crafted PvP leather armor, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/ashstalker-s1-original/ashstalker_harness.png",
+      "masterSha256": "dff5ec08f36785265c4bdf1b2dc42c3fe478ccb73429491f167f74651fcccc24",
+      "shipping": "public/ui/whetstorm/items/ashstalker_harness.webp",
+      "shippingSha256": "1146eba51017217fc844964be89b5445471832c53d2c7ac82b94a7b77e535f71"
+    }
+  ]
+}

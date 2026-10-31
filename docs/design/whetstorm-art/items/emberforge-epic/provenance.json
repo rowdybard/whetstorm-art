@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for epic Emberforge hoard armor; rare and Sovereign variants remain unmapped.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Production item lookup integrated and focused checks passed; in-game review pending.",
+  "entries": [
+    {
+      "id": "ember_wrought_crown",
+      "prompt": "Original opaque square fantasy game inventory item painting: a single empty mail crown helmet, dark forged iron circlet with visible linked steel mesh, three upward forge-tong shaped metal points and restrained glowing ember-orange seams. Clear crown helmet silhouette, no head, face, character, body, animals or creatures. Premium hand-painted dark fantasy, charcoal background, warm light, legible at 22px. No words, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/emberforge-epic/ember_wrought_crown.png",
+      "sourceSha256": "01df4f420b15c5e63278f2164028caab406b3edeb13efc2d8c3db58377babb32",
+      "output": "public/ui/whetstorm/items/ember_wrought_crown.webp",
+      "outputSha256": "af72196d7ce1955dd2dd9daad7cf41237c4688253361af68037082e66de9b0da"
+    },
+    {
+      "id": "cinder_stitched_robes",
+      "prompt": "Original opaque square fantasy game inventory item painting: one empty full-length cloth robe, dark charcoal woven fabric with burnt red hem, ember-orange cinder stitching and simple tapered sleeves, long split cloth panels. Clear robe silhouette, no person, head, face, character, animals or creatures. Premium hand-painted dark fantasy, charcoal background, warm light, legible at 22px. No words, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/emberforge-epic/cinder_stitched_robes.png",
+      "sourceSha256": "371b801e8ea2be7ad98e3b675bbb33182627877dd4d25bb8478bc77b58e1380c",
+      "output": "public/ui/whetstorm/items/cinder_stitched_robes.webp",
+      "outputSha256": "1ae2be9d4887fe693dfd8bac119a16461c34fa99e156faee9559f63ad45ca69a"
+    },
+    {
+      "id": "molten_clinker_girdle",
+      "prompt": "Original opaque square fantasy game inventory item painting: one mail armor girdle, broad dark linked iron belt with angular forged plates, rough volcanic clinker textures and a glowing orange diamond buckle, short articulated metal tabs. Clear horizontal belt silhouette, no body, character, animals or creatures. Premium hand-painted dark fantasy, charcoal background, warm light, legible at 22px. No words, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/emberforge-epic/molten_clinker_girdle.png",
+      "sourceSha256": "25706ce1a1ea324621ae331707cedb22f290a467467284c044c765072ec69b3a",
+      "output": "public/ui/whetstorm/items/molten_clinker_girdle.webp",
+      "outputSha256": "4d7fb6d7884e2de65b0591891f0a36858035bdd0f2ab48b5c9d77b834627c3f3"
+    }
+  ]
+}

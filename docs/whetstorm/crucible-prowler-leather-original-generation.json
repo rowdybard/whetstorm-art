@@ -1,0 +1,40 @@
+{
+  "generator": "Built-in imagegen; three independent generations; no source references",
+  "processing": "sharp resize 128x128, WebP quality 88 effort 6",
+  "images": [
+    {
+      "id": "crucible_str_leather_chest",
+      "master": "docs/design/whetstorm-art/items/crucible-prowler-leather-original/crucible_str_leather_chest.png",
+      "output": "public/ui/whetstorm/items/crucible_str_leather_chest.webp",
+      "masterSha256": "087c471d417c5317796e9b0ea07e2d1600c65cfc54f54e24d0cf19102e1ee9c7",
+      "outputSha256": "8473319d26ff3da7842dba7dc83b082b255c5f1fef62d92b4e4d1d4eecd5bfc2",
+      "prompt": "Original square painted fantasy RPG inventory icon of a Prowler strength leather chest jerkin for a druid. One unworn rugged brown hide vest with thick fur and a single very large curved antler shoulder piece on the LEFT, asymmetrical silhouette, heavy leather stitching and bone toggles. No metal armor, no wearer, entire item centered on a dark backdrop, clear bold silhouette legible at 28px, painterly. No text, letters, numbers, logo, border or watermark."
+    },
+    {
+      "id": "crucible_str_leather_waist",
+      "master": "docs/design/whetstorm-art/items/crucible-prowler-leather-original/crucible_str_leather_waist.png",
+      "output": "public/ui/whetstorm/items/crucible_str_leather_waist.webp",
+      "masterSha256": "7e3a6da66c35347e00b47d57a7d2585af70bac4c3407076dcda59fab77d17d65",
+      "outputSha256": "6840b7fc663140a9c90cb581430a88c09f537ab597204e851046f4e9b8e571b3",
+      "prompt": "Original square painted fantasy RPG inventory icon of a Prowler strength leather waist belt for a druid. One broad rugged brown hide belt with a huge forked antler-shaped buckle spreading horizontally, a single thick fur pelt tail hanging down on RIGHT, bone toggles and leather stitching. No metal armor, no wearer, entire item centered on dark backdrop, clear bold silhouette legible at 28px, painterly. No text, letters, numbers, logo, border or watermark."
+    },
+    {
+      "id": "crucible_str_leather_feet",
+      "master": "docs/design/whetstorm-art/items/crucible-prowler-leather-original/crucible_str_leather_feet.png",
+      "output": "public/ui/whetstorm/items/crucible_str_leather_feet.webp",
+      "masterSha256": "a419bb94403045dadf9399e4153156781ab09b8818909729175686ec0f8010b1",
+      "outputSha256": "e5c76a61b53daf475ff52a52f620776f34420996e2112553a3d95116c03ea76a",
+      "prompt": "Original square fantasy RPG inventory painting: TWO LARGE rugged brown leather Prowler boots, unworn, front-facing with broad rounded toes at the bottom and tall shafts, boots fill nearly the whole square. Chunky stitched hide, crossed leather straps and thick soles, short pale fur trim ONLY at upper rims, with tiny bone toggle accents. The two boots must be the sole dominant subject and unmistakably readable at 28px; their paired upright shapes are clear against a plain near-black background. No large antlers, horns, accessories, person, text, lettering, logo, border or watermark.",
+      "previousVersion": {
+        "masterSha256": "1670b5234c712a993a575e054bcb2a470827710b6db2af6895baa651e8f4d02e",
+        "outputSha256": "852f445ad18cf3620e8bcd3a1559cad4a35e711e4e64a568133b871a90881d46",
+        "prompt": "Original square fantasy RPG inventory painting, rugged Prowler strength leather BOOTS for a druid: TWO short brown stitched-hide boots shown together symmetrically facing FRONT, toes pointing down toward viewer, with two huge pale antlers crossing above the pair to make a bold unmistakable X silhouette, bound to their low fur collars. Both boots fully visible, large centered on dark background. Strong X and paired boot shapes readable at 28 pixels, no metal armor, no wearer, no text, letters, numbers, logo, border or watermark.",
+        "previousVersion": {
+          "masterSha256": "d6652e307e217c719d3d0e7c76c4f1af6f9393e2471fdc9d641d68744b4a4aab",
+          "outputSha256": "022be3986e169004e8577d01ed3b1f541eaa7d266506403e87f655346d7923e0",
+          "prompt": "Original square painted fantasy RPG inventory icon of a Prowler strength leather boot for a druid. ONE unworn stout rugged brown hide boot in side profile pointing RIGHT, with a huge fluffy fur cuff flaring outward into a wide horned V silhouette, thick leather straps and stitching. No metal armor, no wearer, full object centered on dark backdrop, clear bold silhouette legible at 28px, painterly. No text, letters, numbers, logo, border or watermark."
+        }
+      }
+    }
+  ]
+}

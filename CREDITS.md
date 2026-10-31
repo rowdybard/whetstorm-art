@@ -1267,6 +1267,16 @@ hashes are recorded in `docs/design/whetstorm-art/items/stormbound-s1-second-ori
 `docs/whetstorm/crucible-healer-mail-original-generation.json`, and
 `docs/design/whetstorm-art/items/crucible-guardian-leather-equipment/equipment-provenance.md`.
 
+Three Skirmisher, three Prowler, and three Ashstalker item paintings were
+generated with OpenAI's built-in image generation. Prompts and hashes are in
+`docs/design/whetstorm-art/items/crucible-skirmisher-leather-equipment/equipment-provenance.md`,
+`docs/whetstorm/crucible-prowler-leather-original-generation.json`, and
+`docs/design/whetstorm-art/items/ashstalker-s1-original/ashstalker-provenance.json`.
+
+Three epic Ember armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/emberforge-epic/provenance.json`.
+
 Three Tarnished bone armor paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/bone-legion-tarnished/provenance.json`.
