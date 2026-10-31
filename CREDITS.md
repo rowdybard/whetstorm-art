@@ -1187,6 +1187,10 @@ Four abstract hidden-deed paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/whetstorm/deed-hidden-abstract-four-generation.json`.
 
+Four additional abstract hidden-deed paintings were generated with OpenAI's
+built-in image generation; prompts and hashes are recorded in
+`docs/whetstorm/deed-hidden-abstract-next-generation.json`.
+
 Three Tarnished Grask armor paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/grask-tarnished/provenance.json`.
@@ -1198,6 +1202,12 @@ image generation; prompts and hashes are recorded in
 Three Emberscreed armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/emberscreed/provenance.md`.
+
+Four epic armor, three Springmender armor, and three progression reward
+paintings were generated with OpenAI's built-in image generation. Prompts and
+hashes are recorded in `docs/design/whetstorm-art/items/vysska-epic/provenance.json`,
+`docs/design/whetstorm-art/items/springmender/provenance.md`, and
+`docs/whetstorm/progression-rewards-generation.json`.
 
 Three Crucible healer and cloth pattern paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in

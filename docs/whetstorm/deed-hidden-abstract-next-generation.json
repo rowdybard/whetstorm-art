@@ -1,0 +1,56 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputs": "No reference images",
+  "processing": "Sharp 128x128 opaque WebP quality 88 effort 6",
+  "entries": [
+    {
+      "id": "hid_keepers_toll_twice",
+      "path": "public/ui/whetstorm/deeds/hid_keepers_toll_twice.webp",
+      "bytes": 5596,
+      "sha256": "1f24b340b4e58d36b83e87ac9fdf64c3499a258f85ff7ed80704c73d8ab9a325",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/hidden-abstract-next/hid_keepers_toll_twice.png",
+        "bytes": 2490993,
+        "sha256": "d0ed235552b4221cdbb32202c9f1a13caacf3e34c37f80a104785573e6110a99"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game hidden achievement icon. A single silver crescent hovering inside a deep teal circular halo. Abstract decorative motif only, no narrative clues. Hand-painted dark fantasy illustration, centered bold silhouette, high contrast and readable at 28 pixels. No words, letters, numerals, border, logo or watermark."
+    },
+    {
+      "id": "hid_companion_save",
+      "path": "public/ui/whetstorm/deeds/hid_companion_save.webp",
+      "bytes": 4406,
+      "sha256": "8d26087f1c837c834d3134f3e448b7b18bb85dd47f2a5f0f1e0b300bae0e7025",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/hidden-abstract-next/hid_companion_save.png",
+        "bytes": 2231418,
+        "sha256": "20d3c937acea2dd8f35536c9a84d54fbcccc66706ea548328fb6916e21d2a360"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game hidden achievement icon. A faceted violet diamond framed by four small gold points on a dark indigo field. Abstract decorative motif only, no narrative clues. Hand-painted dark fantasy illustration, centered bold silhouette, high contrast and readable at 28 pixels. No words, letters, numerals, border, logo or watermark."
+    },
+    {
+      "id": "hid_codfather",
+      "path": "public/ui/whetstorm/deeds/hid_codfather.webp",
+      "bytes": 5086,
+      "sha256": "00458fa0a82ba9ea17c69392d800b3650b3eed33cc92f44763113417ed6287e1",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/hidden-abstract-next/hid_codfather.png",
+        "bytes": 2518961,
+        "sha256": "c8b7c36c10dbc5f2a45850cd8f5c036f2f5242b69b4bf13f1015a242982a2594"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game hidden achievement icon. A bright turquoise four-petal geometric rosette inside a polished silver oval on a dark blue field. Abstract decorative motif only, no narrative clues. Hand-painted dark fantasy illustration, centered bold silhouette, high contrast and readable at 28 pixels. No water, wave, creatures, objects, words, letters, numerals, border, logo or watermark."
+    },
+    {
+      "id": "hid_forgebreaker",
+      "path": "public/ui/whetstorm/deeds/hid_forgebreaker.webp",
+      "bytes": 4864,
+      "sha256": "53de8d61efaf3bf5bf38cf219b76b4bc36cdf1465ae18986a84353a6dd63c993",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/hidden-abstract-next/hid_forgebreaker.png",
+        "bytes": 2158727,
+        "sha256": "8c694b1b70b2075fb3237b1eb28015856cd02f22b3a6547bd020389a061b9f76"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game hidden achievement icon. A bronze sunburst with a red central gem against a dark charcoal field. Abstract decorative motif only, no narrative clues. Hand-painted dark fantasy illustration, centered bold silhouette, high contrast and readable at 28 pixels. No words, letters, numerals, border, logo or watermark."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected full source images; small-size and in-game review pending.",
+  "records": [
+    {
+      "id": "heroic_mark",
+      "prompt": "Square painted fantasy MMO inventory icon: Heroic Mark, one compact silver medal with a bold raised five-point star and short blue ribbon loop. Center complete single object with generous margin; tactile silver, warm top-left light, dark charcoal painted backdrop. Bold medal silhouette readable at 22px. No letters, numbers, text, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/heroic_mark.png",
+      "masterSha256": "36768e8cabe1e602f9938aa939a01ddc1a4f62b3ae7807fbe4492bda5257ee89",
+      "shipping": "public/ui/whetstorm/items/heroic_mark.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "fd075f33a63d145c6397ad0563f61f05d2efb6d2d58e51d077be8be4c326f644"
+    },
+    {
+      "id": "emissary_cache",
+      "prompt": "Square painted fantasy MMO inventory icon: Emissary's Cache, one closed compact wooden treasure chest with bronze bands and a sealed clasp, viewed slightly from above. Center complete single object with generous margin; tactile wood and metal, warm top-left light, dark charcoal painted backdrop. Bold chest silhouette readable at 22px. No letters, numbers, text, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/emissary_cache.png",
+      "masterSha256": "21cf9cfee1c76076efc8d6ee1d83ff9d78dbebcd5149aa8c0257d4c27b8eafc7",
+      "shipping": "public/ui/whetstorm/items/emissary_cache.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "8b20e65306db0c2772bfad3ddc8eab71e53cf0d0950d4b8afb8f56a2c5fd7cce"
+    },
+    {
+      "id": "makers_ember",
+      "prompt": "Square painted fantasy MMO inventory icon: Maker's Ember, one glowing orange ember held in a small blackened iron forging clasp with a short handle, a compact single crafting token. Center complete single object with generous margin; tactile iron and restrained fire, warm top-left light, dark charcoal painted backdrop. Bold ember silhouette readable at 22px. No letters, numbers, text, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/makers_ember.png",
+      "masterSha256": "918e285c5f42dd839fcbc0d34f3a9253b404e30f5dabc629ab01d33c031c875a",
+      "shipping": "public/ui/whetstorm/items/makers_ember.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "a7d00cd9012999bd23788d722859d7294e470460281017c52b59c7a2959abbdf"
+    }
+  ]
+}
