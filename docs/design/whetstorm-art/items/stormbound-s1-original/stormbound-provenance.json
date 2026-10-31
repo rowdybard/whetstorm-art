@@ -1,0 +1,33 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "conversion": "sharp resize 128x128, WebP quality 82, effort 6",
+  "records": [
+    {
+      "id": "stormbound_crown",
+      "prompt": "Original hand-painted fantasy RPG item icon: Stormbound Crown, a single imposing caster mail helmet with a bold open face silhouette, silver-blue forged metal, chainmail accents, lightning-blue inlays and restrained pale gold trim. Storm-inspired, battle-worn, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/stormbound-s1-original/stormbound_crown.png",
+      "masterSha256": "3d9fdebf567b7e04240a90d0308c23ccb7f541fbb4b24dcdaa05feeaafa45f16",
+      "shipping": "public/ui/whetstorm/items/stormbound_crown.webp",
+      "shippingSha256": "07b3745c527e9831fe2abb77801a92a737d0b5dc405de3784299cccf7d6f4b01"
+    },
+    {
+      "id": "stormbound_spaulders",
+      "prompt": "Original hand-painted fantasy RPG item icon: Stormbound Spaulders, a pair of broad caster mail shoulder guards with clear separated shoulder silhouette, silver-blue forged metal, chainmail accents, lightning-blue inlays and restrained pale gold trim. Storm-inspired, battle-worn, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/stormbound-s1-original/stormbound_spaulders.png",
+      "masterSha256": "84be7e9b9eb56ed90f9c90f22b74464d580c1c92e2360f1298fd53bd495af543",
+      "shipping": "public/ui/whetstorm/items/stormbound_spaulders.webp",
+      "shippingSha256": "87886377224e8f04dc925f92ddc3531871d8dff254517b20249515705427acf9"
+    },
+    {
+      "id": "stormbound_hauberk",
+      "prompt": "Original hand-painted fantasy RPG item icon: Stormbound Hauberk, a single caster mail torso armor with a bold unmistakable chest silhouette and visible mail links, silver-blue forged metal, lightning-blue inlays and restrained pale gold trim. Storm-inspired, battle-worn, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/stormbound-s1-original/stormbound_hauberk.png",
+      "masterSha256": "3359ded1d3aff67506b5b9490077fe390484cc4a3b51be3dfac7feefe2cfca37",
+      "shipping": "public/ui/whetstorm/items/stormbound_hauberk.webp",
+      "shippingSha256": "21e78a8f30095b6f2485471583d88e3bd273f9b369fca394d7593aaa7090b291"
+    }
+  ]
+}

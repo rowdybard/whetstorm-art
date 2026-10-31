@@ -57,7 +57,9 @@ import { crucibleLeatherPatternItemImageUrl } from './crucible_leather_pattern_i
 import { crucibleHealerClothPatternItemImageUrl } from './crucible_healer_cloth_pattern_item_art';
 import { crucibleHealerClothItemImageUrl } from './crucible_healer_cloth_item_art';
 import { crucibleCasterLeatherEquipmentImageUrl } from './crucible_caster_leather_equipment_art';
+import { crucibleCasterClothEquipmentImageUrl } from './crucible_caster_cloth_equipment_art';
 import { crucibleStrikerMailItemImageUrl } from './crucible_striker_mail_item_art';
+import { crucibleSpellcasterMailItemImageUrl } from './crucible_spellcaster_mail_item_art';
 import { crucibleGuardianMailItemImageUrl } from './crucible_guardian_mail_item_art';
 import { crucibleHealerLeatherEquipmentImageUrl } from './crucible_healer_leather_equipment_art';
 import { crozierSparksItemImageUrl } from './crozier_sparks_item_art';
@@ -74,6 +76,7 @@ import { emberscreedItemImageUrl } from './emberscreed_item_art';
 import { springmenderItemImageUrl } from './springmender_item_art';
 import { tempestEpicItemImageUrl } from './tempest_epic_item_art';
 import { stormBucklerTierItemImageUrl } from './storm_buckler_tier_item_art';
+import { stormboundS1ItemImageUrl } from './stormbound_s1_item_art';
 import { vysskaEpicItemImageUrl } from './vysska_epic_item_art';
 import { progressionRewardItemImageUrl } from './progression_reward_item_art';
 import { heroicTrinketItemImageUrl } from './heroic_trinket_item_art';
@@ -296,6 +299,9 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    stormboundS1ItemImageUrl(id) ??
+    crucibleCasterClothEquipmentImageUrl(id) ??
+    crucibleSpellcasterMailItemImageUrl(id) ??
     crucibleGuardianMailItemImageUrl(id) ??
     crucibleHealerLeatherEquipmentImageUrl(id) ??
     boneLegionEpicItemImageUrl(id) ??

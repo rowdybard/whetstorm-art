@@ -1,0 +1,30 @@
+{
+  "generator": "Built-in imagegen; three independent generations; no source references",
+  "processing": "sharp resize 128x128, WebP quality 88 effort 6",
+  "images": [
+    {
+      "id": "crucible_caster_mail_chest",
+      "master": "docs/design/whetstorm-art/items/crucible-spellcaster-mail-original/crucible_caster_mail_chest.png",
+      "output": "public/ui/whetstorm/items/crucible_caster_mail_chest.webp",
+      "masterSha256": "72153d24cbba4376818686d8bd768ef9042c6fc6c0c427a97aa11c636ab440ad",
+      "outputSha256": "ecc66a02a2d044eebaa0fd3345c5ca9360027df38e03c8f56b4726bf19161efc",
+      "prompt": "Original square painted fantasy RPG inventory icon: an unworn SPELLCASTER'S MAIL chest piece for a shaman, an asymmetrical sleeveless chainmail vest with tall flared collar, a single large crescent shoulder guard on one side and three visible hanging violet crystal pendants, dark steel and violet highlights. Clearly recognizable chain mail, no wearer, full centered item on dark background. Strong simple asymmetric silhouette readable at 28px, painterly. No words, letters, numbers, logo, border or watermark."
+    },
+    {
+      "id": "crucible_caster_mail_waist",
+      "master": "docs/design/whetstorm-art/items/crucible-spellcaster-mail-original/crucible_caster_mail_waist.png",
+      "output": "public/ui/whetstorm/items/crucible_caster_mail_waist.webp",
+      "masterSha256": "4514bd81220149559806d4c2f33af52273b0b0cc5ce96decbfe5c995b7cd6ed5",
+      "outputSha256": "a0034243a925ba19c764421ed44f3776d2c4dd7e5c930c3303546a139a68de33",
+      "prompt": "Original square painted fantasy RPG inventory icon: an unworn SPELLCASTER'S MAIL belt for a shaman, a diagonal chainmail sash belt with one very large crescent-shaped metal buckle and three dangling violet crystal teardrops beneath it, dark steel with violet highlights. No wearer, full centered item on dark background. Strong simple crescent-and-pendants silhouette readable at 28px, painterly. No words, letters, numbers, logo, border or watermark."
+    },
+    {
+      "id": "crucible_caster_mail_feet",
+      "master": "docs/design/whetstorm-art/items/crucible-spellcaster-mail-original/crucible_caster_mail_feet.png",
+      "output": "public/ui/whetstorm/items/crucible_caster_mail_feet.webp",
+      "masterSha256": "b31e31776e365e9bf114b20ac1664f7e7afac3f2a999be8371be8b5e26c97312",
+      "outputSha256": "f3b68431ad281fb553f71dc71e7f2071983d5d9e1d8142976d8f2620092199f4",
+      "prompt": "Original square painted fantasy RPG inventory icon: one unworn SPELLCASTER'S MAIL sabaton boot for a shaman, side profile pointing right, with a very large crescent-shaped upturned toe and three small dangling violet crystal charms at the ankle, chainmail clearly visible at the joint, dark steel and violet highlights. Full centered boot on dark background. Strong simple crescent toe silhouette readable at 28px, painterly. No person, words, letters, numbers, logo, border or watermark."
+    }
+  ]
+}

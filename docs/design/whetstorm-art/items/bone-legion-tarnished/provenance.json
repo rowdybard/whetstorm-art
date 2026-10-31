@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for rare Tarnished bone legion hoard armor; Sovereign variants remain unmapped.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "In-game review pending.",
+  "entries": [
+    {
+      "id": "rare_bone_studded_pauldrons",
+      "prompt": "Original opaque square fantasy game inventory painting: one pair of worn mail shoulder guards, scuffed dull iron plates and chain links, a few chipped ivory-colored bone studs, rough brown leather repairs. Clear separated shoulder silhouettes; no person, character, animal or creature. Modest practical dark fantasy item, charcoal backdrop, warm light, readable at 22px. No writing, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/bone-legion-tarnished/rare_bone_studded_pauldrons.png",
+      "sourceSha256": "2eedf7f94a33e29611cf2804fdf1f50b2621d454cc361fbf7ef912ec5091b7d6",
+      "output": "public/ui/whetstorm/items/rare_bone_studded_pauldrons.webp",
+      "outputSha256": "771151de3855b465488bd2b3648f5a6e5d9954ba1df35fa34dc106f463a049c6"
+    },
+    {
+      "id": "rare_legguards_of_the_ossuary",
+      "prompt": "Original opaque square fantasy game inventory painting: one pair of worn leather legguards, scuffed brown leather trousers with patched seams, chipped pale bone-shaped knee plates and simple straps; cropped at the ankles with no footwear. Clear full pants silhouette, no body, person, character, animal or creature. Modest practical dark fantasy item, charcoal backdrop, warm light, readable at 22px. No writing, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/bone-legion-tarnished/rare_legguards_of_the_ossuary.png",
+      "sourceSha256": "e9a76806dcbdcba5fa5cdb800f6574154898b9f50e7629b45722217b2c32750a",
+      "output": "public/ui/whetstorm/items/rare_legguards_of_the_ossuary.webp",
+      "outputSha256": "57a692fc3e096d65fd59ecd97566ffa625e9260d803f71ef5a7a43a09fa72eaa"
+    },
+    {
+      "id": "rare_ossuary_bone_crown",
+      "prompt": "Original opaque square fantasy game inventory painting: a worn cloth crown cap, frayed dark brown woven cloth supporting a few short chipped ivory bone-shaped slats bound with rough thread, empty open interior. Clear low crown silhouette; no head, face, person, character, animal or creature. Modest practical dark fantasy item, charcoal backdrop, warm light, readable at 22px. No writing, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/bone-legion-tarnished/rare_ossuary_bone_crown.png",
+      "sourceSha256": "7a180c0c645afb813910e255e11873ba6e18b8f2f2d64db00568b062be8bc2fb",
+      "output": "public/ui/whetstorm/items/rare_ossuary_bone_crown.webp",
+      "outputSha256": "53d055c1a49e9888ed154a0da89761572f09f6cfd62a5256dc6a0f3fb7e77dd1"
+    }
+  ]
+}
