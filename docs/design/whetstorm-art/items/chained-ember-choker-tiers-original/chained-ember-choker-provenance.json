@@ -1,0 +1,24 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "conversion": "sharp resize 128x128, WebP quality 82, effort 6",
+  "records": [
+    {
+      "id": "rare_chained_ember_choker",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Tarnished Chained Ember Choker, a simple worn dark iron neck chain with one small ember glowing within an angular soot-stained iron cage, visibly weathered. Clear circular necklace silhouette, centered large on dark charcoal background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/chained-ember-choker-tiers-original/rare_chained_ember_choker.png",
+      "masterSha256": "8a555b5fe64679c5bdd6e1e7182a44c5a05f4ed1a42dda838dc04b8e889e39ef",
+      "shipping": "public/ui/whetstorm/items/rare_chained_ember_choker.webp",
+      "shippingSha256": "ce99e2f1e3e7d9835b58410f2c7e6eb412bf16bfe0ec23c253b4b029fbd830ab"
+    },
+    {
+      "id": "legendary_chained_ember_choker",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Sovereign Chained Ember Choker, a majestic heavy dark forged neck chain suspending a large radiant molten ember in an ornate gold and black iron sunburst setting, regal but clearly a wearable necklace. Clear necklace silhouette, centered large on dark charcoal background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/chained-ember-choker-tiers-original/legendary_chained_ember_choker.png",
+      "masterSha256": "6639ce919652a2767e7d2f9d658f8951125f95c2c11280d5b2fb8d13afc7bf53",
+      "shipping": "public/ui/whetstorm/items/legendary_chained_ember_choker.webp",
+      "shippingSha256": "33919a8660f833e6a688f6e516531b365edbf698f0c5a14d63bf4e69f1d252e6"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "generator": "Built-in imagegen; two independent generations; no source references",
+  "processing": "sharp resize 128x128, WebP quality 88 effort 6",
+  "images": [
+    {
+      "id": "stonehearth_gloves",
+      "master": "docs/design/whetstorm-art/items/stonehearth-lower-original/stonehearth_gloves.png",
+      "output": "public/ui/whetstorm/items/stonehearth_gloves.webp",
+      "masterSha256": "a5955cc4bd8ccda5fd443fb4256efffe9788566075308eb705de1b7cc4bf2bd2",
+      "outputSha256": "c4cf1cfea195d6aa1f97e9ad2e6af11e7a3ec1e39f83a5e3af6d4e85146ef47b",
+      "prompt": "Original square painted fantasy RPG inventory icon for Stonehearth Bastion, an epic shaman mail armor set: rugged dark bronze metal and clearly visible iron chainmail, rounded slate-gray stone inlays, small warm amber accents, dark charcoal backdrop. Unworn item, large centered distinct silhouette readable at 28px, painterly. No person, words, letters, numbers, logo, frame or watermark. A matching pair of mail GAUNTLETS, upright palms facing forward with five separate fingers, rounded stone inlays on backs and chainmail at joints, no shoulders or torso."
+    },
+    {
+      "id": "stonehearth_legs",
+      "master": "docs/design/whetstorm-art/items/stonehearth-lower-original/stonehearth_legs.png",
+      "output": "public/ui/whetstorm/items/stonehearth_legs.webp",
+      "masterSha256": "53dfda79d9cd2d7e9dde9c1d42ac9ed3d445be30ae9b2db992d169c6c40f6f7a",
+      "outputSha256": "22f093626f96e69bf4e38758ed390fe50afeadbad871ea8cc1a15832d5378c02",
+      "prompt": "Original square painted fantasy RPG inventory icon for Stonehearth Bastion, an epic shaman mail armor set: rugged dark bronze metal and clearly visible iron chainmail, rounded slate-gray stone inlays, small warm amber accents, dark charcoal backdrop. Unworn item, large centered distinct silhouette readable at 28px, painterly. No person, words, letters, numbers, logo, frame or watermark. A matching pair of mail LEGGUARDS, front view with two separate long trouser legs, visible chainmail and rounded stone-inlaid bronze knee guards, no boots or torso."
+    }
+  ]
+}

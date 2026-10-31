@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "cinderbark_cinch",
+      "file": "docs/design/whetstorm-art/ignivar-cinderbark-cinch-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory painting, square composition: one druid tank's broad leather waist belt, dark chestnut hide reinforced with overlapping charred bark plates and moss green stitching, simple bronze leaf-shaped buckle and ember cracks. Isolated complete belt coiled in oval, centered and large on dark muted forest background, richly hand-painted fantasy illustration, clear readable silhouette at 32 pixels. No text, lettering, borders, logos, watermark, characters, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "d143828090111d85cb756b6e4e36e47be0da5f391af0891cccc3beb7e9a5d018",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cinderbark_cinch.webp",
+        "sha256": "eea06522625b145e45749b93209866050b721d2f1da939e74200c2edd56ff65f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ashenbark_treads",
+      "file": "docs/design/whetstorm-art/ignivar-ashenbark-treads-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory painting, square composition: a matching pair of sturdy druid leather ankle boots, dark chestnut hide with protective ashen bark plates, moss green stitching and a few soft ember cracks. Isolated complete footwear, centered and large on dark muted forest background, richly hand-painted fantasy illustration, clear readable silhouette at 32 pixels. No text, lettering, borders, logos, watermark, characters, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "c04a3f6f1ae4fb3d1e660e6331843d77c616bc008f21b2830944cb7e725602d6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ashenbark_treads.webp",
+        "sha256": "2061f4b1117a62d0164f20c7bd93cac60a7651df407beda3f1f1954cf443d63c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

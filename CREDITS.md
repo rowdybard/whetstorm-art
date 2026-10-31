@@ -1357,6 +1357,27 @@ Three Rimewarden armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/rimewarden-upper-equipment/upper-provenance.md`.
 
+Two Cryptwalker ring tier paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/cryptwalker-ring-tiers/provenance.json`.
+
+Two Cinderbark armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/ignivar-cinderbark-offset-generation.json`.
+
+Two Slagstalker armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/ignivar-slagstalker-offset-generation.json`.
+
+Two Chained Ember Choker tier paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/chained-ember-choker-tiers-original/chained-ember-choker-provenance.json`.
+
+Two Stonehearth and two Rimewarden armor paintings were generated with OpenAI's
+built-in image generation; prompts and hashes are recorded in
+`docs/whetstorm/stonehearth-lower-original-generation.json` and
+`docs/design/whetstorm-art/items/rimewarden-lower-equipment/lower-provenance.md`.
+
 Three epic Ember armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/emberforge-epic/provenance.json`.

@@ -55,6 +55,12 @@ import { ignivarSpringClothItemImageUrl } from './ignivar_spring_cloth_item_art'
 import { stonehearthUpperItemImageUrl } from './stonehearth_upper_item_art';
 import { sovereignEmberforgeItemImageUrl } from './sovereign_emberforge_item_art';
 import { rimewardenUpperItemImageUrl } from './rimewarden_upper_item_art';
+import { cryptwalkerRingTierItemImageUrl } from './cryptwalker_ring_tier_item_art';
+import { ignivarCinderbarkOffsetItemImageUrl } from './ignivar_cinderbark_offset_item_art';
+import { ignivarSlagstalkerOffsetItemImageUrl } from './ignivar_slagstalker_offset_item_art';
+import { chainedEmberChokerTierItemImageUrl } from './chained_ember_choker_tier_item_art';
+import { stonehearthLowerItemImageUrl } from './stonehearth_lower_item_art';
+import { rimewardenLowerItemImageUrl } from './rimewarden_lower_item_art';
 import { cleaverWildsoulItemImageUrl } from './cleaver_wildsoul_item_art';
 import { clothBatchFiveItemImageUrl } from './cloth_batch_five_item_art';
 import { clothBatchFourItemImageUrl } from './cloth_batch_four_item_art';
@@ -445,6 +451,12 @@ export function paintedItemImageUrl(id: string): string | null {
     stonehearthUpperItemImageUrl(id) ??
     sovereignEmberforgeItemImageUrl(id) ??
     rimewardenUpperItemImageUrl(id) ??
+    cryptwalkerRingTierItemImageUrl(id) ??
+    ignivarCinderbarkOffsetItemImageUrl(id) ??
+    ignivarSlagstalkerOffsetItemImageUrl(id) ??
+    chainedEmberChokerTierItemImageUrl(id) ??
+    stonehearthLowerItemImageUrl(id) ??
+    rimewardenLowerItemImageUrl(id) ??
     wovenBagsItemImageUrl(id) ??
     craftedGroupFeastsItemImageUrl(id) ??
     factionBagsItemImageUrl(id) ??

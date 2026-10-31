@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "slagstalker_belt",
+      "file": "docs/design/whetstorm-art/ignivar-slagstalker-belt-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory item painting, square composition: a nimble adventurer's charcoal leather belt, coiled in a distinct oval, with diagonal overlapping blackened iron scales and a small angular copper buckle, subtle ember-orange seams. Complete centered object on deep slate background, painterly fantasy illustration, readable at 32 pixels. No text, lettering, border, watermark, logo, person or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "ba730975833c914a4a39fa338a63a31b9aad89ee814c36ff145dc2867e2327e3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/slagstalker_belt.webp",
+        "sha256": "1819ab6ce87ebefb185db30e19965c0767538ae305312d4ce16c54c02140c8e9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ashrunner_boots",
+      "file": "docs/design/whetstorm-art/ignivar-ashrunner-boots-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory item painting, square composition: a matched pair of nimble adventurer's charcoal leather boots with folded ankle cuffs, blackened iron scale accents and subtle ember-orange seams. Complete centered footwear on deep slate background, painterly fantasy illustration, readable at 32 pixels. No text, lettering, border, watermark, logo, person or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "41a4083c6a96e7657551116d5f1101b240c6c919c7728d1c1b329cda3d6db897",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ashrunner_boots.webp",
+        "sha256": "48a9ca33d7df18d8440a4fa313800d8fe647b44bc02300a28096a2cef5fa0114",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
