@@ -1,0 +1,40 @@
+{
+  "generator": "OpenAI built-in image generation, four separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for rare Tarnished Vysska hoard armor; Sovereign variants remain unmapped.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "In-game review pending.",
+  "entries": [
+    {
+      "id": "rare_silkstalker_woven_vest",
+      "prompt": "Original opaque square hand-painted fantasy game inventory item icon: a single worn leather vest, scuffed brown woven strips, visible coarse thread repairs, dull unpolished fasteners, uneven hem. Clear vest silhouette, no body, head, arms, animals or creatures. Humble practical armor, dark charcoal background and warm light. No writing, watermark or frame.",
+      "source": "docs/design/whetstorm-art/items/vysska-tarnished/rare_silkstalker_woven_vest.png",
+      "sourceSha256": "88b681d0cb418366bc16b9069158f50011aef0db214e5dcfc919a5b7c24e6970",
+      "output": "public/ui/whetstorm/items/rare_silkstalker_woven_vest.webp",
+      "outputSha256": "db9d6c3b263dda7dff30a4483447028a7e55f93bc2a7d158297b21ebe88c415f"
+    },
+    {
+      "id": "rare_spun_venom_spaulders",
+      "prompt": "Original opaque square hand-painted fantasy game inventory item icon: a matching pair of worn leather shoulder guards, faded brown and muted purple fabric with frayed edges, coarse stitching, modest repairs and uneven layered panels. Clear separated shoulder silhouettes, no person, animals or creatures. Humble practical armor, dark charcoal background and warm light. No writing, watermark or frame.",
+      "source": "docs/design/whetstorm-art/items/vysska-tarnished/rare_spun_venom_spaulders.png",
+      "sourceSha256": "56f5747afccf376454cc4c917116455725e4ce2a2614992211d546229703bc79",
+      "output": "public/ui/whetstorm/items/rare_spun_venom_spaulders.webp",
+      "outputSha256": "b5764d1def8df316d09e8de6f6eb1bd7f22d220cb9aac171c97d87266918bbdd"
+    },
+    {
+      "id": "rare_broodmother_chitin_cowl",
+      "prompt": "Original opaque square hand-painted fantasy game inventory item icon: a worn leather hood with dark empty opening, dull overlapping brown chitin-like plates, frayed edges and visible rough repairs. Clear hood silhouette, no face, person, animals or creatures. Humble practical armor, dark charcoal background and warm light. No writing, watermark or frame.",
+      "source": "docs/design/whetstorm-art/items/vysska-tarnished/rare_broodmother_chitin_cowl.png",
+      "sourceSha256": "400d9dba5620a7af836e8d85929129bc616c51dd79bb2cac5dc1682245348dda",
+      "output": "public/ui/whetstorm/items/rare_broodmother_chitin_cowl.webp",
+      "outputSha256": "ec477476656234aa3c9bcf59491945fb97d15105aa4b2e04b1236746d1c6a2eb"
+    },
+    {
+      "id": "rare_venom_etched_waistcord",
+      "prompt": "Original opaque square hand-painted fantasy game inventory item icon: a worn cloth waist sash and cord, faded mauve woven fabric, rough silver-gray stitching, dull simple buckle and two short frayed tassels. Clear horizontal belt silhouette, no body, person, animals or creatures. Humble practical garment, dark charcoal background and warm light. No writing, watermark or frame.",
+      "source": "docs/design/whetstorm-art/items/vysska-tarnished/rare_venom_etched_waistcord.png",
+      "sourceSha256": "c87d632bd6b345e20377ffd32f316042ba40dc7f535d54dcf3533b34b5813ca6",
+      "output": "public/ui/whetstorm/items/rare_venom_etched_waistcord.webp",
+      "outputSha256": "744d76121087e9e38cf4adceb9da3e055ad39458996beff4204820bb22276e6b"
+    }
+  ]
+}

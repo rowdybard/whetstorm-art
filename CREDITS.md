@@ -1209,6 +1209,10 @@ hashes are recorded in `docs/design/whetstorm-art/items/vysska-epic/provenance.j
 `docs/design/whetstorm-art/items/springmender/provenance.md`, and
 `docs/whetstorm/progression-rewards-generation.json`.
 
+Four Tarnished armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/vysska-tarnished/provenance.json`.
+
 Three Crucible healer and cloth pattern paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/crucible-healer-cloth/provenance.md`.
