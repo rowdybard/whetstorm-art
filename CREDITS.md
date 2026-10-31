@@ -1273,6 +1273,10 @@ generated with OpenAI's built-in image generation. Prompts and hashes are in
 `docs/whetstorm/crucible-prowler-leather-original-generation.json`, and
 `docs/design/whetstorm-art/items/ashstalker-s1-original/ashstalker-provenance.json`.
 
+Four additional Ashstalker armor paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/ashstalker-s1-second-original/ashstalker-second-provenance.json`.
+
 Three epic Ember armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/emberforge-epic/provenance.json`.

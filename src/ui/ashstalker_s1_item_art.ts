@@ -3,6 +3,10 @@ const ART = new Map<string, string>([
   ['ashstalker_cowl', '/ui/whetstorm/items/ashstalker_cowl.webp'],
   ['ashstalker_shoulderguards', '/ui/whetstorm/items/ashstalker_shoulderguards.webp'],
   ['ashstalker_harness', '/ui/whetstorm/items/ashstalker_harness.webp'],
+  ['ashstalker_waistband', '/ui/whetstorm/items/ashstalker_waistband.webp'],
+  ['ashstalker_legguards', '/ui/whetstorm/items/ashstalker_legguards.webp'],
+  ['ashstalker_grips', '/ui/whetstorm/items/ashstalker_grips.webp'],
+  ['ashstalker_treads', '/ui/whetstorm/items/ashstalker_treads.webp'],
 ]);
 
 export function ashstalkerS1ItemImageUrl(id: string): string | null {

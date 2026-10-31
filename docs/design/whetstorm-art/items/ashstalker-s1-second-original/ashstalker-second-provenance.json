@@ -1,0 +1,42 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "conversion": "sharp resize 128x128, WebP quality 82, effort 6",
+  "records": [
+    {
+      "id": "ashstalker_waistband",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Ashstalker Waistband, one broad charcoal-gray leather ranger belt with a large bold clasp, layered stitched hide and subdued burnt-amber accents, clear horizontal belt silhouette. Worn but expertly crafted, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/ashstalker-s1-second-original/ashstalker_waistband.png",
+      "masterSha256": "834c06c69d4182d91e06d33bbe7a4b3da9123e036ee100353c5fa7a6b7fb5d98",
+      "shipping": "public/ui/whetstorm/items/ashstalker_waistband.webp",
+      "shippingSha256": "5dad1e4a57e0bd8f4f840a13d36f8802374ff1e1beed0ac6e41edf70c085e3de"
+    },
+    {
+      "id": "ashstalker_legguards",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Ashstalker Legguards, a pair of charcoal-gray leather ranger leggings with a clear two-leg silhouette, layered stitched hide and subdued burnt-amber accents. Worn but expertly crafted, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/ashstalker-s1-second-original/ashstalker_legguards.png",
+      "masterSha256": "6d48de7e5b1b7d516cd1d8ee7c1ddaf4516a6956463bcb3e8c6847e090d020b1",
+      "shipping": "public/ui/whetstorm/items/ashstalker_legguards.webp",
+      "shippingSha256": "1134a414ff3061f262081471aa76b7f8845422e1e58af925253186ddd40a54ac"
+    },
+    {
+      "id": "ashstalker_grips",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Ashstalker Grips, a pair of charcoal-gray leather ranger gloves with clearly visible fingers and distinct glove silhouette, layered stitched hide and subdued burnt-amber accents. Worn but expertly crafted, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/ashstalker-s1-second-original/ashstalker_grips.png",
+      "masterSha256": "9909365cbb176b3edb1d8bb676c8096347c142f29f1fe86e15514ae53dbbb649",
+      "shipping": "public/ui/whetstorm/items/ashstalker_grips.webp",
+      "shippingSha256": "8698ed7291f88b5fae2d10550077ff7c2a9552d20fb93420015e77f518598688"
+    },
+    {
+      "id": "ashstalker_treads",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Ashstalker Treads, a pair of charcoal-gray leather ranger boots with clearly visible feet and bold boot silhouette, layered stitched hide and subdued burnt-amber accents. Worn but expertly crafted, centered large on dark background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/ashstalker-s1-second-original/ashstalker_treads.png",
+      "masterSha256": "f9cfb4434ca4e89fd567bf24f2fdb9c658be9c36c7a019bd7052314f6ca6d393",
+      "shipping": "public/ui/whetstorm/items/ashstalker_treads.webp",
+      "shippingSha256": "f0d933f6a1b65cd5199e39cb8de36647b43b5521b77a468307dc238d602eb546"
+    }
+  ]
+}
