@@ -54,6 +54,7 @@ import { crucibleSigilItemImageUrl } from './crucible_sigil_item_art';
 import { crucibleMailPatternItemImageUrl } from './crucible_mail_pattern_item_art';
 import { crucibleLeatherPatternItemImageUrl } from './crucible_leather_pattern_item_art';
 import { crucibleHealerClothPatternItemImageUrl } from './crucible_healer_cloth_pattern_item_art';
+import { crucibleHealerClothItemImageUrl } from './crucible_healer_cloth_item_art';
 import { crozierSparksItemImageUrl } from './crozier_sparks_item_art';
 import { dawnForgeItemImageUrl } from './dawn_forge_item_art';
 import { dawnforgedArmorItemImageUrl } from './dawnforged_armor_item_art';
@@ -288,6 +289,7 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    crucibleHealerClothItemImageUrl(id) ??
     tempestEpicItemImageUrl(id) ??
     springmenderItemImageUrl(id) ??
     vysskaEpicItemImageUrl(id) ??
