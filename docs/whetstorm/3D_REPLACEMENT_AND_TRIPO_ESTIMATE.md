@@ -135,10 +135,12 @@ model's provenance before selecting a disposition; do not assign a license by
 association.
 
 Nythraxis maps to `skel_golem`, which uses
-`public/models/enemies/skeleton_golem.glb` and the separate
-`public/models/enemies/skeleton_golem_anims.glb` donor. The credits list KayKit
-skeleton models and animations as CC0, but the custom animation donor's lineage
-needs separate verification. The separately credited Nythraxis bone spike is a
+`public/models/chars/enemies/skeleton_golem.glb` and the separate
+`public/models/chars/enemies/skeleton_golem_anims.glb` donor. The credits list KayKit
+skeleton models and animations as CC0. `scripts/build_skeleton_golem_anims.mjs`
+documents that the donor blends poses from the shipped golem itself, but the
+exact shipped source identity and derivative terms still need verification.
+The separately credited Nythraxis bone spike is a
 project-only prop, not the boss body. The Ignivar, Ashcaller, and Varkhul GLBs
 were present in the reference checkout and absent from the partial art worktree;
 that absence does not establish downstream package contents. These observations

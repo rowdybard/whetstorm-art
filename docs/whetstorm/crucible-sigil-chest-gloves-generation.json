@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected full source images; small-size and in-game review pending.",
+  "records": [
+    {
+      "id": "sigil_ember_chest",
+      "prompt": "Square painted fantasy MMO inventory icon: Robe Sigil of the Ember, one compact black iron token shaped like a front-facing armored chestplate, no body or head, an orange glowing ember on the breast. Complete centered object with generous margin, tactile metal, warm top-left light, dark charcoal background. Bold torso silhouette readable at 22px. No text, letters, numbers, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/sigil_ember_chest.png",
+      "masterSha256": "40981d8a681ce9cb004d514c9421eb63e5894a1a6fe34d145f7c5e523c06dd15",
+      "shipping": "public/ui/whetstorm/items/sigil_ember_chest.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "df4e3a04e1af8edc5216a2e9b47b523e1dc956ab9c812a0493be4662a8634f55"
+    },
+    {
+      "id": "sigil_tempest_chest",
+      "prompt": "Square painted fantasy MMO inventory icon: Robe Sigil of the Tempest, one compact silver-blue steel token shaped like a front-facing armored chestplate, no body or head, a cyan lightning emblem on the breast. Complete centered object with generous margin, tactile metal, warm top-left light, dark charcoal background. Bold torso silhouette readable at 22px. No text, letters, numbers, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/sigil_tempest_chest.png",
+      "masterSha256": "5c0499386d0d3521ef922ad3a48bb5e0bc9fa8d5f7d243ca1ebd1ed27ba492b5",
+      "shipping": "public/ui/whetstorm/items/sigil_tempest_chest.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "f89a9568f3703922b31b88e790190057608aeefeee6608b8e31d7b3df511cbe5"
+    },
+    {
+      "id": "sigil_ember_gloves",
+      "prompt": "Square painted fantasy MMO inventory icon: Grip Sigil of the Ember, one compact black iron token shaped like an upright armored gauntlet with four clearly separated fingers, orange glowing ember inset on its back. Complete centered object with generous margin, tactile metal, warm top-left light, dark charcoal background. Bold hand silhouette readable at 22px. No text, letters, numbers, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/sigil_ember_gloves.png",
+      "masterSha256": "0e93eed5c2717c0026ded780e88bbcf60eb0ea5611ce8c0fd1b000773173be3c",
+      "shipping": "public/ui/whetstorm/items/sigil_ember_gloves.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "3bd0d6db5c81628c6f176da1d1a24ec5173cd2b8ec2661ec03eb842b82669fe5"
+    },
+    {
+      "id": "sigil_tempest_gloves",
+      "prompt": "Square painted fantasy MMO inventory icon: Grip Sigil of the Tempest, one compact silver-blue steel token shaped like an upright armored gauntlet with four clearly separated fingers, cyan lightning emblem inset on its back. Complete centered object with generous margin, tactile metal, warm top-left light, dark charcoal background. Bold hand silhouette readable at 22px. No text, letters, numbers, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/sigil_tempest_gloves.png",
+      "masterSha256": "68bef9ed0500fe50ca32773caba0798c25481772627caddbbad3ebb36a97b874",
+      "shipping": "public/ui/whetstorm/items/sigil_tempest_gloves.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "40311dae38fe56d88962595d1cd013e6e36caf4e96a4ff8856cf6dea3f9af7a6"
+    }
+  ]
+}

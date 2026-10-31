@@ -8,6 +8,7 @@ import { chronicleGatheringDeedImageUrl } from './chronicle_gathering_deed_art';
 import { civicBankDeedImageUrl } from './civic_bank_deed_art';
 import { collectionSetsDeedImageUrl } from './collection_sets_deed_art';
 import { collectionTreasuresDeedImageUrl } from './collection_treasures_deed_art';
+import { collectionMilestoneDeedImageUrl } from './collection_milestone_deed_art';
 import { combatMasteryDeedImageUrl } from './combat_mastery_deed_art';
 import { combatVictoryDeedImageUrl } from './combat_victory_deed_art';
 import { craftMasteryDeedImageUrl } from './craft_mastery_deed_art';
@@ -45,6 +46,7 @@ import { peaksDiscoveryDeedImageUrl } from './peaks_discovery_deed_art';
 import { peatfireDeedImageUrl } from './peatfire_deed_art';
 import { placeDeedImageUrl } from './place_deed_art';
 import { prestigeDeedImageUrl } from './prestige_deed_art';
+import { pvpHonorCardsDeedImageUrl } from './pvp_honor_cards_deed_art';
 import { raidChallengeDeedImageUrl } from './raid_challenge_deed_art';
 import { raimentLitanyDeedImageUrl } from './raiment_litany_deed_art';
 import { rareCraftDeedImageUrl } from './rare_craft_deed_art';
@@ -83,6 +85,8 @@ const EARLY_DEED_ART = new Map<string, string>([
 export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
+    collectionMilestoneDeedImageUrl(id) ??
+    pvpHonorCardsDeedImageUrl(id) ??
     curatorRankDeedImageUrl(id) ??
     factionStandingDeedImageUrl(id) ??
     farmingMilestoneDeedImageUrl(id) ??

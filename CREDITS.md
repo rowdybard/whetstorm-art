@@ -1136,6 +1136,13 @@ Four Reliquary curator-rank deed paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/deeds/curator-ranks/provenance.json`.
 
+Four more Crucible sigils, four PvP deeds, four collection deeds, and three
+Rift gems were generated with OpenAI's built-in image generation. Prompts and
+hashes are recorded in `docs/whetstorm/crucible-sigil-chest-gloves-generation.json`,
+`docs/whetstorm/deed-pvp-honor-cards-generation.json`,
+`docs/design/whetstorm-art/deeds/collection-milestones/provenance.md`, and
+`docs/design/whetstorm-art/items/rift-gems/provenance.json`.
+
 Four Wildheart and rare-hunt deed paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in
 `docs/whetstorm/deed-wildheart-rares-generation.json`.

@@ -1,0 +1,56 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputs": "No reference images",
+  "processing": "Sharp 128x128 opaque WebP quality 88 effort 6",
+  "entries": [
+    {
+      "id": "pvp_honor_sergeant",
+      "path": "public/ui/whetstorm/deeds/pvp_honor_sergeant.webp",
+      "bytes": 4364,
+      "sha256": "deeeac0af3ea2608e94b6524f2b70dabdf1c3bbeba9e89506611f3810e8a85ad",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/pvp-honor-cards/pvp_honor_sergeant.png",
+        "bytes": 2121369,
+        "sha256": "74e784dba670750d54b8a53baa22149eae52b0f3ee4e07dad5da1a91f0481f69"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A single bronze chevron over a dark red battle shield, small crossed swords behind, simple early honor rank emblem. Hand-painted dark fantasy illustration, bold centered silhouette, high contrast and readable at 28 pixels. No writing, numerals, frame, logo or watermark."
+    },
+    {
+      "id": "pvp_honor_knight_lieutenant",
+      "path": "public/ui/whetstorm/deeds/pvp_honor_knight_lieutenant.webp",
+      "bytes": 6024,
+      "sha256": "08e3044835820ae0be5afb48a932fd525061946d17c85994900e6645d3e6494e",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/pvp-honor-cards/pvp_honor_knight_lieutenant.png",
+        "bytes": 2547292,
+        "sha256": "b3cecb92134cceaa0031fcd761a18ba33e28a69e972a50e29e4c394f1e9c3ba4"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A silver winged helmet above a blue shield, a single gold diamond below, a distinct veteran honor rank emblem. Hand-painted dark fantasy illustration, bold centered silhouette, high contrast and readable at 28 pixels. No writing, numerals, frame, logo or watermark."
+    },
+    {
+      "id": "pvp_honor_field_marshal",
+      "path": "public/ui/whetstorm/deeds/pvp_honor_field_marshal.webp",
+      "bytes": 8000,
+      "sha256": "a0cc53336a9949697ae8ded792df46d996335758f72709a738703dce1d441dba",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/pvp-honor-cards/pvp_honor_field_marshal.png",
+        "bytes": 2470243,
+        "sha256": "e8642344f4d0f612c96efeb3b3449cff4e96e4b35389cf95ff735aa087c02f78"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A radiant gold crown above a crimson shield with a bright laurel wreath and crossed standards, a prestigious honor rank emblem. Hand-painted dark fantasy illustration, bold centered silhouette, high contrast and readable at 28 pixels. No writing, numerals, frame, logo or watermark."
+    },
+    {
+      "id": "pvp_card_duel_first_win",
+      "path": "public/ui/whetstorm/deeds/pvp_card_duel_first_win.webp",
+      "bytes": 6730,
+      "sha256": "dcda355cee62a624babe25d1d3864259373172e9b51376b90fc8d1d852ab2a00",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/pvp-honor-cards/pvp_card_duel_first_win.png",
+        "bytes": 2529386,
+        "sha256": "5a87d4d9aefc0ff90ec908cd5ed65263a498374ad0250bb5b5a5b95441c53ba3"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. Two large fanned playing cards with clear abstract sun and crescent pictograms facing a small golden victory wreath on a dark green tabletop, no card numbers or letters. Hand-painted dark fantasy illustration, bold centered silhouette, high contrast and readable at 28 pixels. No writing, numerals, frame, logo or watermark."
+    }
+  ]
+}
