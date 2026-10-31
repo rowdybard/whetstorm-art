@@ -1301,6 +1301,18 @@ generated with OpenAI's built-in image generation; prompts and hashes are in
 `docs/design/whetstorm-art/items/thornhide-lower-original/thornhide-lower-provenance.json`, and
 `docs/whetstorm/vesperash-upper-original-generation.json`.
 
+Two further Vesperash armor paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/vesperash-lower-original-generation.json`.
+
+Three Coral-Encrusted Girdle tier paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/tide-coral-girdle-tiers/provenance.json`.
+
+Three Gracewing armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/gracewing-upper-equipment/upper-provenance.md`.
+
 Three epic Ember armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/emberforge-epic/provenance.json`.

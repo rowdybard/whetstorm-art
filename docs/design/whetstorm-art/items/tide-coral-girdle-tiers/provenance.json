@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for all three Coral-Encrusted Girdle hoard tiers; Sovereign has epic item quality.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "Rare artwork revised after small-size review; production integration and in-game review pending.",
+  "entries": [
+    {
+      "id": "rare_coral_encrusted_girdle",
+      "prompt": "Original opaque square fantasy game inventory item painting: one Tarnished Coral-Encrusted Girdle, a clearly wearable very narrow curved mail chain belt with a large round dull pale stone disk buckle and a single long ragged brown leather strap hanging from the left side, sparse small coral chips. Asymmetrical simple silhouette, muted worn weathered materials. No layered hanging armor plates, no pair of straps, no body, person, character, animal or creature. Dark charcoal backdrop, warm light, readable at 22px. No words, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/tide-coral-girdle-tiers/rare_coral_encrusted_girdle.png",
+      "sourceSha256": "16e21b939e7493d042918dbcc0bc32c5c6be96db8e6f9dae692cf481ab860a13",
+      "output": "public/ui/whetstorm/items/rare_coral_encrusted_girdle.webp",
+      "outputSha256": "6f22377a556ea20ae4fa43d27b90ec4d1ace2e92ff443d9623b33739dc07bc62"
+    },
+    {
+      "id": "coral_encrusted_girdle",
+      "prompt": "Original opaque square fantasy game inventory item painting: one mail girdle belt, dark blue-green linked steel and overlapping silver plates with branching pale coral-like decorative inlays, central turquoise oval buckle, short pointed articulated metal tabs. Clear wide waist-belt silhouette. No person, body, character, animal or creature. Premium hand-painted fantasy item, dark charcoal backdrop, warm light; no writing, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/tide-coral-girdle-tiers/coral_encrusted_girdle.png",
+      "sourceSha256": "675f5e68ad4f068e355569152e8d5f5b6c574eaa424079c04174753bcdc9d47d",
+      "output": "public/ui/whetstorm/items/coral_encrusted_girdle.webp",
+      "outputSha256": "0796965622981909bcc4de53a82d925c268e0950f5abdf731e547c5c07487d76"
+    },
+    {
+      "id": "legendary_coral_encrusted_girdle",
+      "prompt": "Original opaque square fantasy game inventory item painting: one royal mail girdle belt, bright ivory-silver sweeping crescent-shaped metal plates with dark navy chainmail underneath, huge luminous pale turquoise diamond buckle and two very long sharply pointed central hanging metal tabs. Bold high contrast silhouette readable at 22px, ornate coral-inspired engraved trim. No person, body, character, animal or creature. Premium hand-painted fantasy item, dark charcoal backdrop, warm light; no writing, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/tide-coral-girdle-tiers/legendary_coral_encrusted_girdle.png",
+      "sourceSha256": "c1a86b865afe248f5ce2424122a88399ba5c7c5c530e2086b155e7fd3fb7af4f",
+      "output": "public/ui/whetstorm/items/legendary_coral_encrusted_girdle.webp",
+      "outputSha256": "eef2871eb6da5e7fc33824169c576cc828978d97cc4d79c860a82b4b336dea8c"
+    }
+  ]
+}

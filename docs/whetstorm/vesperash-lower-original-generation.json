@@ -1,0 +1,22 @@
+{
+  "generator": "Built-in imagegen; two independent generations; no source references",
+  "processing": "sharp resize 128x128, WebP quality 88 effort 6",
+  "images": [
+    {
+      "id": "vesperash_gloves",
+      "master": "docs/design/whetstorm-art/items/vesperash-lower-original/vesperash_gloves.png",
+      "output": "public/ui/whetstorm/items/vesperash_gloves.webp",
+      "masterSha256": "e3fa3224c96b85b502a222a6b737a4744679a49e20828c56c771873d7523e3f3",
+      "outputSha256": "22749b33c9cd03b2b611ec5dca297ab7ffab15f7e139cf68620606a749ab361d",
+      "prompt": "Original square fantasy RPG inventory painting for Vesperash Shroud, a priest's epic cloth set: deep plum and ash-gray woven fabric, muted silver edging, subtle pale ember embroidery, dark charcoal backdrop. Unworn item, clear large distinct silhouette at 28px, painterly. No person, metal armor, writing, letters, numbers, logo, border or watermark. A pair of soft cloth HANDWRAPS, upright palms facing forward, unmistakably showing five fabric-wrapped fingers each and draped ash-gray cuffs, no hard gauntlets."
+    },
+    {
+      "id": "vesperash_legs",
+      "master": "docs/design/whetstorm-art/items/vesperash-lower-original/vesperash_legs.png",
+      "output": "public/ui/whetstorm/items/vesperash_legs.webp",
+      "masterSha256": "bd590ec5da62e64707e7d910b7ec7d33d0f5315ce363ef31ad8234329ab345c4",
+      "outputSha256": "627fa782bc4dd953633c0bf9e210ccb558e09b84e2a7e8472b6fba25fc87ac8e",
+      "prompt": "Original square fantasy RPG inventory painting for Vesperash Shroud, a priest's epic cloth set: deep plum and ash-gray woven fabric, muted silver edging, subtle pale ember embroidery, dark charcoal backdrop. Unworn item, clear large distinct silhouette at 28px, painterly. No person, metal armor, writing, letters, numbers, logo, border or watermark. A pair of long cloth LEGGINGS with two separate full-length trouser legs, front view, soft plum fabric and diagonal ash-gray wrappings, no boots or torso."
+    }
+  ]
+}

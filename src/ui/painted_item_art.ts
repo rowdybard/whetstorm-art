@@ -41,6 +41,9 @@ import { glacierBulwarkTierItemImageUrl } from './glacier_bulwark_tier_item_art'
 import { thornhideLowerS1ItemImageUrl } from './thornhide_lower_s1_item_art';
 import { thornhideUpperItemImageUrl } from './thornhide_upper_item_art';
 import { vesperashUpperItemImageUrl } from './vesperash_upper_item_art';
+import { vesperashLowerItemImageUrl } from './vesperash_lower_item_art';
+import { tideCoralGirdleItemImageUrl } from './tide_coral_girdle_item_art';
+import { gracewingUpperItemImageUrl } from './gracewing_upper_item_art';
 import { cleaverWildsoulItemImageUrl } from './cleaver_wildsoul_item_art';
 import { clothBatchFiveItemImageUrl } from './cloth_batch_five_item_art';
 import { clothBatchFourItemImageUrl } from './cloth_batch_four_item_art';
@@ -417,6 +420,9 @@ export function paintedItemImageUrl(id: string): string | null {
     thornhideLowerS1ItemImageUrl(id) ??
     thornhideUpperItemImageUrl(id) ??
     vesperashUpperItemImageUrl(id) ??
+    vesperashLowerItemImageUrl(id) ??
+    tideCoralGirdleItemImageUrl(id) ??
+    gracewingUpperItemImageUrl(id) ??
     wovenBagsItemImageUrl(id) ??
     craftedGroupFeastsItemImageUrl(id) ??
     factionBagsItemImageUrl(id) ??
