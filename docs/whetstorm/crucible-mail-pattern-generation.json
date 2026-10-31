@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "review": "Inspected full source images; small-size and in-game review pending.",
+  "records": [
+    {
+      "id": "pattern_crucible_str_mail",
+      "prompt": "Square painted fantasy MMO inventory icon: Pattern for Crucible Striker's Mail, one closed dark leather recipe manual with a large raised bronze crossed-axes emblem on its cover, small chainmail edging. Complete centered book with generous margin, tactile leather and metal, warm top-left light, dark charcoal backdrop. Bold crossed-axes shape readable at 28px. No lettering, numbers, pseudo-writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/pattern_crucible_str_mail.png",
+      "masterSha256": "42ac8785c0815904a62aec2fa970b00d125114796e66ca0595c39fc5fb108e7e",
+      "shipping": "public/ui/whetstorm/items/pattern_crucible_str_mail.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "a30341760a2f81dc0354a96353ed3a3683eeaf20dfc6a58753177c03a2fe3eb5"
+    },
+    {
+      "id": "pattern_crucible_tank_mail",
+      "prompt": "Square painted fantasy MMO inventory icon: Pattern for Crucible Guardian's Mail, one closed dark leather recipe manual with a large raised bronze shield emblem on its cover, small chainmail edging. Complete centered book with generous margin, tactile leather and metal, warm top-left light, dark charcoal backdrop. Bold shield shape readable at 28px. No lettering, numbers, pseudo-writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/pattern_crucible_tank_mail.png",
+      "masterSha256": "9c8dbd7836f61417dfec2d56441c8d7e705ffb7b100320a4c451726a8b67cba7",
+      "shipping": "public/ui/whetstorm/items/pattern_crucible_tank_mail.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "6aed9f5514b727d7660a7a095b794e761fb54837c6da216df6487462036d52fd"
+    },
+    {
+      "id": "pattern_crucible_caster_mail",
+      "prompt": "Square painted fantasy MMO inventory icon: Pattern for Crucible Spellcaster's Mail, one closed dark leather recipe manual with a large raised bronze four-point star emblem on its cover, small chainmail edging. Complete centered book with generous margin, tactile leather and metal, warm top-left light, dark charcoal backdrop. Bold four-point star shape readable at 28px. No lettering, numbers, pseudo-writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/pattern_crucible_caster_mail.png",
+      "masterSha256": "bdf61aa6f1a6b3eef25c3f89151c0a66382ed1d6eb17dc8370c0082725ca33bc",
+      "shipping": "public/ui/whetstorm/items/pattern_crucible_caster_mail.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "6fd48e3e047cb99a56f0c1e20b7d2615282776cca64d8ab8f641637d0ee1a3af"
+    },
+    {
+      "id": "pattern_crucible_healer_mail",
+      "prompt": "Square painted fantasy MMO inventory icon: Pattern for Crucible Healer's Mail, one closed dark leather recipe manual with a large raised bronze leaf emblem on its cover, small chainmail edging. Complete centered book with generous margin, tactile leather and metal, warm top-left light, dark charcoal backdrop. Bold leaf shape readable at 28px. No lettering, numbers, pseudo-writing, border, watermark or UI.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/pattern_crucible_healer_mail.png",
+      "masterSha256": "30ebf44604549c838a184fd4530316ce8c15249ee8e6754e652f4666cae493f0",
+      "shipping": "public/ui/whetstorm/items/pattern_crucible_healer_mail.webp",
+      "processing": "sharp resize 128x128 lanczos3, WebP quality 82 effort 6",
+      "shippingSha256": "6a65bca4cc0766eef39715a4facb749cd938d5a7ab59907a22be9a4895ade074"
+    }
+  ]
+}

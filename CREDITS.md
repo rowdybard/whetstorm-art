@@ -1156,6 +1156,16 @@ Five World PvP time deed paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/whetstorm/deed-pvp-flag-time-generation.json`.
 
+Three Tarnished Hoarfrost armor paintings and three Nythraxis apex pattern
+paintings were generated with OpenAI's built-in image generation. Prompts and
+hashes are recorded in `docs/design/whetstorm-art/items/hoarfrost-rare/provenance.json`
+and `docs/design/whetstorm-art/items/nythraxis-apex-patterns/provenance.md`.
+
+Four Crucible mail pattern paintings and four social deed paintings were
+generated with OpenAI's built-in image generation. Prompts and hashes are
+recorded in `docs/whetstorm/crucible-mail-pattern-generation.json` and
+`docs/whetstorm/deed-social-hidden-four-generation.json`.
+
 Four Wildheart and rare-hunt deed paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in
 `docs/whetstorm/deed-wildheart-rares-generation.json`.

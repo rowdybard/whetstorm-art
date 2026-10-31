@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Visual upgrade from original procedural rare-tier hoard item icons; epic and Sovereign tiers remain distinct.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "In-game review pending.",
+  "entries": [
+    {
+      "id": "rare_permafrost_legguards",
+      "prompt": "Original opaque square fantasy MMO inventory icon: Tarnished Permafrost Legguards, one full pair of aged heavy mail legguards with dark oxidized steel, worn leather straps, chipped dulled ice-blue plates, pitted edges and sparse dirty rime. Clearly old weathered salvage, no body. Centered complete leg silhouette, subdued dark fantasy hand-painting, upper-left warm light and cool shadows, dark charcoal vignette, readable at 22px. No letters, text, border, watermark, or transparency.",
+      "source": "docs/design/whetstorm-art/items/hoarfrost-rare/rare_permafrost_legguards.png",
+      "sourceSha256": "181fa4daf030837801d666a8c7f8862840e757014c4d2220988239b32e9c0812",
+      "output": "public/ui/whetstorm/items/rare_permafrost_legguards.webp",
+      "outputSha256": "05f2901a2124dd3c4a5858115a4feed5c404c0f7f49715db5c13ce53eabd3220"
+    },
+    {
+      "id": "rare_frostbitten_rime_slippers",
+      "prompt": "Original opaque square fantasy MMO inventory icon: Tarnished Frostbitten Rime Slippers, one matching pair of aged pale gray-blue cloth slippers, frayed edges, worn stitches, faded dusty fabric and small dirty frost crystals. Clearly old weathered salvage, no legs. Centered full footwear silhouette, subdued dark fantasy hand-painting, upper-left warm light and cool shadows, dark charcoal vignette, readable at 22px. No letters, text, border, watermark, or transparency.",
+      "source": "docs/design/whetstorm-art/items/hoarfrost-rare/rare_frostbitten_rime_slippers.png",
+      "sourceSha256": "08ecb229cf88d0095aa4d50c19bcd1a6d930380bfb6c472dc7014ba948af37c5",
+      "output": "public/ui/whetstorm/items/rare_frostbitten_rime_slippers.webp",
+      "outputSha256": "c7150490d31e83dfecf510ea1ec8b6a163b4ce0c9b8a55cc04f5c18692b4e369"
+    },
+    {
+      "id": "rare_rime_crusted_grips",
+      "prompt": "Original opaque square fantasy MMO inventory icon: Tarnished Rime-Crusted Grips, one matching pair of aged brown leather gloves with scuffed seams, faded leather, tarnished buckles and sparse dirty frost across knuckles. Clearly old weathered salvage, no arms. Centered full glove silhouettes, subdued dark fantasy hand-painting, upper-left warm light and cool shadows, dark charcoal vignette, readable at 22px. No letters, text, border, watermark, or transparency.",
+      "source": "docs/design/whetstorm-art/items/hoarfrost-rare/rare_rime_crusted_grips.png",
+      "sourceSha256": "2ecc1428c3d70da5ded14957a0822d083e73f504d2e22b51d7ae32c38e8dfd29",
+      "output": "public/ui/whetstorm/items/rare_rime_crusted_grips.webp",
+      "outputSha256": "612c71e61ab8b4a39c2dbb97ffc03ace30ae43e44376d0633298a767f16e87b7"
+    }
+  ]
+}

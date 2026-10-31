@@ -30,7 +30,7 @@ describe('epic Hoarfrost hoard paintings', () => {
         expect(itemImageUrl(variant)).not.toBe(url);
         expect(iconDataUrl('item', variant)).not.toBe(url);
       }
-      expect(hoarfrostEpicItemImageUrl(`rare_${id}`)).toBeNull();
+      expect(hoarfrostEpicItemImageUrl(`rare_${id}`)).toBe(`/ui/whetstorm/items/rare_${id}.webp`);
       expect(hoarfrostEpicItemImageUrl(`legendary_${id}`)).toBeNull();
     }
   });

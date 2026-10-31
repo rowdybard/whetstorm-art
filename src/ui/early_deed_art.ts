@@ -56,6 +56,7 @@ import { riftHarvestDeedImageUrl } from './rift_harvest_deed_art';
 import { sanctumChallengeDeedImageUrl } from './sanctum_challenge_deed_art';
 import { socialCommerceDeedImageUrl } from './social_commerce_deed_art';
 import { socialMilestoneDeedImageUrl } from './social_milestone_deed_art';
+import { socialHiddenFourDeedImageUrl } from './social_hidden_four_deed_art';
 import { soloArenaDeedImageUrl } from './solo_arena_deed_art';
 import { teamArenaRegaliaDeedImageUrl } from './team_arena_regalia_deed_art';
 import { thornpeakChronicleDeedImageUrl } from './thornpeak_chronicle_deed_art';
@@ -85,6 +86,7 @@ const EARLY_DEED_ART = new Map<string, string>([
 export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
+    socialHiddenFourDeedImageUrl(id) ??
     collectionMilestoneDeedImageUrl(id) ??
     pvpHonorCardsDeedImageUrl(id) ??
     curatorRankDeedImageUrl(id) ??

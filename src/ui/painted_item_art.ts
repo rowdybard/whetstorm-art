@@ -51,6 +51,7 @@ import { craftedReagentBagsItemImageUrl } from './crafted_reagent_bags_item_art'
 import { craftedScrollsItemImageUrl } from './crafted_scrolls_item_art';
 import { craghornIceveinItemImageUrl } from './craghorn_icevein_item_art';
 import { crucibleSigilItemImageUrl } from './crucible_sigil_item_art';
+import { crucibleMailPatternItemImageUrl } from './crucible_mail_pattern_item_art';
 import { crozierSparksItemImageUrl } from './crozier_sparks_item_art';
 import { dawnForgeItemImageUrl } from './dawn_forge_item_art';
 import { dawnforgedArmorItemImageUrl } from './dawnforged_armor_item_art';
@@ -63,6 +64,7 @@ import { dungeonBagsItemImageUrl } from './dungeon_bags_item_art';
 import { earlyDropsItemImageUrl } from './early_drops_item_art';
 import { heroicTrinketItemImageUrl } from './heroic_trinket_item_art';
 import { hoarfrostEpicItemImageUrl } from './hoarfrost_epic_item_art';
+import { nythraxisApexPatternItemImageUrl } from './nythraxis_apex_pattern_item_art';
 import { riftGemItemImageUrl } from './rift_gem_item_art';
 import { earlyMaterialEightItemImageUrl } from './early_material_eight_item_art';
 import { earlyMaterialElevenItemImageUrl } from './early_material_eleven_item_art';
@@ -277,6 +279,8 @@ import { zone3TrophiesItemImageUrl } from './zone3_trophies_item_art';
 // Keep the original-art lookup behind one seam as individual batches grow.
 export function paintedItemImageUrl(id: string): string | null {
   return (
+    crucibleMailPatternItemImageUrl(id) ??
+    nythraxisApexPatternItemImageUrl(id) ??
     hoarfrostEpicItemImageUrl(id) ??
     riftGemItemImageUrl(id) ??
     apexFeastRecipeItemImageUrl(id) ??

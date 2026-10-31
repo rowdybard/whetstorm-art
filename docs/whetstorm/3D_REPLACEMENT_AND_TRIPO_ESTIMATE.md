@@ -126,6 +126,28 @@ same directory have their own contributor-handoff row with the same category.
 These are not classified as permission-required by the separate restricted
 concept-art or voice-line credits.
 
+#### Ignivar replacement compatibility
+
+The character manifest normalizes the posed body to height 2.65, with the mob
+template applying scale 3.4, for a nominal 9.01-unit visual. Preserve the
+game's +Z facing, grounded feet, and coherent posed bounds. The loader derives
+the presentation click capsule from normalized footprint with a 0.5 to 2.2
+radius clamp; check targeting and access to nearby targets with the new shape.
+This selection proxy is separate from simulation collision, scale-based melee
+reach, and encounter geometry, which remain authoritative.
+
+The current mapping uses `Idle`, `Walk`, `Run`, `Attack`, `Death`, `Channel`,
+and `FistSpin360` clips. Preserve their behavior or update the mapping and retune
+the walk/run references for the new rig. The renderer attaches model VFX through
+`src/render/ignivar_model_vfx.ts`: the authored path expects `vfx_core`,
+`vfx_vent.l`, and `vfx_vent.r` nodes, with vent emission along local +Y. Its
+fallback needs all three `Socket_ChestCore`, `Socket_ShoulderLeft`, and
+`Socket_ShoulderRight` nodes; it can add them to a named `chest` only when the
+chest-core socket is absent. Check complete anchor placement and orientation,
+graphics-tier behavior, and encounter cast/release state timing with the new
+animations. Do not infer physical collider behavior from mesh or click bounds.
+Replacement fit and in-game behavior have not been verified.
+
 Varkhul maps to `public/models/creatures/varkhul_forgefather.glb`.
 `scripts/assets/specs/varkhul_forgefather.json` identifies a maintainer-local
 source and processing, but the inspected credit register does not establish

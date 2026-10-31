@@ -1,0 +1,56 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "date": "2026-10-30",
+  "inputs": "No reference images",
+  "processing": "Sharp 128x128 opaque WebP quality 88 effort 6",
+  "entries": [
+    {
+      "id": "soc_guild_founded",
+      "path": "public/ui/whetstorm/deeds/soc_guild_founded.webp",
+      "bytes": 6738,
+      "sha256": "7452ee532a8b881cce1b0bf6faf997e0971ee494ab7dc863c5e3e6b1b971f584",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/social-hidden-four/soc_guild_founded.png",
+        "bytes": 2207626,
+        "sha256": "62fcc69cebb9275a4b143ce5b5435c0aca418b31a8a22894a5f9401792f08310"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A quill signing a blank parchment charter beneath a small gold banner and clasped hands emblem, symbolizing founding a guild. Hand-painted dark fantasy illustration, bold centered silhouette, strong contrast, readable at 28 pixels. No writing, letters, numerals, frame, logo or watermark."
+    },
+    {
+      "id": "soc_gilded_strongbox",
+      "path": "public/ui/whetstorm/deeds/soc_gilded_strongbox.webp",
+      "bytes": 5576,
+      "sha256": "ae3d1943c56ac1ffbe71e32eee10b7e4b9ddc4c09e38fa2a1cb3132ed6732e7b",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/social-hidden-four/soc_gilded_strongbox.png",
+        "bytes": 2348886,
+        "sha256": "70c81aaef9a462f5f336a39e362c9c5e41d55e0806f95cb4020593490a6e55b8"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A sturdy closed iron strongbox with gold corner fittings and a prominent heavy lock, against dark blue. Hand-painted dark fantasy illustration, bold centered silhouette, strong contrast, readable at 28 pixels. No writing, letters, numerals, frame, logo or watermark."
+    },
+    {
+      "id": "soc_wyrms_hoard",
+      "path": "public/ui/whetstorm/deeds/soc_wyrms_hoard.webp",
+      "bytes": 6324,
+      "sha256": "67958558694a182ffd3a983880c65fafc0199ed783dbe79667e047d2d5b1f478",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/social-hidden-four/soc_wyrms_hoard.png",
+        "bytes": 2436629,
+        "sha256": "2a06ce2f8ab8ec4d528197c9cf7d1d9758820dc1a4a9c1bbbf093e3b7211eade"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A coiled dragon silhouette surrounding a large shining heap of gold coins, against dark burgundy. Hand-painted dark fantasy illustration, bold centered silhouette, strong contrast, readable at 28 pixels. No writing, letters, numerals, frame, logo or watermark."
+    },
+    {
+      "id": "hid_gilded_tour",
+      "path": "public/ui/whetstorm/deeds/hid_gilded_tour.webp",
+      "bytes": 5848,
+      "sha256": "e61cbe855779e03bb2f711335b8536c30354a2ffb8e9848109ac3860a7ab099c",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/social-hidden-four/hid_gilded_tour.png",
+        "bytes": 2480554,
+        "sha256": "6d8d53d776274db4739fba8376e00cbbac86238a78034a1e18e0a3b26bb7163c"
+      },
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy game achievement icon. A single golden compass rose floating over a winding path through a misty landscape, abstract and mysterious, no characters, buildings or numbers. Hand-painted dark fantasy illustration, bold centered silhouette, strong contrast, readable at 28 pixels. No writing, letters, numerals, frame, logo or watermark."
+    }
+  ]
+}
