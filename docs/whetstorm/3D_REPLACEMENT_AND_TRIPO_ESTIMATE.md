@@ -406,6 +406,27 @@ chooses `shield_round`. A proposed replacement needs actual hand and back fit,
 origin and clipping checks across supported bodies and animations, preview
 tiers, and the resolver/preload tests; no candidate fit has been verified.
 
+### Equipped starter sword example
+
+The Warrior starts with `worn_sword` (Pitted Shortsword). The item variant
+registry maps it to `sword_a`, and `itemWeaponModelUrl` resolves
+`public/models/weapons/sword_a.glb` when an applicable weapon skin does not
+override it. The model exists in the reference checkout. Its addition and later
+texture-conversion commits establish history, but the inspected credits and
+asset specifications do not identify an exact source or license for this GLB.
+Its terms are unresolved; that is not a finding that it is explicitly
+permission-required, and the KayKit weapons credit cannot be applied by name
+alone.
+
+The attachment registry assigns `sword_a` to `VAR_SWORD`: its grip-origin fit
+uses a 0.04 hand-local lift and a 2.0 height cap that only shrinks oversized
+models. The Warrior's drawn attachment uses `handslot.r`; when stowed, the
+holder reparents to the chest with the `VAR_SWORD` transform in `back_grips.ts`.
+A replacement needs hand-origin and handedness checks, drawn and stowed fit,
+clipping across supported bodies and animations, and skin override, heroic
+inheritance, and preload verification. This is visual attachment rather than a
+simulation collider. No replacement has been verified in game.
+
 ## Illustrative Tripo costs, not a purchasing plan
 
 Tripo [Studio pricing](https://www.tripo3d.ai/product-doc/getting-started/pricing-credits)

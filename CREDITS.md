@@ -1295,6 +1295,12 @@ generated with OpenAI's built-in image generation; prompts and hashes are in
 `docs/whetstorm/cinderweave-accessories-original-generation.json`, and
 `docs/design/whetstorm-art/items/glacier-bulwark-tiers/provenance.json`.
 
+Seven Thornhide armor paintings and three Vesperash armor paintings were
+generated with OpenAI's built-in image generation; prompts and hashes are in
+`docs/design/whetstorm-art/items/thornhide-upper-equipment/upper-provenance.md`,
+`docs/design/whetstorm-art/items/thornhide-lower-original/thornhide-lower-provenance.json`, and
+`docs/whetstorm/vesperash-upper-original-generation.json`.
+
 Three epic Ember armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/emberforge-epic/provenance.json`.

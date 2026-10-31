@@ -1,0 +1,30 @@
+{
+  "generator": "Built-in imagegen; three independent generations; no source references",
+  "processing": "sharp resize 128x128, WebP quality 88 effort 6",
+  "images": [
+    {
+      "id": "vesperash_helmet",
+      "master": "docs/design/whetstorm-art/items/vesperash-upper-original/vesperash_helmet.png",
+      "output": "public/ui/whetstorm/items/vesperash_helmet.webp",
+      "masterSha256": "52694dbb941c68955de2c56d633082cdd354dfe03cbe44bdd66309bd019f12f7",
+      "outputSha256": "6f9f8046441e639d2b3bbc0e75bd9997be77eb4fad4cc4d4e9735f8dfe8d16ce",
+      "prompt": "Original square fantasy RPG inventory painting for Vesperash Shroud, a priest's epic cloth set: deep plum and ash-gray woven fabric, muted silver edging, subtle pale ember embroidery, dark charcoal backdrop. Unworn single item, clear large distinct silhouette at 28px, painterly. No person, metal armor, writing, letters, numbers, logo, border or watermark. A deep pointed fabric HOOD, empty face opening, with a short ash-gray veil draped below the chin; unmistakable headwear silhouette."
+    },
+    {
+      "id": "vesperash_shoulder",
+      "master": "docs/design/whetstorm-art/items/vesperash-upper-original/vesperash_shoulder.png",
+      "output": "public/ui/whetstorm/items/vesperash_shoulder.webp",
+      "masterSha256": "a215a77c0848f103456843d86c377fc71b447cd1bc7bf5b9cecba03b4529eae1",
+      "outputSha256": "6575a12ef320ad91862042a9b5bc30354ed7d692a4cbc9a42815f4293238a865",
+      "prompt": "Original square fantasy RPG inventory painting for Vesperash Shroud, a priest's epic cloth set: deep plum and ash-gray woven fabric, muted silver edging, subtle pale ember embroidery, dark charcoal backdrop. Unworn single item, clear large distinct silhouette at 28px, painterly. No person, metal armor, writing, letters, numbers, logo, border or watermark. A broad symmetrical cloth MANTLE for shoulders, a crescent-shaped ash-gray shawl with two pointed hanging fabric ends and featherlike folded edges; no torso, no head."
+    },
+    {
+      "id": "vesperash_chest",
+      "master": "docs/design/whetstorm-art/items/vesperash-upper-original/vesperash_chest.png",
+      "output": "public/ui/whetstorm/items/vesperash_chest.webp",
+      "masterSha256": "28d9061b231a4d0a538e315908afd91299c4ad7503498bd8ee689188f7a96ecb",
+      "outputSha256": "3116b838db7fdc8cff3169e1395a4aff7643df7f1b4092f8502bb5aa8cf36698",
+      "prompt": "Original square fantasy RPG inventory painting for Vesperash Shroud, a priest's epic cloth set: deep plum and ash-gray woven fabric, muted silver edging, subtle pale ember embroidery, dark charcoal backdrop. Unworn single item, clear large distinct silhouette at 28px, painterly. No person, metal armor, writing, letters, numbers, logo, border or watermark. A full long-sleeved priest's cloth ROBE, front view with a long split hem and ash-gray sash; complete torso and skirt silhouette, no head or shoulders detached."
+    }
+  ]
+}

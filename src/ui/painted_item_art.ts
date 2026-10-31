@@ -38,6 +38,9 @@ import { cinderFirstDesignItemImageUrl } from './cinder_first_design_item_art';
 import { cinderweaveAccessoriesItemImageUrl } from './cinderweave_accessories_item_art';
 import { cinderweaveUpperItemImageUrl } from './cinderweave_upper_item_art';
 import { glacierBulwarkTierItemImageUrl } from './glacier_bulwark_tier_item_art';
+import { thornhideLowerS1ItemImageUrl } from './thornhide_lower_s1_item_art';
+import { thornhideUpperItemImageUrl } from './thornhide_upper_item_art';
+import { vesperashUpperItemImageUrl } from './vesperash_upper_item_art';
 import { cleaverWildsoulItemImageUrl } from './cleaver_wildsoul_item_art';
 import { clothBatchFiveItemImageUrl } from './cloth_batch_five_item_art';
 import { clothBatchFourItemImageUrl } from './cloth_batch_four_item_art';
@@ -411,6 +414,9 @@ export function paintedItemImageUrl(id: string): string | null {
     cinderweaveAccessoriesItemImageUrl(id) ??
     cinderweaveUpperItemImageUrl(id) ??
     glacierBulwarkTierItemImageUrl(id) ??
+    thornhideLowerS1ItemImageUrl(id) ??
+    thornhideUpperItemImageUrl(id) ??
+    vesperashUpperItemImageUrl(id) ??
     wovenBagsItemImageUrl(id) ??
     craftedGroupFeastsItemImageUrl(id) ??
     factionBagsItemImageUrl(id) ??

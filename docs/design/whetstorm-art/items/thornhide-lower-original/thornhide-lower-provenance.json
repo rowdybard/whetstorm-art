@@ -1,0 +1,42 @@
+{
+  "generator": "OpenAI built-in imagegen",
+  "conversion": "sharp resize 128x128, WebP quality 82, effort 6",
+  "records": [
+    {
+      "id": "thornhide_cinch",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Thornhide Cinch, a broad forest-green and dark-brown leather belt, bold central clasp, pale thorn and bone accents, fine gold stitching. Distinct horizontal belt silhouette, nature-inspired leather armor, centered large on dark navy background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/thornhide-lower-original/thornhide_cinch.png",
+      "masterSha256": "0bc4e0193ddaafdd6452223b68a3885a178f33bee4b87b8e88fdd3148ff40f9d",
+      "shipping": "public/ui/whetstorm/items/thornhide_cinch.webp",
+      "shippingSha256": "cc5c48f12f7269ae1f11c06441bdc5e9947d2cad99be162f8d1eff684fe6d76f"
+    },
+    {
+      "id": "thornhide_leggings",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Thornhide Leggings, a pair of forest-green and dark-brown leather leggings with clearly separated legs, pale thorn and bone accents, fine gold stitching. Distinct leg silhouette, nature-inspired leather armor, centered large on dark navy background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/thornhide-lower-original/thornhide_leggings.png",
+      "masterSha256": "f236ec523579a7949b523f4a3c7ea3aae495c5c9a0554bb21b838d5f5ec10855",
+      "shipping": "public/ui/whetstorm/items/thornhide_leggings.webp",
+      "shippingSha256": "eba5e50ef1d6b08c5b1f45abdb625b1e8beb52f4c6ce214442d9145708f67c6e"
+    },
+    {
+      "id": "thornhide_gloves",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Thornhide Gloves, a pair of forest-green and dark-brown leather gloves with clearly visible fingers, pale thorn and bone accents, fine gold stitching. Distinct glove silhouette, nature-inspired leather armor, centered large on dark navy background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/thornhide-lower-original/thornhide_gloves.png",
+      "masterSha256": "ec449cee172259a7c3125dab344dc3c411e56341533d01aad1edf83b0dbfee66",
+      "shipping": "public/ui/whetstorm/items/thornhide_gloves.webp",
+      "shippingSha256": "45eff4d4b63af31a610ced52dc4e5dbc5b7165302d5e6095c50fed8a7e5d2e49"
+    },
+    {
+      "id": "thornhide_boots",
+      "prompt": "Original hand-painted fantasy RPG inventory icon: Thornhide Boots, a pair of forest-green and dark-brown leather boots with clearly visible feet, pale thorn and bone accents, fine gold stitching. Distinct boot silhouette, nature-inspired leather armor, centered large on dark navy background. No wearer, text, letters, border or extra objects. Readable at 28px.",
+      "referenceImages": [],
+      "master": "docs/design/whetstorm-art/items/thornhide-lower-original/thornhide_boots.png",
+      "masterSha256": "d4bba92bb98cc42f40d1ea6d50e73ecb61acb1749465c1fa99a708ed2c17bd7c",
+      "shipping": "public/ui/whetstorm/items/thornhide_boots.webp",
+      "shippingSha256": "ca00c70bb1ef9b19e3314e382437edd56313640835e61404f0c3ae8e57e03111"
+    }
+  ]
+}
