@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation, three separate text-only prompts, no image references",
+  "purpose": "Original visual upgrades for rare Tarnished Tempest Vharok hoard armor; Sovereign variants remain unmapped.",
+  "processing": "sharp resize 128x128 Lanczos3, WebP quality 90 effort 6",
+  "review": "In-game review pending.",
+  "entries": [
+    {
+      "id": "rare_hauberk_tempest_gale",
+      "prompt": "Original opaque square fantasy game inventory painting: a single worn mail hauberk with dull weathered steel chain links, faded slate-blue cloth, rough leather repairs, modest dents and a small simple silver wind marking. Clear chest silhouette; no body, person or creature. Practical humble dark fantasy item, dark charcoal backdrop, warm upper-left light. No text, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/tempest-tarnished/rare_hauberk_tempest_gale.png",
+      "sourceSha256": "2cef624ca070fc4dac9392be3a35409753fd093bf1c9a8bb980d4c23691febb6",
+      "output": "public/ui/whetstorm/items/rare_hauberk_tempest_gale.webp",
+      "outputSha256": "f44faa91dcd2cbd11b9eb0c2a99c362963cefab397f7ee02e07f365189f5ae28"
+    },
+    {
+      "id": "rare_gale_strider_boots",
+      "prompt": "Original opaque square fantasy game inventory painting: a matching pair of worn practical leather boots, faded slate-blue leather, scuffed toes, visible repair stitching, rough cuff and simple dull silver wind markings. Clear boot silhouettes; no legs, body, person or creature. Humble dark fantasy item, dark charcoal backdrop, warm upper-left light. No text, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/tempest-tarnished/rare_gale_strider_boots.png",
+      "sourceSha256": "2d091e2f0c4411a20eec122613d78f68cb49850311cb3450feca7ae0f5dc58ce",
+      "output": "public/ui/whetstorm/items/rare_gale_strider_boots.webp",
+      "outputSha256": "a2b2bdac66d666db706f8cc3f86023e06e5bfee710ad26ea61340c1f91a19d18"
+    },
+    {
+      "id": "rare_tempest_strike_grips",
+      "prompt": "Original opaque square fantasy game inventory painting: a matching pair of worn mail gloves, tarnished steel chain mesh, dull scratched blue-gray knuckle plates and simple muted lightning marking. Clear glove pair silhouette; no arms, body, person or creature. Practical humble dark fantasy item, dark charcoal backdrop, warm upper-left light. No text, frame or watermark.",
+      "source": "docs/design/whetstorm-art/items/tempest-tarnished/rare_tempest_strike_grips.png",
+      "sourceSha256": "ec02b73bf5d15bca06d22112b27b271544f69ad9f973b2c716a04d168ebaa8f1",
+      "output": "public/ui/whetstorm/items/rare_tempest_strike_grips.webp",
+      "outputSha256": "7f5328c53700faf1b5adbc9481229ffb35c08ac0729490944bcf49fad30cf6ba"
+    }
+  ]
+}

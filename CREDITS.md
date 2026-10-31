@@ -1224,6 +1224,10 @@ and hashes are recorded in `docs/design/whetstorm-art/items/tempest-epic/provena
 `docs/design/whetstorm-art/items/emberscreed-legs/provenance.md`, and
 `docs/whetstorm/daily-reward-chest-generation.json`.
 
+Three Tarnished Tempest armor paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/design/whetstorm-art/items/tempest-tarnished/provenance.json`.
+
 Three Crucible healer and cloth pattern paintings were generated with OpenAI's
 built-in image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/crucible-healer-cloth/provenance.md`.
