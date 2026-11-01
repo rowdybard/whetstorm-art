@@ -1621,6 +1621,10 @@ Two Slagcrown armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/slagcrown-lower-generation.json`.
 
+Two Thistlebloom armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/thistlebloom-lower-generation.json`.
+
 Two Dreadquill armor paintings were generated with OpenAI's built-in image
 generation; prompts, references, and hashes are recorded in
 `docs/whetstorm/dreadquill-lower-generation.json`.

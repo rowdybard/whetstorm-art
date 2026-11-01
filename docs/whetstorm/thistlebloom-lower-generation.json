@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_druid_restoration_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_restoration_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Thistlebloom Leggings, one complete symmetrical pair of druid leg armor of moss-green leather and pale leaf trim with muted violet thistle bloom ornaments. Centered front view, no body or boots. Premium hand-painted dark fantasy, simple subdued dark charcoal-green vignette without scenery, warm top-left light, complete silhouette with generous safe margins, clear at 28px grayscale. No text, frame, watermark, creature portrait or extra objects.",
+      "status": "original art candidate",
+      "sha256": "e6756dbd1f4c959b9e0a0a768925757d2ad518bb774fcdfb7e19ebb53d607aae",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_restoration_legs.webp",
+        "sha256": "01e5014ee936f54b0e86873dd86142cf861ae846fa626c57c862683884d496c1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_druid_restoration_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_restoration_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Thistlebloom Gloves, one compact pair of druid gloves of moss-green leather and pale leaf trim with muted violet thistle bloom ornaments. Centered view, no wearer or arms. Premium hand-painted dark fantasy, simple subdued dark charcoal-green vignette without scenery, warm top-left light, complete silhouette with generous safe margins, clear at 28px grayscale. No text, frame, watermark, creature portrait or extra objects.",
+      "status": "original art candidate",
+      "sha256": "35b2d766277ee278834b9413242c440d593a06be5c367ac663de960891e6e629",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_restoration_gloves.webp",
+        "sha256": "a9089b59b22aa911e13078bd085268c9fc8c279498cc5976c5a4d110f7b6f859",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

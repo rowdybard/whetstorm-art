@@ -67,6 +67,7 @@ import { vanguardDuskhymnLowerItemImageUrl } from './vanguard_duskhymn_lower_ite
 import { dreadquillUpperItemImageUrl } from './dreadquill_upper_item_art';
 import { dreadquillLowerItemImageUrl } from './dreadquill_lower_item_art';
 import { thistlebloomUpperItemImageUrl } from './thistlebloom_upper_item_art';
+import { thistlebloomLowerItemImageUrl } from './thistlebloom_lower_item_art';
 import { demonologyWarlockUpperItemImageUrl } from './demonology_warlock_upper_item_art';
 import { demonologyWarlockLowerItemImageUrl } from './demonology_warlock_lower_item_art';
 import { dawnBattleStandardItemImageUrl } from './dawn_battle_standard_item_art';
@@ -544,6 +545,7 @@ export function paintedItemImageUrl(id: string): string | null {
     dreadquillUpperItemImageUrl(id) ??
     dreadquillLowerItemImageUrl(id) ??
     thistlebloomUpperItemImageUrl(id) ??
+    thistlebloomLowerItemImageUrl(id) ??
     demonologyWarlockUpperItemImageUrl(id) ??
     demonologyWarlockLowerItemImageUrl(id) ??
     dawnBattleStandardItemImageUrl(id) ??
