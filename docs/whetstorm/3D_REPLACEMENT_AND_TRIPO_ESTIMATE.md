@@ -325,10 +325,22 @@ the Rig_Medium animation library CC0. Its character-specific row links the
 [KayKit Adventurers 1.0 repository](https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0),
 which independently states CC0 for that repository. That 1.0 statement does
 not establish the exact archive terms of Adventurers 2.0, Character Animations
-1.1, or the separately sourced paladin. The creator's product pages could not
-be fetched during this check. Obtain and retain the relevant archive license or
-other version-specific source evidence before treating those files as cleared;
-this gap does not establish that they are prohibited.
+1.1, or the separately sourced paladin by itself.
+
+On 2026-11-01, the creator's official [Adventurers product page](https://kaylousberg.itch.io/kaykit-adventurers)
+listed the pack as CC0 for personal and commercial use and offered 2.0 Free,
+Extra, and Source downloads. The [Character Animations product page](https://kaylousberg.itch.io/kaykit-character-animations)
+listed its animations as CC0, identified Rig_Medium, and offered 1.1 downloads;
+the [1.1 update notes](https://kaylousberg.itch.io/kaykit-character-animations/devlog/1139588/character-animations-update-11)
+also identify Rig_Medium additions. The creator's [Mystery Monthly Series 4 page](https://kaylousberg.itch.io/kaykit-series-4)
+lists a Paladin and labels that pack CC0, but the local `KayKit/Paladin` path
+does not establish that it is the same asset. These current product statements
+are stronger pack-level evidence; they do not prove the exact local source
+archives, shipped derivatives, textures, or merged clips match those packs.
+Retain the applicable archive evidence and verify those identities before
+declaring each shipped component cleared. The creator also requests that users
+not resell unmodified copies or claim authorship; the product pages present
+that separately from their CC0 license statements.
 
 The checked-in `third_party/licenses/kaykit-cc0.txt` is additional evidence: it
 identifies The Complete KayKit Collection v5, dated 2026-04-28, and states CC0
