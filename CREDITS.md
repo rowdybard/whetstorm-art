@@ -1621,6 +1621,10 @@ Two Slagcrown armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/slagcrown-lower-generation.json`.
 
+The Riding Training service painting was generated with OpenAI's built-in image
+generation; its prompt and hashes are recorded in
+`docs/whetstorm/riding-training-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

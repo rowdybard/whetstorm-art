@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "riding_training",
+      "file": "docs/design/whetstorm-art/items/riding_training.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting for a riding training vendor service: one rolled parchment certificate partially unfurled beside a single polished iron stirrup, a small simple horse silhouette illustration on the parchment, tied with a dark blue ribbon. Communicate learning a skill, not owning a horse or reins. Large centered objects on a dark muted navy background, hand-painted fantasy game art, strong silhouette readable at 28 pixels. No readable text, letters, UI frame, person, logo, watermark or other objects.",
+      "sha256": "5eb42f7c3d82ddb0fc44d46148e27b031cad452c2d0ccec53d560f3b522311f2",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/riding_training.webp",
+        "sha256": "edc9e90edb9589103a4148a4fbab71a6ea4913e9d631e8feb77ba00a986feac3",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

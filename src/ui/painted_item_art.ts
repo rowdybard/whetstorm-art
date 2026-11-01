@@ -71,6 +71,7 @@ import { thistlebloomLowerItemImageUrl } from './thistlebloom_lower_item_art';
 import { demonologyWarlockUpperItemImageUrl } from './demonology_warlock_upper_item_art';
 import { demonologyWarlockLowerItemImageUrl } from './demonology_warlock_lower_item_art';
 import { dawnBattleStandardItemImageUrl } from './dawn_battle_standard_item_art';
+import { ridingTrainingItemImageUrl } from './riding_training_item_art';
 import { slagcrownUpperItemImageUrl } from './slagcrown_upper_item_art';
 import { slagcrownLowerItemImageUrl } from './slagcrown_lower_item_art';
 import { starwardenUpperItemImageUrl } from './starwarden_upper_item_art';
@@ -549,6 +550,7 @@ export function paintedItemImageUrl(id: string): string | null {
     demonologyWarlockUpperItemImageUrl(id) ??
     demonologyWarlockLowerItemImageUrl(id) ??
     dawnBattleStandardItemImageUrl(id) ??
+    ridingTrainingItemImageUrl(id) ??
     slagcrownUpperItemImageUrl(id) ??
     slagcrownLowerItemImageUrl(id) ??
     starwardenUpperItemImageUrl(id) ??
