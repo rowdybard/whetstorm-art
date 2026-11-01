@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_warrior_fury_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_fury_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bloodmarch Leggings, one complete symmetrical pair of fierce warrior leg armor of dark chainmail and blackened iron, oxblood leather straps and prominent bone-white fang ornaments at knees, battle-worn. Centered front view, no body or boots. Premium hand-painted dark fantasy, muted brown charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "3ce99175f94aa1ba96266426f6dfef710a0e09d749a200fc0ae992bced282027",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_fury_legs.webp",
+        "sha256": "0678e6a2380218b0797b1f0decc16e64f5a41478cf9fd4db4a5324ebcf3403f3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warrior_fury_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_fury_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bloodmarch Grips, one compact pair of fierce warrior gauntlets of dark chainmail and blackened iron, oxblood leather straps and prominent bone-white fang ornaments on cuffs, battle-worn. Centered view, no wearer or arms. Premium hand-painted dark fantasy, muted brown charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "ed4cc900dab4d2af5eb6823587747e5ee6e79fd0c167aff363991adddc200878",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_fury_gloves.webp",
+        "sha256": "1089524693173a4a708766ceac261c008964564ac8bee11b2208421657a5f7f4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

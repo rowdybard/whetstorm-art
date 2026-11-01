@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_paladin_protection_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_protection_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: a paladin protector's closed mail helmet, blue-black steel with silver edges and aged gold trim, a broad shield-shaped crest with a pale warm glow on the brow, narrow visor. Strong helmet silhouette centered on dark muted navy painterly background. Classic hand-painted game item art, readable at 28 pixels. No person, text, frame, watermark or logo.",
+      "sha256": "f9478df5ee2a927c5e0484b94a49becca47e382a953804bbbbcb97d477abe9a7",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_protection_helmet.webp",
+        "sha256": "484f93189439206b94507427edd5bbde55b2f86882136c3e8a8bd7a13eee8d76",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_paladin_protection_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_protection_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: pair of paladin protector's broad mail pauldrons, blue-black steel with silver edges and aged gold trim, each with a broad shield-shaped crest with a pale warm glow, layered curved plates. Strong shoulder armor silhouette centered on dark muted navy painterly background. Classic hand-painted game item art, readable at 28 pixels. No person, text, frame, watermark or logo.",
+      "sha256": "a1e529001b3444aeb20eca36fab06994406b726238cce19bb2036ba85a2feb81",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_protection_shoulder.webp",
+        "sha256": "21d8da127d20118ae0b8102e4660833736651c13b946a583acc304ab19e84817",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_paladin_protection_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_protection_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: a paladin protector's mail breastplate, blue-black steel with silver edges and aged gold trim, a broad shield-shaped central crest with a pale warm glow, layered curved plates. Strong chest armor silhouette centered on dark muted navy painterly background. Classic hand-painted game item art, readable at 28 pixels. No person, text, frame, watermark or logo.",
+      "sha256": "17ee6d6a4849afbc67a9c6dc41e878089f872c937a3d60ff90272072377c1a9c",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_protection_chest.webp",
+        "sha256": "5d41e8460b4a4849576349fd9fcc1c9b6fa688bba99076ae54916de81fb161ad",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

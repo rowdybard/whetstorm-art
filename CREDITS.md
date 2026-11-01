@@ -1465,6 +1465,22 @@ Three Snaretooth armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/survival-hunter-upper-generation.json`.
 
+Two Ruincaller armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/ruincaller-lower-generation.json`.
+
+Two Bloodmarch armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/bloodmarch-lower-generation.json`.
+
+Two Snaretooth armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/survival-hunter-lower-generation.json`.
+
+Three Shieldvow armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/shieldvow-upper-generation.json`.
+
 Two Chained Ember Choker tier paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/chained-ember-choker-tiers-original/chained-ember-choker-provenance.json`.

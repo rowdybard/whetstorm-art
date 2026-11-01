@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "ruincaller_gloves",
+      "file": "docs/design/whetstorm-art/items/ruincaller_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square inventory painting of Ruincaller Handwraps, a compact pair of empty warlock cloth gloves in charcoal and deep burgundy layered wrappings with aged bronze trim, jagged broken-arch angular ornament and restrained molten amber crystals on cuffs. No hands or person. Entire pair centered with clear glove silhouettes and safe padding. Dark warm umber painted vignette, premium hand-painted classic fantasy MMO art, tactile cloth folds, warm upper-left light, cool shadow, readable at 28px. No writing, frame, watermark, transparency or additional objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "29376f748be1ec4ced9304b2c2b258c43dee95fb16c777a3b870256793157807",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ruincaller_gloves.webp",
+        "sha256": "ebdbd8d00aee13bee0d2b8c95bbedf9ba11b7d1ed9256d1bc2520df3d78ca50e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ruincaller_legs",
+      "file": "docs/design/whetstorm-art/items/ruincaller_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square inventory painting of Ruincaller Leggings, one complete pair of empty warlock cloth trousers in charcoal and deep burgundy with aged bronze trim, jagged broken-arch angular ornament and one restrained molten amber crystal at waist. No body, boots or person. Front view, entire trousers centered with separated leg silhouettes and safe padding. Dark warm umber painted vignette, premium hand-painted classic fantasy MMO art, tactile cloth folds, warm upper-left light, cool shadow, readable at 28px. No writing, frame, watermark, transparency or additional objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "5d5972076276317d166c0d7eb7f632ec8bec76594bda5e188d47cd09d9d39557",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ruincaller_legs.webp",
+        "sha256": "635ebf8652581297732bff54256e7b367f1f88382cfc0b0ba1be57dfd95c5ef2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

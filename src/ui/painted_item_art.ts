@@ -81,8 +81,12 @@ import { ignivarFrostquenchUpperItemImageUrl } from './ignivar_frostquench_upper
 import { ignivarGravebrandUpperItemImageUrl } from './ignivar_gravebrand_upper_item_art';
 import { ignivarGravebrandLowerItemImageUrl } from './ignivar_gravebrand_lower_item_art';
 import { ruincallerUpperItemImageUrl } from './ruincaller_upper_item_art';
+import { ruincallerLowerItemImageUrl } from './ruincaller_lower_item_art';
 import { bloodmarchUpperItemImageUrl } from './bloodmarch_upper_item_art';
+import { bloodmarchLowerItemImageUrl } from './bloodmarch_lower_item_art';
 import { survivalHunterUpperItemImageUrl } from './survival_hunter_upper_item_art';
+import { survivalHunterLowerItemImageUrl } from './survival_hunter_lower_item_art';
+import { shieldvowUpperItemImageUrl } from './shieldvow_upper_item_art';
 import { arcaneMageUpperItemImageUrl } from './arcane_mage_upper_item_art';
 import { collapsarRingTierItemImageUrl } from './collapsar_ring_tier_item_art';
 import { mountainBandTierItemImageUrl } from './mountain_band_tier_item_art';
@@ -505,8 +509,12 @@ export function paintedItemImageUrl(id: string): string | null {
     ignivarGravebrandUpperItemImageUrl(id) ??
     ignivarGravebrandLowerItemImageUrl(id) ??
     ruincallerUpperItemImageUrl(id) ??
+    ruincallerLowerItemImageUrl(id) ??
     bloodmarchUpperItemImageUrl(id) ??
+    bloodmarchLowerItemImageUrl(id) ??
     survivalHunterUpperItemImageUrl(id) ??
+    survivalHunterLowerItemImageUrl(id) ??
+    shieldvowUpperItemImageUrl(id) ??
     arcaneMageUpperItemImageUrl(id) ??
     collapsarRingTierItemImageUrl(id) ??
     mountainBandTierItemImageUrl(id) ??

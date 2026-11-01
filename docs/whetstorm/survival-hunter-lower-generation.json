@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_hunter_survival_legs",
+      "file": "docs/design/whetstorm-art/survival-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/survival-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one complete pair of empty hunter leather legguards, clearly separated legs ending at ankle cuffs, weathered forest-green leather with ochre-brown reinforcement, bone-colored tooth accents and stitched seams. Match the supplied jerkin's materials, palette, painted rendering and dark forest-blue background; show only legguards with no boots or person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "acb7e44f9e403fd35cc0adde5056d90e7a8045ea7a112c576c85d2c73200692c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_survival_legs.webp",
+        "sha256": "a04b0bc5563222c2e80c222e77326ffed39e494c969a0cda3482a031659d0fb5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_hunter_survival_gloves",
+      "file": "docs/design/whetstorm-art/survival-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/survival-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one pair of empty hunter leather gauntlets, recognizable fingers and cuffs, weathered forest-green leather with ochre-brown reinforcement, bone-colored tooth accents and stitched seams. Match the supplied jerkin's materials, palette, painted rendering and dark forest-blue background; show only gloves with no person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "4735024508f0b16a3e389e7944228268c1ab8c19758899b3b4713effde577ab6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_survival_gloves.webp",
+        "sha256": "04f9b596ebe3729cf78cf7f732508d4b925824fad14172e9c17efecdbb5597f3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
