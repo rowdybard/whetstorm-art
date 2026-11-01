@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "magenta_cyan_armor_plate",
+      "file": "docs/design/whetstorm-art/items/magenta_cyan_armor_plate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square sci-fi fantasy RPG inventory icon painting: one detached futuristic armor plate, predominantly saturated MAGENTA enamel with narrow CYAN illuminated edge and inset vents. Single angular chest-shaped plate, centered large on dark navy charcoal background, three-quarter view, tactile hand-painted metal, clear silhouette at 28 pixels. No person, text, frame, logo, watermark or other objects.",
+      "sha256": "6ca9dcf3c150c9160cac7651e5f759a1da5c732b3c0edb142183a85eb6505267",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/magenta_cyan_armor_plate.webp",
+        "sha256": "663ac63f196ecb8c746f891a11f1b9b8a096d42801679fc349fdc957dee88f80",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "orange_steel_armor_plate",
+      "file": "docs/design/whetstorm-art/items/orange_steel_armor_plate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square sci-fi fantasy RPG inventory icon painting: one detached futuristic armor plate, predominantly bright ORANGE enamel with narrow brushed STEEL gray edges and inset vents. Single angular chest-shaped plate, centered large on dark navy charcoal background, three-quarter view, tactile hand-painted metal, clear silhouette at 28 pixels. No person, text, frame, logo, watermark or other objects.",
+      "sha256": "ca2aa9b7e3b0759bf432cd63d0d304d2b23a6cb136cf92bf9a772ad93e08967d",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/orange_steel_armor_plate.webp",
+        "sha256": "af13546af69cf5b3b438e7229df24cc64f57cda58477f641ad98a961048ee06e",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "steel_orange_armor_plate",
+      "file": "docs/design/whetstorm-art/items/steel_orange_armor_plate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square sci-fi fantasy RPG inventory icon painting: one detached futuristic armor plate, predominantly brushed STEEL gray metal with narrow vivid ORANGE enamel edges and inset vents. Single angular chest-shaped plate, centered large on dark navy charcoal background, three-quarter view, tactile hand-painted metal, clear silhouette at 28 pixels. No person, text, frame, logo, watermark or other objects.",
+      "sha256": "6e927d2f3e00837a3bf137349f36e89e7fd4bfca6509e4613b93908c812d88fb",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/steel_orange_armor_plate.webp",
+        "sha256": "64ec53afac9a919d85186a673fbe73c81afca8faed877893114616da9bbf8ecb",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "forest_pink_armor_plate",
+      "file": "docs/design/whetstorm-art/items/forest_pink_armor_plate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square sci-fi fantasy RPG inventory icon painting: one detached futuristic armor plate, predominantly dark FOREST GREEN enamel with narrow bright PINK illuminated edges and inset vents. Single angular chest-shaped plate, centered large on dark navy charcoal background, three-quarter view, tactile hand-painted metal, clear silhouette at 28 pixels. No person, text, frame, logo, watermark or other objects.",
+      "sha256": "27f9b966e9929c0c966bc7e910f6a61eb879257695e480fb20d67054e0247a55",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/forest_pink_armor_plate.webp",
+        "sha256": "f09ac42c7bf2e8ea4e0a539fc219b36acf9357380f5f753d17f7d3f10c4ec7ea",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
