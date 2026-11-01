@@ -1,0 +1,20 @@
+{
+  "asset": "docs/design/whetstorm-concepts/wickharbor-harbor-overview-concept.png",
+  "sha256": "6b58362ffd3a27d5c6e4aaa56bfc1361b58d8f8bcdac54a6120325353f492420",
+  "method": "OpenAI built-in image generation, text-only original followed by edit of that original",
+  "reference_images": [
+    {
+      "role": "edit target: original generated concept",
+      "sha256": "6aa9f14ccae16d25ad3aff50f3240e02b33d23e968e2a41c54e61032d4a5b768"
+    }
+  ],
+  "prompt": "Create a single original text-only concept painting for planning the FULL Wickharbor harbor in a fantasy game, based solely on functional description, with no visual reference images. Elevated three-quarter overview of a windswept medieval wooden harbor on a sheltered cove: a shore boardwalk beneath a bluff, a broad wooden quay joined to it, two separate piers extending from the quay toward open water, two distinct stairs from boardwalk up the bluff toward town, and at the southern end a raised ferry wharf with an arm and connecting stair and a broad open berth head suitable for a future side-boarding gangplank. Include an Old Beacon headland at a distance with its own dock and descending stair. Keep the walkways clear and the relationships readable; use practical timber, stone retaining walls, and restrained cargo shelter and crane. Coherent stylized fantasy environment concept, soft natural coastal light, complete harbor in frame. No people, vessel, labels, text, logos, annotations, numbers or diagrams. This is an illustrative composition, not an accurate map or dimensioned construction plan. Do not reproduce any existing game asset or image.",
+  "textual_sources": [
+    "src/sim/content/wickharbor_harbor.ts",
+    "src/sim/content/wickharbor_wharf.ts",
+    "src/sim/content/galecrest.ts",
+    "docs/whetstorm/3D_REPLACEMENT_AND_TRIPO_ESTIMATE.md"
+  ],
+  "limitations": "Atmospheric 2D concept only, not a 3D model or a layout reference. The original edit-target image was not retained, so its recorded hash cannot be independently verified from this repository. The revised image shows a mainland-connected Beacon headland but its positions, terrain, deck joins, proportions and routes are illustrative and do not establish actual world topology, fit, navigation, walkability, collision, interaction placement, or ferry boarding. Its raised wharf does not clearly depict the required open broadside berth and gangplank landing. Use the simulation layout and collider data for modeling and validation.",
+  "revision_prompt": "Revise this original harbor concept: eliminate the water channel separating the lighthouse headland from town. Make the entire lighthouse headland a continuous natural mainland bluff visibly connected by land to the town bluff, with a clearly visible walkable land path along the same continuous high ground to the lighthouse. Its own separate stair descends the headland to meet its dock at the dock's shoreward root. Maintain main harbor shore boardwalk, broad quay, two separate seaward piers, two stairs from town bluff to boardwalk, and raised ferry wharf and landing. Avoid creating a bridge in place of land. No people, boats, text or labels. Keep the same overall elevated view and painted visual character. This is an atmospheric concept, not a precise map or dimensioned model."
+}

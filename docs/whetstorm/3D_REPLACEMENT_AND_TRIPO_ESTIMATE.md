@@ -287,6 +287,12 @@ a replacement; several assets may be covered by one suitable cleared substitute.
 | NPC gear | `chars/npc_gear/harbormaster_tricorne.glb`, `harbormaster_spyglass.glb` | Bone attachment and bind-frame fit |
 | Harbors | `props/wyrmwatch_harbor.glb`, `wickharbor_wharf.glb`, `wickharbor_harbor.glb` | Walkable layout, collision, stairs, docks and interaction positions |
 
+The original `docs/design/whetstorm-concepts/wickharbor-harbor-overview-concept.png`
+is an atmospheric reference for the full harbor; its generation record and
+limitations are in `docs/whetstorm/wickharbor-harbor-overview-generation.json`.
+It is not a layout plan: its ferry boarding edge is unclear and all modeled
+deck joins, paths and collisions must follow the simulation source.
+
 The five ferry, marker, and harbor prop models have renderer paths gated to the
 built-in world in `src/render/props.ts`; two ferry routes share the same ferry
 model. Tamsin is spawned when the selected world contains her dynamic NPC
