@@ -1,0 +1,19 @@
+{
+  "asset": "docs/design/whetstorm-concepts/sunpetal-grimoire-3d-intake.png",
+  "purpose": "Original Sunpetal Grimoire concept for future 3D intake; not a runtime model",
+  "source": "OpenAI built-in image generation",
+  "reference_images": [
+    {
+      "path": "docs/design/whetstorm-art/items/sunpetal_grimoire.png",
+      "role": "sole subject identity reference; text-only Whetstorm original",
+      "sha256": "b90d6124109a82221b8b13629fefecd471c27ed62e1080afd7a85c8cee88691a",
+      "provenance": "docs/whetstorm/inscription-books-generation.json"
+    }
+  ],
+  "prompt": "Create a standalone original Sunpetal Grimoire concept for future 3D intake using the supplied Whetstorm painting as the sole subject-identity reference. Preserve the closed deep-burgundy leather book, gold corner fittings, and prominent embossed golden flower with curling leaves. Show the entire book, spine and page block in a clear three-quarter view, centered with generous margins on a plain pure white background. Hand-painted stylized fantasy, readable solid construction. No hands, person, text, letters, logos, watermark, border, scene, cast shadow or extra objects. Concept illustration only, not a 3D model.",
+  "sha256": "f365f33a046fe176f13d94a9bc36452630fc66dbdb93c7eb7a448ba93ba55c33",
+  "pixels": [1254, 1254],
+  "format": "opaque RGB PNG",
+  "review": "Complete closed book, spine, page block, fittings and flower are visible against white. Identity follows the fork-original painting, not the restricted model.",
+  "validation_required": "No mesh or runtime mapping is supplied. Future work must validate offhand grip origin, scale and orientation, stow placement, caster animation clips and clipping, materials, preload and packaging before any replacement or restricted-file exclusion."
+}
