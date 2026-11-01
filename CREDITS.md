@@ -1544,6 +1544,18 @@ built-in image generation; prompts and hashes are recorded in
 `docs/whetstorm/nightcut-upper-generation.json` and
 `docs/whetstorm/wildfang-upper-generation.json`.
 
+Two Wildfang armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/wildfang-lower-generation.json`.
+
+Two Nightcut armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/nightcut-lower-generation.json`.
+
+Three Galeborn armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/galeborn-upper-generation.json`.
+
 Two Ruincaller armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/ruincaller-lower-generation.json`.

@@ -104,7 +104,10 @@ import { beastHunterUpperItemImageUrl } from './beast_hunter_upper_item_art';
 import { beastHunterLowerItemImageUrl } from './beast_hunter_lower_item_art';
 import { ignivarGrovespringUpperItemImageUrl } from './ignivar_grovespring_upper_item_art';
 import { nightcutUpperItemImageUrl } from './nightcut_upper_item_art';
+import { nightcutLowerItemImageUrl } from './nightcut_lower_item_art';
+import { galebornUpperItemImageUrl } from './galeborn_upper_item_art';
 import { wildfangUpperItemImageUrl } from './wildfang_upper_item_art';
+import { wildfangLowerItemImageUrl } from './wildfang_lower_item_art';
 import { hexthreadUpperItemImageUrl } from './hexthread_upper_item_art';
 import { hexthreadLowerItemImageUrl } from './hexthread_lower_item_art';
 import { marksmanshipHunterUpperItemImageUrl } from './marksmanship_hunter_upper_item_art';
@@ -554,7 +557,10 @@ export function paintedItemImageUrl(id: string): string | null {
     beastHunterLowerItemImageUrl(id) ??
     ignivarGrovespringUpperItemImageUrl(id) ??
     nightcutUpperItemImageUrl(id) ??
+    nightcutLowerItemImageUrl(id) ??
+    galebornUpperItemImageUrl(id) ??
     wildfangUpperItemImageUrl(id) ??
+    wildfangLowerItemImageUrl(id) ??
     hexthreadUpperItemImageUrl(id) ??
     hexthreadLowerItemImageUrl(id) ??
     marksmanshipHunterUpperItemImageUrl(id) ??

@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_shaman_enhancement_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_enhancement_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: one enhancement shaman mail helm, rugged dark forest-green leather and hammered iron, bronze trim, swept-back feather-like metal fins and an amber windstone at the brow. Bold full silhouette centered on dark muted charcoal background, painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "f726f7a2ca62febacc90476764109393ae410506783d693d2b7097af3875e5fe",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_enhancement_helmet.webp",
+        "sha256": "6e1c6058e0c2021d21583286812fe7658739613877db07b64e7eb5efedbd1318",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_shaman_enhancement_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_enhancement_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: pair of enhancement shaman mail spaulders, rugged dark forest-green leather and hammered iron, bronze trim, swept-back feather-like metal fins and amber windstones. Bold full silhouette centered on dark muted charcoal background, painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "7cee68e3bbeb9594744caca30533c8ab715068741fad79e4441c3c0b45fc8292",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_enhancement_shoulder.webp",
+        "sha256": "ff0031b011a28db93adf0eaa748e94e854305933fc0613982d01d93ce35cfb2b",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_shaman_enhancement_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_enhancement_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: an enhancement shaman chainmail chest armor, rugged dark forest-green leather and hammered iron, bronze trim, swept-back feather-like metal fins and an amber windstone at the chest. Bold full silhouette centered on dark muted charcoal background, painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "3e893650fccccdfbf60e5412a9abfcb3e743caf3e4570c277d4c9bb82e15fd2f",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_enhancement_chest.webp",
+        "sha256": "9bbce141bd38b1fb7335188cf66fff10291e43effd9c81d53b6bf2a97f25b0b5",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "wildfang_emberhide_gloves",
+      "file": "docs/design/whetstorm-art/items/wildfang_emberhide_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Wildfang Grips: one compact pair of empty druid leather gloves in rugged dark chestnut and rust leather, warm copper edging, subtle ochre fur cuffs and small claw-shaped amber inlays. No hands, animal head or person. Entire pair centered with clear glove silhouettes and safe margins. Dark umber painted vignette, premium hand-painted fantasy art, tactile leather and fur, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "ebb79249e72dc9b073f8d9e37af11279abe014b8d248b6ec725a7e46c79bc3d1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wildfang_emberhide_gloves.webp",
+        "sha256": "e6ff703b895d482ff03dd41699a4f53aa5ed021a23078eb8e39c2e1d143a8ce7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wildfang_emberhide_legs",
+      "file": "docs/design/whetstorm-art/items/wildfang_emberhide_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Wildfang Breeches: one complete pair of empty druid leather trousers in rugged dark chestnut and rust leather, warm copper edging, subtle ochre fur and three small claw-shaped amber inlays at waist. No body, boots, animal head or person. Front view, trousers centered with separate leg silhouettes and safe margins. Dark umber painted vignette, premium hand-painted fantasy art, tactile leather and fur, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "b66746059e44d5c80aee19c3beed04927b4b88fc161cd056590ccf8dae1325b1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wildfang_emberhide_legs.webp",
+        "sha256": "86c9c47b887cc9e583448dc468d24845089a0673497dc80289235e08a4e6ee76",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

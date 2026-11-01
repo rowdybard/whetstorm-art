@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_rogue_assassination_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_rogue_assassination_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Nightcut Breeches, one complete symmetrical pair of assassin's charcoal leather trousers with deep burgundy lining and muted silver crescent blade clasps. Centered front view, no body or boots. Premium hand-painted dark fantasy, dark plum background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "56f54a4cef74aadfbec9271356c6b0758fb2971efa661a9c38f498fc2a73c440",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_assassination_legs.webp",
+        "sha256": "389338ac89aefe1353420d299a5fa589b908d2a35b90d64d9c74228fc106e602",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_rogue_assassination_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_rogue_assassination_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Nightcut Gloves, one compact pair of assassin's charcoal leather gloves with deep burgundy lining and muted silver crescent blade clasps. Centered view, no wearer or arms. Premium hand-painted dark fantasy, dark plum background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "74bc9bb18f18c0a0931acf969cd68c6a3e4566683b538a322514de46c5fd0ac3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_assassination_gloves.webp",
+        "sha256": "b626162c49ea48a7670b3fcb09cda28c16345ac774a8f8ac1ac214b4dd2dc30a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
