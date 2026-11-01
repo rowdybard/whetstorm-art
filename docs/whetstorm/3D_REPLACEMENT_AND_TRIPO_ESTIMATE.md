@@ -16,6 +16,20 @@ These mappings also feed model preloading; heroic variants inherit their base
 item's mapping. See `src/ui/weapon_variants.ts` and
 `src/render/characters/manifest.ts` in the art branch.
 
+### Independent held-model references (2026-11-01)
+
+The art branch now has white-background 2D intake concepts derived from its
+existing Whetstorm item paintings for `silverleaf_primer` (Sheenleaf),
+`goldleaf_folio`, `sunpetal_grimoire`, `voidbound_grimoire`, `rimefang` and
+`gravecourt_hewer`. The PNGs and individual source/hash records are under
+`docs/design/whetstorm-concepts/` with corresponding item names. These are
+visual planning inputs, not GLBs, substitutions or evidence of in-game fit.
+They do not resolve the separate `ice_fang_sword` cosmetic consumer or remove
+any historical files from a distribution. The four books' existing held
+models were observed as rigid; the new pictures do not determine grip or
+attachment. Validate each future model against the equipment, stow, skin,
+preload and animation paths described below, then inspect the full package.
+
 ### Active held-model follow-up (2026-10-30)
 
 The art branch also maps the Rift dagger `rimefang` to `ice_fang` in
