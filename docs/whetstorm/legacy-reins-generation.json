@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "reins_chimeglass_tortoise",
+      "file": "docs/design/whetstorm-art/items/reins_chimeglass_tortoise.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG mount-collectible inventory painting. A friendly sturdy tortoise mount bust in three-quarter view, its domed translucent blue-green chimeglass shell inset with small brass bells and a practical leather roadwarden harness. Show head and shell clearly, no rider. Centered with safe margins on dark muted teal painted vignette. Premium hand-painted classic fantasy art, tactile materials, warm upper-left light and cool shadow, bold silhouette readable at 28px. No text, logo, frame, watermark, transparency, copied designs or other subjects.",
+      "status": "inert legacy soulbound junk; does not grant mount ownership",
+      "sha256": "719357ac924d211212af4ed968a7a5070a2b0fbec211262b214bb61e1d3704be",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_chimeglass_tortoise.webp",
+        "sha256": "0f466df95f5ba7cbf5728301e8326fcfa73681c4fb3f0e14903e905723497188",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reins_rickshaw_mount",
+      "file": "docs/design/whetstorm-art/items/reins_rickshaw_mount.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG mount-collectible inventory painting. One complete compact bonebound rickshaw vehicle in three-quarter view, a hand-pulled two-wheeled wooden carriage with arched canopy, decorative pale bone ribs lashed to dark timber, iron fittings and leather reins, no driver, no creature or rider. Centered with safe margins on dark muted umber painted vignette. Premium hand-painted classic fantasy art, tactile wood and bone, warm upper-left light and cool shadow, bold recognizable vehicle silhouette readable at 28px. No text, logo, frame, watermark, transparency, copied designs or unrelated objects.",
+      "status": "inert legacy soulbound junk; does not grant mount ownership",
+      "sha256": "c6d7c74f2781c70f0f3bdaf6d4d127a268be2c6aa3c5e1d562148f89eceed68a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_rickshaw_mount.webp",
+        "sha256": "f1235c5d8caf003856edd0c2ad0cd23ad4aefe7ff13d9ff4e2b0d5e7a4638de3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
