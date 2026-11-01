@@ -54,9 +54,30 @@ Candidate substitutes need independent provenance and visual fit checks.
 The restricted Guildmark model `brasscrown_walking_staff` also has an NPC-held
 consumer: `NPC_MODULAR_PROP_ATTACH` in `src/render/characters/manifest.ts` maps
 `walking_staff` to it, and `src/render/characters/npc_looks.ts` uses that prop
-set. It is already included among the 40 collection files, and is a separate
+set, including quest NPC Ferrymaster Caddow and Keeper Bram. It is already
+included among the 40 collection files, and is a separate
 NPC attachment path rather than another player equipment mapping. Preserve its
 hand attachment and check NPC poses when selecting a replacement.
+
+The existing `staff` NPC prop is a candidate for that attachment: its build
+spec names KayKit Adventurers' `staff.gltf`, and the same manifest attaches it
+to `handslot.r`. A read-only comparison against the official CC0 KayKit
+Adventurers repository at commit `672074b73ba276876a19e8816ecdc5241817ab47`
+found 498 vertices and 440 triangles in both models, matching triangle
+positions after the shipped transform within 0.00008652 and UVs within
+0.00013226. The upstream glTF SHA-256 is
+`eb2e277510325a242974ee842453882de2d55b09ec94a43148aff1dd4237c67a` and
+the inspected shipped GLB SHA-256 is
+`0958a09b353f4e1228c67e318b130625db647f67b6a8c6a1dcd9d3f3aeff523a`.
+Its decoded 512×512 KTX2 atlas differed from the upstream PNG resized with
+Lanczos3 by a mean of 2.69, 1.51 and 3.29 per RGB channel out of 255; alpha
+was identical and opaque. This supports the recorded source lineage without
+establishing the exact encoding history or overall release clearance.
+
+This is not yet a replacement recommendation: the two props use different
+grip families, and NPC hand position, scale, poses, animation, clipping and
+appearance need verification. A substitution would not eliminate the separate
+cosmetic-skin use or physically remove the restricted model from a package.
 
 ### Rimefang dagger candidate — 2026-11-01
 
