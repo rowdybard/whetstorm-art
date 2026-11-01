@@ -194,3 +194,27 @@ behavior rather than deleting old files first. Inspect source, docs, generated
 content and build output for old paths and bytes, and preserve historical
 attribution. The 289 files are a source-checkout observation, not evidence of
 what an uninspected deployment contains.
+
+## Guide, profession and active portrait follow-up
+
+The guide overview now preloads its Whetstorm road hero instead of the old
+`/loading-screen.jpg`; browser reuse remains to be checked. A separate guide
+header route still requests `/whetstorm-logo-guide.webp`. That file is absent
+from the partial art worktree but exists in the full reference checkout; its
+precise provenance was not established by the bounded credit search. In a full
+candidate, verify its source and packaging or deliberately substitute a
+reviewed Whetstorm mark, then check the rendered header.
+
+The current art-branch profession resolver has existing Whetstorm images for
+all 26 registered profession identities checked. The full reference trees
+still contain the corresponding historical profession WebPs, so confirm the
+full-candidate resolver and all crafting, guide and tooltip consumers before
+disposition and inspect the actual package afterward.
+
+The art branch still attempts legacy mob portraits for active IDs including
+`rift_boss_venom`, `rift_boss_necro`, `rift_boss_brute`, `rift_spawnling` and
+`hoard_brood_egg`. The full reference contains the old WebPs; in the partial
+art checkout missing legacy paths fall back to family crests. The owner's art
+brief excludes new target-portrait illustration, so preserve that priority and
+resolve source rights, runtime fallback and package contents in the full
+candidate rather than assuming the old files are cleared or unused.
