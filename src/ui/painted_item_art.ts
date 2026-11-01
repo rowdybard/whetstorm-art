@@ -84,6 +84,7 @@ import { eventSkinTokenItemImageUrl } from './event_skin_token_item_art';
 import { retiredHeroicPairItemImageUrl } from './retired_heroic_pair_item_art';
 import { retiredHeroicChestsItemImageUrl } from './retired_heroic_chests_item_art';
 import { implicitBackpackItemImageUrl } from './implicit_backpack_item_art';
+import { lootCoinItemImageUrl } from './loot_coin_item_art';
 import { slagcrownUpperItemImageUrl } from './slagcrown_upper_item_art';
 import { slagcrownLowerItemImageUrl } from './slagcrown_lower_item_art';
 import { starwardenUpperItemImageUrl } from './starwarden_upper_item_art';
@@ -575,6 +576,7 @@ export function paintedItemImageUrl(id: string): string | null {
     retiredHeroicPairItemImageUrl(id) ??
     retiredHeroicChestsItemImageUrl(id) ??
     implicitBackpackItemImageUrl(id) ??
+    lootCoinItemImageUrl(id) ??
     slagcrownUpperItemImageUrl(id) ??
     slagcrownLowerItemImageUrl(id) ??
     starwardenUpperItemImageUrl(id) ??
