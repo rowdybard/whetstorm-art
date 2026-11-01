@@ -509,14 +509,16 @@ Check current terms, privacy, availability and actual task pricing before use.
 
 ## Starter weapon intake references
 
-Two original 2D planning references are available for the Warrior's Pitted
-Shortsword (`worn_sword`) and Rogue's Rusty Dagger (`rusty_dagger`):
+Original 2D planning references are available for the Warrior's Pitted
+Shortsword (`worn_sword`), Rogue's Rusty Dagger (`rusty_dagger`), and the
+Bogoak Staff (`gnarled_staff`) used by several starting classes:
 `docs/design/whetstorm-concepts/pitted-shortsword-3d-intake.png` and
-`docs/design/whetstorm-concepts/rusty-dagger-3d-intake.png`. Their prompts,
+`docs/design/whetstorm-concepts/rusty-dagger-3d-intake.png` and
+`docs/design/whetstorm-concepts/bogoak-staff-3d-intake.png`. Their prompts,
 original Whetstorm source paintings, hashes and limits are recorded in the
 corresponding `docs/whetstorm/*-3d-intake-generation.json` files. These are
 not models or proof that replacement is required: the existing `sword_a` and
-`dagger_a` model provenance still needs confirmation. Any eventual model must
+`dagger_a` and `staff_a` model provenance still needs confirmation. Any eventual model must
 be checked for hand attachment, both hands where applicable, stow, animation,
 skins, enhancement effects and runtime integration.
 

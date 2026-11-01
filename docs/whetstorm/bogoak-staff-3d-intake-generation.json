@@ -1,0 +1,12 @@
+{
+  "itemId": "gnarled_staff",
+  "name": "Bogoak Staff",
+  "output": "docs/design/whetstorm-concepts/bogoak-staff-3d-intake.png",
+  "output_sha256": "7038a1c1718ee85fc6928d4929b795cd7085c6871e8964ec121839609343e560",
+  "source": "OpenAI built-in image generation",
+  "reference": "docs/design/whetstorm-art/items/gnarled_staff.png",
+  "reference_sha256": "5e78c993921005696c289d8e66d9a556ea5550ba547771e04b9b3f4746105bc0",
+  "reference_provenance": "docs/whetstorm/starter-item-art-generation.json",
+  "prompt": "Create one standalone 2D 3D-model intake reference using the provided original Whetstorm Bogoak Wooden Staff item painting as sole visual reference. One entire gnarled dark warm-brown wooden staff upright on a plain white background, neutral near-front view with generous margins. Preserve its distinctive asymmetrical two-pronged forked natural top, wood knots and grain, simple tan leather wrap around the central grip, irregular lower shaft and rounded root end. Plain unenchanted wood; no gem, metal, ornament, glow, person, hands, words, logo, watermark, collage or extra objects. Make all grip and shaft boundaries clear for a modeler.",
+  "constraints": "2D planning only; no mesh or runtime change. The existing staff_a GLB source and license remain unresolved, not established as prohibited. Grip origin, hand attachment, stow, clipping, idle, locomotion, casting and combat animation, skin override, preload and distribution verification remain pending."
+}
