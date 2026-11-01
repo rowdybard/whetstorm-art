@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "note": "Retained soulbound legacy junk items; these do not grant mounts or cosmetic ownership. No active acquisition asserted.",
+  "assets": [
+    {
+      "itemId": "reins_mech_bird",
+      "file": "docs/design/whetstorm-art/legacy-reins-mech-bird-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete antique brass ignition key attached to a small leather rein loop; its broad key bow is a stylized mechanical bird head with a tiny turquoise glass eye and gear detail. Centered large on dark navy background, clear readable silhouette at 28 pixels. No vehicle, person, text, lettering, border, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "9edce25cd4c9a3d7f946bc961e177884888bff03ccc596fe45eb79e64dec0bdc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_mech_bird.webp",
+        "sha256": "39b0581fa1c5ae76e51b7e78db9c4cdc5f8da62c1db12e2c7323e86494dd35a9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reins_rallycart_rxt",
+      "file": "docs/design/whetstorm-art/legacy-reins-rallycart-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete iron-and-brass ignition key attached to a small leather rein loop; its broad key bow is a rugged spoked rallycart wheel with a red enamel center. Centered large on dark navy background, clear readable silhouette at 28 pixels. No vehicle, person, text, lettering, border, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "706cf77881748910df6d218d1449f44137d73d9a31cb4302e4555567e1e1a15a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_rallycart_rxt.webp",
+        "sha256": "42996fce81755532632687c41c598653645c9d2b80e70b2fcb0c6d0249fe88e2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reins_goblin_rocket_sled",
+      "file": "docs/design/whetstorm-art/legacy-reins-rocket-sled-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete copper-and-iron ignition key attached to a small leather rein loop; its broad key bow is a small stylized rocket with orange enamel flame detail. Centered large on dark navy background, clear readable silhouette at 28 pixels. No vehicle, person, text, lettering, border, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "b8021b193d971f2f86f0affc4e448df949f48e1979867b5567c8bfc7a4267be2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_goblin_rocket_sled.webp",
+        "sha256": "2420854d288b2094daad557e4af4949ca45fce048dd8c02b82e9b210e53b9815",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
