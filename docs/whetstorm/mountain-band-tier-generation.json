@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "rare_band_mountains_weight",
+      "file": "docs/design/whetstorm-art/items/rare_band_mountains_weight.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original fantasy RPG inventory icon painting: a tarnished heavy mountain ring, a thick worn iron band with a single blunt rectangular slate stone bezel, restrained weathered silver and charcoal. Three-quarter view, centered and fills square, bold simple silhouette and strong light/dark contrast legible at 28 pixels. Painterly hand-painted game item art, dark muted background, no border, no lettering, no watermark.",
+      "status": "original art candidate",
+      "sha256": "d08898081734108ecef97d0466d1347baa397004e457966327dc5331db85604e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/rare_band_mountains_weight.webp",
+        "sha256": "cc2029b10dbcc6c1350b8e8639f823d4b520df89354fbcc39ae2957cf3648890",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "legendary_band_mountains_weight",
+      "file": "docs/design/whetstorm-art/items/legendary_band_mountains_weight.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one original fantasy RPG inventory icon painting: a sovereign mountain ring, a massive golden ring with a prominent angular crown of three ascending mountain peaks and one large glowing amber gemstone. Three-quarter view, centered and fills square, bold simple silhouette and strong light/dark contrast legible at 28 pixels. Painterly hand-painted game item art, dark muted background, no border, no lettering, no watermark.",
+      "status": "original art candidate",
+      "sha256": "62a4b7f81bee6ff793872334910d377c24f0ff2cae9674a267563d72cffe4b20",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/legendary_band_mountains_weight.webp",
+        "sha256": "8cd777459a2176cc0095499391d17518b192012957f51f6e2f8ef09491dc3e20",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_mage_fire_legs",
+      "file": "docs/design/whetstorm-art/emberlash-leggings-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/emberlash-robes-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory icon painting of one complete pair of empty fire mage cloth leggings: clearly separated two trouser legs, dark charcoal fabric with crimson panels and warm copper-gold flame-shaped edging, one small glowing ember ornament at the waist. Match the palette, painted rendering, and dark muted blue background of the supplied robe reference, but show only leggings, no robe or person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "d801c548ecc009995570cbb9e000e6b74613e02334f2431fd44ed251dadc8bbd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_mage_fire_legs.webp",
+        "sha256": "23a33e4c888d5c92756ea2e24508195ca55bfffd08166f2bd124029e15561853",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_mage_fire_gloves",
+      "file": "docs/design/whetstorm-art/emberlash-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/emberlash-robes-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory icon painting of one pair of empty fire mage cloth gloves: clearly recognizable five-finger gloves with long cuffs, charcoal fabric, crimson lining, warm copper-gold flame-shaped trim and a small glowing ember ornament. Match the palette, painted rendering, and dark muted blue background of the supplied robe reference, but show only gloves, no person or robe. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "2107910fc04afbfba0358b01de31ad86595aa8b1e65a7aa700cb1ac8dc3c1bcd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_mage_fire_gloves.webp",
+        "sha256": "250721a4b588378cf98ea1157d5f30e2879a6598bc01e8f12fa8f92fee814cb7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "warspirit_emberscale_legs",
+      "file": "docs/design/whetstorm-art/ignivar-warspirit-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-warspirit-chest-master.png"
+      ],
+      "prompt": "Create an original square fantasy RPG inventory painting of a matching pair of complete shaman warrior legguards, empty armor with no person. Coordinate visually with the reference armor: dark charcoal steel overlapping scales, bronze edging, angular armor plates and a small glowing amber ember accent. Full legguards centered, filling the frame, three-quarter view against a muted dark blue painted background. Strong leg silhouette readable at 28 pixels. No text, letters, border, watermark or logo. Do not copy any other game design.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "18631b2f6a849b579218a7667b0db999565715daf582ff778f6eaf16acd37e69",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/warspirit_emberscale_legs.webp",
+        "sha256": "5ac1c56b6d9ade3488bce5b6d7e2635d83cf3153c0781a4777b6deaaee4270e6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "warspirit_emberscale_gloves",
+      "file": "docs/design/whetstorm-art/ignivar-warspirit-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-warspirit-chest-master.png"
+      ],
+      "prompt": "Create an original square fantasy RPG inventory painting of a matching pair of complete shaman warrior gauntlets, empty armor with no person. Coordinate visually with the reference armor: dark charcoal steel overlapping scales, bronze edging, angular armor plates and a small glowing amber ember accent. Gauntlets centered, filling the frame, three-quarter view against a muted dark blue painted background. Strong hand silhouette readable at 28 pixels. No text, letters, border, watermark or logo. Do not copy any other game design.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "f9fbbecd3264dad3372d269e025501cd97d590f9bf448b4cd66cbe0e3cfa0298",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/warspirit_emberscale_gloves.webp",
+        "sha256": "134ec28a44f94e1464e76364d9dbd3b3917fc7063867628adbd873f40ec58aed",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

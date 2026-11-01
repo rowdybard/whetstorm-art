@@ -61,6 +61,11 @@ import { ignivarSlagstalkerOffsetItemImageUrl } from './ignivar_slagstalker_offs
 import { ignivarMoonscorchOffsetItemImageUrl } from './ignivar_moonscorch_offset_item_art';
 import { ignivarWarspiritUpperItemImageUrl } from './ignivar_warspirit_upper_item_art';
 import { emberlashUpperItemImageUrl } from './emberlash_upper_item_art';
+import { emberlashLowerItemImageUrl } from './emberlash_lower_item_art';
+import { ignivarWarspiritLowerItemImageUrl } from './ignivar_warspirit_lower_item_art';
+import { ignivarMailTankItemImageUrl } from './ignivar_mail_tank_item_art';
+import { collapsarRingTierItemImageUrl } from './collapsar_ring_tier_item_art';
+import { mountainBandTierItemImageUrl } from './mountain_band_tier_item_art';
 import { chainedEmberChokerTierItemImageUrl } from './chained_ember_choker_tier_item_art';
 import { stonehearthLowerItemImageUrl } from './stonehearth_lower_item_art';
 import { rimewardenLowerItemImageUrl } from './rimewarden_lower_item_art';
@@ -460,6 +465,11 @@ export function paintedItemImageUrl(id: string): string | null {
     ignivarMoonscorchOffsetItemImageUrl(id) ??
     ignivarWarspiritUpperItemImageUrl(id) ??
     emberlashUpperItemImageUrl(id) ??
+    emberlashLowerItemImageUrl(id) ??
+    ignivarWarspiritLowerItemImageUrl(id) ??
+    ignivarMailTankItemImageUrl(id) ??
+    collapsarRingTierItemImageUrl(id) ??
+    mountainBandTierItemImageUrl(id) ??
     chainedEmberChokerTierItemImageUrl(id) ??
     stonehearthLowerItemImageUrl(id) ??
     rimewardenLowerItemImageUrl(id) ??

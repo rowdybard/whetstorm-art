@@ -1,0 +1,15 @@
+{
+  "records": [
+    {
+      "id": "hid_yumi_cheer",
+      "master": "docs/design/whetstorm-art/deeds/hid_yumi_cheer.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Create an original square full-bleed hand-painted fantasy MMORPG achievement icon for cheering a friendly cat familiar in a protective team arena. A cheering adventurer seen from behind raises both arms high in a strong V toward a clearly recognizable small cream-colored domestic CAT with rounded face, short muzzle, pointed ears and slender tail, standing on the stone arena floor. A warm golden celebratory burst and a few pennants suggest a contest; dark teal stone maze walls in background. Bold silhouette and large shapes, rich painterly brushwork, warm gold against deep blue-green, strong contrast, instantly legible at 28 pixels. No fox, no canine, no text, lettering, numerals, logos, watermark, border, UI frame, or imitation of any existing game or artist.",
+      "masterSha256": "90febbe91824574a92cfd70748b4b03c1fee0f0a8dcd00e9959a39177da98122",
+      "shipping": "public/ui/whetstorm/deeds/hid_yumi_cheer.webp",
+      "shippingSha256": "1bd76ceb8bbf00fccc6ef60c62915c9b4356b096b32af49722e89a60acd21d17",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6"
+    }
+  ]
+}

@@ -1381,6 +1381,18 @@ Three Emberlash armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/emberlash-upper-generation.json`.
 
+Ten armor and jewelry paintings were generated with OpenAI's built-in image
+generation. Prompts, references, and hashes are recorded in
+`docs/whetstorm/emberlash-lower-generation.json`,
+`docs/whetstorm/ignivar-warspirit-lower-generation.json`,
+`docs/design/whetstorm-art/items/ignivar-mail-tank/provenance.md`,
+`docs/whetstorm/collapsar-ring-tier-generation.json`, and
+`docs/whetstorm/mountain-band-tier-generation.json`.
+
+The Yumi cheer deed painting was generated with OpenAI's built-in image
+generation; its prompt and hashes are recorded in
+`docs/whetstorm/deed-yumi-cheer-generation.json`.
+
 Two Chained Ember Choker tier paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/chained-ember-choker-tiers-original/chained-ember-choker-provenance.json`.

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "rare_collapsar_band_of_nyxaris",
+      "file": "docs/design/whetstorm-art/items/rare_collapsar_band_of_nyxaris.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: opaque square classic dark-fantasy MMORPG inventory painting. Paint a single tarnished collapsar ring: a thick worn dark silver hoop with a simple angular bezel holding a small dark violet starstone with a tiny bright core; sparse scuffs and restrained violet glint. Three-quarter view, full ring and open hoop clearly visible, centered at 72% of square, dark navy painted vignette, warm upper-left light, cool shadows, tactile hand-painted metal, crisp silhouette readable at 22 pixels. No text, symbols, frame, UI, hand, watermark, transparency or other objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "5ea0ea2303c91ffb7a679dea13a7151946165da9ba2c04333f22dbbc6ffa1e3e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/rare_collapsar_band_of_nyxaris.webp",
+        "sha256": "82de3fc193b4d27dadb41b2cbd225a8ce767d8ca36fde9ec105cdaafc5eed0ea",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "legendary_collapsar_band_of_nyxaris",
+      "file": "docs/design/whetstorm-art/items/legendary_collapsar_band_of_nyxaris.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Asset: opaque square classic dark-fantasy MMORPG inventory painting. Paint one sovereign collapsar ring, a majestic broad ring of luminous aged silver and dark steel, crowned with a large deep violet starstone and four long swept-back pointed prongs like an astronomical crown. A tiny white-violet star shines inside the gem; accents restrained. Full ring and open hoop clearly visible, three-quarter view, centered at 72% of square, dark navy painted vignette, warm upper-left light, cool shadows, tactile hand-painted metal, crisp silhouette readable at 22 pixels. No text, symbols, frame, UI, hand, watermark, transparency or other objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "107fbf25fe18f9c157ca8787e8fdfcfe8ef1b5d6c5b4e158474965712b95f26f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/legendary_collapsar_band_of_nyxaris.webp",
+        "sha256": "409fd668dadba03cb9932c505342521df87e395721d375cf5ce272626cfadc89",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
