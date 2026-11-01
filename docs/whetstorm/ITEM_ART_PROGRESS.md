@@ -1,5 +1,23 @@
 # Item painting checkpoint
 
+## Catalog resolver census, 2026-11-01
+
+At art-branch commit `b2eb4f210a`, a read-only run evaluated the actual
+`itemImageUrl` route for all 1,626 `ITEMS` IDs and checked the corresponding
+files under `public`. All 1,626 resolved to existing painted URLs: 1,570 via
+direct mappings and 56 through `heroicOf` fallback. None resolved to procedural
+art and no referenced file was missing in this checkout.
+
+Those are item IDs, not 1,626 different paintings. The referenced image bytes
+produced 1,548 distinct SHA-256 hashes: 78 pairs share a URL and identical bytes
+for normal and heroic item variants. Hash differences do not establish that
+images are visually distinct or independently authored. These counts do not
+prove acquisition, browser rendering, circular-crop readability, full-game
+integration, attribution clearance, or removal of inherited files. The 1,626
+IDs include retired and developer-only entries. The older checkpoints below
+are historical and must not be used as current counts.
+
+
 Exploration activity follow-up: four original deed crests cover Arcane
 Calligraphy, Forge Helper, Duskweave Dispatches and Wisp Maze through the game
 and guide lookup. Prompts and hashes are in `deed-activity-generation.json`;
