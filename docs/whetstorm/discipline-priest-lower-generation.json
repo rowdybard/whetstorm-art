@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_priest_discipline_legs",
+      "file": "docs/design/whetstorm-art/discipline-priest-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/discipline-priest-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one complete pair of empty priest cloth leggings, clearly separated legs ending at ankle cuffs, ivory cloth with deep plum panels, antique gold trim and a pale luminous shield ornament at waist. Match the supplied robe's materials, palette, painted rendering and dark blue background; show only leggings with no boots or person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "eaccb4af00145decff42c78eb9fa8df5b1b7748bf7ed356c936148d99174d048",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_priest_discipline_legs.webp",
+        "sha256": "627210baa3155c7aea9223ecd114b13b3da6e0bae48100d61f42133286cbb84f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_priest_discipline_gloves",
+      "file": "docs/design/whetstorm-art/discipline-priest-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/discipline-priest-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one pair of empty priest cloth handwraps, recognizable fingers and cuffs, ivory cloth with deep plum panels, antique gold trim and pale luminous shield ornaments. Match the supplied robe's materials, palette, painted rendering and dark blue background; show only handwraps with no person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "50c82bacb1372327ec46c37710a8fb82d5d8465d247b20755a81343617b570b5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_priest_discipline_gloves.webp",
+        "sha256": "ec44d2e07583e3ff1f6bf4e7816d7fa29eea441155b6111f0460aa07dac91b1a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

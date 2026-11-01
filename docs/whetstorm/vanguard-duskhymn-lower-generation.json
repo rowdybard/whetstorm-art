@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_priest_shadow_gloves",
+      "file": "docs/design/whetstorm-art/vanguard-duskhymn-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/vanguard-duskhymn-helmet-master.png"
+      ],
+      "prompt": "Original square hand-painted dark fantasy RPG inventory icon: Duskhymn Handwraps, a compact natural pair of empty shadow priest cloth handwrap gloves in charcoal violet and deep indigo, antiqued silver trim, layered fabric and small dim lavender teardrop crystals. Match reference cowl's palette and materials; show only handwraps, no person. Complete hand silhouettes centered with safe margins, subdued dark slate painted vignette background. Warm upper-left light, tactile cloth and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "b32cf914c6ab68633f1059e2ac7c20a8c74dcbf996213192366f1547d6407605",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_priest_shadow_gloves.webp",
+        "sha256": "55438ded735f8a700664afb56b5a607423a860742bf3b19ef0d69a91236c02dc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_priest_shadow_legs",
+      "file": "docs/design/whetstorm-art/vanguard-duskhymn-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/vanguard-duskhymn-helmet-master.png"
+      ],
+      "prompt": "Original square hand-painted dark fantasy RPG inventory icon: Duskhymn Leggings, one complete empty pair of shadow priest cloth trousers from waist to ankle in charcoal violet and deep indigo, antiqued silver trim, layered fabric and a small dim lavender teardrop crystal at waist. Match reference cowl's palette and materials; show only trousers, no boots, body or person. Complete recognizable pants silhouette centered with safe margins, subdued dark slate painted vignette background. Warm upper-left light, tactile cloth and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "5a9235504683d82001183eeee53d19a5dd1813f8f22aa5ce75c4b10354fc501b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_priest_shadow_legs.webp",
+        "sha256": "00bb717bbaeaf3a8882fd8882eda3f36af94fcdeba8ae002e37af4713f0f6c46",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

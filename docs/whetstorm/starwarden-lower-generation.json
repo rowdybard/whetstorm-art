@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_druid_balance_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_balance_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Starwarden Gloves: one compact pair of empty druid leather gloves in dark midnight-blue and moss green leather, aged silver crescent leaf ornaments and small pale blue star gems at cuffs. No hands, animal head or person. Entire pair centered with clear glove silhouettes and safe margins. Soft dark indigo painted vignette, premium hand-painted fantasy art, tactile leather, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "780473338423f5882c8221c7ad63a2fd7e621d177649f04d61ea1fc559abe4d6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_balance_gloves.webp",
+        "sha256": "86edb3f40cc84c35249b611befa1065d6cf0fb33b347a64bab055387aa60b3ed",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_druid_balance_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_balance_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Starwarden Breeches: one complete pair of empty druid leather trousers in dark midnight-blue and moss green leather, aged silver crescent leaf ornaments and a small pale blue star gem at waist. No body, boots, animal head or person. Front view, trousers centered with separated legs and safe margins. Soft dark indigo painted vignette, premium hand-painted fantasy art, tactile leather, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "7c40ccd59554c459c997659b09b5f6a67cf4f2e563010f380243e3cc25294550",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_balance_legs.webp",
+        "sha256": "d1904db77056420894f1f480ee4bf010517c77679cd6578d5219390b28166e83",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

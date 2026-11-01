@@ -1585,6 +1585,18 @@ Two Bloodmane armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/bloodmane-lower-generation.json`.
 
+Two Starwarden armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/starwarden-lower-generation.json`.
+
+Two Veilpsalm armor paintings were generated with OpenAI's built-in image
+generation; prompts, references, and hashes are recorded in
+`docs/whetstorm/discipline-priest-lower-generation.json`.
+
+Two Duskhymn armor paintings were generated with OpenAI's built-in image
+generation; prompts, references, and hashes are recorded in
+`docs/whetstorm/vanguard-duskhymn-lower-generation.json`.
+
 Two Cinderbark armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/cinderbark-lower-generation.json`.
