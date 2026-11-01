@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "varkhul_tempered_wound",
+      "runtimeIds": [
+        "varkhul_tempered_wound"
+      ],
+      "file": "docs/design/whetstorm-art/auras/varkhul_tempered_wound-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square full-bleed fantasy RPG aura icon for Tempered Wound: a single dark steel breastplate struck by a narrow searing orange beam, leaving one glowing molten impact crack, indicating vulnerability after intercepting a forge beam. Centered bold silhouette on deep charcoal background, readable at 24 pixels. Painterly fantasy, no person, text, letters, numerals, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "b639772ed1eb4ef4d80ec63a029f2edb341a7895dc28a68432572f3ccfd8844d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/varkhul_tempered_wound.webp",
+        "sha256": "a1f893e9e71c5ed63b2ccab14e742e48bb5080b7e49a2eb9931a9f691daded5f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "id": "varkhul_shared_pyre",
+      "runtimeIds": [
+        "varkhul_shared_pyre"
+      ],
+      "file": "docs/design/whetstorm-art/auras/varkhul_shared_pyre-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square full-bleed painterly fantasy RPG aura icon for Shared Pyre, a dangerous shared fire impact: four distinct simple armored figures stand tightly grouped beneath a single descending bright orange fireball about to strike them. A bold central fireball and four dark figures read clearly at 24 pixels, deep charcoal background. No campfire or hearth, no text, numbers, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "bc8a323b355af6ba260030d7b359c3bfae722bbc0c41e057cc0e58d80fbec96e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/varkhul_shared_pyre.webp",
+        "sha256": "7ad70cdad3e5ff4b4f19dee19094d9cc5876d3d0832a342f01484538a6fb234a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
