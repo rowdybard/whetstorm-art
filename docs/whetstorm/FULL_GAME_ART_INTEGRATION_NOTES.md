@@ -228,3 +228,19 @@ art checkout missing legacy paths fall back to family crests. The owner's art
 brief excludes new target-portrait illustration, so preserve that priority and
 resolve source rights, runtime fallback and package contents in the full
 candidate rather than assuming the old files are cleared or unused.
+
+## Palmreach sky provenance
+
+A bounded source and credits check found that the full reference checkout has
+`skies_in/palmreach.png` and Palmreach day sky KTX2 variants selected by
+`src/render/sky.ts`, but did not find an exact Palmreach source, prompt or
+license row. The renderer calls the zone skies project-generated; that alone
+does not establish the exact source terms. Treat this as unresolved, not as
+proven restricted, and do not infer absence from the partial art checkout.
+
+If the sky must be replaced after its source is investigated, the HDR master
+and 2k, 1k and 512 KTX2 paths, PMREM lighting and graphics tiers are a single
+pipeline. The PNG-to-HDR preparation step is maintainer-local according to
+`scripts/assets/CLAUDE.md`. Validate panorama seams, illumination and day/night
+behavior, regenerate the complete candidate media manifest, and inspect the
+actual build; a standalone 2D PNG would not be a runtime replacement.
