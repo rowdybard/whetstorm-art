@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_paladin_retribution_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_retribution_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/items/vanguard_paladin_retribution_chest.png"
+      ],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting, a matching pair of complete empty paladin attacker mail legguards, clearly separated legs. Use supplied original cuirass as STYLE reference for warm ivory enamel, burnished copper metal, pointed flame-like crests and glowing orange sunstones. Center full legguards on dark muted plum-charcoal background, hand-painted fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "3d93e29548840badebe7f3d87c8402315731b33aa0d902b71c46b945f3cb9b9e",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_retribution_legs.webp",
+        "sha256": "2cbddf5dfd81e8aafa4d826ffd3aa6a343a11df2cd13e45cc7fc6e12d3b5c6b3",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_paladin_retribution_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_retribution_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/items/vanguard_paladin_retribution_chest.png"
+      ],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting, a matching pair of complete empty paladin attacker mail gauntlets, clearly recognizable five-finger hands. Use supplied original cuirass as STYLE reference for warm ivory enamel, burnished copper metal, pointed flame-like crests and glowing orange sunstones. Center gauntlets on dark muted plum-charcoal background, hand-painted fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "d793984e58ee6a8bcfee0476d25f13d63bab0ec1f4db4eea32c18256fb032ffa",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_retribution_gloves.webp",
+        "sha256": "06c7c1cb914cee3cd55b65d75e0e57903b3211402218c4335ae56a886d86e556",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

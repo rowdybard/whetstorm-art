@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "pyroclast_helmet",
+      "file": "docs/design/whetstorm-art/items/pyroclast_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Pyroclast Hood: one complete empty mage cloth hood in ember red and charcoal, blackened copper trim with cracked volcanic stone ornament and restrained golden-orange embers. No head, face or person. Centered with clear silhouette and safe margins. Dark warm umber painted vignette, premium hand-painted fantasy art, tactile cloth folds, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "c68c2b998ee6f39f9d0ed5b3e5598feca5a93dc1681347a94c1dc051b917d6f7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pyroclast_helmet.webp",
+        "sha256": "f138fb255904b0aa798bf59bf9af5b1ff5473cff338eaaa17c228f627ca59ee0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "pyroclast_shoulder",
+      "file": "docs/design/whetstorm-art/items/pyroclast_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Pyroclast Mantle: a matching pair of empty mage cloth shoulders in ember red and charcoal, blackened copper trim with cracked volcanic stone ornament and restrained golden-orange embers. No head, torso or person. Both shoulders centered with clear paired silhouette and safe margins. Dark warm umber painted vignette, premium hand-painted fantasy art, tactile cloth folds, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "9f32dded737d76e27ebfd1adbc9bd6ee8cad1e203c55662b5e503b4beb5c08ee",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pyroclast_shoulder.webp",
+        "sha256": "f828d31a2930ffa9aab474ad1b0a9472af92a4606896a3034f4fcd371b499ee6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "pyroclast_chest",
+      "file": "docs/design/whetstorm-art/items/pyroclast_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Pyroclast Robe: one complete empty front-facing mage cloth robe in ember red and charcoal, blackened copper trim with cracked volcanic stone ornament and restrained golden-orange ember at chest. No head, hands or person. Full robe centered with clear garment silhouette and safe margins. Dark warm umber painted vignette, premium hand-painted fantasy art, tactile cloth folds, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "7851e551905a048b7401328117c6bf66ca96478497cd23a79340355ca083ab80",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pyroclast_chest.webp",
+        "sha256": "67940e16e6b86c9e8e5cbc9f324af0c8cf36b1ce4e43d91d7b8ed97987b3a8b7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

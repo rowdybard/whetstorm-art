@@ -93,6 +93,9 @@ import { shieldvowLowerItemImageUrl } from './shieldvow_lower_item_art';
 import { ironmarchUpperItemImageUrl } from './ironmarch_upper_item_art';
 import { ironmarchLowerItemImageUrl } from './ironmarch_lower_item_art';
 import { lightbrandUpperItemImageUrl } from './lightbrand_upper_item_art';
+import { lightbrandLowerItemImageUrl } from './lightbrand_lower_item_art';
+import { pyroclastUpperItemImageUrl } from './pyroclast_upper_item_art';
+import { sunvigilUpperItemImageUrl } from './sunvigil_upper_item_art';
 import { hexthreadUpperItemImageUrl } from './hexthread_upper_item_art';
 import { hexthreadLowerItemImageUrl } from './hexthread_lower_item_art';
 import { marksmanshipHunterUpperItemImageUrl } from './marksmanship_hunter_upper_item_art';
@@ -531,6 +534,9 @@ export function paintedItemImageUrl(id: string): string | null {
     ironmarchUpperItemImageUrl(id) ??
     ironmarchLowerItemImageUrl(id) ??
     lightbrandUpperItemImageUrl(id) ??
+    lightbrandLowerItemImageUrl(id) ??
+    pyroclastUpperItemImageUrl(id) ??
+    sunvigilUpperItemImageUrl(id) ??
     hexthreadUpperItemImageUrl(id) ??
     hexthreadLowerItemImageUrl(id) ??
     marksmanshipHunterUpperItemImageUrl(id) ??

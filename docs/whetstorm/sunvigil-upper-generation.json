@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_paladin_holy_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_holy_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Sunvigil Circlet, one complete paladin's open golden circlet with ivory enamel and a small pale blue sun-disc gemstone, luminous yet restrained. Centered front view, no head or wearer. Premium hand-painted dark fantasy, muted navy background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "0751093941482610a21423deb8c72a070fc57f08b35c2d5951aad9dc2fcf3578",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_holy_helmet.webp",
+        "sha256": "26fe043164570a1cedc6ac4608760975b483a6fc53b6ded19e7d8e92af1aacb6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_paladin_holy_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_holy_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Sunvigil Mantle, one compact pair of paladin shoulder plates with warm ivory enamel, polished gold trim and pale blue sun-disc ornaments, luminous yet restrained. Centered front view, no body. Premium hand-painted dark fantasy, muted navy background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "1fb0f1afa3401f6d992cb0b4895c7fc70d51ffbd2c1742675d5d355bb333e8c8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_holy_shoulder.webp",
+        "sha256": "658c5e4eae0e2b479ed4415685df027f80c012077ba186585ad3aa81a79b4e10",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_paladin_holy_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_holy_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Sunvigil Hauberk, one complete paladin torso armor with warm ivory enamel plates over visible mail, polished gold trim and a pale blue sun-disc ornament, luminous yet restrained. Centered front view, no wearer, head, hands or arms. Premium hand-painted dark fantasy, muted navy background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "967514fc90edcce99d5e62089baf955debe71a536e1080d4c2f18b197bc2988a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_holy_chest.webp",
+        "sha256": "eb98ead5e16161a4106fa4bd85996dd834e9587485f3ec7e41c6b36a2b2d8bc1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

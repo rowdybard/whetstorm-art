@@ -1499,6 +1499,18 @@ Two Farsight armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/marksmanship-hunter-lower-generation.json`.
 
+Two Lightbrand armor paintings were generated with OpenAI's built-in image
+generation; prompts, references, and hashes are recorded in
+`docs/whetstorm/lightbrand-lower-generation.json`.
+
+Three Pyroclast armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/pyroclast-upper-generation.json`.
+
+Three Sunvigil armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/sunvigil-upper-generation.json`.
+
 Two Ruincaller armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/ruincaller-lower-generation.json`.
