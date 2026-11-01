@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "pvp_fiesta_first_bout",
+      "file": "docs/design/whetstorm-art/deeds/fiesta-first_bout-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square full-bleed painted fantasy achievement icon for a completed 2v2 arena bout: two pairs of crossed training swords meeting above a sandy arena ring, energetic celebratory accents. Deep dark background, centered bold shapes readable at 32px. No text, numerals, border, logo, watermark, or copied game designs.",
+      "status": "retired Fiesta deed; cannot be newly earned in shipped client",
+      "sha256": "1eb6b591dc904a007c982ea1ae1e7f4f562bbd8baa20b9d8a8b9a6b9453246ca",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/deeds/pvp_fiesta_first_bout.webp",
+        "sha256": "52ee28f78fe10f9f14422c3a75c3b00ff6a68eba96634d71e0c760739775e949",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "id": "pvp_fiesta_first_win",
+      "file": "docs/design/whetstorm-art/deeds/fiesta-first_win-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square full-bleed painted fantasy achievement icon for winning a 2v2 arena bout: an upright golden victory cup between two small crossed swords, one rising golden spark. Deep dark background, centered bold shapes readable at 32px. No text, numerals, border, logo, watermark, or copied game designs.",
+      "status": "retired Fiesta deed; cannot be newly earned in shipped client",
+      "sha256": "f9224990901c52a72b22c5c062c3586457e60cb7546c74b989d5bed5b842360c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/deeds/pvp_fiesta_first_win.webp",
+        "sha256": "8130d6d84a6712107e38c5294501cfa1886d51321fc87f99a3b00fdbf88e728e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "id": "pvp_fiesta_double",
+      "file": "docs/design/whetstorm-art/deeds/fiesta-double-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square full-bleed painted fantasy achievement icon for two rapid takedowns: two distinct bright crossed sword slashes striking two dark target discs in quick succession, small motion arcs. Deep dark background, centered bold shapes readable at 32px. No text, numerals, border, logo, watermark, or copied game designs.",
+      "status": "retired Fiesta deed; cannot be newly earned in shipped client",
+      "sha256": "3f39b8a431bf69632980a1433f402f0cccee8c1048aa09779c18b949f883c6da",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/deeds/pvp_fiesta_double.webp",
+        "sha256": "f00857c23ae5b7bfb1b63bd57257456ef9f06aff7cfc78915ecd845c73877cf0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "id": "pvp_fiesta_shutdown",
+      "file": "docs/design/whetstorm-art/deeds/fiesta-shutdown-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square full-bleed painted fantasy achievement icon for ending an opponent's winning streak: one bronze blade breaking a chain of three glowing crimson sparks, dramatic clear silhouette. Deep dark background, centered bold shapes readable at 32px. No text, numerals, border, logo, watermark, or copied game designs.",
+      "status": "retired Fiesta deed; cannot be newly earned in shipped client",
+      "sha256": "fdfc8ab8b09ef683fe62117c6ef53fffce2493b7c14787d90780539655e29b7c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/deeds/pvp_fiesta_shutdown.webp",
+        "sha256": "4b20ecdb30de658710f21ac3991b74876aef2c48d2d07d532da4fc8804a8e07b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "id": "pvp_fiesta_full_build",
+      "file": "docs/design/whetstorm-art/deeds/fiesta-full_build-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square full-bleed painted fantasy achievement icon for victory after selecting three augment waves: three different faceted colored gems nested in a sturdy golden battle harness with a small victory laurel. Deep dark background, centered bold shapes readable at 32px. No text, numerals, border, logo, watermark, or copied game designs.",
+      "status": "retired Fiesta deed; cannot be newly earned in shipped client",
+      "sha256": "bb456a0460b62357be0a51368484bddc2aab8a6461152e27128d268c17b8372d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/deeds/pvp_fiesta_full_build.webp",
+        "sha256": "d301172808927d5f3e5fff792b0f77d6a2193305f05498318a4aabad5ff1b740",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "id": "pvp_fiesta_powerups",
+      "file": "docs/design/whetstorm-art/deeds/fiesta-powerups-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square full-bleed painted fantasy achievement icon for collecting four distinct arena power-ups: four different colored luminous orbs arranged around a small stone ring, each separate and clear. Deep dark background, centered bold shapes readable at 32px. No text, numerals, border, logo, watermark, or copied game designs.",
+      "status": "retired Fiesta deed; cannot be newly earned in shipped client",
+      "sha256": "e879a2d3a897135496627b815c344ffebff038b8edbbca1773165b9032ee2c4e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/deeds/pvp_fiesta_powerups.webp",
+        "sha256": "4f746bc94879852a04623b2ce775e24347113fa5056eec01b89acd218672c11c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "id": "pvp_fiesta_five_kills",
+      "file": "docs/design/whetstorm-art/deeds/fiesta-five_kills-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square full-bleed painted fantasy achievement icon for five takedowns in one arena match: one upright battle sword surrounded by five distinct small bright stars in a semicircle. Deep dark background, centered bold shapes readable at 32px. No text, numerals, border, logo, watermark, or copied game designs.",
+      "status": "retired Fiesta deed; cannot be newly earned in shipped client",
+      "sha256": "037f84ebe96fab00d32413df5a444b3981d495c1b1f37c978faea3c71aed83ba",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/deeds/pvp_fiesta_five_kills.webp",
+        "sha256": "1509dbc9b20ef4b9a45e0029881ecab2c327ef43f920d844b1e3f71e7438023f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

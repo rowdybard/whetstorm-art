@@ -2,6 +2,7 @@ import { activityDeedImageUrl } from './activity_deed_art';
 import { yumiCheerDeedImageUrl } from './yumi_cheer_deed_art';
 import { valeCupFiveDeedImageUrl } from './vale_cup_five_deed_art';
 import { conditionalRelicDeedImageUrl } from './conditional_relic_deed_art';
+import { fiestaDeedOriginalImageUrl } from './fiesta_deed_original_art';
 import { adventureMilestoneDeedImageUrl } from './adventure_milestone_deed_art';
 import { amberfallEvergardenDeedImageUrl } from './amberfall_evergarden_deed_art';
 import { armorFamiliesDeedImageUrl } from './armor_families_deed_art';
@@ -94,6 +95,7 @@ export function earlyDeedImageUrl(id: string): string | null {
     yumiCheerDeedImageUrl(id) ??
     valeCupFiveDeedImageUrl(id) ??
     conditionalRelicDeedImageUrl(id) ??
+    fiestaDeedOriginalImageUrl(id) ??
     hiddenAbstractFourDeedImageUrl(id) ??
     eraBrambleDeedImageUrl(id) ??
     socialHiddenFourDeedImageUrl(id) ??
