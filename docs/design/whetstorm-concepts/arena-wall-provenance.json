@@ -1,0 +1,12 @@
+{
+  "asset": "docs/design/whetstorm-concepts/arena-wall.png",
+  "sha256": "d5b8060711d117404003710f7e0ee16979f640868c8bffc54afe386c661a8390",
+  "method": "Built-in image generation; generated concept painting, not a 3D model.",
+  "reference": {
+    "path": "public/website-hero-arena.png",
+    "role": "Style and palette reference supplied to generation",
+    "sha256": "d6571853e845e6491258ebf62c8fbacdd3728903465b9bd97faa36664988ac45"
+  },
+  "prompt": "Use case: stylized-concept. Make an original standalone game-environment concept painting based on the supplied title painting only for sandstone material, warm sunlight and coastal arena style. Show ONE short, straight, repeatable wall module, not an entire arena: a simple rectangular sandstone block wall with a modest coping, exposed flat matching ends for adjoining segments, a small restrained red cloth accent and minimal forged iron fittings. View the whole wall from a clear elevated three-quarter angle so its front face and one flat end are visible; leave generous white margin on all sides. Plain pure white backdrop, no cast shadow, no ground, no floor, no gate, no people, no crowd, no text, no emblems. No large end towers, buttresses, arches or multiple sections. No dimensions or labels.",
+  "limitations": "Concept only; no dimensions, collision, production model or gameplay readiness established."
+}

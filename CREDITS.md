@@ -1669,6 +1669,11 @@ Two retired heroic chest paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/whetstorm/retired-heroic-chests-generation.json`.
 
+One starter-arena wall concept was generated with OpenAI's built-in image
+generation; its prompt, reference and hashes are recorded in
+`docs/design/whetstorm-concepts/arena-wall-provenance.json`. It is a concept,
+not a production model.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
