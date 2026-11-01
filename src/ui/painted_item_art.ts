@@ -59,6 +59,7 @@ import { cryptwalkerRingTierItemImageUrl } from './cryptwalker_ring_tier_item_ar
 import { ignivarCinderbarkOffsetItemImageUrl } from './ignivar_cinderbark_offset_item_art';
 import { cinderbarkUpperItemImageUrl } from './cinderbark_upper_item_art';
 import { bloodmaneUpperItemImageUrl } from './bloodmane_upper_item_art';
+import { bloodmaneLowerItemImageUrl } from './bloodmane_lower_item_art';
 import { disciplinePriestUpperItemImageUrl } from './discipline_priest_upper_item_art';
 import { vanguardDuskhymnUpperItemImageUrl } from './vanguard_duskhymn_upper_item_art';
 import { starwardenUpperItemImageUrl } from './starwarden_upper_item_art';
@@ -524,6 +525,7 @@ export function paintedItemImageUrl(id: string): string | null {
     ignivarCinderbarkOffsetItemImageUrl(id) ??
     cinderbarkUpperItemImageUrl(id) ??
     bloodmaneUpperItemImageUrl(id) ??
+    bloodmaneLowerItemImageUrl(id) ??
     disciplinePriestUpperItemImageUrl(id) ??
     vanguardDuskhymnUpperItemImageUrl(id) ??
     starwardenUpperItemImageUrl(id) ??

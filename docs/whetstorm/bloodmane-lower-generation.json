@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_druid_feral_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_feral_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bloodmane Legguards, one complete symmetrical pair of druid's chestnut leather leg armor with russet fur trim and weathered bone claw ornaments. Centered front view, no body or boots. Premium hand-painted dark fantasy, simple subdued dark charcoal-green painted vignette without scenery, warm top-left light, complete silhouette occupying 70 percent of frame with generous safe margins for circular crop, clear at 28px grayscale. No text, frame, watermark, creature portrait or extra objects.",
+      "status": "original art candidate",
+      "sha256": "d84074e54d3421590d9d326ab636c7b74dd10a5a088150ed7d3a03a0806fef7d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_feral_legs.webp",
+        "sha256": "9a98f434d20295ececdfb96dca911c1f283d6181c7eb6c2d4bc5b0c733183b88",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_druid_feral_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_feral_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bloodmane Grips, one compact pair of druid's chestnut leather gloves with russet fur cuffs and weathered bone claw ornaments. Centered view, no wearer or arms. Premium hand-painted dark fantasy, simple subdued dark charcoal-green painted vignette without scenery, warm top-left light, complete silhouette occupying 70 percent of frame with generous safe margins for circular crop, clear at 28px grayscale. No text, frame, watermark, creature portrait or extra objects.",
+      "status": "original art candidate",
+      "sha256": "2fe2d703efb453b995e3e532cc6d1cd7f65b9fbdf296679df2f3017904ca50c5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_feral_gloves.webp",
+        "sha256": "d8ac32520d20f675e00c3db8b60dc5138b460b49d423c6de4ecbcd5ba55d98b3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
