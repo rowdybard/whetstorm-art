@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_hunter_beast_mastery_legs",
+      "file": "docs/design/whetstorm-art/beast-hunter-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/beast-hunter-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one complete pair of empty hunter leather legguards, clearly separated legs ending at ankle cuffs, reddish-brown leather with cream fur accents, dark iron trim and an amber paw medallion at waist. Match the supplied jerkin's materials, palette, painted rendering and dark navy background; show only legguards with no boots or person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "2a0c49aace545f0818f2272de5d93a4b0d818b1dfa9cfa7b5df3e68d27716184",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_beast_mastery_legs.webp",
+        "sha256": "dae86a4e552f5731cf7d59d481248ab142789db4447a5e85fe20fd8d333086f8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_hunter_beast_mastery_gloves",
+      "file": "docs/design/whetstorm-art/beast-hunter-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/beast-hunter-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one pair of empty hunter leather gauntlets, recognizable fingers and cuffs, reddish-brown leather with cream fur accents, dark iron trim and amber paw medallions. Match the supplied jerkin's materials, palette, painted rendering and dark navy background; show only gloves with no person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "f566db00460b3abbaa65c4730b38c5be8345fb32567ea732edf7c13d1b7802ed",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_beast_mastery_gloves.webp",
+        "sha256": "c1cac4f3d1cc105afa7a86b9969635305b47598b312569137fd6d1ff555b6e6e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

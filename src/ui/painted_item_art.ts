@@ -99,7 +99,10 @@ import { pyroclastLowerItemImageUrl } from './pyroclast_lower_item_art';
 import { sunvigilUpperItemImageUrl } from './sunvigil_upper_item_art';
 import { sunvigilLowerItemImageUrl } from './sunvigil_lower_item_art';
 import { tempestwritUpperItemImageUrl } from './tempestwrit_upper_item_art';
+import { tempestwritLowerItemImageUrl } from './tempestwrit_lower_item_art';
 import { beastHunterUpperItemImageUrl } from './beast_hunter_upper_item_art';
+import { beastHunterLowerItemImageUrl } from './beast_hunter_lower_item_art';
+import { ignivarGrovespringUpperItemImageUrl } from './ignivar_grovespring_upper_item_art';
 import { hexthreadUpperItemImageUrl } from './hexthread_upper_item_art';
 import { hexthreadLowerItemImageUrl } from './hexthread_lower_item_art';
 import { marksmanshipHunterUpperItemImageUrl } from './marksmanship_hunter_upper_item_art';
@@ -544,7 +547,10 @@ export function paintedItemImageUrl(id: string): string | null {
     sunvigilUpperItemImageUrl(id) ??
     sunvigilLowerItemImageUrl(id) ??
     tempestwritUpperItemImageUrl(id) ??
+    tempestwritLowerItemImageUrl(id) ??
     beastHunterUpperItemImageUrl(id) ??
+    beastHunterLowerItemImageUrl(id) ??
+    ignivarGrovespringUpperItemImageUrl(id) ??
     hexthreadUpperItemImageUrl(id) ??
     hexthreadLowerItemImageUrl(id) ??
     marksmanshipHunterUpperItemImageUrl(id) ??

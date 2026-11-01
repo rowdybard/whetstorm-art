@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_shaman_elemental_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_elemental_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/items/vanguard_shaman_elemental_chest.png"
+      ],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting, a matching pair of complete empty elemental shaman mail legguards with clearly separated legs. Use supplied original hauberk as STYLE reference for dark weathered iron, deep indigo leather, etched copper spirals and cyan storm crystals. Full centered leg silhouette on dark muted slate background, painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "cbebd90c4280608bd1468ed23084203d4ce494a3550e39b4b9cc307cf8fd5b83",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_elemental_legs.webp",
+        "sha256": "d788d7f7c37c1264b9dc9e884023001ca20e02f392b2d80ff732ddfa23890a25",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_shaman_elemental_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_elemental_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/items/vanguard_shaman_elemental_chest.png"
+      ],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting, a matching pair of complete empty elemental shaman mail gauntlets with clearly recognizable five-finger hands. Use supplied original hauberk as STYLE reference for dark weathered iron, deep indigo leather, etched copper spirals and cyan storm crystals. Full centered gauntlet silhouette on dark muted slate background, painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "cba9ab5041cecc3ae4201ea5aa0131a330eab10aee18cac44abc8278c2429cbe",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_elemental_gloves.webp",
+        "sha256": "7d9eaeacd29d858ca012a2260d872e7085879487fecc713bcb4dbdf307423151",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

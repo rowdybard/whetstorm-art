@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "grovespring_helmet",
+      "file": "docs/design/whetstorm-art/ignivar-grovespring-helmet-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: Grovespring Cowl, an empty druid healer leather hood in moss green and warm brown, bronze edging, stylized leaf-shaped leather trim and a small pale turquoise dewstone at brow. No head or person. Complete hood centered with safe margins, flat dark forest-green painted vignette background, no landscape, plants or environment. Warm upper-left light, tactile hand-painted leather, sharp outline. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "retry": "First result rejected because it placed the subject in a forest scene.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "07633c810feb266c474bb3f2cfb4b4cd29635ccdabf3ae6e8932dc50f876f668",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/grovespring_helmet.webp",
+        "sha256": "15ce2789992f0b3866860d6a9ea21106c654eac7ec02bd6c46a05138adb5a7ed",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "grovespring_shoulder",
+      "file": "docs/design/whetstorm-art/ignivar-grovespring-shoulder-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-grovespring-helmet-master.png"
+      ],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: Grovespring Spaulders, a symmetrical pair of empty druid healer leather shoulder pieces in moss green and warm brown, bronze edging, stylized leaf-shaped leather trim and small pale turquoise dewstones. Match the reference cowl's palette and materials, show only shoulders, no hood, head, torso or person. Complete pair centered with safe margins, dark forest-green painted vignette background, no landscape, plants or environment. Warm upper-left light, tactile hand-painted leather, sharp outline. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "6709de591af0f4160dbe5b62da1f14592ddb4d5ce2a4025d85b99bc07fdd36ae",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/grovespring_shoulder.webp",
+        "sha256": "cfb16cbca130ba370c2f2632b49c3572f247cda1242336b3c08a6d9c39169be0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "grovespring_chest",
+      "file": "docs/design/whetstorm-art/ignivar-grovespring-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-grovespring-helmet-master.png"
+      ],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: Grovespring Tunic, one complete empty druid healer leather tunic with sleeves in moss green and warm brown, bronze edging, stylized leaf-shaped leather trim and a small pale turquoise dewstone at chest. Match the reference cowl's palette and materials, show only tunic, no hood, head, hands or person. Full garment centered with safe margins, dark forest-green painted vignette background, no landscape, plants or environment. Warm upper-left light, tactile hand-painted leather, sharp outline. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "370459db27b7d3e7f55a62ebf5f7ac2825667b8583e2b19660a5411363321156",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/grovespring_chest.webp",
+        "sha256": "d5da6ee8f5f7886ce7bc5497b76bef48ff0ddb4d6081058d6fb3e6ddb2fcddd6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
