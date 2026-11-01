@@ -58,6 +58,28 @@ set. It is already included among the 40 collection files, and is a separate
 NPC attachment path rather than another player equipment mapping. Preserve its
 hand attachment and check NPC poses when selecting a replacement.
 
+### Rimefang dagger candidate — 2026-11-01
+
+`rimefang` currently uses the restricted `ice_fang` model. The existing
+`dagger.glb` has a build-spec reference to the KayKit Adventurers pack. A
+read-only comparison with the [official upstream at commit 672074b](https://github.com/KayKit-Game-Assets/KayKit-Character-Pack-Adventures-1.0/tree/672074b73ba276876a19e8816ecdc5241817ab47)
+found the upstream `Assets/gltf/dagger.gltf` and shipped GLB each have 207
+vertices and 172 triangles. After applying the shipped node transform, all
+triangle positions matched within 0.0000461 and UVs within 0.0001312; the
+recorded material properties also matched. The upstream pack's license states
+CC0. Upstream glTF SHA-256 is
+`33c577d4d5d268295f13494c930d20d11bf1a82e862aa7bdab4d7d51bc26fcd0`;
+the inspected shipped GLB SHA-256 is
+`b3c3c662c3d9505f727480d0bb1a9dcb26f88550985516f5159ea22b16a86e56`.
+
+This supports geometry lineage, not complete asset clearance: the shipped
+embedded KTX2 texture was not decoded and compared with the upstream PNG.
+The candidate uses the `Knife` attachment while `ice_fang` uses
+`VAR_DAGGER`; grip, scale, stow, clipping, animations, skin overrides, preload
+and heroic resolution remain untested. It also changes the item's appearance,
+and the separate `ice_fang_sword` cosmetic still uses the restricted model.
+Do not switch the mapping or remove the original file on this evidence alone.
+
 `adv_axe_1handed` is a candidate for the remaining axe: the game already uses
 it for other one-handed axes and it follows the existing axe attachment path.
 Before substituting it, verify the exact model's source and embedded assets,
