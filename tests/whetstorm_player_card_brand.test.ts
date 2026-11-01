@@ -2,7 +2,7 @@
 import { afterEach, expect, it, vi } from 'vitest';
 
 vi.mock('../src/ui/i18n', () => ({
-  t: (key: string) => key === 'playerCard.whetstormWordmark' ? 'WHETSTORM LONG TRANSLATED WORDMARK' : key,
+  t: (key: string) => key === 'playerCard.nativeShareTitle' ? 'WHETSTORM LONG TRANSLATED WORDMARK' : key,
   formatNumber: (value: number) => String(value),
   getLanguage: () => 'en',
   languageTag: () => 'en',

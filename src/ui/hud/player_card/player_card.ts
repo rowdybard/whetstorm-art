@@ -614,7 +614,7 @@ function drawFooter(
   ctx.textAlign = 'right';
   ctx.fillStyle = colors.gold;
   ctx.font = `700 21px ${TITLE_FONT}`;
-  ctx.fillText(t('playerCard.whetstormWordmark'), 1156, 130, 1156 - HEADER_RIGHT_EDGE - 6);
+  ctx.fillText(t('playerCard.nativeShareTitle'), 1156, 130, 1156 - HEADER_RIGHT_EDGE - 6);
   ctx.textAlign = 'left';
 
   // Referral line stays bottom-right; URL clamp trimmed so it clears the badge
