@@ -1,0 +1,16 @@
+{
+  "skin_id": "brasscrown_staff",
+  "model_id": "brasscrown_walking_staff",
+  "asset": "docs/design/whetstorm-concepts/brasscrown-staff-3d-intake.png",
+  "purpose": "Standalone 2D model-intake reference; not a model.",
+  "generator": "OpenAI built-in image generation",
+  "reference": {
+    "path": "docs/design/whetstorm-art/armory/brasscrown_staff.png",
+    "sha256": "a278dad8f623765e9e203e9e45b56727b9df11a7b261e8d2edba031c15c803ec",
+    "provenance": "docs/whetstorm/armory-guildmark-original-generation.json"
+  },
+  "prompt": "Use case: stylized-concept. Create one standalone 2D model-intake reference of Brasscrown Walking Staff, using ONLY the supplied original Whetstorm armory painting as visual reference. Preserve its long naturally knotted warm brown wooden shaft, rounded brass finial with small pointed cap, dark red leather wrap near the top, and brass bottom ferrule. Show the entire single staff from finial to ferrule on pure white, clear three-quarter view with margins. No hands, person, scene, text, logos, extra objects or cast shadow. This is a 2D reference, not a 3D model.",
+  "output_sha256": "4fa1a0ca1ea7452852a3eb44e0d4ff0007cb0d28078573de21f75efe4d6a9ba7",
+  "source_output": "exec-587fe848-5d36-4ab7-a09d-f598aa7471bf.png",
+  "limitations": "The legacy model is permission-required. Cosmetic use is conditional on ownership and matching equipment; current acquisition is unverified. NPC and cosmetic attachment, grip, stow, animations, scaling and runtime fit require 3D validation. No mesh or runtime change."
+}

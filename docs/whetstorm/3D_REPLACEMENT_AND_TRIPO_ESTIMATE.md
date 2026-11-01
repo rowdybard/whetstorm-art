@@ -78,6 +78,11 @@ This is not yet a replacement recommendation: the two props use different
 grip families, and NPC hand position, scale, poses, animation, clipping and
 appearance need verification. A substitution would not eliminate the separate
 cosmetic-skin use or physically remove the restricted model from a package.
+For a future independently authored model, the original 2D reference
+`docs/design/whetstorm-concepts/brasscrown-staff-3d-intake.png` is derived
+from the original Whetstorm cosmetic painting. Its source, prompt, hashes and
+fit limitations are in `docs/whetstorm/brasscrown-staff-3d-intake-generation.json`.
+It is a planning image, not a model or a verified replacement.
 
 ### Rimefang dagger candidate — 2026-11-01
 
