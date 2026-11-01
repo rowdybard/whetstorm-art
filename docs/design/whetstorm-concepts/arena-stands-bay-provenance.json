@@ -1,0 +1,12 @@
+{
+  "asset": "arena-stands-bay.png",
+  "source": "OpenAI built-in image generation",
+  "status": "Concept for review and future 3D modeling; not a shipping model.",
+  "reference": {
+    "path": "public/website-hero-arena.png",
+    "role": "Original Whetstorm title painting, architecture and palette reference",
+    "sha256": "d6571853e845e6491258ebf62c8fbacdd3728903465b9bd97faa36664988ac45"
+  },
+  "prompt": "Use case: stylized-concept. Standalone concept for future 3D modeling: one modular tiered arena seating and arcade bay. Use the supplied original arena title painting as architecture and palette reference: warm sunlit sandstone blockwork, simple arched arcade openings beneath stepped stone seating, worn heroic proportions. Show a single repeatable architectural segment with full object visible in three-quarter view on plain pure white background; seating tiers and arcade clearly readable. No crowd, people, banners, lettering, ground plane, cast shadow, watermark, dimension labels or other structures. No fixed dimensions.",
+  "sha256": "d93b814f2e73fea21b0f583955bc7a5bbfdf6b6167449a1b3a2e552dae61e52c"
+}
