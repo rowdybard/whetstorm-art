@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "imperial_crimson_armor_plate",
+      "file": "docs/design/whetstorm-art/legacy-chroma-imperial_crimson-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square painted fantasy RPG inventory icon: Imperial Crimson armor plate, one detached futuristic mechanical armor shell panel, rich crimson enamel as the dominant surface with restrained antique gold seams, angular crowned ridge and a small recessed light. Complete single object centered with safe margins on dark charcoal painted vignette, warm upper-left light, tactile scratched metal, clear silhouette readable at 28 pixels. No wearer, robot, text, letters, border, logo, watermark or copied game designs.",
+      "status": "original conceptual painting; no normal acquisition or mech rendering parity verified",
+      "sha256": "61d0abff1e6d2a19acb73af7a7b8e578a305f37d2950d3decef9e9b886a5bb5f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/imperial_crimson_armor_plate.webp",
+        "sha256": "d6842350ea39581f4a751b9e074ba06bbd3fb8e222b568c3068ebac3b7f1a9c1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "imperial_gold_armor_plate",
+      "file": "docs/design/whetstorm-art/legacy-chroma-imperial_gold-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory item: Imperial Gold chroma, a single detached futuristic armor panel in predominantly gold metal. Invent a wide symmetrical shield-like mechanical chest plate with stepped wing edges and a round dark recessed core, distinct silhouette. Tactile worn metal, dark neutral vignette, warm upper-left light, full centered object, safe margins, readable 28px. No person, robot, text, border, logo, watermark or copied game designs.",
+      "retry": "First reference-based attempt rejected for copying the crimson composition too closely; regenerated independently.",
+      "status": "original conceptual painting; no normal acquisition or mech rendering parity verified",
+      "sha256": "13e824483aaa17957acebe373251e21456ea2394e4b16401c751f8998ace98da",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/imperial_gold_armor_plate.webp",
+        "sha256": "390ef86e8c55a2ab2d2926cc99278a9981b2b949463e4e28895ea214e42760cb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_azure_armor_plate",
+      "file": "docs/design/whetstorm-art/legacy-chroma-vanguard_azure-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory item: Vanguard Azure chroma, a single detached futuristic armor panel in predominantly azure blue metal. Invent an elongated angular mechanical armor shell with two swept fins and a slim vertical recessed core, distinct silhouette. Tactile worn metal, dark neutral vignette, warm upper-left light, full centered object, safe margins, readable 28px. No person, robot, text, border, logo, watermark or copied game designs.",
+      "retry": "First reference-based attempt rejected for copying the crimson composition too closely; regenerated independently.",
+      "status": "original conceptual painting; no normal acquisition or mech rendering parity verified",
+      "sha256": "599bb50b2b8eb48ec8e879029f62cecfffd98ff15acbaf8f31ed702a38fce61e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_azure_armor_plate.webp",
+        "sha256": "fc92d8a2bfd028edcf15178f4071975b4fcf5be315afe2639656396a16ce1af4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_chrome_armor_plate",
+      "file": "docs/design/whetstorm-art/legacy-chroma-vanguard_chrome-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory item: Vanguard Chrome chroma, a single detached futuristic armor panel in predominantly reflective silver chrome. Invent a compact asymmetric mechanical shell with layered curved segments, visible hinges and a circular recessed core, distinct silhouette. Tactile worn metal, dark neutral vignette, warm upper-left light, full centered object, safe margins, readable 28px. No person, robot, text, border, logo, watermark or copied game designs.",
+      "retry": "First reference-based attempt rejected for copying the crimson composition too closely; regenerated independently.",
+      "status": "original conceptual painting; no normal acquisition or mech rendering parity verified",
+      "sha256": "e01d3843aa532670d239537cf9c124b8f14ac76f8de70393f51462f320a504c8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_chrome_armor_plate.webp",
+        "sha256": "7350e3a6d158b177b0b98842861bfbfbde9bb6c959535e4233736904c685e289",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

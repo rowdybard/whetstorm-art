@@ -1637,6 +1637,10 @@ Three retained wildlife-material paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/whetstorm/wildlife-materials-generation.json`.
 
+Four retained epic mech-plate paintings were generated with OpenAI's built-in
+image generation; prompts, references, and hashes are recorded in
+`docs/whetstorm/legacy-chroma-epic-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
