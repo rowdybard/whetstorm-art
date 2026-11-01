@@ -1764,6 +1764,10 @@ generation; its prompt and hash are recorded in
 `docs/whetstorm/chimeglass-tortoise-concept-generation.json`. It is a concept,
 not a production model.
 
+One implicit backpack painting was generated with OpenAI's built-in image
+generation; its prompt and hashes are recorded in
+`docs/whetstorm/implicit-backpack-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

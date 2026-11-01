@@ -1,0 +1,12 @@
+{
+  "id": "backpack",
+  "source": "OpenAI built-in image generation",
+  "referenceImages": [],
+  "prompt": "Use case: stylized-concept. Create one original square opaque fantasy MMORPG inventory item painting for the player's implicit 16-slot backpack. A single sturdy practical travel backpack, warm chestnut leather with rounded flap, broad stitched shoulder straps and one small rolled blanket secured underneath, three-quarter view, complete silhouette centered against a dark slate-blue painted background. Hand-painted stylized fantasy, broad clear forms, warm upper-left light, strong silhouette legible at 28 pixels. Distinct from a UI button: edge-to-edge painting, no transparent cutout, no frame or badge. No numbers, text, letters, logo, watermark, people, tools or imitation of any game or artist.",
+  "master": "docs/design/whetstorm-art/items/backpack.png",
+  "masterSha256": "c96686b9e42be1c2966abc82ff9a7b45828bbf9d6df8bb31439d735272a2263e",
+  "shipping": "public/ui/whetstorm/items/backpack.webp",
+  "shippingSha256": "f984ec1777fb70f826b4f61bc5b7d7ae68bace465da0e26a0d6d475ef78a34e7",
+  "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6",
+  "semantics": "UI-only implicit 16-slot backpack; not an item or equipable bag."
+}
