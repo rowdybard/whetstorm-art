@@ -111,3 +111,23 @@ At art-branch commit `9b45d7eb0d`, the same runtime census found 207 of 271
 catalogued mob IDs with original portrait overrides and 64 resolving to legacy
 URLs. This includes pets and dummies; catalog membership alone still does not
 prove a live spawn. Subsequent work changes these counts.
+
+## Fiesta power-up source and replacement dependency
+
+Read-only comparison on 2026-11-01: reference checkout `D:/whetstorm-deploy`
+at `6c15e449a82ab5b7233b70416b8cd0d5abf97d21` tracks four files under
+`public/ui/fiesta/powerups/`: `pow_berserker.webp`, `pow_colossus.webp`,
+`pow_moon_boots.webp`, and `pow_speed_demon.webp`. Its `CREDITS.md` classifies
+`public/ui/fiesta/**/*.webp` as requiring permission. In that reference revision,
+`src/ui/icons.ts` resolves active aura aliases through `EXTERNAL_AURA_IMAGE_URLS`;
+nameplate and icon consumers can reach those paths. The files' presence is an
+inventory finding, not proof of what a later build or deployment contains.
+
+At art-branch commit `f3af23192c`, `src/ui/icons.ts` instead gives `whetstormAuraImageUrl` priority; that resolver
+includes `whetstorm_powerup_aura_art.ts`, and the four original paintings are
+present. In the full candidate, integrate the resolver and all corresponding
+images together, check every alias and nameplate consumer, and confirm any direct
+uses of the legacy helper before removing the four restricted physical files.
+Build and inspect the actual package and caches, and exercise the aura display.
+These candidate steps remain unperformed; do not assume that mapping changes
+alone remove the old assets from distribution.
