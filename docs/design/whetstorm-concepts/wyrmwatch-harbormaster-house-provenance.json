@@ -1,0 +1,13 @@
+{
+  "asset": "docs/design/whetstorm-concepts/wyrmwatch-harbormaster-house-original.png",
+  "purpose": "Independent exterior concept only; not a model or runtime replacement",
+  "source": "OpenAI built-in image generation",
+  "reference_images": [],
+  "functional_source": "src/sim/content/wyrmwatch_harbor_house.ts; requirements only, no image or restricted model input",
+  "prompt": "Create one independently designed original Whetstorm Harbormaster House exterior concept, not a 3D model. A modest coastal timber house on sturdy stilts, roughly square footprint, steep gabled roof and one clear wide entry on the front wall, designed for a walk-in game environment. Whole isolated building centered in a clear three-quarter view, ample margins, plain pure white background. Hand-painted stylized fantasy, broad simple shapes, weathered timber and restrained coastal colors. No boat, wharf, pier, scenery, people, text, logos, watermark, border, cast shadow or other objects. No reference images or imitation of existing game designs.",
+  "sha256": "08bf15b6f755ce8c54ac17d5190b280e69820aab524e79a7e2a7910a06e3f2af",
+  "pixels": [1312, 1199],
+  "format": "opaque RGB PNG",
+  "review": "Exterior isolated on white with a visible closed entry; the upper finial touches the top edge. The stairs and porch are visual ideas, not an approved layout.",
+  "validation_required": "A future design and 3D implementation must validate independent wall and roof cutaways, collision, walkable floor and interior layout, existing doorway dimensions and approach, lighting, graphics tiers and LODs. This image does not establish any of those contracts."
+}
