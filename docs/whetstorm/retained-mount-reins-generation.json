@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "reins_terrorspark_groundshaker",
+      "file": "docs/design/whetstorm-art/items/reins_terrorspark_groundshaker.png",
+      "acquisition": "Developer only; no normal acquisition.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: a heavy mechanical ignition key for a developer-only groundshaker machine, dark iron angular key with a chunky bronze grip and a small glowing orange spark in its head. Centered diagonally on dark navy charcoal background, tactile hand-painted metal, bold key silhouette readable at 28 pixels. No vehicle, text, letters, frame, logo, watermark or other items.",
+      "sha256": "483dc799b278002177c931fc793c1b791def29a4354451b1215d7df1ea30987f",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_terrorspark_groundshaker.webp",
+        "sha256": "71b4f60708af380f8dab7d5cc21f69785d065ecfb50843422578f5e9a6c72bab",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "reins_drakemaw_raptor",
+      "file": "docs/design/whetstorm-art/items/reins_drakemaw_raptor.png",
+      "acquisition": "No current acquisition; retained for a future source.",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: a coiled set of durable brown leather reins and bridle for a saddle-broken raptor, with a single red-brown claw-shaped clasp and weathered bronze buckles. Centered large on dark muted navy background, tactile hand-painted leather and metal, bold loop silhouette readable at 28 pixels. No animal, text, letters, frame, logo, watermark or other items.",
+      "sha256": "94121dd7ca420aa0802c544fa8402cd9e41727831e5b01186e33d51956bf36cf",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/reins_drakemaw_raptor.webp",
+        "sha256": "b173afda3ab66e2f41dc995dda44e6c81b6b354a012bf14fbe34b1a0c931eafc",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

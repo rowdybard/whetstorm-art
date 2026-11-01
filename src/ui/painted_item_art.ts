@@ -78,6 +78,7 @@ import { wildlifeMaterialsItemImageUrl } from './wildlife_materials_item_art';
 import { legacyChromaEpicItemImageUrl } from './legacy_chroma_epic_item_art';
 import { mechChromaLegacyPlatesItemImageUrl } from './mech_chroma_legacy_plates_item_art';
 import { legacyReinsThreeItemImageUrl } from './legacy_reins_three_item_art';
+import { retainedMountReinsItemImageUrl } from './retained_mount_reins_item_art';
 import { slagcrownUpperItemImageUrl } from './slagcrown_upper_item_art';
 import { slagcrownLowerItemImageUrl } from './slagcrown_lower_item_art';
 import { starwardenUpperItemImageUrl } from './starwarden_upper_item_art';
@@ -563,6 +564,7 @@ export function paintedItemImageUrl(id: string): string | null {
     legacyChromaEpicItemImageUrl(id) ??
     mechChromaLegacyPlatesItemImageUrl(id) ??
     legacyReinsThreeItemImageUrl(id) ??
+    retainedMountReinsItemImageUrl(id) ??
     slagcrownUpperItemImageUrl(id) ??
     slagcrownLowerItemImageUrl(id) ??
     starwardenUpperItemImageUrl(id) ??
