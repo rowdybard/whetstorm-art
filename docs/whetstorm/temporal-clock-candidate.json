@@ -1,0 +1,13 @@
+{
+  "status": "Independent source-only candidate; not selected by runtime and not release-ready.",
+  "candidate": "docs/design/whetstorm-art/audio/temporal-clock-candidate/clock.mp3",
+  "sha256": "513dca6c730ee747104d9a6fd5a828d3cb329f8072f63c6d49e916b91e0518c7",
+  "generator": "scripts/sfx/whetstorm_temporal_clock_candidate.mjs",
+  "generatorSha256": "bf2c6aaaaeb6aa9ef8642ca3b640750508af1f8646e1732b8acb2c5b6220f4db",
+  "source": "Original deterministic synthetic tones through existing ui_sfx.mjs and conform_audio.mjs; no sampled input or external audio.",
+  "recipe": "Two short descending ticks followed by a two-tone bell, 0.8 seconds before MP3 encoding.",
+  "command": "node scripts/sfx/whetstorm_temporal_clock_candidate.mjs docs/design/whetstorm-art/audio/temporal-clock-candidate/clock-reproduction.mp3 node_modules/ffmpeg-static/ffmpeg.exe",
+  "verification": "Two independent generations matched SHA-256; ffprobe reported mono MP3, 44100 Hz, 192000 bps, 0.835918 seconds including MP3 padding. Listening review remains pending.",
+  "integration": "The legacy temporal_clock runtime recording remains unchanged. In a complete controlled checkout, review by ear and in-game, conform and gain-check, reconcile catalog ownership without duplicate keys, regenerate both compiled manifest and runtime pack with all audio inputs, and audit final package and old recording.",
+  "pathSafety": "Existing ancestor links and junctions are rejected before directory creation, realpath containment is checked before use and publication, and output creation is exclusive. Path checks are not atomic against concurrent filesystem replacement."
+}
