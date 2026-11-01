@@ -30,6 +30,13 @@ models were observed as rigid; the new pictures do not determine grip or
 attachment. Validate each future model against the equipment, stow, skin,
 preload and animation paths described below, then inspect the full package.
 
+The retained Fallen Star cosmetics also have original 2D intake references
+for `starfall_mace` and `meteorlatch_crossbow` under
+`docs/design/whetstorm-concepts/`, with individual generation records in
+`docs/whetstorm/`. Starfall's orbiting effects are omitted from its solid
+reference, and Meteorlatch's string and bolt geometry need clarification.
+These are not models; ownership and current acquisition are unverified.
+
 ### Active held-model follow-up (2026-10-30)
 
 The art branch also maps the Rift dagger `rimefang` to `ice_fang` in

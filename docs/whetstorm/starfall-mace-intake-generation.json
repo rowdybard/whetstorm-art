@@ -1,0 +1,9 @@
+{
+  "asset": "starfall_mace",
+  "purpose": "Original 2D model-intake concept only; no 3D model created.",
+  "generator": "OpenAI built-in image generation",
+  "reference": {"path": "docs/design/whetstorm-art/armory/starfall_mace.png", "sha256": "8b35579d674ab9374510828e33a1c91f03bfb413ac9e33f77923b7041e631c59", "provenance": "docs/whetstorm/armory-fallen-star-trio-generation.json", "role": "sole visual reference"},
+  "prompt": "Create a standalone 2D 3D-model intake concept using the provided original Whetstorm painting as the sole visual reference. Show one complete Starfall Mace from head to pommel, isolated on a plain neutral white background, three-quarter view, with clear margins. Preserve the black cosmic flanged head, luminous gold star core, gold trim, dark shaft and spiral gold wrap and pointed pommel. Show only the solid weapon; omit floating fragments and effects so the silhouette is clear. No hands, text, logo, floor or cast shadow. Clean stylized fantasy concept illustration.",
+  "output": {"path": "docs/design/whetstorm-concepts/starfall-mace-intake.png", "sha256": "87434306756befe41237ca83b4fd31fccbbcf276aa23740618e3cad90a3f685f"},
+  "limitations": "Retained cosmetic; ownership and current acquisition unverified. Held grip, stow, animation, orbit VFX and runtime 3D fit remain unvalidated. Floating fragments and effects are omitted from this solid-form concept."
+}

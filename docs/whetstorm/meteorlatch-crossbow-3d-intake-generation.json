@@ -1,0 +1,16 @@
+{
+  "skin_id": "meteorlatch_crossbow",
+  "model_id": "meteorlatch_the_sky_s_last_judgment",
+  "asset": "docs/design/whetstorm-concepts/meteorlatch-crossbow-3d-intake.png",
+  "purpose": "Standalone 2D model-intake reference; not a model.",
+  "generator": "OpenAI built-in image generation",
+  "reference": {
+    "path": "docs/design/whetstorm-art/armory/meteorlatch_crossbow.png",
+    "sha256": "c36c9f04e3e29ea341cb8ef5774bf3c548492dc52cb2c7634f6f44ea5783b6a1",
+    "provenance": "docs/whetstorm/armory-fallen-star-ranged-generation.json"
+  },
+  "prompt": "Create a standalone 2D model-intake reference for Meteorlatch crossbow using ONLY the supplied original Whetstorm painting as visual reference. Preserve the complete crossbow's broad crescent cosmos-black limbs, gold constellation motifs, dark stock, molten gold tiller core, drawn string and single glowing bolt. Show one whole object from stock through bow limbs and bolt tip with generous margins, clear three-quarter view on a plain pure white neutral background. No hands, people, text, logos, watermark, ground or cast shadow. A 2D reference only, not a model.",
+  "output_sha256": "6427f3287de74a770b0370c432b3fd7c0caeebf3b72929f81c3bb8ad639f52d3",
+  "source_output": "exec-b4e8f6bc-6145-44fb-9d62-460f9f920846.png",
+  "limitations": "Use is conditional on cosmetic ownership and compatible equipment; current acquisition is unverified. The existing model remains permission-required. The image's upper string appears doubled and its bolt tip has a narrow margin; clarify string and bolt geometry before modeling. Held attachment, stow, bolt handling, animations, VFX and runtime fit require 3D validation. No mesh or game code changed."
+}
