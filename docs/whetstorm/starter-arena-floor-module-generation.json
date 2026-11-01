@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-concepts/starter-arena-floor-module.png",
+      "subject": "Starter arena floor module concept",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        {
+          "path": "public/website-hero-arena.png",
+          "role": "palette and material context",
+          "sha256": "d6571853e845e6491258ebf62c8fbacdd3728903465b9bd97faa36664988ac45"
+        }
+      ],
+      "prompt": "Create one ORIGINAL game environment concept for Whetstorm: a single square modular fighting-floor slab of warm sandstone blocks lightly covered with pale golden arena sand. Show the entire simple square module in a slight three-quarter top view with clear straight edges and modest thickness; broad, practical worn surface, subtle tile seams and sand scuffs. Coordinate warm sandstone and hand-painted stylized fantasy material with the arena reference, but show ONLY the isolated floor module on a perfectly plain white background. Full object in frame with generous margins, no shadow, no people, creatures, structures, props, scenery, lettering, symbols, UI, border, logo or watermark. No dimensions or scale annotation. Original design, no imitation of games or artists.",
+      "sha256": "d3db65cd0f1fab4614ee6c44dd97729a60f3c8dc5500df788ec7cbfa7ce42e64",
+      "pixels": [
+        1358,
+        1158
+      ],
+      "status": "2D concept for review; no model or gameplay dimensions"
+    }
+  ]
+}
