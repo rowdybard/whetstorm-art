@@ -1,0 +1,56 @@
+{
+  "source": "OpenAI built-in image generation",
+  "operation": "Edit using the staged Whetstorm HUD launcher icon as a style reference",
+  "prompt": "Edit the referenced Whetstorm HUD launcher icon into a clear SPELLBOOK launcher. Replace the dagger and whetstone completely with one closed, upright fantasy spellbook viewed at a slight three-quarter angle: a thick deep teal-blue leather cover, a few worn bronze corner fittings, and one simple luminous pale-blue star on the cover. Match the reference's hand-painted stylized fantasy game style, warm upper-left light, chunky forms, bold near-black outline and restrained detail. Center the whole book with a small safe margin. Its silhouette must be immediately recognizable as a book at 24 pixels, and distinct from a medal or achievement badge. Real transparent alpha background. No person, hands, weapons, whetstone, scenery, border, frame, text, lettering, logo, or watermark.",
+  "reference": {
+    "description": "Staged Whetstorm HUD launcher icon used as style reference in the game pilot",
+    "path": "public/ui/whetstorm/hud/chrome/spellbook.webp",
+    "sha256": "0f0070427326e20a3801c3888c4a15d8c1912d783f598a06c92f386d167de638"
+  },
+  "generatedSource": {
+    "sha256": "ed18cba1456e59bae68eb394b32c074db4bda739203920423e13d997685a70c5",
+    "note": "Original generated image bytes match the copied master; the original local path is not a portable repository artifact."
+  },
+  "master": {
+    "path": "docs/design/whetstorm-art/hud/chrome/spellbook-book-v2.png",
+    "sha256": "ed18cba1456e59bae68eb394b32c074db4bda739203920423e13d997685a70c5",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "alphaPixels": {
+      "transparent": 831393,
+      "opaque": 615,
+      "partial": 740508
+    },
+    "processing": "Byte-for-byte copy of generated source."
+  },
+  "candidate": {
+    "path": "docs/design/whetstorm-art/hud/candidates/spellbook-book-v2.webp",
+    "sha256": "f24d059962cffb0d30e240c18b7a2e8bcf4566a6c8394d0fd2555d3299595b18",
+    "dimensions": [
+      128,
+      128
+    ],
+    "bytes": 6084,
+    "alphaPixels": {
+      "transparent": 8198,
+      "opaque": 259,
+      "partial": 7927
+    },
+    "processing": "Sharp 0.35.4: rotate(); resize(128, 128, { fit: 'cover', position: 'centre' }); toColorspace('srgb'); webp({ alphaQuality: 100, smartSubsample: true, effort: 6, quality: 82 }). Metadata stripped by Sharp default. Settings follow scripts/convert_skill_icons_webp.mjs."
+  },
+  "gamePilotContext": {
+    "runtimeUrl": "/ui/whetstorm/hud/chrome/spellbook-book-v2.webp",
+    "note": "Separate game pilot runtime URL, not a file or registry entry in this art checkout."
+  },
+  "verification": {
+    "scope": "Copied bytes, SHA-256, image dimensions and alpha distribution verified. Static 24px QA only; no actual gameplay review or approval. Hashes identify bytes and do not establish rights or release approval.",
+    "staticReview": {
+      "path": "docs/design/whetstorm-art/hud/reviews/spellbook-book-v2-24px.png",
+      "sha256": "962a8139743542dc5500a0481403bbacd1cd36155dbf6682e636c75be685d6cb",
+      "description": "Eight launcher icons resized to 24 pixels and composited over dark and light backgrounds for static review; the Spellbook is third in each row."
+    },
+    "status": "Candidate in docs; not wired into this art checkout HUD registry."
+  }
+}

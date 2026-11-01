@@ -148,6 +148,13 @@ shipping files, and hashes. Consult the individual record for provenance; a
 Whetstorm path alone does not establish the lineage of other assets. These
 records do not alter the restrictions on the historical art listed below.
 
+The Spellbook v2 HUD candidate was made with OpenAI built-in image generation
+using the earlier Whetstorm launcher as a style reference. Its prompt, reference,
+source and candidate hashes, and static 24px review are recorded in
+`docs/whetstorm/hud-spellbook-v2-candidate.json`. The earlier launcher's
+raw-to-master chain remains unverified. The candidate is not wired into this
+checkout and has not been approved through an in-game review.
+
 ## Do not redistribute these
 
 If you fork this project, or redistribute the repository or a build of it, the
