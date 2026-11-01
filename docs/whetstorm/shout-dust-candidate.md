@@ -25,3 +25,13 @@ procedural image and its source tests do not establish visual or runtime fit.
 Static sheet review found the cloud remains smooth and similar across many
 frames, with little distinct particulate breakup. It needs motion and visual
 refinement before it can be considered a replacement.
+
+The current `baked_impact_layers.ts` shader reverses atlas row indexing,
+uses `4 / 256` local UV gutter for `shout_dust` (two pixels per side at a
+128-pixel cell), and applies a shout-specific vertical pivot. This candidate
+reserves eight transparent pixels per side, so it may appear smaller than the
+existing effect even if frame ordering is correct. Verify placement and cell
+orientation through the real loader before changing either padding or scale.
+Reduced motion samples `0.36 * 63`, or frame 22.68, and needs its own visual
+check. Test encoded WebP and mip levels for bleed; CPU alpha tests alone do
+not establish blended GPU output.
