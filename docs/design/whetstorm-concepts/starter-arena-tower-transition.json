@@ -1,0 +1,13 @@
+{
+  "source": "OpenAI built-in image generation",
+  "purpose": "2D concept for planning; not a 3D asset or dimensional specification",
+  "prompt": "Create an original 2D concept painting of exactly ONE isolated freestanding sandstone corner tower for a starter arena, in three-quarter view. Use the supplied arena image for warm coastal sandstone, deep red cloth and dark iron visual language. The tower is a single compact vertical structure: square tapered stone base, simple battlements, one red banner, dark iron fittings. On two adjoining sides show ONLY short flush stone sockets/brackets at wall height, ending at the tower face; absolutely no projecting wall sections, no fence, no arches extending from the tower. Entire tower and fittings fully visible with generous margin. Pure white background, no floor, ground plane, cast shadow, crowd, people, text, labels, dimensions, logo or watermark. This is 2D planning art, not a complete arena.",
+  "reference": {
+    "path": "public/website-hero-arena.png",
+    "sha256": "d6571853e845e6491258ebf62c8fbacdd3728903465b9bd97faa36664988ac45"
+  },
+  "output": {
+    "path": "docs/design/whetstorm-concepts/starter-arena-tower-transition.png",
+    "sha256": "39c123fd1eca2a8a88d856c28ced288794b8637db4c21d47fc05f7e33870b4bc"
+  }
+}
