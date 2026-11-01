@@ -25,6 +25,16 @@ frame interpolation, edge bleed, effect readability, existing Warrior kit
 loading/prewarm tests, and a full-candidate media manifest. Do not ship PNG or
 WebP as a substitute without separately validating GPU memory and performance.
 
+On 2026-11-01, a targeted read-only search found no KTX2/UASTC encoder on
+`PATH`, in the two game checkouts' `node_modules`, the Codex directory, or the
+standard Program Files and `C:/tools` locations. This is not a whole-machine
+absence proof. `public/basis/basis_transcoder` is a runtime transcoder, not a
+verified encoder. `scripts/assets/vfx_production/package_warrior_crush.mjs`
+shows an existing vertical-flip, UASTC encode, extraction and validation
+workflow, but targets a different effect and must not be run unchanged against
+these sheets. Use a dedicated staging path and independently validate the
+contact atlas before changing a runtime URL or full-game manifest.
+
 The upstream contact files were introduced as binary assets in commit
 `6d44ff40ddbc45ad5871ab8c357535b47b0b45a5`; that history alone does not establish
 their creator or a grant for reuse. These candidates do not clear the existing
