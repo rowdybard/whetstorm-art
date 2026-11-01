@@ -96,6 +96,7 @@ import { lightbrandUpperItemImageUrl } from './lightbrand_upper_item_art';
 import { lightbrandLowerItemImageUrl } from './lightbrand_lower_item_art';
 import { pyroclastUpperItemImageUrl } from './pyroclast_upper_item_art';
 import { sunvigilUpperItemImageUrl } from './sunvigil_upper_item_art';
+import { beastHunterUpperItemImageUrl } from './beast_hunter_upper_item_art';
 import { hexthreadUpperItemImageUrl } from './hexthread_upper_item_art';
 import { hexthreadLowerItemImageUrl } from './hexthread_lower_item_art';
 import { marksmanshipHunterUpperItemImageUrl } from './marksmanship_hunter_upper_item_art';
@@ -537,6 +538,7 @@ export function paintedItemImageUrl(id: string): string | null {
     lightbrandLowerItemImageUrl(id) ??
     pyroclastUpperItemImageUrl(id) ??
     sunvigilUpperItemImageUrl(id) ??
+    beastHunterUpperItemImageUrl(id) ??
     hexthreadUpperItemImageUrl(id) ??
     hexthreadLowerItemImageUrl(id) ??
     marksmanshipHunterUpperItemImageUrl(id) ??

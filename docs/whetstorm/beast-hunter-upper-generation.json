@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_hunter_beast_mastery_helmet",
+      "file": "docs/design/whetstorm-art/beast-hunter-hood-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one empty hunter's leather coif, reddish-brown leather with cream fur accents, dark iron trim and an amber paw medallion at forehead. Broad recognizable hood silhouette with dark empty opening, front view centered on dark navy background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, face, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "91ee218a1c1ec8930aa46020f1a4eeac6c6e76d1517a726b60483e42f872f5f2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_beast_mastery_helmet.webp",
+        "sha256": "8c777c695bcdfa444b21fb9612f28128772d91132896d0dc8b3488aa78456454",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_hunter_beast_mastery_shoulder",
+      "file": "docs/design/whetstorm-art/beast-hunter-shoulder-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete pair of hunter's leather spaulders, reddish-brown leather with cream fur accents, dark iron trim and amber paw medallions. Broad recognizable paired shoulders, empty garment, front view centered on dark navy background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "c94ed9ee3e671ceac3170382e82707bf5c6dcb555a2d05f97624843a33f71367",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_beast_mastery_shoulder.webp",
+        "sha256": "52702bbe58e7467b7fa32b959fcdd0a9754c625136646492c4cec0be966191df",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_hunter_beast_mastery_chest",
+      "file": "docs/design/whetstorm-art/beast-hunter-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete empty hunter's leather jerkin, reddish-brown leather with cream fur accents, dark iron trim and an amber paw medallion clasp. Recognizable fitted short torso, shoulders and sleeves, front view centered on dark navy background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, head, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "9df6c6f0fad6724c935a7a25fab61beae57b0fb0d94b89ce0c43918398fbd765",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_beast_mastery_chest.webp",
+        "sha256": "7f6ad7ecea4edcf9a938f9f7123e7b718df3d662134d665d51c07f749fe47f2c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
