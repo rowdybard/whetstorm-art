@@ -1,5 +1,20 @@
 # Website art audit: permission-required SVGs
 
+## Art-branch disposition, 2026-11-01
+
+The six historical SVGs listed below were removed from the private art
+worktree after a source-path search found no current application references.
+`tests/whetstorm_title_art.test.ts` now pins their absence from `public/`.
+`CREDITS.md` and `SOURCE_SNAPSHOT.json` remain historical provenance records;
+this does not change their rights. The inventory below describes the earlier
+checkout and has not been rewritten as if the files never existed.
+
+This does not establish removal from the complete game checkout, old Git
+history, a built `dist/`, native packages, deployment images or caches. Review
+any historical or external consumers in the full candidate, apply the
+disposition there, and inspect each actual output before release.
+
+
 Read-only inventory, 2026-10-30. The following six files exist in this art worktree's `public/` directory. `CREDITS.md` marks each family **No, permission required** (do not redistribute):
 
 | Present file | Credit evidence |

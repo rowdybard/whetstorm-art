@@ -67,6 +67,12 @@ describe('Whetstorm title and loading artwork', () => {
       'website-hero-drakelands-v1.webp',
       'website-hero-thornpeak-v1.webp',
       'website-fractured-portal-v5.webp',
+      'website-fractured-portal-v1.svg',
+      'website-fractured-portal-v2.svg',
+      'website-fractured-portal-v3.svg',
+      'website-parchment-scroll-v1.svg',
+      'website-parchment-scroll-v2.svg',
+      'website-stone-gateway-v2.svg',
       'ui/whetstorm/entry-landscape.webp',
       ...[
         'hollow-crypt-empty',
