@@ -1597,6 +1597,10 @@ Two Duskhymn armor paintings were generated with OpenAI's built-in image
 generation; prompts, references, and hashes are recorded in
 `docs/whetstorm/vanguard-duskhymn-lower-generation.json`.
 
+Three Dreadquill armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/dreadquill-upper-generation.json`.
+
 Two Cinderbark armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/cinderbark-lower-generation.json`.

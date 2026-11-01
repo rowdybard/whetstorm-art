@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_warlock_affliction_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_warlock_affliction_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: one empty warlock cloth hood, deep charcoal and muted dark plum fabric, swept raven-quill shaped layered edges and tarnished silver stitches, one small sickly jade gem. Ominous but elegant, full centered silhouette on dark slate background, hand-painted fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "ff1df3a9cc196ccf30346d3b2d1160b829685a0323d044be3eb3d31494bebe30",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_affliction_helmet.webp",
+        "sha256": "9e175703c0c87863c88440347c00dbd82f4368bbc8cc707c4a60cc51e7b96d61",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warlock_affliction_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_warlock_affliction_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: pair of empty warlock cloth shoulder mantles, deep charcoal and muted dark plum fabric, swept raven-quill shaped layered edges and tarnished silver stitches, small sickly jade gems. Ominous but elegant, full centered silhouette on dark slate background, hand-painted fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "12babbe203136a2ea4887387ab552ba3b6cec935540231269e60cecf49a2e132",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_affliction_shoulder.webp",
+        "sha256": "a0a6c6ece518219a7dc40362f24a88b233ef9e91ed33d33849214a6203bbe283",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warlock_affliction_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_warlock_affliction_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: one empty warlock cloth robe, deep charcoal and muted dark plum fabric, swept raven-quill shaped layered edges and tarnished silver stitches, one small sickly jade gem at chest. Ominous but elegant, full centered silhouette on dark slate background, hand-painted fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "9c3a4f6fd7627ebb080b470d4f016f74bb06828ca724e13250e3a79897680d7a",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_affliction_chest.webp",
+        "sha256": "c0e758f93cd2afa5c460ad499f197ca9e6d64d1364c05b647c85e6fbdea0206b",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
