@@ -1,0 +1,11 @@
+{
+  "asset": "docs/design/whetstorm-concepts/wyrmwatch-cliff-harbor-original.png",
+  "method": "Built-in image generation, text-only, no reference images",
+  "sha256": "0789ce9eaf4152c989ed07164d73643e015e923cd48c0dcb355fde96e32f6b8f",
+  "prompt": "Use case: stylized-concept\nAsset type: original Whetstorm game environment concept art, visual direction only.\nPrimary request: Paint a working cliffside ferry harbor seen from an elevated offshore three-quarter view. At the waterline a ferry pier extends out from the bluff, with a north yard and a south quay connected at its root. A broad first stair flight rises along the water from the south quay to a wide turning landing; a second flight reverses direction against the cliff to a top landing and open harbor gate. A flagstone path continues inland from the gate across the plateau. Clearly show navigable openings between pier, quays, flights, landings, gate and path. Include practical open railings, mooring bollards, a few crates and barrels, lantern posts, and a clear ferry berth with open water beyond. Keep paths readable and unobstructed.\nStyle: original painterly fantasy game environment concept, believable timber and stone construction, inviting maritime atmosphere, richly detailed but coherent silhouette, soft coastal daylight.\nComposition: wide landscape, prioritize the complete stairs, quays, gate and waterfront; land on one side and water on the other, no labels or diagram overlays.\nConstraints: This is free artistic direction, not an exact plan. No house as a subject, no existing game imagery or references, no text, no logo, no watermark.",
+  "source_references": [
+    "src/sim/content/wyrmwatch_harbor.ts",
+    "docs/whetstorm/3D_REPLACEMENT_AND_TRIPO_ESTIMATE.md"
+  ],
+  "limitations": "Artistic direction only, not proof of layout, scale, collision, navigability, or ferry boarding. The generated stairs do not faithfully depict the simulation's reversing switchback, and the north yard and Harbormaster's House are not clearly identifiable; use the simulation source as the layout authority. The house was intentionally excluded as a subject and has a separate original concept. No mesh was generated."
+}

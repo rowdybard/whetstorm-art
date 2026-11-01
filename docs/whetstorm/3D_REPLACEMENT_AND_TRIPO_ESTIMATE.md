@@ -299,6 +299,11 @@ is an atmospheric reference for the full harbor; its generation record and
 limitations are in `docs/whetstorm/wickharbor-harbor-overview-generation.json`.
 It is not a layout plan: its ferry boarding edge is unclear and all modeled
 deck joins, paths and collisions must follow the simulation source.
+`docs/design/whetstorm-concepts/wyrmwatch-cliff-harbor-original.png` is a
+separate atmospheric concept for the non-house harbor structure; its
+generation record explicitly notes that the stairs do not match the authored
+reversing switchback and that the north yard and house are not clearly shown.
+The existing Harbormaster's House concept covers that separate visual subject.
 
 The five ferry, marker, and harbor prop models have renderer paths gated to the
 built-in world in `src/render/props.ts`; two ferry routes share the same ferry
@@ -488,6 +493,22 @@ rig type, weight paint, animations, rider socket and scale; auto-rigging is a
 starting point, not proof of compatibility. For harbors, preserve navigable
 layout and collisions rather than treating one generated mesh as a complete
 drop-in replacement.
+
+The inspected player renderer's `src/render/characters/modular.ts` describes
+one modular parts library, `models/chars/modular/warrior_modular.glb`, whose
+body and armor pieces share KayKit's `Rig_Medium`. Pieces are selected by
+exported node name and composed as skinned geometry. A new wearable should be
+fitted to the actual approved body in its bind pose and weighted to the same
+skeleton; check both supported body sculpts, body-slider extremes and morph
+compatibility, slot seams, helm visibility and animations. This is different
+from a rigid weapon attached to a hand bone.
+The inspected `player_look_core.ts` selects a class kit and helm preference;
+its existing selection does not establish a unique visible 3D mesh for every
+equipped item. Item-specific wearable visuals would therefore require separate
+renderer selection and integration work, in addition to the art itself. Old
+fixed-rig characters and replacement bodies also need their own compatibility
+checks. Recheck these facts in the candidate revision and verify the precise
+models, textures and animation sources before assuming their permissions.
 
 ### Weapon grip and rig compatibility
 
