@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-concepts/harbor-ferry-route-sign-original.png",
+      "subject": "Independent harbor ferry route sign concept",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL stylized fantasy game environment concept: a freestanding robust coastal wooden ferry direction sign, with one broad blank two-sided wooden label board shaped as a clear right-pointing arrow, mounted securely high on a sturdy weathered timber post with a stable foot. The broad front face must remain empty and unobstructed for dynamically rendered destination text; imply a solid reverse face but show the front clearly. Show the ENTIRE single object in slight three-quarter view, centered with generous white margin, on a perfectly plain white background. Hand-painted fantasy concept art with simple readable shapes and practical construction. No lettering, numerals, logos, nautical emblems, decoration that resembles writing, people, scenery, extra objects, border, watermark or cast shadow. Do not imitate existing game assets or artists. No dimension or scale labels.",
+      "sha256": "664bb9337cc00d8ca0a187c516152581708a95b1645e477407c849e059421f74",
+      "pixels": [
+        1145,
+        1374
+      ],
+      "status": "2D concept for review; not a model",
+      "validation_needed": [
+        "Gameplay dimensions and camera-height clearance",
+        "Reverse-face readability and arrow direction",
+        "Dynamically rendered localized labels on both faces",
+        "Simulation and camera collisions",
+        "3D fit, tier visibility, placement and in-game review"
+      ]
+    }
+  ]
+}
