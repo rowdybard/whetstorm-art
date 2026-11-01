@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-concepts/wyrmwatch-mariner-hat-original.png",
+      "subject": "Independent Wyrmwatch mariner hat concept",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL stylized fantasy game prop concept from ordinary functional maritime clothing: a practical weatherproof mariner hat with a broad downward-sloping brim, shallow rounded crown, simple stitched dark navy waxed fabric and a plain narrow fastening band. Full single hat isolated in clear three-quarter view, centered with generous margins on perfectly plain white background, no cast shadow. Tactile cloth, readable simple silhouette, hand-painted concept suitable for a future 3D artist. No person, head, face, pipe, ornaments, symbols, lettering, numerals, logo, watermark, border, scenery or extra objects. No dimensions. Do not imitate any existing game asset or artist.",
+      "sha256": "3c5071addf3ec13e00b8420e2ab697a2f0a79e92b3eee77ece77d7fbf87006ce",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "status": "2D concept for review; no 3D model",
+      "validation_needed": [
+        "Review whether the modern rain-hat silhouette suits the fantasy harbormaster before choosing it as replacement",
+        "Current head GLB also includes a separate pipe; both-part disposition remains open",
+        "Head-bone bind-frame fit over braid and face",
+        "Animation clipping and silhouette readability",
+        "Preload, graphics-tier and far-bake behavior",
+        "3D fit and in-game review"
+      ]
+    }
+  ]
+}

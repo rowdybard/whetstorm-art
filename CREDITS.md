@@ -1749,6 +1749,11 @@ image generation; its prompt and hash are recorded in
 `docs/whetstorm/harbormaster-telescope-generation.json`. It is a concept,
 not a production model.
 
+One Wyrmwatch mariner hat concept was generated with OpenAI's built-in image
+generation; its prompt and hash are recorded in
+`docs/whetstorm/wyrmwatch-mariner-hat-generation.json`. It is an exploratory
+concept, not a production model or an approved replacement.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
