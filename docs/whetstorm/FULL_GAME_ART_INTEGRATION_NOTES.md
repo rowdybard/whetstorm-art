@@ -1,5 +1,50 @@
 # Full-game art integration notes
 
+## Later read-only Git and environment check — 2026-11-01
+
+The private art repository was checked at `44844d8b25` and the full reference
+checkout `D:/action-mmo` at `20807967fc`. They have separate Git roots and no
+common ancestor at those revisions. The art snapshot is partial: a raw tree
+comparison reports thousands of deletions that are omissions from the snapshot,
+not requested game deletions. Do not merge unrelated histories or copy generated
+files wholesale. Recheck revisions, dirty work and the authorized full-game
+release base before preparing an isolated integration candidate.
+
+At this snapshot all 1,626 item IDs resolved in the art checkout to existing
+painted item files: 1,570 direct and 56 through `heroicOf`; the 1,548 distinct
+hashes include intentional normal/heroic reuse. That is art-branch coverage,
+not proof of full-game integration, acquisition or package clearance. Integrate
+each coherent batch's paintings, lookup modules, provenance and focused tests;
+reconcile the full candidate's shared resolvers and preserve newer behavior.
+
+The art checkout lacks parts of the full asset inventory and generated inputs.
+Do not run its full build pre-generation or transplant its untracked generated
+files into the full candidate: bundle pre-generation writes SFX, gain, media and
+other outputs from the files present. In a complete isolated candidate, ensure
+the repository's Node and package-manager tools, complete source assets and
+browser test prerequisites are available; the checked host had Node and pnpm
+but no `npm` or `npx` on `PATH`, which matters because scripts invoke npm.
+Run relevant focused tests, a full build and the required
+`node scripts/gate_select.mjs` or deeper gate there, then inspect actual built
+packages and desktop/mobile visuals. The local check did not run those gates.
+
+An integration pilot can start with `baked_bread` and `spring_water`, which are
+starting items. Their Whetstorm mappings are in `src/ui/starter_item_art.ts`,
+fed through `src/ui/painted_item_art.ts` and the art branch's `src/ui/icons.ts`.
+Their PNG masters and WebP deliveries live under the Whetstorm item-art
+directories; `docs/whetstorm/starter-item-art-generation.json` records the
+broader starter batch and `tests/whetstorm_starter_rations.test.ts` covers the
+rations. The bread record also names an earlier original source at
+`docs/design/whetstorm-art/items/source-versions/baked_bread.png`; preserve
+or explicitly scope that lineage rather than silently dropping it. The
+full-reference icon code differs. Integrate only the pilot's
+entries and files, or include all eleven starter entries and their files if
+reusing the whole mapping module. Preserve full-game unknown-ID, weapon,
+heroic, Reliquary, canvas and image-failure behavior; a wholesale copy of the
+partial `icons.ts` or the large aggregator risks losing newer behavior. Expand
+after focused routing tests and actual full-candidate checks pass. This pilot
+does not prove the remaining item batches are integrated or release-cleared.
+
 Snapshot: art branch `ea59da4118`, full-game task checkout `16796615be`,
 2026-10-30. Recheck both revisions and working trees before using these notes.
 The art repository is an independent, partial source snapshot based on full-game
@@ -209,11 +254,12 @@ confirming its provenance and packaging, then check the 44-pixel header on
 desktop and mobile. If that source cannot be established, evaluate a deliberate
 replacement without losing the localized alt text.
 
-The player-card canvas separately requests `/whetstorm-logo-hero.webp`, which
-is absent from the partial art checkout but exists in both full reference
-checkouts. Its loader catches failure and falls back to a translated text
-wordmark. Preserve and validate the full candidate's intended brand asset and
-its provenance; a partial-checkout 404 alone does not prove a full-game defect.
+The current art-branch player-card canvas uses `/ui/whetstorm/mark.svg` and
+the existing translated `playerCard.nativeShareTitle` as its wordmark; it
+draws the wordmark even if the mark fails to load. The checked full reference
+still requests `/whetstorm-logo-hero.webp`, which exists there. Reconcile the
+card changes deliberately and validate the full candidate's preview, export,
+long-name layout and asset provenance in desktop and mobile browsers.
 
 The current art-branch profession resolver has existing Whetstorm images for
 all 26 registered profession identities checked. The full reference trees
