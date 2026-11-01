@@ -1,0 +1,19 @@
+{
+  "asset": "docs/design/whetstorm-concepts/rimefang-3d-intake.png",
+  "purpose": "Original Rimefang concept for future 3D intake; not a runtime model",
+  "source": "OpenAI built-in image generation",
+  "reference_images": [
+    {
+      "path": "docs/design/whetstorm-art/items/rimefang.png",
+      "role": "sole subject identity reference; text-only Whetstorm original",
+      "sha256": "a83815d67abc54ac4ab6c21bfa4082cb548f3c46ee2e45dd2bda632947d63502",
+      "provenance": "docs/whetstorm/weapon-feral-rime-generation.json"
+    }
+  ],
+  "prompt": "Create a standalone original Rimefang dagger concept for future 3D intake using the supplied Whetstorm painting as the sole subject-identity reference. Preserve its curved silver-steel fang blade, blue frost edge, dark double-hook guard with blue inset, blue leather-wrapped grip and pointed pommel. Show one complete dagger from tip to pommel in a clear three-quarter view, centered with generous margins on a plain pure white background. Show solid construction and restrained frost color; no glow, particles, hand, person, scene, cast shadow, text, logo, watermark, border or extra objects. This is an independently generated concept illustration, not a 3D model.",
+  "sha256": "4917c5a79d4189094cfbe49aaf8c5d308d9e5fd1c89ef66b2a5995105f02b417",
+  "pixels": [1254, 1254],
+  "format": "opaque RGB PNG",
+  "review": "Complete dagger visible on white; the tip has a narrow margin. Identity follows the fork-original painting, not the restricted model.",
+  "validation_required": "No mesh or runtime mapping is supplied. A future model must validate grip origin, scale and hand orientation, stow placement, dual-hand and combat animation clipping, preload and material behavior, and the separate ice_fang_sword skin consumer before any replacement or restricted-file exclusion."
+}
