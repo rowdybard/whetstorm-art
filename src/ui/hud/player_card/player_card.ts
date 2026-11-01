@@ -225,11 +225,9 @@ function fillTextClamped(
 const TITLE_FONT = 'Cinzel, Georgia, serif';
 const BODY_FONT = '"Alegreya Sans", "Segoe UI", system-ui, sans-serif';
 
-// The full brand lockup (C-shield emblem + "WORLD OF CLAUDECRAFT" wordmark),
-// served from /public. Same-origin, so drawing it does not taint the canvas.
-// Loaded best-effort: if it's missing the footer falls back to a text wordmark
-// rather than failing the whole card.
-const LOGO_URL = '/whetstorm-logo-hero.webp';
+// Same-origin Whetstorm mark, loaded best-effort so text still brands the card
+// if image loading fails and the canvas remains safe to export.
+const LOGO_URL = '/ui/whetstorm/mark.svg';
 
 /** Format a realm percentile as a card chip label. */
 function formatTopPercent(pct: number): string {
@@ -609,20 +607,15 @@ function drawFooter(
   colors: PlayerCardColors,
 ): void {
   const y = CARD_H - 26;
-  // Brand mark: the full logo lockup, else a plain text wordmark, top-right now
-  // (swapped with the holder badge, which moved to the bottom-left). Right-aligned
-  // against the card's right margin, above the stats panel.
+  // Keep both mark and wordmark in the column to the right of the header clamp.
   if (logo && logo.width > 0) {
-    const h = 104;
-    const w = (logo.width / logo.height) * h;
-    ctx.drawImage(logo, 1156 - w, 38, w, h);
-  } else {
-    ctx.textAlign = 'right';
-    ctx.fillStyle = colors.gold;
-    ctx.font = `700 34px ${TITLE_FONT}`;
-    ctx.fillText(t('playerCard.brandWordmark'), 1156, 100);
-    ctx.textAlign = 'left';
+    ctx.drawImage(logo, 1058, 38, 64, 64);
   }
+  ctx.textAlign = 'right';
+  ctx.fillStyle = colors.gold;
+  ctx.font = `700 21px ${TITLE_FONT}`;
+  ctx.fillText(t('playerCard.whetstormWordmark'), 1156, 130, 1156 - HEADER_RIGHT_EDGE - 6);
+  ctx.textAlign = 'left';
 
   // Referral line stays bottom-right; URL clamp trimmed so it clears the badge
   // block now occupying the bottom-left.

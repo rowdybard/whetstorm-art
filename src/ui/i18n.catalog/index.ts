@@ -831,6 +831,7 @@ export const en = {
     realmSubtitle: '{realm} World',
     defaultRealm: 'Whetstorm',
     brandWordmark: 'WORLD OF CLAUDECRAFT',
+    whetstormWordmark: 'WHETSTORM',
     recruited: '{count} recruited',
     footerHandle: '@{handle}',
     footerHandleWithRecruits: '@{handle} - {recruited}',
