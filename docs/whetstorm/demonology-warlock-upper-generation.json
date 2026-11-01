@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_warlock_demonology_helmet",
+      "file": "docs/design/whetstorm-art/demonology-warlock-hood-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one empty warlock's cloth cowl, charcoal cloth with bone ivory trim, muted violet lining and eerie green forehead gem. Broad recognizable hood silhouette with dark empty opening, front view centered on dark navy background. Premium painterly fantasy illustration, eerie edge light, readable at 28 pixels. No wearer, face, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "0daaf96c36a14fe4beb6679175ff20343ca3deee3e0aa309b5ba214d7a61302d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_demonology_helmet.webp",
+        "sha256": "2386b4e7ee6e3d740171ce1a8b924b089d0fb6c2dde37ce18f72a90897cb48f2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warlock_demonology_shoulder",
+      "file": "docs/design/whetstorm-art/demonology-warlock-shoulder-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one compact symmetrical pair of warlock's cloth spaulders joined around an open neck, ends stop at upper arms, no cape or torso. Charcoal cloth with bone ivory trim, muted violet lining and eerie green gems. Broad shallow shoulder silhouette, front view centered on dark navy background. Premium painterly fantasy illustration, eerie edge light, readable at 28 pixels. No wearer, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "bad06ae5f05688f1f82c5e7467444bac8c42a553195a573eae9f757ddc1a6088",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_demonology_shoulder.webp",
+        "sha256": "33e13e728329be279d9e0c71774e85bf48d583b47051e4d2dd130d930faa6c5c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warlock_demonology_chest",
+      "file": "docs/design/whetstorm-art/demonology-warlock-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete empty warlock's long cloth robe, charcoal cloth with bone ivory trim, muted violet panels and eerie green chest gem. Recognizable shoulders, sleeves, waist and flared hem, front view centered on dark navy background. Premium painterly fantasy illustration, eerie edge light, readable at 28 pixels. No wearer, head, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "1061b6f9e8c8620eab757f07914caa28e5dae91eebf68591f4b252cf0a0431b2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_demonology_chest.webp",
+        "sha256": "49c204d8d7ac89afe6551c5221e2fab7a6e4f9e375bee96eb1fac1cd2a1ab1d4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

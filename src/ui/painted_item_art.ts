@@ -65,6 +65,7 @@ import { disciplinePriestLowerItemImageUrl } from './discipline_priest_lower_ite
 import { vanguardDuskhymnUpperItemImageUrl } from './vanguard_duskhymn_upper_item_art';
 import { vanguardDuskhymnLowerItemImageUrl } from './vanguard_duskhymn_lower_item_art';
 import { dreadquillUpperItemImageUrl } from './dreadquill_upper_item_art';
+import { demonologyWarlockUpperItemImageUrl } from './demonology_warlock_upper_item_art';
 import { starwardenUpperItemImageUrl } from './starwarden_upper_item_art';
 import { starwardenLowerItemImageUrl } from './starwarden_lower_item_art';
 import { cinderbarkLowerItemImageUrl } from './cinderbark_lower_item_art';
@@ -535,6 +536,7 @@ export function paintedItemImageUrl(id: string): string | null {
     vanguardDuskhymnUpperItemImageUrl(id) ??
     vanguardDuskhymnLowerItemImageUrl(id) ??
     dreadquillUpperItemImageUrl(id) ??
+    demonologyWarlockUpperItemImageUrl(id) ??
     starwardenUpperItemImageUrl(id) ??
     starwardenLowerItemImageUrl(id) ??
     cinderbarkLowerItemImageUrl(id) ??
