@@ -1,0 +1,19 @@
+{
+  "asset": "docs/design/whetstorm-concepts/goldleaf-folio-3d-intake.png",
+  "purpose": "Original Goldleaf Folio concept for future 3D intake; not a runtime model",
+  "source": "OpenAI built-in image generation",
+  "reference_images": [
+    {
+      "path": "docs/design/whetstorm-art/items/goldleaf_folio.png",
+      "role": "sole subject identity reference; text-only Whetstorm original",
+      "sha256": "76ab808790a9d8cd11abd7bd74c089b3f0fb1e2f187a6566810f809ed23d0f7f",
+      "provenance": "docs/whetstorm/inscription-books-generation.json"
+    }
+  ],
+  "prompt": "Create a standalone original Goldleaf Folio concept for future 3D intake using the supplied Whetstorm painting as the sole subject-identity reference. Preserve the closed deep-brown leather book, gold corner fittings and prominent embossed golden leaf ornament. Show the entire book, spine and page block in a clear three-quarter view, centered with generous margins on a plain pure white background. Hand-painted stylized fantasy, readable solid construction. No hands, person, text, letters, logos, watermark, border, scene, cast shadow or extra objects. Concept illustration only, not a 3D model.",
+  "sha256": "ae3c0bde209e11184af23b28a30a406b02a108b2fa78ad93783add55aabaf016",
+  "pixels": [1254, 1254],
+  "format": "opaque RGB PNG",
+  "review": "Complete closed book, spine, page block, fittings and leaf are visible against white. Identity follows the fork-original painting, not the restricted model.",
+  "validation_required": "No mesh or runtime mapping is supplied. Future work must validate offhand grip origin, scale and orientation, stow placement, caster animation clips and clipping, materials, preload and packaging before any replacement or restricted-file exclusion."
+}
