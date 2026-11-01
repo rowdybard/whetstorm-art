@@ -5,15 +5,10 @@
       "itemId": "eastbrook_greatsword",
       "file": "docs/design/whetstorm-art/items/eastbrook_greatsword.png",
       "source": "OpenAI built-in image generation",
-      "reference_images": [
-        {
-          "path": "docs/design/whetstorm-art/items/worn_sword.png",
-          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
-        }
-      ],
-      "prompt": "Use case: stylized-concept. Asset type: square game inventory item painting. Use the supplied sword image only as a style reference, never copy its subject. Original hand-painted stylized fantasy, bold clean silhouette, soft light from upper left, worn materials, dark slate-blue painted background edge to edge. Whole single item centered with generous margin, readable at 32 pixels. No text, letters, logo, watermark, frame, border, hands, or other objects. Eastbrook Greatsword: one complete long broad steel two-handed sword with a simple iron crossguard and long dark leather-wrapped grip, practical early fantasy weapon, no sheath.",
+      "reference_images": [],
+      "prompt": "Create a wholly original text-only square fantasy game inventory painting of the Eastbrook Greatsword, a practical early-game TWO-HANDED weapon. Show one complete long straight broad steel blade, simple modest crossguard and a conspicuously LONG leather-wrapped grip with room for two hands between guard and heavy pommel. Distinct robust greatsword proportions; no tiny single-hand grip. Dark slate blue painted background, bold silhouette, hand-painted stylized fantasy, warm upper-left light, whole weapon diagonally framed with safe margins and legible at 32px. No visual references, hands, person, sheath, text, letters, logos, border, magic or watermark.",
       "status": "original art candidate; reviewed at inventory sizes",
-      "sha256": "eb1e5860715670b1b1c94dd2bb966450fec83ed4fd2b753a668922645e24b255",
+      "sha256": "a2d00a369e6aa2b5e09e2edbe9378e8d9c8c231fd79a999a79558760703061f6",
       "pixels": [
         1254,
         1254
@@ -21,7 +16,7 @@
       "mode": "RGB",
       "delivery": {
         "path": "public/ui/whetstorm/items/eastbrook_greatsword.webp",
-        "sha256": "e6ac245d83fbda41c5d9cbad0b66b9e4c3530fa0fb4de2224185ad74e9868836",
+        "sha256": "9833f14b9f1fecb14fb65a4e7617a5dfaba399283094f416d8fcd3aeef68256f",
         "pixels": [
           128,
           128

@@ -34,10 +34,15 @@ describe('original early-world weapon paintings', () => {
       const asset = rows[0];
       const master = readFileSync(resolve(root, asset.file));
       const delivery = readFileSync(resolve(root, asset.delivery.path));
-      const reference = readFileSync(resolve(root, asset.reference_images[0].path));
       expect(hash(master)).toBe(asset.sha256);
       expect(hash(delivery)).toBe(asset.delivery.sha256);
-      expect(hash(reference)).toBe(asset.reference_images[0].sha256);
+      if (id === 'eastbrook_greatsword') {
+        expect(asset.reference_images).toEqual([]);
+      } else {
+        expect(asset.reference_images).toHaveLength(1);
+        const reference = readFileSync(resolve(root, asset.reference_images[0].path));
+        expect(hash(reference)).toBe(asset.reference_images[0].sha256);
+      }
       expect(asset.prompt.length).toBeGreaterThan(100);
       const sourceImage = await sharp(master).raw().toBuffer({ resolveWithObject: true });
       const image = await sharp(delivery).raw().toBuffer({ resolveWithObject: true });
