@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "frostquench_gloves",
+      "file": "docs/design/whetstorm-art/ignivar-frostquench-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-frostquench-helmet-master.png"
+      ],
+      "prompt": "Create an original square dark fantasy RPG inventory painting of Frostquench Handwraps: a compact natural pair of empty cloth mage handwrap gloves, deep navy and icy blue layered fabric wrappings, silver edging and restrained pale frost crystal accents. Coordinate materials and style with the reference hood but depict only handwraps, no person. Center complete hand silhouettes with safe margins against dark slate-blue painted ground, warm upper-left highlights, tactile painterly fabric and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "be6bfb5dbadf1ca5b914bc37261529fbd59fb62329eed88e13f8ea26922c6142",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/frostquench_gloves.webp",
+        "sha256": "08016530acc24069d9810a36349954c64f2679dd3f2c79625e1e76afe6e00a23",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "frostquench_legs",
+      "file": "docs/design/whetstorm-art/ignivar-frostquench-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-frostquench-helmet-master.png"
+      ],
+      "prompt": "Create an original square dark fantasy RPG inventory painting of Frostquench Leggings: one complete empty pair of cloth mage trousers, deep navy and icy blue layered fabric with silver edging and restrained pale frost crystal accents. Coordinate materials and style with the reference hood but depict only trousers from waist to ankle, no boots, body or person. Center the complete recognizable pants silhouette with safe margins against dark slate-blue painted ground, warm upper-left highlights, tactile painterly fabric and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "246b2ebb2e3b229bc2856976b0a16c5fd54f08e6f2a02ca1bbaf8d3e2d7a338a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/frostquench_legs.webp",
+        "sha256": "c0be90b1a57a9a0517a53d81f4f12ff8a2d26e6cbd3b63d12d9a8a8f9c5dfacc",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

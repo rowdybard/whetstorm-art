@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_rogue_subtlety_helmet",
+      "file": "docs/design/whetstorm-art/subtlety-hood-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one empty rogue's leather hood, charcoal leather, deep teal lining, muted silver edges and one small pale turquoise diamond at forehead. Broad recognizable hood silhouette, empty dark opening, front view centered on dark navy background. Premium painterly fantasy illustration with restrained cool edge light, readable at 28 pixels. No wearer, face, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "ed7d375fac2be32dead1656451aef86bb355c16d84b0229cf170c582b88559c9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_subtlety_helmet.webp",
+        "sha256": "4291f02396ed60c5e3451c1a1450c6acb7586a032111d865ea70202e4560009c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_rogue_subtlety_shoulder",
+      "file": "docs/design/whetstorm-art/subtlety-mantle-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete pair of rogue's leather shoulderpads, swept layered charcoal leather with deep teal lining, muted silver edges and pale turquoise diamond accents. Broad recognizable paired shoulders, empty garment, front view centered on dark navy background. Premium painterly fantasy illustration with restrained cool edge light, readable at 28 pixels. No wearer, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "081cac692b0036ab50cda58aae9ee4cef0556f09bc609a2f813863836d5392f7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_subtlety_shoulder.webp",
+        "sha256": "0c8428c7270094834e7dd975de6e4c96fc7f4677630eef8798c02e1c1264b870",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_rogue_subtlety_chest",
+      "file": "docs/design/whetstorm-art/subtlety-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete empty rogue's leather tunic, charcoal leather with deep teal panels, muted silver edges and a pale turquoise diamond clasp. Recognizable short fitted torso, shoulders and sleeves, front view centered on dark navy background. Premium painterly fantasy illustration with restrained cool edge light, readable at 28 pixels. No wearer, head, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "227558f4246133991b2a0652ea4a057f777f91243e828d9209f9caac2a5ba69a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_subtlety_chest.webp",
+        "sha256": "5bbaa549ed6cd77c234c468ecfa2dd57bf5539a38ab3e65a247b6cb34f936f91",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

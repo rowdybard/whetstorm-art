@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "chronoweave_helmet",
+      "file": "docs/design/whetstorm-art/items/chronoweave_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square inventory icon of an Aetherweave Hood, an empty mage cloth hood in deep navy and indigo with antique gold trim and a small pale cyan hourglass-shaped glass ornament on its brow. No face, head or body. Entire hood centered large, simple clear silhouette. Dark muted indigo painted vignette, premium hand-painted classic fantasy MMO art, tactile folds, warm upper-left light, cool shadow, readable at 28px. No text, runes, frame, watermark, transparency or additional objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "368e751e0da47254a716d1fbcf3ed8f938804dfe80e673c82153f18d593da3fc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/chronoweave_helmet.webp",
+        "sha256": "d8a6c7c0fed5ce21fe3c9b482315e0e73fe84ee7e83bffb37a65450b3db7a7ff",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "chronoweave_shoulder",
+      "file": "docs/design/whetstorm-art/items/chronoweave_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square inventory icon of an Aetherweave Mantle: a matched pair of mage shoulder pieces of deep navy and indigo cloth, ornate antique gold edging and small pale cyan hourglass-shaped glass accents. No person, head or torso. Both shoulder pieces centered large with clear silhouette and safe padding. Dark muted indigo painted vignette, premium hand-painted classic fantasy MMO art, tactile folds, warm upper-left light, cool shadow, readable at 28px. No text, runes, frame, watermark, transparency or additional objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "39c47865b1136cc6879ac5dbcd7b595a2b06b094191170931c20063cc36098bd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/chronoweave_shoulder.webp",
+        "sha256": "fa87118759af40913d039ed899859eca18f358c02d44c6e04d04b7fd09bd7797",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "chronoweave_chest",
+      "file": "docs/design/whetstorm-art/items/chronoweave_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square inventory icon of an Aetherweave Robe, a single front-facing empty mage robe of deep navy and indigo cloth, flowing folds, antique gold edging and a pale cyan hourglass-shaped glass ornament at the chest. No person, head, hands or mannequin. Entire robe centered large, readable garment silhouette and safe padding. Dark muted indigo painted vignette, premium hand-painted classic fantasy MMO art, tactile folds, warm upper-left light, cool shadow, readable at 28px. No text, runes, frame, watermark, transparency or additional objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "483bcd58b8fa3661821a7ddbe23d4cc88a039b1ab2ccb827b655f8658f769778",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/chronoweave_chest.webp",
+        "sha256": "dc2c1286bfca63c879e4c79023f3b86f2970b47eb7ee4e0ae5db1224da7f4a06",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

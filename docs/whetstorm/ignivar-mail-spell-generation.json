@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "stormkindled_chain",
+      "file": "docs/design/whetstorm-art/items/stormkindled_chain.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: one shaman mail waist belt, interwoven dark steel chain links and teal leather with broad silver lightning-shaped central buckle holding a luminous blue-white crystal. Bold silhouette, centered large on a dark muted navy painterly background. Stormy cool light, silver metal, electric blue accents; classic hand-painted fantasy game art, readable at 28 pixels. No text, person, border, logo, watermark or other object.",
+      "sha256": "2272d0eed4db32a49d0e000cbfef31e5d2a941135cf204bb931d17366c287af8",
+      "delivery": { "path": "public/ui/whetstorm/items/stormkindled_chain.webp", "sha256": "dbd461a8f9a38c994e5b9bfb853875db43977d5d396f576c9fe8d2a4eea331a9", "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6" }
+    },
+    {
+      "itemId": "thundershock_treads",
+      "file": "docs/design/whetstorm-art/items/thundershock_treads.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: one shaman mail armored boot, interwoven dark steel chain links and teal leather with angular silver lightning-shaped trim and a small luminous blue-white crystal. Three-quarter view, bold boot silhouette, centered large on a dark muted navy painterly background. Stormy cool light, silver metal, electric blue accents; classic hand-painted fantasy game art, readable at 28 pixels. No text, person, border, logo, watermark or other object.",
+      "sha256": "0efd5a0b9dd4534ae40bd39119f67a1b6bd2bdc984738d95aed3aabc987395ad",
+      "delivery": { "path": "public/ui/whetstorm/items/thundershock_treads.webp", "sha256": "c72010f8320da4b5ec3ba602da8bdd80f41838c7c2a7a524679aeff0f6aacfc2", "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6" }
+    }
+  ]
+}

@@ -1413,6 +1413,23 @@ Three Arcane Mage armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/arcane-mage-upper-generation.json`.
 
+Two Ignivar spell-mail paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/ignivar-mail-spell-generation.json`.
+
+Three Bladewake armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/bladewake-upper-generation.json`.
+
+Three Chronoweave and two Frostquench armor paintings were generated with
+OpenAI's built-in image generation; prompts, references, and hashes are in
+`docs/whetstorm/chronoweave-upper-generation.json` and
+`docs/whetstorm/ignivar-frostquench-lower-generation.json`.
+
+Three Shadewalk armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/subtlety-rogue-upper-generation.json`.
+
 Two Chained Ember Choker tier paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/chained-ember-choker-tiers-original/chained-ember-choker-provenance.json`.

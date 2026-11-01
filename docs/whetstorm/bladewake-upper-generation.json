@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_warrior_arms_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_arms_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bladewake Greathelm, one complete heavy warrior greathelm of dark forged steel with a broad crimson crest and bronze edging, distinctive angular blade-ridge brow and narrow visor. Centered front view, no wearer. Premium hand-painted dark fantasy, muted charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "cf5c7a2e9631f34b519617c70ec769196ccbc12e09ab852792993f7ec7befc61",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_arms_helmet.webp",
+        "sha256": "e7757615c78968874310d1818fbb49a56bb0c47912db27f07750b1ab009c02b8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warrior_arms_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_arms_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bladewake Pauldrons, a compact symmetrical pair of heavy warrior shoulder plates of dark forged steel with crimson insets and bronze edging, each with a prominent angular blade-shaped ridge. Centered front view, no body. Premium hand-painted dark fantasy, muted charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "94b7e7e4da972f831d0e9472a375c5bf590113fdcf9b92058d4f7ccb5a1fd3d8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_arms_shoulder.webp",
+        "sha256": "41804649dde87bfc98265c714942b360bdf4bb10b730386d03a1621e75634f03",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warrior_arms_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_arms_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bladewake Hauberk, one complete heavy warrior torso armor of dark forged steel over visible mail, crimson insets and bronze edging, central angular blade-shaped ridge. Centered front view, no wearer, head, arms or hands. Premium hand-painted dark fantasy, muted charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "93c5f2c745a21ec6a559b3e96632564d7ecd8e5e91d2a45c1d1876589e70f9f7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_arms_chest.webp",
+        "sha256": "1101b566ca614064bcd4d9b44c998d8e96c7b4f6f10b27bce7f651766c1be7dd",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
