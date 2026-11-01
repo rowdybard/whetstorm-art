@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "skinId": "ice_fang_sword",
+      "file": "docs/design/whetstorm-art/armory/ice_fang_sword.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy MMO armory icon, text-only design: Ice Fang, a single curved sword carved of pale glacial ice, jagged rime crystals along the spine, a luminous cyan frozen core along its fuller, and an icicle crossguard. Whole weapon diagonally framed, strong distinct silhouette against subdued dark navy, readable at 28 pixels. No border, words, letters, hands, people, logos, watermark, or copied game designs.",
+      "status": "Original 2D painting only. Store disabled; current acquisition unverified. Held 3D model is separate.",
+      "sha256": "31d204c1ad014ffb15de609e06d47551a63c9875da86f7cae1c76f0f4635ef90",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/ice_fang_sword.webp",
+        "sha256": "74bfecf5bc76daa8e0e79a0b92450713ee09d8bc2d506f1b6b3f02b35c259a45",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "rimecrusher_mace",
+      "file": "docs/design/whetstorm-art/armory/rimecrusher_mace.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy MMO armory icon, text-only design: Rimecrusher, a single mace with a large cluster of jagged clear ice crystals around a glowing cyan core, hoarfrost creeping down a silvered haft. Whole weapon diagonally framed, distinct broad crystalline head on dark navy background, readable at 28 pixels. No border, words, letters, hands, people, logos, watermark, or copied game designs.",
+      "status": "Original 2D painting only. Store disabled; current acquisition unverified. Held 3D model is separate.",
+      "sha256": "40aa42733e770a8744b820721e2eb44a63f50e5a0d209ab7718261d54e325ec4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/rimecrusher_mace.webp",
+        "sha256": "850118b27617d4fafeb9dff94158e639497ed410d0f26c6dda9fdc6af15305b2",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "frostbite_dagger",
+      "file": "docs/design/whetstorm-art/armory/frostbite_dagger.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy MMO armory icon, text-only design: Rime Needle, a single wickedly thin dagger of clear blue ice with a luminous cyan center vein, needle frost crystals and hoarfrost hilt. Whole dagger diagonally framed, slender unmistakable silhouette against dark navy, readable at 28 pixels. No border, words, letters, hands, people, logos, watermark, or copied game designs.",
+      "status": "Original 2D painting only. Store disabled; current acquisition unverified. Held 3D model is separate.",
+      "sha256": "aecb82d1eddcacbbea21730124863cde09e303f63c843ffba29edc5e07f779d5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/frostbite_dagger.webp",
+        "sha256": "e9c79a75d9f07af277282aa3a5f0a0ac515d0b4b418bbeeabc808c928c91f408",
+        "pixels": [
+          128,
+          128
+        ],
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

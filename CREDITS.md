@@ -1849,6 +1849,22 @@ One Solheim armory painting was generated with OpenAI's built-in image
 generation; its prompt and hashes are recorded in
 `docs/whetstorm/armory-solheim-original-generation.json`.
 
+The Glaciersplit cosmetic thumbnail was generated from text with OpenAI's
+built-in image generation. Its source, prompt, and hashes are recorded in
+`docs/whetstorm/armory-glaciersplit-generation.json`. This replaces the 2D
+thumbnail only; the historical held 3D model retains its restrictions.
+
+Three Hoarfrost and two Fallen Star ranged cosmetic thumbnails were generated
+from text with OpenAI's built-in image generation. Prompts and hashes are in
+`docs/whetstorm/armory-hoarfrost-three-generation.json` and
+`docs/whetstorm/armory-fallen-star-ranged-generation.json`. These replace 2D
+thumbnails only; historical held 3D models retain their restrictions.
+
+Three Fallen Star melee cosmetic thumbnails were generated from text with
+OpenAI's built-in image generation. Prompts and hashes are recorded in
+`docs/whetstorm/armory-fallen-star-trio-generation.json`. These replace 2D
+thumbnails only; historical held 3D models retain their restrictions.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

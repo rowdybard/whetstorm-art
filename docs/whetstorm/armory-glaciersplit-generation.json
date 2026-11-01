@@ -1,0 +1,12 @@
+{
+  "skinId": "glaciersplit_axe",
+  "source": "OpenAI built-in image generation",
+  "referenceImages": [],
+  "prompt": "Create one original square opaque fantasy game cosmetic thumbnail for Glaciersplit, an axe with a translucent blue glacier-ice head, luminous cyan fissures within and sparse frost crystals, and a simple haft with subtle cold vapor. Show the whole single axe diagonally centered, an unmistakable axe silhouette and clear handle, edge-to-edge painterly dark slate background, stylized fantasy painting, bold shapes readable at small sizes. Original design from text only; no reference image, no imitation of other games or artists, no people, text, lettering, numerals, logo, watermark or frame.",
+  "master": "docs/design/whetstorm-art/armory/glaciersplit_axe.png",
+  "masterSha256": "73a8b760ea15becc92586661b2cbc8a7f4f6667a6cea3abb7a0a987af1f0dd64",
+  "shipping": "public/ui/whetstorm/armory/glaciersplit_axe.webp",
+  "shippingSha256": "8f694aab4aa5d07215b4811b132500386985ca6806fa4df86372d18b6936390e",
+  "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6",
+  "status": "Original 2D painting; historical 3D model retains its restrictions. Store is disabled and fresh acquisition has not been verified."
+}

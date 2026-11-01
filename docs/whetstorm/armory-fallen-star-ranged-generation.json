@@ -1,0 +1,28 @@
+{
+  "records": [
+    {
+      "id": "encore_bow",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square opaque fantasy MMORPG cosmetic inventory painting: a fantastical shoulder-fired STAR CANNON, a long cosmos-black barrel engraved with glowing gold constellation dots, a wide flared bell muzzle with a luminous gold comet shell within, simple brass fittings and a wooden shoulder stock; this cosmetic has crossbow handling so depict a cannon, not a curved bow. Center the entire object in a readable three-quarter view on a deep slate painted background, clean bold silhouette readable at 28px, painterly fantasy, warm gold light. Text-only original design with no reference images, no people, lettering, numbers, logos, watermarks, border or imitation of games or artists.",
+      "master": "docs/design/whetstorm-art/armory/encore_bow.png",
+      "masterSha256": "1a570308cc5ad53560928ced89dcede56b1fa480e35edb87ef833572b379975f",
+      "shipping": "public/ui/whetstorm/armory/encore_bow.webp",
+      "shippingSha256": "908d2b395c21a86667cfd51d2ff5092db5ce3c30b2891903ff5d14a964e6fdbf",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6",
+      "status": "2D original; historical 3D model remains restricted. Store disabled; fresh acquisition unverified."
+    },
+    {
+      "id": "meteorlatch_crossbow",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square opaque fantasy MMORPG cosmetic inventory painting: one complete CROSSBOW with crescent-shaped cosmos-black limbs, golden constellation marks, a molten gold core along its tiller and a single glowing starfire bolt nocked along the stock. Center the entire object in a readable three-quarter view on a deep slate painted background, clean bold silhouette readable at 28px, painterly fantasy, warm gold light. Text-only original design with no reference images, no people, lettering, numbers, logos, watermarks, border or imitation of games or artists.",
+      "master": "docs/design/whetstorm-art/armory/meteorlatch_crossbow.png",
+      "masterSha256": "c36c9f04e3e29ea341cb8ef5774bf3c548492dc52cb2c7634f6f44ea5783b6a1",
+      "shipping": "public/ui/whetstorm/armory/meteorlatch_crossbow.webp",
+      "shippingSha256": "f4d59d23ea179409ce2bdd1c069f5679ce7b9f917614808da94217f6e4a2caa1",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6",
+      "status": "2D original; historical 3D model remains restricted. Store disabled; fresh acquisition unverified."
+    }
+  ]
+}

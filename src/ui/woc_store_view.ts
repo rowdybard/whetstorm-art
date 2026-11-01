@@ -21,6 +21,10 @@ import type { AccountCosmetics } from '../world_api/cosmetics';
 import { emberwroughtArmorySkinArt } from './armory_emberwrought_art';
 import { originalArmorySkinArt } from './armory_guildmark_art';
 import { solheimArmorySkinArt } from './armory_solheim_art';
+import { glaciersplitArmorySkinArt } from './armory_glaciersplit_art';
+import { hoarfrostThreeArmorySkinArt } from './armory_hoarfrost_three_art';
+import { fallenStarRangedArmorySkinArt } from './armory_fallen_star_ranged_art';
+import { fallenStarTrioArmorySkinArt } from './armory_fallen_star_trio_art';
 
 export interface WocStoreItemInput {
   itemId: string;
@@ -82,6 +86,10 @@ export function armorySkinArt(skinId: string): string {
     originalArmorySkinArt(skinId) ??
     emberwroughtArmorySkinArt(skinId) ??
     solheimArmorySkinArt(skinId) ??
+    glaciersplitArmorySkinArt(skinId) ??
+    hoarfrostThreeArmorySkinArt(skinId) ??
+    fallenStarRangedArmorySkinArt(skinId) ??
+    fallenStarTrioArmorySkinArt(skinId) ??
     `${ARMORY_SKIN_ART_DIR}/${skinId}.webp`
   );
 }

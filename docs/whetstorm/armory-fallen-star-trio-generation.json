@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "skinId": "skyrender_axe",
+      "file": "docs/design/whetstorm-art/armory/skyrender_axe.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square painterly fantasy armory icon, a single whole axe diagonally framed, its dark night-sky metal head etched with tiny constellations and bright molten-gold fractures, subtle starlight shards and aurora along the edge. Bold legible silhouette at 28 pixels, dark blue backdrop. No people, text, letters, border, logo, watermark or copied designs.",
+      "status": "Original 2D thumbnail only; held model remains a separate asset. Current acquisition unverified.",
+      "sha256": "69ae595b3f7dcae34a7c29a7110509f919f0cbf60f2995d04050771898d09d4d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/skyrender_axe.webp",
+        "sha256": "8a5eddc3e13d20c1ef5cf17e5124929cc977ed62be99ecddc5e1b2202270b00e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "starfall_mace",
+      "file": "docs/design/whetstorm-art/armory/starfall_mace.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square painterly fantasy armory icon, a single whole mace diagonally framed, its head a luminous molten-gold star core enclosed by cosmos-black flanges with fine starlight veins and a few orbiting fragments. Bold legible silhouette at 28 pixels, dark blue backdrop. No people, text, letters, border, logo, watermark or copied designs.",
+      "status": "Original 2D thumbnail only; held model remains a separate asset. Current acquisition unverified.",
+      "sha256": "8b35579d674ab9374510828e33a1c91f03bfb413ac9e33f77923b7041e631c59",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/starfall_mace.webp",
+        "sha256": "450cde3b0a90d7041b89ef3441559d005811f3969895ab461290b3a30f4b9ea7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "astravyr_dagger",
+      "file": "docs/design/whetstorm-art/armory/astravyr_dagger.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square painterly fantasy armory icon, a single whole short dagger diagonally framed, cosmos-black blade with a brilliant molten-gold edge, one small star mote near the pommel and a subtle aurora trail. Bold legible silhouette at 28 pixels, dark blue backdrop. No people, text, letters, border, logo, watermark or copied designs.",
+      "status": "Original 2D thumbnail only; held model remains a separate asset. Current acquisition unverified.",
+      "sha256": "303831751012395f719398063b3c2c7b0c1a8c0995cd28c79671a9c7af471171",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/armory/astravyr_dagger.webp",
+        "sha256": "ce141a04d1b26fb806819c1f41bce3614963865b2a5560a8fc1ea0d3f7233320",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
