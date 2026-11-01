@@ -201,9 +201,13 @@ The guide overview now preloads its Whetstorm road hero instead of the old
 `/loading-screen.jpg`; browser reuse remains to be checked. A separate guide
 header route still requests `/whetstorm-logo-guide.webp`. That file is absent
 from the partial art worktree but exists in the full reference checkout; its
-precise provenance was not established by the bounded credit search. In a full
-candidate, verify its source and packaging or deliberately substitute a
-reviewed Whetstorm mark, then check the rendered header.
+precise source and license were not established by the bounded credit search.
+Owner rebrand commit `d17187fba8` describes the sword-and-lightning logo as
+original Whetstorm art, which is evidence of project origin, not a full source
+or license record. Preserve the full candidate's tracked guide image while
+confirming its provenance and packaging, then check the 44-pixel header on
+desktop and mobile. If that source cannot be established, evaluate a deliberate
+replacement without losing the localized alt text.
 
 The current art-branch profession resolver has existing Whetstorm images for
 all 26 registered profession identities checked. The full reference trees
