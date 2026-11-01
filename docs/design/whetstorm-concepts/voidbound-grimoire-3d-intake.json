@@ -1,0 +1,12 @@
+{
+  "itemId": "voidbound_grimoire",
+  "name": "Voidbound Grimoire",
+  "output": "docs/design/whetstorm-concepts/voidbound-grimoire-3d-intake.png",
+  "output_sha256": "901e6338b6be9c4d21d7e74f498ecaa96b092e56b0508b45a2e67fe4dd3c29a8",
+  "source": "OpenAI built-in image generation",
+  "reference": "docs/design/whetstorm-art/items/voidbound_grimoire.png",
+  "reference_sha256": "430c4e3071afd8f3fc42ce265c191bd1d33d75c0aaafda2a50f8fc19cf1b2ddd",
+  "reference_provenance": "docs/whetstorm/accessory-held-oct30-generation.json",
+  "prompt": "Use case: stylized-concept. Create a standalone 3D-intake concept of the Voidbound Grimoire. Use the provided Whetstorm-original inventory painting as the sole visual reference for the book's identity: thick closed dark violet leather cover, central inset faceted amethyst in silver setting, restrained silver corner fittings, visible spine and page block. One entire book, three-quarter view, centered with generous margin, on a completely plain pure white background. Show a coherent solid closed book for 3D planning. No hands, people, text, lettering, symbols that resemble lettering, floor, cast shadow, logo or watermark.",
+  "constraints": "2D concept only. Existing held-offhand mapping uses tome_voidbound with VAR_BOOK grip. Grip, stow, animation, clipping and 3D fit remain unverified."
+}

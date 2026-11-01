@@ -1808,6 +1808,11 @@ image generation using Whetstorm's item painting as reference; prompt and
 hashes are recorded in `docs/design/whetstorm-concepts/goldleaf-folio-3d-intake.json`.
 It is a concept, not a production model.
 
+One Voidbound Grimoire 3D-intake concept was generated with OpenAI's built-in
+image generation using Whetstorm's item painting as reference; prompt and
+hashes are recorded in `docs/design/whetstorm-concepts/voidbound-grimoire-3d-intake.json`.
+It is a concept, not a production model.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
