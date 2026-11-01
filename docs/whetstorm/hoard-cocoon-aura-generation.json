@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "hoard_cocooned",
+      "runtimeIds": [
+        "hoard_cocooned"
+      ],
+      "file": "docs/design/whetstorm-art/auras/hoard_cocooned-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square painterly fantasy RPG aura icon designed for clear reading at 28 pixels: a single large upright pale ivory silk cocoon, tightly wrapped in overlapping bands of spider silk, with the dark silhouette of a helpless armored person faintly visible through a small opening near the top. The cocoon fills the center against a plain deep forest green-black background, high contrast and simple shapes. No spider, scenery, letters, numerals, border, logo, watermark, or copied game imagery.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "f8304d1bcbfc74ef6c665827a577e1a18935d4fedd6fc12bc4989a3eea19653c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/hoard_cocooned.webp",
+        "sha256": "19c89a7c65365125dbbd8b28b609485ea470a8240cc5a4f55d961c26545003bf",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

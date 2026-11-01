@@ -1822,6 +1822,10 @@ Two Buried Hoard aura paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/hoard-storm-grasp-auras-generation.json`.
 
+One Buried Hoard cocoon aura painting was generated with OpenAI's built-in
+image generation; its prompt and hashes are recorded in
+`docs/whetstorm/hoard-cocoon-aura-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
