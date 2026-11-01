@@ -40,6 +40,8 @@ import { whetstormWarfareAuraImageUrl } from './whetstorm_warfare_aura_art';
 
 // Original Whetstorm aura paintings, keyed by exact runtime identity.
 const WHETSTORM_AURA_ART: ReadonlyMap<string, string> = new Map([
+  // The live Bad Air debuff shares the Delve tracker's original affix image.
+  ['bad_air', '/ui/whetstorm/delve-affixes/bad_air.svg'],
   ['well_fed', '/ui/whetstorm/auras/well_fed.webp'],
   ...[
     'mob_aoe_slow',
