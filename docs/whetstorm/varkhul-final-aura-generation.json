@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "varkhul_forge_shattered",
+      "runtimeIds": [
+        "varkhul_forge_shattered"
+      ],
+      "file": "docs/design/whetstorm-art/auras/varkhul_forge_shattered.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Square original painted fantasy game status icon, designed for 28 pixel readability. ONE large broken anvil, cool pale steel, split into two separated halves by a clean dark vertical gap. Simple angular silhouette, centered, facing side view; restrained dark amber background with a few subtle embers. High contrast, very large object, clear negative space, calm composition. Symbolizes a shattered forge and vulnerability. No flames obscuring object, no text, no letters, no border, no logo, no person, no watermark.",
+      "sha256": "871c960b5f5d69c3d6918cb38ea910e999ff76d018705d0fc8a214cb89bb09be",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/varkhul_forge_shattered.webp",
+        "sha256": "ca1c2814ddc429cf5ba71a996c8ba830087ad1f48b1a4f849c4a2c6d5d787867",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "varkhul_crucible_exposure",
+      "runtimeIds": [
+        "varkhul_crucible_exposure"
+      ],
+      "file": "docs/design/whetstorm-art/auras/varkhul_crucible_exposure.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy MMO aura icon: a brilliant diagonal orange forge beam striking and scorching a single upright iron shield, symbolizing dangerous stacking crucible beam exposure. Clear shield and beam silhouette, dark slate background, orange-white molten light, readable at 28 pixels. Edge-to-edge painting; no frame, no person, no letters, no text, no logo, no watermark.",
+      "sha256": "0610180b7e42cd6754042e797baf741cb9d5f9aa0d555f4a6c87bf2d10e01e53",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/varkhul_crucible_exposure.webp",
+        "sha256": "ddfaeb9bfec294e2f7fee5a2f8599c5ae733cb7e3f4fbc259f9776660aebc860",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "varkhul_masterpiece_unbound",
+      "runtimeIds": [
+        "varkhul_masterpiece_unbound"
+      ],
+      "file": "docs/design/whetstorm-art/auras/varkhul_masterpiece_unbound.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Square original painted fantasy game status icon, designed for 28 pixel readability. ONE enormous upright war hammer with a bright silver head and dark handle centered vertically, set against a simple deep crimson background with a clear dark negative-space halo. A small broken gold chain hangs below the hammer head. Symbolizes a forge boss final enrage. Bold recognizable silhouette, bright rim light, minimal details and restrained fire glow. No busy explosion, no text, no letters, no border, no logo, no person, no watermark.",
+      "sha256": "f30d898d9251f25b4cdea37ab32ecf7ddee6ac6a83424f80dda4d33080b7820e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/varkhul_masterpiece_unbound.webp",
+        "sha256": "1dfe8dc0f7ae007589b519eb56ea93eb2cf16377488a5e7edc466aaf5f046aa3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

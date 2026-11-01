@@ -33,6 +33,7 @@ import { whetstormShamanAuraImageUrl } from './whetstorm_shaman_aura_art';
 import { whetstormShamanCooldownAuraImageUrl } from './whetstorm_shaman_cooldown_aura_art';
 import { whetstormStoneboundAuraImageUrl } from './whetstorm_stonebound_aura_art';
 import { whetstormVarkhulAuraImageUrl } from './whetstorm_varkhul_aura_art';
+import { whetstormVarkhulFinalAuraImageUrl } from './whetstorm_varkhul_final_aura_art';
 import { whetstormWarfareAuraImageUrl } from './whetstorm_warfare_aura_art';
 
 // Original Whetstorm aura paintings, keyed by exact runtime identity.
@@ -100,6 +101,7 @@ export function whetstormAuraImageUrl(id: string): string | null {
     whetstormNythraxisBindingAuraImageUrl(id) ??
     nythraxisEnrageAuraImageUrl(id) ??
     whetstormEncounterAuraImageUrl(id) ??
+    whetstormVarkhulFinalAuraImageUrl(id) ??
     whetstormVarkhulAuraImageUrl(id) ??
     whetstormRecoveryAuraImageUrl(id) ??
     whetstormClassAuraImageUrl(id) ??
