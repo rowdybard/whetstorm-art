@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "moonscorch_helmet",
+      "file": "docs/design/whetstorm-art/ignivar-moonscorch-helmet-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "public/ui/whetstorm/items/moonscorch_waistwrap.webp"
+      ],
+      "prompt": "Original square dark fantasy RPG inventory painting of Moonscorch Cowl: one empty druid leather hood, deep plum and violet leather with layered pale silver leaf-shaped edging and a small silver crescent ornament. Coordinate palette and material with reference waistwrap; show only hood, dark empty opening, no head or person. Center complete subject with safe margins against dark navy painted ground, warm upper-left light, tactile leather and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "bf4e7f37174f2c2861c271bdc171700beef7738211fb4b66e8fcf916c307e1f2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonscorch_helmet.webp",
+        "sha256": "08b09ec5141901df66ea5eaf8448067cce410093489fd39bf8acae12212dbe39",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "moonscorch_shoulder",
+      "file": "docs/design/whetstorm-art/ignivar-moonscorch-shoulder-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-moonscorch-helmet-master.png"
+      ],
+      "prompt": "Original square dark fantasy RPG inventory painting of Moonscorch Spaulders: one complete symmetrical pair of druid leather shoulder pieces, deep plum and violet leather with layered pale silver leaf-shaped edging and small silver crescent ornament. Coordinate palette and material with reference cowl; show only shoulders, no hood, head, torso or person. Center full subject with safe margins against dark navy painted ground, warm upper-left light, tactile leather and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "0bd05371e0b84ebb2d49787bf33d0447448dcdeef88615a7dca33273aeaa7e0b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonscorch_shoulder.webp",
+        "sha256": "241b8ed6747d0c2168e6dc2b35cb1d4a7c60ea9211f6b1f6c9f27facfd343b11",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "moonscorch_chest",
+      "file": "docs/design/whetstorm-art/ignivar-moonscorch-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-moonscorch-helmet-master.png"
+      ],
+      "prompt": "Original square dark fantasy RPG inventory painting of Moonscorch Tunic: one complete empty druid leather tunic with sleeves, deep plum and violet leather with layered pale silver leaf-shaped edging and a small silver crescent ornament at chest. Coordinate palette and material with reference cowl; show only tunic, no hood, head, hands or person. Center full subject with safe margins against dark navy painted ground, warm upper-left light, tactile leather and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "b32be3950677f06dbf81995f0e029898e186f2b9b149f0eab296b824c42cf549",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonscorch_chest.webp",
+        "sha256": "b08ba77e431291b05946bed454bb49d355e48b1f47f33512568b7b364d5df63a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

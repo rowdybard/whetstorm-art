@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_paladin_protection_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_protection_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/items/vanguard_paladin_protection_chest.png"
+      ],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting, a matching pair of complete empty paladin protector mail legguards, clearly separated legs. Use the supplied original breastplate as STYLE reference for blue-black steel, silver edges, aged gold trim and pale glowing shield motif. Center full legs large on muted dark navy painterly background; hand-painted game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "db1043b95aa5096e16bdf197443811989c791c3cf54d74388c07646a428dc2ca",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_protection_legs.webp",
+        "sha256": "8fa76484f06fadb59969b6c3d4beaaf2f067b12754b683c0602b131143266fd0",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_paladin_protection_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_protection_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/items/vanguard_paladin_protection_chest.png"
+      ],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting, a matching pair of complete empty paladin protector mail gauntlets, clearly recognizable five-finger hands. Use the supplied original breastplate as STYLE reference for blue-black steel, silver edges, aged gold trim and pale glowing shield motif. Center gauntlets large on muted dark navy painterly background; hand-painted game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "b4f5ad471ef834c05fa2289278c9e52cdea4b9e7b69e9705d2fd6147fa73b197",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_protection_gloves.webp",
+        "sha256": "b007fcfa7af653572fc837492ca70351f0a9bc37e3a00780c391cd0ab53b4aac",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
