@@ -1,5 +1,9 @@
 # Website fractured portal
 
+> Historical artwork record: the website designs described below are superseded
+> in the Whetstorm art checkout. Consult current source and CREDITS.md for
+> runtime use and rights; do not interpret this record as present packaging.
+
 Current skin: `public/website-fractured-portal-v5.webp`. The dark midnight-blue
 magical interior is baked into the generated artwork. Only its exterior has
 alpha transparency; there is no CSS backing or SVG mask. Sampled centre alpha

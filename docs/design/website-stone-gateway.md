@@ -1,5 +1,9 @@
 # Website stone gateway
 
+> Historical artwork record: the website designs described below are superseded
+> in the Whetstorm art checkout. Consult current source and CREDITS.md for
+> runtime use and rights; do not interpret this record as present packaging.
+
 The current login skin is `public/website-stone-gateway-v2.svg`. It embeds a
 1024 by 1536 WebP image encoded at quality 88 (218600 bytes) and an authored SVG
 silhouette. The image was generated with OpenAI's built-in image generation tool.

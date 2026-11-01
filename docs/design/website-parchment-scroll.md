@@ -1,5 +1,9 @@
 # Website parchment scroll
 
+> Historical artwork record: the website designs described below are superseded
+> in the Whetstorm art checkout. Consult current source and CREDITS.md for
+> runtime use and rights; do not interpret this record as present packaging.
+
 The main website uses `public/website-parchment-scroll-v1.svg` as a decorative
 skin behind the live mode, login, registration and recovery controls. This SVG
 embeds a 1024 by 1536 pixel WebP encoded at quality 88. Generated with OpenAI's built-in
