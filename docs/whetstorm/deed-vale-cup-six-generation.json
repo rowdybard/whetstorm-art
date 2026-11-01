@@ -1,0 +1,76 @@
+{
+  "records": [
+    {
+      "id": "chr_vale_cup_debut",
+      "master": "docs/design/whetstorm-art/deeds/chr_vale_cup_debut.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square fantasy MMORPG achievement crest for a retired sporting milestone: first touching the ball in a Vale Cup match. A simple leather ball beside a small copper pail, centered in one circular bronze medallion, dark painted vignette. Hand-painted stylized fantasy, bold clean silhouette, readable at 28px. No people, text, letters, numbers, logos, watermark, copied designs or extra objects.",
+      "status": "retired Vale Cup feat; no longer newly earnable",
+      "masterSha256": "0bec95bc23556be9d8e5593e2add93a404901a9725820e0b4306123be45213b1",
+      "shipping": "public/ui/whetstorm/deeds/chr_vale_cup_debut.webp",
+      "shippingSha256": "b58cb3ce8208186b72f43839d387225b92e6e33ca9afac5ebe23cf16bfc15132",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 84 effort 6"
+    },
+    {
+      "id": "pvp_vcup_first_match",
+      "master": "docs/design/whetstorm-art/deeds/pvp_vcup_first_match.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square fantasy MMORPG achievement crest for a retired sporting milestone: completing a first full Vale Cup match, win or lose. One pair of worn leather boots beside a simple leather ball on a grass pitch, centered inside a circular bronze medallion, dark painted vignette. Hand-painted stylized fantasy, bold clean silhouette, readable at 28px. No people, text, letters, numbers, logos, watermark, copied designs or extra objects.",
+      "status": "retired Vale Cup feat; no longer newly earnable",
+      "masterSha256": "2724ecaf692b7ed486ea55ac05131ec041be25aa585e8ced2af58106f11acf05",
+      "shipping": "public/ui/whetstorm/deeds/pvp_vcup_first_match.webp",
+      "shippingSha256": "ed909c145da1635da44cf7672576a730b5a23ede01503e0d86e8a196c87d40ee",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 84 effort 6"
+    },
+    {
+      "id": "pvp_vcup_first_win",
+      "master": "docs/design/whetstorm-art/deeds/pvp_vcup_first_win.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square fantasy MMORPG achievement crest for a retired sporting milestone: winning a first rated Vale Cup match. One simple silver trophy cup with a small leather ball at its base, centered inside a circular bronze medallion, dark painted vignette. Hand-painted stylized fantasy, bold clean silhouette, readable at 28px. No people, text, letters, numbers, logos, watermark, copied designs or extra objects.",
+      "status": "retired Vale Cup feat; no longer newly earnable",
+      "masterSha256": "f82079f39cf78dde14e2b6362346fd32ff633d03198108cebe99bea9ab88271c",
+      "shipping": "public/ui/whetstorm/deeds/pvp_vcup_first_win.webp",
+      "shippingSha256": "dded0f7c83e11e545cc821396fb1244d26e03b75f58bbe2b8a58609e98e42e75",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 84 effort 6"
+    },
+    {
+      "id": "pvp_vcup_wins_10",
+      "master": "docs/design/whetstorm-art/deeds/pvp_vcup_wins_10.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square fantasy MMORPG achievement crest for a retired sporting milestone: ten rated Vale Cup victories. One worn leather ball resting on a bronze victory wreath, a single small silver star above, centered inside a circular bronze medallion, dark painted vignette. Hand-painted stylized fantasy, bold clean silhouette, readable at 28px. No people, text, letters, numbers, logos, watermark, copied designs or extra objects.",
+      "status": "retired Vale Cup feat; no longer newly earnable",
+      "masterSha256": "ede483137780fe62aaeabaae11db0aab54c6720b31c5380fb012734536d86f79",
+      "shipping": "public/ui/whetstorm/deeds/pvp_vcup_wins_10.webp",
+      "shippingSha256": "d814045e4df081a92364cb357fc138349d283af37eb49c40754d0ebec6e5b305",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 84 effort 6"
+    },
+    {
+      "id": "pvp_vcup_wins_25",
+      "master": "docs/design/whetstorm-art/deeds/pvp_vcup_wins_25.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square fantasy MMORPG achievement crest for a retired sporting milestone: twenty-five rated Vale Cup victories. One ornate golden trophy crowned by a laurel wreath and a small leather ball, centered inside a circular bronze medallion, dark painted vignette. Hand-painted stylized fantasy, bold clean silhouette, readable at 28px. No people, text, letters, numbers, logos, watermark, copied designs or extra objects.",
+      "status": "retired Vale Cup feat; no longer newly earnable",
+      "masterSha256": "940644fa09840c640d12d01c52ddc7404149b961f6582b9c825af9f9eab9fecd",
+      "shipping": "public/ui/whetstorm/deeds/pvp_vcup_wins_25.webp",
+      "shippingSha256": "015e03e666c260aee8c07bc5062dfd0829f55499404deffa34229c77606701b4",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 84 effort 6"
+    },
+    {
+      "id": "pvp_vcup_first_goal",
+      "master": "docs/design/whetstorm-art/deeds/pvp_vcup_first_goal.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square fantasy MMORPG achievement crest for a retired sporting milestone: scoring a first Vale Cup goal. A single leather ball crossing a simple wooden goal frame and net, motion suggested by two short streaks, centered inside a circular bronze medallion, dark painted vignette. Hand-painted stylized fantasy, bold clean silhouette, readable at 28px. No people, text, letters, numbers, logos, watermark, copied designs or extra objects.",
+      "status": "retired Vale Cup feat; no longer newly earnable",
+      "masterSha256": "b9a184983134f024900ca3232f530ab618f33a4875cc807dc8ad497749fc6772",
+      "shipping": "public/ui/whetstorm/deeds/pvp_vcup_first_goal.webp",
+      "shippingSha256": "2e32b28fd274225cfa35f2d635fd6b5a8a3715979caabab853c013cceb3b92b7",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 84 effort 6"
+    }
+  ]
+}
