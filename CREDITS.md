@@ -1713,6 +1713,10 @@ Five retained Vale Cup deed paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/whetstorm/deed-vale-cup-five-generation.json`. The mode is retired.
 
+Two conditional relic deed paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/deed-conditional-relic-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

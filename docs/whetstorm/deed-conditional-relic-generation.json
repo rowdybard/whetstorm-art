@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "id": "feat_brightwood_relic",
+      "master": "docs/design/whetstorm-art/deeds/feat_brightwood_relic.png",
+      "shipping": "public/ui/whetstorm/deeds/feat_brightwood_relic.webp",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square fantasy MMO deed crest painting for Brightwood Remembered: a single aged small bronze crown resting against a preserved thorny green branch, representing remembrance of a vanished woodland and its relics. Bold compact medal-like composition centered on a deep charcoal painted vignette, warm gold highlights, controlled forest green, premium hand-painted art, crisp readable silhouette at 28px with generous margins. No person, animal, landscape, text, letters, UI border, watermark or existing game design.",
+      "masterSha256": "06fb92c1928dbe58bf494672dfed8cf2f3f5aa9ca0c12e0474d7df8171030eb6",
+      "shippingSha256": "21109cb2d7f216ce15a4f633863f0675912a07b0ff82baea61fa056c7c957e2e",
+      "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+    },
+    {
+      "id": "col_reliquary_complete",
+      "master": "docs/design/whetstorm-art/deeds/col_reliquary_complete.png",
+      "shipping": "public/ui/whetstorm/deeds/col_reliquary_complete.webp",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square fantasy MMO deed crest painting for The Grand Reliquary: one monumental closed treasure cabinet with three distinct jewel-like relics visible through its arched window and a golden keyhole, representing completion of a collection. Bold compact medal-like composition centered on a deep charcoal painted vignette, antique gold and violet highlights, premium hand-painted art, crisp readable silhouette at 28px with generous margins. No person, landscape, text, letters, UI border, watermark or existing game design.",
+      "masterSha256": "97d904ab6044e93741cd5f207eafff070198726c7c516303e231f36ff02e8faa",
+      "shippingSha256": "3bdc28fd3db6e5ceca5b3af92454bac88a6d9b46295adebc6e22a1f18b9a3dca",
+      "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+    }
+  ]
+}
