@@ -77,6 +77,17 @@ hands and relevant animations. Its silhouette also changes the item appearance.
 Keep the existing tome files until a complete candidate is tested; a remap by
 itself would not remove restricted files from a distribution.
 
+Read-only GLB JSON inspection on 2026-11-01 in `D:/whetstorm-deploy` found
+that all four tomes have zero animations, skins, and embedded images. They are
+rigid closed-book props, so no independent page or book animation is needed:
+the character rig moves the attached model. The open-book candidate likewise
+has zero animations and skins, but has one embedded image; its texture lineage
+and grip still need the checks above. One cleared model could serve all four
+runtime mappings, but would replace their distinct closed-book appearances with
+one open-book silhouette. Validate each caster rig's drawn and sheathed poses,
+equipment swaps, movement and casting, clipping, preload, and packaged files
+before accepting any substitute.
+
 ### Harbor route marker: free interim candidate
 
 A later read-only inspection found the CC0 KayKit `dungeon/sign_right.glb`
