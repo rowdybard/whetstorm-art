@@ -1661,6 +1661,10 @@ One retained cosmetic-cache painting was generated with OpenAI's built-in
 image generation; prompt and hashes are recorded in
 `docs/whetstorm/event-skin-token-generation.json`.
 
+Two retired heroic equipment paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/retired-heroic-pair-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

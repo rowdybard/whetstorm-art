@@ -81,6 +81,7 @@ import { legacyReinsThreeItemImageUrl } from './legacy_reins_three_item_art';
 import { retainedMountReinsItemImageUrl } from './retained_mount_reins_item_art';
 import { legacyReinsItemImageUrl } from './legacy_reins_item_art';
 import { eventSkinTokenItemImageUrl } from './event_skin_token_item_art';
+import { retiredHeroicPairItemImageUrl } from './retired_heroic_pair_item_art';
 import { slagcrownUpperItemImageUrl } from './slagcrown_upper_item_art';
 import { slagcrownLowerItemImageUrl } from './slagcrown_lower_item_art';
 import { starwardenUpperItemImageUrl } from './starwarden_upper_item_art';
@@ -569,6 +570,7 @@ export function paintedItemImageUrl(id: string): string | null {
     retainedMountReinsItemImageUrl(id) ??
     legacyReinsItemImageUrl(id) ??
     eventSkinTokenItemImageUrl(id) ??
+    retiredHeroicPairItemImageUrl(id) ??
     slagcrownUpperItemImageUrl(id) ??
     slagcrownLowerItemImageUrl(id) ??
     starwardenUpperItemImageUrl(id) ??

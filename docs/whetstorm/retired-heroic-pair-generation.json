@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "deathless_warguard_legmail",
+      "file": "docs/design/whetstorm-art/items/deathless_warguard_legmail.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy MMO inventory painting: Deathless Warguard Legmail, one complete symmetrical pair of ancient heavy mail leggings with dark iron plates, muted bone edging and faint blue spectral accents. Centered front view, no body or boots. Premium hand-painted game art, simple subdued charcoal vignette, warm top-left light, complete silhouette with generous safe margins, clear at 28px grayscale. No text, frame, watermark, creature portrait or extra objects.",
+      "status": "original art candidate",
+      "sha256": "6a55e17856388745774be55c05a57e5297ea074b4321816a6465a03b2b09c67b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/deathless_warguard_legmail.webp",
+        "sha256": "ed5e0a5be424499401cb4c4fb7e2b171038b12e3f3b0f18e59ace33c08143dce",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "soulrend_diadem",
+      "file": "docs/design/whetstorm-art/items/soulrend_diadem.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy MMO inventory painting: Soulrend Diadem, one complete delicate cloth-bound caster diadem of deep violet fabric with antique silver setting and a single ghostly pale blue soulstone. Centered front view, no face or wearer. Premium hand-painted game art, simple subdued charcoal-violet vignette, warm top-left light, complete silhouette with generous safe margins, clear at 28px grayscale. No text, frame, watermark, creature portrait or extra objects.",
+      "status": "original art candidate",
+      "sha256": "333b7771521833d7d607f1051c63ccc91e6f7464fc639395ae9d72de3b7250ea",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/soulrend_diadem.webp",
+        "sha256": "a7d0cf4f8661ef162ca361c5f021071edb6662367b52d10c2f18a0566a946d53",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
