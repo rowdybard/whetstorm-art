@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_druid_feral_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_feral_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bloodmane Helm, one complete druid's sturdy chestnut leather helm with russet fur trim and small weathered bone claw ornaments. Empty dark opening, no face, creature portrait or wearer. Centered front view. Premium hand-painted dark fantasy, deep woodland background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "3674947542f5f500464cd1c112d95c91838eeb46feffae3599d2f5a1e13cc0c8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_feral_helmet.webp",
+        "sha256": "e3b763f3195867411c884dad38c1b901a6927babcbd6cf40d71b962c93130725",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "superseded": {
+        "masterSha256": "2061cfc302f177b2759be8726f785764574ad447ea278d66a11bb63af60797b4",
+        "deliverySha256": "f1b55b10c6acb90d751ef3e5b89c05803b911160de9afae60049938be77e31fa",
+        "reason": "Busy forest reduced small-size silhouette contrast"
+      },
+      "editPrompt": "Edit this item icon: preserve the depicted gear's exact identity, chestnut leather, russet fur, bone claws, silhouette and front view. Replace the busy forest entirely with a simple subdued dark charcoal-green painted vignette, no scenery or bright spots. Center the complete item with generous safe margins for circular crops. Keep strong silhouette contrast at 28px grayscale. Opaque square, no text, border or watermark."
+    },
+    {
+      "itemId": "vanguard_druid_feral_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_feral_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bloodmane Shoulderpads, one compact pair of druid's chestnut leather shoulder guards with russet fur trim and weathered bone claw ornaments. Centered front view, no body or creature portrait. Premium hand-painted dark fantasy, deep woodland background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "d51983f21644fc1fab564723ec1de90c132f4ea55ef69d351d552c85efdd8d0f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_feral_shoulder.webp",
+        "sha256": "991957a4fad469d3a3f41e0fcf7844fa16464d88e473768c6e37394cd649b783",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "superseded": {
+        "masterSha256": "80d6a7156c843e7ab11f1cf4381d7f576c402ee74fc3c3f3e2dc1fd00bda3a29",
+        "deliverySha256": "6634f598c471a4c3518e5d6017d06fe071bda47e710f0731b9f3bd143ac947bd",
+        "reason": "Busy forest reduced small-size silhouette contrast"
+      },
+      "editPrompt": "Edit this item icon: preserve the depicted gear's exact identity, chestnut leather, russet fur, bone claws, silhouette and front view. Replace the busy forest entirely with a simple subdued dark charcoal-green painted vignette, no scenery or bright spots. Center the complete item with generous safe margins for circular crops. Keep strong silhouette contrast at 28px grayscale. Opaque square, no text, border or watermark."
+    },
+    {
+      "itemId": "vanguard_druid_feral_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_feral_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bloodmane Tunic, one complete druid's chestnut leather torso garment with russet fur trim and weathered bone claw clasps. Centered front view, no wearer, head, hands, arms or creature portrait. Premium hand-painted dark fantasy, deep woodland background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "0f90837b04c6b384c73c0e505a94a1dd1ca5548b2142a99d21a7dca1e6ce95c5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_feral_chest.webp",
+        "sha256": "c05f02deab5d62790eb7c04997f48ae000d47b8d6f40c8302ca27cc2aa5c0c2e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      },
+      "superseded": {
+        "masterSha256": "dae13e9dd5c4c201e5d6b9cf9cc6ee2f075ff3e26b2f05ccf656ef7c37286be5",
+        "deliverySha256": "019b918cfc58b663bdbc24a33d8d6f3683b5ecaad2355bc405d5952212b326bb",
+        "reason": "Busy forest reduced small-size silhouette contrast"
+      },
+      "editPrompt": "Edit this item icon: preserve the depicted gear's exact identity, chestnut leather, russet fur, bone claws, silhouette and front view. Replace the busy forest entirely with a simple subdued dark charcoal-green painted vignette, no scenery or bright spots. Center the complete item with generous safe margins for circular crops. Keep strong silhouette contrast at 28px grayscale. Opaque square, no text, border or watermark."
+    }
+  ]
+}
