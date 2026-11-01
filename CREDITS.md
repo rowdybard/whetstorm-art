@@ -1679,6 +1679,11 @@ generation; its prompt, reference and hashes are recorded in
 `docs/whetstorm/starter-arena-floor-module-generation.json`. It is a concept,
 not a production model.
 
+One starter-arena gate concept was generated with OpenAI's built-in image
+generation; its prompt, reference and hashes are recorded in
+`docs/design/whetstorm-concepts/arena-gate-provenance.json`. It is a concept,
+not a production model.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

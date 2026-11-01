@@ -1,0 +1,17 @@
+{
+  "asset": "docs/design/whetstorm-concepts/arena-gate.png",
+  "purpose": "Standalone starter arena gate concept; not a runtime asset or 3D model",
+  "source": "OpenAI built-in image generation",
+  "reference_images": [
+    {
+      "path": "public/website-hero-arena.png",
+      "role": "style, palette and architecture reference",
+      "sha256": "d6571853e845e6491258ebf62c8fbacdd3728903465b9bd97faa36664988ac45"
+    }
+  ],
+  "prompt": "Create one original Whetstorm starter arena GATE concept, not a 3D model. Use the supplied title painting only as a style, palette and architecture reference: warm sandstone and forged dark iron, broad clean stylized hand-painted fantasy shapes. Show one complete freestanding sandstone arched gatehouse bay with a closed forged iron barred gate, simple coherent masonry and restrained bronze details, in a clear three-quarter view. Whole structure centered with generous margins against a plain pure white background. No cast shadow, ground, scenery, people, text, symbols, logo, watermark, border, collage or extra objects. Do not copy any unrelated architecture.",
+  "sha256": "4e96d7b55ab548accdfc160b9e34340926ed04b8ca3c8986c6916efe1fbf31d3",
+  "pixels": [1448, 1086],
+  "format": "opaque RGB PNG",
+  "review": "Whole gatehouse, iron gate and masonry are visible on white; top finial is close to the image edge. Generated concept only."
+}
