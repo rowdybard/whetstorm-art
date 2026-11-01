@@ -1461,6 +1461,10 @@ hashes are recorded in
 `docs/whetstorm/ruincaller-upper-generation.json`, and
 `docs/whetstorm/bloodmarch-upper-generation.json`.
 
+Three Snaretooth armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/survival-hunter-upper-generation.json`.
+
 Two Chained Ember Choker tier paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/chained-ember-choker-tiers-original/chained-ember-choker-provenance.json`.

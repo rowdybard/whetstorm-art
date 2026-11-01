@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_hunter_survival_helmet",
+      "file": "docs/design/whetstorm-art/survival-hood-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one empty hunter's leather coif, weathered forest-green leather with ochre-brown reinforcement, bone-colored tooth accents and stitched seams. Broad recognizable hood silhouette with dark empty opening, front view centered on dark forest-blue background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, face, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "131982196ebbe1bb7f4bf96d6f18129d534ae9e5813010a584ce189c416d1168",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_survival_helmet.webp",
+        "sha256": "8a1510f53033eb93858c89db2bd1350c43fd3e7d000ae53642558241d7e33d14",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_hunter_survival_shoulder",
+      "file": "docs/design/whetstorm-art/survival-shoulder-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete pair of hunter's leather spaulders, weathered forest-green leather with ochre-brown reinforcement, small bone-colored tooth accents and stitched seams. Broad recognizable paired shoulders, empty garment, front view centered on dark forest-blue background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "6453fc35c8a1531026d02c3493852d20eca998629da2c141c6f1980128d97fdb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_survival_shoulder.webp",
+        "sha256": "da9faa622627b8d1de4d29dcc40283673f04a9f60a8fbe04e177412f5d49b0ef",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_hunter_survival_chest",
+      "file": "docs/design/whetstorm-art/survival-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete empty hunter's leather jerkin, weathered forest-green leather with ochre-brown reinforcement, bone-colored tooth clasp and stitched seams. Recognizable fitted short torso, shoulders and sleeves, front view centered on dark forest-blue background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, head, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "f8a822863d77d3b6e44bd997a779fa2302ca85558076df1100ae7eca44e5baa6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_survival_chest.webp",
+        "sha256": "179df623b5a44c68e0c568ab8b607e786af5a61e3099d97c89c274a69f0772ed",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

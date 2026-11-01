@@ -82,6 +82,7 @@ import { ignivarGravebrandUpperItemImageUrl } from './ignivar_gravebrand_upper_i
 import { ignivarGravebrandLowerItemImageUrl } from './ignivar_gravebrand_lower_item_art';
 import { ruincallerUpperItemImageUrl } from './ruincaller_upper_item_art';
 import { bloodmarchUpperItemImageUrl } from './bloodmarch_upper_item_art';
+import { survivalHunterUpperItemImageUrl } from './survival_hunter_upper_item_art';
 import { arcaneMageUpperItemImageUrl } from './arcane_mage_upper_item_art';
 import { collapsarRingTierItemImageUrl } from './collapsar_ring_tier_item_art';
 import { mountainBandTierItemImageUrl } from './mountain_band_tier_item_art';
@@ -505,6 +506,7 @@ export function paintedItemImageUrl(id: string): string | null {
     ignivarGravebrandLowerItemImageUrl(id) ??
     ruincallerUpperItemImageUrl(id) ??
     bloodmarchUpperItemImageUrl(id) ??
+    survivalHunterUpperItemImageUrl(id) ??
     arcaneMageUpperItemImageUrl(id) ??
     collapsarRingTierItemImageUrl(id) ??
     mountainBandTierItemImageUrl(id) ??
