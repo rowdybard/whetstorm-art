@@ -1773,6 +1773,11 @@ generation; its prompt and hash are recorded in
 `docs/whetstorm/retained-rocket-sled-concept-generation.json`. It is an
 exploratory concept, not a production model or an approved replacement.
 
+One Sheenleaf Primer 3D-intake concept was generated with OpenAI's built-in
+image generation using Whetstorm's item painting as reference; prompt and
+hashes are recorded in `docs/design/whetstorm-concepts/sheenleaf-primer-3d-intake.json`.
+It is a concept, not a production model.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

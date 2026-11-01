@@ -1,0 +1,15 @@
+{
+  "source": "OpenAI built-in image generation",
+  "purpose": "2D concept for later 3D intake; no mesh or dimensions",
+  "prompt": "Create an original 2D standalone 3D-intake concept for the Sheenleaf Primer, using ONLY the supplied Whetstorm inventory painting as visual reference. Show one complete closed modest leather-bound book in clear three-quarter view, preserving its muted forest-green cover, silver corner fittings, single silver leaf ornament, rounded green spine with subtle bands and warm page block. The object must be isolated entirely within frame with generous margin on a plain pure white background. No hands, person, lettering, numbers, logo, watermark, frame, floor or cast shadow. This is a 2D visual planning reference, not a 3D model or dimensional specification.",
+  "reference": {
+    "path": "docs/design/whetstorm-art/items/silverleaf_primer.png",
+    "sha256": "ead83e958fcb1707056394fe6a649722b4c85f91cff43ea21efa866092dde224",
+    "lineage": "docs/whetstorm/inscription-books-generation.json"
+  },
+  "output": {
+    "path": "docs/design/whetstorm-concepts/sheenleaf-primer-3d-intake.png",
+    "sha256": "33d4264b9595435980598f52f818c61740a0ef4450a643cef9486dd61f5732a2"
+  },
+  "constraints": "Rigid VAR_BOOK offhand; grip, clipping, preload and 3D fit unverified."
+}
