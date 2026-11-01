@@ -60,6 +60,7 @@ import { ignivarCinderbarkOffsetItemImageUrl } from './ignivar_cinderbark_offset
 import { cinderbarkUpperItemImageUrl } from './cinderbark_upper_item_art';
 import { bloodmaneUpperItemImageUrl } from './bloodmane_upper_item_art';
 import { disciplinePriestUpperItemImageUrl } from './discipline_priest_upper_item_art';
+import { vanguardDuskhymnUpperItemImageUrl } from './vanguard_duskhymn_upper_item_art';
 import { starwardenUpperItemImageUrl } from './starwarden_upper_item_art';
 import { cinderbarkLowerItemImageUrl } from './cinderbark_lower_item_art';
 import { ignivarSlagstalkerOffsetItemImageUrl } from './ignivar_slagstalker_offset_item_art';
@@ -524,6 +525,7 @@ export function paintedItemImageUrl(id: string): string | null {
     cinderbarkUpperItemImageUrl(id) ??
     bloodmaneUpperItemImageUrl(id) ??
     disciplinePriestUpperItemImageUrl(id) ??
+    vanguardDuskhymnUpperItemImageUrl(id) ??
     starwardenUpperItemImageUrl(id) ??
     cinderbarkLowerItemImageUrl(id) ??
     ignivarSlagstalkerOffsetItemImageUrl(id) ??

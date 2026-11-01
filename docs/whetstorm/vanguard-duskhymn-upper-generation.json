@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_priest_shadow_helmet",
+      "file": "docs/design/whetstorm-art/vanguard-duskhymn-helmet-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted dark fantasy RPG inventory icon: Duskhymn Cowl, an empty shadow priest cloth hood in charcoal violet and deep indigo, antiqued silver trim, layered fabric, and one dim lavender teardrop crystal at brow. No head or person. Complete hood centered with safe margins, subdued dark slate painted vignette background. Warm upper-left light, tactile cloth and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "a774a63c8fab245e3df9a77d8fa47e326efbd18c8151737149d30c0c74f912f2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_priest_shadow_helmet.webp",
+        "sha256": "9941f752e14d96bf8cedb384cfe315887cf761261015d29cdfa2f69c6751b7c2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_priest_shadow_shoulder",
+      "file": "docs/design/whetstorm-art/vanguard-duskhymn-shoulder-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/vanguard-duskhymn-helmet-master.png"
+      ],
+      "prompt": "Original square hand-painted dark fantasy RPG inventory icon: Duskhymn Mantle, one complete symmetrical shadow priest cloth shoulder mantle in charcoal violet and deep indigo, antiqued silver trim, layered fabric and small dim lavender teardrop crystals. Match reference cowl's palette and materials; show only shoulders, no hood, head, torso or person. Full mantle centered with safe margins, subdued dark slate painted vignette background. Warm upper-left light, tactile cloth and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "bdc804d5e363fe28b4c4f7b9f87057a3391ec86b5945d7fbb9eee94fa9e14d19",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_priest_shadow_shoulder.webp",
+        "sha256": "009dbbef448fbfdddf9d2da6a581cf38e1e5426e04b8b20bef5b5f4b13850d7d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_priest_shadow_chest",
+      "file": "docs/design/whetstorm-art/vanguard-duskhymn-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/vanguard-duskhymn-helmet-master.png"
+      ],
+      "prompt": "Original square hand-painted dark fantasy RPG inventory icon: Duskhymn Robe, one complete empty full-length shadow priest cloth robe with sleeves in charcoal violet and deep indigo, antiqued silver trim, layered fabric and one dim lavender teardrop crystal at chest. Match reference cowl's palette and materials; show only robe, no hood, head, hands or person. Full garment centered with safe margins, subdued dark slate painted vignette background. Warm upper-left light, tactile cloth and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "29fa7ed65807f77fb5ec9bb564dc13f327f92917422b9d8eee9b121c3cc131b3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_priest_shadow_chest.webp",
+        "sha256": "f19d5695e7db1e61e5193a389060efd3e2ab7cf2fa122d33afa74530084b5230",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
