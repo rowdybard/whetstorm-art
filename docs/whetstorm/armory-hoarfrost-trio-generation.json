@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "skinId": "hoarfrost_vigil_staff",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original independent square fantasy game inventory painting: Hoarfrost Vigil, a complete silvered staff crowned by one floating cyan ice shard, radiating small frost crystals and faint cold vapor. Deep slate blue painted background, bold diagonal silhouette, readable at 32px; no reference images, text, borders, logos, hands, people, watermark or copied designs.",
+      "master": "docs/design/whetstorm-art/armory/hoarfrost_vigil_staff.png",
+      "masterSha256": "295932b1071bd426347622b10a66ceaa323e0fb2b85558e7e609ff8671759e5d",
+      "shipping": "public/ui/whetstorm/armory/hoarfrost_vigil_staff.webp",
+      "shippingSha256": "a16482e5cd1ea0bede18eaed8d2f98a114cf8a3eff117d70f25f81ad16b3494e",
+      "processing": "Sharp Lanczos3 resize 128x128, WebP quality 84 effort 6",
+      "status": "Original 2D painting; held 3D remains separate. Store disabled; current acquisition unverified."
+    },
+    {
+      "skinId": "everwinter_wand",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original independent square fantasy inventory painting, text-only with no reference images: Shard of Everwinter, a SHORT ONE-HANDED WAND, a single tapered glowing cyan glacier-ice spike projecting from one distinct silver collar and a clearly visible short dark wrapped handle with blunt round butt. The handle has NO blade, point, crystal, or spike at its end. Hoarfrost blooms around the silver collar with faint cold mist. The single ice spike is the ONLY pointed end. Whole wand diagonal and centered against deep slate blue painted background; broad simple silhouette clearly readable at 28 pixels. No sword, dagger, double-ended weapon, second point, text, hands, people, logo, border, or watermark.",
+      "master": "docs/design/whetstorm-art/armory/everwinter_wand.png",
+      "masterSha256": "f12bac81c1c16ea1ee07a16081ea132ebf1edbb704558ae03a8207307100ca46",
+      "shipping": "public/ui/whetstorm/armory/everwinter_wand.webp",
+      "shippingSha256": "cda13043f8d75c50e78f303e53a200c6daa249156914d6dba770b983a03d5ac3",
+      "processing": "Sharp Lanczos3 resize 128x128, WebP quality 84 effort 6",
+      "status": "Original 2D painting; held 3D remains separate. Store disabled; current acquisition unverified."
+    },
+    {
+      "skinId": "winterbite",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original independent square fantasy game inventory painting: Wintergnaw, a complete curved bow of silvered steel and blue ice, glowing cyan frozen core in the riser and one nocked solid ice arrow, faint cold vapor. Deep slate blue painted background, bold silhouette, readable at 32px; no reference images, text, borders, logos, hands, people, watermark or copied designs.",
+      "master": "docs/design/whetstorm-art/armory/winterbite.png",
+      "masterSha256": "17d57249021b6fc7c511962a498fc5e696967e9aa26706ac840076df4eb81784",
+      "shipping": "public/ui/whetstorm/armory/winterbite.webp",
+      "shippingSha256": "ebdfc521ee6a872a55936742c789dcd14f48a668cc92893e3559a2a692c29484",
+      "processing": "Sharp Lanczos3 resize 128x128, WebP quality 84 effort 6",
+      "status": "Original 2D painting; held 3D remains separate. Store disabled; current acquisition unverified."
+    }
+  ]
+}

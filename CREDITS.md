@@ -1865,6 +1865,11 @@ OpenAI's built-in image generation. Prompts and hashes are recorded in
 `docs/whetstorm/armory-fallen-star-trio-generation.json`. These replace 2D
 thumbnails only; historical held 3D models retain their restrictions.
 
+Three Hoarfrost cosmetic thumbnails were generated from text with OpenAI's
+built-in image generation. Prompts and hashes are recorded in
+`docs/whetstorm/armory-hoarfrost-trio-generation.json`. These replace 2D
+thumbnails only; historical held 3D models retain their restrictions.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

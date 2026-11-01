@@ -25,6 +25,7 @@ import { glaciersplitArmorySkinArt } from './armory_glaciersplit_art';
 import { hoarfrostThreeArmorySkinArt } from './armory_hoarfrost_three_art';
 import { fallenStarRangedArmorySkinArt } from './armory_fallen_star_ranged_art';
 import { fallenStarTrioArmorySkinArt } from './armory_fallen_star_trio_art';
+import { hoarfrostTrioArmorySkinArt } from './armory_hoarfrost_trio_art';
 
 export interface WocStoreItemInput {
   itemId: string;
@@ -90,6 +91,7 @@ export function armorySkinArt(skinId: string): string {
     hoarfrostThreeArmorySkinArt(skinId) ??
     fallenStarRangedArmorySkinArt(skinId) ??
     fallenStarTrioArmorySkinArt(skinId) ??
+    hoarfrostTrioArmorySkinArt(skinId) ??
     `${ARMORY_SKIN_ART_DIR}/${skinId}.webp`
   );
 }
