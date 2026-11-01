@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_rogue_combat_helmet",
+      "file": "docs/design/whetstorm-art/combat-rogue-hood-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one empty rogue's leather hood, oxblood leather with blackened steel edging, muted bronze studs and a pale silver crossed-blade emblem at forehead. Broad recognizable hood silhouette with dark empty opening, front view centered on dark blue background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, face, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "b0483e157cbcfc4fd100bf1aad0e977c9eaf68e3ba7f3e6de6752118f736c50b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_combat_helmet.webp",
+        "sha256": "53bc93037c30f4634807b5b8f5db418b8bddfd13489dc46cf941f22e00cbd6f8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_rogue_combat_shoulder",
+      "file": "docs/design/whetstorm-art/combat-rogue-shoulder-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete pair of rogue's leather shoulderpads, oxblood leather with blackened steel edging, muted bronze studs and pale silver crossed-blade emblems. Broad recognizable paired shoulders, empty garment, front view centered on dark blue background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "814ab5fe724d845701140fb72b868388f9797d2c5f03ebef9ed22b7c73193bcb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_combat_shoulder.webp",
+        "sha256": "591562b65c959159c098ad41d8b41b539a1756a0a8c1638bd179ea40abedb177",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_rogue_combat_chest",
+      "file": "docs/design/whetstorm-art/combat-rogue-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete empty rogue's leather tunic, oxblood leather with blackened steel edging, muted bronze studs and a pale silver crossed-blade clasp. Recognizable fitted short torso, shoulders and sleeves, front view centered on dark blue background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, head, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "68e04c67eb225654dddd78cc43597e8a1e80631ab16ac9e9634669be4bc2ffb6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_combat_chest.webp",
+        "sha256": "19d0737fca27960843421f9d2d55f22a33402249e441a2fff3b0563dcb1668a8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

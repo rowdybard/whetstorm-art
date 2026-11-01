@@ -1548,6 +1548,15 @@ Two Wildfang armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/wildfang-lower-generation.json`.
 
+Two Grovespring armor paintings were generated with OpenAI's built-in image
+generation; prompts, references, and hashes are recorded in
+`docs/whetstorm/ignivar-grovespring-lower-generation.json`.
+
+Three Brawlmark and two Galeborn armor paintings were generated with OpenAI's
+built-in image generation; prompts, references, and hashes are recorded in
+`docs/whetstorm/combat-rogue-upper-generation.json` and
+`docs/whetstorm/galeborn-lower-generation.json`.
+
 Two Nightcut armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/nightcut-lower-generation.json`.

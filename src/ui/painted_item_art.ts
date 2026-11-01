@@ -103,6 +103,9 @@ import { tempestwritLowerItemImageUrl } from './tempestwrit_lower_item_art';
 import { beastHunterUpperItemImageUrl } from './beast_hunter_upper_item_art';
 import { beastHunterLowerItemImageUrl } from './beast_hunter_lower_item_art';
 import { ignivarGrovespringUpperItemImageUrl } from './ignivar_grovespring_upper_item_art';
+import { ignivarGrovespringLowerItemImageUrl } from './ignivar_grovespring_lower_item_art';
+import { combatRogueUpperItemImageUrl } from './combat_rogue_upper_item_art';
+import { galebornLowerItemImageUrl } from './galeborn_lower_item_art';
 import { nightcutUpperItemImageUrl } from './nightcut_upper_item_art';
 import { nightcutLowerItemImageUrl } from './nightcut_lower_item_art';
 import { galebornUpperItemImageUrl } from './galeborn_upper_item_art';
@@ -556,6 +559,9 @@ export function paintedItemImageUrl(id: string): string | null {
     beastHunterUpperItemImageUrl(id) ??
     beastHunterLowerItemImageUrl(id) ??
     ignivarGrovespringUpperItemImageUrl(id) ??
+    ignivarGrovespringLowerItemImageUrl(id) ??
+    combatRogueUpperItemImageUrl(id) ??
+    galebornLowerItemImageUrl(id) ??
     nightcutUpperItemImageUrl(id) ??
     nightcutLowerItemImageUrl(id) ??
     galebornUpperItemImageUrl(id) ??

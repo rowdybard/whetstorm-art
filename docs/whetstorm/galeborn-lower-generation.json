@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_shaman_enhancement_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_enhancement_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/items/vanguard_shaman_enhancement_chest.png"
+      ],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting, a matching pair of complete empty enhancement shaman mail legguards with clearly separated legs. Use supplied original chest as STYLE reference for rugged forest-green leather, hammered iron, bronze trim, swept feather-like metal fins and amber windstones. Full centered silhouette on dark muted charcoal background, painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "3857f604cd6b1ba92e9cd310ea2f82a1317bd96e57f26f33b047c94f8fc9376d",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_enhancement_legs.webp",
+        "sha256": "16db5b0de0627d5513ecfef3fca2054663d66c453a1e9ec53829d3247023fb79",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_shaman_enhancement_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_enhancement_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/items/vanguard_shaman_enhancement_chest.png"
+      ],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting, a matching pair of complete empty enhancement shaman mail gloves with clearly recognizable five-finger hands. Use supplied original chest as STYLE reference for rugged forest-green leather, hammered iron, bronze trim, swept feather-like metal fins and amber windstones. Full centered silhouette on dark muted charcoal background, painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "5efb659a7dc561ab12bd36451668cc6c71df1aba717919bcdba40e20a1ebea64",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_enhancement_gloves.webp",
+        "sha256": "94be3e42fe27fc67e9d40d0bf4921236ad43d2bdd39a3582d76afd08dfbbf1bb",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

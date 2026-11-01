@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "grovespring_gloves",
+      "file": "docs/design/whetstorm-art/ignivar-grovespring-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-grovespring-helmet-master.png"
+      ],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: Grovespring Grips, a compact natural pair of empty druid healer leather gloves in moss green and warm brown, bronze edging, stylized leaf-shaped leather trim and small pale turquoise dewstones. Match the reference cowl's palette and materials, show only gloves, no person. Full hand silhouettes centered with safe margins, dark forest-green painted vignette background, no landscape, plants or environment. Warm upper-left light, tactile hand-painted leather, sharp outline. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "19e1be3b64bb6fdd665daadc93a2b1725ad89689ab16bff0babaa384d743be4d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/grovespring_gloves.webp",
+        "sha256": "4fe4f4648387752fa3f77e48a6425f0f79bf2b89a265d8e6879a7361e5565ad7",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "grovespring_legs",
+      "file": "docs/design/whetstorm-art/ignivar-grovespring-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-grovespring-helmet-master.png"
+      ],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: Grovespring Breeches, one complete empty pair of druid healer leather trousers from waist to ankle in moss green and warm brown, bronze edging, stylized leaf-shaped leather trim and small pale turquoise dewstone at waist. Match the reference cowl's palette and materials, show only trousers, no boots, body or person. Full recognizable pants silhouette centered with safe margins, dark forest-green painted vignette background, no landscape, plants or environment. Warm upper-left light, tactile hand-painted leather, sharp outline. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "c5572e71f6ca782e2eea104e6b2874c4aa622cfac2c4f20055f885f34ac16ef3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/grovespring_legs.webp",
+        "sha256": "723797d3a110ad70454489b29f6dadc9d515e1b062b4688792dcde194a3955f0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
