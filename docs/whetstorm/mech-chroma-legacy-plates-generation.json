@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "pink_forest_armor_plate",
+      "file": "docs/design/whetstorm-art/items/pink_forest_armor_plate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO inventory painting: Pink Forest mech chroma armor plate, one detached compact futuristic armored plate module, pink main plate with forest-green secondary trim, visible sturdy layered metal with central inset. Three-quarter view, complete object centered with generous safe margins. Premium hand-painted game item art, simple subdued charcoal vignette, warm top-left light, strong silhouette and readable at 28px grayscale. No mech, character, hands, text, frame, watermark or extra objects.",
+      "status": "original art candidate",
+      "sha256": "d01353080d1022bb3be73d597f35592a541a5bb141d55c45b7cbc216780ed90a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pink_forest_armor_plate.webp",
+        "sha256": "1993ae6f28b1f62834df312fad894bb83f2b2b628f3133cae53422949c00ca87",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "amethyst_silver_armor_plate",
+      "file": "docs/design/whetstorm-art/items/amethyst_silver_armor_plate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO inventory painting: Amethyst Silver mech chroma armor plate, one detached compact futuristic armored plate module, amethyst-purple main plate with silver secondary trim, visible sturdy layered metal with central inset. Three-quarter view, complete object centered with generous safe margins. Premium hand-painted game item art, simple subdued charcoal vignette, warm top-left light, strong silhouette and readable at 28px grayscale. No mech, character, hands, text, frame, watermark or extra objects.",
+      "status": "original art candidate",
+      "sha256": "1094f09442995e401bd1b410a3265865e8c485a403cce9a8dd9be764894bb1f4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/amethyst_silver_armor_plate.webp",
+        "sha256": "d4670f4e0d5c81b6c79dc3a061bc6656a0e715b786fadaefb2e0482c31d4cbe1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ivory_copper_armor_plate",
+      "file": "docs/design/whetstorm-art/items/ivory_copper_armor_plate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO inventory painting: Ivory Copper mech chroma armor plate, one detached compact futuristic armored plate module, ivory main plate with copper secondary trim, visible sturdy layered metal with central inset. Three-quarter view, complete object centered with generous safe margins. Premium hand-painted game item art, simple subdued charcoal vignette, warm top-left light, strong silhouette and readable at 28px grayscale. No mech, character, hands, text, frame, watermark or extra objects.",
+      "status": "original art candidate",
+      "sha256": "8941a256e2c5773a5a72e50bec1f6ae34a50b67b370b64511f9ce393e086d268",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ivory_copper_armor_plate.webp",
+        "sha256": "f74755e185405f427b1d3ac8607cd17e443724a091c7c8f2726433cfd77e41eb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "onyx_gold_armor_plate",
+      "file": "docs/design/whetstorm-art/items/onyx_gold_armor_plate.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO inventory painting: Onyx Gold mech chroma armor plate, one detached compact futuristic armored plate module, onyx-black main plate with gold secondary trim, visible sturdy layered metal with central inset. Three-quarter view, complete object centered with generous safe margins. Premium hand-painted game item art, simple subdued charcoal vignette, warm top-left light, strong silhouette and readable at 28px grayscale. No mech, character, hands, text, frame, watermark or extra objects.",
+      "status": "original art candidate",
+      "sha256": "9f8ab3cea6a9069c52d753c2751be25026f261803a33284c9d594529674c5fb6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/onyx_gold_armor_plate.webp",
+        "sha256": "da547b13da31023789631c61f84a8782fc48a6ec90e8248dfaa72e7d254dae99",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
