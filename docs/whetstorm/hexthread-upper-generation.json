@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "hexthread_helmet",
+      "file": "docs/design/whetstorm-art/items/hexthread_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Hexthread Hood: one empty warlock cloth hood in deep plum and near-black, aged silver trim, stitched angular diamond motifs and one small acid-green gemstone accent at brow. No head, face or person. Whole hood centered, clear silhouette with safe margins. Dark violet painted vignette, premium hand-painted fantasy art, tactile cloth folds, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "4ad8227f9c3e6ab038e91c816c91658568544d486c64ff281f0c1c27759c2e30",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hexthread_helmet.webp",
+        "sha256": "4fc4f6e326f694f5a3d61150822ea7526fcf155a1d63206e07fdbbe4396bf643",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "hexthread_shoulder",
+      "file": "docs/design/whetstorm-art/items/hexthread_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Hexthread Mantle: a matched pair of empty warlock cloth shoulder pieces in deep plum and near-black, aged silver trim, stitched angular diamond motifs and small acid-green gemstone accents. No head, torso or person. Both shoulders centered, clear paired silhouette with safe margins. Dark violet painted vignette, premium hand-painted fantasy art, tactile cloth folds, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "a6ff936354b9972be8e4e8033617119798c00e29468ea8de9b44851b5b30a26c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hexthread_shoulder.webp",
+        "sha256": "65255037cf10cd4305afe877a6cb7ce7cac8924b9adda85b8ea2f5880be6a253",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "hexthread_chest",
+      "file": "docs/design/whetstorm-art/items/hexthread_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Hexthread Robe: one complete empty front-facing warlock cloth robe in deep plum and near-black, aged silver trim, stitched angular diamond motifs and one small acid-green gemstone at chest. No head, hands or person. Whole robe centered, clear garment silhouette with safe margins. Dark violet painted vignette, premium hand-painted fantasy art, tactile cloth folds, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "f390f4dfdca79015e1d962a651305a3a3c1ded182f8b71423bb840562fcc8808",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hexthread_chest.webp",
+        "sha256": "e6146e24bf536db125c0c779b3c62cde1ab35414170200647607a2dd76fea542",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_warrior_prot_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_prot_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Ironmarch Helm, one complete sturdy warrior helmet of cool gunmetal with aged brass rivets and deep blue accents, broad squared shield-like brow and narrow visor. Centered front view, no wearer. Premium hand-painted dark fantasy, muted blue-charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "b6e9e0dd3c9be143702d45bebd313c6eec9bf2a8e37eacc49c4683063f1bd69e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_prot_helmet.webp",
+        "sha256": "7b1da8437c816b82dbf44de7eb1747db20cfff80b916eea68ffe2d86f546ea93",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warrior_prot_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_prot_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Ironmarch Spaulders, one compact pair of sturdy warrior shoulder plates of cool gunmetal with aged brass rivets and deep blue accents, broad squared shield-like shapes. Centered front view, no body. Premium hand-painted dark fantasy, muted blue-charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "5572bf427901ac64dfdb03778c3fd5bda8ae828f2df38a07fe10d1f0cc76612f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_prot_shoulder.webp",
+        "sha256": "642ba1a3b27236d1563828724b7aa4dd02c7d899da31fbf082274b4e5ad1f252",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warrior_prot_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_prot_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Ironmarch Chestguard, one complete sturdy warrior torso armor of cool gunmetal over visible mail, aged brass rivets and deep blue accents, broad squared shield-like chest plate. Centered front view, no wearer, head, hands or arms. Premium hand-painted dark fantasy, muted blue-charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "2c592f57fc72141261269320cf0f6fb90d497ad72a6d714a0336b2d20d8e3d51",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_prot_chest.webp",
+        "sha256": "f7b0fa88be7b54ec042c2c220d834cccec71bdc1073a0ba5861c3b6d0b156678",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

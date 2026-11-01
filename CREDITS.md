@@ -1473,6 +1473,15 @@ Two Shieldvow armor paintings were generated with OpenAI's built-in image
 generation; prompts, references, and hashes are recorded in
 `docs/whetstorm/shieldvow-lower-generation.json`.
 
+Three Ironmarch and three Hexthread armor paintings were generated with OpenAI's
+built-in image generation; prompts and hashes are recorded in
+`docs/whetstorm/ironmarch-upper-generation.json` and
+`docs/whetstorm/hexthread-upper-generation.json`.
+
+Three Farsight armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/marksmanship-hunter-upper-generation.json`.
+
 Two Ruincaller armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/ruincaller-lower-generation.json`.

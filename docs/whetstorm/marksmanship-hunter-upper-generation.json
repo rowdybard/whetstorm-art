@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_hunter_marksmanship_helmet",
+      "file": "docs/design/whetstorm-art/marksmanship-hood-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one empty hunter's leather coif, slate-blue leather with tawny brown reinforcement, brass trim and a pale gold star-shaped sight emblem at forehead. Broad recognizable hood silhouette with dark empty opening, front view centered on dark muted blue background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, face, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "300d327a07a51b9f63bd8d996cde5b42d27e7a7bdaa0d6008026d14157f754c0",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_marksmanship_helmet.webp",
+        "sha256": "83ca9ba8c6bbdbc0dfb9f99a5b1a6de157c745aa6cd192a94efa2922d080eb61",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_hunter_marksmanship_shoulder",
+      "file": "docs/design/whetstorm-art/marksmanship-shoulder-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete pair of hunter's leather spaulders, slate-blue leather with tawny brown reinforcement, brass trim and pale gold star-shaped sight emblems. Broad recognizable paired shoulders, empty garment, front view centered on dark muted blue background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "c6eade181ac8dea4b66d473935dcd462357f9b1440eb42c39b1bf07f131221e3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_marksmanship_shoulder.webp",
+        "sha256": "a1eb84c56aabf16f9bfcbab1e9109b70a107d67ee55cd734920164d7d369eae0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_hunter_marksmanship_chest",
+      "file": "docs/design/whetstorm-art/marksmanship-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete empty hunter's leather jerkin, slate-blue leather with tawny brown reinforcement, brass trim and pale gold star-shaped sight clasp. Recognizable fitted short torso, shoulders and sleeves, front view centered on dark muted blue background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, head, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "764eaf9642c433e5926128fe4ab4c81c8689c21cea64bcf765af1aec06352c5f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_marksmanship_chest.webp",
+        "sha256": "edf52652f78ceaf5eaade0bf7fecd03a39800dcbe4c2227653e3fc16d64e0636",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
