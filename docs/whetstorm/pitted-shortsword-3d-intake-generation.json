@@ -1,0 +1,12 @@
+{
+  "itemId": "worn_sword",
+  "name": "Pitted Shortsword",
+  "output": "docs/design/whetstorm-concepts/pitted-shortsword-3d-intake.png",
+  "output_sha256": "5e2ed2e75a96c7e6e5440d6d9ea7e33efcc87099db79ee24a1e70344db302fb9",
+  "source": "OpenAI built-in image generation",
+  "reference": "docs/design/whetstorm-art/items/worn_sword.png",
+  "reference_sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051",
+  "reference_provenance": "docs/whetstorm/starter-item-art-generation.json",
+  "prompt": "Create a standalone 2D 3D-model intake reference from the provided Whetstorm original Pitted Shortsword painting as the sole visual reference. Show exactly one complete modest straight double-edged iron shortsword, tip upward, vertical neutral front view, whole blade and handle with generous margin, isolated on a plain white background. Preserve the reference's broad plain slightly pitted iron blade, short simple iron crossguard, brown leather-wrapped one-handed grip and plain faceted iron pommel. Clearly separate the grip, guard, blade and pommel for modeling; no glow, ornament, sheath, person, hand, words, logos, watermark, collage or added objects.",
+  "constraints": "2D planning only; no mesh made or runtime change. The existing sword_a GLB source and license remain unresolved, not established as prohibited. Grip, stow, both-hand applicability, animation and combat fit, clipping, skin override, preload and distribution verification remain pending."
+}

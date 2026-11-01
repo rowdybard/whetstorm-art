@@ -507,6 +507,19 @@ retries, taxes, minimums and integration work. API and Studio credits are
 separate; the API figures are not a conversion of Studio credits into dollars.
 Check current terms, privacy, availability and actual task pricing before use.
 
+## Starter weapon intake references
+
+Two original 2D planning references are available for the Warrior's Pitted
+Shortsword (`worn_sword`) and Rogue's Rusty Dagger (`rusty_dagger`):
+`docs/design/whetstorm-concepts/pitted-shortsword-3d-intake.png` and
+`docs/design/whetstorm-concepts/rusty-dagger-3d-intake.png`. Their prompts,
+original Whetstorm source paintings, hashes and limits are recorded in the
+corresponding `docs/whetstorm/*-3d-intake-generation.json` files. These are
+not models or proof that replacement is required: the existing `sword_a` and
+`dagger_a` model provenance still needs confirmation. Any eventual model must
+be checked for hand attachment, both hands where applicable, stow, animation,
+skins, enhancement effects and runtime integration.
+
 ## Next evidence needed
 
 1. Reconcile all consumers of the listed restricted weapon collections.

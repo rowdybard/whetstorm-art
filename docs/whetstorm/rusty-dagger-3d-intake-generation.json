@@ -1,0 +1,15 @@
+{
+  "item_id": "rusty_dagger",
+  "asset": "docs/design/whetstorm-concepts/rusty-dagger-3d-intake.png",
+  "purpose": "Standalone 2D model-intake reference; not a model.",
+  "generator": "OpenAI built-in image generation",
+  "reference": {
+    "path": "docs/design/whetstorm-art/items/rusty_dagger.png",
+    "sha256": "815c4afcc968e817c24a5b4518bf443e774db1569dd5543cc2704e4d4b46283c",
+    "provenance": "docs/whetstorm/starter-item-art-generation.json"
+  },
+  "prompt": "Use case: stylized-concept. Create a standalone 2D model-intake reference for the Rogue starter rusty dagger, using ONLY the supplied original Whetstorm item painting as visual reference. Preserve the short broad triangular weathered iron blade with orange rust patches, simple small metal guard, compact dark leather-wrapped handle and blunt metal pommel. Show a single whole dagger, tip through pommel, clear three-quarter view with generous margins against plain pure white. No hands, sheath, props, text, logos, people, ground or cast shadow. This is a modeling reference, not a 3D model.",
+  "output_sha256": "d48af95e35703a2a75ec724eb5766bb2f59697336a8f9468615ea1275e06a1e0",
+  "source_output": "exec-d09b786f-92cc-4f33-b020-724fe78ade65.png",
+  "limitations": "Underlying existing GLB rights are unverified. No model made or inspected. Grip, left- and right-hand fit, stow and combat animation validation remain pending."
+}
