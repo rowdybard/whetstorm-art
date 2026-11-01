@@ -1740,6 +1740,10 @@ generation; its prompt and hash are recorded in
 `docs/whetstorm/lantern-porter-mount-generation.json`. It is an exploratory
 concept, not a production model or an approved replacement.
 
+One unshipped analytical shout-dust candidate and its generator are described
+in `docs/whetstorm/shout-dust-candidate.md`. It uses no input images and is
+not an accepted runtime replacement.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
