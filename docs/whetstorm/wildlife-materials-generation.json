@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "soft_down",
+      "file": "docs/design/whetstorm-art/items/soft_down.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Soft Down Tuft: one compact tuft of soft pale cream down feathers, delicate wispy barbs gathered at the base, no bird. Centered complete and large with safe margins on dark muted woodland painted vignette. Premium hand-painted fantasy inventory art, tactile feather softness, warm upper-left light, cool shadows, clear silhouette readable at 28 pixels. No person, text, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; no confirmed current drops; may exist in legacy or dev inventory",
+      "sha256": "35f61083c8df631de62c6764646e0d60bcc289dcb42465834272d850742e4364",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/soft_down.webp",
+        "sha256": "7fd393da64c6cf78bd30d30e0c9ab522ad7eeb39c7cb3844bea65d1aff3a13b9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "amber_hide",
+      "file": "docs/design/whetstorm-art/items/amber_hide.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Amber Hide: one compact folded amber-gold animal hide, supple fur on one edge and warm tan leather underside, no animal or body. Centered complete and large with safe margins on dark muted woodland painted vignette. Premium hand-painted fantasy inventory art, tactile fur and hide, warm upper-left light, cool shadows, clear silhouette readable at 28 pixels. No person, text, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; no confirmed current drops; may exist in legacy or dev inventory",
+      "sha256": "f6eecbd0a60974d0802ae8f17e8a8adc9b748fb651fda7c43eaf3352b047a595",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/amber_hide.webp",
+        "sha256": "30b6d331ea52499c4d5f16c25cab0acb79793d26b18f4f8e5ba4294e033ad078",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "stag_antler",
+      "file": "docs/design/whetstorm-art/items/stag_antler.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Branching Antler: one single naturally shed branching stag antler, warm ivory and weathered brown bone, full base and all tines visible, no skull, no animal. Centered complete and large diagonally with safe margins on dark muted woodland painted vignette. Premium hand-painted fantasy inventory art, tactile bone, warm upper-left light, cool shadows, clear silhouette readable at 28 pixels. No person, text, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; no confirmed current drops; may exist in legacy or dev inventory",
+      "sha256": "38eafd6365c46124cddac19a82efab07537936a06bf564a03af4f48b30288dd1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/stag_antler.webp",
+        "sha256": "0b321f0789e514ffadd48c38663c77006c98ad244519123206298d7baabb3c08",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
