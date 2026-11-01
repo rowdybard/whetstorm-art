@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "cinderbark_helmet",
+      "file": "docs/design/whetstorm-art/items/cinderbark_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Cinderbark Cowl: one empty druid leather hood of dark chestnut hide reinforced with overlapping charred bark plates, moss-green stitching, bronze leaf ornaments and restrained ember cracks. No head, face, animal head or person. Entire hood centered with clear silhouette and safe margins. Dark muted forest painted vignette, premium hand-painted fantasy art, tactile leather and bark, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "1bc900bfef1871770bd6730b2aa9d8f84170590960d003a5e11e4404f2c899e8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cinderbark_helmet.webp",
+        "sha256": "b646b3e0e060f816f2f5927e54b3b74d9b49698cd008feed93fcc5c7e12c53ca",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "cinderbark_shoulder",
+      "file": "docs/design/whetstorm-art/items/cinderbark_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Cinderbark Spaulders: one matching pair of empty druid leather shoulder pieces of dark chestnut hide reinforced with overlapping charred bark plates, moss-green stitching, bronze leaf ornaments and restrained ember cracks. No head, torso, animal head or person. Both shoulders centered with clear paired silhouette and safe margins. Dark muted forest-colored painted vignette, no landscape, premium hand-painted fantasy art, tactile leather and bark, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "24fde0102d550e2aab415715e6ac4603d504873bd4c60b105aa2167e8237ae1b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cinderbark_shoulder.webp",
+        "sha256": "eb2f71ae4ba7d84cd11141de117cf2cb5ddb2d9d22de0abef01bd92c22959ae9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "cinderbark_chest",
+      "file": "docs/design/whetstorm-art/items/cinderbark_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Cinderbark Tunic: one complete empty front-facing druid leather tunic of dark chestnut hide reinforced with overlapping charred bark plates, moss-green stitching, bronze leaf ornaments and restrained ember cracks. No head, hands, animal head or person. Entire torso garment centered with clear silhouette and safe margins. Dark muted forest-colored painted vignette, no landscape, premium hand-painted fantasy art, tactile leather and bark, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "f851954f7e70ceac95f77d7f7d71cb257d45bd9e5ef43b2a9da5ea7662424a14",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cinderbark_chest.webp",
+        "sha256": "841389859ad5589bdb81fad4e4b900e6f3399d383fb1ad6edb7273c69247bf9b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

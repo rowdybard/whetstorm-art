@@ -57,6 +57,7 @@ import { sovereignEmberforgeItemImageUrl } from './sovereign_emberforge_item_art
 import { rimewardenUpperItemImageUrl } from './rimewarden_upper_item_art';
 import { cryptwalkerRingTierItemImageUrl } from './cryptwalker_ring_tier_item_art';
 import { ignivarCinderbarkOffsetItemImageUrl } from './ignivar_cinderbark_offset_item_art';
+import { cinderbarkUpperItemImageUrl } from './cinderbark_upper_item_art';
 import { ignivarSlagstalkerOffsetItemImageUrl } from './ignivar_slagstalker_offset_item_art';
 import { ignivarMoonscorchOffsetItemImageUrl } from './ignivar_moonscorch_offset_item_art';
 import { ignivarMoonscorchUpperItemImageUrl } from './ignivar_moonscorch_upper_item_art';
@@ -513,6 +514,7 @@ export function paintedItemImageUrl(id: string): string | null {
     rimewardenUpperItemImageUrl(id) ??
     cryptwalkerRingTierItemImageUrl(id) ??
     ignivarCinderbarkOffsetItemImageUrl(id) ??
+    cinderbarkUpperItemImageUrl(id) ??
     ignivarSlagstalkerOffsetItemImageUrl(id) ??
     ignivarMoonscorchOffsetItemImageUrl(id) ??
     ignivarMoonscorchUpperItemImageUrl(id) ??
