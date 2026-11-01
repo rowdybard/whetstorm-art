@@ -1,0 +1,14 @@
+{
+  "asset": "docs/design/whetstorm-concepts/cinderbrand-sword-3d-intake.png",
+  "purpose": "Standalone 2D 3D-intake concept for the Cinderbrand Sword cosmetic; not a model.",
+  "generator": "OpenAI built-in image generation",
+  "reference": {
+    "path": "docs/design/whetstorm-art/armory/cinderbrand_sword.png",
+    "sha256": "bdc30bc25157eca95beac3414b4785397963a27d445f209c016fed258b0acbf5",
+    "provenance": "docs/whetstorm/armory-emberwrought-original-generation.json"
+  },
+  "prompt": "Use case: stylized-concept. Create a standalone 3D-intake concept of Cinderbrand Sword, using the supplied Whetstorm-original painting as the sole visual reference. Preserve its recognizable dark forged blade, glowing ember-orange central fissures, spiked swept guard with round fiery gem, wrapped dark grip, and angular gem pommel. Show one complete sword from tip to pommel with generous margins in a clear three-quarter view on a pure plain white background. Clean material definition for a modeler. No hands, people, text, logo, watermark, scene, ground, cast shadow, smoke or floating particles.",
+  "output_sha256": "3d1b472313f25db8611f8e8dec6bda9fe636859209b9989aa1bb72b562945023",
+  "source_output": "exec-5bd95fe0-5293-4df2-8957-745f9aa67f76.png",
+  "limitations": "Existing owners can use the cosmetic subject to equipment and account state; current acquisition is unverified. This image is not a model. Grip, stow, animation, VFX, and tier representation require independent 3D validation. Review how the depicted intrinsic glow interacts with enhancement effects and the +15 visual signature."
+}

@@ -1,0 +1,12 @@
+{
+  "skinId": "guildmark_arming_sword",
+  "name": "Guildmark Arming Sword",
+  "output": "docs/design/whetstorm-concepts/guildmark-arming-sword-3d-intake.png",
+  "output_sha256": "886ba90360d22e7e769c979ba6dc635724c97a0d0a62b3991adcccca538ca960",
+  "source": "OpenAI built-in image generation",
+  "reference": "docs/design/whetstorm-art/armory/guildmark_arming_sword.png",
+  "reference_sha256": "0e7f7184f0f787c04cd8dbe74a6aea33f951e0c051e464168393c37bdd7582ce",
+  "reference_provenance": "docs/whetstorm/armory-guildmark-original-generation.json",
+  "prompt": "Use case: stylized-concept. Create a standalone 3D-intake concept for Guildmark Arming Sword, using the supplied Whetstorm-original armory painting as the sole visual reference. Show exactly one complete practical one-handed arming sword, retaining its blued steel straight double-edged blade, bronze fishtail crossguard, teal leather wrapped grip, and round bronze pommel with abstract star ornament. Three-quarter view showing solid form, centered with generous margins. Isolated on pure white background. No hands, people, lettering, text, floor, cast shadows, logos or watermark.",
+  "constraints": "2D planning only. Equipped cosmetic use is conditional on account ownership and matching weapon; current acquisition is unverified. No model created or inspected; grip, stow, tier and runtime fit are not reviewed."
+}

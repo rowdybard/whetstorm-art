@@ -1839,6 +1839,12 @@ Two Eastbrook world-quest aura paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/whetstorm/eastbrook-quest-auras-generation.json`.
 
+Two owned-cosmetic weapon intake concepts were generated with OpenAI's built-in
+image generation from original Whetstorm armory paintings; prompts and hashes
+are recorded in `docs/design/whetstorm-concepts/guildmark-arming-sword-3d-intake.json`
+and `docs/whetstorm/cinderbrand-sword-3d-intake-generation.json`. They are
+concepts, not production models.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
