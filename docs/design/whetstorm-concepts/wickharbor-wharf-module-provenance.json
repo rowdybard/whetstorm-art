@@ -1,0 +1,9 @@
+{
+  "asset": "wickharbor-wharf-module.png",
+  "source": "OpenAI built-in image generation",
+  "reference_images": [],
+  "status": "Independent text-only concept for review and potential future 3D modeling; not a shipping model or a measured layout.",
+  "prompt": "Use case: stylized-concept. Original standalone 3D modeling concept designed from ordinary wooden piers and functional needs only: one isolated weathered timber ferry wharf module, a broad level plank walking deck on simple support piles, a short stair connection at one end, simple railings along two sides, and a wide completely unblocked boarding edge for a ferry. Warm worn wood and restrained forged iron, Whetstorm stylized fantasy hand-painted look with bold clean shapes. Whole module in clear three-quarter view with white margin on plain pure white background. No boat, water, shoreline, people, cargo, lettering, text, logos, watermark, ground plane or cast shadow. No fixed dimensions. No reference images.",
+  "sha256": "3ab5a14db264f74e2c30161f7afcdcf8a8f80ab419c38f9a9389dafad778bfe3",
+  "unverified": ["Simulation deck and boarding elevations", "Collision and walkability", "Placement and terrain connection", "Ferry clearance and boarding alignment", "Graphics-tier critical geometry", "3D fit and in-game appearance"]
+}
