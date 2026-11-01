@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_rogue_combat_legs",
+      "file": "docs/design/whetstorm-art/combat-rogue-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/combat-rogue-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one complete pair of empty rogue leather breeches, clearly separated legs ending at ankle cuffs, oxblood leather with blackened steel edging, muted bronze studs and a pale silver crossed-blade emblem at waist. Match the supplied tunic's materials, palette, painted rendering and dark blue background; show only breeches with no boots or person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "9811394b02e9197803ea049b110aef6cb93db954b75a8c98f504441caed08fbd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_combat_legs.webp",
+        "sha256": "6ab8763aba7333ec2a0a118bdc5e56eaf27b02599db4d1723cba5f64af45a0e0",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_rogue_combat_gloves",
+      "file": "docs/design/whetstorm-art/combat-rogue-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/combat-rogue-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one pair of empty rogue leather gloves, recognizable fingers and cuffs, oxblood leather with blackened steel edging, muted bronze studs and pale silver crossed-blade emblems. Match the supplied tunic's materials, palette, painted rendering and dark blue background; show only gloves with no person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "2a69a9e407724faf8bc92837669dcbcfc379683b08da4d7a878b789b2cf0d570",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_combat_gloves.webp",
+        "sha256": "842feb4411cc67f95c29504b64e866fe2cb1d0b6758024ad674a23761b4a9ee5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

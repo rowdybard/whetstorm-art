@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_shaman_restoration_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_restoration_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: one restoration shaman mail circlet, weathered sea-green bronze and pale silver, a central smooth pearl framed by curling wave forms, delicate linked chain. Full centered silhouette against dark muted deep blue background, painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "9817980f94b6fc864497a0b752b8a8babfef4421e545076246c377448c3d003f",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_restoration_helmet.webp",
+        "sha256": "adac268a9045a646a3ea5c13d47c375376e4866d51bd87afe143c2459dbd895d",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_shaman_restoration_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_restoration_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: pair of restoration shaman mail shoulder mantles, weathered sea-green bronze and pale silver, a smooth pearl on each framed by curling wave forms, delicate linked chain. Full centered silhouette against dark muted deep blue background, painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "7a40a503c0ad0d003810588cedac7d4847d423cd961e3cfdd8af9b4d3c411ce4",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_restoration_shoulder.webp",
+        "sha256": "0f72bd42cf53c174762f1a10bd075da9d9e3a719ce5adec1c31a2b6b1a6cb475",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_shaman_restoration_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_restoration_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: one restoration shaman mail hauberk, weathered sea-green bronze and pale silver, a central smooth pearl framed by curling wave forms, layered scales and linked chain. Full centered silhouette against dark muted deep blue background, painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "0094a97bc15e700714464f41c13b195723268acad0efbe30c9f6e1586db0487c",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_restoration_chest.webp",
+        "sha256": "9f3f5cf77cf1eeeed6681ea18495b25bed98c5a7e0f9c4bf06677f3c105e57b8",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

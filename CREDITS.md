@@ -1561,6 +1561,14 @@ Three Cinderbark armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/cinderbark-upper-generation.json`.
 
+Two Brawlmark armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/combat-rogue-lower-generation.json`.
+
+Three Brineward armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/brineward-upper-generation.json`.
+
 Two Nightcut armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/nightcut-lower-generation.json`.
