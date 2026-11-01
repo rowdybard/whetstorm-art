@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "moonscorch_waistwrap",
+      "file": "docs/design/whetstorm-art/ignivar-moonscorch-waistwrap-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory painting, square composition: a druid spellcaster's supple plum-purple leather waistwrap forming a clear oval loop, moon-silver crescent clasp, overlapping pale silver leaf motifs and a few warm ember stitches. Complete centered belt on muted dark blue background, painterly fantasy illustration, luminous readable silhouette at 32 pixels. No text, lettering, border, watermark, logo, person or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "1269a2e3aa86939ab76c2f2f566135a2e7b71c971b45a3ebe50012d197046e35",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonscorch_waistwrap.webp",
+        "sha256": "2016d45e77332a841baea96641c9f1244f6e6931d909af957f9c3ed8a6cf4b23",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "scorchgrove_striders",
+      "file": "docs/design/whetstorm-art/ignivar-scorchgrove-striders-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory painting, square composition: a pair of druid spellcaster's supple plum-purple leather ankle boots with moon-silver crescent ornaments, pale silver leaf motifs and a few warm ember stitches. Complete centered footwear on muted dark blue background, painterly fantasy illustration, luminous readable silhouette at 32 pixels. No text, lettering, border, watermark, logo, person or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "8d9695617e122781a83fd1869ffa687371c7e833f28a209292338b7da09277f8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/scorchgrove_striders.webp",
+        "sha256": "058bf80b88de69893fc87b8856b1cf4757a7701e3c47b293be28e94a0e8118bb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

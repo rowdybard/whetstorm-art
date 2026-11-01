@@ -1369,6 +1369,18 @@ Two Slagstalker armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/ignivar-slagstalker-offset-generation.json`.
 
+Two Moonscorch armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/ignivar-moonscorch-offset-generation.json`.
+
+Three Warspirit Emberscale armor paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/ignivar-warspirit-upper-generation.json`.
+
+Three Emberlash armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/emberlash-upper-generation.json`.
+
 Two Chained Ember Choker tier paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/chained-ember-choker-tiers-original/chained-ember-choker-provenance.json`.

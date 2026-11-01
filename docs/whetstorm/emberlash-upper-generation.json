@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_mage_fire_helmet",
+      "file": "docs/design/whetstorm-art/emberlash-cowl-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory icon painting, square composition: one empty fire mage's deep charcoal cloth cowl with sharply shaped hood, crimson lining, warm copper-gold trim and a single glowing ember-shaped forehead ornament. Centered complete object against dark muted blue background, hand-painted fantasy illustration, large clear silhouette readable at 28 pixels. No person, text, lettering, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "21245335310fbd2e79cd8d903dcd25c13ca8ef2fb9b9afe3827a9deab34a4b6f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_mage_fire_helmet.webp",
+        "sha256": "7524ca869df4c459ce7da370988f90d431f5cf07aa60948cefc821ffe448c229",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_mage_fire_shoulder",
+      "file": "docs/design/whetstorm-art/emberlash-mantle-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory icon painting, square composition: one complete fire mage shoulder mantle, a symmetrical pair of swept charcoal cloth shoulder pieces with crimson lining, copper-gold trim and glowing ember-shaped ornaments. Centered isolated armor against dark muted blue background, hand-painted fantasy illustration, large clear shoulder silhouette readable at 28 pixels. No person, text, lettering, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "20b79a89262b2754e8e6f99c7808d0d0fe6cae491a7300f9476fe39cef9eee6d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_mage_fire_shoulder.webp",
+        "sha256": "9a623d9c7e667ba9b64573bb31d5565f6e9e42ace889650a223c20bd12e65b65",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_mage_fire_chest",
+      "file": "docs/design/whetstorm-art/emberlash-robes-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory icon painting, square composition: one complete fire mage's long charcoal cloth robe with a crimson front panel, copper-gold edging and glowing ember-shaped chest clasp. Empty garment with recognizable shoulders, sleeves, waist and flared hem, centered against dark muted blue background, hand-painted fantasy illustration, large clear silhouette readable at 28 pixels. No person, text, lettering, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "f90242583e77a67dd5f44bdccf78dd1d482ca9d175491ccd3511cebb4ace70bc",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_mage_fire_chest.webp",
+        "sha256": "3a7990b3ed21b52be054333a4d2f6f2d1ea75b4f2999bb4e77766ac9858963e5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "warspirit_emberscale_helmet",
+      "file": "docs/design/whetstorm-art/ignivar-warspirit-helmet-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory painting, square composition: a shaman warrior's complete enclosed mail helmet, dark charcoal steel overlapping scales, bronze edging, small upward swept horns and a single glowing amber ember at the brow. Three-quarter view centered and filling frame against muted dark blue background, painterly fantasy illustration, bold readable silhouette at 28 pixels. No text, letters, border, watermark, logo, person, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "d8a7f96ff95e0c0f2289b63f3f220e59aed4057615874a77bbee600ff0cb17c4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/warspirit_emberscale_helmet.webp",
+        "sha256": "da8644d564e206f311ba1bc19df30e9a6efc27e9c6d434f6696a299d1f94f835",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "warspirit_emberscale_shoulder",
+      "file": "docs/design/whetstorm-art/ignivar-warspirit-shoulder-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory painting, square composition: a matching pair of shaman warrior's broad mail pauldrons, dark charcoal steel overlapping scales, bronze edging, upward swept horn-like ridges and glowing amber ember accents. Three-quarter view centered and filling frame against muted dark blue background, painterly fantasy illustration, bold readable silhouette at 28 pixels. No text, letters, border, watermark, logo, person, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "82abf59892f426b2d17f05fb1d6ce78971744a3a37325cf17c662b2c658283ee",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/warspirit_emberscale_shoulder.webp",
+        "sha256": "d01aa38d29487c6b5e3def07f7f7d7c5212e95f5dad3fefa5f30d5333948932c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "warspirit_emberscale_chest",
+      "file": "docs/design/whetstorm-art/ignivar-warspirit-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original fantasy RPG inventory painting, square composition: a shaman warrior's complete sleeveless mail hauberk, dark charcoal steel overlapping scales, bronze edging, angular collar and a single glowing amber ember at the chest. Three-quarter view centered and filling frame against muted dark blue background, painterly fantasy illustration, bold readable silhouette at 28 pixels. No text, letters, border, watermark, logo, person, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "0380d2fa19c16f6c6ac382df0936991f4c6f79efbf18fae825703888711672c6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/warspirit_emberscale_chest.webp",
+        "sha256": "4bbc0b6c9bcdb72551b2d34cbed7187f83830bc8bc4fbf062b2af33844bcfe6e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

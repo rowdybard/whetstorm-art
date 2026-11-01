@@ -58,6 +58,9 @@ import { rimewardenUpperItemImageUrl } from './rimewarden_upper_item_art';
 import { cryptwalkerRingTierItemImageUrl } from './cryptwalker_ring_tier_item_art';
 import { ignivarCinderbarkOffsetItemImageUrl } from './ignivar_cinderbark_offset_item_art';
 import { ignivarSlagstalkerOffsetItemImageUrl } from './ignivar_slagstalker_offset_item_art';
+import { ignivarMoonscorchOffsetItemImageUrl } from './ignivar_moonscorch_offset_item_art';
+import { ignivarWarspiritUpperItemImageUrl } from './ignivar_warspirit_upper_item_art';
+import { emberlashUpperItemImageUrl } from './emberlash_upper_item_art';
 import { chainedEmberChokerTierItemImageUrl } from './chained_ember_choker_tier_item_art';
 import { stonehearthLowerItemImageUrl } from './stonehearth_lower_item_art';
 import { rimewardenLowerItemImageUrl } from './rimewarden_lower_item_art';
@@ -454,6 +457,9 @@ export function paintedItemImageUrl(id: string): string | null {
     cryptwalkerRingTierItemImageUrl(id) ??
     ignivarCinderbarkOffsetItemImageUrl(id) ??
     ignivarSlagstalkerOffsetItemImageUrl(id) ??
+    ignivarMoonscorchOffsetItemImageUrl(id) ??
+    ignivarWarspiritUpperItemImageUrl(id) ??
+    emberlashUpperItemImageUrl(id) ??
     chainedEmberChokerTierItemImageUrl(id) ??
     stonehearthLowerItemImageUrl(id) ??
     rimewardenLowerItemImageUrl(id) ??
