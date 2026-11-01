@@ -1845,6 +1845,10 @@ are recorded in `docs/design/whetstorm-concepts/guildmark-arming-sword-3d-intake
 and `docs/whetstorm/cinderbrand-sword-3d-intake-generation.json`. They are
 concepts, not production models.
 
+One Solheim armory painting was generated with OpenAI's built-in image
+generation; its prompt and hashes are recorded in
+`docs/whetstorm/armory-solheim-original-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

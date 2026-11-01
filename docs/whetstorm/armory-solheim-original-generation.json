@@ -1,0 +1,15 @@
+{
+  "skinId": "solheim_sword",
+  "file": "docs/design/whetstorm-art/armory/solheim_sword.png",
+  "source": "OpenAI built-in image generation",
+  "reference_images": [],
+  "prompt": "Use case: stylized-concept. Create an independent original square hand-painted fantasy game inventory painting for Solheim, Last Light of the Dawn. Text-only design brief: a greatsword forged from a fallen star, cosmos-black steel edged in starlight and split by a molten-gold core, with golden shards at its guard and a subtle aurora ribbon. Make an original design, full weapon framed diagonally and legible at small icon size on a subdued deep blue backdrop. No reference images, letters, text, border, hands, people, logo or watermark.",
+  "sha256": "3d358eb936dd0a39d8c31d30ce7cc5728167b42eb5257dd7c6859158519b1c1b",
+  "source_output": "exec-518bcf67-0043-4c70-9e3d-1b83541ebf8e.png",
+  "status": "Original 2D painting only; held 3D model remains restricted. Store disabled; current acquisition unverified.",
+  "delivery": {
+    "path": "public/ui/whetstorm/armory/solheim_sword.webp",
+    "sha256": "55afad1bb1303345d33b9182316a5b8395ba4e67e531c6e35737c0f9577d3f24",
+    "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+  }
+}

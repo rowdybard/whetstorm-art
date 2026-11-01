@@ -20,6 +20,7 @@ import type { PlayerClass, SkinCatalog, WeaponSkinType } from '../sim/types';
 import type { AccountCosmetics } from '../world_api/cosmetics';
 import { emberwroughtArmorySkinArt } from './armory_emberwrought_art';
 import { originalArmorySkinArt } from './armory_guildmark_art';
+import { solheimArmorySkinArt } from './armory_solheim_art';
 
 export interface WocStoreItemInput {
   itemId: string;
@@ -80,6 +81,7 @@ export function armorySkinArt(skinId: string): string {
   return (
     originalArmorySkinArt(skinId) ??
     emberwroughtArmorySkinArt(skinId) ??
+    solheimArmorySkinArt(skinId) ??
     `${ARMORY_SKIN_ART_DIR}/${skinId}.webp`
   );
 }
