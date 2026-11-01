@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_druid_restoration_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_restoration_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Thistlebloom Crown, one complete druid crown of moss-green leather and pale leaf trim with three muted violet thistle blooms. Centered front view, no head, face or wearer. Premium hand-painted dark fantasy, simple subdued dark charcoal-green vignette without scenery, warm top-left light, complete silhouette with generous safe margins, clear at 28px grayscale. No text, frame, watermark, creature portrait or extra objects.",
+      "status": "original art candidate",
+      "sha256": "99359b663f8a742c45408809dfbb45f17345ce47c4a46dcb7112143669335ec7",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_restoration_helmet.webp",
+        "sha256": "8e8ea2c6cdfdf6e1fda2c01192ae2780393d6a5cac3fcc122bc7812270d4c12b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_druid_restoration_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_restoration_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Thistlebloom Mantle, one compact pair of druid shoulder guards of moss-green leather and pale leaf trim with muted violet thistle blooms. Centered front view, no body. Premium hand-painted dark fantasy, simple subdued dark charcoal-green vignette without scenery, warm top-left light, complete silhouette with generous safe margins, clear at 28px grayscale. No text, frame, watermark, creature portrait or extra objects.",
+      "status": "original art candidate",
+      "sha256": "abb742708aef3c86f9c43279ac2b8237ac1da3d77a227f97e304b275a354f569",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_restoration_shoulder.webp",
+        "sha256": "047324f1181221da2f19d68fddfee1a363e719c8882f51dcf28afbd4c90c6e2b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_druid_restoration_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_restoration_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Thistlebloom Vest, one complete druid torso garment of moss-green leather and pale leaf trim with muted violet thistle bloom clasps. Centered front view, no wearer, head, hands or arms. Premium hand-painted dark fantasy, simple subdued dark charcoal-green vignette without scenery, warm top-left light, complete silhouette with generous safe margins, clear at 28px grayscale. No text, frame, watermark, creature portrait or extra objects.",
+      "status": "original art candidate",
+      "sha256": "2ae096f64ecd26ac2fe0d89eb7e767628105b47d5bb86e308d89d169ef2d121c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_restoration_chest.webp",
+        "sha256": "7db2f7da9f6d171cc03a0dce02340c219859aca81139464c84143af12d528997",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

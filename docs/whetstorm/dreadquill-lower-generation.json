@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_warlock_affliction_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_warlock_affliction_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/items/vanguard_warlock_affliction_chest.png"
+      ],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: a pair of empty warlock cloth leggings with clearly separated legs. Use supplied original robe as STYLE reference for charcoal and muted dark plum cloth, layered raven-quill shaped edges, tarnished silver stitches and small jade gems. Full centered silhouette on a contrasting muted slate background, hand-painted fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "b920502237c9a7ed1d25fbe98bd27fa7336155d67561758ae1478fb088ac081f",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_affliction_legs.webp",
+        "sha256": "411a5b5baf9bb0a11ceee10d8663445d90b02b42da760a56c9d1ee4344cb7ead",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warlock_affliction_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_warlock_affliction_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/items/vanguard_warlock_affliction_chest.png"
+      ],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: a pair of empty warlock cloth handwrap gloves with clearly recognizable five-finger hands. Use supplied original robe as STYLE reference for charcoal and muted dark plum cloth, layered raven-quill shaped edges, tarnished silver stitches and small jade gems. Full centered silhouette on a contrasting muted slate background, hand-painted fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "755cf0c92277a13589807f6f0760aec2bc48ef841b9960f36837f510cd1830e3",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_affliction_gloves.webp",
+        "sha256": "ec93aa3bdbc81922f9102f717c08638bafec7d82909bcdcb103fc3c9a5012164",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
