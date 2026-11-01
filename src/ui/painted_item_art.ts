@@ -59,6 +59,8 @@ import { cryptwalkerRingTierItemImageUrl } from './cryptwalker_ring_tier_item_ar
 import { ignivarCinderbarkOffsetItemImageUrl } from './ignivar_cinderbark_offset_item_art';
 import { cinderbarkUpperItemImageUrl } from './cinderbark_upper_item_art';
 import { bloodmaneUpperItemImageUrl } from './bloodmane_upper_item_art';
+import { disciplinePriestUpperItemImageUrl } from './discipline_priest_upper_item_art';
+import { starwardenUpperItemImageUrl } from './starwarden_upper_item_art';
 import { cinderbarkLowerItemImageUrl } from './cinderbark_lower_item_art';
 import { ignivarSlagstalkerOffsetItemImageUrl } from './ignivar_slagstalker_offset_item_art';
 import { ignivarMoonscorchOffsetItemImageUrl } from './ignivar_moonscorch_offset_item_art';
@@ -110,6 +112,7 @@ import { ignivarGrovespringLowerItemImageUrl } from './ignivar_grovespring_lower
 import { combatRogueUpperItemImageUrl } from './combat_rogue_upper_item_art';
 import { combatRogueLowerItemImageUrl } from './combat_rogue_lower_item_art';
 import { brinewardUpperItemImageUrl } from './brineward_upper_item_art';
+import { brinewardLowerItemImageUrl } from './brineward_lower_item_art';
 import { galebornLowerItemImageUrl } from './galeborn_lower_item_art';
 import { nightcutUpperItemImageUrl } from './nightcut_upper_item_art';
 import { nightcutLowerItemImageUrl } from './nightcut_lower_item_art';
@@ -520,6 +523,8 @@ export function paintedItemImageUrl(id: string): string | null {
     ignivarCinderbarkOffsetItemImageUrl(id) ??
     cinderbarkUpperItemImageUrl(id) ??
     bloodmaneUpperItemImageUrl(id) ??
+    disciplinePriestUpperItemImageUrl(id) ??
+    starwardenUpperItemImageUrl(id) ??
     cinderbarkLowerItemImageUrl(id) ??
     ignivarSlagstalkerOffsetItemImageUrl(id) ??
     ignivarMoonscorchOffsetItemImageUrl(id) ??
@@ -571,6 +576,7 @@ export function paintedItemImageUrl(id: string): string | null {
     combatRogueUpperItemImageUrl(id) ??
     combatRogueLowerItemImageUrl(id) ??
     brinewardUpperItemImageUrl(id) ??
+    brinewardLowerItemImageUrl(id) ??
     galebornLowerItemImageUrl(id) ??
     nightcutUpperItemImageUrl(id) ??
     nightcutLowerItemImageUrl(id) ??

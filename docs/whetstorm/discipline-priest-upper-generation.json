@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_priest_discipline_helmet",
+      "file": "docs/design/whetstorm-art/discipline-priest-hood-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one empty priest's cloth cowl, ivory cloth with deep plum lining, antique gold trim and a pale luminous shield motif at forehead. Broad recognizable hood silhouette with dark empty opening, front view centered on dark blue background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, face, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "844661fe533bb6780826f4819439170d85759c95bd02795aebb18e688622aec5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_priest_discipline_helmet.webp",
+        "sha256": "195945915c76f62d40c5bf933f4d5f55a7118f1d25202c7fbc7f787681dd7a61",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_priest_discipline_shoulder",
+      "file": "docs/design/whetstorm-art/discipline-priest-shoulder-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one compact symmetrical pair of priest's shoulder mantle pads joined around an open neck, ends stop at upper arms, not a cape, no long hanging cloth, no torso. Ivory cloth with deep plum lining, antique gold trim and pale luminous shield-shaped ornaments, front view centered on dark blue background. Large broad shallow shoulder silhouette with generous bottom empty space, readable as shoulder armor at 28 pixels. Premium painterly fantasy illustration, warm edge light. No wearer, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "cc26b67893e279e34e54973509256e0a2da96d2e4c7036d9ccc8e5639eba8e39",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_priest_discipline_shoulder.webp",
+        "sha256": "69184af9b11286f4eb1f72584ea9d43828b2d42d4c1e43322b30415136bdc29f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_priest_discipline_chest",
+      "file": "docs/design/whetstorm-art/discipline-priest-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete empty priest's long cloth robe, ivory cloth with deep plum panels, antique gold trim and a pale luminous shield clasp. Recognizable shoulders, sleeves, waist and flared hem, front view centered on dark blue background. Premium painterly fantasy illustration, warm edge light, readable at 28 pixels. No wearer, head, text, lettering, frame, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "c7c8636affc872cde59a510048a77812b80f03e67fd3e71228c693010b3c810b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_priest_discipline_chest.webp",
+        "sha256": "691d05a0fa1294f0f6bf99cd4428c5993d9ed8ed4954f95f2d2fd051c0e5aa60",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

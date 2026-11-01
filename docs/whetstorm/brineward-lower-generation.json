@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_shaman_restoration_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_restoration_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/items/vanguard_shaman_restoration_chest.png"
+      ],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: one empty restoration shaman mail kilt with a clear waist and flared hem, layered overlapping scales. Use supplied original hauberk as STYLE reference for weathered sea-green bronze, pale silver, smooth pearl and curling wave forms. Full centered kilt silhouette against dark muted deep blue background, painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "d80bc2f3be10f6396126ccc5b74190ebd9ee1a50aee4584153292f3faf0b83c8",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_restoration_legs.webp",
+        "sha256": "aec9759f2a4b4ed8fb19ea29c2b44173be3b7b4ffddcd25bfb215c3095b678dd",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_shaman_restoration_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_restoration_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/items/vanguard_shaman_restoration_chest.png"
+      ],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: a pair of empty restoration shaman mail handwrap gloves with clearly recognizable five-finger hands, overlapping scales. Use supplied original hauberk as STYLE reference for weathered sea-green bronze, pale silver, smooth pearl and curling wave forms. Full centered glove silhouette against dark muted deep blue background, painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "fcce383cd4edb56d9af0380c5f6ebc940796420569f02702cb2f577fdb32d0ca",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_restoration_gloves.webp",
+        "sha256": "abadfb0e194443ee5f6a5a6cf9a305d7f75522dab873018b6020464542a444f8",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

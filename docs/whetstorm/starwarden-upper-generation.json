@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_druid_balance_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_balance_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Starwarden Headdress: one empty druid leather headdress in dark midnight-blue and moss green leather, aged silver crescent leaf ornaments and a small pale blue star gem. No head, face, animal head or person. Entire headpiece centered with clear silhouette and safe margins. Soft dark indigo painted vignette, premium hand-painted fantasy art, tactile leather, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "7d311abf8631af4a415781117c63e129eb65c8afe0c69c3d31e8219a177296ca",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_balance_helmet.webp",
+        "sha256": "6e1af4bf73d98f82bb16c0de5c6950c8a7479fd6a487ba296c737f210d1fdd51",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_druid_balance_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_balance_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Starwarden Spaulders: one matching pair of empty druid leather shoulder pieces in dark midnight-blue and moss green leather, aged silver crescent leaf ornaments and small pale blue star gems. No head, torso, animal head or person. Both shoulders centered with clear paired silhouette and safe margins. Soft dark indigo painted vignette, premium hand-painted fantasy art, tactile leather, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "5cf1a78dd32ee2a84c78727eabdc1be88f0dd460253e0168d145587f74e31474",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_balance_shoulder.webp",
+        "sha256": "69ee3dbc166610a52146711f37652c42c9940fa4a99eb0ac6b63fdaa984b1439",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_druid_balance_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_druid_balance_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Starwarden Vest: one complete empty front-facing druid leather vest in dark midnight-blue and moss green leather, aged silver crescent leaf ornaments and a small pale blue star gem. No head, hands, animal head or person. Entire torso garment centered with clear silhouette and safe margins. Soft dark indigo painted vignette, premium hand-painted fantasy art, tactile leather, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "45c0fd17b96344ce9c379981316a53628607daadb5375b182ac2e21c82abace1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_druid_balance_chest.webp",
+        "sha256": "8fe9843cd686e7454ad2d22614d8d9bd8f7c2e2acf4ed475cc7a59913722abf8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
