@@ -45,6 +45,23 @@ partial `icons.ts` or the large aggregator risks losing newer behavior. Expand
 after focused routing tests and actual full-candidate checks pass. This pilot
 does not prove the remaining item batches are integrated or release-cleared.
 
+An additional check against fork `origin/main` at `4e46ca1575` found that
+both rations already resolve to `public/ui/items/<id>.webp`. Those existing
+files belong to the historical rights-reserved item-art-consistency batch.
+An alternative to adding a new URL is to replace the files at their existing
+paths, but that requires an accurate per-item provenance supersession, not
+relabeling the historical batch. The full reference's
+`tests/item_art_consistency.test.ts` verifies a dated aggregate by reading the
+current files: it needs an explicit supersession-aware design that preserves
+historical evidence, rather than silently rewriting the recorded old digest.
+The current `tests/item_icons.test.ts` also pins `/ui/items/` URLs and checks
+file existence and decoding. A new `/ui/whetstorm/items/` route and removal of
+the old files require adapting routing, physical-file ownership, provenance and
+dated-audit checks, not just URL assertions. Restricted old bytes must also be
+removed from the shipping source and final public package. Whichever approach
+is chosen, check cache
+revalidation and preserve both fallback behavior and truthful credit records.
+
 Snapshot: art branch `ea59da4118`, full-game task checkout `16796615be`,
 2026-10-30. Recheck both revisions and working trees before using these notes.
 The art repository is an independent, partial source snapshot based on full-game
