@@ -1,0 +1,12 @@
+{
+  "itemId": "gravecourt_hewer",
+  "name": "Gravecourt Hewer",
+  "output": "docs/design/whetstorm-concepts/gravecourt-hewer-3d-intake.png",
+  "output_sha256": "6ff78e28ffaea0195570131958330bed8aade1ce95a93f9d88fa0c2c946be360",
+  "source": "OpenAI built-in image generation",
+  "reference": "docs/design/whetstorm-art/items/gravecourt_hewer.png",
+  "reference_sha256": "abe20e615fd63ed2234dea029c775d64af726113c2a6ce4eb9536f51d13d3869",
+  "reference_provenance": "docs/whetstorm/weapon-gravecourt-fang-generation.json",
+  "prompt": "Use case: stylized-concept. Create a standalone 3D-intake concept for Gravecourt Hewer, using the supplied Whetstorm-original inventory painting as the sole visual reference. Show exactly one complete one-handed axe with the reference's broad crescent steel blade, pale bone inlays, restrained bronze fittings, short dark leather-wrapped haft and pommel. Three-quarter view showing solid form and thickness; the entire weapon centered with generous white margin. Isolated on pure white background. No hands, person, writing, text, letters, logo, watermark, floor, or cast shadow.",
+  "constraints": "2D planning only. Weapon skin may override the equipped item model. Right- and left-hand grip, stow, animation, clipping, and runtime 3D fit remain unverified."
+}

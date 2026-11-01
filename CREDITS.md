@@ -1830,6 +1830,11 @@ One Buried Hoard bat-screech aura painting was generated with OpenAI's built-in
 image generation; its prompt and hashes are recorded in
 `docs/whetstorm/hoard-bat-screech-aura-generation.json`.
 
+One Gravecourt Hewer 3D-intake concept was generated with OpenAI's built-in
+image generation using Whetstorm's item painting as reference; prompt and
+hashes are recorded in `docs/design/whetstorm-concepts/gravecourt-hewer-3d-intake.json`.
+It is a concept, not a production model.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
