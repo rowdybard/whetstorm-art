@@ -72,9 +72,15 @@ CC0. Upstream glTF SHA-256 is
 the inspected shipped GLB SHA-256 is
 `b3c3c662c3d9505f727480d0bb1a9dcb26f88550985516f5159ea22b16a86e56`.
 
-This supports geometry lineage, not complete asset clearance: the shipped
-embedded KTX2 texture was not decoded and compared with the upstream PNG.
-The candidate uses the `Knife` attachment while `ice_fang` uses
+The embedded 512×512 ETC1S KTX2 texture was subsequently decoded with the
+locally installed Three.js Basis transcoder and compared to the upstream
+1024×1024 `rogue_texture.png` resized to 512×512 using Sharp Lanczos3. Mean
+absolute RGB differences were 3.09, 1.89 and 3.71 out of 255 respectively;
+alpha was identical and opaque. The embedded KTX2 SHA-256 is
+`a745f1ba44b18a5509e240720fd19df432b996056afa1fc7336840870ba34c77`.
+This supports texture lineage but does not establish the exact encoding
+recipe or by itself clear a release package. The candidate uses the `Knife`
+attachment while `ice_fang` uses
 `VAR_DAGGER`; grip, scale, stow, clipping, animations, skin overrides, preload
 and heroic resolution remain untested. It also changes the item's appearance,
 and the separate `ice_fang_sword` cosmetic still uses the restricted model.
