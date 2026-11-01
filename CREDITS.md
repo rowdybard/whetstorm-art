@@ -1778,6 +1778,10 @@ image generation using Whetstorm's item painting as reference; prompt and
 hashes are recorded in `docs/design/whetstorm-concepts/sheenleaf-primer-3d-intake.json`.
 It is a concept, not a production model.
 
+Three Nythraxis binding aura paintings were generated with OpenAI's built-in
+image generation; prompts, deliberate aliases and hashes are recorded in
+`docs/whetstorm/nythraxis-binding-aura-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

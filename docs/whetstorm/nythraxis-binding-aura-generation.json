@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "nythraxis_impaled",
+      "runtimeIds": [
+        "nythraxis_impaled"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_impaled.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy game aura icon painting, a single ivory bone spike thrust upward through a torn shadowy spectral shackle, symbolizing an impaling stun and life drain; no person, no gore. Strong central silhouette, luminous pale bone against dark burgundy and black, painterly detailed RPG ability icon, full bleed, legible at 28 pixels. No frame, text, letters, logo or watermark.",
+      "sha256": "728f70b83694adcdd0c269505b606a812613e34d630e761bff6729030ac6a807",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_impaled.webp",
+        "sha256": "e043d95020a2df909995def70390fffa2789a0253fd41eee656df62eadcf7c05",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "nythraxis_ascension",
+      "runtimeIds": [
+        "nythraxis_ascension",
+        "nythraxis_ascension_haste"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_ascension.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy game aura icon painting: a single ascending violet spectral crown above a rising column of shadow energy and sparks, symbolizing Deathless Ascension increasing damage and haste. Bold central silhouette, dark midnight background, bright purple and cold silver highlights, painterly detailed RPG ability icon, full bleed, legible at 28 pixels. No person, frame, text, letters, logo or watermark.",
+      "sha256": "90b0c82feff3c0c4fc954460890eaea3822628b29c1c3f9b60bc586e808ed517",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_ascension.webp",
+        "sha256": "c3e184a7133b9ba76be5706c804e13d7cd1c45f614f22693d3d60a3b6d9ce9a9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "auraId": "nythraxis_bound",
+      "runtimeIds": [
+        "nythraxis_bound",
+        "nythraxis_bound_stun"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_bound.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy game aura icon painting: a single dark iron crown tightly bound by bright cyan arcane chains in a cross, symbolizing a powerful boss held and made vulnerable. Bold central silhouette, deep navy backdrop, glowing icy blue and silver, painterly detailed RPG ability icon, full bleed, legible at 28 pixels. No person, frame, text, letters, logo or watermark.",
+      "sha256": "4134f359054c3caaba5d5a6f44ea48330c1099e7e8d08469c5e5c66baf02bb7d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_bound.webp",
+        "sha256": "cd372ccd1624a2bf6300a27e1e9d4f00ec8e2d69338190d9543dd1c8a24afbc8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

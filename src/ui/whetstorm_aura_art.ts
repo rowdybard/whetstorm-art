@@ -5,6 +5,7 @@ import { whetstormCombatEffectAuraImageUrl } from './whetstorm_combat_effect_aur
 import { whetstormCombatProcAuraImageUrl } from './whetstorm_combat_proc_aura_art';
 import { whetstormElementalProcAuraImageUrl } from './whetstorm_elemental_proc_aura_art';
 import { whetstormEncounterAuraImageUrl } from './whetstorm_encounter_aura_art';
+import { whetstormNythraxisBindingAuraImageUrl } from './whetstorm_nythraxis_binding_aura_art';
 import { whetstormEngineAuraImageUrl } from './whetstorm_engine_aura_art';
 import { whetstormFlaskAuraImageUrl } from './whetstorm_flask_aura_art';
 import { whetstormGeneralEffectAuraImageUrl } from './whetstorm_general_effect_aura_art';
@@ -95,6 +96,7 @@ const WHETSTORM_AURA_ART: ReadonlyMap<string, string> = new Map([
 export function whetstormAuraImageUrl(id: string): string | null {
   return (
     WHETSTORM_AURA_ART.get(id) ??
+    whetstormNythraxisBindingAuraImageUrl(id) ??
     whetstormEncounterAuraImageUrl(id) ??
     whetstormVarkhulAuraImageUrl(id) ??
     whetstormRecoveryAuraImageUrl(id) ??
