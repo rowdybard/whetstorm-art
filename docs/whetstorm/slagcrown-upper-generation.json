@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_warlock_destruction_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_warlock_destruction_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Slagcrown Hood: one empty warlock cloth hood in black charcoal and dark red with scorched iron trim, a spiked crown motif and restrained glowing orange cracks in black slag. No head, face or person. Entire hood centered with clear silhouette and safe margins. Dark umber painted vignette, premium hand-painted fantasy art, tactile cloth and iron, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "3a76e76f8b7bb56e4e16734b11037c53010fc52daf069055b3565e60be7d4175",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_destruction_helmet.webp",
+        "sha256": "6159c801d7eac62ac063016a619c51a1005e527d36201f20a79b64676679fa6f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warlock_destruction_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_warlock_destruction_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Slagcrown Mantle: a matching pair of empty warlock cloth shoulders in black charcoal and dark red with scorched iron trim, spiked crown motifs and restrained glowing orange cracks in black slag. No head, torso or person. Both shoulders centered with clear paired silhouette and safe margins. Dark umber painted vignette, premium hand-painted fantasy art, tactile cloth and iron, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "99a7f5aace81b7c957cf8eb07f9fd87c8c0917498777397017c6c73f89f4c64f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_destruction_shoulder.webp",
+        "sha256": "debd4560e7fcc37ceeeeb6df8e4f99942cf29b1aec44baaef53458ee448dfd6c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warlock_destruction_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_warlock_destruction_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Slagcrown Robes: one complete empty front-facing warlock cloth robe in black charcoal and dark red with scorched iron trim, spiked crown motifs and restrained glowing orange cracks in black slag. No head, hands or person. Entire robe centered with clear garment silhouette and safe margins. Dark umber painted vignette, premium hand-painted fantasy art, tactile cloth and iron, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "a7bf510185c459354a3f884d51dad1592228dab135e0f28d5012025ea31ef14d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_destruction_chest.webp",
+        "sha256": "3af715fcc5de5a3361456cacd01e20fce67ac54031d966b58ccda707591a57f6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "dawn_battle_standard",
+      "file": "docs/design/whetstorm-art/dawn-battle-standard-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted dark fantasy MMORPG inventory icon: Dawn Battle Standard, a single complete portable gold cloth battle banner on a bronze-tipped wooden staff, the banner bearing one simple radiant rising sun emblem. The golden fabric is the hero subject; show the full finial, flag and lower staff tip on a strong diagonal with safe margin. Dark subdued brown-blue painted vignette background, warm upper-left light, tactile woven cloth and worn wood, bold recognizable silhouette at 28 pixels. No person, environment, text, border, logo, watermark or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "14aae2833f757906084be5bd63d71cb414927ee1114fab013f60a1bdd2a8f6db",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/dawn_battle_standard.webp",
+        "sha256": "e2e91b81cf2a02a58abb5f2be794c3e1ecc368cae24c313cc33ef7ae3db51773",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
