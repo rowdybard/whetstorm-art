@@ -1768,6 +1768,11 @@ One implicit backpack painting was generated with OpenAI's built-in image
 generation; its prompt and hashes are recorded in
 `docs/whetstorm/implicit-backpack-generation.json`.
 
+One retained rocket-sled concept was generated with OpenAI's built-in image
+generation; its prompt and hash are recorded in
+`docs/whetstorm/retained-rocket-sled-concept-generation.json`. It is an
+exploratory concept, not a production model or an approved replacement.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

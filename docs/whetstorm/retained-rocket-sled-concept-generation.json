@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-concepts/retained-rocket-sled-original.png",
+      "subject": "Independent retained rocket sled mount-skin concept",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL stylized fantasy game vehicle concept from generic practical function alone, with no visual references: a compact snowless hover-sled with one secure EMPTY rider seat, simple reachable hand grips, and self-contained rocket propulsion integrated at the rear. The engine is OFF: no exhaust, smoke, flame or glow. Clear SIDE VIEW facing left, entire vehicle including nose, tail, grips and seat in frame with generous margins on perfectly plain white background, no cast shadow. Hand-painted fantasy concept with practical readable construction for a future 3D artist. No rider, people, landscape, unrelated objects, lettering, numerals, emblems, logos, watermark, border or dimensions. Do not imitate any existing game or artist.",
+      "sha256": "2f4b133d5ab01a846c89908a333b942835c14ecfa3aa90d0c65aab82c8726533",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "status": "2D concept for review; existing entitlement can be worn, fresh acquisition unverified; no 3D model",
+      "validation_needed": [
+        "Review the sleek modern silhouette against the existing goblin-themed identity and Whetstorm art direction",
+        "Seat, grips, rider pose and clipping",
+        "Hover motion, ground clearance and scale",
+        "Procedural exhaust attachment and attitude",
+        "Preload, graphics-tier behavior and performance",
+        "3D fit and in-game review"
+      ]
+    }
+  ]
+}
