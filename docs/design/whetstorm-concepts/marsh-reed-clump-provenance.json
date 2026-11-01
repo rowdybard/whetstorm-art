@@ -1,0 +1,9 @@
+{
+  "asset": "marsh-reed-clump.png",
+  "source": "OpenAI built-in image generation",
+  "reference_images": [],
+  "status": "Text-only original concept for review and potential future 3D modeling; not a shipping model.",
+  "prompt": "Use case: stylized-concept. Original standalone model concept of one ordinary marsh reed clump, designed from real-world plant forms: several upright sturdy green stalks with broad pointed leaves and distinct brown seed heads, varied heights and a compact shared base. Whetstorm stylized fantasy, hand-painted surface, bold coherent shapes and clean readable silhouette. Whole isolated clump in three-quarter view on pure white background with generous white margin on every side, including above every seed head. No soil platform, pond, container, extra objects, text, lettering, logo, watermark, ground plane or cast shadow. No reference image.",
+  "sha256": "edee4bce9eb4f32c983c82cf32681fa0e9361c463677f6e5921dddb37a5d3521",
+  "unverified": ["3D scale and placement", "footprint and density", "camera ghosting", "alpha treatment", "graphics tier and rendering performance", "3D model fit and in-game appearance"]
+}

@@ -1704,6 +1704,11 @@ image generation; its prompt and hash are recorded in
 `docs/whetstorm/harbor-ferry-route-sign-generation.json`. It is a concept,
 not a production model.
 
+One marsh-reed clump concept was generated with OpenAI's built-in image
+generation; its prompt and hash are recorded in
+`docs/design/whetstorm-concepts/marsh-reed-clump-provenance.json`. It is a
+concept, not a production model.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
