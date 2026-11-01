@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gravebrand_helmet",
+      "file": "docs/design/whetstorm-art/ignivar-gravebrand-helmet-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy RPG inventory painting of Gravebrand Hood: one empty warlock cloth hood, charcoal and deep wine-colored layered fabric with weathered bone-colored edging and a single small ember-red gemstone at brow. Angular hood silhouette with dark empty opening, no head or person. Center complete subject with safe margins on muted charcoal painted ground, warm upper-left light, tactile painted fabric, crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "863a1640ee864b5aca08168baea6aa86f971efe2646f2449772f045add979a55",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravebrand_helmet.webp",
+        "sha256": "7ec3976f84d70cdc1b8c941da65e5338e176645a29ba32beada42e5c92352433",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gravebrand_shoulder",
+      "file": "docs/design/whetstorm-art/ignivar-gravebrand-shoulder-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-gravebrand-helmet-master.png"
+      ],
+      "prompt": "Original square dark fantasy RPG inventory painting of Gravebrand Mantle: one complete symmetrical warlock cloth shoulder mantle, charcoal and deep wine-colored layered fabric with weathered bone-colored edging and small ember-red gemstone accents. Match reference hood's palette and materials; depict only shoulders, no hood, head, torso or person. Center full mantle with safe margins on muted charcoal painted ground, warm upper-left light, tactile painted fabric, crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "f4fc3cb601aeff58cd55c2bcb6e093594bb05740477d61b2e81f65340a45e57a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravebrand_shoulder.webp",
+        "sha256": "4f21941c12a2e915d3c19a8d913ea45e75e2493f0a4e650d5d65a21ff3725710",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gravebrand_chest",
+      "file": "docs/design/whetstorm-art/ignivar-gravebrand-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-gravebrand-helmet-master.png"
+      ],
+      "prompt": "Original square dark fantasy RPG inventory painting of Gravebrand Robe: one complete empty full-length warlock cloth robe with sleeves, charcoal and deep wine-colored layered fabric with weathered bone-colored edging and a small ember-red gemstone at chest. Match reference hood's palette and materials; depict only robe, no hood, head, hands or person. Center the full garment with safe margins on muted charcoal painted ground, warm upper-left light, tactile painted fabric, crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "d8c2bcab530e9ea1c408247262465af1daa27aa7a859bd4f371943c5597ac1bb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravebrand_chest.webp",
+        "sha256": "87b2fca064484ab3d912917ba94397ec0768ee80c7fa6c1479988aebd40b0ed3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

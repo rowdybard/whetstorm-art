@@ -77,6 +77,7 @@ import { subtletyRogueLowerItemImageUrl } from './subtlety_rogue_lower_item_art'
 import { continuousFlowPendantTierItemImageUrl } from './continuous_flow_pendant_tier_item_art';
 import { hourbinderLowerItemImageUrl } from './hourbinder_lower_item_art';
 import { ignivarFrostquenchUpperItemImageUrl } from './ignivar_frostquench_upper_item_art';
+import { ignivarGravebrandUpperItemImageUrl } from './ignivar_gravebrand_upper_item_art';
 import { arcaneMageUpperItemImageUrl } from './arcane_mage_upper_item_art';
 import { collapsarRingTierItemImageUrl } from './collapsar_ring_tier_item_art';
 import { mountainBandTierItemImageUrl } from './mountain_band_tier_item_art';
@@ -495,6 +496,7 @@ export function paintedItemImageUrl(id: string): string | null {
     continuousFlowPendantTierItemImageUrl(id) ??
     hourbinderLowerItemImageUrl(id) ??
     ignivarFrostquenchUpperItemImageUrl(id) ??
+    ignivarGravebrandUpperItemImageUrl(id) ??
     arcaneMageUpperItemImageUrl(id) ??
     collapsarRingTierItemImageUrl(id) ??
     mountainBandTierItemImageUrl(id) ??
