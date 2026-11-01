@@ -209,6 +209,12 @@ confirming its provenance and packaging, then check the 44-pixel header on
 desktop and mobile. If that source cannot be established, evaluate a deliberate
 replacement without losing the localized alt text.
 
+The player-card canvas separately requests `/whetstorm-logo-hero.webp`, which
+is absent from the partial art checkout but exists in both full reference
+checkouts. Its loader catches failure and falls back to a translated text
+wordmark. Preserve and validate the full candidate's intended brand asset and
+its provenance; a partial-checkout 404 alone does not prove a full-game defect.
+
 The current art-branch profession resolver has existing Whetstorm images for
 all 26 registered profession identities checked. The full reference trees
 still contain the corresponding historical profession WebPs, so confirm the
