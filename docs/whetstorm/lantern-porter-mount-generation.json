@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-concepts/lantern-porter-mount-original.png",
+      "subject": "Independent lantern porter mount concept",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an ORIGINAL stylized fantasy game creature concept, designed from the practical function of a walking porter carrying a rider, with no reference to existing game characters or models. One sturdy, friendly, broad-backed bipedal creature with thick legs, natural balancing arms and a practical harness carrying a single EMPTY secure rider chair; two small detachable lanterns visibly attached to separate harness points. Show a clear exact SIDE VIEW, standing neutrally, complete figure including head, feet, chair and both lanterns, generously within frame on a perfectly plain white background. No rider, people, landscape, extra objects, lettering, numbers, symbols, logo, watermark, border or cast shadow. Simple clear anatomy and distinct harness, hand-painted stylized fantasy concept suitable for later independent 3D interpretation. No scale or dimensions. Do not imitate any existing game or artist.",
+      "sha256": "93e06d3985e069289c013fe447e0e55d1bf7dc88d9d958c07d44c6f69ca574c5",
+      "pixels": [
+        1312,
+        1199
+      ],
+      "retry": "A second side-profile attempt was reviewed; the first was selected for clearer lanterns and figure. Both have a slight three-quarter angle.",
+      "status": "2D concept for review; no 3D model",
+      "validation_needed": [
+        "Creature is bird-like; reconcile with the existing Lanternback Troll identity before selecting as a replacement",
+        "Rig and idle, walk, run and death animation",
+        "Moving rider seat and light attachment bones",
+        "Locomotion cadence, scale and grounded feet",
+        "Rider and harness clipping across poses",
+        "Preload, performance, graphics tiers and in-game review"
+      ]
+    }
+  ]
+}
