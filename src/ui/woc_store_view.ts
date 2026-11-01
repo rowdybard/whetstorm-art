@@ -26,6 +26,7 @@ import { hoarfrostThreeArmorySkinArt } from './armory_hoarfrost_three_art';
 import { fallenStarRangedArmorySkinArt } from './armory_fallen_star_ranged_art';
 import { fallenStarTrioArmorySkinArt } from './armory_fallen_star_trio_art';
 import { hoarfrostTrioArmorySkinArt } from './armory_hoarfrost_trio_art';
+import { cosmarchEmberwishArmorySkinArt } from './armory_cosmarch_emberwish_art';
 
 export interface WocStoreItemInput {
   itemId: string;
@@ -92,6 +93,7 @@ export function armorySkinArt(skinId: string): string {
     fallenStarRangedArmorySkinArt(skinId) ??
     fallenStarTrioArmorySkinArt(skinId) ??
     hoarfrostTrioArmorySkinArt(skinId) ??
+    cosmarchEmberwishArmorySkinArt(skinId) ??
     `${ARMORY_SKIN_ART_DIR}/${skinId}.webp`
   );
 }

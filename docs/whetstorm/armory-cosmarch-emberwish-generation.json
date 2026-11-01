@@ -1,0 +1,24 @@
+{
+  "source": "OpenAI built-in image generation",
+  "reference_images": [],
+  "status": "Original 2D paintings only; held 3D models remain restricted. Store disabled; current acquisition unverified.",
+  "assets": [
+    {
+      "skinId": "cosmarch_staff",
+      "file": "docs/design/whetstorm-art/armory/cosmarch_staff.png",
+      "sha256": "27812f230223627cc5c755412c2031efcf1df51501aae0b90d09f2744f9b190f",
+      "source_output": "exec-c0de1d25-67de-4051-92ae-23cb26499e47.png",
+      "prompt": "Use case: stylized-concept. Original independent square hand-painted fantasy inventory icon for Cosm arch, Spire of the Endless Void, a legendary staff. Text-only brief: a long cosmos-black constellation-etched shaft crowned by an orbiting cluster of golden star-shards surrounding a molten-gold core, aurora ribbons winding upward. Whole staff diagonally framed, readable at small size, subdued dark blue backdrop. No references, text, letters, hands, person, border, logo or watermark.",
+      "delivery": { "path": "public/ui/whetstorm/armory/cosmarch_staff.webp", "sha256": "90592d2a6485ad7527e6b364484b5e9d64b9d42244361003c4d939a30fffc225" }
+    },
+    {
+      "skinId": "emberwish_wand",
+      "file": "docs/design/whetstorm-art/armory/emberwish_wand.png",
+      "sha256": "017eec675bb447b738d888a363014726151d2e68a4daf2ed4cb27c5446c4dd6a",
+      "source_output": "exec-8cfd1ed1-1f17-41dc-88ab-f6b49bba8c44.png",
+      "prompt": "Original independent square fantasy game inventory painting, text-only: Emberwish, Mote of the Dying Sun, a SHORT WAND with a compact single captive golden star held in a narrow teardrop cage, a few tiny orbiting sparks. Its short straight shaft is THICK and highly visible, dark blue-black metal outlined with bright gold edges, and etched with glowing constellations. The shaft must be as wide as a finger, occupying at least one tenth of the image width, with strong contrast against a plain dark navy background. Whole wand centered, diagonal, bold clear silhouette at 28px. No long staff, wide crown, reference images, text, hands, people, logo, frame or watermark.",
+      "delivery": { "path": "public/ui/whetstorm/armory/emberwish_wand.webp", "sha256": "192c59c873d14bece167f740f1c1868c3045c2ca006c7e731221b0fad859980d" }
+    }
+  ],
+  "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+}
