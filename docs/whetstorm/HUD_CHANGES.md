@@ -1,5 +1,18 @@
 # Whetstorm essential HUD art, 2026-10-26
 
+## Source-lineage follow-up
+
+The recorded HUD masters and runtime files are present, and the generation
+record pins their hashes. The raw generator paths in that record point to a
+scratch environment unavailable in this checkout. For example, the bags
+image's recorded raw hash differs from its retained master hash, and the
+record does not describe that raw-to-master transformation. This difference
+could reflect encoding or metadata and does not establish a visual change or
+license defect. Retain the existing records and locate the original raw files
+or preparation log before claiming that transformation was independently
+verified. The same documentation pattern appears across the HUD batch.
+
+
 20 original PNG masters: eight buttons, six quest/service markers, three coins and three pointers.
 Made with OpenAI built-in image generation from text only, with no reference images.
 
