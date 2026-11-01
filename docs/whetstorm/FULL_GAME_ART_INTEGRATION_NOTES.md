@@ -150,3 +150,28 @@ HUD art, map imagery and their actual consumers in a separate full candidate;
 audit any non-code consumers before removing or excluding historical files, then
 inspect the fresh build and caches. Do not infer that those files disappeared
 from the complete game merely because they are absent from this partial tree.
+
+## Item batch and additional status crests
+
+At full reference revision `6c15e449a82ab5b7233b70416b8cd0d5abf97d21`,
+`public/ui/items/mapping.json` records 274 IDs in
+`item-art-consistency-2026-08-09`; their 274 legacy WebPs were present under
+`public/ui/items/`. The historical batch credit marks those images
+permission-required. At art revision `8e68e7140c`, all 274 IDs resolve to
+existing Whetstorm paintings. This describes one batch, not all old item art.
+
+In the reference revision `iconDataUrl('item', id)` resolves those 274 to the
+old URLs; four take the weapon-icon route ahead of the old item lookup:
+`craghorn_staff`, `drovers_staff`, `hollow_vigil_staff`, and `widowfang_dirk`.
+A full-candidate migration must exercise both routes, normal item views, guide
+and Reliquary use, and item-derived aura handling before removing or excluding
+legacy files. Source presence does not prove the contents of a deployed build;
+inspect the resulting package separately and preserve historical attribution.
+
+The 44 superseded navigation files above do not exhaust the reserved status
+crest family. Both reference checkouts also have
+`public/ui/crests/status/boss.webp` and `combat.webp`; the art branch routes
+those status identities to Whetstorm SVGs. Audit all consumers before physical
+disposition, then inspect the full build. Separately, zone overlay PNGs have a
+different `With the project only` credit and must not be classified solely by
+the unrelated world-overview row.
