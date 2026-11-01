@@ -219,6 +219,15 @@ a replacement; several assets may be covered by one suitable cleared substitute.
 | NPC gear | `chars/npc_gear/harbormaster_tricorne.glb`, `harbormaster_spyglass.glb` | Bone attachment and bind-frame fit |
 | Harbors | `props/wyrmwatch_harbor.glb`, `wickharbor_wharf.glb`, `wickharbor_harbor.glb` | Walkable layout, collision, stairs, docks and interaction positions |
 
+The five ferry, marker, and harbor prop models have renderer paths gated to the
+built-in world in `src/render/props.ts`; two ferry routes share the same ferry
+model. Tamsin is spawned when the selected world contains her dynamic NPC
+definition, and her harbormaster look attaches the two gear models to head and
+hips. These seven files are already included in the 16 above. All seven, and
+the four tome GLBs, exist in the reference checkout at `6c15e449`; none is in
+the partial art worktree. Presence does not establish final package contents,
+rights clearance, visual fit, or activation in custom worlds.
+
 The register also marks **legacy Claudium prototype** and **Season 1 Armory**
 weapon collections restricted. The following 40 additional tracked files were
 identified by the collection definitions in `src/sim/content/weapon_skins.ts`,
