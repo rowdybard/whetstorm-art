@@ -1,0 +1,58 @@
+{
+  "source": "OpenAI built-in image generation",
+  "operation": "Edit the referenced Whetstorm HUD repeat quest marker",
+  "prompt": "Edit the referenced Whetstorm game HUD marker into a REPEAT QUEST marker. Preserve only the stylized hand-painted fantasy material, lighting, dark outline and blue steel palette as visual style. Replace the exclamation mark, disc, rivets and dot completely with ONE bold simple circular repeat-arrow silhouette: a thick bright blue metallic arrow curving almost a full loop, with one large unmistakable triangular arrowhead and an open center. Keep the arrow in a near-frontal view with minimal bevel and very little detail. It must remain clearly recognizable and distinguishable from an exclamation mark, question mark, and hourglass at only 14 pixels, even in grayscale. Center the complete shape with a safe transparent margin. Real transparent alpha background. No disc, badge, frame, text, letter, punctuation, numerals, logo, additional symbols, hands, scene, glow haze or watermark. Original design, do not imitate any existing game, film, or artist.",
+  "reference": {
+    "path": "public/ui/whetstorm/hud/map-markers/quest-repeat.webp",
+    "sha256": "29af34dddd50785dc5612e9c5ecc5f214ecff374f90c37fbad9185f9212f62d0",
+    "limitation": "Reference raw-to-master chain is unverified."
+  },
+  "generatedSource": {
+    "sha256": "2187b7227b5466ca20d1381e612c77ec3c91a9b486f5a865471e29bead9daefa",
+    "note": "Generated local source; bytes copied unchanged to master."
+  },
+  "master": {
+    "path": "docs/design/whetstorm-art/hud/map-markers/quest-repeat-v2.png",
+    "sha256": "2187b7227b5466ca20d1381e612c77ec3c91a9b486f5a865471e29bead9daefa",
+    "bytes": 802405,
+    "format": "png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "hasAlpha": true,
+    "alphaPixels": {
+      "transparent": 1066506,
+      "opaque": 1508,
+      "partial": 504502
+    }
+  },
+  "candidate": {
+    "path": "docs/design/whetstorm-art/hud/map-markers/candidates/quest-repeat-v2.webp",
+    "sha256": "bb167f886442e39d01ae7c550f7b2321e4df67d2d7c904b0af8e8be29122e645",
+    "bytes": 5270,
+    "format": "webp",
+    "dimensions": [
+      128,
+      128
+    ],
+    "hasAlpha": true,
+    "alphaPixels": {
+      "transparent": 10396,
+      "opaque": 375,
+      "partial": 5613
+    },
+    "processing": "Sharp 0.35.4: rotate(); resize(128, 128, { fit: 'cover', position: 'centre' }); toColorspace('srgb'); webp({ alphaQuality: 100, smartSubsample: true, effort: 6, quality: 82 }); metadata stripped by default."
+  },
+  "status": "Documentation candidate only; not routed in this art checkout. Separate game pilot routes a copy; that delivery path is not a source asset in this checkout. The referenced original HUD image has an unverified raw-to-master chain; hashes do not establish rights.",
+  "gamePilotContext": {
+    "runtimeUrl": "/ui/whetstorm/hud/map-markers/quest-repeat-v2.webp",
+    "note": "Separate game pilot URL; this file is not in this art checkout."
+  },
+  "review": {
+    "method": "Independent static QA at 14 and 18 pixels on dark and light backgrounds and in grayscale; reviewer found state silhouettes distinguishable.",
+    "evidence": "docs/design/whetstorm-art/hud/map-markers/reviews/quest-v2-static.png",
+    "sha256": "7ca3cffb10913102e80b4bd0113ceb4faeeb2d03981c9cd83ee95f5d5ca81c62",
+    "limitation": "Real-game visual review and release approval remain pending."
+  }
+}

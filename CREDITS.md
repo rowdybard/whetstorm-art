@@ -155,6 +155,14 @@ source and candidate hashes, and static 24px review are recorded in
 raw-to-master chain remains unverified. The candidate is not wired into this
 checkout and has not been approved through an in-game review.
 
+The repeat-quest and cooldown marker v2 candidates were made with OpenAI
+built-in image generation using the earlier Whetstorm markers as style
+references. Their prompts, hashes and static small-size review are recorded in
+`docs/whetstorm/hud-quest-repeat-v2-candidate.json` and
+`docs/whetstorm/hud-quest-cooldown-v2-candidate.json`. The reference
+raw-to-master chains remain unverified. These candidates are not routed in
+this checkout and have not been approved through an in-game review.
+
 ## Do not redistribute these
 
 If you fork this project, or redistribute the repository or a build of it, the

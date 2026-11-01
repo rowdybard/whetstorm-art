@@ -1,0 +1,58 @@
+{
+  "source": "OpenAI built-in image generation",
+  "operation": "Edit the referenced Whetstorm HUD quest cooldown marker",
+  "prompt": "Edit the referenced Whetstorm HUD map marker into a QUEST COOLDOWN marker. Preserve only the hand-painted fantasy material, chunky near-black outline and restrained lighting as visual style. Replace the round disc, exclamation mark and tiny clock completely with ONE large, simple upright hourglass silhouette. Make the upper and lower bulbs broad and unmistakable, with substantial antique-gold caps and dark cool grey glass; a single pale sand mass is enough. Show the whole hourglass front-on, centered with a safe transparent margin, very few details. It must remain recognizable at 14 pixels and in grayscale, and visually distinct from an exclamation mark, question mark, or circular repeat arrow. Real transparent alpha background. No disc, badge, frame, text, letters, numbers, extra symbols, hands, scenery, glow haze, logo or watermark. Original design, do not imitate any existing game, film, or artist.",
+  "reference": {
+    "path": "public/ui/whetstorm/hud/map-markers/quest-cooldown.webp",
+    "sha256": "ddf92abf2f96ea4804cd29ebc755483b179240292ee1def9c8ff02936f290e5f",
+    "limitation": "Reference raw-to-master chain is unverified."
+  },
+  "generatedSource": {
+    "sha256": "c82dcab74979a219e1ba33a92acffbbdadb282484f03179373b13df93bd4449f",
+    "note": "Generated local source; bytes copied unchanged to master."
+  },
+  "master": {
+    "path": "docs/design/whetstorm-art/hud/map-markers/quest-cooldown-v2.png",
+    "sha256": "c82dcab74979a219e1ba33a92acffbbdadb282484f03179373b13df93bd4449f",
+    "bytes": 937460,
+    "format": "png",
+    "dimensions": [
+      1254,
+      1254
+    ],
+    "hasAlpha": true,
+    "alphaPixels": {
+      "transparent": 986258,
+      "opaque": 1789,
+      "partial": 584469
+    }
+  },
+  "candidate": {
+    "path": "docs/design/whetstorm-art/hud/map-markers/candidates/quest-cooldown-v2.webp",
+    "sha256": "08e2d9ce3c3575b3bb70e5561fb5730bcb560dc573b426b12dbb0a0742580b68",
+    "bytes": 4516,
+    "format": "webp",
+    "dimensions": [
+      128,
+      128
+    ],
+    "hasAlpha": true,
+    "alphaPixels": {
+      "transparent": 9761,
+      "opaque": 272,
+      "partial": 6351
+    },
+    "processing": "Sharp 0.35.4: rotate(); resize(128, 128, { fit: 'cover', position: 'centre' }); toColorspace('srgb'); webp({ alphaQuality: 100, smartSubsample: true, effort: 6, quality: 82 }); metadata stripped by default."
+  },
+  "status": "Documentation candidate only; not routed in this art checkout. Separate game pilot routes a copy; that delivery path is not a source asset in this checkout. The referenced original HUD image has an unverified raw-to-master chain; hashes do not establish rights.",
+  "gamePilotContext": {
+    "runtimeUrl": "/ui/whetstorm/hud/map-markers/quest-cooldown-v2.webp",
+    "note": "Separate game pilot URL; this file is not in this art checkout."
+  },
+  "review": {
+    "method": "Independent static QA at 14 and 18 pixels on dark and light backgrounds and in grayscale; reviewer found state silhouettes distinguishable.",
+    "evidence": "docs/design/whetstorm-art/hud/map-markers/reviews/quest-v2-static.png",
+    "sha256": "7ca3cffb10913102e80b4bd0113ceb4faeeb2d03981c9cd83ee95f5d5ca81c62",
+    "limitation": "Real-game visual review and release approval remain pending."
+  }
+}
