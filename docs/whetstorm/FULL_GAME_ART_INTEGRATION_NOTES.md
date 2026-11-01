@@ -175,3 +175,22 @@ those status identities to Whetstorm SVGs. Audit all consumers before physical
 disposition, then inspect the full build. Separately, zone overlay PNGs have a
 different `With the project only` credit and must not be classified solely by
 the unrelated world-overview row.
+
+## Deed art integration dependency
+
+At the full reference revision `6c15e449a82ab5b7233b70416b8cd0d5abf97d21`,
+the `public/ui/deeds/` directory contained 289 legacy WebPs and the generated
+legacy deed registry contained 289 IDs. The applicable credits classify that
+family as permission-required. The art branch routes `deedImageUrl` through
+Whetstorm deed paintings instead; it still uses legacy registry membership as
+fallback-selection metadata. The guide shares the deed view and icon path, and
+Reliquary presentation also depends on painted-art detection.
+
+When integrating into a complete candidate, reconcile those consumers and the
+generated registry, converter and guards as a unit. The full-reference
+`tests/deed_icons.test.ts` pins the old registry/file relationship and legacy
+URL behavior; assess and update its assertions against the intended new
+behavior rather than deleting old files first. Inspect source, docs, generated
+content and build output for old paths and bytes, and preserve historical
+attribution. The 289 files are a source-checkout observation, not evidence of
+what an uninspected deployment contains.
