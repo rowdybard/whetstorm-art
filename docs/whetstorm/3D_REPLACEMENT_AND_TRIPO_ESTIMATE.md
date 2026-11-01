@@ -350,6 +350,16 @@ that collection. The original archive licenses and source-file match therefore
 remain to be verified. The asset-source folders named in the manifest were not
 present in the project checkouts inspected.
 
+On 2026-11-01, a local cross-check found the eight shipped player-body GLBs
+in `D:/whetstorm-deploy` byte-identical to their counterparts in
+`D:/action-mmo`. That confirms consistency between those two derivatives, not
+a match to original KayKit archive files. Targeted searches did not locate the
+raw source archives in the inspected checkouts or user worktrees; two unrelated
+browser-cache paths denied access. The asset build merges and retargets clips
+and applies transformations, so a later archive comparison should inspect
+decoded geometry and textures, skeletons and animation samplers, in addition
+to retaining the exact archive license.
+
 Additional player clips also need a source-by-source inventory. For example,
 `scripts/build_kaykit_hit_variety_anims.mjs` synthesizes hit reactions from
 poses in the shipping rigs, while `scripts/build_swim_anims.mjs` retargets
