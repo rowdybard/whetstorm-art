@@ -131,3 +131,22 @@ uses of the legacy helper before removing the four restricted physical files.
 Build and inspect the actual package and caches, and exercise the aura display.
 These candidate steps remain unperformed; do not assume that mapping changes
 alone remove the old assets from distribution.
+
+## Navigation and chrome physical-file follow-up
+
+On 2026-11-01, `public/ui/whetstorm/mapping.json` identified 44 superseded
+navigation images: 29 map markers and 15 family/status crests. All 44 were
+present in both `D:/action-mmo` at `20807967fcd145c348499e88205eb1357ebf6c67`
+and `D:/whetstorm-deploy` at `6c15e449a82ab5b7233b70416b8cd0d5abf97d21`,
+while absent from the partial art worktree. The focused navigation test checks
+those exact historical paths for absence. Passing it in the partial worktree
+therefore does not establish absence in a full candidate.
+
+The same source checkouts also contained 20 `public/ui/chrome/*.webp` files
+and `public/map_art/world_overview.webp`; the applicable credit rows classify
+those historical families as permission required. These are source-presence
+findings, not an inspection of a deployed package. Reconcile replacement SVGs,
+HUD art, map imagery and their actual consumers in a separate full candidate;
+audit any non-code consumers before removing or excluding historical files, then
+inspect the fresh build and caches. Do not infer that those files disappeared
+from the complete game merely because they are absent from this partial tree.
