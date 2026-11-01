@@ -38,6 +38,7 @@ import { varkhulBeamSoakAuraImageUrl } from './varkhul_beam_soak_aura_art';
 import { ignivarForgeChainsAuraImageUrl } from './ignivar_forge_chains_aura_art';
 import { hoardStormGraspAuraImageUrl } from './hoard_storm_grasp_aura_art';
 import { hoardCocoonAuraImageUrl } from './hoard_cocoon_aura_art';
+import { whetstormHoardBatAuraImageUrl } from './whetstorm_hoard_bat_aura_art';
 import { whetstormWarfareAuraImageUrl } from './whetstorm_warfare_aura_art';
 
 // Original Whetstorm aura paintings, keyed by exact runtime identity.
@@ -110,6 +111,7 @@ export function whetstormAuraImageUrl(id: string): string | null {
     ignivarForgeChainsAuraImageUrl(id) ??
     hoardStormGraspAuraImageUrl(id) ??
     hoardCocoonAuraImageUrl(id) ??
+    whetstormHoardBatAuraImageUrl(id) ??
     varkhulBeamSoakAuraImageUrl(id) ??
     whetstormVarkhulFinalAuraImageUrl(id) ??
     whetstormVarkhulAuraImageUrl(id) ??

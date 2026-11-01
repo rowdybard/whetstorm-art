@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "auraId": "hoard_bat_screech",
+      "runtimeIdPattern": "hoard_bat_screech_<boss entity id>",
+      "mechanic": "Deafening Screech: an interruptible bat boss attack that damages nearby players and slows movement by 50% for 4 seconds.",
+      "file": "docs/design/whetstorm-art/auras/hoard_bat_screech.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square painted fantasy MMO status icon for Deafening Screech, an interruptible bat boss sound attack that slows players. A single bold black bat silhouette, wings spread wide, centered against three bright pale turquoise concentric sound-wave arcs radiating outward, on a simple dark indigo background. High contrast and uncluttered, clear at 28 pixels, painterly edges, no person, no frame, no text, letters, logo or watermark.",
+      "sha256": "82bb076bbc8c61b04b7b4a701fbe6718ff05a14d2b4a3725ab63b9273a906b88",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/hoard_bat_screech.webp",
+        "sha256": "4202a7a18f21cee5040200b2592a405e51f3b34db3dd03fb5d21f49bef305578",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "Sharp resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

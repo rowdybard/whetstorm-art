@@ -237,6 +237,7 @@ interface DecimalAuraSourceFamily {
 const DECIMAL_RUNTIME_AURA_SOURCE_FAMILIES: readonly DecimalAuraSourceFamily[] = [
   { prefix: 'aegis_first_dawn_dr:', segments: 1, source: 'aegis_first_dawn' },
   { prefix: 'binding_psalm_', segments: 1, source: 'power_word_shield' },
+  { prefix: 'hoard_bat_screech_', segments: 1, source: 'hoard_bat_screech' },
   { prefix: 'hunter_chain_mark_', segments: 1, source: 'frostjaw_trap' },
   { prefix: 'hunter_crippling_pursuit_', segments: 1, source: 'concussive_shot' },
   { prefix: 'hunter_crippling_root_', segments: 1, source: 'concussive_shot' },
