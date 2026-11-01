@@ -1,0 +1,9 @@
+{
+  "asset": "docs/design/whetstorm-concepts/passenger-ferry-original.png",
+  "sha256": "39fde4f3a6afeb0ed49c24433dc6922140b6250102d295594d77bf36b1cccc2e",
+  "source": "OpenAI built-in image generation",
+  "referenceImages": [],
+  "prompt": "Use case: stylized-concept. Create an original fantasy game environment concept painting of a practical passenger sailing ferry, invented from ordinary maritime forms and the following functional needs only. One complete vessel, shown in a clear elevated three-quarter view on a pure white background with generous margin. Show an open unobstructed walkable central deck, railings, a plausible opening on the near side for boarding from a pier, a small sheltered passenger area, and a simple mast and sail. Warm natural wood and understated sailcloth, readable construction, no elaborate figurehead. No people, text, lettering, logos, water, ground, cast shadow, annotations, dimensions, or additional objects. This is a conceptual image, not a model or a technical drawing.",
+  "lineage": "Text-only generation based on passenger ferry function and ordinary maritime forms; no restricted model or image was used as a visual reference.",
+  "limitations": "2D concept only, not a 3D model. Existing simulation hull and boarding dimensions, collision and player clearance, and renderer visibility, LOD and fade anchors require later validation."
+}

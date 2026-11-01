@@ -1725,6 +1725,11 @@ Six retained Vale Cup deed paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/whetstorm/deed-vale-cup-six-generation.json`. The mode is retired.
 
+One passenger ferry concept was generated with OpenAI's built-in image
+generation; its prompt and hash are recorded in
+`docs/design/whetstorm-concepts/passenger-ferry-original-provenance.json`. It
+is a concept, not a production model.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
