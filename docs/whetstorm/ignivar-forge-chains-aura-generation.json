@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "ignivar_forge_chains",
+      "runtimeIds": [
+        "ignivar_forge_chains"
+      ],
+      "file": "docs/design/whetstorm-art/auras/ignivar_forge_chains-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create an original square fantasy game aura painting, designed specifically to be unmistakable at 28 by 28 pixels: exactly TWO enormous thick interlocked forged chain links, one light silver iron, one glowing orange gold iron, filling most of the square. The two linked rings symbolize two players bound together. Extremely simple clean silhouette, high contrast, deep nearly black flat background, no flames, sparks, additional objects, cuffs, figures, text, borders, logos or watermark. Painterly metal surfaces but clear large shapes; no copied imagery.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "81e53378cde3d32e5eae71ad0535e85a5e28ef5254820d2efcc538bdd8aadbeb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/ignivar_forge_chains.webp",
+        "sha256": "924a36adf06f5aead32902762f3ba50f79eeaf6cc08fbb196709d0282b1f79af",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

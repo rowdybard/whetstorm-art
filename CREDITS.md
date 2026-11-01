@@ -1799,6 +1799,10 @@ Two Varkhul beam and soak aura paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/whetstorm/varkhul-beam-soak-auras-generation.json`.
 
+One Ignivar forge-chains aura painting was generated with OpenAI's built-in
+image generation; prompt and hashes are recorded in
+`docs/whetstorm/ignivar-forge-chains-aura-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
