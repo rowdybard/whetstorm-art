@@ -37,6 +37,7 @@ import { PET_ACTION_IMAGE_IDS } from './pet_action_icons';
 import { TRINKET_AURA_IMAGE_URLS } from './trinket_aura_art';
 import { ITEM_WEAPON_VARIANTS } from './weapon_variants';
 import { whetstormAuraImageUrl } from './whetstorm_aura_art';
+import { raidGuideAuraArtUrl } from './raid_guide_aura_art';
 
 export { PROFESSION_IMAGE_IDS, professionImageUrl } from './hud/professions/profession_art';
 
@@ -5702,6 +5703,10 @@ const HUNTER_CORE_ART = new Map<string, string>([
 ]);
 
 function originalArt(kind: IconKind, id: string, size = DEFAULT_ICON_SIZE): string {
+  if (kind === 'ability') {
+    const guideArt = raidGuideAuraArtUrl(id);
+    if (guideArt) return guideArt;
+  }
   if (kind === 'aura') {
     const auraArt = whetstormAuraImageUrl(id);
     if (auraArt) return auraArt;
