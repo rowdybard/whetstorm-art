@@ -1625,6 +1625,10 @@ The Riding Training service painting was generated with OpenAI's built-in image
 generation; its prompt and hashes are recorded in
 `docs/whetstorm/riding-training-generation.json`.
 
+Four retained mech-plate item paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/chroma-plate-four-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

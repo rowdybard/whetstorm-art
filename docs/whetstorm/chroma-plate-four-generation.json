@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "alien_armor_plate",
+      "file": "docs/design/whetstorm-art/chroma-alien-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted sci-fi RPG inventory icon: one detached alien mech armor plate, an angular layered charcoal-violet metallic shield-like panel with a luminous mint-green central energy core and restrained teal grooves. Centered complete single plate, dark navy background, clear large silhouette, premium painted illustration, readable at 28 pixels. No mech, figure, text, lettering, border, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "8dc72c8eb896e8164a6d9feeb67e2bc6eca1eef5e57c14481485661f510ad248",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/alien_armor_plate.webp",
+        "sha256": "9212a0c104680aebefee14b62f4c1b236e2af70821969bdf510e039e105bcbd9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "amber_crimson_armor_plate",
+      "file": "docs/design/whetstorm-art/chroma-amber-crimson-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted sci-fi RPG inventory icon: one detached angular mech armor plate with AMBER as the dominant main metal panel and CRIMSON as the smaller inset trim and central core. The amber field occupies most of the plate; crimson clearly secondary. Centered complete single shield-like panel, dark navy background, clear large silhouette, premium painted illustration, readable at 28 pixels. No mech, figure, text, lettering, border, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "96bd5bd50f441854c5a608dbaaf5c1ceda5ca14e9981ed400799804d2068e34f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/amber_crimson_armor_plate.webp",
+        "sha256": "87493b94fe17b5694972eba68963e959ae26270d6eefac4134eb800abfc68652",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "crimson_amber_armor_plate",
+      "file": "docs/design/whetstorm-art/chroma-crimson-amber-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted sci-fi RPG inventory icon: one detached angular mech armor plate with CRIMSON as the dominant main metal panel and AMBER as the smaller inset trim and central core. The crimson field occupies most of the plate; amber clearly secondary. Centered complete single shield-like panel, dark navy background, clear large silhouette, premium painted illustration, readable at 28 pixels. No mech, figure, text, lettering, border, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "0e8ab41cc0d80cab9ceab30eea6fbb227116a7d7b624196280620891b0e37365",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/crimson_amber_armor_plate.webp",
+        "sha256": "2f96cf67c121c15bdada757aecfbab1f266d1afb75aa56a6954781c0fddcc669",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "cyan_magenta_armor_plate",
+      "file": "docs/design/whetstorm-art/chroma-cyan-magenta-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted sci-fi RPG inventory icon: one detached angular mech armor plate with CYAN as the dominant main metal panel and MAGENTA as the smaller inset trim and central core. The cyan field occupies most of the plate; magenta clearly secondary. Centered complete single shield-like panel, dark navy background, clear large silhouette, premium painted illustration, readable at 28 pixels. No mech, figure, text, lettering, border, logo, watermark or copied designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "289d59e02a439ba1e83373fb062c1dae2de2691f09feb9659a90cbe54aafac8b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/cyan_magenta_armor_plate.webp",
+        "sha256": "e71f2b729e0c315720ce27a725ca1f9f8260dfd8f3c126039606187d25992ba4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
