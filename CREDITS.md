@@ -1539,6 +1539,11 @@ Two Tempestwrit armor paintings were generated with OpenAI's built-in image
 generation; prompts, references, and hashes are recorded in
 `docs/whetstorm/tempestwrit-lower-generation.json`.
 
+Three Nightcut and three Wildfang armor paintings were generated with OpenAI's
+built-in image generation; prompts and hashes are recorded in
+`docs/whetstorm/nightcut-upper-generation.json` and
+`docs/whetstorm/wildfang-upper-generation.json`.
+
 Two Ruincaller armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/ruincaller-lower-generation.json`.

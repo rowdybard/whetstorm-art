@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "wildfang_emberhide_helmet",
+      "file": "docs/design/whetstorm-art/items/wildfang_emberhide_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Wildfang Cowl: one empty druid leather cowl in rugged dark chestnut and rust leather, warm copper edging, subtle ochre fur and three small claw-shaped amber inlays. No head, face, animal head or person. Entire hood centered with clear silhouette and safe margins. Dark umber painted vignette, premium hand-painted fantasy art, tactile leather and fur, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "eb6c955cddbc1fa785d1324d25d296c9ca68c5334d392d707ce59cd3348d9efe",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wildfang_emberhide_helmet.webp",
+        "sha256": "ef53af808d2b1677680052230d0538ff0773bdea535457b81b0278b8637eb13e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wildfang_emberhide_shoulder",
+      "file": "docs/design/whetstorm-art/items/wildfang_emberhide_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Wildfang Spaulders: a matching pair of empty druid leather shoulders in rugged dark chestnut and rust leather, warm copper edging, subtle ochre fur and small claw-shaped amber inlays. No body, animal head or person. Both shoulders centered with clear paired silhouette and safe margins. Dark umber painted vignette, premium hand-painted fantasy art, tactile leather and fur, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "d07f7cdb16aba81b726fb5138f065753f9c3a6f685d4d46fd958ac3c1e6c90f1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wildfang_emberhide_shoulder.webp",
+        "sha256": "2d598664627440acba5a2e1f4a08629267cccb30d1541c2aab3238ade00861ae",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "wildfang_emberhide_chest",
+      "file": "docs/design/whetstorm-art/items/wildfang_emberhide_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Wildfang Tunic: one empty front-facing druid leather tunic in rugged dark chestnut and rust leather, warm copper edging, subtle ochre fur and three small claw-shaped amber inlays. No head, hands, animal head or person. Entire torso garment centered with clear silhouette and safe margins. Dark umber painted vignette, premium hand-painted fantasy art, tactile leather and fur, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "490c9342624f6e0d8793a01944c9064315e2eb9ac07eaf52a2ac17ff6476f230",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/wildfang_emberhide_chest.webp",
+        "sha256": "57c4fa5e2c322beee1afca1f9848d88ac21dc226c979015056574010dae48016",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

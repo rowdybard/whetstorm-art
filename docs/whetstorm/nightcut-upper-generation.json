@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_rogue_assassination_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_rogue_assassination_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Nightcut Hood, one complete assassin's charcoal leather hood with deep burgundy lining and muted silver crescent blade clasps. Empty dark face opening, no face or wearer. Centered front view. Premium hand-painted dark fantasy, dark plum background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "c777b4e0e573a7550aba038ee428598441a9e89fb34e7c1a8babd097972e158b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_assassination_helmet.webp",
+        "sha256": "99e8c2bb51d1c774afab2a8cc58f8142456a52cc4ddd95fbbde88cc7bed00728",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_rogue_assassination_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_rogue_assassination_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Nightcut Shoulderpads, one compact pair of assassin's charcoal leather shoulder guards with deep burgundy lining and muted silver crescent blade accents. Centered front view, no body. Premium hand-painted dark fantasy, dark plum background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "b10e5dd7b69515ef10ea6dc9bfe764149dc4917cbc1a431422bb8becf09ff958",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_assassination_shoulder.webp",
+        "sha256": "76eba540e89364b9e9044ab7ecd254b73131c5985c3719669f1fc567ceff7bd4",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_rogue_assassination_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_rogue_assassination_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Nightcut Tunic, one complete assassin's fitted charcoal leather torso garment with deep burgundy lining and muted silver crescent blade clasps. Centered front view, no wearer, head, hands or arms. Premium hand-painted dark fantasy, dark plum background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "b2528e109ea0534b9f960ce9a2eb18f250a078e86baabcaa4b8e1e51fd20fe65",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_assassination_chest.webp",
+        "sha256": "7073a4d1890b46c861a14f9815456bfe2de86d85af57ec76a6998bf59c671a5a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
