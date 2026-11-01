@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_warrior_arms_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_arms_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bladewake Legplates, one complete symmetrical pair of heavy warrior leg armor, dark forged steel over visible mail, crimson insets, bronze edging, angular blade-shaped ridges. Centered front view, no body or boots. Premium hand-painted dark fantasy, muted charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "ee148321e9519d5f51ad2f0de28aeaf7ca2b817a114d484f659acf90356ef496",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_arms_legs.webp",
+        "sha256": "37653dd046cde7c9c15a3f5e4c9633ca9275f05e3e71659c8399ec9e032b0949",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warrior_arms_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_arms_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bladewake Crushers, one compact pair of heavy warrior gauntlets, dark forged steel over visible mail, crimson insets, bronze edging, angular blade-shaped ridges. Centered view, no wearer or arms. Premium hand-painted dark fantasy, muted charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "d87e1eea2bdfb6c8f22bae6b14ac6afd50c33f09a96eb0646bc7ca9df1b9844d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_arms_gloves.webp",
+        "sha256": "d5cc2ae5a5dee911154095a0fb4fe6a20967288aa3003b3a29f88c61f11f9d6b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "chronoweave_gloves",
+      "file": "docs/design/whetstorm-art/items/chronoweave_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square inventory icon of Aetherweave Handwraps: a compact pair of empty cloth mage gloves, deep navy and indigo fabric, layered wrappings, ornate antique gold edging and small pale cyan hourglass-shaped glass accents. No hands or person. Entire pair centered large with clear glove silhouettes and safe padding. Dark muted indigo painted vignette, premium hand-painted classic fantasy MMO art, tactile folds, warm upper-left light, cool shadow, readable at 28px. No text, runes, frame, watermark, transparency or additional objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "477a8417cbe8e5861d65a4e5d3bff56e9f06827aea00191f3e8f849edb15a150",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/chronoweave_gloves.webp",
+        "sha256": "24e2f27d1b133a5463457a2b3a1a4aef00d63a787fb0ff416a4bf74ad521b3e9",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "chronoweave_legs",
+      "file": "docs/design/whetstorm-art/items/chronoweave_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square inventory icon of Aetherweave Leggings: one complete pair of empty mage cloth trousers, deep navy and indigo fabric, flowing layered folds, ornate antique gold edging and one small pale cyan hourglass-shaped glass ornament at the waist. No body, boots or person. Front view, full pants centered large, separated leg silhouettes and safe padding. Dark muted indigo painted vignette, premium hand-painted classic fantasy MMO art, tactile folds, warm upper-left light, cool shadow, readable at 28px. No text, runes, frame, watermark, transparency or additional objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "a5409273540070039bb5a89b18c974faddb7fc418a0c85583a1b5f49a35862de",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/chronoweave_legs.webp",
+        "sha256": "5978360d592044939ebf5bfedf2469d61ccabd8567cabc19e61e39146f73e655",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1430,6 +1430,22 @@ Three Shadewalk armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/subtlety-rogue-upper-generation.json`.
 
+Two Chronoweave armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/chronoweave-lower-generation.json`.
+
+Two Ignivar grove armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/ignivar-grove-generation.json`.
+
+Two Bladewake armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/bladewake-lower-generation.json`.
+
+Two Shadewalk armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/subtlety-rogue-lower-generation.json`.
+
 Two Chained Ember Choker tier paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/chained-ember-choker-tiers-original/chained-ember-choker-provenance.json`.

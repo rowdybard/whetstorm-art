@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "grovetender_belt",
+      "file": "docs/design/whetstorm-art/items/grovetender_belt.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square dark fantasy RPG inventory icon painting: one druid leather belt, rich moss green and warm brown supple leather, woven roots and a broad pale jade leaf-shaped buckle with a clear dew drop. A few delicate silver stitches, centered large on muted dark blue-charcoal painterly background. Soft cool light with warm edge highlights, hand-painted fantasy game art, bold silhouette readable at 28 pixels. No text, person, frame, logo, watermark or other item.",
+      "sha256": "9be80f6a682bba60cedc194a80eb16a0f0d10668df5bd4e32532a2056c48270b",
+      "delivery": { "path": "public/ui/whetstorm/items/grovetender_belt.webp", "sha256": "59232589756f2c123892420ca502ac5c3fa8f2deaf3f40b2cd886de3d71d64ab", "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6" }
+    },
+    {
+      "itemId": "dewfall_moccasins",
+      "file": "docs/design/whetstorm-art/items/dewfall_moccasins.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square dark fantasy RPG inventory icon painting: one druid leather moccasin boot, rich moss green and warm brown supple leather, woven roots and a pale jade leaf-shaped clasp with a clear dew drop. A few delicate silver stitches, three-quarter view, centered large on muted dark blue-charcoal painterly background. Soft cool light with warm edge highlights, hand-painted fantasy game art, bold boot silhouette readable at 28 pixels. No text, person, frame, logo, watermark or other item.",
+      "sha256": "3751abbf7eab595b552a139aaed7e53341c7c2923acd702355cee1560b35724c",
+      "delivery": { "path": "public/ui/whetstorm/items/dewfall_moccasins.webp", "sha256": "ff1199c07e111dd3d0705cdcc696c57daa387ec496061a7c46af8a96b1517452", "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6" }
+    }
+  ]
+}

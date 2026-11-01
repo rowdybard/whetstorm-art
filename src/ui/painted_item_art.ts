@@ -66,10 +66,14 @@ import { ignivarWarspiritLowerItemImageUrl } from './ignivar_warspirit_lower_ite
 import { ignivarMailTankItemImageUrl } from './ignivar_mail_tank_item_art';
 import { ignivarMailDamageItemImageUrl } from './ignivar_mail_damage_item_art';
 import { ignivarMailSpellItemImageUrl } from './ignivar_mail_spell_item_art';
+import { ignivarGroveItemImageUrl } from './ignivar_grove_item_art';
 import { bladewakeUpperItemImageUrl } from './bladewake_upper_item_art';
+import { bladewakeLowerItemImageUrl } from './bladewake_lower_item_art';
 import { chronoweaveUpperItemImageUrl } from './chronoweave_upper_item_art';
+import { chronoweaveLowerItemImageUrl } from './chronoweave_lower_item_art';
 import { ignivarFrostquenchLowerItemImageUrl } from './ignivar_frostquench_lower_item_art';
 import { subtletyRogueUpperItemImageUrl } from './subtlety_rogue_upper_item_art';
+import { subtletyRogueLowerItemImageUrl } from './subtlety_rogue_lower_item_art';
 import { continuousFlowPendantTierItemImageUrl } from './continuous_flow_pendant_tier_item_art';
 import { hourbinderLowerItemImageUrl } from './hourbinder_lower_item_art';
 import { ignivarFrostquenchUpperItemImageUrl } from './ignivar_frostquench_upper_item_art';
@@ -480,10 +484,14 @@ export function paintedItemImageUrl(id: string): string | null {
     ignivarMailTankItemImageUrl(id) ??
     ignivarMailDamageItemImageUrl(id) ??
     ignivarMailSpellItemImageUrl(id) ??
+    ignivarGroveItemImageUrl(id) ??
     bladewakeUpperItemImageUrl(id) ??
+    bladewakeLowerItemImageUrl(id) ??
     chronoweaveUpperItemImageUrl(id) ??
+    chronoweaveLowerItemImageUrl(id) ??
     ignivarFrostquenchLowerItemImageUrl(id) ??
     subtletyRogueUpperItemImageUrl(id) ??
+    subtletyRogueLowerItemImageUrl(id) ??
     continuousFlowPendantTierItemImageUrl(id) ??
     hourbinderLowerItemImageUrl(id) ??
     ignivarFrostquenchUpperItemImageUrl(id) ??

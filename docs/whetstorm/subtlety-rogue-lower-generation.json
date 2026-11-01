@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_rogue_subtlety_legs",
+      "file": "docs/design/whetstorm-art/subtlety-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/subtlety-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one complete pair of empty rogue leather breeches, clearly separated legs ending at ankle cuffs, charcoal leather, deep teal panels, muted silver trim and pale turquoise diamond accent at waist. Match the supplied tunic's materials, palette, painted rendering, and dark navy background; show only breeches with no boots or person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "182ca7772888bcd5127aac41b65284fbac77491c23a4863bbf362c95b93810ff",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_subtlety_legs.webp",
+        "sha256": "d16156fecae8dfabd285297e70a3600c34924144f795d2e2e2e080ae93ac9c4f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_rogue_subtlety_gloves",
+      "file": "docs/design/whetstorm-art/subtlety-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/subtlety-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one pair of empty rogue leather gloves, recognizable fingers and short cuffs, charcoal leather, deep teal panels, muted silver trim and pale turquoise diamond accents. Match the supplied tunic's materials, palette, painted rendering, and dark navy background; show only gloves with no person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "79b4647ddb7c8c08baa8ae0a7255e14e9f15e2156262c3cdd5ee23bbcf08dbc1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_rogue_subtlety_gloves.webp",
+        "sha256": "4e58cd1f9eefc3ecf7c53d72db4086d78a03dcde20bb2317e4d1b3fca25affbb",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
