@@ -1,0 +1,129 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; text-only independent prompts.",
+  "status": "Documentation candidates only; no route in this art checkout. Gameplay and release rights approval remain pending. Hashes identify bytes, not rights or approval.",
+  "staticReview": {
+    "colorContactSheet": {
+      "path": "docs/design/whetstorm-art/abilities/reviews/launch-class-starters-static.png",
+      "sha256": "d2b8a6c8ebddafd2acd8816b6d76775ade7ff03b4b5d19598780b4fbfc52b415",
+      "bytes": 43716,
+      "sizesPx": [
+        24,
+        32,
+        48
+      ],
+      "scope": "Color screenshot only."
+    },
+    "independentGrayscaleAndSemanticReview": "Independent review found the horn and sound arcs, blade strike, and nature projectile distinguishable at 24, 32 and 48 pixels, including grayscale. At 24 pixels Wildbolt's leaves merge into its trail, but it remains a projectile. Iron Bellow's party benefit and Gutting Strike's momentum mechanics rely on game context. No concrete visual blocker or text or frame was found. Action-bar gameplay review remains pending; the saved screenshot depicts color only."
+  },
+  "records": [
+    {
+      "id": "battle_shout",
+      "class": "warrior",
+      "prompt": "Create one original square fantasy MMORPG ability icon for Iron Bellow, a level-one Warrior battle shout that increases the party's attack power. Show one large rugged bronze-and-iron war horn angled upward, emitting one broad luminous gold sound ripple and three tiny allied sparks. Clear horn silhouette at 24 to 32 pixels, hand-painted fantasy game art, dark warm reddish-brown opaque background, dramatic contrast and restrained detail. No person, face, skull, text, letters, numbers, outer frame, logo, watermark or imitation of any existing game or artist.",
+      "referenceImages": [],
+      "generatedSource": {
+        "sha256": "5a94ad72bc178e6dec4d14682b5e4a9cc21746c051fc02b755a1a9926bae226d",
+        "bytes": 2242929
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warrior/battle_shout.png",
+        "sha256": "5a94ad72bc178e6dec4d14682b5e4a9cc21746c051fc02b755a1a9926bae226d",
+        "bytes": 2242929,
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "alphaMin": 255
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/warrior/candidates/battle_shout.webp",
+        "sha256": "ea2d0aff3f7b3b28b9e126c8318d15e5513018bbca4ebce777a47a31553c9fb7",
+        "bytes": 5960,
+        "dimensions": [
+          128,
+          128
+        ],
+        "alphaMin": 255
+      },
+      "processing": "Sharp Lanczos3 resize to 128x128, WebP quality 90, effort 6; opaque RGB source, no image references.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/warrior_starter_battle_shout.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art repository file or route.",
+        "sha256": "ea2d0aff3f7b3b28b9e126c8318d15e5513018bbca4ebce777a47a31553c9fb7"
+      }
+    },
+    {
+      "id": "raptor_strike",
+      "class": "hunter",
+      "prompt": "Create one original square fantasy MMORPG ability icon for Gutting Strike, a level-one Hunter melee weapon strike that builds hunting momentum. Show one bold silver curved blade slashing across a simple wooden training target, with one small vivid green spark at the impact. No gore or body. Clear slash silhouette at 24 to 32 pixels, hand-painted stylized fantasy game art, deep forest-green and charcoal opaque background, dramatic contrast and restrained detail. No bow, animal face, text, letters, numbers, outer frame, logo, watermark or existing-game imitation.",
+      "referenceImages": [],
+      "generatedSource": {
+        "sha256": "63993a25ae3deb9b8806ddd181e7e86ca1dbb4e617a0c5cf747fcc9fa3a489a7",
+        "bytes": 2415879
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/hunter/raptor_strike.png",
+        "sha256": "63993a25ae3deb9b8806ddd181e7e86ca1dbb4e617a0c5cf747fcc9fa3a489a7",
+        "bytes": 2415879,
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "alphaMin": 255
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/hunter/candidates/raptor_strike.webp",
+        "sha256": "90e630d3d5af9d00763f645828ee8a5500470cc322f8544f4a46248302bcbb51",
+        "bytes": 6526,
+        "dimensions": [
+          128,
+          128
+        ],
+        "alphaMin": 255
+      },
+      "processing": "Sharp Lanczos3 resize to 128x128, WebP quality 90, effort 6; opaque RGB source, no image references.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/hunter_starter_raptor_strike.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art repository file or route.",
+        "sha256": "90e630d3d5af9d00763f645828ee8a5500470cc322f8544f4a46248302bcbb51"
+      }
+    },
+    {
+      "id": "wrath",
+      "class": "druid",
+      "prompt": "Create one original square fantasy MMORPG ability icon for Wildbolt, a level-one Druid nature projectile spell. Show one bright seed-shaped green magical bolt flying diagonally through a dark forest-green void, with a short trail of a few distinct glowing leaves. Bold silhouette readable at 24 to 32 pixels, hand-painted stylized fantasy game art, strong contrast and restrained detail, full-bleed opaque background. No person, weapon, text, letters, numbers, frame, logo, watermark or imitation of any existing game or artist.",
+      "referenceImages": [],
+      "generatedSource": {
+        "sha256": "59a22a3f206e5fd1f364d1a97c2353f327769d4b615daec15c9d0ba7548abdab",
+        "bytes": 2042724
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/druid/wrath.png",
+        "sha256": "59a22a3f206e5fd1f364d1a97c2353f327769d4b615daec15c9d0ba7548abdab",
+        "bytes": 2042724,
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "alphaMin": 255
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/druid/candidates/wrath.webp",
+        "sha256": "fdeecdd28697353a956ab10d70cc73cdc47d6d24c06a6de643fd804045197ed2",
+        "bytes": 5738,
+        "dimensions": [
+          128,
+          128
+        ],
+        "alphaMin": 255
+      },
+      "processing": "Sharp Lanczos3 resize to 128x128, WebP quality 90, effort 6; opaque RGB source, no image references.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/druid_starter_wrath.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art repository file or route.",
+        "sha256": "fdeecdd28697353a956ab10d70cc73cdc47d6d24c06a6de643fd804045197ed2"
+      }
+    }
+  ]
+}

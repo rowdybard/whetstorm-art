@@ -169,6 +169,12 @@ hashes, processing and static small-size review are recorded in
 `docs/whetstorm/warlock-starter-candidates.json`. They are not routed in this
 art checkout; real-game visual review and release approval remain pending.
 
+The Warrior, Hunter, and Druid starter ability candidates were made with OpenAI
+built-in image generation from text-only prompts. Their masters, WebP candidates,
+hashes, processing and small-size review are recorded in
+`docs/whetstorm/launch-class-starter-candidates.json`. They are not routed in
+this art checkout; real-game visual review and release approval remain pending.
+
 ## Do not redistribute these
 
 If you fork this project, or redistribute the repository or a build of it, the
