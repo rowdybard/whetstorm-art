@@ -1,0 +1,267 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "references": "No image references; selected candidates use text-only independent prompts.",
+  "status": "Candidates only; no route in this art checkout. Gameplay and release rights approval remain pending. Hashes identify bytes, not rights or approval.",
+  "staticReview": {
+    "colorContactSheet": {
+      "path": "docs/design/whetstorm-art/abilities/warlock/reviews/warlock-starters-static.png",
+      "sha256": "69eed98031d6a0ccda693524733d01475c814288b30b5e77c025eb7d2e760fd3",
+      "bytes": 83637,
+      "sizesPx": [
+        24,
+        32,
+        48
+      ],
+      "scope": "Color screenshot only."
+    },
+    "independentGrayscaleAndSemanticReview": "Independent frontend review found distinguishable silhouettes at 24, 32, and 48 pixels, and Fiendhide v2 clearer than v1. At 24px grayscale, Blackrot vine details compress and Umbral Anchor stone and arrow lose fine detail. Hard Bargain heart is dark and the crystal meaning depends on game context; Summon Emberkin creature or pet meaning also depends on context. No concrete static blocker was found. Actual action-bar comparison remains unverified. The color screenshot does not depict the grayscale review."
+  },
+  "records": [
+    {
+      "id": "shadow_bolt",
+      "prompt": "Create one original square fantasy MMORPG ability icon for Gloom Bolt, a starting Warlock spell that fires a shadow projectile. Show one large inky violet energy bolt with a dark core and a ragged smoky tail, streaking diagonally through a black-purple void. Strong luminous silhouette, dramatic readable contrast at 32 pixels, hand-painted fantasy game art, painterly material and restrained detail, full-bleed opaque background. No frame, border, text, letters, numbers, logo, watermark, characters, skulls or symbols. Original design, do not imitate any existing game or artist.",
+      "referenceImages": [],
+      "generatedSource": {
+        "sha256": "2355a95b0da538879c13db86a4ed4d8b472383f35f945a1be42d3c64ffeca2a7",
+        "bytes": 2000237
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warlock/shadow_bolt.png",
+        "sha256": "2355a95b0da538879c13db86a4ed4d8b472383f35f945a1be42d3c64ffeca2a7",
+        "bytes": 2000237,
+        "format": "png",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "alphaMin": 255,
+        "alphaMax": 255
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/warlock/candidates/shadow_bolt.webp",
+        "sha256": "73f485d0968d37013654be8fead715f4af0443db5a6f11427de32def225298bc",
+        "bytes": 5210,
+        "format": "webp",
+        "dimensions": [
+          128,
+          128
+        ],
+        "alphaMin": 255,
+        "alphaMax": 255
+      },
+      "status": "Documentation-only candidate; static review completed. In-game review and release rights remain pending.",
+      "processing": "Sharp 0.35.4: rotate(); resize(128, 128, { fit: 'cover', position: 'centre' }); toColorspace('srgb'); webp({ quality: 82, smartSubsample: true, effort: 6 }); metadata stripped by default. Sources and deliveries fully decoded and alpha verified opaque.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/warlock_starter_shadow_bolt.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art-repository file or route.",
+        "sha256": "73f485d0968d37013654be8fead715f4af0443db5a6f11427de32def225298bc",
+        "abilityId": "shadow_bolt"
+      }
+    },
+    {
+      "id": "summon_imp",
+      "prompt": "Create one original square fantasy MMORPG ability icon for Summon Emberkin, a starting Warlock pet-summoning spell. Show a single luminous orange ember-spirit spark rising from a large simple violet summoning ring in a dark smoky void; the spark has two short curling flame wisps, no face and no specific creature anatomy. The portal and summoned ember must read clearly at 32 pixels. Hand-painted stylized fantasy game art, strong contrast, full-bleed opaque background, restrained detail. No existing-game designs, no frame, text, letters, readable glyphs, numerals, logo, watermark, weapons or additional icons.",
+      "referenceImages": [],
+      "generatedSource": {
+        "sha256": "4ee7dce3d693cadf27694fe9ab7023cc8e41dbff41f1d9e50363cf20441851b0",
+        "bytes": 2093490
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warlock/summon_imp.png",
+        "sha256": "4ee7dce3d693cadf27694fe9ab7023cc8e41dbff41f1d9e50363cf20441851b0",
+        "bytes": 2093490,
+        "format": "png",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "alphaMin": 255,
+        "alphaMax": 255
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/warlock/candidates/summon_imp.webp",
+        "sha256": "127f48048daee153bbd48f415b8e38dea8c2d6388774d6f9c401abb8d995c65f",
+        "bytes": 4552,
+        "format": "webp",
+        "dimensions": [
+          128,
+          128
+        ],
+        "alphaMin": 255,
+        "alphaMax": 255
+      },
+      "status": "Documentation-only candidate; static review completed. In-game review and release rights remain pending.",
+      "processing": "Sharp 0.35.4: rotate(); resize(128, 128, { fit: 'cover', position: 'centre' }); toColorspace('srgb'); webp({ quality: 82, smartSubsample: true, effort: 6 }); metadata stripped by default. Sources and deliveries fully decoded and alpha verified opaque.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/warlock_starter_summon_imp.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art-repository file or route.",
+        "sha256": "127f48048daee153bbd48f415b8e38dea8c2d6388774d6f9c401abb8d995c65f",
+        "abilityId": "summon_imp"
+      }
+    },
+    {
+      "id": "demon_skin-v2",
+      "prompt": "Create one original square fantasy MMORPG ability icon for Fiendhide, a starting Warlock defensive buff that hardens the caster's skin. Show ONE large upraised forearm and hand held in a guarding pose, visibly covered by broad dark obsidian scales, with a simple thin violet protective aura tracing its outline. No weapon or shield; the recognizable guarded arm must fill most of the image and read at 24 to 32 pixels. Bold silhouette, warm edge light, dark smoky purple background, hand-painted stylized fantasy game art, full-bleed opaque composition, minimal small detail. No face, text, letters, numbers, outer frame, logo, watermark, fireball or existing-game imitation.",
+      "referenceImages": [],
+      "generatedSource": {
+        "sha256": "c4fc73b23da0cde555fe19cb14abdc6357d80d6c4ecad80fffa891ff58ca5787",
+        "bytes": 2280790
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warlock/demon_skin-v2.png",
+        "sha256": "c4fc73b23da0cde555fe19cb14abdc6357d80d6c4ecad80fffa891ff58ca5787",
+        "bytes": 2280790,
+        "format": "png",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "alphaMin": 255,
+        "alphaMax": 255
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/warlock/candidates/demon_skin-v2.webp",
+        "sha256": "45c9bce8c69dfce62b317cf821cd17b46ef7679cadcaf41d56feecdfe385252f",
+        "bytes": 5248,
+        "format": "webp",
+        "dimensions": [
+          128,
+          128
+        ],
+        "alphaMin": 255,
+        "alphaMax": 255
+      },
+      "processing": "Sharp 0.35.4: rotate(); resize(128, 128, { fit: 'cover', position: 'centre' }); toColorspace('srgb'); webp({ quality: 82, smartSubsample: true, effort: 6 }); metadata stripped by default. Sources and deliveries fully decoded and alpha verified opaque.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/warlock_starter_demon_skin.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art-repository file or route.",
+        "abilityId": "demon_skin",
+        "sha256": "45c9bce8c69dfce62b317cf821cd17b46ef7679cadcaf41d56feecdfe385252f"
+      },
+      "status": "Documentation-only candidate; static review completed. In-game review and release rights remain pending."
+    },
+    {
+      "id": "corruption",
+      "prompt": "Create one original square fantasy MMORPG ability icon for Blackrot, a Warlock damage-over-time curse. Show a black thorny vine curling around one luminous sickly violet core, with a few wisps of shadow spreading outward. The single central motif must read at 32 pixels. Dark purple-black background, hand-painted stylized fantasy game art, strong contrast and restrained detail, full-bleed opaque composition. No frame, text, letters, numbers, skull, face, weapon, logo, watermark or borrowed game design.",
+      "referenceImages": [],
+      "generatedSource": {
+        "sha256": "d84fc2db222a6c205eec230581a5c066c9ed04efd2ebd9b448ad9a674c857f8e",
+        "bytes": 2169147
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warlock/corruption.png",
+        "sha256": "d84fc2db222a6c205eec230581a5c066c9ed04efd2ebd9b448ad9a674c857f8e",
+        "bytes": 2169147,
+        "format": "png",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "alphaMin": 255,
+        "alphaMax": 255
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/warlock/candidates/corruption.webp",
+        "sha256": "fe06b7762e8b802f5ed86a08b90ed1a5da1f071be0fa9341b405d80a98baa09e",
+        "bytes": 5134,
+        "format": "webp",
+        "dimensions": [
+          128,
+          128
+        ],
+        "alphaMin": 255,
+        "alphaMax": 255
+      },
+      "status": "Documentation-only candidate; static review completed. In-game review and release rights remain pending.",
+      "processing": "Sharp 0.35.4: rotate(); resize(128, 128, { fit: 'cover', position: 'centre' }); toColorspace('srgb'); webp({ quality: 82, smartSubsample: true, effort: 6 }); metadata stripped by default. Sources and deliveries fully decoded and alpha verified opaque.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/warlock_starter_corruption.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art-repository file or route.",
+        "sha256": "fe06b7762e8b802f5ed86a08b90ed1a5da1f071be0fa9341b405d80a98baa09e",
+        "abilityId": "corruption"
+      }
+    },
+    {
+      "id": "umbral_anchor-v2",
+      "prompt": "Create one original square fantasy MMORPG ability icon for Umbral Anchor, a Warlock spell that creates a shadow waypoint and returns the caster to it. Show ONE tall dark stone waypoint with a single large luminous purple curved arrow bending back toward the stone from the upper right, with its broad arrowhead clearly pointing at the stone. Keep the arrow and stone as two distinct bold shapes, readable at 24 to 32 pixels and in grayscale. Hand-painted stylized dark fantasy, deep violet-black opaque background, restrained detail. No circular portal, ship anchor, character, readable glyphs, text, letters, numbers, border, logo, watermark or existing-game imitation.",
+      "referenceImages": [],
+      "generatedSource": {
+        "sha256": "5615211400b3db1120b98fff1299b27756a33cd9f617fe1c6c263690659e312d",
+        "bytes": 2078251
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warlock/umbral_anchor-v2.png",
+        "sha256": "5615211400b3db1120b98fff1299b27756a33cd9f617fe1c6c263690659e312d",
+        "bytes": 2078251,
+        "format": "png",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "alphaMin": 255,
+        "alphaMax": 255
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/warlock/candidates/umbral_anchor-v2.webp",
+        "sha256": "1d7250171a51ea195c76d7e1020be96b1784675714a5e824a66d7aeb9298e022",
+        "bytes": 3460,
+        "format": "webp",
+        "dimensions": [
+          128,
+          128
+        ],
+        "alphaMin": 255,
+        "alphaMax": 255
+      },
+      "status": "Documentation-only candidate; static review completed. In-game review and release rights remain pending.",
+      "processing": "Sharp 0.35.4: rotate(); resize(128, 128, { fit: 'cover', position: 'centre' }); toColorspace('srgb'); webp({ quality: 82, smartSubsample: true, effort: 6 }); metadata stripped by default. Sources and deliveries fully decoded and alpha verified opaque.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/warlock_starter_umbral_anchor.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art-repository file or route.",
+        "sha256": "1d7250171a51ea195c76d7e1020be96b1784675714a5e824a66d7aeb9298e022",
+        "abilityId": "umbral_anchor"
+      }
+    },
+    {
+      "id": "life_tap-v2",
+      "prompt": "Create one original square fantasy MMORPG ability icon for Hard Bargain, a Warlock spell that converts the caster's health into mana. Show ONE simple red heart at lower left and ONE tall angular blue mana crystal at upper right, joined by one large pale curved arrow pointing from heart to crystal. Use distinct silhouettes so the conversion remains readable at 24 to 32 pixels and in grayscale, not by color alone. Hand-painted dark fantasy style, deep violet-black opaque background, bold shapes and restrained detail. No hand, flame, blood, gore, face, text, letters, numbers, border, logo, watermark or existing-game imitation.",
+      "referenceImages": [],
+      "generatedSource": {
+        "sha256": "9372a8a2ca81c5e2bed5fd169beae7708d9f6fc3a45949ac34686819d961497a",
+        "bytes": 2208182
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warlock/life_tap-v2.png",
+        "sha256": "9372a8a2ca81c5e2bed5fd169beae7708d9f6fc3a45949ac34686819d961497a",
+        "bytes": 2208182,
+        "format": "png",
+        "dimensions": [
+          1254,
+          1254
+        ],
+        "alphaMin": 255,
+        "alphaMax": 255
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/warlock/candidates/life_tap-v2.webp",
+        "sha256": "730c58a52746c58cfe39e0041ae199a675d708bad4349d204d5c38667bbc231a",
+        "bytes": 4220,
+        "format": "webp",
+        "dimensions": [
+          128,
+          128
+        ],
+        "alphaMin": 255,
+        "alphaMax": 255
+      },
+      "status": "Documentation-only candidate; static review completed. In-game review and release rights remain pending.",
+      "processing": "Sharp 0.35.4: rotate(); resize(128, 128, { fit: 'cover', position: 'centre' }); toColorspace('srgb'); webp({ quality: 82, smartSubsample: true, effort: 6 }); metadata stripped by default. Sources and deliveries fully decoded and alpha verified opaque.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/warlock_starter_life_tap.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art-repository file or route.",
+        "sha256": "730c58a52746c58cfe39e0041ae199a675d708bad4349d204d5c38667bbc231a",
+        "abilityId": "life_tap"
+      }
+    }
+  ]
+}

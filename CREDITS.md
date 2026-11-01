@@ -163,6 +163,12 @@ references. Their prompts, hashes and static small-size review are recorded in
 raw-to-master chains remain unverified. These candidates are not routed in
 this checkout and have not been approved through an in-game review.
 
+Six starting Warlock ability candidates were made with OpenAI built-in image
+generation from text-only prompts. Their selected masters, WebP candidates,
+hashes, processing and static small-size review are recorded in
+`docs/whetstorm/warlock-starter-candidates.json`. They are not routed in this
+art checkout; real-game visual review and release approval remain pending.
+
 ## Do not redistribute these
 
 If you fork this project, or redistribute the repository or a build of it, the
