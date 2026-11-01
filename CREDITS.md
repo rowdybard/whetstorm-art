@@ -1818,6 +1818,10 @@ image generation using Whetstorm's item painting as reference; prompt and
 hashes are recorded in `docs/design/whetstorm-concepts/sunpetal-grimoire-3d-intake.json`.
 It is a concept, not a production model.
 
+Two Buried Hoard aura paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/hoard-storm-grasp-auras-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

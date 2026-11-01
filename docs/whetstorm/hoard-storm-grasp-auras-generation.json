@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "hoard_storm_surge",
+      "runtimeIds": [
+        "hoard_storm_surge"
+      ],
+      "file": "docs/design/whetstorm-art/auras/hoard_storm_surge-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square painterly fantasy RPG aura icon, bold and legible at 28 pixels: a large single bright cyan lightning bolt drawn upward from a pool of crackling charged ground into a simple dark armored chest silhouette, conveying a boss growing stronger while standing in a storm field. Dramatic high contrast, deep dark blue background, centered simple forms. No text, numerals, border, logo, watermark, or copied game imagery.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "78ddba33c34daa3ffcd93250801e0ff55426a4fce368bed3338ddc525d7a8229",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/hoard_storm_surge.webp",
+        "sha256": "5ce21da72b00d2c2f98b4d6cd9268570d57860c5e1d5f88ff98016e059ac4faa",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "id": "hoard_tentacle_grasp",
+      "runtimeIds": [
+        "hoard_tentacle_grasp"
+      ],
+      "file": "docs/design/whetstorm-art/auras/hoard_tentacle_grasp-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square painterly fantasy RPG aura icon, bold and legible at 28 pixels: a single thick teal sea-monster tentacle tightly coiled around one upright silver armored gauntlet, unmistakably gripping and immobilizing it. Large clear central silhouette, high contrast against simple deep navy background, no other creatures, scene, lettering, numerals, border, logo, watermark or copied game imagery.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "98a66a535e1d3a2272f6f30770239836e9ba7431c3d8ad1622449e68d35c1676",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/hoard_tentacle_grasp.webp",
+        "sha256": "aecc999dcd1088233c9d6267a8d64d9f623c76199509361d9ca8806a670df421",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
