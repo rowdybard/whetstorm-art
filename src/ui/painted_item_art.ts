@@ -64,6 +64,11 @@ import { emberlashUpperItemImageUrl } from './emberlash_upper_item_art';
 import { emberlashLowerItemImageUrl } from './emberlash_lower_item_art';
 import { ignivarWarspiritLowerItemImageUrl } from './ignivar_warspirit_lower_item_art';
 import { ignivarMailTankItemImageUrl } from './ignivar_mail_tank_item_art';
+import { ignivarMailDamageItemImageUrl } from './ignivar_mail_damage_item_art';
+import { continuousFlowPendantTierItemImageUrl } from './continuous_flow_pendant_tier_item_art';
+import { hourbinderLowerItemImageUrl } from './hourbinder_lower_item_art';
+import { ignivarFrostquenchUpperItemImageUrl } from './ignivar_frostquench_upper_item_art';
+import { arcaneMageUpperItemImageUrl } from './arcane_mage_upper_item_art';
 import { collapsarRingTierItemImageUrl } from './collapsar_ring_tier_item_art';
 import { mountainBandTierItemImageUrl } from './mountain_band_tier_item_art';
 import { chainedEmberChokerTierItemImageUrl } from './chained_ember_choker_tier_item_art';
@@ -468,6 +473,11 @@ export function paintedItemImageUrl(id: string): string | null {
     emberlashLowerItemImageUrl(id) ??
     ignivarWarspiritLowerItemImageUrl(id) ??
     ignivarMailTankItemImageUrl(id) ??
+    ignivarMailDamageItemImageUrl(id) ??
+    continuousFlowPendantTierItemImageUrl(id) ??
+    hourbinderLowerItemImageUrl(id) ??
+    ignivarFrostquenchUpperItemImageUrl(id) ??
+    arcaneMageUpperItemImageUrl(id) ??
     collapsarRingTierItemImageUrl(id) ??
     mountainBandTierItemImageUrl(id) ??
     chainedEmberChokerTierItemImageUrl(id) ??

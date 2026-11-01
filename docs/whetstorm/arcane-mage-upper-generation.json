@@ -1,0 +1,74 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_mage_arcane_helmet",
+      "file": "docs/design/whetstorm-art/arcane-cowl-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one empty arcane mage's cloth hood with deep indigo fabric, rich violet lining, silver-gold trim and a luminous violet hourglass-shaped forehead gem. Large clear complete hood silhouette, front view, centered against dark muted blue background. Premium painterly fantasy illustration with warm edge light. No wearer, text, lettering, frame, logo, watermark or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "b3eba300bfde0890e2ba0c79c793e263a6ce6033a2720d0f5ab54af1b96cf52c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_mage_arcane_helmet.webp",
+        "sha256": "5c2aab44621c28a22180ff566863c15d37486e1ce8c7373746db0b8ceda40124",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_mage_arcane_shoulder",
+      "file": "docs/design/whetstorm-art/arcane-mantle-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete arcane mage's cloth amice, a symmetrical pair of swept indigo fabric shoulder pieces joined at collar, violet lining, silver-gold trim and luminous violet hourglass gems. Large clear complete shoulder silhouette, front view, centered against dark muted blue background. Premium painterly fantasy illustration with warm edge light. No wearer, text, lettering, frame, logo, watermark or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "92f500151a92dd13909d9f05db16a43f5f1524090b211469860c0eafeda677db",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_mage_arcane_shoulder.webp",
+        "sha256": "6990bfa0db13b067bc856a4f78ae525790e74ccf8d41d89f7f0fdfb06a7ae958",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_mage_arcane_chest",
+      "file": "docs/design/whetstorm-art/arcane-robes-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: one complete empty arcane mage's long cloth robe with recognizable shoulders, sleeves, waist and flared hem, deep indigo fabric, violet front panel, silver-gold trim and luminous violet hourglass chest gem. Large clear complete garment silhouette, front view, centered against dark muted blue background. Premium painterly fantasy illustration with warm edge light. No wearer, text, lettering, frame, logo, watermark or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "b991b14481014cb7b838b468d3fba00dff2050469a86ad6b92e71f4b68c892e5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_mage_arcane_chest.webp",
+        "sha256": "55ae94464b276f52478d80432305a589ac62cb1522861aef9c5f1beea6057342",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

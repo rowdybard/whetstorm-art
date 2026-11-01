@@ -1393,6 +1393,26 @@ The Yumi cheer deed painting was generated with OpenAI's built-in image
 generation; its prompt and hashes are recorded in
 `docs/whetstorm/deed-yumi-cheer-generation.json`.
 
+Two Ignivar mail armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/ignivar-mail-damage-generation.json`.
+
+Two Continuous Flow pendant tier paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/continuous-flow-pendant-tier-generation.json`.
+
+Two Hourbinder armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/hourbinder-lower-generation.json`.
+
+Three Frostquench armor paintings were generated with OpenAI's built-in image
+generation; prompts, references, and hashes are recorded in
+`docs/whetstorm/ignivar-frostquench-upper-generation.json`.
+
+Three Arcane Mage armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/arcane-mage-upper-generation.json`.
+
 Two Chained Ember Choker tier paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/chained-ember-choker-tiers-original/chained-ember-choker-provenance.json`.

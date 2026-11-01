@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_mage_arcane_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_mage_arcane_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original opaque square fantasy MMO inventory painting for Hourbinder's Trousers, a mage's cloth trousers. Center a complete symmetrical pair of deep indigo cloth trousers, silver-gold trim at the waistband and cuffs, one luminous violet hourglass gem at the belt. No body or feet. Rich hand-painted dark fantasy game art, warm top-left light, dark blue vignette, readable at 28px. Subject fills about 70 percent of square with safe padding. No text, border, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "eaf5f7768cc17e46a7230e6c32226a3117fb6e4674dfbde55a419dc0b2f7b11c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_mage_arcane_legs.webp",
+        "sha256": "6c965fcb45cdac9a77eeb1b69b59e3a0a7bf074d5555919f7d0bca8cecddd783",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_mage_arcane_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_mage_arcane_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create one original opaque square fantasy MMO inventory painting for Hourbinder's Gloves, mage cloth gloves. Center a compact natural pair of deep indigo cloth gloves with silver-gold wrist trim and one luminous violet hourglass gem on the back of each glove. No arms or person. Rich hand-painted dark fantasy game art, warm top-left light, dark blue vignette, readable at 28px. Subject fills about 70 percent of square with safe padding. No text, border, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "5d660a18e7a342e1c79b4fecc3cafd85da2b00a072c8317681c7184850aea85e",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_mage_arcane_gloves.webp",
+        "sha256": "df2af703f55bff948d832b0a379ba67f2978e6b0dd42f80084eadeb64a15c68f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

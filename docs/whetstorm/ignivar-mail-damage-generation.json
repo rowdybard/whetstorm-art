@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "warforged_waistguard",
+      "file": "docs/design/whetstorm-art/items/warforged_waistguard.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create an original square fantasy RPG inventory icon painting of a single mail warrior waistguard, bold dark iron segmented metal scales and deep red leather, with a large bronze diamond-shaped buckle split by a glowing orange furnace seam. Centered large, bold silhouette, on a muted deep navy charcoal painted background. Painterly classic fantasy game art with warm edge lighting, readable at 28 pixels. No person, lettering, frame, logo, watermark or other item.",
+      "sha256": "0c17925af420a39f91f4328cd9406ff04a5e15670d00c677811134ad85bbfb04",
+      "delivery": { "path": "public/ui/whetstorm/items/warforged_waistguard.webp", "sha256": "6097366fdad624b6ccb98f2559795bf8ba05726f29e1d3c4348287332dca401c", "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6" }
+    },
+    {
+      "itemId": "furnace_march_greaves",
+      "file": "docs/design/whetstorm-art/items/furnace_march_greaves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Create an original square fantasy RPG inventory icon painting of a single mail warrior armored boot, bold dark iron segmented scales and deep red leather, bronze diamond-shaped trim split by glowing orange furnace seams. Three-quarter view, centered large, bold boot silhouette, on a muted deep navy charcoal painted background. Painterly classic fantasy game art with warm edge lighting, readable at 28 pixels. No person, lettering, frame, logo, watermark or other item.",
+      "sha256": "5b262a9203b37fdd2852c5c32ee001eddb572b7e0f3091661d1c24a8374a43e8",
+      "delivery": { "path": "public/ui/whetstorm/items/furnace_march_greaves.webp", "sha256": "7c0ade7a4d868a818514148447bd79eb654b907bf585465a804b89dfa8644355", "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6" }
+    }
+  ]
+}

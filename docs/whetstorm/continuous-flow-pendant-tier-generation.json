@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "rare_pendant_continuous_flow",
+      "file": "docs/design/whetstorm-art/items/rare_pendant_continuous_flow.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square Whetstorm inventory painting for Tarnished Pendant of Continuous Flow. One complete silver necklace with a slim worn oval hoop chain and a small aqua teardrop gemstone held by two simple weathered silver wave arms. The gemstone and necklace are clear and centered, full silhouette with safe padding. Deep ocean blue painted vignette, restrained magic, warm upper-left light, cool shadows, hand-painted classic fantasy MMO materials. Crisp shape readable at 28px. No person, writing, symbols, UI frame, watermark, transparent background or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "5b4ae613ed336aa7ab38905f6715c09e66fa1432d03fc8cfcfd01a4d84404eb2",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/rare_pendant_continuous_flow.webp",
+        "sha256": "29ff5e3617ae281a07351e824af6b417e3da936556f03164a8be10ce250b6e37",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "legendary_pendant_continuous_flow",
+      "file": "docs/design/whetstorm-art/items/legendary_pendant_continuous_flow.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square Whetstorm inventory painting for Sovereign Pendant of Continuous Flow. One complete silver necklace with a compact heavy linked chain and a large glowing aqua teardrop gemstone set within a bold elaborate double crest of curling silver waves, with two broad outward-swept tips forming a distinctive regal silhouette. Full necklace centered with safe padding. Deep ocean blue painted vignette, restrained magic, warm upper-left light, cool shadows, hand-painted classic fantasy MMO materials. Crisp shape readable at 28px. No person, writing, symbols, UI frame, watermark, transparent background or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "e241e4f8bfe33229f85fee60ab045120d47eb7dcc5aa534c076543e90973d8fd",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/legendary_pendant_continuous_flow.webp",
+        "sha256": "be9fde41cf485d8b015f0b8aab736062783fd188bdacc0dab3fc542d64d40d83",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

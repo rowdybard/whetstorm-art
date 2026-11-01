@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "frostquench_helmet",
+      "file": "docs/design/whetstorm-art/ignivar-frostquench-helmet-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square dark fantasy RPG inventory painting of Frostquench Hood: one empty cloth mage hood, deep navy and icy blue layered fabric, silver edging and a restrained pale frost crystal at the brow, angular silhouette with a dark empty opening. Centered complete hood, no head, filling about 75% of frame against dark slate-blue painted ground. Warm upper-left highlights, tactile painterly fabric, crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, person or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "b806e5be1e1f6bee0f4f9bf084b1fec12cfd3a002979639c5a020a5fa81eddd4",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/frostquench_helmet.webp",
+        "sha256": "b6b17e427e16ceed285b9781b9b71e3d097cb52a5273f9fe0b7ba0ca8739d8ea",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "frostquench_shoulder",
+      "file": "docs/design/whetstorm-art/ignivar-frostquench-shoulder-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-frostquench-helmet-master.png"
+      ],
+      "prompt": "Create an original square dark fantasy RPG inventory painting of Frostquench Mantle: one complete symmetrical cloth mage shoulder mantle, layered deep navy and icy blue fabric, silver edging and restrained pale frost crystal accents. Coordinate materials and style with the reference hood but depict only shoulders, no hood, head, torso or person. Center the complete shoulder shape, about 75% of frame, dark slate-blue painted ground, warm upper-left highlights, tactile painterly fabric and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "879926e73b8f64c371ca3f7d4f3238b517c18eba24b7f00c0818a9d337224e1d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/frostquench_shoulder.webp",
+        "sha256": "ff6cc66bb6873c6a960c36bf6d9c0ac519f80c3d062a95b37705659c2add0229",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "frostquench_chest",
+      "file": "docs/design/whetstorm-art/ignivar-frostquench-chest-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-frostquench-helmet-master.png"
+      ],
+      "prompt": "Create an original square dark fantasy RPG inventory painting of Frostquench Robe: one complete empty full-length cloth mage robe with sleeves, layered deep navy and icy blue fabric, silver edging and a restrained pale frost crystal at chest. Coordinate materials and style with the reference hood but depict only the robe, no hood, head, hands, body or person. Center the complete garment about 75% of frame against dark slate-blue painted ground, warm upper-left highlights, tactile painterly fabric and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "a7ee2b8ba4746c6903516161fbee08a8ed3b241bde685a33d78d9a6de642fc9d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/frostquench_chest.webp",
+        "sha256": "dfce4e12c896f761cefdfa80b913320b9cf801831a778beca9eb412e11d53c55",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
