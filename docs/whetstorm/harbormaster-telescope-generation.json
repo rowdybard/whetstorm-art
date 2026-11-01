@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-concepts/harbormaster-telescope-original.png",
+      "subject": "Independent harbormaster telescope prop concept",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL stylized fantasy game prop concept from ordinary practical nautical forms: a compact CLOSED collapsible brass spyglass, concentric nested tubes retracted together, with a dark leather grip, secured in a simple practical leather belt sheath with a visible belt loop. Show the whole telescope and sheath together as one compact object in a clear three-quarter view, centered with generous margins on perfectly plain white background. Tactile worn brass and leather, hand-painted game concept art, simple construction legible to a modeler. No person, hands, scenery, unrelated objects, lettering, numerals, symbols, logos, watermark, border or cast shadow. No dimensions. Do not imitate any existing game asset or artist.",
+      "sha256": "0f5464a9a9ac1dcd23f10a838599ed35f32d39d7ee69e49063b40969c8630123",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "status": "2D concept for review; no 3D model",
+      "validation_needed": [
+        "Holster attachment to hip rig and bind frame",
+        "Animation clipping and body fit",
+        "Preload and graphics-tier behavior",
+        "3D fit, materials and in-game review"
+      ]
+    }
+  ]
+}

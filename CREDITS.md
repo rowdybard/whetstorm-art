@@ -1744,6 +1744,11 @@ One unshipped analytical shout-dust candidate and its generator are described
 in `docs/whetstorm/shout-dust-candidate.md`. It uses no input images and is
 not an accepted runtime replacement.
 
+One harbormaster telescope concept was generated with OpenAI's built-in
+image generation; its prompt and hash are recorded in
+`docs/whetstorm/harbormaster-telescope-generation.json`. It is a concept,
+not a production model.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
