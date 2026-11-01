@@ -1782,6 +1782,10 @@ Three Nythraxis binding aura paintings were generated with OpenAI's built-in
 image generation; prompts, deliberate aliases and hashes are recorded in
 `docs/whetstorm/nythraxis-binding-aura-generation.json`.
 
+Three Nythraxis enrage aura paintings were generated with OpenAI's built-in
+image generation; prompts, deliberate aliases and hashes are recorded in
+`docs/whetstorm/nythraxis-enrage-auras-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

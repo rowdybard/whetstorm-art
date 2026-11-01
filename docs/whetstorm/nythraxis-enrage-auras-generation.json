@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "nythraxis_unbound",
+      "runtimeIds": [
+        "nythraxis_unbound"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_unbound-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square full-bleed fantasy RPG aura icon for a deathless king becoming unbound after a failed binding: a broken iron shackle with two separated chain ends erupting with restrained violet shadow light. Centered bold silhouette on dark slate background, readable at 24 pixels. Painterly, no text, letters, numbers, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "c8531880e40bdada29bedfead44604b86101d13581350655805029fc0a4deb81",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_unbound.webp",
+        "sha256": "60aaeed174f1c628dce523ed2684f97d954cde85fc55f22a982c7f4ca2f8cada",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "id": "nythraxis_kings_wrath",
+      "runtimeIds": [
+        "nythraxis_kings_wrath"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_kings_wrath-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square full-bleed fantasy RPG aura icon for a deathless king's wrath phase: a battered dark iron crown above a single vivid crimson flame, suggesting increasing fury. Centered bold silhouette on dark slate background, readable at 24 pixels. Painterly, no text, letters, numbers, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "9d7229d8baa61971b9225393789f478ab762e1c60015e85a0c2b5a352de8269b",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_kings_wrath.webp",
+        "sha256": "d5c83a29841ea80864c2e89bb19ce9c273b46e15f248e1d2140b65401fc6a801",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "id": "nythraxis_crown_endures",
+      "runtimeIds": [
+        "nythraxis_crown_endures",
+        "nythraxis_crown_endures_haste"
+      ],
+      "file": "docs/design/whetstorm-art/auras/nythraxis_crown_endures-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square full-bleed fantasy RPG aura icon for a deathless king's timed enrage, increasing damage and haste: an ancient gold crown framed by a bright rising spiral of orange energy. Centered bold silhouette on dark slate background, readable at 24 pixels. Painterly, no text, letters, numbers, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "57871272449c24f46cdbce1318c8009e1fcd992f7bda1af1d4cf36e3203539ea",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/nythraxis_crown_endures.webp",
+        "sha256": "64b178531a1b97551ee29fffb8ad3990391c680bf5e920874f04c400ecf0c54a",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
