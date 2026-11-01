@@ -1709,6 +1709,10 @@ generation; its prompt and hash are recorded in
 `docs/design/whetstorm-concepts/marsh-reed-clump-provenance.json`. It is a
 concept, not a production model.
 
+Five retained Vale Cup deed paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/deed-vale-cup-five-generation.json`. The mode is retired.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

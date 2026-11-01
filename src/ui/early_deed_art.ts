@@ -1,5 +1,6 @@
 import { activityDeedImageUrl } from './activity_deed_art';
 import { yumiCheerDeedImageUrl } from './yumi_cheer_deed_art';
+import { valeCupFiveDeedImageUrl } from './vale_cup_five_deed_art';
 import { adventureMilestoneDeedImageUrl } from './adventure_milestone_deed_art';
 import { amberfallEvergardenDeedImageUrl } from './amberfall_evergarden_deed_art';
 import { armorFamiliesDeedImageUrl } from './armor_families_deed_art';
@@ -90,6 +91,7 @@ export function earlyDeedImageUrl(id: string): string | null {
   return (
     EARLY_DEED_ART.get(id) ??
     yumiCheerDeedImageUrl(id) ??
+    valeCupFiveDeedImageUrl(id) ??
     hiddenAbstractFourDeedImageUrl(id) ??
     eraBrambleDeedImageUrl(id) ??
     socialHiddenFourDeedImageUrl(id) ??

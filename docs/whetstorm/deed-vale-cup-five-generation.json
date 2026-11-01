@@ -1,0 +1,64 @@
+{
+  "records": [
+    {
+      "id": "pvp_vcup_hat_trick",
+      "master": "docs/design/whetstorm-art/deeds/pvp_vcup_hat_trick.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon: three leather footballs arranged in a triangle above a goal net, three bright scoring streaks, celebrating three goals. Strong simple central shapes readable at 28 pixels, atmospheric arena background fills every corner. No text, letters, numerals, logos, watermarks, borders or imitation of other games or artists.",
+      "masterSha256": "2a4710c5420efce9b08dbffe993cb2e73588e05621ce6d890a5e3d4f29d65d7c",
+      "shipping": "public/ui/whetstorm/deeds/pvp_vcup_hat_trick.webp",
+      "shippingSha256": "2d95b0e9ea08639ba103bd4799cdbfeefdaddd6771868e624ff6d8b3045d9a76",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6",
+      "availability": "Retired Vale Cup deed; no longer newly earnable."
+    },
+    {
+      "id": "pvp_vcup_golden_goal",
+      "master": "docs/design/whetstorm-art/deeds/pvp_vcup_golden_goal.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon: a single glowing golden football bursting through a goal net at the decisive moment. Strong simple central shapes readable at 28 pixels, atmospheric arena background fills every corner. No text, letters, numerals, logos, watermarks, borders or imitation of other games or artists.",
+      "masterSha256": "4ff8995808ce202e7bc05e84ad010c38d084e49d4c9e4f0838e4def3e37a2658",
+      "shipping": "public/ui/whetstorm/deeds/pvp_vcup_golden_goal.webp",
+      "shippingSha256": "e0074888103d05a17ee554a72f6529e95a7a38673f8c64f272621c2d9984e831",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6",
+      "availability": "Retired Vale Cup deed; no longer newly earnable."
+    },
+    {
+      "id": "pvp_vcup_first_save",
+      "master": "docs/design/whetstorm-art/deeds/pvp_vcup_first_save.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "A pair of padded goalkeeper gloves catching a fast round black-and-white soccer ball, visible action streaks. Original square full-bleed hand-painted fantasy MMORPG achievement icon, strong simple central shapes readable at 28 pixels, atmospheric arena background. Round association football, never an oval American football. No text, letters, numerals, logos, watermark, borders, or imitation of other games or artists.",
+      "masterSha256": "a1d3334177be2290d739d674da21f9cf20a841d10f05fd72aff9f91e3020771a",
+      "shipping": "public/ui/whetstorm/deeds/pvp_vcup_first_save.webp",
+      "shippingSha256": "c2eb8fbf4a829ebc61372816cad6a0352492716b480eb1f67a92ab57c358343f",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6",
+      "availability": "Retired Vale Cup deed; no longer newly earnable."
+    },
+    {
+      "id": "pvp_vcup_clean_sheet",
+      "master": "docs/design/whetstorm-art/deeds/pvp_vcup_clean_sheet.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original square full-bleed hand-painted fantasy MMORPG achievement icon: a strong keeper shield protecting an empty goal net, a deflected football outside. Strong simple central shapes readable at 28 pixels, atmospheric arena background fills every corner. No text, letters, numerals, logos, watermarks, borders or imitation of other games or artists.",
+      "masterSha256": "e8c82827f07a941e6aaf0548b74c720db242d90af3bbf5cd0755ff451ff33989",
+      "shipping": "public/ui/whetstorm/deeds/pvp_vcup_clean_sheet.webp",
+      "shippingSha256": "f0575c33e23289a14a17599ecd83fd70f57f2ea4374efaee50f40323785cae4c",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6",
+      "availability": "Retired Vale Cup deed; no longer newly earnable."
+    },
+    {
+      "id": "pvp_vcup_guild_win",
+      "master": "docs/design/whetstorm-art/deeds/pvp_vcup_guild_win.png",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "A golden victory cup topped with a round black-and-white soccer ball beneath a plain red guild banner. Original square full-bleed hand-painted fantasy MMORPG achievement icon, strong simple central shapes readable at 28 pixels, atmospheric arena background. Round association football, never an oval American football. No text, letters, numerals, logos, watermark, borders, or imitation of other games or artists.",
+      "masterSha256": "4dc20ef6bf6a25788cd27f41a4becd7667dc8cb1dc593e3320dc25dd40ffbf7e",
+      "shipping": "public/ui/whetstorm/deeds/pvp_vcup_guild_win.webp",
+      "shippingSha256": "c0c507f1214d1f458d98c4e3554d682088166d68d63606c2001c2e5744bfd60d",
+      "processing": "Sharp Lanczos3 resize to 128x128; WebP quality 90 effort 6",
+      "availability": "Retired Vale Cup deed; no longer newly earnable."
+    }
+  ]
+}
