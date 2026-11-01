@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "scourgehide_carapace",
+      "file": "docs/design/whetstorm-art/retired-scourgehide-carapace-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted dark fantasy RPG inventory icon: Scourgehide Carapace, one empty agile leather chest armor, weathered dark brown hide layered in rugged chitin-like panels with muted bone-colored stitching and a small iron clasp. Complete sleeveless torso garment, no body, head or hands, centered with safe margins against subdued charcoal painted vignette. Warm upper-left light, tactile leather, bold readable silhouette at 28px. No text, border, logo, watermark or copied game designs.",
+      "status": "original painting; retired save compatibility item, not an active drop",
+      "sha256": "481c6317e5d28e787d9420eb3f1dd908e9f7e3b69bb34b746ad526a85e04886f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/scourgehide_carapace.webp",
+        "sha256": "af57c6c892b03fc78dd8b96e4f2eb8b4082538ddfca5d0e47b53b52c0d19417d",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "soulforged_warplate",
+      "file": "docs/design/whetstorm-art/retired-soulforged-warplate-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted dark fantasy RPG inventory icon: Soulforged Warplate, one empty healer mail chest armor made from overlapping dark steel scales and linked mail, weathered silver edging and a restrained pale blue gemstone at chest. Complete sleeveless torso garment, no body, head or hands, centered with safe margins against subdued charcoal painted vignette. Warm upper-left light, tactile metal, bold readable silhouette at 28px. No text, border, logo, watermark or copied game designs.",
+      "status": "original painting; retired save compatibility item, not an active drop",
+      "sha256": "7db44a63d6ddfb4c97daa586e2a7f4e20cbf9ea01a15ea6ab51876ce652f08e3",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/soulforged_warplate.webp",
+        "sha256": "c7bbb7a30278b864a501313c9394717807b3ef7264a574fe7b4c64b7d3c0f946",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
