@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "file": "docs/design/whetstorm-concepts/chimeglass-tortoise-original.png",
+      "subject": "Independent Chimeglass Tortoise mount skin concept",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Create one ORIGINAL stylized fantasy game mount concept from an ordinary tortoise and the name Chimeglass alone, with no visual references. A sturdy friendly four-legged tortoise with a distinctive broad domed shell, practical EMPTY secure rider saddle fitted above the shell, and subtle small glass and bell details on its own harness. STRICT side profile facing left, camera perpendicular, neutral standing pose, whole animal including head, tail and all feet, saddle and details entirely in frame with generous margin. Perfectly plain white background, no cast shadow. Hand-painted game concept, clear anatomy and useful shape for a future modeler. No rider, person, landscape, extra objects, lettering, numerals, logos, watermark, border or dimensions. Do not imitate existing games or artists.",
+      "sha256": "6d1aa6afc816a784c3f85a34903cce182c64017291289768514155ae1f75d36f",
+      "pixels": [
+        1536,
+        1024
+      ],
+      "status": "2D concept for review; current fresh acquisition unverified; no 3D model",
+      "validation_needed": [
+        "Simplify the ornate harness and small hanging details for the target platform and performance budget",
+        "Rig and seven existing animation clip behaviors",
+        "Saddle and moving rider-seat fit, pose and clipping",
+        "Light anchors and graphics-tier behavior",
+        "Locomotion cadence, scale and performance",
+        "Preload and in-game review"
+      ]
+    }
+  ]
+}

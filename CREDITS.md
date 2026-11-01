@@ -1759,6 +1759,11 @@ image generation; prompt and hash are recorded in
 `docs/design/whetstorm-concepts/wyrmwatch-harbormaster-house-provenance.json`.
 It is a concept, not a production model.
 
+One retained tortoise mount concept was generated with OpenAI's built-in image
+generation; its prompt and hash are recorded in
+`docs/whetstorm/chimeglass-tortoise-concept-generation.json`. It is a concept,
+not a production model.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.
