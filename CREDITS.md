@@ -1657,6 +1657,10 @@ Two retained legacy reins paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/whetstorm/legacy-reins-generation.json`.
 
+One retained cosmetic-cache painting was generated with OpenAI's built-in
+image generation; prompt and hashes are recorded in
+`docs/whetstorm/event-skin-token-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

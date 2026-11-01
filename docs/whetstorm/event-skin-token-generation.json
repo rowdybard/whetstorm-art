@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "event_skin_token",
+      "file": "docs/design/whetstorm-art/event-skin-token-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square hand-painted fantasy RPG inventory icon: Mysterious Cosmetic Cache, a single closed small ornate dark indigo lacquered coffer with silver filigree and an unmarked iridescent faceted clasp, subtle violet light escaping the lid seam. The coffer suggests a surprise appearance selection. Three-quarter view, complete object centered with safe margins against dark painted vignette, warm upper-left light, tactile wood and metal, readable at 28 pixels. No people, text, symbols resembling letters, border, logo, watermark or copied game designs.",
+      "status": "original painting; retained dev-grantable token, normal acquisition unverified",
+      "sha256": "435171f6e4e6c639be973f562656ae310bf8fb3085b4d034bffebfcc71fc690a",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/event_skin_token.webp",
+        "sha256": "a9912e8f91bac0040b06b4eae750533f44a0041fd3fb51423da0e8d7ca634fe6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
