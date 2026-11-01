@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "world_quest_delivery_cargo",
+      "runtimeIds": [
+        "world_quest_delivery_cargo"
+      ],
+      "file": "docs/design/whetstorm-art/auras/world_quest_delivery_cargo-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square painterly fantasy RPG aura icon, legible at 28 pixels: a single sturdy wooden freight crate held against a traveler's chest by two simple gloved hands, representing carrying delivery cargo on foot. Large centered crate and hands fill frame, warm honey brown wood, deep dark neutral background, high contrast clear silhouette. No lettering, numbers, border, logo, watermark, or copied game imagery.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "a25cb9d049714d6da36ee1b94307b79f57e9d85f9fe0c95b3778629a647daafb",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/world_quest_delivery_cargo.webp",
+        "sha256": "524b9d2e8dc7cb9ab5a943ae5e88f9b6616fd16bbad9ace82baa9a3d99c6e94f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "id": "world_quest_shadow_cloak",
+      "runtimeIds": [
+        "world_quest_shadow_cloak"
+      ],
+      "file": "docs/design/whetstorm-art/auras/world_quest_shadow_cloak-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square painterly fantasy RPG aura icon readable at 28 pixels: a single deep indigo hooded cloak with the hood raised, no visible wearer or face, its lower edges dissolving softly into transparent violet shadow to suggest a stealth disguise. Large bold centered cloak silhouette on a simple dark muted background, clear pale lavender rim light. No text, numbers, symbols, border, logo, watermark, or copied game imagery.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "8c371daa2ae914e1ac6ee0ec20309e8fc81e2f7c95348211c3005694a225e15d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/auras/world_quest_shadow_cloak.webp",
+        "sha256": "f0ed93744dfcb1c3f0f0bf746274ddfa6eb99d1c01ae2f6bff6bf461d64c15c5",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

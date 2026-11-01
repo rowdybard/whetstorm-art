@@ -1835,6 +1835,10 @@ image generation using Whetstorm's item painting as reference; prompt and
 hashes are recorded in `docs/design/whetstorm-concepts/gravecourt-hewer-3d-intake.json`.
 It is a concept, not a production model.
 
+Two Eastbrook world-quest aura paintings were generated with OpenAI's built-in
+image generation; prompts and hashes are recorded in
+`docs/whetstorm/eastbrook-quest-auras-generation.json`.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

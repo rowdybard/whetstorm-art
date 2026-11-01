@@ -39,6 +39,7 @@ import { ignivarForgeChainsAuraImageUrl } from './ignivar_forge_chains_aura_art'
 import { hoardStormGraspAuraImageUrl } from './hoard_storm_grasp_aura_art';
 import { hoardCocoonAuraImageUrl } from './hoard_cocoon_aura_art';
 import { whetstormHoardBatAuraImageUrl } from './whetstorm_hoard_bat_aura_art';
+import { eastbrookQuestAuraImageUrl } from './eastbrook_quest_aura_art';
 import { whetstormWarfareAuraImageUrl } from './whetstorm_warfare_aura_art';
 
 // Original Whetstorm aura paintings, keyed by exact runtime identity.
@@ -112,6 +113,7 @@ export function whetstormAuraImageUrl(id: string): string | null {
     hoardStormGraspAuraImageUrl(id) ??
     hoardCocoonAuraImageUrl(id) ??
     whetstormHoardBatAuraImageUrl(id) ??
+    eastbrookQuestAuraImageUrl(id) ??
     varkhulBeamSoakAuraImageUrl(id) ??
     whetstormVarkhulFinalAuraImageUrl(id) ??
     whetstormVarkhulAuraImageUrl(id) ??
