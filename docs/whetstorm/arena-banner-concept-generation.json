@@ -1,0 +1,10 @@
+{
+  "source": "OpenAI built-in image generation",
+  "asset": "docs/design/whetstorm-art/arena-banner-concept.png",
+  "sha256": "91fdf6947e4543580b48dcb7a39e6c35b5311eb413c17d5a093ad04700efff1e",
+  "reference": "public/website-hero-arena.png",
+  "referenceSha256": "d6571853e845e6491258ebf62c8fbacdd3728903465b9bd97faa36664988ac45",
+  "referenceRole": "Style and palette only; do not copy symbols",
+  "prompt": "Use case: stylized-concept. Create one original starter-arena banner prop concept, isolated on a plain pure white background, full freestanding object visible from top of pole to weighted base. A long deep red cloth banner hanging from a horizontal crossbar on one sturdy dark wood pole, with simple brass and iron fittings; slightly weathered edges, broad readable folds. Coherent with the attached Whetstorm arena hero's warm sandstone arena, red fabric and stylized hand-painted material language. The reference controls style and palette only; do not copy its symbols. Three-quarter product view, centered with generous white margin, no ground scene. No letters, emblems, logos, numbers, people, watermark, frame, collage or additional props.",
+  "status": "Concept only; no 3D model or runtime integration"
+}
