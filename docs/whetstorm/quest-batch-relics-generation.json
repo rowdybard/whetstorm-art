@@ -5,22 +5,33 @@
       "file": "docs/design/whetstorm-art/items/crypt_keystone.png",
       "itemId": "crypt_keystone",
       "source": "OpenAI built-in image generation",
-      "reference_images": [],
-      "prompt": "Create an original Whetstorm fantasy inventory painting for crypt_keystone. One complete squat carved stone keystone, wedge-shaped with a simple recessed circular keyhole, worn granite and subtle bronze edging, centered on a dark slate-blue painted background. Square, edge to edge, no border. Bold clear silhouette, hand-painted broad forms, warm upper-left light, restrained detail readable at 32 pixels. No characters, text, letters, logos, watermarks, copied designs or extra objects.",
-      "sha256": "cc94905d09ed9d9294a9c181071d82b53b43ac27e24647c112f3f073c48776fb",
+      "reference_images": [
+        {
+          "path": "docs/design/whetstorm-art/items/captains_crest.png",
+          "sha256": "1f762c961661273324034d38b46e7b099bf3c40e1a2a3e6d953ef1ce83dca34b",
+          "role": "upper half reference"
+        },
+        {
+          "path": "docs/design/whetstorm-art/items/priests_sigil.png",
+          "sha256": "25fb066c843482cefa0b9632fe1b94b5fbe1a7e119d3a24e8912bbdea466ea65",
+          "role": "lower half reference"
+        }
+      ],
+      "prompt": "Use case: compositing. Asset type: square fantasy inventory painting. The two reference images are the original upper and lower halves of the same stone crypt keystone. Create one assembled complete circular disc by joining the upper half from image 1 above the lower half from image 2, with a subtle horizontal broken seam where they fit. Preserve their relative geometry: gray carved stone, the upper half's raised gold arch with central vertical gold trapezoid at twelve o'clock, and the lower half's U-shaped gold arc continuing into a ring. Match the references' broad hand-painted stone texture, warm upper-left light, and dark slate-blue painted background. Center the entire disc with comfortable margins, strong readable silhouette at 28 to 32 pixels, one object only. No padlock, keyhole, text, letters, people, border, logos, or other objects.",
+      "sha256": "a253b3de9cc3b679d6c892c4f36ee8b4f658f0680e982431b6619c2a406c012b",
       "pixels": [
         1254,
         1254
       ],
       "delivery": {
         "path": "public/ui/whetstorm/items/crypt_keystone.webp",
-        "sha256": "73b654336bbc96ef25360453e890b7841041fc7497904b652faf9db8170a860b",
+        "sha256": "92aee8213975ea45c57d3ead4ff87a688dfa6bcb64d7bf8dd0b97f0a24caad8d",
         "pixels": [
           128,
           128
         ],
-        "format": "WebP RGB",
-        "processing": "Lanczos3 resize from master; sharp WebP quality 84, effort 6"
+        "format": "WebP",
+        "processing": "Sharp Lanczos3 resize; WebP quality 84, effort 6"
       }
     },
     {

@@ -868,7 +868,13 @@ recorded in `docs/whetstorm/mail-delve-original-generation.json`,
 `docs/whetstorm/food-highwatch-apex-generation.json`,
 `docs/whetstorm/jewelry-batch-warfare-generation.json`,
 `docs/whetstorm/material-harvest-next-generation.json`, and
-`docs/whetstorm/quest-batch-relics-generation.json`.
+`docs/whetstorm/quest-batch-relics-generation.json`. The Crypt Keystone was
+later revised using the original Whetstorm upper and lower keystone paintings
+as references; the same record pins both sources and the replacement hashes.
+
+Three original quest-drop paintings are recorded in
+`docs/whetstorm/quest-glowing-drops-generation.json`; Blessed Embers was
+repainted from text to match the blue fire described in its quest.
 
 Twenty original item paintings and four prepared Deeds paintings are recorded
 in `docs/whetstorm/mail-osmium-generation.json`,

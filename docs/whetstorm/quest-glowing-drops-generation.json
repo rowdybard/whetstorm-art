@@ -28,15 +28,15 @@
       "file": "docs/design/whetstorm-art/items/blessed_embers.png",
       "source": "OpenAI built-in image generation",
       "reference_images": [],
-      "prompt": "Create an original Whetstorm fantasy inventory item painting: a small cluster of blessed embers, three glowing golden-red coals with a delicate white-gold sacred shimmer, resting on dark stone against a deep charcoal background. Square painted edge to edge, centered bold silhouette, stylized fantasy hand painting, readable at 32 pixels. No border, text, logo, watermark, person, or imitation of another game.",
-      "sha256": "245b99ab6bca6edc0b7e0a921771a33364a7aaff6726bdd8e715323c06768baa",
+      "prompt": "Use case: stylized-concept. Asset type: original fantasy inventory item painting. Create a small cluster of several solid glowing blue embers, each clearly a coal, burning with clean blue flame. Dark midnight blue background, square painted edge to edge. Centered bold, complete silhouette with breathing room, stylized hand-painted fantasy art, readable at 28 to 32 pixels. No orange or red fire, no border, text, logo, watermark, people, or imitation of another game.",
+      "sha256": "7aa64817aa8c8df70b9c958b9425dc94f4809aafc6327359a383b6b092d1a9d5",
       "pixels": [
         1254,
         1254
       ],
       "delivery": {
         "path": "public/ui/whetstorm/items/blessed_embers.webp",
-        "sha256": "353325dc5bc8b6093ed51827d639154133a700babdb6359e8583493383ea2fa4",
+        "sha256": "13b2a177d8f789239d371547efaf258d351a9fdd03b9a209acf7b132aa0417a8",
         "pixels": [
           128,
           128
