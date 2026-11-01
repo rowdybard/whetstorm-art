@@ -5,15 +5,10 @@
       "itemId": "drownedmoon_maul",
       "file": "docs/design/whetstorm-art/items/drownedmoon_maul.png",
       "source": "OpenAI built-in image generation",
-      "reference_images": [
-        {
-          "path": "docs/design/whetstorm-art/items/worn_sword.png",
-          "sha256": "ccdc3b90de03f63811da7f4243b4df2276de90ae27d8f5d5f8965efb33b38051"
-        }
-      ],
-      "prompt": "Create one original square Whetstorm inventory item painting, painted edge to edge. The supplied original Whetstorm painting is a style reference only: hand-painted fantasy, warm upper-left light, broad clear shapes, and deep slate-blue painted background. Center the complete subject diagonally, distinct and readable at 32 pixels. No border, frame, text, letters, logos, watermark, person, hands, photorealism, or copied game designs. Subject: one complete Drowned Moon Maul, a heavy dark steel war mace with a broad crescent moon shaped hammer head, subtle turquoise patina and a wrapped leather grip. Show the complete subject with clear space around it.",
+      "reference_images": [],
+      "prompt": "Create a wholly original text-only square fantasy game inventory painting for Drowned Moon Maul, a one-handed warrior's mace. Show one COMPLETE compact one-handed blunt war hammer with a substantial solid rectangular striking head with flat impact faces, not sharp edges, not an axe. Carve a small crescent moon relief on the head, with aged dark steel and subtle sea-green patina; short dark leather wrapped handle and simple pommel. Full diagonal silhouette with clear margins on dark slate-blue background, bold readable forms at 28–32 pixels, stylized hand-painted fantasy. No visual references, no person, hands, text, letters, logos, watermark, border, or extra objects.",
       "status": "original weapon painting; reviewed",
-      "sha256": "ae41fff239e20f9db7b47c1c864f222bf56aaf92d9c44809ccb9ca0e85c06d6e",
+      "sha256": "48c42919cd92772849fa7940944cec85f7e86b06a2b9c76e79ccf8ecffe89c5d",
       "pixels": [
         1254,
         1254
@@ -21,7 +16,7 @@
       "mode": "RGB",
       "delivery": {
         "path": "public/ui/whetstorm/items/drownedmoon_maul.webp",
-        "sha256": "c3cf4e3f21d883d70346d8203e9a5c38ada70ade30927c16f8e48c8e79e3a220",
+        "sha256": "324bbfdf3260cc315b00682881c2d406142e57eb93a53ee1bb077bc759ba39ce",
         "pixels": [
           128,
           128
@@ -29,7 +24,7 @@
         "format": "WebP RGB",
         "processing": "sharp 0.35.4; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
       },
-      "source_output": "exec-03f9d4e8-b7ea-4e8c-80ee-4131054f578b.png"
+      "source_output": "exec-a2ede853-5c1d-42c6-82c9-e08065eeb8c7.png"
     },
     {
       "itemId": "drownedmoon_scepter",
