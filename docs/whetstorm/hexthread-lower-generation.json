@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "hexthread_gloves",
+      "file": "docs/design/whetstorm-art/items/hexthread_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Hexthread Handwraps: a compact pair of empty warlock cloth gloves in deep plum and near-black, aged silver trim, stitched angular diamond motifs and small acid-green gemstone accents on cuffs. No hands or person. Complete pair centered with clear glove silhouettes and safe margins. Dark violet painted vignette, premium hand-painted fantasy art, tactile cloth folds, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "b3194b87b608a2a516dbb397f1be3a7e72345971271dad13a0e4b8740335bb6d",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hexthread_gloves.webp",
+        "sha256": "1d4bb40ba59e713bc04029e35ef8fa439101dad3135016b2051c88c0c6a62775",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "hexthread_legs",
+      "file": "docs/design/whetstorm-art/items/hexthread_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Hexthread Leggings: one complete pair of empty warlock cloth trousers in deep plum and near-black, aged silver trim, stitched angular diamond motifs and one small acid-green gemstone accent at waist. No body, boots or person. Front view, trousers centered with separate leg silhouettes and safe margins. Dark violet painted vignette, premium hand-painted fantasy art, tactile cloth folds, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "ee6ccf2a01dcfb80e300564a806d03ecd59aa871a880b582506a85fa26539e68",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/hexthread_legs.webp",
+        "sha256": "a91664d9abec8cfeb9f028d718c85d7231afbea64228e6969d73f37c4b727572",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_warrior_prot_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_prot_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Ironmarch Legguards, one complete symmetrical pair of sturdy warrior leg armor of cool gunmetal over visible mail, aged brass rivets and deep blue accents, broad squared shield-like knee plates. Centered front view, no body or boots. Premium hand-painted dark fantasy, muted blue-charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "2cfe224da86f70ad45eb13f262dbdc5f0abfe5ac75f8c898ad36f0693f39fad5",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_prot_legs.webp",
+        "sha256": "ee152ef410bd1acb09fdb38434d7740510ff436e117e3f85823953425418a4b8",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warrior_prot_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_prot_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Ironmarch Handguards, one compact pair of sturdy warrior gauntlets of cool gunmetal over visible mail, aged brass rivets and deep blue accents, broad squared shield-like plates. Centered view, no wearer or arms. Premium hand-painted dark fantasy, muted blue-charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "dc7509a332dd89b9be3796544a4e4504fb3eae27d7c56dfddbb6dc90d333b842",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_prot_gloves.webp",
+        "sha256": "f405ec647f91187742f2dc8ceec512a1c45879dec62bd718487e11e5973871ea",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -60,6 +60,7 @@ import { ignivarCinderbarkOffsetItemImageUrl } from './ignivar_cinderbark_offset
 import { ignivarSlagstalkerOffsetItemImageUrl } from './ignivar_slagstalker_offset_item_art';
 import { ignivarMoonscorchOffsetItemImageUrl } from './ignivar_moonscorch_offset_item_art';
 import { ignivarMoonscorchUpperItemImageUrl } from './ignivar_moonscorch_upper_item_art';
+import { ignivarMoonscorchLowerItemImageUrl } from './ignivar_moonscorch_lower_item_art';
 import { ignivarWarspiritUpperItemImageUrl } from './ignivar_warspirit_upper_item_art';
 import { emberlashUpperItemImageUrl } from './emberlash_upper_item_art';
 import { emberlashLowerItemImageUrl } from './emberlash_lower_item_art';
@@ -90,8 +91,12 @@ import { survivalHunterLowerItemImageUrl } from './survival_hunter_lower_item_ar
 import { shieldvowUpperItemImageUrl } from './shieldvow_upper_item_art';
 import { shieldvowLowerItemImageUrl } from './shieldvow_lower_item_art';
 import { ironmarchUpperItemImageUrl } from './ironmarch_upper_item_art';
+import { ironmarchLowerItemImageUrl } from './ironmarch_lower_item_art';
+import { lightbrandUpperItemImageUrl } from './lightbrand_upper_item_art';
 import { hexthreadUpperItemImageUrl } from './hexthread_upper_item_art';
+import { hexthreadLowerItemImageUrl } from './hexthread_lower_item_art';
 import { marksmanshipHunterUpperItemImageUrl } from './marksmanship_hunter_upper_item_art';
+import { marksmanshipHunterLowerItemImageUrl } from './marksmanship_hunter_lower_item_art';
 import { arcaneMageUpperItemImageUrl } from './arcane_mage_upper_item_art';
 import { collapsarRingTierItemImageUrl } from './collapsar_ring_tier_item_art';
 import { mountainBandTierItemImageUrl } from './mountain_band_tier_item_art';
@@ -493,6 +498,7 @@ export function paintedItemImageUrl(id: string): string | null {
     ignivarSlagstalkerOffsetItemImageUrl(id) ??
     ignivarMoonscorchOffsetItemImageUrl(id) ??
     ignivarMoonscorchUpperItemImageUrl(id) ??
+    ignivarMoonscorchLowerItemImageUrl(id) ??
     ignivarWarspiritUpperItemImageUrl(id) ??
     emberlashUpperItemImageUrl(id) ??
     emberlashLowerItemImageUrl(id) ??
@@ -523,8 +529,12 @@ export function paintedItemImageUrl(id: string): string | null {
     shieldvowUpperItemImageUrl(id) ??
     shieldvowLowerItemImageUrl(id) ??
     ironmarchUpperItemImageUrl(id) ??
+    ironmarchLowerItemImageUrl(id) ??
+    lightbrandUpperItemImageUrl(id) ??
     hexthreadUpperItemImageUrl(id) ??
+    hexthreadLowerItemImageUrl(id) ??
     marksmanshipHunterUpperItemImageUrl(id) ??
+    marksmanshipHunterLowerItemImageUrl(id) ??
     arcaneMageUpperItemImageUrl(id) ??
     collapsarRingTierItemImageUrl(id) ??
     mountainBandTierItemImageUrl(id) ??

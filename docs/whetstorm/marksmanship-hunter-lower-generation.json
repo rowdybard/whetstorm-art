@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_hunter_marksmanship_legs",
+      "file": "docs/design/whetstorm-art/marksmanship-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/marksmanship-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one complete pair of empty hunter leather legguards, clearly separated legs ending at ankle cuffs, slate-blue leather with tawny brown reinforcement, brass trim and a pale gold star-shaped sight emblem at waist. Match the supplied jerkin's materials, palette, painted rendering and dark muted blue background; show only legguards with no boots or person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "21c085155fc50b9eb5f8cc8075f3a72d54549ebe77ba2695c1a17805955ae795",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_marksmanship_legs.webp",
+        "sha256": "a05da865fd133b4704ee3010fc2bc50d64daf28feb1101da37797c2b986deff1",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_hunter_marksmanship_gloves",
+      "file": "docs/design/whetstorm-art/marksmanship-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/marksmanship-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one pair of empty hunter leather gauntlets, recognizable fingers and cuffs, slate-blue leather with tawny brown reinforcement, brass trim and pale gold star-shaped sight emblems. Match the supplied jerkin's materials, palette, painted rendering and dark muted blue background; show only gloves with no person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "6723162289f6f1f18f6b1d34200d7baf58cb7b8bb40522580032fe4e8c24b789",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_hunter_marksmanship_gloves.webp",
+        "sha256": "17194fd5c0ebdc44f2d791e4fea0410cd85a5d0feb63986080069ab90a96e60c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

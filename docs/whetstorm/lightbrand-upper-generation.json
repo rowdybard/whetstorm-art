@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_paladin_retribution_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_retribution_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original fantasy RPG inventory icon painting: one paladin attacker crown-helmet, warm ivory enamel and burnished copper metal, tall pointed flame-like crest with glowing orange sunstone, angular open face guard. Centered full silhouette on dark muted plum-charcoal background, hand-painted fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "2c51e3bff8b1908adebd548fa2f09dc91437708dec21f63205e8e6b1a96b8407",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_retribution_helmet.webp",
+        "sha256": "119d91eef7e4b445f645cd9aa546bc85adf7f200dac16de4da84011b44e72fcc",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_paladin_retribution_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_retribution_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original fantasy RPG inventory icon painting: a pair of paladin attacker spaulders, warm ivory enamel and burnished copper metal, tall pointed flame-like crests with glowing orange sunstones, layered curved plates. Centered full silhouette on dark muted plum-charcoal background, hand-painted fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "8f9dae957f0f893a9e619f325d80c79699105c5d767a88f483d8595dcf5fdf1c",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_retribution_shoulder.webp",
+        "sha256": "b2725a193d54907a5afa34cce859082e7ddf740242b133ffe7fa3d72309ec3c0",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_paladin_retribution_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_retribution_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original fantasy RPG inventory icon painting: a paladin attacker cuirass, warm ivory enamel and burnished copper metal, tall pointed flame-like crest with glowing orange sunstone at center, layered curved plates. Centered full silhouette on dark muted plum-charcoal background, hand-painted fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "f208a0a9567841781eb90099d3a041abe1f0f51996c29c964f98f9ae4476633c",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_retribution_chest.webp",
+        "sha256": "3d1b432fc48540d1957f29956bdc83eee0f9f2029cee07b82cbaa53f443f535a",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

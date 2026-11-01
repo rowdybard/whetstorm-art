@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "moonscorch_gloves",
+      "file": "docs/design/whetstorm-art/ignivar-moonscorch-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-moonscorch-helmet-master.png"
+      ],
+      "prompt": "Original square dark fantasy RPG inventory painting of Moonscorch Grips: a compact natural pair of empty druid leather gloves, deep plum and violet leather with layered pale silver leaf-shaped edging and small silver crescent ornaments. Coordinate palette and material with reference cowl; show only gloves, no person. Center complete hand silhouettes with safe margins against dark navy painted ground, warm upper-left light, tactile leather and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "c32c6ed50de15e819bb8b85d4f513fd1f285de641c981e8d8f1d657c7f4a5db9",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonscorch_gloves.webp",
+        "sha256": "b0c45eb25310f4d4bd0f3f3b64a942fcfc7df597408b4dcb3c7e1c5ba6ced746",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "moonscorch_legs",
+      "file": "docs/design/whetstorm-art/ignivar-moonscorch-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-moonscorch-helmet-master.png"
+      ],
+      "prompt": "Original square dark fantasy RPG inventory painting of Moonscorch Breeches: one complete empty pair of druid leather trousers from waist to ankle, deep plum and violet leather with layered pale silver leaf-shaped edging and a small silver crescent at waist. Coordinate palette and material with reference cowl; show only trousers, no boots, body or person. Center the full recognizable pants silhouette with safe margins against dark navy painted ground, warm upper-left light, tactile leather and crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "a09cd29e624d59ce221c1986aa4e882c9040cc4630a078b0c916baa52bb33aa1",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/moonscorch_legs.webp",
+        "sha256": "0ba4dea31907e2fd2ac5671447ac2aea15a82e719c41ad376cfb8888ddcec964",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
