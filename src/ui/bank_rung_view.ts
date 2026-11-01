@@ -55,7 +55,7 @@ export function claudiumAmountText(cost: number): string {
 export function bankRungClaudiumTagHtml(claudium: BankBuyClaudiumModel): string {
   return (
     `<span class="bank-buy-tag bank-buy-tag-claudium">` +
-    `<img src="/claudium/icons/claudium_coin_64.webp" alt="">` +
+    `<img src="/ui/whetstorm/currency/price-token.webp" alt="">` +
     `<strong>${esc(claudiumAmountText(claudium.cost))}</strong>` +
     `</span>`
   );

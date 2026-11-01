@@ -159,7 +159,7 @@ export function mountInspectActionsHtml(row: MountInspectRow): string {
   const price =
     row.costClaudium === null
       ? ''
-      : `<span class="armory-price"><img src="/claudium/icons/claudium_coin_64.webp" alt="">` +
+      : `<span class="armory-price"><img src="/ui/whetstorm/currency/price-token.webp" alt="">` +
         `<strong>${formatNumber(row.costClaudium, { maximumFractionDigits: 0 })}</strong></span>`;
   switch (action) {
     case 'buy':

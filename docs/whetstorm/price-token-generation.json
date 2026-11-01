@@ -1,0 +1,11 @@
+{
+  "source": "OpenAI built-in image generation",
+  "referenceImages": [],
+  "prompt": "Create a single original generic fantasy price token for a game UI: a front-facing circular silver coin with ONE simple raised six-point compass star embossed in its center, dark recessed round field and broad bright rim. Large clean shapes readable at 16 pixels, a complete centered object with modest transparent margin. Fully transparent background. No gemstones, diamonds, text, letters, numbers, logos, existing brand or currency symbols, border around the image, extra objects or imitation of any game or artist. Original stylized painted illustration.",
+  "master": "docs/design/whetstorm-art/ui/price-token-original.png",
+  "masterSha256": "1f9fea789f084ef33adc517965015772db10e697467dbd5ba717e79f7abd77ec",
+  "shipping": "public/ui/whetstorm/currency/price-token.webp",
+  "shippingSha256": "f370ebf36c658dfc88fb8ab5271bcb904ae9e6f9d143ea18b3d9179ecac55242",
+  "processing": "Sharp Lanczos3 resize to 64x64; alpha-preserving WebP quality 90 effort 6",
+  "status": "Original generic price token; integration pending. Does not enable commerce or change currency behavior."
+}

@@ -27,6 +27,8 @@ import { fallenStarRangedArmorySkinArt } from './armory_fallen_star_ranged_art';
 import { fallenStarTrioArmorySkinArt } from './armory_fallen_star_trio_art';
 import { hoarfrostTrioArmorySkinArt } from './armory_hoarfrost_trio_art';
 import { cosmarchEmberwishArmorySkinArt } from './armory_cosmarch_emberwish_art';
+import { originalMountCosmeticCardArt } from './mount_cosmetic_tolliver_rickshaw_art';
+import { mechSledMountSkinArt } from './mount_mech_sled_art';
 
 export interface WocStoreItemInput {
   itemId: string;
@@ -168,7 +170,7 @@ export interface StoreMountRow {
 export const MOUNT_SKIN_ART_DIR = '/ui/store/mount_skins';
 
 export function mountSkinArt(skinId: string): string {
-  return `${MOUNT_SKIN_ART_DIR}/${skinId}.webp`;
+  return originalMountCosmeticCardArt(skinId) ?? mechSledMountSkinArt(skinId) ?? `${MOUNT_SKIN_ART_DIR}/${skinId}.webp`;
 }
 
 /** Rows for the store's Machine Stable section: every catalog mount skin

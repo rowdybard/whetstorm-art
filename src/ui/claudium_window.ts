@@ -454,7 +454,7 @@ export class ClaudiumWindow {
         return (
           `<button type="button" class="cl-sku cl-pack ui-card-tile${isPending ? ' pending' : ''}" data-pack-tier="${index + 1}" data-sku="${esc(row.sku)}" aria-label="${esc(label)}" ${disabled ? 'disabled' : ''}>` +
           `<span class="cl-pack-art"><img src="${esc(this.packArt(row.claudium))}" alt=""></span>` +
-          `<span class="cl-sku-claudium ui-money ui-money-coin ui-num"><img src="/claudium/icons/claudium_coin_64.webp" alt="">${esc(t('hudChrome.claudium.storeCost', { amount: claudium }))}</span>` +
+          `<span class="cl-sku-claudium ui-money ui-money-coin ui-num"><img src="/ui/whetstorm/currency/price-token.webp" alt="">${esc(t('hudChrome.claudium.storeCost', { amount: claudium }))}</span>` +
           `<span class="cl-sku-usd">${esc(price)}</span>` +
           `<span class="cl-sku-buy">` +
           (isPending

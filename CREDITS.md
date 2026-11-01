@@ -1875,6 +1875,21 @@ OpenAI's built-in image generation. Prompts and hashes are recorded in
 `docs/whetstorm/armory-cosmarch-emberwish-generation.json`. These replace 2D
 thumbnails only; historical held 3D models retain their restrictions.
 
+The Chimeglass Tortoise and Rickshaw mount card paintings were generated from
+text with OpenAI's built-in image generation. Prompts and hashes are recorded
+in `docs/whetstorm/mount-cosmetic-tolliver-rickshaw-generation.json`. These
+replace 2D card art only, not the mount models.
+
+The small price token was generated from text with OpenAI's built-in image
+generation. Its prompt and hashes are recorded in
+`docs/whetstorm/price-token-generation.json`. It replaces the 2D price icon;
+other currency illustrations are separate assets.
+
+The Mech Bird and Goblin Rocket Sled mount card paintings were generated from
+text with OpenAI's built-in image generation. Prompts and hashes are recorded
+in `docs/whetstorm/mount-cards-mech-sled-generation.json`. These replace 2D
+card art only, not the mount models.
+
 Two Thistlebloom armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/thistlebloom-lower-generation.json`.

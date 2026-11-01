@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "skinId": "mech_bird",
+      "file": "docs/design/whetstorm-art/mount-cards/mech_bird.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO mount cosmetic card painting based only on text: Cluckwork Mech Bird, a hand-built clockwork war chicken with a turning wind-up key, riveted brass and steel body, snapping servo legs and practical riding saddle. Show entire single riderless machine in a lively three-quarter side view, clear chicken silhouette, warm workshop light and subdued dark background, readable at 164px and smaller. Painterly polished game illustration. No text, lettering, logos, border, watermark, people or existing game designs.",
+      "status": "Original 2D cosmetic card art only; existing 3D model is separate. Current acquisition unverified.",
+      "sha256": "e2be4f43bd8f1e5f74004baf6d51a6d44902b4a65382461a0f7fa63d12a41f72",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/mount-cards/mech_bird.webp",
+        "sha256": "f0bca7a7773d6b22dc39cd3f7363af359a1efeaf5b69a76800a77dd1c3b2b574",
+        "pixels": [
+          512,
+          512
+        ],
+        "processing": "Sharp resize to 512 x 512; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "skinId": "goblin_rocket_sled",
+      "file": "docs/design/whetstorm-art/mount-cards/goblin_rocket_sled.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO mount cosmetic card painting based only on text: Goblin Rocket Sled, a comically overbuilt riderless sled propelled by two clearly visible rockets, ramshackle riveted metal, rugged runners, exposed pipes and a pilot seat. Show the entire single vehicle in lively three-quarter view, both rockets distinct, sparks and faint exhaust, dark workshop backdrop, readable at 164px and smaller. Painterly polished game illustration. No text, lettering, logos, border, watermark, people or existing game designs.",
+      "status": "Original 2D cosmetic card art only; existing 3D model is separate. Current acquisition unverified.",
+      "sha256": "a3ab6d6ae0a5046b0e820fc55eab46842607608969cac4b93682a6a88643c15f",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/mount-cards/goblin_rocket_sled.webp",
+        "sha256": "bf724c3e2f646ac3035499ad7c3c2e336f18f68f8d090d5ed21d8d171a36bccd",
+        "pixels": [
+          512,
+          512
+        ],
+        "processing": "Sharp resize to 512 x 512; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

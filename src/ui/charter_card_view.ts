@@ -112,7 +112,7 @@ export function charterCardHtml(row: CharterRow, inFlight: boolean): string {
   const price =
     row.costClaudium === null
       ? `<span class="charter-cost unavailable">${esc(t('hudChrome.wocStore.unavailable'))}</span>`
-      : `<span class="charter-cost"><img src="/claudium/icons/claudium_coin_64.webp" alt="">` +
+      : `<span class="charter-cost"><img src="/ui/whetstorm/currency/price-token.webp" alt="">` +
         `<strong>${formatNumber(row.costClaudium, { maximumFractionDigits: 0 })}</strong></span>`;
   const grant = t('hudChrome.wocStore.charter.grant', {
     slots: formatNumber(row.grantSlots, { maximumFractionDigits: 0 }),

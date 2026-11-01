@@ -6119,7 +6119,7 @@ export class Hud {
     const balance = this.claudiumBalance.balance;
     const label = balance === null ? '--' : formatNumber(balance, { maximumFractionDigits: 0 });
     const aria = t('hudChrome.claudium.open');
-    return `<button type="button" class="claudium-launcher" data-claudium-launcher title="${esc(aria)}" aria-label="${esc(aria)}"><img class="claudium-coin" src="/claudium/icons/claudium_coin_64.webp" alt=""><span class="claudium-launcher-balance">${esc(label)}</span></button>`;
+    return `<button type="button" class="claudium-launcher" data-claudium-launcher title="${esc(aria)}" aria-label="${esc(aria)}"><img class="claudium-coin" src="/ui/whetstorm/currency/price-token.webp" alt=""><span class="claudium-launcher-balance">${esc(label)}</span></button>`;
   }
 
   // Complete aura tooltip body. A buff created by a known ability first shows that

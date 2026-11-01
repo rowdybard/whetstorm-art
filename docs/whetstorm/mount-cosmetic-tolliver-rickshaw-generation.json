@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "skinId": "chimeglass_tortoise",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original independent fantasy game mount cosmetic card painting, text-only, no image references: Tolliver the Chimeglass, a friendly sturdy salt-flat tortoise with unmistakable blue storm-glass spectacles over its eyes and a bronze bell hanging at its throat, practical saddle atop domed shell. Three-quarter view, centered clear face and bell, no rider, muted dark painted background, hand-painted fantasy, bold silhouette readable at 28 pixels. No text, logo, watermark, frame or copied designs.",
+      "master": "docs/design/whetstorm-art/mount-skins/chimeglass_tortoise.png",
+      "masterSha256": "b83fa4e39a917073f21af6fd732be7fceaa3076f83f9d4e8d3ffd86d2871c501",
+      "shipping": "public/ui/whetstorm/mount-skins/chimeglass_tortoise.webp",
+      "shippingSha256": "2989489963bc35e2fd9df9ebb1ae30ecaad93eb31e203f8bbb21976a58f2e8a0",
+      "processing": "Sharp Lanczos3 center-cover resize 512x512, WebP quality 84 effort 6",
+      "status": "Original 2D mount cosmetic card; entitlement ownership conditional, acquisition unverified.",
+      "shippingPixels": [
+        512,
+        512
+      ]
+    },
+    {
+      "skinId": "rickshaw_mount",
+      "source": "OpenAI built-in image generation",
+      "referenceImages": [],
+      "prompt": "Original independent fantasy game mount cosmetic card painting, text-only, no image references: Bonebound Rickshaw, one compact two-wheeled bone-trimmed wooden cart pulled by a clearly visible harnessed skeleton holding its shafts. Three-quarter side view showing BOTH bony puller and cart distinctly, no rider, dark muted painted background, hand-painted fantasy, simple bold silhouette readable at 28 pixels. No text, logo, watermark, frame or copied designs.",
+      "master": "docs/design/whetstorm-art/mount-skins/rickshaw_mount.png",
+      "masterSha256": "ac30854ae364db7befda70afef0e318070369afb93603618018032bf71243ba6",
+      "shipping": "public/ui/whetstorm/mount-skins/rickshaw_mount.webp",
+      "shippingSha256": "d149763e9f71747feeaca90a01cb6152b1db2e7729b798ff99fad1cb69a696c0",
+      "processing": "Sharp Lanczos3 center-cover resize 512x512, WebP quality 84 effort 6",
+      "status": "Original 2D mount cosmetic card; entitlement ownership conditional, acquisition unverified.",
+      "shippingPixels": [
+        512,
+        512
+      ]
+    }
+  ]
+}

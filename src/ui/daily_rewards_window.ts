@@ -588,7 +588,7 @@ export class DailyRewardsWindow {
       : '';
     const markup =
       `<div class="woc-store-hero"><div><span>${esc(t('hudChrome.wocStore.armoryEyebrow'))}</span><h2>${esc(t('hudChrome.wocStore.armoryTitle'))}</h2><p>${esc(t('hudChrome.wocStore.armoryBody'))}</p></div>` +
-      `<div class="woc-store-balance"><img src="/claudium/icons/claudium_coin_64.webp" alt=""><span>${esc(t('hudChrome.wocStore.balance'))}</span><strong>${balance}</strong><button type="button" data-buy-claudium${focusKeyAttr('topup')}>${esc(t('hudChrome.wocStore.buyClaudium'))}</button></div></div>` +
+      `<div class="woc-store-balance"><img src="/ui/whetstorm/currency/price-token.webp" alt=""><span>${esc(t('hudChrome.wocStore.balance'))}</span><strong>${balance}</strong><button type="button" data-buy-claudium${focusKeyAttr('topup')}>${esc(t('hudChrome.wocStore.buyClaudium'))}</button></div></div>` +
       notice +
       this.storeSpend.mounts.sectionHtml() +
       this.charterNoticeHtml() +

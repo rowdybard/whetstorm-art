@@ -27,7 +27,7 @@ export function armorySectionHtml(section: ArmorySection): string {
   const price =
     servicePrice === null
       ? `<span class="armory-section-price unavailable">${esc(t('hudChrome.wocStore.unavailable'))}</span>`
-      : `<span class="armory-section-price"><img src="/claudium/icons/claudium_coin_64.webp" alt="">${formatNumber(servicePrice, { maximumFractionDigits: 0 })}</span>`;
+      : `<span class="armory-section-price"><img src="/ui/whetstorm/currency/price-token.webp" alt="">${formatNumber(servicePrice, { maximumFractionDigits: 0 })}</span>`;
   const cards = section.rows.map((row) => armoryCardHtml(row)).join('');
   return (
     `<section class="armory-section rarity-${esc(section.rarity)}">` +
@@ -45,7 +45,7 @@ export function armoryCardHtml(row: ArmorySkinRow): string {
       ? `<span class="armory-state">${esc(t('hudChrome.wocStore.owned'))}</span>`
       : row.costClaudium === null
         ? `<span class="armory-state unavailable">${esc(t('hudChrome.wocStore.unavailable'))}</span>`
-        : `<span class="armory-cost"><img src="/claudium/icons/claudium_coin_64.webp" alt=""><strong>${formatNumber(row.costClaudium, { maximumFractionDigits: 0 })}</strong></span>`;
+        : `<span class="armory-cost"><img src="/ui/whetstorm/currency/price-token.webp" alt=""><strong>${formatNumber(row.costClaudium, { maximumFractionDigits: 0 })}</strong></span>`;
   const badge = row.skin.badge
     ? `<span class="armory-badge">${esc(badgeLabel(row.skin.badge))}</span>`
     : '';
