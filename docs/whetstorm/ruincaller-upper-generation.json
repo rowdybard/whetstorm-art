@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "ruincaller_helmet",
+      "file": "docs/design/whetstorm-art/items/ruincaller_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square inventory painting of Ruincaller Hood, an empty warlock cloth hood in charcoal and deep burgundy with aged bronze trim, jagged broken-arch angular ornament and one restrained molten amber crystal on the brow. No face, head or body. Entire hood centered with clear silhouette and safe padding. Dark warm umber painted vignette, premium hand-painted classic fantasy MMO art, tactile cloth folds, warm upper-left light, cool shadow, readable at 28px. No writing, frame, watermark, transparency or additional objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "93c3bbd11e3c551f6683b0933c0baa6ec7ad5f0e70e66a01a4d49733c4662968",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ruincaller_helmet.webp",
+        "sha256": "bf6526afcffd42e228dec69c4fff5633de0a8478541628eb4ac2349a5d6c984c",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ruincaller_shoulder",
+      "file": "docs/design/whetstorm-art/items/ruincaller_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square inventory painting of Ruincaller Mantle, a matching pair of empty warlock cloth shoulder pieces in charcoal and deep burgundy with aged bronze trim, jagged broken-arch angular ornament and restrained molten amber crystals. No person or body. Both shoulders centered with clear paired silhouette and safe padding. Dark warm umber painted vignette, premium hand-painted classic fantasy MMO art, tactile cloth folds, warm upper-left light, cool shadow, readable at 28px. No writing, frame, watermark, transparency or additional objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "4c4f4abfaa84fc9362b7766a25eeea7e59706edf1d71c01b163aab582c8d9040",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ruincaller_shoulder.webp",
+        "sha256": "fc5a9c950e8ea699abaee40b338ec16a754591d3641de822395b416d26444765",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "ruincaller_chest",
+      "file": "docs/design/whetstorm-art/items/ruincaller_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square inventory painting of Ruincaller Robe, one empty front-facing warlock cloth robe in charcoal and deep burgundy with aged bronze trim, jagged broken-arch angular ornament and restrained molten amber crystal at chest. No person, head or hands. Full robe centered with clear garment silhouette and safe padding. Dark warm umber painted vignette, premium hand-painted classic fantasy MMO art, tactile cloth folds, warm upper-left light, cool shadow, readable at 28px. No writing, frame, watermark, transparency or additional objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "39a4d173ef7c0db4c25d4fa3a2e8106d9beed48eafb1eddec12678af6b13b3ac",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/ruincaller_chest.webp",
+        "sha256": "dceece51dabcab758dc4f1b4fb5018f9bd8375ac9a316258803f029203840e0b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

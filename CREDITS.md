@@ -1450,6 +1450,17 @@ Three Gravebrand armor paintings were generated with OpenAI's built-in image
 generation; prompts, references, and hashes are recorded in
 `docs/whetstorm/ignivar-gravebrand-upper-generation.json`.
 
+Two Ignivar tide armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/ignivar-tide-generation.json`.
+
+Two Gravebrand, three Ruincaller, and three Bloodmarch armor paintings were
+generated with OpenAI's built-in image generation; prompts, references, and
+hashes are recorded in
+`docs/whetstorm/ignivar-gravebrand-lower-generation.json`,
+`docs/whetstorm/ruincaller-upper-generation.json`, and
+`docs/whetstorm/bloodmarch-upper-generation.json`.
+
 Two Chained Ember Choker tier paintings were generated with OpenAI's built-in
 image generation; prompts and hashes are recorded in
 `docs/design/whetstorm-art/items/chained-ember-choker-tiers-original/chained-ember-choker-provenance.json`.

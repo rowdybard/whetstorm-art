@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "tidebinder_links",
+      "file": "docs/design/whetstorm-art/items/tidebinder_links.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: one shaman healing mail belt made from overlapping silver-blue chain links and teal leather, central large polished turquoise water-drop buckle wrapped in sweeping wave motifs, subtle bronze edges. Full centered silhouette on dark navy painterly backdrop, luminous aqua highlights. Classic hand-painted fantasy item art, readable at 28 pixels. No text, person, frame, logo, watermark, or other item.",
+      "sha256": "f1306a6399ada5fd88ff749b9362a794e1433f41a6db5eb864d0c678c7b50545",
+      "delivery": { "path": "public/ui/whetstorm/items/tidebinder_links.webp", "sha256": "776bd8719699aacbce3a59f778bc68919251e2562074fc613516f6bf74df3649", "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6" }
+    },
+    {
+      "itemId": "springwarden_sabatons",
+      "file": "docs/design/whetstorm-art/items/springwarden_sabatons.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: one shaman healing mail armored boot made from overlapping silver-blue chain links and teal leather, prominent polished turquoise water-drop clasp wrapped in sweeping wave motifs, subtle bronze edges. Three-quarter view, full centered boot silhouette on dark navy painterly backdrop, luminous aqua highlights. Classic hand-painted fantasy item art, readable at 28 pixels. No text, person, frame, logo, watermark, or other item.",
+      "sha256": "d9a778f78455dc522656aa1b0e5b7b38c9433df4204472433518bfeb57d66ab3",
+      "delivery": { "path": "public/ui/whetstorm/items/springwarden_sabatons.webp", "sha256": "4e7cebcf6bdb4da6d5fd72cf0ae44f11397d2199f37d15fd4c512b7bd29f1e1c", "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6" }
+    }
+  ]
+}

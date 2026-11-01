@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "gravebrand_gloves",
+      "file": "docs/design/whetstorm-art/ignivar-gravebrand-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-gravebrand-helmet-master.png"
+      ],
+      "prompt": "Original square dark fantasy RPG inventory painting of Gravebrand Handwraps: a compact natural pair of empty warlock cloth handwrap gloves, charcoal and deep wine-colored layered fabric wrappings with weathered bone-colored edging and small ember-red gemstone accents. Match reference hood's palette and materials; depict only handwraps, no person. Center full hand silhouettes with safe margins on muted charcoal painted ground, warm upper-left light, tactile painted fabric, crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "3b6b39899e0220b6ecbeab65e1ba0bc144c4b28fba3728fedcb26ddb38e23314",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravebrand_gloves.webp",
+        "sha256": "36a86279c008cee758e189fa72ca82f146af2372049749fb84a5e140946ef555",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "gravebrand_legs",
+      "file": "docs/design/whetstorm-art/ignivar-gravebrand-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/ignivar-gravebrand-helmet-master.png"
+      ],
+      "prompt": "Original square dark fantasy RPG inventory painting of Gravebrand Leggings: one complete empty pair of warlock cloth trousers from waist to ankle, charcoal and deep wine-colored layered fabric with weathered bone-colored edging and a small ember-red gemstone at waist. Match reference hood's palette and materials; depict only trousers, no boots, body or person. Center full recognizable pants silhouette with safe margins on muted charcoal painted ground, warm upper-left light, tactile painted fabric, crisp focal edges. Readable at 28 pixels. No text, border, logo, watermark, or copied game designs.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "b13fa65d21b8866f8c2edfd205f2ac7e8262adea20baa5e5663d4d34b0b4d057",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/gravebrand_legs.webp",
+        "sha256": "1365c9dd2b98c31bdacf18a8a4f2c8f14d0db23e0f5102cb92ee8b21480e2df2",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

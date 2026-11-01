@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_warrior_fury_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_fury_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bloodmarch Visage, one complete fierce warrior helmet of blackened iron with oxblood leather and two bone-white upward fangs on either side of a narrow visor, battle-worn. Centered front view, no wearer. Premium hand-painted dark fantasy, muted brown charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "1f5e52947f84dd2a2404dbdddb3ed9c4858115a09cb60fb3dce5de83200135da",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_fury_helmet.webp",
+        "sha256": "5162a9198d0bce4aa99973524caec770055476bb743492e5bde459c557768fc6",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warrior_fury_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_fury_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bloodmarch Shoulderguards, one compact pair of fierce warrior pauldrons made of blackened iron with oxblood leather and bold bone-white upward fang ornaments, battle-worn. Centered front view, no body. Premium hand-painted dark fantasy, muted brown charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "69db7ad73ed97ff5368e16d0c4083ad106b6882b50f7a00e9288ae6135b36486",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_fury_shoulder.webp",
+        "sha256": "9d433484f34b6f8159d32263d46e9643cd8de3ed8f742e4e789a5d590a61c9e3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warrior_fury_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_warrior_fury_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Bloodmarch Chainmail, one complete warrior torso hauberk of dark chainmail and blackened iron, oxblood leather straps and a central bone-white fang ornament, battle-worn. Centered front view, no wearer, head, hands or arms. Premium hand-painted dark fantasy, muted brown charcoal background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "ffab7a514e2f9aa24f20983b6355fb33988edd2b558d186017d800bcfa40a601",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warrior_fury_chest.webp",
+        "sha256": "28d0a6d162aefcef8ec5b844c1e9f8e35e7f52d9e0755b18d9e52596a1ca7505",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

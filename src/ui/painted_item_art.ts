@@ -67,6 +67,7 @@ import { ignivarMailTankItemImageUrl } from './ignivar_mail_tank_item_art';
 import { ignivarMailDamageItemImageUrl } from './ignivar_mail_damage_item_art';
 import { ignivarMailSpellItemImageUrl } from './ignivar_mail_spell_item_art';
 import { ignivarGroveItemImageUrl } from './ignivar_grove_item_art';
+import { ignivarTideItemImageUrl } from './ignivar_tide_item_art';
 import { bladewakeUpperItemImageUrl } from './bladewake_upper_item_art';
 import { bladewakeLowerItemImageUrl } from './bladewake_lower_item_art';
 import { chronoweaveUpperItemImageUrl } from './chronoweave_upper_item_art';
@@ -78,6 +79,9 @@ import { continuousFlowPendantTierItemImageUrl } from './continuous_flow_pendant
 import { hourbinderLowerItemImageUrl } from './hourbinder_lower_item_art';
 import { ignivarFrostquenchUpperItemImageUrl } from './ignivar_frostquench_upper_item_art';
 import { ignivarGravebrandUpperItemImageUrl } from './ignivar_gravebrand_upper_item_art';
+import { ignivarGravebrandLowerItemImageUrl } from './ignivar_gravebrand_lower_item_art';
+import { ruincallerUpperItemImageUrl } from './ruincaller_upper_item_art';
+import { bloodmarchUpperItemImageUrl } from './bloodmarch_upper_item_art';
 import { arcaneMageUpperItemImageUrl } from './arcane_mage_upper_item_art';
 import { collapsarRingTierItemImageUrl } from './collapsar_ring_tier_item_art';
 import { mountainBandTierItemImageUrl } from './mountain_band_tier_item_art';
@@ -486,6 +490,7 @@ export function paintedItemImageUrl(id: string): string | null {
     ignivarMailDamageItemImageUrl(id) ??
     ignivarMailSpellItemImageUrl(id) ??
     ignivarGroveItemImageUrl(id) ??
+    ignivarTideItemImageUrl(id) ??
     bladewakeUpperItemImageUrl(id) ??
     bladewakeLowerItemImageUrl(id) ??
     chronoweaveUpperItemImageUrl(id) ??
@@ -497,6 +502,9 @@ export function paintedItemImageUrl(id: string): string | null {
     hourbinderLowerItemImageUrl(id) ??
     ignivarFrostquenchUpperItemImageUrl(id) ??
     ignivarGravebrandUpperItemImageUrl(id) ??
+    ignivarGravebrandLowerItemImageUrl(id) ??
+    ruincallerUpperItemImageUrl(id) ??
+    bloodmarchUpperItemImageUrl(id) ??
     arcaneMageUpperItemImageUrl(id) ??
     collapsarRingTierItemImageUrl(id) ??
     mountainBandTierItemImageUrl(id) ??
