@@ -95,7 +95,10 @@ import { ironmarchLowerItemImageUrl } from './ironmarch_lower_item_art';
 import { lightbrandUpperItemImageUrl } from './lightbrand_upper_item_art';
 import { lightbrandLowerItemImageUrl } from './lightbrand_lower_item_art';
 import { pyroclastUpperItemImageUrl } from './pyroclast_upper_item_art';
+import { pyroclastLowerItemImageUrl } from './pyroclast_lower_item_art';
 import { sunvigilUpperItemImageUrl } from './sunvigil_upper_item_art';
+import { sunvigilLowerItemImageUrl } from './sunvigil_lower_item_art';
+import { tempestwritUpperItemImageUrl } from './tempestwrit_upper_item_art';
 import { beastHunterUpperItemImageUrl } from './beast_hunter_upper_item_art';
 import { hexthreadUpperItemImageUrl } from './hexthread_upper_item_art';
 import { hexthreadLowerItemImageUrl } from './hexthread_lower_item_art';
@@ -537,7 +540,10 @@ export function paintedItemImageUrl(id: string): string | null {
     lightbrandUpperItemImageUrl(id) ??
     lightbrandLowerItemImageUrl(id) ??
     pyroclastUpperItemImageUrl(id) ??
+    pyroclastLowerItemImageUrl(id) ??
     sunvigilUpperItemImageUrl(id) ??
+    sunvigilLowerItemImageUrl(id) ??
+    tempestwritUpperItemImageUrl(id) ??
     beastHunterUpperItemImageUrl(id) ??
     hexthreadUpperItemImageUrl(id) ??
     hexthreadLowerItemImageUrl(id) ??

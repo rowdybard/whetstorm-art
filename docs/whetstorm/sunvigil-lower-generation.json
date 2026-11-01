@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_paladin_holy_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_holy_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Sunvigil Legmail, one complete symmetrical pair of paladin leg armor with warm ivory enamel plates over visible mail, polished gold trim and pale blue sun-disc ornaments at knees, luminous yet restrained. Centered front view, no body or boots. Premium hand-painted dark fantasy, muted navy background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "b15fd12471622079dbc0c0d0ae9dfec745b4da20863a0d3462391c72c73cab61",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_holy_legs.webp",
+        "sha256": "218f4c0d5b0634cef566b7cc88ac92eb4df4fddbcb16310e68a2fc826f7a8b61",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_paladin_holy_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_paladin_holy_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Original square fantasy MMO item icon painting: Sunvigil Gloves, one compact pair of paladin gauntlets with warm ivory enamel plates over visible mail, polished gold trim and pale blue sun-disc ornaments, luminous yet restrained. Centered view, no wearer or arms. Premium hand-painted dark fantasy, muted navy background, warm top-left light, complete silhouette with safe padding, readable at 28px. No text, frame, watermark, or extra objects.",
+      "status": "original art candidate",
+      "sha256": "4c3e2d972f677026a8a6677062911dc14115cbdf83a97f7c40a9c7b619738983",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_paladin_holy_gloves.webp",
+        "sha256": "e8997a5d2fea70ce3815a9155c72c5fec65359705878560f14071a0b64827326",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

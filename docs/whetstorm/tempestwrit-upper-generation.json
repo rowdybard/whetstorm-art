@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_shaman_elemental_helmet",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_elemental_helmet.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: one elemental shaman mail coif, dark weathered iron and deep indigo leather, broad etched copper spirals, a small bright cyan storm crystal on the brow. Layered chain and angular iron brow guards, full centered silhouette on dark muted slate background. Painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "2a371b041ec8fb9218616f3b52429e13e40d6c7d657b4c6e52ef1cef439c0de4",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_elemental_helmet.webp",
+        "sha256": "259216a4163cd01e4ab7a364eb877e4858bd38f2ddf323729648645e75918e38",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_shaman_elemental_shoulder",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_elemental_shoulder.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: pair of elemental shaman mail pauldrons, dark weathered iron and deep indigo leather, broad etched copper spirals, a small bright cyan storm crystal on each shoulder. Layered chain and angular iron plates, full centered silhouette on dark muted slate background. Painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "86577dffd626c64d59ed78fb51a37d38e38c087fb3b730ee1775ca65a61ca972",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_elemental_shoulder.webp",
+        "sha256": "49caf7f2ce3b68b7dd856c4971521840bb4bc9f8a818198ef3964d9b383b0ca8",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_shaman_elemental_chest",
+      "file": "docs/design/whetstorm-art/items/vanguard_shaman_elemental_chest.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original square fantasy RPG inventory icon painting: an elemental shaman mail hauberk, dark weathered iron and deep indigo leather, broad etched copper spirals, a small bright cyan storm crystal on the chest. Layered chain and angular iron plates, full centered silhouette on dark muted slate background. Painterly fantasy game art, readable at 28 pixels. No person, text, frame, logo or watermark.",
+      "sha256": "f0475b8562b3c3a147397b5eb5f4329b4d871ac62dd34e265db86f7455f22aaa",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_shaman_elemental_chest.webp",
+        "sha256": "42fcafac61f0817de9548c2405ffe627e09def77757f4d977b79a5e32677678c",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

@@ -1515,6 +1515,18 @@ Three Packwarden armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/beast-hunter-upper-generation.json`.
 
+Two Pyroclast armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/pyroclast-lower-generation.json`.
+
+Two Sunvigil armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/sunvigil-lower-generation.json`.
+
+Three Tempestwrit armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/tempestwrit-upper-generation.json`.
+
 Two Ruincaller armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/ruincaller-lower-generation.json`.

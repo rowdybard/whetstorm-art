@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "pyroclast_gloves",
+      "file": "docs/design/whetstorm-art/items/pyroclast_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Pyroclast Handwraps: one compact pair of empty mage cloth gloves in ember red and charcoal, blackened copper trim with cracked volcanic stone ornament and restrained golden-orange embers on cuffs. No hands or person. Entire pair centered with clear glove silhouettes and safe margins. Dark warm umber painted vignette, premium hand-painted fantasy art, tactile cloth folds, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "6ae85bfd35bc40c2fa39615d83268e5565a83a7838fa28e933e74dab2ede7965",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pyroclast_gloves.webp",
+        "sha256": "fefdb384e12c3a29a45a61d151cdf9cc9d5978a18fda57792f907cf842c6740e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "pyroclast_legs",
+      "file": "docs/design/whetstorm-art/items/pyroclast_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Pyroclast Leggings: one complete pair of empty mage cloth trousers in ember red and charcoal, blackened copper trim with cracked volcanic stone ornament and restrained golden-orange ember at waist. No body, boots or person. Front view, trousers centered with separated legs and safe margins. Dark warm umber painted vignette, premium hand-painted fantasy art, tactile cloth folds, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "98e73d490ae23c0648b994f1d19f186109db4b892a346cf9d04792926463c63c",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/pyroclast_legs.webp",
+        "sha256": "71066650f84f3225ceb446b35283a23345a52df93ebf69cb4e66ff8ecc10431b",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
