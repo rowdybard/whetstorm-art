@@ -1613,6 +1613,14 @@ Three Slagcrown armor paintings were generated with OpenAI's built-in image
 generation; prompts and hashes are recorded in
 `docs/whetstorm/slagcrown-upper-generation.json`.
 
+Two Marrowbound armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/demonology-warlock-lower-generation.json`.
+
+Two Slagcrown armor paintings were generated with OpenAI's built-in image
+generation; prompts and hashes are recorded in
+`docs/whetstorm/slagcrown-lower-generation.json`.
+
 Two Dreadquill armor paintings were generated with OpenAI's built-in image
 generation; prompts, references, and hashes are recorded in
 `docs/whetstorm/dreadquill-lower-generation.json`.

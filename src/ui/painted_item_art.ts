@@ -68,8 +68,10 @@ import { dreadquillUpperItemImageUrl } from './dreadquill_upper_item_art';
 import { dreadquillLowerItemImageUrl } from './dreadquill_lower_item_art';
 import { thistlebloomUpperItemImageUrl } from './thistlebloom_upper_item_art';
 import { demonologyWarlockUpperItemImageUrl } from './demonology_warlock_upper_item_art';
+import { demonologyWarlockLowerItemImageUrl } from './demonology_warlock_lower_item_art';
 import { dawnBattleStandardItemImageUrl } from './dawn_battle_standard_item_art';
 import { slagcrownUpperItemImageUrl } from './slagcrown_upper_item_art';
+import { slagcrownLowerItemImageUrl } from './slagcrown_lower_item_art';
 import { starwardenUpperItemImageUrl } from './starwarden_upper_item_art';
 import { starwardenLowerItemImageUrl } from './starwarden_lower_item_art';
 import { cinderbarkLowerItemImageUrl } from './cinderbark_lower_item_art';
@@ -543,8 +545,10 @@ export function paintedItemImageUrl(id: string): string | null {
     dreadquillLowerItemImageUrl(id) ??
     thistlebloomUpperItemImageUrl(id) ??
     demonologyWarlockUpperItemImageUrl(id) ??
+    demonologyWarlockLowerItemImageUrl(id) ??
     dawnBattleStandardItemImageUrl(id) ??
     slagcrownUpperItemImageUrl(id) ??
+    slagcrownLowerItemImageUrl(id) ??
     starwardenUpperItemImageUrl(id) ??
     starwardenLowerItemImageUrl(id) ??
     cinderbarkLowerItemImageUrl(id) ??

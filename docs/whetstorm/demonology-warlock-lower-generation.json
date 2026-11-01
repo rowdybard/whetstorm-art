@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_warlock_demonology_legs",
+      "file": "docs/design/whetstorm-art/demonology-warlock-legs-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/demonology-warlock-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one complete pair of empty warlock cloth leggings, clearly separated legs ending at ankle cuffs, charcoal cloth with bone ivory trim, muted violet panels and an eerie green gem at waist. Match the supplied robe's materials, palette, painted rendering and dark navy background; show only leggings with no boots or person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "f4c6cd4b076a5a3b6e448f5ff352958fe377f2c7b27c0d7a64e988f495b1e876",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_demonology_legs.webp",
+        "sha256": "115046761e81156a0d2d869ec99df3f267f3c1fd9f8cb8c8d46f4e467d99fea3",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warlock_demonology_gloves",
+      "file": "docs/design/whetstorm-art/demonology-warlock-gloves-master.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [
+        "docs/design/whetstorm-art/demonology-warlock-chest-master.png"
+      ],
+      "prompt": "Create a NEW original square fantasy RPG inventory painting of one pair of empty warlock cloth gloves, recognizable fingers and cuffs, charcoal cloth with bone ivory trim, muted violet panels and eerie green gems. Match the supplied robe's materials, palette, painted rendering and dark navy background; show only gloves with no person. Centered large clear silhouette readable at 28 pixels. No text, lettering, border, logo or watermark.",
+      "status": "original painting; visual review, in-game fit unverified",
+      "sha256": "70a639f5dab91ac04bdc70a0d0f5473e6da94ce16e2da3dd31203cd9a780f282",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_demonology_gloves.webp",
+        "sha256": "109a8903ac91c2115bddce286619d1e537876ab1f2218116eee6ab0c718e1a97",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP",
+        "processing": "sharp Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}

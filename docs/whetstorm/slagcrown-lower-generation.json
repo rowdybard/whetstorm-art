@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "itemId": "vanguard_warlock_destruction_gloves",
+      "file": "docs/design/whetstorm-art/items/vanguard_warlock_destruction_gloves.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Slagcrown Gloves: one compact pair of empty warlock cloth gloves in black charcoal and dark red with scorched iron trim, spiked crown motifs and restrained glowing orange cracks in black slag at cuffs. No hands or person. Entire pair centered with clear glove silhouettes and safe margins. Dark umber painted vignette, premium hand-painted fantasy art, tactile cloth and iron, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "ab8fcdc547713434fc4d6aededfa5a3bdd3e5d1f3383a29eef119ce85e475af6",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_destruction_gloves.webp",
+        "sha256": "1e9ae4b548eefbb13bc1aea5ea00b70dd8c58b1d423d6b1ddaff3857ef969f5f",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    },
+    {
+      "itemId": "vanguard_warlock_destruction_legs",
+      "file": "docs/design/whetstorm-art/items/vanguard_warlock_destruction_legs.png",
+      "source": "OpenAI built-in image generation",
+      "reference_images": [],
+      "prompt": "Use case: stylized-concept. Original opaque square fantasy MMORPG inventory painting of Slagcrown Leggings: one complete pair of empty warlock cloth trousers in black charcoal and dark red with scorched iron trim, spiked crown motifs and restrained glowing orange cracks in black slag. No body, boots or person. Front view, trousers centered with separated legs and safe margins. Dark umber painted vignette, premium hand-painted fantasy art, tactile cloth and iron, warm upper-left light and cool shadows, readable at 28px. No writing, frame, watermark, transparency or extra objects.",
+      "status": "original art candidate; reviewed at inventory sizes",
+      "sha256": "b637365e27e0141010f2e9e35bd773ba504a9d6f3e7ba39d3a3fec8ac916daf8",
+      "pixels": [
+        1254,
+        1254
+      ],
+      "mode": "RGB",
+      "delivery": {
+        "path": "public/ui/whetstorm/items/vanguard_warlock_destruction_legs.webp",
+        "sha256": "b674cf866c07215cf286b0e7c27c568997e1e43f60be7b98050a62ce126ada7e",
+        "pixels": [
+          128,
+          128
+        ],
+        "format": "WebP RGB",
+        "processing": "sharp; Lanczos3 resize to 128 x 128; WebP quality 84, effort 6"
+      }
+    }
+  ]
+}
