@@ -2174,3 +2174,8 @@ and hashes are recorded in `docs/whetstorm/cave-ember-portraits-generation.json`
 and the `veiled-hollow-fungal-provenance.json`, `vale-rares-provenance.json`,
 `drowned-litany-extra-provenance.json`, and `hoard-epic-bosses-provenance.json`
 files under `public/ui/whetstorm/mobs/`.
+
+The original Rogue Throat Wire candidate was created with OpenAI's built-in
+image generation and refined from its earlier generated version. Prompts, hashes,
+and static review are in `docs/whetstorm/rogue-garrote-candidate.json`.
+This documentation candidate awaits in-game and release review.

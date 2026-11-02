@@ -1,0 +1,82 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "status": "Documentation candidate only; no route in this art checkout. Gameplay and release rights approval remain pending. Hashes identify bytes, not rights or approval.",
+  "referenceV3": {
+    "prompt": "Create one original square fantasy MMORPG ability icon for Throat Wire, a Rogue stealth attack. Show a simple wooden training mannequin's neck and collar in side view, with one taut bright silver wire drawn across the collar, held by a single dark gloved hand gripping a small handle at the right edge. The wire's contact with the collar must be clear and simple at 24 to 32 pixels. Non-graphic: no blood, gore, injury, real person or facial detail. Hand-painted dark fantasy game art, charcoal full-bleed opaque background, bold silhouette, restrained detail and high contrast. No loose loop, jump rope, double-ended blade, sword, text, letters, numbers, frame, logo, watermark or existing-game imitation.",
+    "references": "No image references; text-only independent prompt.",
+    "generatedSource": {
+      "sha256": "5aa8dfe9d7a2aca6923cb715b63d83b1941d8ef9a6594e72ed65588b18b05db5",
+      "bytes": 2143867
+    },
+    "master": {
+      "path": "docs/design/whetstorm-art/abilities/rogue/garrote-v3.png",
+      "sha256": "5aa8dfe9d7a2aca6923cb715b63d83b1941d8ef9a6594e72ed65588b18b05db5",
+      "bytes": 2143867,
+      "format": "png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "alphaMin": 255,
+      "alphaMax": 255
+    }
+  },
+  "editV4": {
+    "prompt": "Edit this original Rogue Throat Wire game icon to make the wire unmistakable at 24 pixels. Keep the wooden training mannequin collar on the left, the dark gloved grip on the right, the charcoal background and the non-graphic hand-painted fantasy style. Replace the almost invisible thin line with ONE bright braided SILVER WIRE at least one-sixteenth of the image width, clearly wrapping across the front of the collar to the grip. Make it rounded and visibly braided, with no sharp blade edge or pointed tips. Increase its contrast and simplify tiny details so wire, collar and hand remain distinct in grayscale at 24 pixels. No injury, blood, gore, face, text, letters, numbers, border, logo, watermark or imitation of any existing game or artist.",
+    "reference": {
+      "path": "docs/design/whetstorm-art/abilities/rogue/garrote-v3.png",
+      "sha256": "5aa8dfe9d7a2aca6923cb715b63d83b1941d8ef9a6594e72ed65588b18b05db5",
+      "note": "The reference is the v3 master documented above."
+    },
+    "generatedSource": {
+      "sha256": "4c7bc6328841c7b55d1369afb8a916c9f6e0775c2b16c40b7febd36dadfe678a",
+      "bytes": 2147037
+    },
+    "master": {
+      "path": "docs/design/whetstorm-art/abilities/rogue/garrote-v4.png",
+      "sha256": "4c7bc6328841c7b55d1369afb8a916c9f6e0775c2b16c40b7febd36dadfe678a",
+      "bytes": 2147037,
+      "format": "png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "alphaMin": 255,
+      "alphaMax": 255
+    },
+    "candidate": {
+      "path": "docs/design/whetstorm-art/abilities/rogue/candidates/garrote-v4.webp",
+      "sha256": "42fb6e4e56da71eab821928312a4e25a0c7dd112e74cd989c7ccbc048ea71b5a",
+      "bytes": 3762,
+      "format": "webp",
+      "dimensions": [
+        128,
+        128
+      ],
+      "alphaMin": 255,
+      "alphaMax": 255
+    },
+    "processing": "Sharp 0.35.4: rotate(); resize(128, 128, { fit: 'cover', position: 'centre' }); toColorspace('srgb'); webp({ quality: 82, smartSubsample: true, effort: 6 }); metadata stripped by default. Sources and deliveries fully decoded and alpha verified opaque."
+  },
+  "staticReview": {
+    "contactSheet": {
+      "path": "docs/design/whetstorm-art/abilities/rogue/reviews/garrote-v4-static.png",
+      "sha256": "e16c6210441669478cb4bd287a90a756b228d5048d7a356bceeffd34d60f9445",
+      "bytes": 20430,
+      "sizesPx": [
+        24,
+        32,
+        48
+      ],
+      "modes": [
+        "color",
+        "grayscale"
+      ]
+    },
+    "limitations": "The grip detail and the stealth action require game context. Gameplay action-bar review remains pending."
+  },
+  "gamePilotContext": {
+    "runtimeUrl": "/ui/whetstorm/abilities/rogue_starter_garrote.webp",
+    "note": "Separate game pilot checkout runtime URL; not an art repository file or route."
+  }
+}
