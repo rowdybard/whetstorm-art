@@ -1,0 +1,38 @@
+{
+  "generator": "OpenAI built-in image_gen",
+  "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon, readable at 24 pixels. Create an original 2D painted icon for Litany of Resolve, a priest blessing that strengthens the stamina of the whole party. Show one bold golden heart-shaped glowing crystal encircled by a simple protective halo, with three small gold sparks around it suggesting allies. Full bleed dark plum and warm brown background, luminous gold, textured hand-painted fantasy art, strong contrast and simple silhouette. Reference image is for style and palette only; do not reproduce its hand or droplet. No figure, text, letters, numbers, frame, logo or watermark.",
+  "reference": {
+    "path": "docs/design/whetstorm-art/abilities/priest/priest_early_style_reference_lesser_heal.webp",
+    "sha256": "5d936f4431b1ddf760e9330a830d2f01bda6256f2cf18b2d6165a757b6837b00",
+    "source": "game checkout public/ui/whetstorm/abilities/priest_starter_lesser_heal.webp",
+    "role": "style reference, original pilot provenance in docs/whetstorm/launch-class-starter-ability-generation.json; rights and release clearance not independently verified"
+  },
+  "generatedSource": {
+    "sha256": "81520537b40bf94c184b77953cc2c232de44cdd637df71d48d31ab20a3f36b34",
+    "description": "Built-in generated PNG, byte-identical to master"
+  },
+  "master": {
+    "path": "docs/design/whetstorm-art/abilities/priest/priest_early_power_word_fortitude_master.png",
+    "sha256": "81520537b40bf94c184b77953cc2c232de44cdd637df71d48d31ab20a3f36b34",
+    "dimensions": [
+      1254,
+      1254
+    ]
+  },
+  "candidate": {
+    "path": "docs/design/whetstorm-art/abilities/priest/candidates/priest_early_power_word_fortitude.webp",
+    "sha256": "a85d81246b63a59ed2ac09dea4b38df94b68deae62bbb9149da6479afabc492d",
+    "dimensions": [
+      128,
+      128
+    ]
+  },
+  "processing": "Pillow RGB Lanczos resize to 128x128, WebP quality 90 method 6; previews from candidate resized using Lanczos to 24 or 32 pixels, grayscale via Pillow grayscale and nearest-neighbor enlargement 10x.",
+  "gamePilotContext": {
+    "proposedRuntimeUrl": "/ui/whetstorm/abilities/priest_early_power_word_fortitude.webp",
+    "existingInheritedUrl": "/ui/skills/priest/power_word_fortitude.webp",
+    "gameCheckoutFile": "public/ui/whetstorm/abilities/priest_early_power_word_fortitude.webp",
+    "sha256": "a85d81246b63a59ed2ac09dea4b38df94b68deae62bbb9149da6479afabc492d"
+  },
+  "status": "Experimental pilot candidate. Static review completed; gameplay review, rights assessment and release clearance remain pending. Hashes do not establish rights."
+}

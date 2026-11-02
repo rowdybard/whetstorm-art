@@ -1,0 +1,86 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "referenceImages": [],
+  "referenceStatus": "Text-only generation; no image references.",
+  "processing": "Sharp Lanczos3 resize to 128x128, WebP quality 90, effort 6. Sources and candidates are opaque RGB.",
+  "review": {
+    "path": "docs/design/whetstorm-art/abilities/druid/candidates/druid-early-review.png",
+    "sha256": "93a3186d56ecf99640cd30589ff6d69525307493e80c6258a4606e4c0622fb2f",
+    "description": "24px and 32px previews, enlarged with nearest-neighbor sampling. Generator and independent static reviews found both subjects recognizable."
+  },
+  "limitations": "Experimental pilot only. In-game visual review, gameplay context and release rights approval remain pending; hashes establish byte identity, not authorship or rights.",
+  "records": [
+    {
+      "id": "moonfire",
+      "name": "Lunar Tempest",
+      "learnLevel": 2,
+      "prompt": "Create one original square fantasy MMORPG ability icon for a druid moonfire spell: a bright silver crescent moon above a single descending violet-white shaft of celestial flame, with a few embers, against a deep midnight blue background. Bold simple silhouette and distinct values readable at 24 to 32 pixels. Hand-painted stylized dark fantasy game art, opaque full-bleed square, restrained detail, no text, letters, numbers, border, frame, logo, watermark or imitation of any existing game or artist.",
+      "generatedSource": {
+        "sha256": "5eba7f3cd6680831c234b6a22e97714211474c33a9ff8768309dfa16132e18cb",
+        "bytes": 1773302,
+        "verification": "Generated source bytes matched the preserved master at generation time."
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/druid/moonfire.png",
+        "sha256": "5eba7f3cd6680831c234b6a22e97714211474c33a9ff8768309dfa16132e18cb",
+        "bytes": 1773302,
+        "format": "png",
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/druid/candidates/moonfire.webp",
+        "sha256": "19870315b99dc5e9c2548ba99260c0394adf3e10bebd9dafecd7528dd466880f",
+        "bytes": 3866,
+        "format": "webp",
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/druid_early_moonfire.webp",
+        "sha256": "19870315b99dc5e9c2548ba99260c0394adf3e10bebd9dafecd7528dd466880f",
+        "note": "Separate game pilot checkout; this is not a delivery in the art repository."
+      }
+    },
+    {
+      "id": "mark_of_the_wild",
+      "name": "Wildward",
+      "learnLevel": 1,
+      "prompt": "Create one original square fantasy MMORPG ability icon for a druid's protective nature blessing: a single broad emerald leaf with a clear golden branching vein pattern, surrounded by a soft protective ring of green light against a deep forest-green background. Bold simple silhouette and distinct values readable at 24 to 32 pixels. Hand-painted stylized dark fantasy game art, opaque full-bleed square, restrained detail, no text, letters, numbers, border, frame, logo, watermark or imitation of any existing game or artist.",
+      "generatedSource": {
+        "sha256": "4301b8f4d9ddaee905348eb72e54eed0c0e46f8a192119b15235d6c62ed8ed86",
+        "bytes": 2045654,
+        "verification": "Generated source bytes matched the preserved master at generation time."
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/druid/mark_of_the_wild.png",
+        "sha256": "4301b8f4d9ddaee905348eb72e54eed0c0e46f8a192119b15235d6c62ed8ed86",
+        "bytes": 2045654,
+        "format": "png",
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/druid/candidates/mark_of_the_wild.webp",
+        "sha256": "d37fd38d7a32befe780f9554eae713843834acf42b69dc42ae3aee4afca4364b",
+        "bytes": 6354,
+        "format": "webp",
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/druid_early_mark_of_the_wild.webp",
+        "sha256": "d37fd38d7a32befe780f9554eae713843834acf42b69dc42ae3aee4afca4364b",
+        "note": "Separate game pilot checkout; this is not a delivery in the art repository."
+      }
+    }
+  ]
+}

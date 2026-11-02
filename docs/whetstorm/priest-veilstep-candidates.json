@@ -1,0 +1,61 @@
+{
+  "generator": "OpenAI built-in image_gen",
+  "reference": {
+    "path": "docs/design/whetstorm-art/abilities/priest/priest_early_style_reference_lesser_heal.webp",
+    "sha256": "5d936f4431b1ddf760e9330a830d2f01bda6256f2cf18b2d6165a757b6837b00",
+    "source": "game checkout public/ui/whetstorm/abilities/priest_starter_lesser_heal.webp",
+    "role": "Style reference only, prior Whetstorm generated pilot. See docs/whetstorm/launch-class-starter-ability-generation.json. Rights and release clearance not independently verified."
+  },
+  "processing": "Pillow RGB, Lanczos resize 128x128, WebP quality 90 method 6; 24px and 32px color and grayscale previews enlarged 10x with nearest neighbor.",
+  "alternates": [
+    {
+      "version": "v1",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon, readable at 24 pixels. Create an original 2D painted icon for Veilstep, a priest shadow spell that moves the caster forward through a veil. Show a single dark violet boot stepping diagonally forward through a vertical luminous violet rift, with a simple trailing wisp that communicates forward movement. Close crop, bold simple silhouette; deep plum and near-black full bleed background, cool violet glow, textured hand-painted fantasy game art, high contrast. Reference image is for painterly style only, use a shadow-purple palette; do not reproduce its hand or droplet. No other figure, text, letters, numbers, frame, logo or watermark.",
+      "generatedSourceSha256": "94188b05279d0722b1c787d93dd7fa5018ea52ac2441f22aadb004441105ae1c",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/priest/priest_early_veilstep_v1_master.png",
+        "sha256": "94188b05279d0722b1c787d93dd7fa5018ea52ac2441f22aadb004441105ae1c",
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/priest/candidates/priest_early_veilstep_v1.webp",
+        "sha256": "fb0b38e9d7cc111e739fdb9833c3f597261c52df02eb47df389f8f24a67e3398",
+        "dimensions": [
+          128,
+          128
+        ]
+      }
+    },
+    {
+      "version": "v2",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon, legible at 24 pixels and in grayscale. Create an original 2D painted icon for Veilstep, a shadow priest spell that moves the caster forward through a veil. Show ONE large bright silver-lavender boot silhouette clearly stepping toward the upper right, with a dark sole and a wide separated bright arrow-like motion streak behind it; a simple dark violet portal ring sits behind the boot. Make the boot much lighter than a near-black plum background and preserve clear space around its entire outline. Bold flat value grouping, textured fantasy painting, strong contrast, very simple composition. No person, no text, letters, numbers, frame, logo or watermark.",
+      "generatedSourceSha256": "e09ebb9c43f30cbad6480c8f6a4d96658f8d4aeb4718eb0ac761e03e90ba8a69",
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/priest/priest_early_veilstep_v2_master.png",
+        "sha256": "e09ebb9c43f30cbad6480c8f6a4d96658f8d4aeb4718eb0ac761e03e90ba8a69",
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/priest/candidates/priest_early_veilstep_v2.webp",
+        "sha256": "fdb3539c38974a67c79d763c75431399b4a84bccbdd1285bc42f374c386e0d93",
+        "dimensions": [
+          128,
+          128
+        ]
+      }
+    }
+  ],
+  "gamePilotContext": {
+    "proposedRuntimeUrl": "/ui/whetstorm/abilities/priest_early_veilstep.webp",
+    "existingInheritedUrl": "/ui/skills/priest/veilstep.webp",
+    "gameCheckoutFile": "public/ui/whetstorm/abilities/priest_early_veilstep.webp",
+    "sha256": "fdb3539c38974a67c79d763c75431399b4a84bccbdd1285bc42f374c386e0d93"
+  },
+  "status": "v1 is an unrouted alternate; v2 is an experimental pilot candidate. Independent static review found the boot and motion readable with the sole and streak overlapping. Gameplay review, rights assessment and release clearance remain pending; hashes do not establish rights."
+}

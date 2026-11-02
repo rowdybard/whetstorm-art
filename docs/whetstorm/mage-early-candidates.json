@@ -1,0 +1,45 @@
+{
+  "generator": "OpenAI built-in image generation, text only",
+  "inputImages": [],
+  "processing": "sharp resize to 128x128, WebP quality 82, alphaQuality 100, effort 6, smartSubsample true",
+  "entries": [
+    {
+      "id": "fire_blast",
+      "name": "Cinderfall",
+      "prompt": "Use case: stylized-concept. Original square fantasy MMO ability icon painting for Fire Blast: a close, forceful burst of fire erupting outward from one outstretched hand, a compact white-hot core and bold orange-red tongues of flame, distinct from a flying fireball. Painterly textured brushwork, dramatic controlled lighting, dark near-black backdrop, one clear silhouette readable at 32 pixels. Edge-to-edge opaque square composition. No text, letters, symbols, frame, watermark, or UI. Generate from text alone without reference images.",
+      "master": "docs/design/whetstorm-art/abilities/mage/fire_blast-master.png",
+      "masterSha256": "d52d5f6a8e601ba62c07362842ec16012e118aa34ea423d5646489b395243740",
+      "candidate": "docs/design/whetstorm-art/abilities/mage/candidates/fire_blast.webp",
+      "candidateSha256": "3b60efe7137c9b127120f3c48426369c75584557ffa8ff0b1679dbecb21e5e3e",
+      "source": "docs/design/whetstorm-art/abilities/mage/fire_blast-master.png",
+      "sourceSha256": "d52d5f6a8e601ba62c07362842ec16012e118aa34ea423d5646489b395243740",
+      "reviewImage": "docs/design/whetstorm-art/abilities/mage/candidates/fire_blast-32-review.png",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/mage_early_fire_blast.webp",
+        "sha256": "3b60efe7137c9b127120f3c48426369c75584557ffa8ff0b1679dbecb21e5e3e",
+        "note": "Separate game pilot checkout; this is not a delivery in the art repository."
+      }
+    },
+    {
+      "id": "frost_nova",
+      "name": "Icebind",
+      "prompt": "Use case: stylized-concept. Original square fantasy MMO ability icon painting for Frost Nova: a sudden circular wave of jagged ice crystals erupting across the ground from a single glowing center, with nearby dark anonymous boots visibly caught in frost, conveying a close-range freezing root. Bold large shapes and high contrast readable at 32 pixels; painterly textured brushwork, luminous cyan-white ice against a deep midnight-blue background. Edge-to-edge opaque square composition. No text, letters, symbols, frame, watermark, or UI. Generate from text alone without reference images.",
+      "master": "docs/design/whetstorm-art/abilities/mage/frost_nova-master.png",
+      "masterSha256": "7a4f5791ab2000f2d3be9f25f816535dc104a2039535ab9f32f3e6f7909ae28e",
+      "candidate": "docs/design/whetstorm-art/abilities/mage/candidates/frost_nova.webp",
+      "candidateSha256": "4befcb08cebde7867fd2c06f0fbbb4fa4beca628a8376e6c3083606ecf908b35",
+      "source": "docs/design/whetstorm-art/abilities/mage/frost_nova-master.png",
+      "sourceSha256": "7a4f5791ab2000f2d3be9f25f816535dc104a2039535ab9f32f3e6f7909ae28e",
+      "reviewImage": "docs/design/whetstorm-art/abilities/mage/candidates/frost_nova-32-review.png",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/mage_early_frost_nova.webp",
+        "sha256": "4befcb08cebde7867fd2c06f0fbbb4fa4beca628a8376e6c3083606ecf908b35",
+        "note": "Separate game pilot checkout; this is not a delivery in the art repository."
+      }
+    }
+  ],
+  "referenceStatus": "No input or reference images were used",
+  "review": "Static master and 32px review only; no in-game or gameplay review or independent approval is asserted. Icebind boot detail is less distinct at 32px.",
+  "rights": "Generated candidates for experimental use. Commercial rights and third-party similarity remain subject to project review; no legal clearance is asserted.",
+  "pathScope": "master, source, candidate, and reviewImage are relative to the art checkout; gamePilotContext describes a separate checkout."
+}

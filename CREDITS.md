@@ -2179,3 +2179,13 @@ The original Rogue Throat Wire candidate was created with OpenAI's built-in
 image generation and refined from its earlier generated version. Prompts, hashes,
 and static review are in `docs/whetstorm/rogue-garrote-candidate.json`.
 This documentation candidate awaits in-game and release review.
+
+Original Mage, Druid, Rogue, Hunter and Priest ability candidates were created
+with OpenAI's built-in image generation for the experimental Whetstorm game
+pilot. Prompts, any style-reference lineage, masters, hashes and static reviews
+are recorded in `docs/whetstorm/mage-early-candidates.json`,
+`mage-wave2-candidates.json`, `druid-early-candidates.json`,
+`rogue-early-candidates.json`, `rogue-wave2-candidates.json`,
+`hunter-guises-pilot-candidates.json`, `priest-fortitude-candidates.json` and
+`priest-veilstep-candidates.json` in that directory. Alternate versions remain
+unrouted. Gameplay and release-rights review remain pending.

@@ -1,0 +1,56 @@
+{
+  "generator": "OpenAI built-in image generation, 2026-11-02",
+  "referenceImages": [],
+  "processing": "sharp resize 128x128, WebP quality 82, alphaQuality 100, effort 6, smartSubsample true; color and grayscale at 24 and 32 pixels, plus nearest-neighbor enlargements for static inspection",
+  "status": "Experimental pilot candidates; independent static color and grayscale review passed. Gameplay verification, rights clearance and release approval remain outstanding. Hashes and generation do not establish rights.",
+  "records": [
+    {
+      "id": "aspect_of_the_hawk",
+      "name": "Harrier's Guise",
+      "learnLevel": 4,
+      "liveLegacyRoute": "/ui/skills/hunter/aspect_of_the_hawk.webp",
+      "meaning": "Long-lasting attack-power buff.",
+      "prompt": "Create one original square opaque painted dark fantasy RPG ability icon for Harrier's Guise, a hunter's long-lasting attack-power self-buff. Show a single harrier hawk's head in clean side profile, large hooked beak pointing right and fierce eye, framed by a few short broad feathers. The head fills most of the square with an unmistakable bird-of-prey silhouette and pale ivory plumage against a deep forest-green and charcoal background, with restrained gold edge light. Hand-painted textured brushwork, very simple high contrast design readable at 24 pixels. No body, wings, other animals, text, letters, numbers, symbol, frame, logo, watermark, or imitation of existing games or artists. Generate from text alone, no image references.",
+      "master": "docs/design/whetstorm-art/abilities/hunter/guises/harrier_v2_guise_master.png",
+      "sourceSha256": "fd51522262cdd0634f985cdd3d81c6bb6244c5892369c1c495b3d37af42534a2",
+      "masterSha256": "fd51522262cdd0634f985cdd3d81c6bb6244c5892369c1c495b3d37af42534a2",
+      "candidate": "docs/design/whetstorm-art/abilities/hunter/guises/harrier_v2_guise_candidate.webp",
+      "candidateSha256": "8248cb9a2b3c94befd2f6e5c7492b21f7a823b55125e439e08489de5a8db8dd6",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/hunter_early_aspect_of_the_hawk.webp",
+        "sha256": "8248cb9a2b3c94befd2f6e5c7492b21f7a823b55125e439e08489de5a8db8dd6",
+        "status": "Routed in the separate experimental game pilot; gameplay and release rights review remain pending."
+      }
+    },
+    {
+      "id": "aspect_of_the_cheetah",
+      "name": "Courser's Guise",
+      "learnLevel": 5,
+      "liveLegacyRoute": "/ui/skills/hunter/aspect_of_the_cheetah.webp",
+      "meaning": "Long-lasting movement-speed buff; taking damage dazes.",
+      "prompt": "Create one original square opaque painted dark fantasy RPG ability icon for Courser's Guise, a hunter's long-lasting movement-speed self-buff. Show a single galloping horse in full side profile, its legs visibly extended in a running stride, sweeping forward across a dark blue-charcoal background. A few broad pale blue wind streaks behind it convey speed. Bold light silhouette readable at 24 to 32 pixels; hand-painted textured brushwork, high contrast and restrained detail, no rider. No text, letters, numbers, symbols, frame, logo, watermark, or imitation of existing games or artists. Generate from text alone, no image references.",
+      "master": "docs/design/whetstorm-art/abilities/hunter/guises/courser_guise_master.png",
+      "sourceSha256": "cd3b6df3f033cd4d70a3b3ca81f21f77db92508a465643678163dda2a4a46301",
+      "masterSha256": "cd3b6df3f033cd4d70a3b3ca81f21f77db92508a465643678163dda2a4a46301",
+      "candidate": "docs/design/whetstorm-art/abilities/hunter/guises/courser_guise_candidate.webp",
+      "candidateSha256": "39b988b1c7763f27fa1070e803007b4c2776f9cf3ed6a4ba7c1744dc8b82b51f",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/hunter_early_aspect_of_the_cheetah.webp",
+        "sha256": "39b988b1c7763f27fa1070e803007b4c2776f9cf3ed6a4ba7c1744dc8b82b51f",
+        "status": "Routed in the separate experimental game pilot; gameplay and release rights review remain pending."
+      }
+    }
+  ],
+  "review": "docs/design/whetstorm-art/abilities/hunter/guises/hunter_guise_v2_color_gray_review.png",
+  "reviewNotes": "The bird head and galloping horse remain distinguishable at 24 and 32 pixels in independent static color and grayscale review. Harrier v1 diving bird was rejected as too abstract at 24 pixels. Gameplay and release rights review remain outstanding.",
+  "rejectedHarrierV1": {
+    "prompt": "Create one original square opaque painted dark fantasy RPG ability icon for Harrier's Guise, a hunter's long-lasting attack-power self-buff. Show a single powerful harrier hawk in a steep diving silhouette, wings swept back, talons forward, against a deep forest-green and charcoal background. Pale feather edges and a restrained warm gold glow make the bird shape immediately legible at 24 to 32 pixels. Hand-painted textured brushwork and high contrast, bold simple composition, no extra birds. No text, letters, numbers, symbol, frame, logo, watermark, or imitation of existing games or artists. Generate from text alone, no image references.",
+    "master": "docs/design/whetstorm-art/abilities/hunter/guises/harrier_guise_master.png",
+    "masterSha256": "a4a7264d69547b09fafd238e5e1dec6a2034502dbfdc8bdcf94bce794c4cb433",
+    "candidate": "docs/design/whetstorm-art/abilities/hunter/guises/harrier_guise_candidate.webp",
+    "candidateSha256": "7f8ab22fd157fdbf73d92122d48e18ead18f5a78ab16813d91cad3727413acfd",
+    "review": "docs/design/whetstorm-art/abilities/hunter/guises/hunter_guise_color_gray_review.png",
+    "reason": "Bird silhouette is too abstract at 24 pixels."
+  },
+  "pathContext": "Master, candidate and review paths are relative to the private art repository. Game source evidence mirrors these files under docs/whetstorm/ability-art-source-evidence/."
+}

@@ -1,0 +1,96 @@
+{
+  "generator": "OpenAI built-in image generation, text only",
+  "inputImages": [],
+  "processing": "sharp: resize master to 128x128, WebP quality 82, alphaQuality 100, effort 6, smartSubsample true; review images resized from delivery to 24 or 32 pixels, grayscale when named, then enlarged 8x nearest-neighbor",
+  "liveResolver": "A scratch Vitest probe invoked abilityImageUrl on both IDs and asserted the inherited /ui/skills/mage/<id>.webp routes; passed before candidate selection.",
+  "review": "Independent static review of the 24px color and grayscale previews selected both candidates for the experimental pilot. Spellsever reads as a crossed slash, and Bewitch transformation remains contextual. No gameplay review or legal clearance is asserted. Bewitch v1 is retained as an unrouted candidate because its grayscale silhouette is weak.",
+  "entries": [
+    {
+      "id": "counterspell",
+      "name": "Spellsever",
+      "learnLevel": 4,
+      "prompt": "Use case: stylized-concept. Original square fantasy MMO ability icon painting for Spellsever, an interrupt: a single brilliant violet magical bolt is snapped apart at its center by a sharp diagonal silver-blue slash, with two broken halves clearly separated and a few sparks, conveying a spell abruptly stopped. Painterly textured brushwork, dramatic controlled lighting, bold simple silhouette readable at 24 pixels, dark indigo near-black background. Opaque edge-to-edge square. No characters, letters, text, numerals, symbols, border, watermark, or UI. Generate from text alone without reference images.",
+      "master": "docs/design/whetstorm-art/abilities/mage/wave2/counterspell-master.png",
+      "masterSha256": "a3da2ba8ef6a9f548462145ad713af294728cffa41f69ddcc351eea3cd3a7350",
+      "candidate": "docs/design/whetstorm-art/abilities/mage/wave2/counterspell.webp",
+      "candidateSha256": "d53605f3070b10e064c8e38d846ada2774d5f11bd982a53a8b0ed1863c0eb899",
+      "reviews": [
+        {
+          "path": "docs/design/whetstorm-art/abilities/mage/wave2/counterspell-24-color.png",
+          "sha256": "f178efc6a043cae03d0ac42c6fab9e5d92f87557ca63f83f0cc910f81d08c4fa"
+        },
+        {
+          "path": "docs/design/whetstorm-art/abilities/mage/wave2/counterspell-24-gray.png",
+          "sha256": "fdc6fa1f5c6797b12f94aa6d085a33baf4804974eaefedd5e87bbb15fc4b675d"
+        },
+        {
+          "path": "docs/design/whetstorm-art/abilities/mage/wave2/counterspell-32-color.png",
+          "sha256": "cb10b9ff566cfa6bc9e26e37ecdbdfb9158c6008958fc15351d11c8b98871e4b"
+        },
+        {
+          "path": "docs/design/whetstorm-art/abilities/mage/wave2/counterspell-32-gray.png",
+          "sha256": "5f078bbfbb21343252d1e900f2a9e2fec3f6b234a4cc74e0d3e83710fd4d83ef"
+        }
+      ]
+    },
+    {
+      "id": "polymorph",
+      "name": "Bewitch",
+      "learnLevel": 6,
+      "prompt": "Use case: stylized-concept. Original square fantasy MMO ability icon painting for Bewitch, a spell turning an enemy into a toad. Depict one large toad head and shoulders, facing the viewer, with very prominent widely spaced pale eyes and a broad dark mouth. The light tan toad silhouette stands out sharply against a plain very dark violet background; a few restrained violet magical wisps around the outside suggest transformation. Strong light-dark separation even in grayscale, simple focal shape readable at 24 pixels, rich textured fantasy brushwork. Opaque edge-to-edge square. No text, letters, numerals, symbols, frame, watermark, or UI. Generate from text alone without reference images.",
+      "master": "docs/design/whetstorm-art/abilities/mage/wave2/polymorph-v2-master.png",
+      "masterSha256": "8f54b8f1be3c0565866855acc68c2b5c83ae831081aea66d6981704deadaa517",
+      "candidate": "docs/design/whetstorm-art/abilities/mage/wave2/polymorph-v2.webp",
+      "candidateSha256": "b6a2827c2951880ef59ae3a751fa06e29b0d6d8b0cc660eec722dba28154c2b3",
+      "previousPrompt": "Use case: stylized-concept. Original square fantasy MMO ability icon painting for Bewitch, a temporary transformation: a single squat toad with a strong recognizable silhouette sits amid a curling violet magical mist, the faint outline of an anonymous humanoid dissolving behind it suggesting transformation. Large toad fills the frame, readable at 24 pixels, rich painterly textured brushwork, controlled magical highlights, dark muted indigo backdrop. Opaque edge-to-edge square. No text, letters, numerals, symbols, frame, watermark, or UI. Generate from text alone without reference images.",
+      "previousMaster": "docs/design/whetstorm-art/abilities/mage/wave2/polymorph-master.png",
+      "previousMasterSha256": "0edda961821b47ca758cf6cbb9649cf2b458115da4586c262707041eabcee76e",
+      "previousCandidate": "docs/design/whetstorm-art/abilities/mage/wave2/polymorph.webp",
+      "previousCandidateSha256": "c64a16454e9fc06bde5dc3cb9e7264797c5e50f33141a343b204f80438347e27",
+      "reviews": [
+        {
+          "path": "docs/design/whetstorm-art/abilities/mage/wave2/polymorph-v2-24-color.png",
+          "sha256": "43e6f550a90c748b4c6cf3b8e425093811c56bd399dcb1e555d6598e2d9d28bb"
+        },
+        {
+          "path": "docs/design/whetstorm-art/abilities/mage/wave2/polymorph-v2-24-gray.png",
+          "sha256": "cff3d65a1e66202a9b1aac23ef1ea397f64b0c5ac401ec7c89d3b5b3a3352d44"
+        },
+        {
+          "path": "docs/design/whetstorm-art/abilities/mage/wave2/polymorph-v2-32-color.png",
+          "sha256": "3b2225669242f2afc7d74ab9f0d2b4d719a255661e43303113e5351802215133"
+        },
+        {
+          "path": "docs/design/whetstorm-art/abilities/mage/wave2/polymorph-v2-32-gray.png",
+          "sha256": "a2d910f0f88457cc8fc7c8269badafc6319d60d2c3280d30f5151dec1d772302"
+        }
+      ],
+      "previousReviews": [
+        {
+          "path": "docs/design/whetstorm-art/abilities/mage/wave2/polymorph-24-color.png",
+          "sha256": "9a581bd4c3020255fa7a0746557175b295782a1c1b3760091f6bafb269c879d4"
+        },
+        {
+          "path": "docs/design/whetstorm-art/abilities/mage/wave2/polymorph-24-gray.png",
+          "sha256": "59e679c3cb28bc604671e651eddac1d53b13305acec32add04a386b15b24cacf"
+        },
+        {
+          "path": "docs/design/whetstorm-art/abilities/mage/wave2/polymorph-32-color.png",
+          "sha256": "c5e6be8fa97daadca76210e3adcff4d94bde859ea17e7e024f220eef7ad11a42"
+        },
+        {
+          "path": "docs/design/whetstorm-art/abilities/mage/wave2/polymorph-32-gray.png",
+          "sha256": "80f48d3f5465207a2786877d1628d9a06359a1c45dc04e36f2b1b57ed0f55e4e"
+        }
+      ]
+    }
+  ],
+  "pathScope": "All artwork paths are relative to the private art checkout and the identical source-evidence copy in the game checkout. Runtime paths are listed separately under gamePilotContext.",
+  "gamePilotContext": {
+    "status": "Routed in the separate experimental game pilot; gameplay and release rights review remain pending.",
+    "runtimeUrls": {
+      "counterspell": "/ui/whetstorm/abilities/mage_early_counterspell.webp",
+      "polymorph": "/ui/whetstorm/abilities/mage_early_polymorph.webp"
+    }
+  }
+}

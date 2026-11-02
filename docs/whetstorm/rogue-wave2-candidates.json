@@ -1,0 +1,75 @@
+{
+  "generator": "OpenAI built-in image generation, text only",
+  "status": "Experimental pilot candidates; independent static review passed. Gameplay and release rights approval remain pending. Hashes identify bytes, not rights or approval.",
+  "references": "None; both generated independently from text, without image references.",
+  "processing": "Sharp 0.35.4: rotate, centre cover resize to 128x128, sRGB, WebP quality 82, smartSubsample true, effort 6; metadata stripped. Review shows 24, 32, 48 pixel downscales enlarged nearest-neighbor, color above grayscale.",
+  "entries": [
+    {
+      "id": "slice_and_dice",
+      "liveResolver": "/ui/skills/rogue/slice_and_dice.webp",
+      "learnLevel": 10,
+      "effect": "Finisher increases melee attack speed.",
+      "prompt": "Use case: stylized-concept. Asset type: one original square fantasy MMORPG Rogue ability icon for Cutthroat Tempo, a finisher that speeds up melee attacks. Show two short steel daggers in a clear rotating pinwheel, their tips tracing two wide bright gold curved motion arcs around a dark center. Strong separated blade silhouettes, large simple shapes and a readable sense of repeated rapid strikes at 24 pixels. Hand-painted dark fantasy game illustration, steel silver and warm amber against an opaque charcoal background, dramatic light, restrained detail. No hand, human figure, injury, blood, text, letters, numbers, border, logo, watermark, or imitation of an existing game or artist.",
+      "master": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/slice-and-dice-wave2-master.png",
+        "sha256": "a2fb9cee97f5dbc44c2f1bdb7aa267c48f8f098986fac625c9bc4640f8141958",
+        "bytes": 2018511,
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/candidates/slice-and-dice-wave2.webp",
+        "sha256": "6d87eb047308cd0a4132e797ed74e60efae3aadb1e27a6a9f2ca365907d4cad9",
+        "bytes": 4434,
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "review": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/reviews/slice-and-dice-wave2-static.png",
+        "sha256": "c62edeee469d7dbd323b26ea482c3756df496bf11e72371049d27f26fca244ad"
+      },
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/rogue_early_slice_and_dice.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art repository path."
+      }
+    },
+    {
+      "id": "crippling_poison",
+      "liveResolver": "/ui/skills/rogue/crippling_poison.webp",
+      "learnLevel": 12,
+      "effect": "Nature damage and movement slow.",
+      "prompt": "Use case: stylized-concept. Asset type: one original square fantasy MMORPG Rogue ability icon for Leaden Venom, a poison strike that slows movement. Show a single large luminous green poison droplet splashing onto a simple gray iron boot, with one short heavy downward chevron-shaped green splash suggesting slowed movement. The boot and droplet occupy most of the square and have clear contrasting silhouettes at 24 pixels. Hand-painted dark fantasy game illustration, dark charcoal opaque full-bleed background, moss green and silver-gray, dramatic directional lighting, simple shapes, restrained detail. No person, no wounds, no blood, no text, letters, numbers, border, logo, watermark, or imitation of an existing game or artist.",
+      "master": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/crippling-poison-wave2-master.png",
+        "sha256": "4dedb8ded927927531a1e996e46890e5b6fcb3014edc144f96ceba0ba0dda0ef",
+        "bytes": 1951223,
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/candidates/crippling-poison-wave2.webp",
+        "sha256": "41bb5990e349fcd5d5b7961ef8d4282845cbdd497be68157be0ebbddfeb606a0",
+        "bytes": 3106,
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "review": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/reviews/crippling-poison-wave2-static.png",
+        "sha256": "3a1d2e82bfa188efaadfafebcd439aa9bb9d4f4a598efeb6709f5046c137f52e"
+      },
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/rogue_early_crippling_poison.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art repository path."
+      }
+    }
+  ],
+  "validation": "Both masters and candidates fully decoded with alpha 255 throughout. Independent static review accepted both for experimental pilot at 24, 32 and 48 pixels in color and grayscale; poison boot is contextual at 24 pixels. Gameplay action-bar and rights review remain pending."
+}

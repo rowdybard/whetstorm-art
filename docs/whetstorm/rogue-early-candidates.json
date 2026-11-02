@@ -1,0 +1,92 @@
+{
+  "generator": "OpenAI built-in image generation, text only",
+  "status": "Gouge and Cheap Shot v2 experimental pilot deliveries; Cheap Shot v1 remains unrouted. Gameplay and release rights approval remain pending. Hashes identify bytes, not rights.",
+  "processing": "sharp 0.35.4: rotate, centre cover resize to 128x128, sRGB, WebP quality 82, smartSubsample true, effort 6; metadata stripped. Review images show 24, 32, 48 pixel downscales enlarged with nearest neighbor, color above grayscale.",
+  "entries": [
+    {
+      "id": "gouge",
+      "prompt": "Use case: stylized-concept. Asset type: original square fantasy MMORPG ability icon for Rogue Gouge. Illustrate a dark leather gloved hand delivering a quick two-finger jab toward the eye area of a simple wooden training mannequin in side profile; the fingers and mannequin face are large and clearly separated. A small gold impact flash marks the contact. Non-graphic, no injury, no blood. Hand-painted dark fantasy game art, charcoal opaque full-bleed background, dramatic warm light, bold silhouette and restrained detail, readable at 24 pixels. No text, numbers, frame, logo, watermark, or imitation of existing games or artists.",
+      "master": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/gouge-early-master.png",
+        "sha256": "6f7f96d0baccb3aa3aed029b81249f7308eff25f3e7d2a86d5dfb71d729f4a31",
+        "bytes": 2004067,
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/candidates/gouge-early.webp",
+        "sha256": "a0134f6974bc9b114cc5f293447454aa59e910ae62cc224669b20e35fbaa500a",
+        "bytes": 3484,
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "review": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/reviews/gouge-early-static.png",
+        "sha256": "c237a72fa2286f51a7a4669e07d043bf5d18ebf192812f39f6376f10714c6e94"
+      },
+      "references": "None; text-only independent generation.",
+      "runtimeUrl": "/ui/whetstorm/abilities/rogue_early_gouge.webp"
+    },
+    {
+      "id": "cheap_shot",
+      "prompt": "Use case: stylized-concept. Asset type: one original square fantasy MMORPG Rogue Cheap Shot ability icon. A close-up of a dark leather gloved fist viewed from the front, knuckles facing the viewer, descending from above against deep violet shadow. Behind the fist a large single yellow four-point impact star suggests a stunning surprise strike. Only the fist and star, no other objects or figures. Distinctive bold centered silhouette readable at 24 pixels. Hand-painted dark fantasy game art, dramatic violet and amber light, opaque full-bleed charcoal background, restrained detail. No blood, injury, weapons, text, numbers, frame, logo, watermark, or imitation of existing games or artists.",
+      "master": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/cheap-shot-early-master.png",
+        "sha256": "b25d4781878ea40778bc866e5c41a223c2b60811f1a8b79dadda3fadce6d3c85",
+        "bytes": 2010525,
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/candidates/cheap-shot-early.webp",
+        "sha256": "6138eefb386679bd2e3962274f8c1a3d93315babe2ba24afdf86d7cfe4416fd2",
+        "bytes": 2900,
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "review": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/reviews/cheap-shot-early-static.png",
+        "sha256": "28be463441faad68d3c08015778bfc051400f589a1e9c6c6341ad1b92120c454"
+      },
+      "references": "None; text-only independent generation."
+    },
+    {
+      "id": "cheap_shot_v2",
+      "references": "None; text-only independent generation.",
+      "prompt": "Use case: stylized-concept. One original square fantasy MMORPG Rogue Cheap Shot ability icon. A huge single pale silver-gray leather gloved fist seen straight on, four clearly delineated bright knuckles, striking toward the viewer. The fist occupies most of the square and is LIGHT against a near-black purple background; its outer edge must be unmistakable in grayscale at 24 pixels. A small warm gold impact spark sits below it, secondary to the fist. Bold simplified painted shapes, dramatic dark fantasy brushwork, fully opaque image. No other objects, people, blood, injury, weapons, text, border, logos, watermark, or imitation of any existing game or artist.",
+      "master": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/cheap-shot-early-v2-master.png",
+        "sha256": "303c13e1b4a88c52ce5977e44db48ef757731b2df73b739534295bf074c21d6e",
+        "bytes": 2572829,
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/candidates/cheap-shot-early-v2.webp",
+        "sha256": "b43d1ed8236290abfb3677845b26cddb480ec2f2307b006b2917c7b2eadbff56",
+        "bytes": 3878,
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "review": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/reviews/cheap-shot-early-v2-static.png",
+        "sha256": "e1e748cb62a3943134e1373d733130892b5f9f9f882002a448c7240cdda8fa00"
+      },
+      "runtimeUrl": "/ui/whetstorm/abilities/rogue_early_cheap_shot.webp"
+    }
+  ],
+  "validation": "All masters and candidates decoded fully opaque. Gouge and Cheap Shot v2 passed independent static review in color and grayscale at 24, 32 and 48 pixels. Cheap Shot v1 fist disappears in grayscale at 24px and remains unrouted. Gameplay action-bar review and rights approval remain pending.",
+  "pathContext": "Master, candidate and review paths are relative to the private art checkout. Runtime URLs describe the separate experimental game pilot and are not files in this art checkout."
+}
