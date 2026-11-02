@@ -1,0 +1,46 @@
+{
+  "generator": "OpenAI built-in image generation, 2026-11-02",
+  "referenceImages": [],
+  "processing": "sharp resize 128x128, WebP quality 82, alphaQuality 100, effort 6, smartSubsample true. Review shows 24 and 32 pixels in color and grayscale with nearest-neighbor enlargements.",
+  "status": "Experimental pilot candidates; independent static color and grayscale review completed. Gameplay verification, rights clearance, and release approval remain outstanding. Hashes and generation do not establish rights.",
+  "review": "docs/design/whetstorm-art/abilities/hunter/survival/hunter_wildheart_shellskin_review.png",
+  "records": [
+    {
+      "id": "wildheart",
+      "name": "Wildheart",
+      "learnLevel": 6,
+      "liveLegacyRoute": "/ui/skills/hunter/wildheart.webp",
+      "meaning": "Immediately restore 30% of maximum health.",
+      "prompt": "Create one original square opaque painted dark fantasy RPG ability icon for Wildheart, a hunter ability that instantly restores health. Show one bold heart-shaped cluster of fresh green leaves around a warm luminous center, no anatomical heart, against a dark forest charcoal background. The single heart silhouette must read clearly at 24 to 32 pixels. Restrained gold light and textured painterly brushwork, high contrast, minimal detail. No person, face, animal, weapon, text, letters, numbers, border, logo, watermark, or imitation of existing games or artists. Generate from text alone, no image references.",
+      "master": "docs/design/whetstorm-art/abilities/hunter/survival/hunter_wildheart_master.png",
+      "masterSha256": "ff47eb821b0e436b82b221b623d652c54f62c305478d7b8694788aa32834a884",
+      "candidate": "docs/design/whetstorm-art/abilities/hunter/survival/hunter_wildheart_candidate.webp",
+      "candidateSha256": "56b0e51db46423b6abf89e5498c08ce3ce889fc4d1ad780faab48600b2cdf2b8",
+      "sourceSha256": "ff47eb821b0e436b82b221b623d652c54f62c305478d7b8694788aa32834a884",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/hunter_early_wildheart.webp",
+        "sha256": "56b0e51db46423b6abf89e5498c08ce3ce889fc4d1ad780faab48600b2cdf2b8",
+        "status": "Routed in the separate experimental game pilot; gameplay and release rights review remain pending."
+      }
+    },
+    {
+      "id": "shellskin",
+      "name": "Shellskin",
+      "learnLevel": 8,
+      "liveLegacyRoute": "/ui/skills/hunter/shellskin.webp",
+      "meaning": "Reduce damage taken by 60% for 8 seconds while preventing attacks.",
+      "prompt": "Create one original square opaque painted dark fantasy RPG ability icon for Shellskin, a hunter ability that greatly reduces damage while preventing attacks. Show one solid domed tortoise-shell shield viewed from the front, strong overlapping bronze-brown shell plates and a few subtle impact sparks glancing off its surface. No turtle head, limbs, people, weapons, text, letters, numbers, outer border, logo, watermark, or imitation of existing games or artists. Clear broad defensive silhouette at 24 to 32 pixels, dark cool slate background, hand-painted textured brushwork, restrained detail and dramatic contrast. Generate from text alone, no image references.",
+      "master": "docs/design/whetstorm-art/abilities/hunter/survival/hunter_shellskin_master.png",
+      "masterSha256": "cdad1521dc5d20b1312d92ddd1976f3e9d4205a20335d386429d0bdc7650631b",
+      "candidate": "docs/design/whetstorm-art/abilities/hunter/survival/hunter_shellskin_candidate.webp",
+      "candidateSha256": "d095d5aa71d593fadba9aff58e866ed09428a613b43b68fb2e859df2e1065ee2",
+      "sourceSha256": "cdad1521dc5d20b1312d92ddd1976f3e9d4205a20335d386429d0bdc7650631b",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/hunter_early_shellskin.webp",
+        "sha256": "d095d5aa71d593fadba9aff58e866ed09428a613b43b68fb2e859df2e1065ee2",
+        "status": "Routed in the separate experimental game pilot; gameplay and release rights review remain pending."
+      }
+    }
+  ],
+  "pathContext": "Master, candidate and review paths are relative to the private art repository. Game source evidence mirrors these files under docs/whetstorm/ability-art-source-evidence/."
+}

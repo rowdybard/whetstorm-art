@@ -1,0 +1,76 @@
+{
+  "generator": "OpenAI built-in image generation, text-only independent generations; no image references.",
+  "status": "Experimental pilot candidates; independent static review passed. Gameplay and release rights approval remain pending. Hashes identify bytes, not rights or approval.",
+  "processing": "Sharp 0.35.4: rotate, centre cover resize to 128x128, sRGB, WebP quality 82, smartSubsample true, effort 6; metadata stripped. Reviews show 24, 32, 48 pixel downscales enlarged nearest-neighbor, color above grayscale.",
+  "entries": [
+    {
+      "id": "venom_dart",
+      "liveResolver": "/ui/skills/rogue/venom_dart.webp",
+      "learnLevel": 14,
+      "effect": "Ranged Nature damage from a poisoned dart.",
+      "prompt": "Use case: stylized-concept. One original square fantasy MMORPG Rogue ability icon for Venom Dart, a ranged poisoned dart attack. Show one large slender silver throwing dart flying diagonally from lower left to upper right, with a luminous green poisoned tip and a broad pale green motion trail behind it. A single simple projectile, clearly distinguished from a dagger and readable at 24 pixels, high-value silhouette on opaque near-black forest-green backdrop. Hand-painted dark fantasy game art, restrained detail, dramatic light. No hand, body, target, blood, flask, text, letters, numbers, border, logo, watermark, or imitation of any existing game or artist.",
+      "master": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/venom-dart-wave4-master.png",
+        "sha256": "d85b1cdfe658a5d1a670c51e70d7db6b2bdc7e701fdc7929043d185336f47636",
+        "bytes": 1510287,
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/candidates/venom-dart-wave4.webp",
+        "sha256": "b7f5e49ad66acddb325eeb2e527f96a9f67575eaebf47e32c5825e2fc6e3f688",
+        "bytes": 1870,
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "review": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/reviews/venom-dart-wave4-static.png",
+        "sha256": "c4f396c531a319e73323ac25fee7af1e8cf8a35be7e1183635bc6d3d64b030d3"
+      },
+      "references": "None; text-only independent generation.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/rogue_early_venom_dart.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art repository path."
+      }
+    },
+    {
+      "id": "instant_poison",
+      "liveResolver": "/ui/skills/rogue/instant_poison.webp",
+      "learnLevel": 14,
+      "effect": "Coats weapon to add Nature damage to future swings.",
+      "prompt": "Use case: stylized-concept. One original square fantasy MMORPG Rogue ability icon for Adder's Bite, which coats a weapon with poison for bonus Nature damage on future strikes. A large pale silver dagger blade angled upward, with a single bright green liquid streak visibly coating its cutting edge; above its edge a small uncorked glass vial pours the coating in one clear stream. Strong contrast and simple large silhouettes, dagger and vial distinct at 24 pixels in grayscale. Hand-painted dark fantasy game art, opaque charcoal background, jade green and silver, dramatic lighting, restrained detail. No hand, person, target, injury, blood, text, letters, numbers, border, logo, watermark, or imitation of existing games or artists.",
+      "master": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/instant-poison-wave4-master.png",
+        "sha256": "09f64bd0e30f3b67d4726bc07943b34600b95e1caf17c93cae4477b0fd86a981",
+        "bytes": 1869785,
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/candidates/instant-poison-wave4.webp",
+        "sha256": "be42391bd54fad1cc4194caaecf85bee81a9eb0dd7f11745982c1ea16fbef212",
+        "bytes": 2816,
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "review": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/reviews/instant-poison-wave4-static.png",
+        "sha256": "cd9491aec0d37521c33a4e66e59103e2c73d32833a5d0b0d505b98b66b34d345"
+      },
+      "references": "None; text-only independent generation.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/rogue_early_instant_poison.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art repository path."
+      }
+    }
+  ],
+  "validation": "Masters and candidates fully decoded alpha 255 throughout. Independent static review accepted both at 24, 32 and 48 pixels in color and grayscale; coating vial and stream lose detail at 24 pixels in grayscale. Gameplay action-bar and rights review remain pending."
+}

@@ -2199,3 +2199,11 @@ reviews are in `docs/whetstorm/hunter-signatures-pilot-candidates.json`,
 directory. Additional unshipped Hunter and Warrior alternates are documented in
 `hunter-early-candidates.json` and `warrior-early-candidates.json`. Game routes
 are experimental; gameplay and release-rights review remain pending.
+
+Additional original Hunter survival, Paladin ground and aura, and Rogue poison
+ability candidates were created with OpenAI's built-in image generation. Their
+prompts, references where applicable, masters, hashes and static reviews are
+recorded in `docs/whetstorm/hunter-survival-pilot-candidates.json`,
+`paladin-consecration-candidates.json`, `paladin-retribution-aura-candidates.json`,
+and `rogue-wave4-candidates.json` in that directory. Game routes remain
+experimental; gameplay and release-rights review are pending.

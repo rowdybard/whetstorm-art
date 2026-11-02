@@ -1,0 +1,40 @@
+{
+  "generator": "OpenAI built-in image_gen",
+  "id": "retribution_aura",
+  "name": "Requital Aura",
+  "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon, legible at 24 pixels and in grayscale. Create an original 2D painted icon for Requital Aura, a paladin party aura that returns holy damage to melee attackers and adds holy damage to allies' attacks. Show a single bold bright golden circular ring of outward-pointing thorn-like light rays, with one dark central core and two prominent bright sparks bursting outward from its edge to suggest retaliation. Keep the silhouette simple and separate from dark navy charcoal background. Warm holy gold, strong value contrast, textured hand-painted fantasy art. Reference image is for painterly style and palette only; do not reproduce its sword or composition. Full bleed, no shield, boot, figure, text, letters, numbers, frame, logo or watermark.",
+  "reference": {
+    "path": "docs/design/whetstorm-art/abilities/paladin/paladin_ground_aura_style_reference_seal.webp",
+    "sha256": "22c6d1e91037030b38d0fe62ea9e7ca4e65b89315168e5147fbe0d25bd0402f2",
+    "source": "game checkout public/ui/whetstorm/abilities/paladin_starter_seal_of_righteousness.webp",
+    "role": "Style and palette reference only, prior generated Whetstorm pilot. Rights and release clearance not independently verified."
+  },
+  "generatedSource": {
+    "sha256": "e9455905eafa473a7ebb7ff03214d87eae5fa135a54be05b3e0c6b4a86c36bac",
+    "description": "Built-in generated PNG, byte-identical to master"
+  },
+  "master": {
+    "path": "docs/design/whetstorm-art/abilities/paladin/paladin_early_retribution_aura_master.png",
+    "sha256": "e9455905eafa473a7ebb7ff03214d87eae5fa135a54be05b3e0c6b4a86c36bac",
+    "dimensions": [
+      1254,
+      1254
+    ]
+  },
+  "candidate": {
+    "path": "docs/design/whetstorm-art/abilities/paladin/candidates/paladin_early_retribution_aura.webp",
+    "sha256": "3f0e4cd33a522bc1754ff58ce51a55557076e6e9387ad1809da129c6858f034d",
+    "dimensions": [
+      128,
+      128
+    ]
+  },
+  "processing": "Pillow RGB Lanczos resize to 128x128, WebP quality 90 method 6; previews from candidate resized using Lanczos to 24 or 32 pixels, grayscale via Pillow grayscale and nearest-neighbor enlargement 10x.",
+  "gamePilotContext": {
+    "existingInheritedUrl": "/ui/skills/paladin/retribution_aura.webp",
+    "sha256": "3f0e4cd33a522bc1754ff58ce51a55557076e6e9387ad1809da129c6858f034d",
+    "runtimeUrl": "/ui/whetstorm/abilities/paladin_early_retribution_aura.webp",
+    "note": "Separate experimental game checkout; not a delivery in the art repository."
+  },
+  "status": "Experimental pilot candidate. Independent static 24px grayscale review found the filled ground field and dark-centered spiked ring distinct; precise mechanics are contextual. Gameplay review, rights assessment and release clearance remain pending; hashes do not establish rights."
+}

@@ -1,0 +1,40 @@
+{
+  "generator": "OpenAI built-in image_gen",
+  "id": "consecration",
+  "name": "Holy Ground",
+  "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon, legible at 24 pixels and in grayscale. Create an original 2D painted icon for Holy Ground, a paladin ability that consecrates an area beneath the caster and repeatedly damages enemies standing there. Show a close, slightly overhead view of dark stone ground split by one wide radiant golden circular field, with a simple central sunburst glowing upward from the stone. Convey an area on the ground, not a floating shield or a weapon. Strong contrast, bold simple shapes, navy charcoal shadows and warm gold holy light, textured hand-painted fantasy art. Reference image is for painterly style and palette only; do not reproduce its sword or composition. Full bleed, no character, text, letters, numbers, frame, logo or watermark.",
+  "reference": {
+    "path": "docs/design/whetstorm-art/abilities/paladin/paladin_ground_aura_style_reference_seal.webp",
+    "sha256": "22c6d1e91037030b38d0fe62ea9e7ca4e65b89315168e5147fbe0d25bd0402f2",
+    "source": "game checkout public/ui/whetstorm/abilities/paladin_starter_seal_of_righteousness.webp",
+    "role": "Style and palette reference only, prior generated Whetstorm pilot. Rights and release clearance not independently verified."
+  },
+  "generatedSource": {
+    "sha256": "f5c50d75586da24bb85a95fbb8226b3604649cc8c9826775c62d82eda7580741",
+    "description": "Built-in generated PNG, byte-identical to master"
+  },
+  "master": {
+    "path": "docs/design/whetstorm-art/abilities/paladin/paladin_early_consecration_master.png",
+    "sha256": "f5c50d75586da24bb85a95fbb8226b3604649cc8c9826775c62d82eda7580741",
+    "dimensions": [
+      1254,
+      1254
+    ]
+  },
+  "candidate": {
+    "path": "docs/design/whetstorm-art/abilities/paladin/candidates/paladin_early_consecration.webp",
+    "sha256": "cb64a3d5d1f8442366bf92697bd0d2b9d78cf130b5c41e4baec9551ec759beab",
+    "dimensions": [
+      128,
+      128
+    ]
+  },
+  "processing": "Pillow RGB Lanczos resize to 128x128, WebP quality 90 method 6; previews from candidate resized using Lanczos to 24 or 32 pixels, grayscale via Pillow grayscale and nearest-neighbor enlargement 10x.",
+  "gamePilotContext": {
+    "existingInheritedUrl": "/ui/skills/paladin/consecration.webp",
+    "sha256": "cb64a3d5d1f8442366bf92697bd0d2b9d78cf130b5c41e4baec9551ec759beab",
+    "runtimeUrl": "/ui/whetstorm/abilities/paladin_early_consecration.webp",
+    "note": "Separate experimental game checkout; not a delivery in the art repository."
+  },
+  "status": "Experimental pilot candidate. Independent static 24px grayscale review found the filled ground field and dark-centered spiked ring distinct; precise mechanics are contextual. Gameplay review, rights assessment and release clearance remain pending; hashes do not establish rights."
+}
