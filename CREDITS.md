@@ -2212,3 +2212,10 @@ The original stylized Sableweb Lurker portrait was created with OpenAI's
 built-in image generation. Its prompt, master, candidate hash, and static
 review are recorded in `docs/whetstorm/webwood-spider-stylized-candidate.json`.
 The pilot's in-game visual and release-rights reviews remain pending.
+
+Original Breadbind, Temporal Mend, Anointing and Hushword ability candidates
+were created with OpenAI's built-in image generation. Prompts, masters, hashes
+and static reviews are in `docs/whetstorm/mage-breadbind-candidate.json`,
+`mage-temporal-mend-candidate.json`, and `priest-anointing-hushword-candidates.json`
+in that directory. Game routes are experimental; gameplay and release-rights
+review remain pending.

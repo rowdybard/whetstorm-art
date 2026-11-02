@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "status": "Routed in the separate experimental game pilot after static review; gameplay and release rights review remain pending.",
+  "prompt": "Use case: stylized-concept\nAsset type: square fantasy MMORPG ability icon, readable at 24 pixels.\nPrimary request: Breadbind, a mage conjures two servings of bread that restore health when eaten. Depict two chunky golden-brown bread rolls forming in a luminous violet magical binding ribbon, with a few rising sparks.\nStyle: polished painterly high-fantasy game icon, richly colored, tactile, strong silhouette, dramatic lighting, dark indigo backdrop. Composition: large centered bread forms, simple shapes, clear at tiny sizes, edge-to-edge square painting.\nConstraints: no text, letters, frame, border, watermark, hands, bottles or water. Original artwork.",
+  "references": "No image inputs; independent text-only generation.",
+  "master": {
+    "path": "docs/design/whetstorm-art/abilities/mage/breadbind-pilot/conjure_food-master.png",
+    "sha256": "612cfd826a0cb1b1fe43a0b8eb63d7e97d9aef313a50e6bf86c9c5d5ae1c0abf"
+  },
+  "candidate": {
+    "path": "docs/design/whetstorm-art/abilities/mage/breadbind-pilot/conjure_food-candidate.webp",
+    "sha256": "b0a5ee4db788f28825abc7fe0ed76a6418fa8b5935c860782777d885d893b15f"
+  },
+  "review": {
+    "path": "docs/design/whetstorm-art/abilities/mage/breadbind-pilot/conjure_food-review.png",
+    "sha256": "8dcd7da7a69cec11e72245a81980478646c8952896618b6e76144b29a475e72d",
+    "sizesPx": [
+      24,
+      32
+    ],
+    "modes": [
+      "color",
+      "grayscale"
+    ]
+  },
+  "processing": "Sharp resize 128x128, sRGB, WebP quality 82, alphaQuality 100, smartSubsample true, effort 6.",
+  "gamePilotContext": {
+    "runtimeUrl": "/ui/whetstorm/abilities/mage_early_conjure_food.webp",
+    "note": "Separate game pilot checkout runtime URL; not an art repository file or route.",
+    "sha256": "b0a5ee4db788f28825abc7fe0ed76a6418fa8b5935c860782777d885d893b15f"
+  }
+}

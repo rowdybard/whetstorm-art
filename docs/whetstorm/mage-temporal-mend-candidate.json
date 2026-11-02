@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "status": "Routed in the separate experimental game pilot after static review; gameplay and release rights review remain pending.",
+  "prompt": "Use case: stylized-concept\nAsset type: square fantasy MMORPG ability icon, readable at 24 pixels.\nPrimary request: Temporal Mend, a chronomancer heals an ally by drawing them into a healthier future. Depict a single healthy luminous heart symbol restored within a bold, nearly complete circular time-and-healing halo, with an unmistakable clockwise sweep and a few bright healing sparks. Make the heart and circular halo distinct in grayscale through strong light-dark contrast.\nStyle: polished painterly high-fantasy game icon, simple bold silhouette, dramatic lighting, deep dark backdrop, luminous ivory-gold heart and pale aqua time halo. Composition: centered large heart and thick circular halo, edge-to-edge square painting, clear at tiny sizes.\nConstraints: healthy unbroken heart, no cracks, injury, blood, anatomical detail, text, letters, numerals, clock face, border, watermark, hands, characters, or weapons. Original artwork.",
+  "references": "No image inputs; independent text-only generation.",
+  "master": {
+    "path": "docs/design/whetstorm-art/abilities/mage/temporal-mend-v2-pilot/temporal_mend-v2-master.png",
+    "sha256": "25d155923481adf41e8f6d237796d8dfe5ab0700735c8ddc0586535a22b3a171"
+  },
+  "candidate": {
+    "path": "docs/design/whetstorm-art/abilities/mage/temporal-mend-v2-pilot/temporal_mend-candidate.webp",
+    "sha256": "aae6615c447705adb95310fe8985cd3d0283db1153bb93de5789bcd1214b58a6"
+  },
+  "review": {
+    "path": "docs/design/whetstorm-art/abilities/mage/temporal-mend-v2-pilot/temporal_mend-v2-review.png",
+    "sha256": "77423b84f3bb7a90078dece4b31017f944a8b2d2ea55127fc2d50398b2ab0c44",
+    "sizesPx": [
+      24,
+      32
+    ],
+    "modes": [
+      "color",
+      "grayscale"
+    ]
+  },
+  "processing": "Sharp resize 128x128, sRGB, WebP quality 82, alphaQuality 100, smartSubsample true, effort 6.",
+  "gamePilotContext": {
+    "runtimeUrl": "/ui/whetstorm/abilities/mage_early_temporal_mend.webp",
+    "note": "Separate game pilot checkout runtime URL; not an art repository file or route.",
+    "sha256": "aae6615c447705adb95310fe8985cd3d0283db1153bb93de5789bcd1214b58a6"
+  }
+}

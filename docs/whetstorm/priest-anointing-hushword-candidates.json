@@ -1,0 +1,48 @@
+{
+  "generator": "OpenAI built-in image generation, 2026-11-02",
+  "referenceImages": [],
+  "processing": "Sharp resize 128x128 fit fill Lanczos3, flatten black, sRGB, WebP quality 82, alphaQuality 100, effort 6, smartSubsample true. Review shows 24 and 32 pixels in color and grayscale with nearest-neighbor enlargements.",
+  "status": "Experimental pilot candidates; independent static color and grayscale review completed. Gameplay verification, rights clearance, and release approval remain outstanding. Hashes and generation do not establish rights.",
+  "review": "docs/design/whetstorm-art/abilities/priest/anointing-hushword/priest_anointing_hushword_v2_review.png",
+  "records": [
+    {
+      "id": "power_infusion",
+      "name": "Anointing",
+      "learnLevel": 10,
+      "liveLegacyRoute": "/ui/skills/priest/power_infusion.webp",
+      "meaning": "Anoints a friendly target, increasing damage, healing, and casting speed by 20% for 15 sec.",
+      "prompt": "Use case: stylized-concept\nAsset type: square fantasy MMO ability icon readable at 24 pixels.\nPrimary request: Anointing, a blessing that improves an ally. Show one simple upright light ivory oil flask, with a short neck and wide rounded body, and one large bold golden droplet floating clearly beside it. The flask and droplet must be separate, strongly contrasting shapes. Fill most of the frame with these two forms.\nStyle: original painterly dark fantasy art, broad shapes, restrained gold highlights on pale ceramic, dark blue-black background. Legibility in grayscale and at 24 pixels takes priority over ornament or effects.\nConstraints: no flames, no hands, no characters, no heart, no shield, no lettering, no border, no watermark. No copyrighted visual references or image inputs.",
+      "master": "docs/design/whetstorm-art/abilities/priest/anointing-hushword/priest_early_power_infusion_v2_master.png",
+      "masterSha256": "9fbd70393eb70ea256b51d521be976c553a4262d76a104c491f54468a28a6a61",
+      "candidate": "docs/design/whetstorm-art/abilities/priest/anointing-hushword/priest_early_power_infusion_v2_candidate.webp",
+      "candidateSha256": "fba1495d801dd6072cdaf0dfb889d8cf92c1aa239d270f09ffa33d0b4dd682b9",
+      "sourceSha256": "9fbd70393eb70ea256b51d521be976c553a4262d76a104c491f54468a28a6a61",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/priest_early_power_infusion.webp",
+        "sha256": "fba1495d801dd6072cdaf0dfb889d8cf92c1aa239d270f09ffa33d0b4dd682b9",
+        "status": "Routed in the separate experimental game pilot; gameplay and release rights review remain pending.",
+        "note": "Separate game checkout; not an art-repository delivery."
+      }
+    },
+    {
+      "id": "silence",
+      "name": "Hushword",
+      "learnLevel": 10,
+      "liveLegacyRoute": "/ui/skills/priest/silence.webp",
+      "meaning": "Silences the target for 4 sec.",
+      "prompt": "Use case: stylized-concept\nAsset type: square fantasy MMO ability icon readable at 24 pixels.\nPrimary request: Hushword, a spell that silences an enemy. Show one large bright ivory metal bell, centered and upright, with two thick dark purple-black binding straps crossing separately over its front. Make both straps bold and clearly separated from the light bell and each other; the bell silhouette must remain unmistakable.\nStyle: original painterly dark fantasy art, broad simple shapes, restrained metallic highlights, dark charcoal background. Legibility in grayscale and at 24 pixels takes priority over ornament or effects.\nConstraints: no faces, skulls, eyes, hands, sound waves, lettering, border or watermark. No copyrighted visual references or image inputs.",
+      "master": "docs/design/whetstorm-art/abilities/priest/anointing-hushword/priest_early_silence_v2_master.png",
+      "masterSha256": "54168aa9f2c5282f52d5082775330ccc84f073158ebb429f61aaa6aa68810311",
+      "candidate": "docs/design/whetstorm-art/abilities/priest/anointing-hushword/priest_early_silence_v2_candidate.webp",
+      "candidateSha256": "0bc47071dc6cb9c9a11bdebd90986ee9256164bad92a104e2a977aab8448ad35",
+      "sourceSha256": "54168aa9f2c5282f52d5082775330ccc84f073158ebb429f61aaa6aa68810311",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/priest_early_silence.webp",
+        "sha256": "0bc47071dc6cb9c9a11bdebd90986ee9256164bad92a104e2a977aab8448ad35",
+        "status": "Routed in the separate experimental game pilot; gameplay and release rights review remain pending.",
+        "note": "Separate game checkout; not an art-repository delivery."
+      }
+    }
+  ],
+  "pathContext": "Master, candidate and review paths are relative to the private art repository. Game source evidence mirrors these files under docs/whetstorm/ability-art-source-evidence/."
+}
