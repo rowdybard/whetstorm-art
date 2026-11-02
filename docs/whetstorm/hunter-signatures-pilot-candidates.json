@@ -1,0 +1,47 @@
+{
+  "generator": "OpenAI built-in image generation, 2026-11-02",
+  "referenceImages": [],
+  "processing": "sharp resize 128x128, WebP quality 82, alphaQuality 100, effort 6, smartSubsample true. Review shows 24 and 32 pixels in color and grayscale with nearest-neighbor enlargements.",
+  "status": "Experimental pilot candidates; independent static color and grayscale review completed. Gameplay verification, rights clearance, and release approval remain outstanding. Hashes and generation do not establish rights.",
+  "review": "docs/design/whetstorm-art/abilities/hunter/signatures/hunter_bloodhook_cold_focus_review.png",
+  "records": [
+    {
+      "id": "bloodhook",
+      "name": "Bloodhook",
+      "learnLevel": 5,
+      "liveLegacyRoute": "/ui/skills/hunter/bloodhook.webp",
+      "meaning": "Charge to an enemy and apply a wound that deals damage over time.",
+      "prompt": "Create one original square opaque painted dark fantasy RPG ability icon for Bloodhook, a hunter ability that rushes toward an enemy and leaves a lingering wound. Show a single heavy iron grappling hook angled diagonally forward, its barbed tip in sharp focus, with a short sweeping crimson motion trail behind it. No blood, injury, person, animal, target, or gore. Bold uncluttered silhouette readable at 24 to 32 pixels against dark charcoal and deep burgundy. Textured painterly brushwork, controlled highlights, dramatic contrast. No text, letters, numbers, frame, logo, watermark, or imitation of existing games or artists. Generate from text alone, no image references.",
+      "master": "docs/design/whetstorm-art/abilities/hunter/signatures/hunter_bloodhook_master.png",
+      "masterSha256": "029035eb61d7e6865207683880fdc1ba3a55260be42612e3bf982eba04aef248",
+      "candidate": "docs/design/whetstorm-art/abilities/hunter/signatures/hunter_bloodhook_candidate.webp",
+      "candidateSha256": "bd96e9bcada2cb1bd422fa71a997cc3eada1e4b9cbeaee794b697409bc2d1722",
+      "sourceSha256": "029035eb61d7e6865207683880fdc1ba3a55260be42612e3bf982eba04aef248",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/hunter_early_bloodhook.webp",
+        "sha256": "bd96e9bcada2cb1bd422fa71a997cc3eada1e4b9cbeaee794b697409bc2d1722",
+        "status": "Routed in the separate experimental game pilot; gameplay and release rights review remain pending."
+      }
+    },
+    {
+      "id": "cold_focus",
+      "name": "Cold Focus",
+      "learnLevel": 5,
+      "liveLegacyRoute": "/ui/skills/hunter/cold_focus.webp",
+      "meaning": "Temporarily increases Focus restored by Measured Shot and reduces Long Draw cost and cast time. Frost imagery is a thematic cue, not a damage type.",
+      "prompt": "Create one original square opaque painted dark fantasy RPG ability icon for Cold Focus, a hunter's short burst of efficient, faster ranged shooting. Show one bright frost-blue arrowhead centered inside a simple incomplete ring of icy light, the arrowhead pointing upward. A few fine frost crystals accent the ring. No bow, person, animal, face, target, text, letters, numbers, frame, logo, watermark, or imitation of existing games or artists. A bold clear shape readable at 24 to 32 pixels against deep indigo charcoal, textured painterly brushwork, controlled highlights and high contrast. Generate from text alone, no image references.",
+      "master": "docs/design/whetstorm-art/abilities/hunter/signatures/hunter_cold_focus_master.png",
+      "masterSha256": "06901cb22ef4ab100d2e2bf5675be5710b96d5792aea0eee9e80dbad14309e88",
+      "candidate": "docs/design/whetstorm-art/abilities/hunter/signatures/hunter_cold_focus_candidate.webp",
+      "candidateSha256": "5d1d7115b788988bb6a2168a5d0e78a233d7578f14d597c0ccb9256b30b9fef8",
+      "sourceSha256": "06901cb22ef4ab100d2e2bf5675be5710b96d5792aea0eee9e80dbad14309e88",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/hunter_early_cold_focus.webp",
+        "sha256": "5d1d7115b788988bb6a2168a5d0e78a233d7578f14d597c0ccb9256b30b9fef8",
+        "status": "Routed in the separate experimental game pilot; gameplay and release rights review remain pending."
+      }
+    }
+  ],
+  "pathContext": "Master, candidate and review paths are relative to the private art repository. Game source evidence mirrors these files under docs/whetstorm/ability-art-source-evidence/.",
+  "reviewNotes": "Bloodhook hook is somewhat abstract at 24px; Cold Focus frost is thematic and does not imply its damage type."
+}

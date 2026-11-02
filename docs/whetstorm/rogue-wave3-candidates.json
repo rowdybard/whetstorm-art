@@ -1,0 +1,131 @@
+{
+  "generator": "OpenAI built-in image generation, text-only independent generations; no image references.",
+  "status": "v2 accepted for experimental pilot after independent static review; v1 remains unrouted. Gameplay and release rights approval remain pending. Hashes identify bytes, not rights or approval.",
+  "references": "Text-only independent generations; no image references.",
+  "processing": "Sharp 0.35.4: rotate, centre cover resize to 128x128, sRGB, WebP quality 82, smartSubsample true, effort 6; metadata stripped. Reviews show 24, 32, 48 pixel downscales enlarged nearest-neighbor, color above grayscale.",
+  "entries": [
+    {
+      "id": "ambush",
+      "liveResolver": "/ui/skills/rogue/ambush.webp",
+      "learnLevel": 4,
+      "effect": "Stealth dagger attack from behind.",
+      "prompt": "Use case: stylized-concept. Asset type: one original square fantasy MMORPG Rogue ability icon for Lurker's Strike, a dagger attack from stealth behind a target. Show a single shadowy hooded figure in side silhouette emerging from violet mist behind a simple wooden training mannequin's shoulder, with one short bright silver dagger raised close behind it. Figure and mannequin have clearly separated large silhouettes; dagger is visible against the dark. Close crop, readable at 24 pixels. Hand-painted dark fantasy game illustration, opaque near-black background with cool violet rim light and silver accents, restrained details. No wounds, blood, text, letters, numbers, frame, logo, watermark, or imitation of an existing game or artist.",
+      "master": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/ambush-wave3-v1-master.png",
+        "sha256": "2baaa8f616591f9f4c357d59e00f4fc54f45ede8b28be07c6224071f8a82a77f",
+        "bytes": 1772586,
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/candidates/ambush-wave3-v1.webp",
+        "sha256": "22f98d2594adcf6378e6f84b938c38d472c9acfaf46c398eefd3135d2bc0194c",
+        "bytes": 3138,
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "review": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/reviews/ambush-wave3-v1-static.png",
+        "sha256": "1848c262742dc9098b7341757d3626acfabdb68074852c8f0593ecc349eb8d69"
+      },
+      "version": "v1"
+    },
+    {
+      "id": "rupture",
+      "liveResolver": "/ui/skills/rogue/rupture.webp",
+      "learnLevel": 14,
+      "effect": "Finisher inflicts periodic bleed damage.",
+      "prompt": "Use case: stylized-concept. Asset type: one original square fantasy MMORPG Rogue ability icon for Bleed Out, a finishing attack that causes repeated bleeding over time. Show three large separated crimson droplets falling in a descending diagonal from a single shallow slash in a piece of dark leather armor, no body visible. Droplets bold and bright with clean silhouettes against opaque black-burgundy backdrop, clearly readable at 24 pixels. Hand-painted dark fantasy game illustration, dramatic lighting, minimal detail, non-graphic symbolic representation. No person, exposed flesh, gore, weapons, text, letters, numbers, frame, logo, watermark, or imitation of an existing game or artist.",
+      "master": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/rupture-wave3-v1-master.png",
+        "sha256": "0590d6c991bf359731f45aa7bfb90de741b00f5b0010f2ae6371c6d7b3baf267",
+        "bytes": 1848002,
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/candidates/rupture-wave3-v1.webp",
+        "sha256": "ad8139f000327aa1e3a9c040fa6f0ebc1a481832d018238db4a3d625d3a1c962",
+        "bytes": 2354,
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "review": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/reviews/rupture-wave3-v1-static.png",
+        "sha256": "50e0e82e9bf8dffbe9cc499c2dad53e8e362a7eb45a6d6dbfe22ba3719d67e66"
+      },
+      "version": "v1"
+    },
+    {
+      "id": "ambush",
+      "prompt": "Use case: stylized-concept. One original square fantasy MMORPG Rogue icon for Lurker's Strike, a stealth dagger attack from behind. A single pale silver dagger, large and unmistakable, points diagonally downward toward the back of a simple wooden mannequin shoulder at lower right. Behind it, a simplified hooded shadow figure is defined by a thick pale lavender rim-light silhouette against near-black. The dagger and hood must be high-value and clearly separated in grayscale at 24 pixels. Very few large shapes, hand-painted dark fantasy game illustration, opaque background. No injury, blood, gore, words, numbers, border, logo, watermark, or imitation of existing games or artists.",
+      "master": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/ambush-wave3-v2-master.png",
+        "sha256": "5c6dd5c4e3fd68a646329d62f55fb308b3827208df1bdbb82a9cefbc2b5a4660",
+        "bytes": 1405808,
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/candidates/ambush-wave3-v2.webp",
+        "sha256": "8299af97f4a973e60be3c82fe7087996cfb31131ea3e759db9a6f43a19d4542c",
+        "bytes": 2992,
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "review": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/reviews/ambush-wave3-v2-static.png",
+        "sha256": "dac2c417c2e3e5dd6df504cc5c71bf544f8ce3f029aa9222b89723d261080ede"
+      },
+      "version": "v2",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/rogue_early_ambush.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art repository path."
+      }
+    },
+    {
+      "id": "rupture",
+      "prompt": "Use case: stylized-concept. One original square fantasy MMORPG Rogue icon for Bleed Out, a finisher causing repeated bleeding over time. Three large separated light pink-white crimson drops descend diagonally across a nearly black burgundy background, with a simple bright red slash along the upper edge to suggest their source. The drops are very bright and stand out strongly in grayscale, with generous space between them; unmistakable at 24 pixels. Non-graphic symbolic illustration, no body or flesh. Hand-painted dark fantasy game art, opaque background, few large shapes and restrained detail. No weapon, person, gore, letters, numbers, border, logo, watermark, or imitation of existing games or artists.",
+      "master": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/rupture-wave3-v2-master.png",
+        "sha256": "e1509f560df9baaa27b758904771ee31f42dd3b0052623950ad7567d0580c72b",
+        "bytes": 1657274,
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/candidates/rupture-wave3-v2.webp",
+        "sha256": "77bb6201624d8c020e347f52e15a94edbd75af05707817071d13c349764452a9",
+        "bytes": 2082,
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "review": {
+        "file": "docs/design/whetstorm-art/abilities/rogue/reviews/rupture-wave3-v2-static.png",
+        "sha256": "bd643bff24d7168e7d0d17d972094a612f5bb6bfebf444a0b6556807b63a10dc"
+      },
+      "version": "v2",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/rogue_early_rupture.webp",
+        "note": "Separate game pilot checkout runtime URL; not an art repository path."
+      }
+    }
+  ],
+  "validation": "All masters and candidates decoded fully opaque. Independent static review accepted v2 dagger and hood and v2 droplets at 24, 32 and 48 pixels in color and grayscale; v1 rejected for low contrast at 24 pixels. Gameplay action-bar and rights review remain pending."
+}

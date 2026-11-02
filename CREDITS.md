@@ -2189,3 +2189,13 @@ are recorded in `docs/whetstorm/mage-early-candidates.json`,
 `hunter-guises-pilot-candidates.json`, `priest-fortitude-candidates.json` and
 `priest-veilstep-candidates.json` in that directory. Alternate versions remain
 unrouted. Gameplay and release-rights review remain pending.
+
+Original Hunter, Paladin, and Rogue ability candidates and stylized Forest Wolf
+and Wild Boar portraits were created with OpenAI's built-in image generation.
+Their prompts, reference lineage where applicable, masters, hashes and static
+reviews are in `docs/whetstorm/hunter-signatures-pilot-candidates.json`,
+`paladin-devotion-ward-candidates.json`, `paladin-solar-step-candidates.json`,
+`rogue-wave3-candidates.json`, and `early-mob-stylized-candidates.json` in that
+directory. Additional unshipped Hunter and Warrior alternates are documented in
+`hunter-early-candidates.json` and `warrior-early-candidates.json`. Game routes
+are experimental; gameplay and release-rights review remain pending.

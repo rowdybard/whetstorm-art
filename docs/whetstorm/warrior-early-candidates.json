@@ -1,0 +1,72 @@
+{
+  "generator": "OpenAI built-in image_gen",
+  "reference": {
+    "path": "docs/design/whetstorm-art/abilities/warrior/warrior_early_style_reference_battle_shout.webp",
+    "sha256": "ea2d0aff3f7b3b28b9e126c8318d15e5513018bbca4ebce777a47a31553c9fb7",
+    "role": "Style and palette reference only",
+    "origin": "public/ui/whetstorm/abilities/warrior_starter_battle_shout.webp in game checkout",
+    "status": "Prior generated Whetstorm pilot asset; generation record docs/whetstorm/launch-class-starter-ability-generation.json. Reference rights and release clearance are not independently verified."
+  },
+  "processing": "Pillow: convert master to RGB, resize to 128x128 with Lanczos, WebP quality 90 method 6. Preview uses Lanczos resize to 32x32 then nearest-neighbor enlargement to 256x256.",
+  "status": "Unshipped alternate candidates, not routed. Existing original Whetstorm art already serves both abilities. Author inspected static 32px previews; Charge boot and motion meaning may require context. No gameplay review or release approval is claimed. Hashes and generated-image status do not establish rights or clearance.",
+  "records": [
+    {
+      "id": "heroic_strike",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon, read clearly at 32 pixels. Create an original 2D painted illustration for the warrior's Heroic Strike: a single broad steel longsword cutting diagonally upward through a bright amber slash, forceful close-up silhouette, no character. Dark deep red and charcoal background, luminous molten gold accents, textured hand-painted fantasy game art, dramatic high contrast. Reference image is a style and palette reference only: do not reproduce its horn or composition. Full bleed square image, no frame, no text, no letters, no watermark.",
+      "generatedSource": {
+        "description": "Original built-in image_gen PNG, byte-identical to master",
+        "sha256": "fa1dee2e2996494c988b168fbdf0fa1412ed2de75521a471aab25e8a9d2ba62e"
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warrior/warrior_early_heroic_strike_master.png",
+        "sha256": "fa1dee2e2996494c988b168fbdf0fa1412ed2de75521a471aab25e8a9d2ba62e",
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/warrior/candidates/warrior_early_heroic_strike.webp",
+        "sha256": "c6352f24470e441628b20912444c67ae83ae25ec5532b34038e6626ba8455500",
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "staticReview": {
+        "path": "docs/design/whetstorm-art/abilities/warrior/review/warrior_early_heroic_strike_32px.png",
+        "description": "32x32 Lanczos preview enlarged to 256x256 with nearest-neighbor"
+      },
+      "existingGameRoute": "/ui/whetstorm/abilities/heroic_strike.webp"
+    },
+    {
+      "id": "charge",
+      "prompt": "Use case: stylized-concept. Asset type: square fantasy MMO ability icon, readable at 32 pixels. Create an original 2D painted illustration for a warrior's Charge: a single heavy steel armored boot lunging diagonally forward, with a strong golden motion streak behind it, no figure or weapon. Dark deep red and charcoal background, glowing amber accents, textured hand-painted fantasy game art, bold close-up silhouette and dramatic high contrast. Reference image is a style and palette reference only: do not reproduce its horn or composition. Full bleed square image, no frame, no text, no letters, no watermark.",
+      "generatedSource": {
+        "description": "Original built-in image_gen PNG, byte-identical to master",
+        "sha256": "c0f907f5445418eb0fab3d7e208f04194f506fe04446e6ac1e626329a4dca886"
+      },
+      "master": {
+        "path": "docs/design/whetstorm-art/abilities/warrior/warrior_early_charge_master.png",
+        "sha256": "c0f907f5445418eb0fab3d7e208f04194f506fe04446e6ac1e626329a4dca886",
+        "dimensions": [
+          1254,
+          1254
+        ]
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/abilities/warrior/candidates/warrior_early_charge.webp",
+        "sha256": "98bdb57fb876c61c1813411e81bdaa0a91eed672156f34ca3863acd17b35b81b",
+        "dimensions": [
+          128,
+          128
+        ]
+      },
+      "staticReview": {
+        "path": "docs/design/whetstorm-art/abilities/warrior/review/warrior_early_charge_32px.png",
+        "description": "32x32 Lanczos preview enlarged to 256x256 with nearest-neighbor"
+      },
+      "existingGameRoute": "/ui/whetstorm/abilities/charge.webp"
+    }
+  ]
+}

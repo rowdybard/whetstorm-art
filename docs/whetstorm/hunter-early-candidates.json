@@ -1,0 +1,44 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "referenceImages": [],
+  "processing": "sharp Lanczos3 resize to 128x128, WebP quality 82, alphaQuality 100, effort 6, smartSubsample true; opaque PNG source",
+  "status": "Unshipped alternate candidates only. Existing original Whetstorm art already routes for both ability IDs; these alternatives are not routed. Static review performed; gameplay review and release approval remain outstanding. Generation and hashes do not establish rights or license clearance.",
+  "records": [
+    {
+      "id": "pack_command",
+      "prompt": "Create an original painted dark fantasy RPG ability icon for Pack Command, square and opaque. A powerful wolf's head in three-quarter profile, jaws open in a commanding call, with one bold warm golden arc radiating outward behind it. Painterly textured brushwork, rich dark background, controlled highlights, focused close-up with a clear silhouette readable at 32 pixels. No text, letters, symbols, frame, watermark, or UI. Original art, no reference images.",
+      "source": "docs/design/whetstorm-art/abilities/hunter/pack_command_early.png",
+      "sourceSha256": "d0a96ac68e9216e8185b9757aec371740828debea137dbae662106c0b238b4ff",
+      "master": "docs/design/whetstorm-art/abilities/hunter/pack_command_early.png",
+      "masterSha256": "d0a96ac68e9216e8185b9757aec371740828debea137dbae662106c0b238b4ff",
+      "candidate": "docs/design/whetstorm-art/abilities/hunter/candidates/pack_command_early.webp",
+      "candidateSha256": "951dc60709c3546283697d832c0ff0a80fb65757fcc2d5986c0ee5a8d433d1f3",
+      "staticReview": "docs/design/whetstorm-art/abilities/hunter/candidates/pack_command_early_review.png",
+      "masterDimensions": [
+        1254,
+        1254
+      ],
+      "candidateDimensions": [
+        128,
+        128
+      ],
+      "status": "Unshipped alternate candidate; existing original Whetstorm route remains unchanged."
+    },
+    {
+      "id": "measured_shot",
+      "status": "Unshipped alternate candidate; existing original Whetstorm route remains unchanged.",
+      "prompt": "Create an original painted dark fantasy RPG ability icon for Measured Shot, square and opaque. One sturdy wooden hunting bow held fully drawn, with a single silver arrow pointing diagonally toward the upper right; a small distant amber point of light at its tip suggests precise aim. Painterly textured brushwork, rich dark blue charcoal background, controlled warm highlights, large simple silhouette readable at 32 pixels. No human face, no text, letters, symbols, frame, watermark, or UI. Original art, no reference images.",
+      "source": "docs/design/whetstorm-art/abilities/hunter/measured_shot_early.png",
+      "sourceSha256": "7779773cb2e89ed1652befcb226187d7e3649f1a5378ae4aa213766b0e8b36e1",
+      "master": "docs/design/whetstorm-art/abilities/hunter/measured_shot_early.png",
+      "masterSha256": "7779773cb2e89ed1652befcb226187d7e3649f1a5378ae4aa213766b0e8b36e1",
+      "candidate": "docs/design/whetstorm-art/abilities/hunter/candidates/measured_shot_early.webp",
+      "candidateSha256": "85500bac2e7b3bea5700df510479daddf5a0b9a79d6820db1187521e7c622357",
+      "staticReview": "docs/design/whetstorm-art/abilities/hunter/candidates/measured_vs_aimed_early_review.png",
+      "comparison": "public/ui/whetstorm/abilities/hunter_core_aimed_shot.webp",
+      "comparisonSha256": "ea74434ab40bb8e2c61d64fefd24bd9da2a03795d10ec433df47270b443c2345",
+      "comparisonNotes": "At 24 and 32 pixels the cool dark Measured Shot is distinguishable by color and composition from the bright gold Aimed Shot, but both read as a drawn bow; confirm adjacent in actual UI."
+    }
+  ],
+  "pathContext": "Source, master, candidate and staticReview paths refer to the private art checkout. Game checkout has Pack Command source evidence under docs/whetstorm/ability-art-source-evidence/. Comparison path refers to the isolated game checkout."
+}

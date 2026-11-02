@@ -1,0 +1,45 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "referenceImages": [],
+  "referenceStatus": "Fresh text-only generations, no edit or image references.",
+  "processing": "Sharp Lanczos3 resize to 128x128, WebP quality 90, effort 6. Each review image shows the resized candidate at 32px and 48px, enlarged to 192px by nearest-neighbor sampling.",
+  "review": {
+    "path": "docs/design/whetstorm-art/mobs/review/early-mob-stern-v2-32-48.png",
+    "sha256": "574dd946a15b401e0e6f7d69a7079980a271088acb45cc5e96631b14317cd7e1",
+    "assessment": "Generator and independent static review passed at 32 and 48 pixels. Real-game review remains pending."
+  },
+  "limitations": "Experimental pilot only; gameplay, visual consistency and release rights review pending. Hashes identify bytes, not rights.",
+  "records": [
+    {
+      "id": "forest_wolf",
+      "prompt": "Create one original square target portrait for a stylized fantasy game: a dark gray forest wolf with broad muzzle, compact chunky proportions and triangular ears, head and shoulders against a simple dark woodland background. Its mouth is closed, brows subtly lowered and eyes focused, conveying alert, stern hostility without snarling, gore or exaggerated menace. Hand-painted illustration with simplified rounded shapes, soft brush texture and restrained detail; playful low-poly fantasy game sensibility. Clear silhouette and face at 32 and 48 pixels. Opaque full-bleed image; no text, lettering, border, logo, watermark, copied game design or image references.",
+      "master": "docs/design/whetstorm-art/mobs/forest_wolf_stern_v2.png",
+      "masterSha256": "70412a38b380d345bc246b46bd3ab61399bcd8082d4031150ae094cfd335c194",
+      "candidate": "docs/design/whetstorm-art/mobs/candidates/forest_wolf_stern_v2.webp",
+      "candidateSha256": "78f37955052f3330ac3da6b23f16bfe1ba41272b6c03506e92b12e02270e2784",
+      "generatedSourceSha256": "70412a38b380d345bc246b46bd3ab61399bcd8082d4031150ae094cfd335c194",
+      "sourceVerification": "Generated source bytes matched the copied master at packaging time.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/mobs/forest_wolf.webp",
+        "sha256": "78f37955052f3330ac3da6b23f16bfe1ba41272b6c03506e92b12e02270e2784",
+        "note": "Separate experimental game checkout; the similarly named public file in this art checkout is an older, different portrait."
+      }
+    },
+    {
+      "id": "wild_boar",
+      "prompt": "Create one original square target portrait for a stylized fantasy game: a chunky russet brown wild boar with broad round snout, short curved ivory tusks, small dark eyes and rounded bristly back behind its head, against a simple muted woodland background. Its mouth is closed, brow subtly lowered and eyes focused, conveying alert, stern hostility without snarling, gore or exaggerated menace. Hand-painted illustration with simplified rounded shapes, soft brush texture and restrained detail; playful low-poly fantasy game sensibility. Clear silhouette and face at 32 and 48 pixels. Opaque full-bleed image; no text, lettering, border, logo, watermark, copied game design or image references.",
+      "master": "docs/design/whetstorm-art/mobs/wild_boar_stern_v2.png",
+      "masterSha256": "e9ed64b2e2f5dbff140a3b0243f0886356143cc53a4dd4b33794433138314e3a",
+      "candidate": "docs/design/whetstorm-art/mobs/candidates/wild_boar_stern_v2.webp",
+      "candidateSha256": "ae0797cdab9e0f90e8d7f828d580755691d288abe88a12304fadde6f1aa9bf37",
+      "generatedSourceSha256": "e9ed64b2e2f5dbff140a3b0243f0886356143cc53a4dd4b33794433138314e3a",
+      "sourceVerification": "Generated source bytes matched the copied master at packaging time.",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/mobs/wild_boar.webp",
+        "sha256": "ae0797cdab9e0f90e8d7f828d580755691d288abe88a12304fadde6f1aa9bf37",
+        "note": "Separate experimental game checkout; the similarly named public file in this art checkout is an older, different portrait."
+      }
+    }
+  ],
+  "pathContext": "Master, candidate and review paths are relative to this art checkout. Game pilot URLs describe separate files and must not be confused with the older art-checkout public portraits."
+}
