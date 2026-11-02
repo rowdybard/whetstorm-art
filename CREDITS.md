@@ -2207,3 +2207,8 @@ recorded in `docs/whetstorm/hunter-survival-pilot-candidates.json`,
 `paladin-consecration-candidates.json`, `paladin-retribution-aura-candidates.json`,
 and `rogue-wave4-candidates.json` in that directory. Game routes remain
 experimental; gameplay and release-rights review are pending.
+
+The original stylized Sableweb Lurker portrait was created with OpenAI's
+built-in image generation. Its prompt, master, candidate hash, and static
+review are recorded in `docs/whetstorm/webwood-spider-stylized-candidate.json`.
+The pilot's in-game visual and release-rights reviews remain pending.

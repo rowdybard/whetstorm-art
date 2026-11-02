@@ -1,0 +1,24 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "referenceImages": [],
+  "referenceStatus": "Fresh text-only generation, no edit or image references.",
+  "prompt": "Use case: stylized-concept\nAsset type: square 2D game enemy portrait, designed for display at 32 and 48 pixels.\nPrimary request: Create an original friendly-stylized woodland spider enemy portrait, a venomous web-spinner lurking in dark tangled woods. Make it alert and focused, with a stern enemy expression rather than frightening horror.\nSubject and composition: One spider, front-facing with a slight three-quarter view, large centered face and body, eight clearly separated chunky jointed legs arranged as a readable silhouette, and a small, simple cluster of distinct bright eyes. Keep the face and leg shapes legible at tiny sizes; fill most of the square without clipping the silhouette.\nStyle: hand-painted 2D fantasy game illustration, simplified rounded forms, bold clear shapes, painterly shading, warm restrained highlights, polished and approachable, consistent with stylized stern woodland animal portraits. No realism or 3D render.\nColor and background: deep muted plum-purple spider inspired by #4a235a, subtle warm brown and lavender highlights, against a simple dark woodland-toned background with enough contrast to separate its silhouette. Opaque image.\nConstraints: original design, no reference images, no tracing, no existing characters, no lettering, no logo, no border, no interface elements, no gore, no excessive small detail.\r\n",
+  "processing": "Sharp resize 1254x1254 RGB master to 128x128 with fit fill and Lanczos3, removeAlpha, WebP quality 90 and effort 6. Review downsamples the 128px WebP to 32px and 48px using Lanczos3, then enlarges each by 6x using nearest-neighbor.",
+  "master": "docs/design/whetstorm-art/mobs/webwood_spider_stylized_candidate.png",
+  "masterSha256": "8e64edf31896382b615612f21c5c0210a5e46fe46d0819734dcff9ca4346a203",
+  "generatedSourceSha256": "8e64edf31896382b615612f21c5c0210a5e46fe46d0819734dcff9ca4346a203",
+  "candidate": "docs/design/whetstorm-art/mobs/candidates/webwood_spider_stylized_candidate.webp",
+  "candidateSha256": "15b9efb1f4dbae460dd3baada73261cbaff779083701726a879f9ff425636b96",
+  "review": {
+    "path": "docs/design/whetstorm-art/mobs/review/webwood_spider_stylized_candidate_32_48.png",
+    "sha256": "650b808b13572a240d858798347e2f75aeab14be7efb738bb4e89267568058a1",
+    "assessment": "Independent static review found the spider identifiable at 32 and 48 pixels. Small eyes and rear leg separation soften at 32px; real-game review remains pending."
+  },
+  "limitations": "Experimental pilot; gameplay, consistency and release rights review pending. Hashes identify bytes, not rights.",
+  "gamePilotContext": {
+    "runtimeUrl": "/ui/whetstorm/mobs/webwood_spider.webp",
+    "sha256": "15b9efb1f4dbae460dd3baada73261cbaff779083701726a879f9ff425636b96",
+    "note": "Separate experimental game checkout; the similarly named public file in this art checkout is an older, different portrait."
+  },
+  "pathContext": "Master, candidate and review paths are relative to the art checkout. Game pilot URL refers to the separate game checkout."
+}
