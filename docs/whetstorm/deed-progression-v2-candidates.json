@@ -1,0 +1,48 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "referenceImages": [],
+  "referenceStatus": "Text-only generation; no image references.",
+  "processing": "Pillow Lanczos resize to 128x128; WebP quality 90 method 6.",
+  "review": {
+    "path": "docs/design/whetstorm-art/deeds/candidates/progression-v2-review-32-48-64.png",
+    "sha256": "1f498a96950c49b9411ded84ddce84b8794884d7f8dce9a619ca8bcbf89c45e0",
+    "description": "Candidate previews at 32, 48 and 64 pixels in color and grayscale. Independent static review found both distinct; First Steps is flatter and the sign is contextual."
+  },
+  "limitations": "Experimental pilot; in-game review and release rights approval remain pending. Hashes establish byte identity, not rights.",
+  "records": [
+    {
+      "id": "prog_first_steps",
+      "prompt": "Use case: stylized-concept. Create ONE original square fantasy MMORPG achievement crest for reaching level 2, First Steps. A single huge, unmistakable light ivory boot-sole footprint viewed straight on, with simple separated toe and heel pads, dominates a dark warm near-black circular field. Enclose it in a simple warm brass medal. Hand-painted fantasy art, strong value contrast, bold silhouette, legible at 32 pixels even in grayscale. Minimal detail, no other objects, no words, letters, numbers, symbols, logos, watermarks, or imitation of any existing game or artist. No reference images.",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/candidates/prog_first_steps-v2-master.png",
+        "sha256": "e1d7edb82f163bba355ea8801696e726e4a6eea9afc0652669c573d4405a1ef7"
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/deeds/candidates/prog_first_steps-v2-128.webp",
+        "sha256": "480a2dfc1e2a80ea83659f39080e94546ffc8ca474315fadc30bea253f17e634"
+      },
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/deeds/prog_first_steps.webp",
+        "sha256": "480a2dfc1e2a80ea83659f39080e94546ffc8ca474315fadc30bea253f17e634",
+        "note": "Separate experimental game pilot; not an art repository public delivery."
+      }
+    },
+    {
+      "id": "prog_finding_your_feet",
+      "prompt": "Use case: stylized-concept. Create ONE original square fantasy MMORPG achievement crest for reaching level 5, Finding Your Feet. A single large sturdy pale leather travel boot in clear side profile, beside a simple upright dark signpost with one blank arrow, fills a dark warm near-black circular field. Keep boot and signpost distinct with high contrast and uncluttered space. Enclose in a simple warm brass medal. Hand-painted fantasy art; bold silhouette, simple shapes and strong value contrast legible at 32 pixels even in grayscale. No additional objects, text, letters, numerals, logos, watermarks, or imitation of any existing game or artist. No reference images.",
+      "master": {
+        "path": "docs/design/whetstorm-art/deeds/candidates/prog_finding_your_feet-v2-master.png",
+        "sha256": "bb7f512aadb3e90fcc24452872f1e7752074390a0819cc47df70db36d3b79164"
+      },
+      "candidate": {
+        "path": "docs/design/whetstorm-art/deeds/candidates/prog_finding_your_feet-v2-128.webp",
+        "sha256": "08e573263c0a0d2d5ed0203b7e356c678dd54270978ae4a6212f7c27d74366a2"
+      },
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/deeds/prog_finding_your_feet.webp",
+        "sha256": "08e573263c0a0d2d5ed0203b7e356c678dd54270978ae4a6212f7c27d74366a2",
+        "note": "Separate experimental game pilot; not an art repository public delivery."
+      }
+    }
+  ]
+}

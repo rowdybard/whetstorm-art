@@ -2227,3 +2227,12 @@ built-in image generation. Prompts, masters, hashes, and static reviews are in
 `mage-evocation-candidates.json`, `priest-stilled-gloam-candidates.json`, and
 `tunnel-rat-stylized-v2-candidate.json` in that directory. Game routes are
 experimental; gameplay and release-rights review remain pending.
+
+Original progression deed, Mage and Priest ability candidates, and the
+stylized Restless Bones portrait were created with OpenAI's built-in image
+generation. Prompts, masters, hashes and static reviews are in
+`docs/whetstorm/deed-progression-v2-candidates.json`,
+`mage-ice-floes-candidate.json`, `mage-pyrelance-v2-candidate.json`,
+`priest-sunburst-tithefiend-candidates.json`, and
+`restless-bones-stylized-candidate.json` in that directory. Game routes are
+experimental; gameplay and release-rights review remain pending.

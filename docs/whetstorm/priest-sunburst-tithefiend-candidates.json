@@ -1,0 +1,48 @@
+{
+  "generator": "OpenAI built-in image generation, 2026-11-02",
+  "referenceImages": [],
+  "processing": "Sharp resize 128x128 fit fill Lanczos3, flatten black, sRGB, WebP quality 82, alphaQuality 100, effort 6, smartSubsample true. Review from candidate WebPs shows 24 and 32 pixels in color and grayscale with nearest-neighbor enlargements.",
+  "status": "Experimental pilot candidates; independent static color and grayscale review completed. Gameplay verification, rights clearance, and release approval remain outstanding. Hashes and generation do not establish rights.",
+  "review": "docs/design/whetstorm-art/abilities/priest/sunburst-tithefiend/priest_sunburst_tithefiend_review.png",
+  "records": [
+    {
+      "id": "holy_nova",
+      "name": "Sunburst Canticle",
+      "learnLevel": 10,
+      "liveLegacyRoute": "/ui/skills/priest/holy_nova.webp",
+      "meaning": "Heal allies within 10 yards and deal Holy damage to enemies in the same area.",
+      "prompt": "Use case: stylized-concept\nAsset type: square fantasy MMO ability icon, legible at 24 pixels in color and grayscale.\nPrimary request: Sunburst Canticle heals nearby allies and damages nearby enemies simultaneously. Paint a large luminous ivory sun disc emitting eight broad alternating gold rays outward in a symmetric radial burst. A clearly separated dark circular ring around the disc emphasizes an expanding area. The disc and rays fill the square, with bold simple high-contrast shapes.\nStyle: original textured painterly dark-fantasy game art, ivory and gold light against deep navy, restrained detail, opaque full-bleed background.\nConstraints: no hands, hearts, shields, figures, faces, lanterns, text, letters, borders, logos or watermark. No image inputs or copyrighted visual references.",
+      "master": "docs/design/whetstorm-art/abilities/priest/sunburst-tithefiend/priest_early_holy_nova_master.png",
+      "masterSha256": "e5169d9803a0632aaa05120c215c6526682d4566423b869f685f7be3ca3ab851",
+      "candidate": "docs/design/whetstorm-art/abilities/priest/sunburst-tithefiend/priest_early_holy_nova_candidate.webp",
+      "candidateSha256": "fc0b928531289011480874c5fe549d89cb9a68d5e5e589df46e4ee82d31be2d6",
+      "sourceSha256": "e5169d9803a0632aaa05120c215c6526682d4566423b869f685f7be3ca3ab851",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/priest_early_holy_nova.webp",
+        "sha256": "fc0b928531289011480874c5fe549d89cb9a68d5e5e589df46e4ee82d31be2d6",
+        "status": "Routed in the experimental game pilot; gameplay and release rights review remain pending.",
+        "note": "Separate game checkout; not an art-repository delivery."
+      }
+    },
+    {
+      "id": "summon_tithefiend",
+      "name": "Call Tithefiend",
+      "learnLevel": 10,
+      "liveLegacyRoute": "/ui/skills/priest/summon_tithefiend.webp",
+      "meaning": "Consume Gloomtithe to summon a temporary Shadow attacker.",
+      "prompt": "Use case: stylized-concept\nAsset type: square fantasy MMO ability icon, legible at 24 pixels in color and grayscale.\nPrimary request: Call Tithefiend summons a short-lived shadow creature to attack enemies. Paint one small stocky horned shadow creature seen from the front, with a large bright lavender silhouette, two broad swept horns, two stubby claws held forward, and a dark featureless face. A simple dark violet summoning ring surrounds its torso. Keep the creature and horns large and immediately recognizable.\nStyle: original textured painterly dark-fantasy game art, pale violet against charcoal-black, simple strong value grouping, restrained detail, opaque full-bleed background.\nConstraints: no skull, wings, human, weapons, text, letters, borders, logos or watermark. No image inputs or copyrighted visual references.",
+      "master": "docs/design/whetstorm-art/abilities/priest/sunburst-tithefiend/priest_early_summon_tithefiend_master.png",
+      "masterSha256": "441fb8681b9a049b951e534e95da409ae45d2bfa039916c64fa1f85df007119c",
+      "candidate": "docs/design/whetstorm-art/abilities/priest/sunburst-tithefiend/priest_early_summon_tithefiend_candidate.webp",
+      "candidateSha256": "03d83ccdfba48b2477a0227c5f2fc68b51052a45429016d59c82029bf6a2bed0",
+      "sourceSha256": "441fb8681b9a049b951e534e95da409ae45d2bfa039916c64fa1f85df007119c",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/priest_early_summon_tithefiend.webp",
+        "sha256": "03d83ccdfba48b2477a0227c5f2fc68b51052a45429016d59c82029bf6a2bed0",
+        "status": "Routed in the experimental game pilot; gameplay and release rights review remain pending.",
+        "note": "Separate game checkout; not an art-repository delivery."
+      }
+    }
+  ],
+  "pathContext": "Master, candidate and review paths are relative to the private art repository. Game source evidence mirrors these files under docs/whetstorm/ability-art-source-evidence/."
+}

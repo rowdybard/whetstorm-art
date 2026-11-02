@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "status": "Routed in the experimental game pilot after static review; gameplay and release rights review remain pending.",
+  "prompt": "Use case: stylized-concept\nAsset type: square fantasy MMORPG ability icon, readable at 24 pixels.\nPrimary request: Ice Floes, a frost mage talent allowing two cast-time spells while moving. Depict a single sturdy mage boot stepping forward on a small floating slab of ice, with a bright icy magical spark above the boot and two simple trailing motion streaks. The stepping boot and ice slab are the large clear silhouette.\nStyle: original painterly high-fantasy game icon, dramatic lighting, deep navy background, cool pale ice against dark boot, strong light-dark grayscale contrast, edge-to-edge square composition.\nConstraints: no text, numerals, frame, watermark, faces, full person, weapons, or imitation of existing games or art.",
+  "references": "No image inputs; independent text-only generation.",
+  "master": {
+    "path": "docs/design/whetstorm-art/abilities/mage/ice-floes-pilot/ice_floes-master.png",
+    "sha256": "1c31b225d6980db2bf24540bc2f714006c9fab5f6e03e159023dc257c95dcef4"
+  },
+  "candidate": {
+    "path": "docs/design/whetstorm-art/abilities/mage/ice-floes-pilot/ice_floes-candidate.webp",
+    "sha256": "e62da708b0f33944e420826729816b6de7593671bb2eb59868d880ce468cc1b5"
+  },
+  "review": {
+    "path": "docs/design/whetstorm-art/abilities/mage/ice-floes-pilot/ice_floes-review.png",
+    "sha256": "cb9bc49595407c8cfcb22b2070c80d3a91e8edbc78e3774779d8a3857374d7b1",
+    "sizesPx": [
+      24,
+      32
+    ],
+    "modes": [
+      "color",
+      "grayscale"
+    ]
+  },
+  "processing": "Sharp resize 128x128, sRGB, WebP quality 82, alphaQuality 100, smartSubsample true, effort 6.",
+  "gamePilotContext": {
+    "runtimeUrl": "/ui/whetstorm/abilities/mage_early_ice_floes.webp",
+    "note": "Separate game pilot checkout runtime URL; not an art repository file or route.",
+    "sha256": "e62da708b0f33944e420826729816b6de7593671bb2eb59868d880ce468cc1b5"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "restless_bones",
+  "generator": "OpenAI built-in image generation",
+  "referenceImages": [],
+  "referenceStatus": "Fresh text-only generation, no edit or image references. Inherited portrait inspected manually for general visual traits, not supplied to generator.",
+  "prompt": "Use case: stylized-concept\nAsset type: square 2D fantasy game enemy target portrait, designed to read at 32 and 48 pixels.\nPrimary request: Create one original portrait of an animated human skeleton enemy, with a large pale gray-ivory skull, rounded cranium, broad dark eye sockets with small warm yellow glows, nasal cavity and visible teeth. A stern, alert expression suggests a low-level undead foe without horror or gore.\nComposition: Close head-and-shoulders three-quarter view, skull centered and filling most of the square. Simple dim graveyard-toned background with strong separation around the skull; broad simple shapes that remain identifiable at tiny sizes.\nStyle: hand-painted 2D fantasy illustration, approachable stylized proportions, restrained painterly texture, soft warm highlights. Opaque full-bleed square image.\nConstraints: Original design, text-only generation, no image references, no tracing, no existing characters or copied game designs. No hat, helmet, jewelry, clothing, weapons, tools, props, text, logo, border, interface, gore, photorealism or 3D rendering.\n",
+  "processing": "Sharp resize 1254x1254 RGB master to 128x128 with fit fill and Lanczos3, removeAlpha, WebP quality 90 and effort 6. Review downsamples the 128px WebP to 32px and 48px using Lanczos3, then enlarges each by 6x using nearest-neighbor.",
+  "master": "docs/design/whetstorm-art/mobs/restless_bones_stylized_candidate.png",
+  "masterSha256": "6efd0da4b64177977c94ace73abcbfa1b0a463e0bb492f66dafe604daa07faa6",
+  "generatedSourceSha256": "6efd0da4b64177977c94ace73abcbfa1b0a463e0bb492f66dafe604daa07faa6",
+  "candidate": "docs/design/whetstorm-art/mobs/candidates/restless_bones_stylized_candidate.webp",
+  "candidateSha256": "d685fe6b9c6cb23d7d51ad858dbe9388d2e9466f912cac250ba11d1cee5f915f",
+  "review": {
+    "path": "docs/design/whetstorm-art/mobs/review/restless_bones_stylized_candidate_32_48.png",
+    "sha256": "02ce6c3848a2f088455b317947b491f6c863ed10540bfb0fbf93f8c64ecedf83",
+    "assessment": "Independent static review found the skull identifiable and consistent with the creature at 32 and 48 pixels. Teeth soften at 32px and bone tint is warmer. Real-game review remains pending."
+  },
+  "limitations": "Experimental pilot; gameplay, consistency and release rights review pending. Hashes identify bytes, not rights.",
+  "gamePilotContext": {
+    "runtimeUrl": "/ui/whetstorm/mobs/restless_bones.webp",
+    "sha256": "d685fe6b9c6cb23d7d51ad858dbe9388d2e9466f912cac250ba11d1cee5f915f",
+    "note": "Separate experimental game checkout; any similarly named public file in this art checkout is a different portrait."
+  },
+  "pathContext": "Master, candidate and review paths are relative to this art checkout. Game pilot URL describes a separate file."
+}
