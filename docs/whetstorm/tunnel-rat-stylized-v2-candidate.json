@@ -1,0 +1,25 @@
+{
+  "id": "tunnel_rat",
+  "generator": "OpenAI built-in image generation",
+  "referenceImages": [],
+  "referenceStatus": "Fresh text-only generation, no edit or image references.",
+  "prompt": "Use case: stylized-concept\nAsset type: square 2D fantasy game enemy target portrait, designed to read at 32 and 48 pixels.\nPrimary request: Create one original portrait of a stern gray-brown rat, an early-game burrowing enemy in a dark mine. The rat is alert and focused, approachable rather than horrifying.\nComposition: Centered close-up of the natural rat head, with a long pointed snout, large rounded ears, visible incisors and clear focused eyes. Use broad distinct shapes and clear facial contrast so the animal is recognizable at tiny sizes. Dark, simple earthen mine background.\nStyle: hand-painted 2D fantasy illustration, friendly stylized proportions, bold silhouette, restrained painterly texture and warm highlights. Gray-brown fur. Opaque full-bleed square image.\nConstraints: The animal is unadorned: no hat, lamp, scarf, clothing, tools, accessories, or human styling. Original design, no image references, no tracing, no existing characters or copied game designs. No text, logo, border, interface, gore, photorealism, or 3D rendering.\n",
+  "processing": "Sharp resize 1254x1254 RGB master to 128x128 with fit fill and Lanczos3, removeAlpha, WebP quality 90 and effort 6. Review downsamples the 128px WebP to 32px and 48px using Lanczos3, then enlarges each by 6x using nearest-neighbor.",
+  "master": "docs/design/whetstorm-art/mobs/tunnel_rat_stylized_v2_candidate.png",
+  "masterSha256": "81eb6744f90a634ba83f8c18e37bb2be91ac3892cb38fba3aa6c51b9d6456914",
+  "generatedSourceSha256": "81eb6744f90a634ba83f8c18e37bb2be91ac3892cb38fba3aa6c51b9d6456914",
+  "candidate": "docs/design/whetstorm-art/mobs/candidates/tunnel_rat_stylized_v2_candidate.webp",
+  "candidateSha256": "5bf8eedf6c0cb423893f88bac9494726cc907c9ddf0d51820add593c0bfe8e90",
+  "review": {
+    "path": "docs/design/whetstorm-art/mobs/review/tunnel_rat_stylized_v2_candidate_32_48.png",
+    "sha256": "cc25ffc1a761e116efd1837d1b70eb7984ef057fa20380181d803c5525a18c70",
+    "assessment": "Independent static review found the rat identifiable at 32 and 48 pixels; eye and whisker detail soften at 32px. Real-game review remains pending."
+  },
+  "limitations": "Experimental pilot; gameplay, consistency and release rights review pending. Hashes identify bytes, not rights.",
+  "gamePilotContext": {
+    "runtimeUrl": "/ui/whetstorm/mobs/tunnel_rat.webp",
+    "sha256": "5bf8eedf6c0cb423893f88bac9494726cc907c9ddf0d51820add593c0bfe8e90",
+    "note": "Separate experimental game checkout; any similarly named public file in this art checkout is a different portrait."
+  },
+  "pathContext": "Master, candidate and review paths are relative to this art checkout. Game pilot URL describes a separate file."
+}

@@ -2219,3 +2219,11 @@ and static reviews are in `docs/whetstorm/mage-breadbind-candidate.json`,
 `mage-temporal-mend-candidate.json`, and `priest-anointing-hushword-candidates.json`
 in that directory. Game routes are experimental; gameplay and release-rights
 review remain pending.
+
+Original Racing Mind, Aetherwell, Stilled Mind, and Gloamveil ability
+candidates and a stylized Deeprock Digger portrait were created with OpenAI's
+built-in image generation. Prompts, masters, hashes, and static reviews are in
+`docs/whetstorm/mage-presence_of_mind-candidates.json`,
+`mage-evocation-candidates.json`, `priest-stilled-gloam-candidates.json`, and
+`tunnel-rat-stylized-v2-candidate.json` in that directory. Game routes are
+experimental; gameplay and release-rights review remain pending.

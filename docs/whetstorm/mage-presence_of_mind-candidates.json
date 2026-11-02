@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "status": "Routed in the separate experimental game pilot after static review; gameplay and release rights review remain pending.",
+  "prompt": "Use case: stylized-concept\nAsset type: square fantasy MMORPG ability icon, readable at 24 pixels.\nPrimary request: Racing Mind, a mage talent that makes the next cast-time spell instant. Show a clear side-profile silhouette of a luminous ivory head facing right, with three bold tapered streaks sweeping behind it and a single small star at the temple to convey sudden mental speed.\nStyle: original painterly high-fantasy game icon, dramatic lighting, simplified bold silhouette, deep indigo background, ivory and cool violet highlights. Edge-to-edge square composition; strong grayscale contrast; the head fills most of the square.\nConstraints: no text, numerals, frame, watermark, eyes, gemstones, weapons, or detailed anatomy. No imitation of existing games or art.",
+  "references": "No image inputs; independent text-only generation.",
+  "master": {
+    "path": "docs/design/whetstorm-art/abilities/mage/mage-next-pilot/presence_of_mind-master.png",
+    "sha256": "a19a4abae719fa17abdc4416f071c6672d2be87f2fbd6178cc78f5b361565fee"
+  },
+  "candidate": {
+    "path": "docs/design/whetstorm-art/abilities/mage/mage-next-pilot/presence_of_mind-candidate.webp",
+    "sha256": "a126bec364deab111c4332cdbbc654ef6a04f1a6498569e7751a07f24282d6a9"
+  },
+  "review": {
+    "path": "docs/design/whetstorm-art/abilities/mage/mage-next-pilot/presence_of_mind-review.png",
+    "sha256": "cd01b553c10a718b54190c8bfd7ce17b8a58f3c5cda8bca3db00ca9b62dbb0d3",
+    "sizesPx": [
+      24,
+      32
+    ],
+    "modes": [
+      "color",
+      "grayscale"
+    ]
+  },
+  "processing": "Sharp resize 128x128, sRGB, WebP quality 82, alphaQuality 100, smartSubsample true, effort 6.",
+  "gamePilotContext": {
+    "runtimeUrl": "/ui/whetstorm/abilities/mage_early_presence_of_mind.webp",
+    "note": "Separate game pilot checkout runtime URL; not an art repository file or route.",
+    "sha256": "a126bec364deab111c4332cdbbc654ef6a04f1a6498569e7751a07f24282d6a9"
+  }
+}

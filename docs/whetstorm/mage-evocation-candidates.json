@@ -1,0 +1,32 @@
+{
+  "generator": "OpenAI built-in image generation",
+  "status": "Routed in the separate experimental game pilot after static review; gameplay and release rights review remain pending.",
+  "prompt": "Use case: stylized-concept\nAsset type: square fantasy MMORPG ability icon, readable at 24 pixels.\nPrimary request: Aetherwell, a mage channels power over several seconds to restore mana and build spell power. Depict a simple ancient stone well viewed slightly from above, with a bold luminous cyan column of magical energy rising from its dark opening and three large bright sparks rising along it. The upward flow is the focus.\nStyle: original painterly high-fantasy game icon, dramatic lighting, simple substantial shapes, deep dark blue background. Edge-to-edge square composition, strong light-dark grayscale contrast, large centered well and column.\nConstraints: no text, numbers, frame, watermark, hands, people, bottles, gems, or imitation of existing games or art.",
+  "references": "No image inputs; independent text-only generation.",
+  "master": {
+    "path": "docs/design/whetstorm-art/abilities/mage/mage-next-pilot/evocation-master.png",
+    "sha256": "f25eb9b9fda261b143601fbeca4c98db9a133334255cc835919f0d734ee0e61d"
+  },
+  "candidate": {
+    "path": "docs/design/whetstorm-art/abilities/mage/mage-next-pilot/evocation-candidate.webp",
+    "sha256": "b2e63e570ad4adeb6933d99285b542cc1b10542d548ff9f6a70ceb48b6068700"
+  },
+  "review": {
+    "path": "docs/design/whetstorm-art/abilities/mage/mage-next-pilot/evocation-review.png",
+    "sha256": "4c55e4ef9bb3f831e2ac4f7c008098647e2eb7ff1564c6ed22b48f1512bc77c7",
+    "sizesPx": [
+      24,
+      32
+    ],
+    "modes": [
+      "color",
+      "grayscale"
+    ]
+  },
+  "processing": "Sharp resize 128x128, sRGB, WebP quality 82, alphaQuality 100, smartSubsample true, effort 6.",
+  "gamePilotContext": {
+    "runtimeUrl": "/ui/whetstorm/abilities/mage_early_evocation.webp",
+    "note": "Separate game pilot checkout runtime URL; not an art repository file or route.",
+    "sha256": "b2e63e570ad4adeb6933d99285b542cc1b10542d548ff9f6a70ceb48b6068700"
+  }
+}

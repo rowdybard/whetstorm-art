@@ -1,0 +1,48 @@
+{
+  "generator": "OpenAI built-in image generation, 2026-11-02",
+  "referenceImages": [],
+  "processing": "Sharp resize 128x128 fit fill Lanczos3, flatten black, sRGB, WebP quality 82, alphaQuality 100, effort 6, smartSubsample true. Review from candidate WebPs shows 24 and 32 pixels in color and grayscale with nearest-neighbor enlargements.",
+  "status": "Experimental pilot candidates; independent static color and grayscale review completed. Gameplay verification, rights clearance, and release approval remain outstanding. Hashes and generation do not establish rights.",
+  "review": "docs/design/whetstorm-art/abilities/priest/stilled-gloam/priest_stilled_gloam_review.png",
+  "records": [
+    {
+      "id": "inner_focus",
+      "name": "Stilled Mind",
+      "learnLevel": 10,
+      "liveLegacyRoute": "/ui/skills/priest/inner_focus.webp",
+      "meaning": "Makes your next Priest spell free and uninterruptible. Lasts 60 sec.",
+      "prompt": "Use case: stylized-concept\nAsset type: square dark-fantasy MMO ability icon, readable at 24 pixels in color and grayscale.\nPrimary request: Stilled Mind makes the next priest spell free and uninterruptible. Depict one large ivory candle with a steady gold flame enclosed inside a simple dark bronze lantern with two thick protective vertical bars. The flame is isolated and undisturbed within the lantern. Make the lantern silhouette and flame distinct at small size.\nStyle: original painterly fantasy game art, broad contrasting light and dark value shapes, tactile metal and wax, deep midnight-blue background, minimal ornament, no border.\nConstraints: no hands, faces, figures, eyes, text, letters, logos or watermark. No image input or copyrighted visual references.",
+      "master": "docs/design/whetstorm-art/abilities/priest/stilled-gloam/priest_early_inner_focus_master.png",
+      "masterSha256": "2e1ef8c087e9d156384e543199f145179f8a4bf29bc11795ce6a1c15e0377450",
+      "candidate": "docs/design/whetstorm-art/abilities/priest/stilled-gloam/priest_early_inner_focus_candidate.webp",
+      "candidateSha256": "bce6b0a1dc0baa910d735e24b608a6e41a1dbcaf2bed08acba41fffb44c2fb9a",
+      "sourceSha256": "2e1ef8c087e9d156384e543199f145179f8a4bf29bc11795ce6a1c15e0377450",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/priest_early_inner_focus.webp",
+        "sha256": "bce6b0a1dc0baa910d735e24b608a6e41a1dbcaf2bed08acba41fffb44c2fb9a",
+        "status": "Routed in the separate experimental game pilot; gameplay and release rights review remain pending.",
+        "note": "Separate game checkout; not an art-repository delivery."
+      }
+    },
+    {
+      "id": "shadowform",
+      "name": "Gloamveil",
+      "learnLevel": 10,
+      "liveLegacyRoute": "/ui/skills/priest/shadowform.webp",
+      "meaning": "Enter Gloamveil, increasing your Shadow damage by 25%. Cast it again to leave Gloamveil.",
+      "prompt": "Use case: stylized-concept\nAsset type: square dark-fantasy MMO ability icon, readable at 24 pixels in color and grayscale.\nPrimary request: Gloamveil is a priest transformation that increases shadow damage. Depict one empty hooded cloak of deep violet shadow, with a bold pale lavender rim of light outlining its hood and pointed shoulders. Within the hood is a featureless dark void. Let the lower edge dissolve into three broad shadow wisps, expressing transformation into shadow.\nStyle: original painterly dark-fantasy game art, broad high-contrast shapes, deep charcoal background, crisp pale silhouette, restrained detail, no border.\nConstraints: no face, skull, eyes, hands, weapons, text, letters, logos or watermark. No image input or copyrighted visual references.",
+      "master": "docs/design/whetstorm-art/abilities/priest/stilled-gloam/priest_early_shadowform_master.png",
+      "masterSha256": "825fbf4d2c69acbe3b36716185c9f628bc3a92655dc452b52eba939a0754722b",
+      "candidate": "docs/design/whetstorm-art/abilities/priest/stilled-gloam/priest_early_shadowform_candidate.webp",
+      "candidateSha256": "9a17120fe3ce7062fd4b320b3791114fc66dd2c3cd8877acd221dcedde0d5785",
+      "sourceSha256": "825fbf4d2c69acbe3b36716185c9f628bc3a92655dc452b52eba939a0754722b",
+      "gamePilotContext": {
+        "runtimeUrl": "/ui/whetstorm/abilities/priest_early_shadowform.webp",
+        "sha256": "9a17120fe3ce7062fd4b320b3791114fc66dd2c3cd8877acd221dcedde0d5785",
+        "status": "Routed in the separate experimental game pilot; gameplay and release rights review remain pending.",
+        "note": "Separate game checkout; not an art-repository delivery."
+      }
+    }
+  ],
+  "pathContext": "Master, candidate and review paths are relative to the private art repository. Game source evidence mirrors these files under docs/whetstorm/ability-art-source-evidence/."
+}
